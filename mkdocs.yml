@@ -1,0 +1,26 @@
+site_name: Platinum Renegate Wiki
+site_url: https://fredericdlugi.github.io/platinum-renegate-wiki
+site_description: A fanmade wiki for Platinum Renegate.
+site_author: Frederic Dlugi
+
+repo_url: https://github.com/FredericDlugi/platinum-renegate-wiki/
+
+theme:
+    name: material
+
+nav:
+    - Pokémon Changes: pokemon_changes.md
+    - Trainer Pokémon: trainer_pokemon.md
+    - Item Changes: item_changes.md
+
+
+markdown_extensions:
+    - toc:
+        permalink: 
+    - admonition
+    - def_list
+
+copyright: Maintained by <a href="/about/release-notes/#maintenance-team">Frederic Dlugi</a>.
+
+plugins:
+    - search
