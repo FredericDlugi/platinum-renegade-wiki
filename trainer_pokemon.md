@@ -30,79 +30,79 @@ PKMN Trainer Dawn          | ![][390] [Chimchar] Lv. 9
 PKMN Trainer Lucas         | ![][393] [Piplup] Lv. 9
 PKMN Trainer Lucas         | ![][387] [Turtwig] Lv. 9
 PKMN Trainer Lucas         | ![][390] [Chimchar] Lv. 9
-Lass Natalie               | ![][161] [Sentret] Lv. 7, ![][399] [Bidoof] Lv. 7
-Youngster Tristan (!)      | ![][163] [Hoothoot] Lv. 7, ![][396] [Starly] Lv. 7
-Youngster Logan            | ![][058] [Growlithe] Lv. 7, ![][412] [Burmy] Lv. 7, ![][263] [Zigzagoon] Lv. 7
+Lass Natalie               | ![][161] [Sentret] Lv. 7  ![][399] [Bidoof] Lv. 7
+Youngster Tristan (!)      | ![][163] [Hoothoot] Lv. 7  ![][396] [Starly] Lv. 7
+Youngster Logan            | ![][058] [Growlithe] Lv. 7  ![][412] [Burmy] Lv. 7  ![][263] [Zigzagoon] Lv. 7
 
 #### Rematches
 
 Trainer                    | Pokémons
 ---                        | ---
-Youngster Tristan (3)      | ![][164] [Noctowl] Lv. 27, ![][397] [Staravia] Lv. 27
-Youngster Tristan (5)      | ![][164] [Noctowl] Lv. 39, ![][398] [Staraptor] Lv. 39
-Youngster Tristan (8)      | ![][164] [Noctowl] Lv. 59, ![][398] [Staraptor] Lv. 59, ![][018] [Pidgeot] Lv. 59
+Youngster Tristan (3)      | ![][164] [Noctowl] Lv. 27  ![][397] [Staravia] Lv. 27
+Youngster Tristan (5)      | ![][164] [Noctowl] Lv. 39  ![][398] [Staraptor] Lv. 39
+Youngster Tristan (8)      | ![][164] [Noctowl] Lv. 59  ![][398] [Staraptor] Lv. 59  ![][018] [Pidgeot] Lv. 59
 
 ### Jubilife City Trainer School
 
 Trainer                    | Pokémons
 ---                        | ---
-Schoolkid Harrison         | ![][063] [Abra] Lv. 8, ![][054] [Psyduck] Lv. 8
-Schoolkid Christine        | ![][280] [Ralts] Lv. 8, ![][120] [Staryu] Lv. 8
+Schoolkid Harrison         | ![][063] [Abra] Lv. 8  ![][054] [Psyduck] Lv. 8
+Schoolkid Christine        | ![][280] [Ralts] Lv. 8  ![][120] [Staryu] Lv. 8
 
 ### Route 204 ~ South
 
 Trainer                    | Pokémons
 ---                        | ---
-Lass Sarah                 | ![][403] [Shinx] Lv. 8, ![][029] [Nidoran♀] Lv. 8, ![][016] [Pidgey] Lv. 8
-Lass Samantha (!)          | ![][043] [Oddish] Lv. 8, ![][406] [Budew] Lv. 8, ![][069] [Bellsprout] Lv. 8
+Lass Sarah                 | ![][403] [Shinx] Lv. 8  ![][029] [Nidoran♀] Lv. 8  ![][016] [Pidgey] Lv. 8
+Lass Samantha (!)          | ![][043] [Oddish] Lv. 8  ![][406] [Budew] Lv. 8  ![][069] [Bellsprout] Lv. 8
 Youngster Tyler            | ![][129] [Magikarp] Lv. 11
 
 #### Rematches
 
 Trainer                    | Pokémons
 ---                        | ---
-Lass Samantha (3)          | ![][404] [Luxio] Lv. 26, ![][315] [Roselia] Lv. 26, ![][070] [Weepinbell] Lv. 26
-Lass Samantha (5)          | ![][404] [Luxio] Lv. 38, ![][315] [Roselia] Lv. 38, ![][070] [Weepinbell] Lv. 38
-Lass Samantha (C)          | ![][405] [Luxray] Lv. 70, ![][407] [Roserade] Lv. 70, ![][071] [Victreebel] Lv. 70
+Lass Samantha (3)          | ![][404] [Luxio] Lv. 26  ![][315] [Roselia] Lv. 26  ![][070] [Weepinbell] Lv. 26
+Lass Samantha (5)          | ![][404] [Luxio] Lv. 38  ![][315] [Roselia] Lv. 38  ![][070] [Weepinbell] Lv. 38
+Lass Samantha (C)          | ![][405] [Luxray] Lv. 70  ![][407] [Roserade] Lv. 70  ![][071] [Victreebel] Lv. 70
 
 ### Route 203
 
 Trainer                    | Pokémons
 ---                        | ---
-PKMN Trainer Barry         | ![][396] [Starly] Lv. 10, ![][446] [Munchlax] Lv. 10, ![][387] [Turtwig] Lv. 11
-PKMN Trainer Barry         | ![][396] [Starly] Lv. 10, ![][446] [Munchlax] Lv. 10, ![][390] [Chimchar] Lv. 11
-PKMN Trainer Barry         | ![][396] [Starly] Lv. 10, ![][446] [Munchlax] Lv. 10, ![][393] [Piplup] Lv. 11
-Youngster Michael          | ![][401] [Kricketot] Lv. 9, ![][041] [Zubat] Lv. 9, ![][019] [Rattata] Lv. 9
-Youngster Dallas (!)       | ![][403] [Shinx] Lv. 10, ![][027] [Sandshrew] Lv. 10
-Youngster Sebastian        | ![][296] [Makuhita] Lv. 10, ![][066] [Machop] Lv. 10
-Lass Kaitlin               | ![][021] [Spearow] Lv. 9, ![][104] [Cubone] Lv. 9, ![][298] [Azurill] Lv. 9
-Lass Madeline (!)          | ![][054] [Psyduck] Lv. 10, ![][191] [Sunkern] Lv. 10
+PKMN Trainer Barry         | ![][396] [Starly] Lv. 10  ![][446] [Munchlax] Lv. 10  ![][387] [Turtwig] Lv. 11
+PKMN Trainer Barry         | ![][396] [Starly] Lv. 10  ![][446] [Munchlax] Lv. 10  ![][390] [Chimchar] Lv. 11
+PKMN Trainer Barry         | ![][396] [Starly] Lv. 10  ![][446] [Munchlax] Lv. 10  ![][393] [Piplup] Lv. 11
+Youngster Michael          | ![][401] [Kricketot] Lv. 9  ![][041] [Zubat] Lv. 9  ![][019] [Rattata] Lv. 9
+Youngster Dallas (!)       | ![][403] [Shinx] Lv. 10  ![][027] [Sandshrew] Lv. 10
+Youngster Sebastian        | ![][296] [Makuhita] Lv. 10  ![][066] [Machop] Lv. 10
+Lass Kaitlin               | ![][021] [Spearow] Lv. 9  ![][104] [Cubone] Lv. 9  ![][298] [Azurill] Lv. 9
+Lass Madeline (!)          | ![][054] [Psyduck] Lv. 10  ![][191] [Sunkern] Lv. 10
 
 #### Rematches
 
 Trainer                    | Pokémons
 ---                        | ---
-Youngster Dallas (3)       | ![][404] [Luxio] Lv. 27, ![][028] [Sandslash] Lv. 27
-Youngster Dallas (5)       | ![][404] [Luxio] Lv. 38, ![][028] [Sandslash] Lv. 38, ![][400] [Bibarel] Lv. 38
-Youngster Dallas (C)       | ![][405] [Luxray] Lv. 69, ![][028] [Sandslash] Lv. 69, ![][400] [Bibarel] Lv. 69,<br> ![][076] [Golem] Lv. 69
-Lass Madeline (3)          | ![][054] [Psyduck] Lv. 26, ![][191] [Sunkern] Lv. 26, ![][427] [Buneary] Lv. 26
-Lass Madeline (5)          | ![][055] [Golduck] Lv. 38, ![][192] [Sunflora] Lv. 38, ![][428] [Lopunny] Lv. 38
-Lass Madeline (8)          | ![][055] [Golduck] Lv. 59, ![][192] [Sunflora] Lv. 59, ![][428] [Lopunny] Lv. 59
+Youngster Dallas (3)       | ![][404] [Luxio] Lv. 27  ![][028] [Sandslash] Lv. 27
+Youngster Dallas (5)       | ![][404] [Luxio] Lv. 38  ![][028] [Sandslash] Lv. 38  ![][400] [Bibarel] Lv. 38
+Youngster Dallas (C)       | ![][405] [Luxray] Lv. 69  ![][028] [Sandslash] Lv. 69  ![][400] [Bibarel] Lv. 69 <br> ![][076] [Golem] Lv. 69
+Lass Madeline (3)          | ![][054] [Psyduck] Lv. 26  ![][191] [Sunkern] Lv. 26  ![][427] [Buneary] Lv. 26
+Lass Madeline (5)          | ![][055] [Golduck] Lv. 38  ![][192] [Sunflora] Lv. 38  ![][428] [Lopunny] Lv. 38
+Lass Madeline (8)          | ![][055] [Golduck] Lv. 59  ![][192] [Sunflora] Lv. 59  ![][428] [Lopunny] Lv. 59
 
 ### Oreburgh Gate
 
 Trainer                    | Pokémons
 ---                        | ---
-Camper Curtis              | ![][273] [Seedot] Lv. 10, ![][050] [Diglett] Lv. 10
-Picnicker Diana            | ![][293] [Whismur] Lv. 10, ![][194] [Wooper] Lv. 10
-Veteran Grant              | ![][448] [Lucario] Lv. 45, ![][076] [Golem] Lv. 45, ![][398] [Staraptor] Lv. 45
+Camper Curtis              | ![][273] [Seedot] Lv. 10  ![][050] [Diglett] Lv. 10
+Picnicker Diana            | ![][293] [Whismur] Lv. 10  ![][194] [Wooper] Lv. 10
+Veteran Grant              | ![][448] [Lucario] Lv. 45  ![][076] [Golem] Lv. 45  ![][398] [Staraptor] Lv. 45
 
 ### Oreburgh City
 
 Trainer                    | Pokémons
 ---                        | ---
-Reporter Helen             | ![][252] [Treecko] Lv. 10, ![][255] [Torchic] Lv. 10, ![][258] [Mudkip] Lv. 10
-PKMN Trainer Steven        | ![][227] [Skarmory] Lv. 88, ![][306] [Aggron] Lv. 88, ![][142] [Aerodactyl] Lv. 88,<br> ![][346] [Cradily] Lv. 88, ![][348] [Armaldo] Lv. 88, ![][376] [Metagross] Lv. 89
+Reporter Helen             | ![][252] [Treecko] Lv. 10  ![][255] [Torchic] Lv. 10  ![][258] [Mudkip] Lv. 10
+PKMN Trainer Steven        | ![][227] [Skarmory] Lv. 88  ![][306] [Aggron] Lv. 88  ![][142] [Aerodactyl] Lv. 88 <br> ![][346] [Cradily] Lv. 88  ![][348] [Armaldo] Lv. 88  ![][376] [Metagross] Lv. 89
 
 
 PKMN Trainer Steven  | Item          | Nature | Ability      | Moves
@@ -118,16 +118,16 @@ PKMN Trainer Steven  | Item          | Nature | Ability      | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-Worker Mason               | ![][304] [Aron] Lv. 12, ![][231] [Phanpy] Lv. 12, ![][447] [Riolu] Lv. 12
-Worker Colin               | ![][074] [Geodude] Lv. 12, ![][293] [Whismur] Lv. 12, ![][066] [Machop] Lv. 12
+Worker Mason               | ![][304] [Aron] Lv. 12  ![][231] [Phanpy] Lv. 12  ![][447] [Riolu] Lv. 12
+Worker Colin               | ![][074] [Geodude] Lv. 12  ![][293] [Whismur] Lv. 12  ![][066] [Machop] Lv. 12
 
 ### Oreburgh Gym
 
 Trainer                    | Pokémons
 ---                        | ---
-Youngster Jonathon         | ![][111] [Rhyhorn] Lv. 13, ![][138] [Omanyte] Lv. 13, ![][140] [Kabuto] Lv. 13
-Youngster Darius           | ![][304] [Aron] Lv. 13, ![][347] [Anorith] Lv. 13, ![][345] [Lileep] Lv. 13
-Leader Roark               | ![][299] [Nosepass] Lv. 15, ![][438] [Bonsly] Lv. 15, ![][074] [Geodude] Lv. 15,<br> ![][095] [Onix] Lv. 15, ![][246] [Larvitar] Lv. 15, ![][408] [Cranidos] Lv. 16
+Youngster Jonathon         | ![][111] [Rhyhorn] Lv. 13  ![][138] [Omanyte] Lv. 13  ![][140] [Kabuto] Lv. 13
+Youngster Darius           | ![][304] [Aron] Lv. 13  ![][347] [Anorith] Lv. 13  ![][345] [Lileep] Lv. 13
+Leader Roark               | ![][299] [Nosepass] Lv. 15  ![][438] [Bonsly] Lv. 15  ![][074] [Geodude] Lv. 15 <br> ![][095] [Onix] Lv. 15  ![][246] [Larvitar] Lv. 15  ![][408] [Cranidos] Lv. 16
 
 Leader Roark         | Item          | Nature  | Ability       | Moves
 ---                  | ---           | ---     | ---           | ---
@@ -142,53 +142,53 @@ Leader Roark         | Item          | Nature  | Ability       | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-Reporter Kayla             | ![][001] [Bulbasaur] Lv. 5, ![][004] [Charmander] Lv. 5, ![][007] [Squirtle] Lv. 5
-Galactic Grunt             | ![][434] [Stunky] Lv. 13, ![][266] [Silcoon] Lv. 13
-Galactic Grunt             | ![][431] [Glameow] Lv. 13, ![][268] [Cascoon] Lv. 13
-PKMN Trainer Dawn          | ![][035] [Clefairy] Lv. 13, ![][393] [Piplup] Lv. 14
-PKMN Trainer Dawn          | ![][035] [Clefairy] Lv. 13, ![][387] [Turtwig] Lv. 14
-PKMN Trainer Dawn          | ![][035] [Clefairy] Lv. 13, ![][390] [Chimchar] Lv. 14
-PKMN Trainer Lucas         | ![][209] [Snubbull] Lv. 13, ![][393] [Piplup] Lv. 14
-PKMN Trainer Lucas         | ![][209] [Snubbull] Lv. 13, ![][387] [Turtwig] Lv. 14
-PKMN Trainer Lucas         | ![][209] [Snubbull] Lv. 13, ![][390] [Chimchar] Lv. 14
+Reporter Kayla             | ![][001] [Bulbasaur] Lv. 5  ![][004] [Charmander] Lv. 5  ![][007] [Squirtle] Lv. 5
+Galactic Grunt             | ![][434] [Stunky] Lv. 13  ![][266] [Silcoon] Lv. 13
+Galactic Grunt             | ![][431] [Glameow] Lv. 13  ![][268] [Cascoon] Lv. 13
+PKMN Trainer Dawn          | ![][035] [Clefairy] Lv. 13  ![][393] [Piplup] Lv. 14
+PKMN Trainer Dawn          | ![][035] [Clefairy] Lv. 13  ![][387] [Turtwig] Lv. 14
+PKMN Trainer Dawn          | ![][035] [Clefairy] Lv. 13  ![][390] [Chimchar] Lv. 14
+PKMN Trainer Lucas         | ![][209] [Snubbull] Lv. 13  ![][393] [Piplup] Lv. 14
+PKMN Trainer Lucas         | ![][209] [Snubbull] Lv. 13  ![][387] [Turtwig] Lv. 14
+PKMN Trainer Lucas         | ![][209] [Snubbull] Lv. 13  ![][390] [Chimchar] Lv. 14
 
 ### Route 204 ~ North
 
 Trainer                    | Pokémons
 ---                        | ---
-Aroma Lady Taylor          | ![][420] [Cherubi] Lv. 13, ![][187] [Hoppip] Lv. 13, ![][285] [Shroomish] Lv. 13
-Bug Catcher Brandon (!)    | ![][265] [Wurmple] Lv. 14, ![][402] [Kricketune] Lv. 14
-Twins Liv & Liz            | ![][311] [Plusle] Lv. 15, ![][312] [Minun] Lv. 15
+Aroma Lady Taylor          | ![][420] [Cherubi] Lv. 13  ![][187] [Hoppip] Lv. 13  ![][285] [Shroomish] Lv. 13
+Bug Catcher Brandon (!)    | ![][265] [Wurmple] Lv. 14  ![][402] [Kricketune] Lv. 14
+Twins Liv & Liz            | ![][311] [Plusle] Lv. 15  ![][312] [Minun] Lv. 15
 
 #### Rematches
 
 Trainer                    | Pokémons
 ---                        | ---
-Bug Catcher Brandon (3)    | ![][269] [Dustox] Lv. 27, ![][402] [Kricketune] Lv. 27
-Bug Catcher Brandon (5)    | ![][269] [Dustox] Lv. 38, ![][402] [Kricketune] Lv. 38, ![][123] [Scyther] Lv. 38
-Bug Catcher Brandon (C)    | ![][269] [Dustox] Lv. 70, ![][402] [Kricketune] Lv. 70, ![][212] [Scizor] Lv. 70
+Bug Catcher Brandon (3)    | ![][269] [Dustox] Lv. 27  ![][402] [Kricketune] Lv. 27
+Bug Catcher Brandon (5)    | ![][269] [Dustox] Lv. 38  ![][402] [Kricketune] Lv. 38  ![][123] [Scyther] Lv. 38
+Bug Catcher Brandon (C)    | ![][269] [Dustox] Lv. 70  ![][402] [Kricketune] Lv. 70  ![][212] [Scizor] Lv. 70
 
 ### Floaroma Town
 
 Trainer                    | Pokémons
 ---                        | ---
-Reporter Jenny             | ![][152] [Chikorita] Lv. 15, ![][155] [Cyndaquil] Lv. 15, ![][158] [Totodile] Lv. 15
+Reporter Jenny             | ![][152] [Chikorita] Lv. 15  ![][155] [Cyndaquil] Lv. 15  ![][158] [Totodile] Lv. 15
 
 ### Floaroma Meadow
 
 Trainer                    | Pokémons
 ---                        | ---
-Galactic Grunt             | ![][041] [Zubat] Lv. 15, ![][167] [Spinarak] Lv. 15
-Galactic Grunt             | ![][453] [Croagunk] Lv. 15, ![][165] [Ledyba] Lv. 15
+Galactic Grunt             | ![][041] [Zubat] Lv. 15  ![][167] [Spinarak] Lv. 15
+Galactic Grunt             | ![][453] [Croagunk] Lv. 15  ![][165] [Ledyba] Lv. 15
 
 ### Valley Windworks
 
 Trainer                    | Pokémons
 ---                        | ---
-Galactic Grunt             | ![][261] [Poochyena] Lv. 14, ![][316] [Gulpin] Lv. 14, ![][228] [Houndour] Lv. 14
-Galactic Grunt             | ![][088] [Grimer] Lv. 15, ![][109] [Koffing] Lv. 15
-Galactic Grunt             | ![][014] [Kakuna] Lv. 14, ![][204] [Pineco] Lv. 14, ![][011] [Metapod] Lv. 14
-Commander Mars             | ![][041] [Zubat] Lv. 18, ![][436] [Bronzor] Lv. 18, ![][193] [Yanma] Lv. 18,<br> ![][432] [Purugly] Lv. 19
+Galactic Grunt             | ![][261] [Poochyena] Lv. 14  ![][316] [Gulpin] Lv. 14  ![][228] [Houndour] Lv. 14
+Galactic Grunt             | ![][088] [Grimer] Lv. 15  ![][109] [Koffing] Lv. 15
+Galactic Grunt             | ![][014] [Kakuna] Lv. 14  ![][204] [Pineco] Lv. 14  ![][011] [Metapod] Lv. 14
+Commander Mars             | ![][041] [Zubat] Lv. 18  ![][436] [Bronzor] Lv. 18  ![][193] [Yanma] Lv. 18 <br> ![][432] [Purugly] Lv. 19
 
 Commander Mars   | Item          | Nature  | Ability       | Moves
 ---              | ---           | ---     | ---           | ---
@@ -201,42 +201,42 @@ Commander Mars   | Item          | Nature  | Ability       | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-Hiker Daniel               | ![][050] [Diglett] Lv. 15, ![][410] [Shieldon] Lv. 15, ![][322] [Numel] Lv. 15
-Aroma Lady Elizabeth (!)   | ![][152] [Chikorita] Lv. 16, ![][001] [Bulbasaur] Lv. 16
-Camper Jacob               | ![][077] [Ponyta] Lv. 15, ![][179] [Mareep] Lv. 15, ![][418] [Buizel] Lv. 15
+Hiker Daniel               | ![][050] [Diglett] Lv. 15  ![][410] [Shieldon] Lv. 15  ![][322] [Numel] Lv. 15
+Aroma Lady Elizabeth (!)   | ![][152] [Chikorita] Lv. 16  ![][001] [Bulbasaur] Lv. 16
+Camper Jacob               | ![][077] [Ponyta] Lv. 15  ![][179] [Mareep] Lv. 15  ![][418] [Buizel] Lv. 15
 Picnicker Siena            | ![][417] [Pachirisu] Lv. 17
-Hiker Nicholas             | ![][422] [Shellos] Lv. 16, ![][095] [Onix] Lv. 16
-Battle Girl Kelsey         | ![][066] [Machop] Lv. 16, ![][056] [Mankey] Lv. 16, ![][307] [Meditite] Lv. 16
-Picnicker Karina (!)       | ![][393] [Piplup] Lv. 16, ![][390] [Chimchar] Lv. 16
-Camper Zackary (!)         | ![][190] [Aipom] Lv. 15, ![][287] [Slakoth] Lv. 15, ![][276] [Taillow] Lv. 15
+Hiker Nicholas             | ![][422] [Shellos] Lv. 16  ![][095] [Onix] Lv. 16
+Battle Girl Kelsey         | ![][066] [Machop] Lv. 16  ![][056] [Mankey] Lv. 16  ![][307] [Meditite] Lv. 16
+Picnicker Karina (!)       | ![][393] [Piplup] Lv. 16  ![][390] [Chimchar] Lv. 16
+Camper Zackary (!)         | ![][190] [Aipom] Lv. 15  ![][287] [Slakoth] Lv. 15  ![][276] [Taillow] Lv. 15
 
 #### Rematches
 
 Trainer                    | Pokémons
 ---                        | ---
-Aroma Lady Elizabeth (3)   | ![][153] [Bayleef] Lv. 27, ![][002] [Ivysaur] Lv. 27
-Aroma Lady Elizabeth (5)   | ![][154] [Meganium] Lv. 39, ![][003] [Venusaur] Lv. 39
-Aroma Lady Elizabeth (C)   | ![][154] [Meganium] Lv. 71, ![][003] [Venusaur] Lv. 71
-Camper Zackary (3)         | ![][190] [Aipom] Lv. 26, ![][288] [Vigoroth] Lv. 26, ![][277] [Swellow] Lv. 26
-Camper Zackary (5)         | ![][424] [Ambipom] Lv. 38, ![][288] [Vigoroth] Lv. 38, ![][277] [Swellow] Lv. 38
-Camper Zackary (C)         | ![][424] [Ambipom] Lv. 70, ![][289] [Slaking] Lv. 70, ![][277] [Swellow] Lv. 70
-Picnicker Karina (3)       | ![][394] [Prinplup] Lv. 27, ![][391] [Monferno] Lv. 27
-Picnicker Karina (5)       | ![][395] [Empoleon] Lv. 39, ![][392] [Infernape] Lv. 39
-Picnicker Karina (C)       | ![][395] [Empoleon] Lv. 71, ![][392] [Infernape] Lv. 71
+Aroma Lady Elizabeth (3)   | ![][153] [Bayleef] Lv. 27  ![][002] [Ivysaur] Lv. 27
+Aroma Lady Elizabeth (5)   | ![][154] [Meganium] Lv. 39  ![][003] [Venusaur] Lv. 39
+Aroma Lady Elizabeth (C)   | ![][154] [Meganium] Lv. 71  ![][003] [Venusaur] Lv. 71
+Camper Zackary (3)         | ![][190] [Aipom] Lv. 26  ![][288] [Vigoroth] Lv. 26  ![][277] [Swellow] Lv. 26
+Camper Zackary (5)         | ![][424] [Ambipom] Lv. 38  ![][288] [Vigoroth] Lv. 38  ![][277] [Swellow] Lv. 38
+Camper Zackary (C)         | ![][424] [Ambipom] Lv. 70  ![][289] [Slaking] Lv. 70  ![][277] [Swellow] Lv. 70
+Picnicker Karina (3)       | ![][394] [Prinplup] Lv. 27  ![][391] [Monferno] Lv. 27
+Picnicker Karina (5)       | ![][395] [Empoleon] Lv. 39  ![][392] [Infernape] Lv. 39
+Picnicker Karina (C)       | ![][395] [Empoleon] Lv. 71  ![][392] [Infernape] Lv. 71
 
 ### Eterna Forest
 
 Trainer                    | Pokémons
 ---                        | ---
-PKMN Trainer Cheryl        | ![][425] [Drifloon] Lv. 19, ![][296] [Makuhita] Lv. 19, ![][320] [Wailmer] Lv. 19,<br> ![][113] [Chansey] Lv. 20
-Bug Catcher Jack           | ![][283] [Surskit] Lv. 16, ![][046] [Paras] Lv. 16, ![][048] [Venonat] Lv. 16
-Lass Briana                | ![][427] [Buneary] Lv. 17, ![][183] [Marill] Lv. 17
-Psychic Lindsey            | ![][079] [Slowpoke] Lv. 17, ![][102] [Exeggcute] Lv. 17, ![][177] [Natu] Lv. 17
-Psychic Elijah             | ![][325] [Spoink] Lv. 17, ![][096] [Drowzee] Lv. 17, ![][343] [Baltoy] Lv. 17
-Bug Catcher Philip         | ![][415] [Combee] Lv. 17, ![][015] [Beedrill] Lv. 19
-Bug Catcher Donald         | ![][290] [Nincada] Lv. 17, ![][269] [Dustox] Lv. 19
-Psychic Kody               | ![][439] [Mime Jr.] Lv. 18, ![][122] [Mr. Mime] Lv. 20
-Psychic Rachael            | ![][433] [Chingling] Lv. 18, ![][358] [Chimecho] Lv. 20
+PKMN Trainer Cheryl        | ![][425] [Drifloon] Lv. 19  ![][296] [Makuhita] Lv. 19  ![][320] [Wailmer] Lv. 19 <br> ![][113] [Chansey] Lv. 20
+Bug Catcher Jack           | ![][283] [Surskit] Lv. 16  ![][046] [Paras] Lv. 16  ![][048] [Venonat] Lv. 16
+Lass Briana                | ![][427] [Buneary] Lv. 17  ![][183] [Marill] Lv. 17
+Psychic Lindsey            | ![][079] [Slowpoke] Lv. 17  ![][102] [Exeggcute] Lv. 17  ![][177] [Natu] Lv. 17
+Psychic Elijah             | ![][325] [Spoink] Lv. 17  ![][096] [Drowzee] Lv. 17  ![][343] [Baltoy] Lv. 17
+Bug Catcher Philip         | ![][415] [Combee] Lv. 17  ![][015] [Beedrill] Lv. 19
+Bug Catcher Donald         | ![][290] [Nincada] Lv. 17  ![][269] [Dustox] Lv. 19
+Psychic Kody               | ![][439] [Mime Jr.] Lv. 18  ![][122] [Mr. Mime] Lv. 20
+Psychic Rachael            | ![][433] [Chingling] Lv. 18  ![][358] [Chimecho] Lv. 20
 
 PKMN Trainer Cheryl | Item          | Nature  | Ability       | Moves
 ---                 | ---           | ---     | ---           | ---
@@ -249,32 +249,32 @@ PKMN Trainer Cheryl | Item          | Nature  | Ability       | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-Fisherman Joseph (!)       | ![][118] [Goldeen] Lv. 18, ![][060] [Poliwag] Lv. 18, ![][341] [Corphish] Lv. 18
-Fisherman Andrew           | ![][129] [Magikarp] Lv. 18, ![][349] [Feebas] Lv. 18, ![][129] [Magikarp] Lv. 18
-Fisherman Zachary          | ![][098] [Krabby] Lv. 19, ![][456] [Finneon] Lv. 19
+Fisherman Joseph (!)       | ![][118] [Goldeen] Lv. 18  ![][060] [Poliwag] Lv. 18  ![][341] [Corphish] Lv. 18
+Fisherman Andrew           | ![][129] [Magikarp] Lv. 18  ![][349] [Feebas] Lv. 18  ![][129] [Magikarp] Lv. 18
+Fisherman Zachary          | ![][098] [Krabby] Lv. 19  ![][456] [Finneon] Lv. 19
 
 #### Rematches
 
 Trainer                    | Pokémons
 ---                        | ---
-Fisherman Joseph (5)       | ![][119] [Seaking] Lv. 38, ![][061] [Poliwhirl] Lv. 38, ![][342] [Crawdaunt] Lv. 38
-Fisherman Joseph (C)       | ![][119] [Seaking] Lv. 70, ![][186] [Politoed] Lv. 70, ![][342] [Crawdaunt] Lv. 70
+Fisherman Joseph (5)       | ![][119] [Seaking] Lv. 38  ![][061] [Poliwhirl] Lv. 38  ![][342] [Crawdaunt] Lv. 38
+Fisherman Joseph (C)       | ![][119] [Seaking] Lv. 70  ![][186] [Politoed] Lv. 70  ![][342] [Crawdaunt] Lv. 70
 
 ### Route 211 ~ West
 
 Trainer                    | Pokémons
 ---                        | ---
-Ninja Boy Zach (!)         | ![][041] [Zubat] Lv. 19, ![][451] [Skorupi] Lv. 19, ![][041] [Zubat] Lv. 19
-Hiker Louis                | ![][074] [Geodude] Lv. 19, ![][218] [Slugma] Lv. 19, ![][374] [Beldum] Lv. 19
-Bird Keeper Alexandra      | ![][177] [Natu] Lv. 20, ![][333] [Swablu] Lv. 20, ![][397] [Staravia] Lv. 20
+Ninja Boy Zach (!)         | ![][041] [Zubat] Lv. 19  ![][451] [Skorupi] Lv. 19  ![][041] [Zubat] Lv. 19
+Hiker Louis                | ![][074] [Geodude] Lv. 19  ![][218] [Slugma] Lv. 19  ![][374] [Beldum] Lv. 19
+Bird Keeper Alexandra      | ![][177] [Natu] Lv. 20  ![][333] [Swablu] Lv. 20  ![][397] [Staravia] Lv. 20
 
 #### Rematches
 
 Trainer                    | Pokémons
 ---                        | ---
-Ninja Boy Zach (5)         | ![][042] [Golbat] Lv. 38, ![][451] [Skorupi] Lv. 38, ![][042] [Golbat] Lv. 38
-Ninja Boy Zach (8)         | ![][169] [Crobat] Lv. 59, ![][452] [Drapion] Lv. 59, ![][169] [Crobat] Lv. 59
-Ninja Boy Zach (C)         | ![][169] [Crobat] Lv. 70, ![][452] [Drapion] Lv. 70, ![][169] [Crobat] Lv. 70
+Ninja Boy Zach (5)         | ![][042] [Golbat] Lv. 38  ![][451] [Skorupi] Lv. 38  ![][042] [Golbat] Lv. 38
+Ninja Boy Zach (8)         | ![][169] [Crobat] Lv. 59  ![][452] [Drapion] Lv. 59  ![][169] [Crobat] Lv. 59
+Ninja Boy Zach (C)         | ![][169] [Crobat] Lv. 70  ![][452] [Drapion] Lv. 70  ![][169] [Crobat] Lv. 70
 
 ### Route 211 ~ East
 
@@ -296,18 +296,18 @@ Ruin Maniac Harry (C)      | ![][142] [Aerodactyl] Lv. 72
 
 Trainer                    | Pokémons
 ---                        | ---
-Ace Trainer Blake          | ![][137] [Porygon] Lv. 23, ![][288] [Vigoroth] Lv. 23
-Ace Trainer Maria          | ![][195] [Quagsire] Lv. 22, ![][156] [Quilava] Lv. 22, ![][185] [Sudowoodo] Lv. 22
-Ace Trainer Laura          | ![][176] [Togetic] Lv. 23, ![][277] [Swellow] Lv. 23
-Skier Edward (!)           | ![][459] [Snover] Lv. 20, ![][361] [Snorunt] Lv. 20, ![][220] [Swinub] Lv. 20
-Ace Trainer Garrett        | ![][122] [Mr. Mime] Lv. 22, ![][274] [Nuzleaf] Lv. 22, ![][123] [Scyther] Lv. 22
+Ace Trainer Blake          | ![][137] [Porygon] Lv. 23  ![][288] [Vigoroth] Lv. 23
+Ace Trainer Maria          | ![][195] [Quagsire] Lv. 22  ![][156] [Quilava] Lv. 22  ![][185] [Sudowoodo] Lv. 22
+Ace Trainer Laura          | ![][176] [Togetic] Lv. 23  ![][277] [Swellow] Lv. 23
+Skier Edward (!)           | ![][459] [Snover] Lv. 20  ![][361] [Snorunt] Lv. 20  ![][220] [Swinub] Lv. 20
+Ace Trainer Garrett        | ![][122] [Mr. Mime] Lv. 22  ![][274] [Nuzleaf] Lv. 22  ![][123] [Scyther] Lv. 22
 
 #### With Rock Climb
 
 Trainer                    | Pokémons
 ---                        | ---
-Black Belt Philip (!)      | ![][297] [Hariyama] Lv. 56, ![][068] [Machamp] Lv. 56
-Skier Bradley              | ![][221] [Piloswine] Lv. 54, ![][362] [Glalie] Lv. 54
+Black Belt Philip (!)      | ![][297] [Hariyama] Lv. 56  ![][068] [Machamp] Lv. 56
+Skier Bradley              | ![][221] [Piloswine] Lv. 54  ![][362] [Glalie] Lv. 54
 Skier Kaitlyn              | ![][131] [Lapras] Lv. 55
 Skier Andrea (!)           | ![][460] [Abomasnow] Lv. 55
 
@@ -315,9 +315,9 @@ Skier Andrea (!)           | ![][460] [Abomasnow] Lv. 55
 
 Trainer                    | Pokémons
 ---                        | ---
-Skier Edward (8)           | ![][460] [Abomasnow] Lv. 59, ![][362] [Glalie] Lv. 59, ![][221] [Piloswine] Lv. 59
-Skier Edward (C)           | ![][460] [Abomasnow] Lv. 70, ![][362] [Glalie] Lv. 70, ![][473] [Mamoswine] Lv. 70
-Black Belt Philip (C)      | ![][297] [Hariyama] Lv. 70, ![][068] [Machamp] Lv. 70, ![][062] [Poliwrath] Lv. 70
+Skier Edward (8)           | ![][460] [Abomasnow] Lv. 59  ![][362] [Glalie] Lv. 59  ![][221] [Piloswine] Lv. 59
+Skier Edward (C)           | ![][460] [Abomasnow] Lv. 70  ![][362] [Glalie] Lv. 70  ![][473] [Mamoswine] Lv. 70
+Black Belt Philip (C)      | ![][297] [Hariyama] Lv. 70  ![][068] [Machamp] Lv. 70  ![][062] [Poliwrath] Lv. 70
 Skier Andrea (8)           | ![][460] [Abomasnow] Lv. 61
 Skier Andrea (C)           | ![][460] [Abomasnow] Lv. 72
 
@@ -325,12 +325,12 @@ Skier Andrea (C)           | ![][460] [Abomasnow] Lv. 72
 
 Trainer                    | Pokémons
 ---                        | ---
-Cyclist Axel               | ![][172] [Pichu] Lv. 19, ![][172] [Pichu] Lv. 19, ![][025] [Pikachu] Lv. 19
+Cyclist Axel               | ![][172] [Pichu] Lv. 19  ![][172] [Pichu] Lv. 19  ![][025] [Pikachu] Lv. 19
 Cyclist Megan              | ![][017] [Pidgeotto] Lv. 21
-Cyclist James              | ![][077] [Ponyta] Lv. 20, ![][180] [Flaaffy] Lv. 20
-Cyclist Nicole             | ![][276] [Taillow] Lv. 19, ![][084] [Doduo] Lv. 19, ![][278] [Wingull] Lv. 19
+Cyclist James              | ![][077] [Ponyta] Lv. 20  ![][180] [Flaaffy] Lv. 20
+Cyclist Nicole             | ![][276] [Taillow] Lv. 19  ![][084] [Doduo] Lv. 19  ![][278] [Wingull] Lv. 19
 Cyclist John (!)           | ![][083] [Farfetch'd] Lv. 21
-Cyclist Kayla (!)          | ![][100] [Voltorb] Lv. 19, ![][081] [Magnemite] Lv. 19, ![][309] [Electrike] Lv. 19
+Cyclist Kayla (!)          | ![][100] [Voltorb] Lv. 19  ![][081] [Magnemite] Lv. 19  ![][309] [Electrike] Lv. 19
 Cyclist Ryan               | ![][404] [Luxio] Lv. 21
 Cyclist Rachel             | ![][135] [Jolteon] Lv. 21
 Hiker Theodore             | ![][324] [Torkoal] Lv. 26
@@ -342,18 +342,18 @@ Trainer                    | Pokémons
 Cyclist John (5)           | ![][083] [Farfetch'd] Lv. 40
 Cyclist John (8)           | ![][083] [Farfetch'd] Lv. 61
 Cyclist John (C)           | ![][083] [Farfetch'd] Lv. 72
-Cyclist Kayla (5)          | ![][101] [Electrode] Lv. 38, ![][082] [Magneton] Lv. 38, ![][310] [Manectric] Lv. 38
-Cyclist Kayla (8)          | ![][101] [Electrode] Lv. 59, ![][082] [Magneton] Lv. 59, ![][310] [Manectric] Lv. 59
-Cyclist Kayla (C)          | ![][101] [Electrode] Lv. 70, ![][462] [Magnezone] Lv. 70, ![][310] [Manectric] Lv. 70
+Cyclist Kayla (5)          | ![][101] [Electrode] Lv. 38  ![][082] [Magneton] Lv. 38  ![][310] [Manectric] Lv. 38
+Cyclist Kayla (8)          | ![][101] [Electrode] Lv. 59  ![][082] [Magneton] Lv. 59  ![][310] [Manectric] Lv. 59
+Cyclist Kayla (C)          | ![][101] [Electrode] Lv. 70  ![][462] [Magnezone] Lv. 70  ![][310] [Manectric] Lv. 70
 
 ### Eterna Gym
 
 Trainer                    | Pokémons
 ---                        | ---
-Lass Caroline              | ![][270] [Lotad] Lv. 22, ![][331] [Cacnea] Lv. 22, ![][102] [Exeggcute] Lv. 22,<br> ![][285] [Shroomish] Lv. 22
-Aroma Lady Jenna           | ![][070] [Weepinbell] Lv. 23, ![][002] [Ivysaur] Lv. 23, ![][044] [Gloom] Lv. 23
-Aroma Lady Angela          | ![][315] [Roselia] Lv. 23, ![][153] [Bayleef] Lv. 23, ![][188] [Skiploom] Lv. 23
-Leader Gardenia            | ![][182] [Bellossom] Lv. 25, ![][114] [Tangela] Lv. 25, ![][421] [Cherrim] Lv. 25,<br> ![][388] [Grotle] Lv. 25, ![][286] [Breloom] Lv. 25, ![][407] [Roserade] Lv. 26
+Lass Caroline              | ![][270] [Lotad] Lv. 22  ![][331] [Cacnea] Lv. 22  ![][102] [Exeggcute] Lv. 22 <br> ![][285] [Shroomish] Lv. 22
+Aroma Lady Jenna           | ![][070] [Weepinbell] Lv. 23  ![][002] [Ivysaur] Lv. 23  ![][044] [Gloom] Lv. 23
+Aroma Lady Angela          | ![][315] [Roselia] Lv. 23  ![][153] [Bayleef] Lv. 23  ![][188] [Skiploom] Lv. 23
+Leader Gardenia            | ![][182] [Bellossom] Lv. 25  ![][114] [Tangela] Lv. 25  ![][421] [Cherrim] Lv. 25 <br> ![][388] [Grotle] Lv. 25  ![][286] [Breloom] Lv. 25  ![][407] [Roserade] Lv. 26
 
 Leader Gardenia    | Item         | Nature  | Ability       | Moves
 ---                | ---          | ---     | ---           | ---
@@ -368,14 +368,14 @@ Leader Gardenia    | Item         | Nature  | Ability       | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-Galactic Grunt             | ![][166] [Ledian] Lv. 24, ![][168] [Ariados] Lv. 24
-Galactic Grunt             | ![][023] [Ekans] Lv. 23, ![][431] [Glameow] Lv. 23, ![][029] [Nidoran♀] Lv. 23
-Galactic Grunt             | ![][109] [Koffing] Lv. 23, ![][434] [Stunky] Lv. 23, ![][032] [Nidoran♂] Lv. 23
-Galactic Grunt             | ![][453] [Croagunk] Lv. 24, ![][042] [Golbat] Lv. 24
+Galactic Grunt             | ![][166] [Ledian] Lv. 24  ![][168] [Ariados] Lv. 24
+Galactic Grunt             | ![][023] [Ekans] Lv. 23  ![][431] [Glameow] Lv. 23  ![][029] [Nidoran♀] Lv. 23
+Galactic Grunt             | ![][109] [Koffing] Lv. 23  ![][434] [Stunky] Lv. 23  ![][032] [Nidoran♂] Lv. 23
+Galactic Grunt             | ![][453] [Croagunk] Lv. 24  ![][042] [Golbat] Lv. 24
 Galactic Grunt             | ![][173] [Cleffa] Lv. 23
-Galactic Grunt             | ![][228] [Houndour] Lv. 23, ![][451] [Skorupi] Lv. 23, ![][267] [Beautifly] Lv. 23
-Scientist Travon           | ![][096] [Drowzee] Lv. 24, ![][375] [Metang] Lv. 24, ![][064] [Kadabra] Lv. 24
-Commander Jupiter          | ![][042] [Golbat] Lv. 26, ![][302] [Sableye] Lv. 26, ![][114] [Tangela] Lv. 26,<br> ![][435] [Skuntank] Lv. 27
+Galactic Grunt             | ![][228] [Houndour] Lv. 23  ![][451] [Skorupi] Lv. 23  ![][267] [Beautifly] Lv. 23
+Scientist Travon           | ![][096] [Drowzee] Lv. 24  ![][375] [Metang] Lv. 24  ![][064] [Kadabra] Lv. 24
+Commander Jupiter          | ![][042] [Golbat] Lv. 26  ![][302] [Sableye] Lv. 26  ![][114] [Tangela] Lv. 26 <br> ![][435] [Skuntank] Lv. 27
 
 Commander Jupiter | Item         | Nature  | Ability       | Moves
 ---               | ---          | ---     | ---           | ---
@@ -388,26 +388,26 @@ Commander Jupiter | Item         | Nature  | Ability       | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-Camper Anthony             | ![][240] [Magby] Lv. 24, ![][328] [Trapinch] Lv. 24, ![][004] [Charmander] Lv. 24
-Picnicker Lauren           | ![][238] [Smoochum] Lv. 24, ![][209] [Snubbull] Lv. 24, ![][252] [Treecko] Lv. 24
-Youngster Austin           | ![][271] [Lombre] Lv. 25, ![][207] [Gligar] Lv. 25
-Hiker Justin               | ![][075] [Graveler] Lv. 25, ![][028] [Sandslash] Lv. 25
-Hiker Kevin                | ![][206] [Dunsparce] Lv. 25, ![][206] [Dunsparce] Lv. 25
-Battle Girl Helen (!)      | ![][236] [Tyrogue] Lv. 26, ![][307] [Meditite] Lv. 26, ![][297] [Hariyama] Lv. 26
-PKMN Trainer Dawn          | ![][221] [Piloswine] Lv. 29, ![][036] [Clefable] Lv. 29, ![][428] [Lopunny] Lv. 29,<br> ![][388] [Grotle] Lv. 30
-PKMN Trainer Dawn          | ![][221] [Piloswine] Lv. 29, ![][036] [Clefable] Lv. 29, ![][428] [Lopunny] Lv. 29,<br> ![][391] [Monferno] Lv. 30
-PKMN Trainer Dawn          | ![][221] [Piloswine] Lv. 29, ![][036] [Clefable] Lv. 29, ![][428] [Lopunny] Lv. 29,<br> ![][394] [Prinplup] Lv. 30
-PKMN Trainer Lucas         | ![][221] [Piloswine] Lv. 29, ![][210] [Granbull] Lv. 29, ![][463] [Lickilicky] Lv. 29,<br> ![][388] [Grotle] Lv. 30
-PKMN Trainer Lucas         | ![][221] [Piloswine] Lv. 29, ![][210] [Granbull] Lv. 29, ![][463] [Lickilicky] Lv. 29,<br> ![][391] [Monferno] Lv. 30
-PKMN Trainer Lucas         | ![][221] [Piloswine] Lv. 29, ![][210] [Granbull] Lv. 29, ![][463] [Lickilicky] Lv. 29,<br> ![][394] [Prinplup] Lv. 30
+Camper Anthony             | ![][240] [Magby] Lv. 24  ![][328] [Trapinch] Lv. 24  ![][004] [Charmander] Lv. 24
+Picnicker Lauren           | ![][238] [Smoochum] Lv. 24  ![][209] [Snubbull] Lv. 24  ![][252] [Treecko] Lv. 24
+Youngster Austin           | ![][271] [Lombre] Lv. 25  ![][207] [Gligar] Lv. 25
+Hiker Justin               | ![][075] [Graveler] Lv. 25  ![][028] [Sandslash] Lv. 25
+Hiker Kevin                | ![][206] [Dunsparce] Lv. 25  ![][206] [Dunsparce] Lv. 25
+Battle Girl Helen (!)      | ![][236] [Tyrogue] Lv. 26  ![][307] [Meditite] Lv. 26  ![][297] [Hariyama] Lv. 26
+PKMN Trainer Dawn          | ![][221] [Piloswine] Lv. 29  ![][036] [Clefable] Lv. 29  ![][428] [Lopunny] Lv. 29 <br> ![][388] [Grotle] Lv. 30
+PKMN Trainer Dawn          | ![][221] [Piloswine] Lv. 29  ![][036] [Clefable] Lv. 29  ![][428] [Lopunny] Lv. 29 <br> ![][391] [Monferno] Lv. 30
+PKMN Trainer Dawn          | ![][221] [Piloswine] Lv. 29  ![][036] [Clefable] Lv. 29  ![][428] [Lopunny] Lv. 29 <br> ![][394] [Prinplup] Lv. 30
+PKMN Trainer Lucas         | ![][221] [Piloswine] Lv. 29  ![][210] [Granbull] Lv. 29  ![][463] [Lickilicky] Lv. 29 <br> ![][388] [Grotle] Lv. 30
+PKMN Trainer Lucas         | ![][221] [Piloswine] Lv. 29  ![][210] [Granbull] Lv. 29  ![][463] [Lickilicky] Lv. 29 <br> ![][391] [Monferno] Lv. 30
+PKMN Trainer Lucas         | ![][221] [Piloswine] Lv. 29  ![][210] [Granbull] Lv. 29  ![][463] [Lickilicky] Lv. 29 <br> ![][394] [Prinplup] Lv. 30
 
 #### Rematches
 
 Trainer                    | Pokémons
 ---                        | ---
-Battle Girl Helen (3)      | ![][236] [Tyrogue] Lv. 28, ![][307] [Meditite] Lv. 28, ![][297] [Hariyama] Lv. 28
-Battle Girl Helen (7)      | ![][237] [Hitmontop] Lv. 54, ![][308] [Medicham] Lv. 54, ![][297] [Hariyama] Lv. 54
-Battle Girl Helen (C)      | ![][237] [Hitmontop] Lv. 72, ![][308] [Medicham] Lv. 72, ![][297] [Hariyama] Lv. 72
+Battle Girl Helen (3)      | ![][236] [Tyrogue] Lv. 28  ![][307] [Meditite] Lv. 28  ![][297] [Hariyama] Lv. 28
+Battle Girl Helen (7)      | ![][237] [Hitmontop] Lv. 54  ![][308] [Medicham] Lv. 54  ![][297] [Hariyama] Lv. 54
+Battle Girl Helen (C)      | ![][237] [Hitmontop] Lv. 72  ![][308] [Medicham] Lv. 72  ![][297] [Hariyama] Lv. 72
 
 PKMN Trainer Dawn | Item         | Nature  | Ability       | Moves
 ---               | ---          | ---     | ---           | ---
@@ -431,17 +431,17 @@ PKMN Trainer Lucas | Item         | Nature  | Ability       | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-PKMN Trainer Mira          | ![][176] [Togetic] Lv. 27, ![][093] [Haunter] Lv. 27, ![][233] [Porygon2] Lv. 27,<br> ![][064] [Kadabra] Lv. 28
+PKMN Trainer Mira          | ![][176] [Togetic] Lv. 27  ![][093] [Haunter] Lv. 27  ![][233] [Porygon2] Lv. 27 <br> ![][064] [Kadabra] Lv. 28
 Hiker Reginald             | ![][051] [Dugtrio] Lv. 26
-Hiker Lorenzo              | ![][111] [Rhyhorn] Lv. 25, ![][185] [Sudowoodo] Lv. 25
-Lass Cassidy               | ![][300] [Skitty] Lv. 24, ![][052] [Meowth] Lv. 24, ![][133] [Eevee] Lv. 24
-Youngster Wayne            | ![][294] [Loudred] Lv. 25, ![][020] [Raticate] Lv. 25
-Picnicker Tori             | ![][054] [Psyduck] Lv. 25, ![][030] [Nidorina] Lv. 25
-Camper Diego               | ![][190] [Aipom] Lv. 25, ![][033] [Nidorino] Lv. 25
-Picnicker Ana              | ![][314] [Illumise] Lv. 25, ![][162] [Furret] Lv. 25
-Camper Parker              | ![][313] [Volbeat] Lv. 25, ![][264] [Linoone] Lv. 25
-Collector Terry            | ![][443] [Gible] Lv. 24, ![][371] [Bagon] Lv. 24, ![][444] [Gabite] Lv. 24
-Ruin Maniac Gerald         | ![][104] [Cubone] Lv. 25, ![][476] [Probopass] Lv. 25
+Hiker Lorenzo              | ![][111] [Rhyhorn] Lv. 25  ![][185] [Sudowoodo] Lv. 25
+Lass Cassidy               | ![][300] [Skitty] Lv. 24  ![][052] [Meowth] Lv. 24  ![][133] [Eevee] Lv. 24
+Youngster Wayne            | ![][294] [Loudred] Lv. 25  ![][020] [Raticate] Lv. 25
+Picnicker Tori             | ![][054] [Psyduck] Lv. 25  ![][030] [Nidorina] Lv. 25
+Camper Diego               | ![][190] [Aipom] Lv. 25  ![][033] [Nidorino] Lv. 25
+Picnicker Ana              | ![][314] [Illumise] Lv. 25  ![][162] [Furret] Lv. 25
+Camper Parker              | ![][313] [Volbeat] Lv. 25  ![][264] [Linoone] Lv. 25
+Collector Terry            | ![][443] [Gible] Lv. 24  ![][371] [Bagon] Lv. 24  ![][444] [Gabite] Lv. 24
+Ruin Maniac Gerald         | ![][104] [Cubone] Lv. 25  ![][476] [Probopass] Lv. 25
 
 PKMN Trainer Mira | Item         | Nature  | Ability       | Moves
 ---               | ---          | ---     | ---           | ---
@@ -455,21 +455,21 @@ PKMN Trainer Mira | Item         | Nature  | Ability       | Moves
 Trainer                    | Pokémons
 ---                        | ---
 Hiker Robert               | ![][105] [Marowak] Lv. 28
-Hiker Jonathan             | ![][449] [Hippopotas] Lv. 26, ![][213] [Shuckle] Lv. 26, ![][436] [Bronzor] Lv. 26
+Hiker Jonathan             | ![][449] [Hippopotas] Lv. 26  ![][213] [Shuckle] Lv. 26  ![][436] [Bronzor] Lv. 26
 Black Belt Kyle            | ![][067] [Machoke] Lv. 29
-Aroma Lady Hannah          | ![][315] [Roselia] Lv. 27, ![][192] [Sunflora] Lv. 27
-Artist William (!)         | ![][235] [Smeargle] Lv. 26, ![][235] [Smeargle] Lv. 26, ![][235] [Smeargle] Lv. 26
-Fisherman Cody             | ![][340] [Whiscash] Lv. 44, ![][130] [Gyarados] Lv. 44
+Aroma Lady Hannah          | ![][315] [Roselia] Lv. 27  ![][192] [Sunflora] Lv. 27
+Artist William (!)         | ![][235] [Smeargle] Lv. 26  ![][235] [Smeargle] Lv. 26  ![][235] [Smeargle] Lv. 26
+Fisherman Cody             | ![][340] [Whiscash] Lv. 44  ![][130] [Gyarados] Lv. 44
 Hiker Alexander            | ![][075] [Graveler] Lv. 28
-Elite Four Aaron           | ![][269] [Dustox] Lv. 31, ![][267] [Beautifly] Lv. 31, ![][049] [Venomoth] Lv. 31, ![][212] [Scizor] Lv. 31,<br> ![][452] [Drapion] Lv. 32
+Elite Four Aaron           | ![][269] [Dustox] Lv. 31  ![][267] [Beautifly] Lv. 31  ![][049] [Venomoth] Lv. 31  ![][212] [Scizor] Lv. 31 <br> ![][452] [Drapion] Lv. 32
 
 #### Rematches
 
 Trainer                    | Pokémons
 ---                        | ---
-Artist William (5)         | ![][235] [Smeargle] Lv. 38, ![][235] [Smeargle] Lv. 38, ![][235] [Smeargle] Lv. 38
-Artist William (8)         | ![][235] [Smeargle] Lv. 53, ![][235] [Smeargle] Lv. 53, ![][235] [Smeargle] Lv. 53
-Artist William (C)         | ![][235] [Smeargle] Lv. 70, ![][235] [Smeargle] Lv. 70, ![][235] [Smeargle] Lv. 70
+Artist William (5)         | ![][235] [Smeargle] Lv. 38  ![][235] [Smeargle] Lv. 38  ![][235] [Smeargle] Lv. 38
+Artist William (8)         | ![][235] [Smeargle] Lv. 53  ![][235] [Smeargle] Lv. 53  ![][235] [Smeargle] Lv. 53
+Artist William (C)         | ![][235] [Smeargle] Lv. 70  ![][235] [Smeargle] Lv. 70  ![][235] [Smeargle] Lv. 70
 
 Elite Four Aaron | Item         | Nature  | Ability       | Moves
 ---              | ---          | ---     | ---           | ---
@@ -483,16 +483,16 @@ Elite Four Aaron | Item         | Nature  | Ability       | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-Youngster Donny            | ![][092] [Gastly] Lv. 27, ![][092] [Gastly] Lv. 27, ![][092] [Gastly] Lv. 27
+Youngster Donny            | ![][092] [Gastly] Lv. 27  ![][092] [Gastly] Lv. 27  ![][092] [Gastly] Lv. 27
 Lass Molly                 | ![][200] [Misdreavus] Lv. 29
-School Kid Chance          | ![][355] [Duskull] Lv. 26, ![][353] [Shuppet] Lv. 26, ![][355] [Duskull] Lv. 26
-School Kid Mackenzie       | ![][353] [Shuppet] Lv. 26, ![][355] [Duskull] Lv. 26, ![][353] [Shuppet] Lv. 26
-Ace Trainer Allen          | ![][093] [Haunter] Lv. 29, ![][292] [Shedinja] Lv. 29, ![][302] [Sableye] Lv. 29
-Ace Trainer Catherine      | ![][093] [Haunter] Lv. 29, ![][479] [Rotom] Lv. 29, ![][478] [Froslass] Lv. 29
-Leader Fantina             | ![][426] [Drifblim] Lv. 32, ![][356] [Dusclops] Lv. 32, ![][354] [Banette] Lv. 32, ![][442] [Spiritomb] Lv. 32,<br> ![][094] [Gengar] Lv. 32, ![][429] [Mismagius] Lv. 33
-PKMN Trainer Barry         | ![][397] [Staravia] Lv. 32, ![][214] [Heracross] Lv. 32, ![][143] [Snorlax] Lv. 32,<br> ![][388] [Grotle] Lv. 33
-PKMN Trainer Barry         | ![][397] [Staravia] Lv. 32, ![][214] [Heracross] Lv. 32, ![][143] [Snorlax] Lv. 32,<br> ![][391] [Monferno] Lv. 33
-PKMN Trainer Barry         | ![][397] [Staravia] Lv. 32, ![][214] [Heracross] Lv. 32, ![][143] [Snorlax] Lv. 32,<br> ![][394] [Prinplup] Lv. 33
+School Kid Chance          | ![][355] [Duskull] Lv. 26  ![][353] [Shuppet] Lv. 26  ![][355] [Duskull] Lv. 26
+School Kid Mackenzie       | ![][353] [Shuppet] Lv. 26  ![][355] [Duskull] Lv. 26  ![][353] [Shuppet] Lv. 26
+Ace Trainer Allen          | ![][093] [Haunter] Lv. 29  ![][292] [Shedinja] Lv. 29  ![][302] [Sableye] Lv. 29
+Ace Trainer Catherine      | ![][093] [Haunter] Lv. 29  ![][479] [Rotom] Lv. 29  ![][478] [Froslass] Lv. 29
+Leader Fantina             | ![][426] [Drifblim] Lv. 32  ![][356] [Dusclops] Lv. 32  ![][354] [Banette] Lv. 32  ![][442] [Spiritomb] Lv. 32 <br> ![][094] [Gengar] Lv. 32  ![][429] [Mismagius] Lv. 33
+PKMN Trainer Barry         | ![][397] [Staravia] Lv. 32  ![][214] [Heracross] Lv. 32  ![][143] [Snorlax] Lv. 32 <br> ![][388] [Grotle] Lv. 33
+PKMN Trainer Barry         | ![][397] [Staravia] Lv. 32  ![][214] [Heracross] Lv. 32  ![][143] [Snorlax] Lv. 32 <br> ![][391] [Monferno] Lv. 33
+PKMN Trainer Barry         | ![][397] [Staravia] Lv. 32  ![][214] [Heracross] Lv. 32  ![][143] [Snorlax] Lv. 32 <br> ![][394] [Prinplup] Lv. 33
 
 Leader Fantina     | Item         | Nature  | Ability       | Moves
 ---                | ---          | ---     | ---           | ---
@@ -516,22 +516,22 @@ PKMN Trainer Barry | Item         | Nature  | Ability       | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-Galactic Grunt             | ![][262] [Mightyena] Lv. 29, ![][024] [Arbok] Lv. 29
+Galactic Grunt             | ![][262] [Mightyena] Lv. 29  ![][024] [Arbok] Lv. 29
 Galactic Grunt             | ![][402] [Kricketune] Lv. 30
-Galactic Grunt             | ![][431] [Glameow] Lv. 28, ![][109] [Koffing] Lv. 28, ![][269] [Dustox] Lv. 28
-Galactic Grunt             | ![][337] [Lunatone] Lv. 29, ![][338] [Solrock] Lv. 29
-Galactic Grunt             | ![][338] [Solrock] Lv. 29, ![][337] [Lunatone] Lv. 29
+Galactic Grunt             | ![][431] [Glameow] Lv. 28  ![][109] [Koffing] Lv. 28  ![][269] [Dustox] Lv. 28
+Galactic Grunt             | ![][337] [Lunatone] Lv. 29  ![][338] [Solrock] Lv. 29
+Galactic Grunt             | ![][338] [Solrock] Lv. 29  ![][337] [Lunatone] Lv. 29
 Galactic Grunt             | ![][290] [Nincada] Lv. 30
 Galactic Grunt             | ![][291] [Ninjask] Lv. 30
 Galactic Grunt             | ![][292] [Shedinja] Lv. 30
-Galactic Grunt             | ![][015] [Beedrill] Lv. 29, ![][042] [Golbat] Lv. 29
-Galactic Grunt             | ![][453] [Croagunk] Lv. 28, ![][336] [Seviper] Lv. 28, ![][012] [Butterfree] Lv. 28
+Galactic Grunt             | ![][015] [Beedrill] Lv. 29  ![][042] [Golbat] Lv. 29
+Galactic Grunt             | ![][453] [Croagunk] Lv. 28  ![][336] [Seviper] Lv. 28  ![][012] [Butterfree] Lv. 28
 Galactic Grunt             | ![][198] [Murkrow] Lv. 30
-Galactic Grunt             | ![][434] [Stunky] Lv. 28, ![][048] [Venonat] Lv. 28, ![][024] [Arbok] Lv. 28
-Commander Saturn           | ![][437] [Bronzong] Lv. 33, ![][224] [Octillery] Lv. 33, ![][454] [Toxicroak] Lv. 34
-Gentleman Backlot          | ![][040] [Wigglytuff] Lv. 33, ![][026] [Raichu] Lv. 33, ![][196] [Espeon] Lv. 33
-Rich Boy Jason             | ![][394] [Prinplup] Lv. 30, ![][184] [Azumarill] Lv. 30
-Lady Melissa (!)           | ![][421] [Cherrim] Lv. 30, ![][189] [Jumpluff] Lv. 30
+Galactic Grunt             | ![][434] [Stunky] Lv. 28  ![][048] [Venonat] Lv. 28  ![][024] [Arbok] Lv. 28
+Commander Saturn           | ![][437] [Bronzong] Lv. 33  ![][224] [Octillery] Lv. 33  ![][454] [Toxicroak] Lv. 34
+Gentleman Backlot          | ![][040] [Wigglytuff] Lv. 33  ![][026] [Raichu] Lv. 33  ![][196] [Espeon] Lv. 33
+Rich Boy Jason             | ![][394] [Prinplup] Lv. 30  ![][184] [Azumarill] Lv. 30
+Lady Melissa (!)           | ![][421] [Cherrim] Lv. 30  ![][189] [Jumpluff] Lv. 30
 Gentleman Jeremy (!)       | ![][441] [Chatot] Lv. 31
 Socialite Reina (!)        | ![][301] [Delcatty] Lv. 31
 Policeman Bobby            | ![][164] [Noctowl] Lv. 31
@@ -543,9 +543,9 @@ Policeman Caleb            | ![][210] [Granbull] Lv. 31
 
 Trainer                    | Pokémons
 ---                        | ---
-Lady Melissa (5)           | ![][044] [Gloom] Lv. 38, ![][421] [Cherrim] Lv. 38, ![][189] [Jumpluff] Lv. 38
-Lady Melissa (8)           | ![][182] [Bellossom] Lv. 59, ![][421] [Cherrim] Lv. 59, ![][189] [Jumpluff] Lv. 59
-Lady Melissa (C)           | ![][182] [Bellossom] Lv. 70, ![][421] [Cherrim] Lv. 70, ![][189] [Jumpluff] Lv. 70
+Lady Melissa (5)           | ![][044] [Gloom] Lv. 38  ![][421] [Cherrim] Lv. 38  ![][189] [Jumpluff] Lv. 38
+Lady Melissa (8)           | ![][182] [Bellossom] Lv. 59  ![][421] [Cherrim] Lv. 59  ![][189] [Jumpluff] Lv. 59
+Lady Melissa (C)           | ![][182] [Bellossom] Lv. 70  ![][421] [Cherrim] Lv. 70  ![][189] [Jumpluff] Lv. 70
 Gentleman Jeremy (5)       | ![][441] [Chatot] Lv. 41
 Gentleman Jeremy (8)       | ![][441] [Chatot] Lv. 62
 Gentleman Jeremy (C)       | ![][441] [Chatot] Lv. 73
@@ -568,99 +568,99 @@ Gentleman Backlot   | Item         | Nature  | Ability       | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-PKMN Breeder Albert (!)    | ![][236] [Tyrogue] Lv. 26, ![][433] [Chingling] Lv. 26, ![][438] [Bonsly] Lv. 26,<br> ![][240] [Magby] Lv. 26, ![][239] [Elekid] Lv. 26, ![][439] [Mime Jr.] Lv. 26
-Twins Emma & Lil           | ![][134] [Vaporeon] Lv. 30, ![][136] [Flareon] Lv. 30
-Poké Kid Danielle (!)      | ![][172] [Pichu] Lv. 28, ![][025] [Pikachu] Lv. 29, ![][026] [Raichu] Lv. 30
-PKMN Breeder Jennifer (!)  | ![][298] [Azurill] Lv. 26, ![][175] [Togepi] Lv. 26, ![][173] [Cleffa] Lv. 26,<br> ![][174] [Igglybuff] Lv. 26, ![][238] [Smoochum] Lv. 26, ![][406] [Budew] Lv. 26
-Cowgirl Shelley            | ![][077] [Ponyta] Lv. 30, ![][400] [Bibarel] Lv. 30
+PKMN Breeder Albert (!)    | ![][236] [Tyrogue] Lv. 26  ![][433] [Chingling] Lv. 26  ![][438] [Bonsly] Lv. 26 <br> ![][240] [Magby] Lv. 26  ![][239] [Elekid] Lv. 26  ![][439] [Mime Jr.] Lv. 26
+Twins Emma & Lil           | ![][134] [Vaporeon] Lv. 30  ![][136] [Flareon] Lv. 30
+Poké Kid Danielle (!)      | ![][172] [Pichu] Lv. 28  ![][025] [Pikachu] Lv. 29  ![][026] [Raichu] Lv. 30
+PKMN Breeder Jennifer (!)  | ![][298] [Azurill] Lv. 26  ![][175] [Togepi] Lv. 26  ![][173] [Cleffa] Lv. 26 <br> ![][174] [Igglybuff] Lv. 26  ![][238] [Smoochum] Lv. 26  ![][406] [Budew] Lv. 26
+Cowgirl Shelley            | ![][077] [Ponyta] Lv. 30  ![][400] [Bibarel] Lv. 30
 Jogger Richard             | ![][085] [Dodrio] Lv. 31
 Jogger Raul                | ![][022] [Fearow] Lv. 31
-Young Couple Ty & Sue      | ![][314] [Illumise] Lv. 31, ![][313] [Volbeat] Lv. 31
+Young Couple Ty & Sue      | ![][314] [Illumise] Lv. 31  ![][313] [Volbeat] Lv. 31
 
 #### Rematches
 
 Trainer                    | Pokémons
 ---                        | ---
-PKMN Breeder Albert (5)    | ![][237] [Hitmontop] Lv. 37, ![][358] [Chimecho] Lv. 37, ![][185] [Sudowoodo] Lv. 37,<br> ![][126] [Magmar] Lv. 37, ![][125] [Electabuzz] Lv. 37, ![][122] [Mr. Mime] Lv. 37
-PKMN Breeder Albert (8)    | ![][237] [Hitmontop] Lv. 57, ![][358] [Chimecho] Lv. 57, ![][185] [Sudowoodo] Lv. 57,<br> ![][126] [Magmar] Lv. 57, ![][125] [Electabuzz] Lv. 57, ![][122] [Mr. Mime] Lv. 57
-PKMN Breeder Albert (C)    | ![][237] [Hitmontop] Lv. 68, ![][358] [Chimecho] Lv. 68, ![][185] [Sudowoodo] Lv. 68,<br> ![][126] [Magmar] Lv. 68, ![][125] [Electabuzz] Lv. 68, ![][122] [Mr. Mime] Lv. 68
-Poké Kid Danielle (5)      | ![][025] [Pikachu] Lv. 37, ![][025] [Pikachu] Lv. 37, ![][026] [Raichu] Lv. 38
-Poké Kid Danielle (8)      | ![][025] [Pikachu] Lv. 57, ![][026] [Raichu] Lv. 58, ![][026] [Raichu] Lv. 58
-Poké Kid Danielle (C)      | ![][026] [Raichu] Lv. 69, ![][026] [Raichu] Lv. 69, ![][026] [Raichu] Lv. 69
-PKMN Breeder Jennifer (5)  | ![][183] [Marill] Lv. 37, ![][176] [Togetic] Lv. 37, ![][035] [Clefairy] Lv. 37,<br> ![][039] [Jigglypuff] Lv. 37, ![][124] [Jynx] Lv. 37, ![][315] [Roselia] Lv. 37
-PKMN Breeder Jennifer (8)  | ![][184] [Azumarill] Lv. 57, ![][468] [Togekiss] Lv. 57, ![][036] [Clefable] Lv. 57,<br> ![][040] [Wigglytuff] Lv. 57, ![][124] [Jynx] Lv. 57, ![][407] [Roserade] Lv. 57
-PKMN Breeder Jennifer (C)  | ![][184] [Azumarill] Lv. 68, ![][468] [Togekiss] Lv. 68, ![][036] [Clefable] Lv. 68,<br> ![][040] [Wigglytuff] Lv. 68, ![][124] [Jynx] Lv. 68, ![][407] [Roserade] Lv. 68
+PKMN Breeder Albert (5)    | ![][237] [Hitmontop] Lv. 37  ![][358] [Chimecho] Lv. 37  ![][185] [Sudowoodo] Lv. 37 <br> ![][126] [Magmar] Lv. 37  ![][125] [Electabuzz] Lv. 37  ![][122] [Mr. Mime] Lv. 37
+PKMN Breeder Albert (8)    | ![][237] [Hitmontop] Lv. 57  ![][358] [Chimecho] Lv. 57  ![][185] [Sudowoodo] Lv. 57 <br> ![][126] [Magmar] Lv. 57  ![][125] [Electabuzz] Lv. 57  ![][122] [Mr. Mime] Lv. 57
+PKMN Breeder Albert (C)    | ![][237] [Hitmontop] Lv. 68  ![][358] [Chimecho] Lv. 68  ![][185] [Sudowoodo] Lv. 68 <br> ![][126] [Magmar] Lv. 68  ![][125] [Electabuzz] Lv. 68  ![][122] [Mr. Mime] Lv. 68
+Poké Kid Danielle (5)      | ![][025] [Pikachu] Lv. 37  ![][025] [Pikachu] Lv. 37  ![][026] [Raichu] Lv. 38
+Poké Kid Danielle (8)      | ![][025] [Pikachu] Lv. 57  ![][026] [Raichu] Lv. 58  ![][026] [Raichu] Lv. 58
+Poké Kid Danielle (C)      | ![][026] [Raichu] Lv. 69  ![][026] [Raichu] Lv. 69  ![][026] [Raichu] Lv. 69
+PKMN Breeder Jennifer (5)  | ![][183] [Marill] Lv. 37  ![][176] [Togetic] Lv. 37  ![][035] [Clefairy] Lv. 37 <br> ![][039] [Jigglypuff] Lv. 37  ![][124] [Jynx] Lv. 37  ![][315] [Roselia] Lv. 37
+PKMN Breeder Jennifer (8)  | ![][184] [Azumarill] Lv. 57  ![][468] [Togekiss] Lv. 57  ![][036] [Clefable] Lv. 57 <br> ![][040] [Wigglytuff] Lv. 57  ![][124] [Jynx] Lv. 57  ![][407] [Roserade] Lv. 57
+PKMN Breeder Jennifer (C)  | ![][184] [Azumarill] Lv. 68  ![][468] [Togekiss] Lv. 68  ![][036] [Clefable] Lv. 68 <br> ![][040] [Wigglytuff] Lv. 68  ![][124] [Jynx] Lv. 68  ![][407] [Roserade] Lv. 68
 
 ### Lost Tower
 
 Trainer                    | Pokémons
 ---                        | ---
-Youngster Oliver           | ![][422] [Shellos] Lv. 31, ![][339] [Barboach] Lv. 31, ![][414] [Mothim] Lv. 31
-Pokéfan Leonard            | ![][311] [Plusle] Lv. 31, ![][312] [Minun] Lv. 31, ![][417] [Pachirisu] Lv. 31
+Youngster Oliver           | ![][422] [Shellos] Lv. 31  ![][339] [Barboach] Lv. 31  ![][414] [Mothim] Lv. 31
+Pokéfan Leonard            | ![][311] [Plusle] Lv. 31  ![][312] [Minun] Lv. 31  ![][417] [Pachirisu] Lv. 31
 Roughneck Kirby            | ![][173] [Cleffa] Lv. 33
-Pokéfan Rebekah            | ![][035] [Clefairy] Lv. 30, ![][320] [Wailmer] Lv. 30, ![][438] [Bonsly] Lv. 30,<br> ![][300] [Skitty] Lv. 30
-Young Couple Mike & Nat    | ![][198] [Murkrow] Lv. 33, ![][200] [Misdreavus] Lv. 33
-Belle & Pa Beth & Bob      | ![][077] [Ponyta] Lv. 33, ![][180] [Flaaffy] Lv. 33
+Pokéfan Rebekah            | ![][035] [Clefairy] Lv. 30  ![][320] [Wailmer] Lv. 30  ![][438] [Bonsly] Lv. 30 <br> ![][300] [Skitty] Lv. 30
+Young Couple Mike & Nat    | ![][198] [Murkrow] Lv. 33  ![][200] [Misdreavus] Lv. 33
+Belle & Pa Beth & Bob      | ![][077] [Ponyta] Lv. 33  ![][180] [Flaaffy] Lv. 33
 
 ### Solaceon Ruins
 Trainer                    | Pokémons
 ---                        | ---
-Ruin Maniac Karl           | ![][436] [Bronzor] Lv. 31, ![][075] [Graveler] Lv. 31, ![][028] [Sandslash] Lv. 31
+Ruin Maniac Karl           | ![][436] [Bronzor] Lv. 31  ![][075] [Graveler] Lv. 31  ![][028] [Sandslash] Lv. 31
 
 ### Route 210 ~ South
 
 Trainer                    | Pokémons
 ---                        | ---
-Twins Teri & Tia           | ![][162] [Furret] Lv. 32, ![][264] [Linoone] Lv. 32
+Twins Teri & Tia           | ![][162] [Furret] Lv. 32  ![][264] [Linoone] Lv. 32
 Jogger Wyatt               | ![][101] [Electrode] Lv. 33
-PKMN Breeder Kahlil        | ![][447] [Riolu] Lv. 31, ![][433] [Chingling] Lv. 31, ![][446] [Munchlax] Lv. 31
-PKMN Breeder Amber         | ![][458] [Mantyke] Lv. 31, ![][440] [Happiny] Lv. 31, ![][360] [Wynaut] Lv. 31
-Belle & Pa Ava & Matt      | ![][128] [Tauros] Lv. 33, ![][241] [Miltank] Lv. 33
+PKMN Breeder Kahlil        | ![][447] [Riolu] Lv. 31  ![][433] [Chingling] Lv. 31  ![][446] [Munchlax] Lv. 31
+PKMN Breeder Amber         | ![][458] [Mantyke] Lv. 31  ![][440] [Happiny] Lv. 31  ![][360] [Wynaut] Lv. 31
+Belle & Pa Ava & Matt      | ![][128] [Tauros] Lv. 33  ![][241] [Miltank] Lv. 33
 Rancher Marco (!)          | ![][078] [Rapidash] Lv. 33
-Collector Fernando         | ![][147] [Dratini] Lv. 31, ![][148] [Dragonair] Lv. 33
-Collector Edwin            | ![][371] [Bagon] Lv. 31, ![][372] [Shelgon] Lv. 33
+Collector Fernando         | ![][147] [Dratini] Lv. 31  ![][148] [Dragonair] Lv. 33
+Collector Edwin            | ![][371] [Bagon] Lv. 31  ![][372] [Shelgon] Lv. 33
 Waitress Kati              | ![][036] [Clefable] Lv. 33
 
 #### Rematches
 
 Trainer                    | Pokémons
 ---                        | ---
-Rancher Marco (8)          | ![][078] [Rapidash] Lv. 59, ![][128] [Tauros] Lv. 59, ![][241] [Miltank] Lv. 59
-Rancher Marco (C)          | ![][078] [Rapidash] Lv. 70, ![][128] [Tauros] Lv. 70, ![][241] [Miltank] Lv. 70
+Rancher Marco (8)          | ![][078] [Rapidash] Lv. 59  ![][128] [Tauros] Lv. 59  ![][241] [Miltank] Lv. 59
+Rancher Marco (C)          | ![][078] [Rapidash] Lv. 70  ![][128] [Tauros] Lv. 70  ![][241] [Miltank] Lv. 70
 
 ### Route 215
 
 Trainer                    | Pokémons
 ---                        | ---
-Black Belt Derek           | ![][256] [Combusken] Lv. 34, ![][106] [Hitmonlee] Lv. 34
-Black Belt Gregory         | ![][057] [Primeape] Lv. 34, ![][107] [Hitmonchan] Lv. 34
-Black Belt Nathaniel       | ![][067] [Machoke] Lv. 34, ![][237] [Hitmontop] Lv. 34
+Black Belt Derek           | ![][256] [Combusken] Lv. 34  ![][106] [Hitmonlee] Lv. 34
+Black Belt Gregory         | ![][057] [Primeape] Lv. 34  ![][107] [Hitmonchan] Lv. 34
+Black Belt Nathaniel       | ![][067] [Machoke] Lv. 34  ![][237] [Hitmontop] Lv. 34
 Jogger Scott               | ![][398] [Staraptor] Lv. 34
-Ruin Maniac Calvin         | ![][105] [Marowak] Lv. 33, ![][409] [Rampardos] Lv. 33
+Ruin Maniac Calvin         | ![][105] [Marowak] Lv. 33  ![][409] [Rampardos] Lv. 33
 Jogger Craig (!)           | ![][405] [Luxray] Lv. 34
-Ace Trainer Dennis (!)     | ![][207] [Gligar] Lv. 35, ![][130] [Gyarados] Lv. 35, ![][426] [Drifblim] Lv. 35
-Ace Trainer Maya (!)       | ![][108] [Lickitung] Lv. 35, ![][282] [Gardevoir] Lv. 35, ![][407] [Roserade] Lv. 35
+Ace Trainer Dennis (!)     | ![][207] [Gligar] Lv. 35  ![][130] [Gyarados] Lv. 35  ![][426] [Drifblim] Lv. 35
+Ace Trainer Maya (!)       | ![][108] [Lickitung] Lv. 35  ![][282] [Gardevoir] Lv. 35  ![][407] [Roserade] Lv. 35
 
 #### Rematches
 
 Trainer                    | Pokémons
 ---                        | ---
-Jogger Craig (8)           | ![][405] [Luxray] Lv. 60, ![][405] [Luxray] Lv. 60
-Jogger Craig (C)           | ![][405] [Luxray] Lv. 72, ![][405] [Luxray] Lv. 72
-Ace Trainer Dennis (7)     | ![][472] [Gliscor] Lv. 62, ![][130] [Gyarados] Lv. 62, ![][426] [Drifblim] Lv. 62
-Ace Trainer Dennis (S)     | ![][472] [Gliscor] Lv. 77, ![][130] [Gyarados] Lv. 77, ![][426] [Drifblim] Lv. 77
-Ace Trainer Maya (7)       | ![][463] [Lickilicky] Lv. 62, ![][282] [Gardevoir] Lv. 62, ![][407] [Roserade] Lv. 62
-Ace Trainer Maya (S)       | ![][463] [Lickilicky] Lv. 77, ![][282] [Gardevoir] Lv. 77, ![][407] [Roserade] Lv. 77
+Jogger Craig (8)           | ![][405] [Luxray] Lv. 60  ![][405] [Luxray] Lv. 60
+Jogger Craig (C)           | ![][405] [Luxray] Lv. 72  ![][405] [Luxray] Lv. 72
+Ace Trainer Dennis (7)     | ![][472] [Gliscor] Lv. 62  ![][130] [Gyarados] Lv. 62  ![][426] [Drifblim] Lv. 62
+Ace Trainer Dennis (S)     | ![][472] [Gliscor] Lv. 77  ![][130] [Gyarados] Lv. 77  ![][426] [Drifblim] Lv. 77
+Ace Trainer Maya (7)       | ![][463] [Lickilicky] Lv. 62  ![][282] [Gardevoir] Lv. 62  ![][407] [Roserade] Lv. 62
+Ace Trainer Maya (S)       | ![][463] [Lickilicky] Lv. 77  ![][282] [Gardevoir] Lv. 77  ![][407] [Roserade] Lv. 77
 
 ### Veilstone Gym
 
 Trainer                    | Pokémons
 ---                        | ---
-Black Belt Colby           | ![][066] [Machop] Lv. 33, ![][307] [Meditite] Lv. 33, ![][453] [Croagunk] Lv. 33,<br> ![][056] [Mankey] Lv. 33, ![][296] [Makuhita] Lv. 33
-Black Belt Darren          | ![][057] [Primeape] Lv. 35, ![][297] [Hariyama] Lv. 35, ![][286] [Breloom] Lv. 35
-Black Belt Jeffery         | ![][214] [Heracross] Lv. 36, ![][062] [Poliwrath] Lv. 36
-Black Belt Rafael          | ![][107] [Hitmonchan] Lv. 35, ![][106] [Hitmonlee] Lv. 35, ![][237] [Hitmontop] Lv. 35
-Leader Maylene             | ![][308] [Medicham] Lv. 38, ![][068] [Machamp] Lv. 38, ![][392] [Infernape] Lv. 38,<br> ![][454] [Toxicroak] Lv. 38, ![][475] [Gallade] Lv. 38, ![][448] [Lucario] Lv. 39
+Black Belt Colby           | ![][066] [Machop] Lv. 33  ![][307] [Meditite] Lv. 33  ![][453] [Croagunk] Lv. 33 <br> ![][056] [Mankey] Lv. 33  ![][296] [Makuhita] Lv. 33
+Black Belt Darren          | ![][057] [Primeape] Lv. 35  ![][297] [Hariyama] Lv. 35  ![][286] [Breloom] Lv. 35
+Black Belt Jeffery         | ![][214] [Heracross] Lv. 36  ![][062] [Poliwrath] Lv. 36
+Black Belt Rafael          | ![][107] [Hitmonchan] Lv. 35  ![][106] [Hitmonlee] Lv. 35  ![][237] [Hitmontop] Lv. 35
+Leader Maylene             | ![][308] [Medicham] Lv. 38  ![][068] [Machamp] Lv. 38  ![][392] [Infernape] Lv. 38 <br> ![][454] [Toxicroak] Lv. 38  ![][475] [Gallade] Lv. 38  ![][448] [Lucario] Lv. 39
 
 Leader Maylene     | Item         | Nature  | Ability       | Moves
 ---                | ---          | ---     | ---           | ---
@@ -675,34 +675,34 @@ Leader Maylene     | Item         | Nature  | Ability       | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-Dragon Tamer Nils          | ![][148] [Dragonair] Lv. 35, ![][372] [Shelgon] Lv. 35, ![][329] [Vibrava] Lv. 35,<br> ![][230] [Kingdra] Lv. 36
-Team Galactic Grunt        | ![][110] [Weezing] Lv. 35, ![][042] [Golbat] Lv. 35, ![][049] [Venomoth] Lv. 35
-Team Galactic Grunt        | ![][435] [Skuntank] Lv. 35, ![][269] [Dustox] Lv. 35, ![][413] [Wormadam] Lv. 35
+Dragon Tamer Nils          | ![][148] [Dragonair] Lv. 35  ![][372] [Shelgon] Lv. 35  ![][329] [Vibrava] Lv. 35 <br> ![][230] [Kingdra] Lv. 36
+Team Galactic Grunt        | ![][110] [Weezing] Lv. 35  ![][042] [Golbat] Lv. 35  ![][049] [Venomoth] Lv. 35
+Team Galactic Grunt        | ![][435] [Skuntank] Lv. 35  ![][269] [Dustox] Lv. 35  ![][413] [Wormadam] Lv. 35
 
 ### Route 214
 
 Trainer                    | Pokémons
 ---                        | ---
 PI Carlos (!)              | ![][051] [Dugtrio] Lv. 36
-Collector Douglas          | ![][135] [Jolteon] Lv. 33, ![][134] [Vaporeon] Lv. 33, ![][136] [Flareon] Lv. 33
-Collector Brady            | ![][115] [Kangaskhan] Lv. 33, ![][357] [Tropius] Lv. 33, ![][317] [Swalot] Lv. 33
-Ruin Maniac Bryan          | ![][347] [Anorith] Lv. 33, ![][345] [Lileep] Lv. 33, ![][142] [Aerodactyl] Lv. 33
+Collector Douglas          | ![][135] [Jolteon] Lv. 33  ![][134] [Vaporeon] Lv. 33  ![][136] [Flareon] Lv. 33
+Collector Brady            | ![][115] [Kangaskhan] Lv. 33  ![][357] [Tropius] Lv. 33  ![][317] [Swalot] Lv. 33
+Ruin Maniac Bryan          | ![][347] [Anorith] Lv. 33  ![][345] [Lileep] Lv. 33  ![][142] [Aerodactyl] Lv. 33
 Ruin Maniac Ronald         | ![][369] [Relicanth] Lv. 35
 Collector Jamal            | ![][131] [Lapras] Lv. 35
-Beauty Devon               | ![][413] [Wormadam] Lv. 33, ![][413] [Wormadam] Lv. 33, ![][413] [Wormadam] Lv. 33
-Psychic Mitchell (!)       | ![][064] [Kadabra] Lv. 34, ![][326] [Grumpig] Lv. 34, ![][097] [Hypno] Lv. 34
-Psychic Abigail (!)        | ![][281] [Kirlia] Lv. 34, ![][358] [Chimecho] Lv. 34, ![][203] [Girafarig] Lv. 34
+Beauty Devon               | ![][413] [Wormadam] Lv. 33  ![][413] [Wormadam] Lv. 33  ![][413] [Wormadam] Lv. 33
+Psychic Mitchell (!)       | ![][064] [Kadabra] Lv. 34  ![][326] [Grumpig] Lv. 34  ![][097] [Hypno] Lv. 34
+Psychic Abigail (!)        | ![][281] [Kirlia] Lv. 34  ![][358] [Chimecho] Lv. 34  ![][203] [Girafarig] Lv. 34
 
 #### Rematches
 
 Trainer                    | Pokémons
 ---                        | ---
 PI Carlos (8)              | ![][051] [Dugtrio] Lv. 62
-PI Carlos (C)              | ![][051] [Dugtrio] Lv. 70, ![][131] [Lapras] Lv. 70, ![][099] [Kingler] Lv. 70
-Psychic Mitchell (8)       | ![][065] [Alakazam] Lv. 60, ![][326] [Grumpig] Lv. 60, ![][097] [Hypno] Lv. 60
-Psychic Mitchell (C)       | ![][065] [Alakazam] Lv. 72, ![][326] [Grumpig] Lv. 72, ![][097] [Hypno] Lv. 72
-Psychic Abigail (8)        | ![][282] [Gardevoir] Lv. 60, ![][358] [Chimecho] Lv. 60, ![][203] [Girafarig] Lv. 60
-Psychic Abigail (C)        | ![][282] [Gardevoir] Lv. 72, ![][358] [Chimecho] Lv. 72, ![][203] [Girafarig] Lv. 72
+PI Carlos (C)              | ![][051] [Dugtrio] Lv. 70  ![][131] [Lapras] Lv. 70  ![][099] [Kingler] Lv. 70
+Psychic Mitchell (8)       | ![][065] [Alakazam] Lv. 60  ![][326] [Grumpig] Lv. 60  ![][097] [Hypno] Lv. 60
+Psychic Mitchell (C)       | ![][065] [Alakazam] Lv. 72  ![][326] [Grumpig] Lv. 72  ![][097] [Hypno] Lv. 72
+Psychic Abigail (8)        | ![][282] [Gardevoir] Lv. 60  ![][358] [Chimecho] Lv. 60  ![][203] [Girafarig] Lv. 60
+Psychic Abigail (C)        | ![][282] [Gardevoir] Lv. 72  ![][358] [Chimecho] Lv. 72  ![][203] [Girafarig] Lv. 72
 
 ### Seven Stars Restaurant
 
@@ -731,23 +731,23 @@ Pokémon Breeder Kaylee     | ![][184] [Azumarill] Lv. 37
 
 Trainer                    | Pokémons
 ---                        | ---
-Beauty Cyndy (!)           | ![][301] [Delcatty] Lv. 37, ![][053] [Persian] Lv. 37
-Fisherman Kenneth          | ![][318] [Carvanha] Lv. 36, ![][223] [Remoraid] Lv. 36, ![][116] [Horsea] Lv. 36
+Beauty Cyndy (!)           | ![][301] [Delcatty] Lv. 37  ![][053] [Persian] Lv. 37
+Fisherman Kenneth          | ![][318] [Carvanha] Lv. 36  ![][223] [Remoraid] Lv. 36  ![][116] [Horsea] Lv. 36
 Tuber Jared (!)            | ![][423] [Gastrodon] Lv. 37
 Tuber Chelsea (!)          | ![][184] [Azumarill] Lv. 37
-Swimmer Haley              | ![][055] [Golduck] Lv. 43, ![][226] [Mantine] Lv. 43, ![][222] [Corsola] Lv. 43
-Swimmer Sheltin            | ![][130] [Gyarados] Lv. 43, ![][130] [Gyarados] Lv. 43, ![][130] [Gyarados] Lv. 43
+Swimmer Haley              | ![][055] [Golduck] Lv. 43  ![][226] [Mantine] Lv. 43  ![][222] [Corsola] Lv. 43
+Swimmer Sheltin            | ![][130] [Gyarados] Lv. 43  ![][130] [Gyarados] Lv. 43  ![][130] [Gyarados] Lv. 43
 Sailor Paul                | ![][186] [Politoed] Lv. 45
-Swimmer Evan               | ![][195] [Quagsire] Lv. 44, ![][319] [Sharpedo] Lv. 44
-Swimmer Mary               | ![][279] [Pelipper] Lv. 44, ![][457] [Lumineon] Lv. 44
+Swimmer Evan               | ![][195] [Quagsire] Lv. 44  ![][319] [Sharpedo] Lv. 44
+Swimmer Mary               | ![][279] [Pelipper] Lv. 44  ![][457] [Lumineon] Lv. 44
 Galactic Grunt             | ![][454] [Toxicroak] Lv. 41
 
 #### Rematches
 
 Trainer                    | Pokémons
 ---                        | ---
-Beauty Cyndy (8)           | ![][301] [Delcatty] Lv. 59, ![][053] [Persian] Lv. 59, ![][432] [Purugly] Lv. 59
-Beauty Cyndy (C)           | ![][301] [Delcatty] Lv. 70, ![][053] [Persian] Lv. 70, ![][432] [Purugly] Lv. 70
+Beauty Cyndy (8)           | ![][301] [Delcatty] Lv. 59  ![][053] [Persian] Lv. 59  ![][432] [Purugly] Lv. 59
+Beauty Cyndy (C)           | ![][301] [Delcatty] Lv. 70  ![][053] [Persian] Lv. 70  ![][432] [Purugly] Lv. 70
 Tuber Jared (5)            | ![][423] [Gastrodon] Lv. 39
 Tuber Jared (C)            | ![][423] [Gastrodon] Lv. 69
 Tuber Chelsea (8)          | ![][184] [Azumarill] Lv. 59
@@ -758,42 +758,42 @@ Tuber Chelsea (C)          | ![][184] [Azumarill] Lv. 69
 Trainer                    | Pokémons
 ---                        | ---
 Parasol Lady Sabrina       | ![][351] [Castform] Lv. 39
-Scientist Shaun (!)        | ![][082] [Magneton] Lv. 37, ![][101] [Electrode] Lv. 37, ![][233] [Porygon2] Lv. 37
-Pokémon Ranger Taylor (!)  | ![][455] [Carnivine] Lv. 39, ![][352] [Kecleon] Lv. 39, ![][125] [Electabuzz] Lv. 39
-Parasol Lady Alexa (!)     | ![][117] [Seadra] Lv. 38, ![][055] [Golduck] Lv. 38
-Fisherman Juan             | ![][090] [Shellder] Lv. 36, ![][366] [Clamperl] Lv. 36, ![][091] [Cloyster] Lv. 39
-Fisherman Josh             | ![][223] [Remoraid] Lv. 36, ![][118] [Goldeen] Lv. 36, ![][224] [Octillery] Lv. 39
-Fisherman Travis           | ![][339] [Barboach] Lv. 38, ![][211] [Qwilfish] Lv. 38
-Collector Dean             | ![][196] [Espeon] Lv. 37, ![][197] [Umbreon] Lv. 37, ![][471] [Glaceon] Lv. 37
-Policeman Danny            | ![][058] [Growlithe] Lv. 37, ![][067] [Machoke] Lv. 37, ![][164] [Noctowl] Lv. 37
-Scientist Stefano          | ![][110] [Weezing] Lv. 38, ![][089] [Muk] Lv. 38
-Pokémon Ranger Allison (!) | ![][350] [Milotic] Lv. 39, ![][470] [Leafeon] Lv. 39, ![][124] [Jynx] Lv. 39
-Pokémon Ranger Jeffrey     | ![][126] [Magmar] Lv. 39, ![][310] [Manectric] Lv. 39, ![][034] [Nidoking] Lv. 39
+Scientist Shaun (!)        | ![][082] [Magneton] Lv. 37  ![][101] [Electrode] Lv. 37  ![][233] [Porygon2] Lv. 37
+Pokémon Ranger Taylor (!)  | ![][455] [Carnivine] Lv. 39  ![][352] [Kecleon] Lv. 39  ![][125] [Electabuzz] Lv. 39
+Parasol Lady Alexa (!)     | ![][117] [Seadra] Lv. 38  ![][055] [Golduck] Lv. 38
+Fisherman Juan             | ![][090] [Shellder] Lv. 36  ![][366] [Clamperl] Lv. 36  ![][091] [Cloyster] Lv. 39
+Fisherman Josh             | ![][223] [Remoraid] Lv. 36  ![][118] [Goldeen] Lv. 36  ![][224] [Octillery] Lv. 39
+Fisherman Travis           | ![][339] [Barboach] Lv. 38  ![][211] [Qwilfish] Lv. 38
+Collector Dean             | ![][196] [Espeon] Lv. 37  ![][197] [Umbreon] Lv. 37  ![][471] [Glaceon] Lv. 37
+Policeman Danny            | ![][058] [Growlithe] Lv. 37  ![][067] [Machoke] Lv. 37  ![][164] [Noctowl] Lv. 37
+Scientist Stefano          | ![][110] [Weezing] Lv. 38  ![][089] [Muk] Lv. 38
+Pokémon Ranger Allison (!) | ![][350] [Milotic] Lv. 39  ![][470] [Leafeon] Lv. 39  ![][124] [Jynx] Lv. 39
+Pokémon Ranger Jeffrey     | ![][126] [Magmar] Lv. 39  ![][310] [Manectric] Lv. 39  ![][034] [Nidoking] Lv. 39
 
 #### Rematches
 
 Trainer                    | Pokémons
 ---                        | ---
-Scientist Shaun (5)        | ![][082] [Magneton] Lv. 38, ![][101] [Electrode] Lv. 38, ![][233] [Porygon2] Lv. 38
-Scientist Shaun (8)        | ![][082] [Magneton] Lv. 59, ![][101] [Electrode] Lv. 59, ![][233] [Porygon2] Lv. 59
-Scientist Shaun (C)        | ![][462] [Magnezone] Lv. 70, ![][101] [Electrode] Lv. 70, ![][474] [Porygon-Z] Lv. 70
-Pokémon Ranger Taylor (5)  | ![][455] [Carnivine] Lv. 40, ![][352] [Kecleon] Lv. 40, ![][125] [Electabuzz] Lv. 40
-Pokémon Ranger Taylor (8)  | ![][455] [Carnivine] Lv. 60, ![][352] [Kecleon] Lv. 60, ![][466] [Electivire] Lv. 60
-Pokémon Ranger Taylor (C)  | ![][455] [Carnivine] Lv. 71, ![][352] [Kecleon] Lv. 71, ![][466] [Electivire] Lv. 71
-Pokémon Ranger Allison (5) | ![][350] [Milotic] Lv. 40, ![][470] [Leafeon] Lv. 40, ![][124] [Jynx] Lv. 40
-Pokémon Ranger Allison (8) | ![][350] [Milotic] Lv. 60, ![][470] [Leafeon] Lv. 60, ![][124] [Jynx] Lv. 60
-Pokémon Ranger Allison (C) | ![][350] [Milotic] Lv. 71, ![][470] [Leafeon] Lv. 71, ![][124] [Jynx] Lv. 71
-Parasol Lady Alexa (5)     | ![][117] [Seadra] Lv. 39, ![][055] [Golduck] Lv. 39
-Parasol Lady Alexa (8)     | ![][230] [Kingdra] Lv. 60, ![][055] [Golduck] Lv. 60
-Parasol Lady Alexa (C)     | ![][230] [Kingdra] Lv. 71, ![][055] [Golduck] Lv. 71
+Scientist Shaun (5)        | ![][082] [Magneton] Lv. 38  ![][101] [Electrode] Lv. 38  ![][233] [Porygon2] Lv. 38
+Scientist Shaun (8)        | ![][082] [Magneton] Lv. 59  ![][101] [Electrode] Lv. 59  ![][233] [Porygon2] Lv. 59
+Scientist Shaun (C)        | ![][462] [Magnezone] Lv. 70  ![][101] [Electrode] Lv. 70  ![][474] [Porygon-Z] Lv. 70
+Pokémon Ranger Taylor (5)  | ![][455] [Carnivine] Lv. 40  ![][352] [Kecleon] Lv. 40  ![][125] [Electabuzz] Lv. 40
+Pokémon Ranger Taylor (8)  | ![][455] [Carnivine] Lv. 60  ![][352] [Kecleon] Lv. 60  ![][466] [Electivire] Lv. 60
+Pokémon Ranger Taylor (C)  | ![][455] [Carnivine] Lv. 71  ![][352] [Kecleon] Lv. 71  ![][466] [Electivire] Lv. 71
+Pokémon Ranger Allison (5) | ![][350] [Milotic] Lv. 40  ![][470] [Leafeon] Lv. 40  ![][124] [Jynx] Lv. 40
+Pokémon Ranger Allison (8) | ![][350] [Milotic] Lv. 60  ![][470] [Leafeon] Lv. 60  ![][124] [Jynx] Lv. 60
+Pokémon Ranger Allison (C) | ![][350] [Milotic] Lv. 71  ![][470] [Leafeon] Lv. 71  ![][124] [Jynx] Lv. 71
+Parasol Lady Alexa (5)     | ![][117] [Seadra] Lv. 39  ![][055] [Golduck] Lv. 39
+Parasol Lady Alexa (8)     | ![][230] [Kingdra] Lv. 60  ![][055] [Golduck] Lv. 60
+Parasol Lady Alexa (C)     | ![][230] [Kingdra] Lv. 71  ![][055] [Golduck] Lv. 71
 
 ### Pastoria City
 
 Trainer                    | Pokémons
 ---                        | ---
-PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 41, ![][214] [Heracross] Lv. 41, ![][143] [Snorlax] Lv. 41,<br> ![][184] [Azumarill] Lv. 41, ![][059] [Arcanine] Lv. 41, ![][389] [Torterra] Lv. 42
-PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 41, ![][214] [Heracross] Lv. 41, ![][143] [Snorlax] Lv. 41,<br> ![][184] [Azumarill] Lv. 41, ![][286] [Breloom] Lv. 41, ![][392] [Infernape] Lv. 42
-PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 41, ![][214] [Heracross] Lv. 41, ![][143] [Snorlax] Lv. 41,<br> ![][286] [Breloom] Lv. 41, ![][059] [Arcanine] Lv. 41, ![][395] [Empoleon] Lv. 42
+PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 41  ![][214] [Heracross] Lv. 41  ![][143] [Snorlax] Lv. 41 <br> ![][184] [Azumarill] Lv. 41  ![][059] [Arcanine] Lv. 41  ![][389] [Torterra] Lv. 42
+PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 41  ![][214] [Heracross] Lv. 41  ![][143] [Snorlax] Lv. 41 <br> ![][184] [Azumarill] Lv. 41  ![][286] [Breloom] Lv. 41  ![][392] [Infernape] Lv. 42
+PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 41  ![][214] [Heracross] Lv. 41  ![][143] [Snorlax] Lv. 41 <br> ![][286] [Breloom] Lv. 41  ![][059] [Arcanine] Lv. 41  ![][395] [Empoleon] Lv. 42
 
 PKMN Trainer Barry| Item         | Nature  | Ability       | Moves
 ---               | ---          | ---     | ---           | ---
@@ -811,13 +811,13 @@ PKMN Trainer Barry| Item         | Nature  | Ability       | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-Tuber Jacky                | ![][400] [Bibarel] Lv. 39, ![][008] [Wartortle] Lv. 39, ![][364] [Sealeo] Lv. 39
-Fisherman Walter           | ![][340] [Whiscash] Lv. 39, ![][171] [Lanturn] Lv. 39, ![][119] [Seaking] Lv. 39
-Sailor Damian              | ![][279] [Pelipper] Lv. 39, ![][159] [Croconaw] Lv. 39, ![][055] [Golduck] Lv. 39
-Tuber Caitlyn              | ![][184] [Azumarill] Lv. 39, ![][259] [Marshtomp] Lv. 39, ![][087] [Dewgong] Lv. 39
-Fisherman Erick            | ![][457] [Lumineon] Lv. 39, ![][073] [Tentacruel] Lv. 39, ![][099] [Kingler] Lv. 39
-Sailor Samson              | ![][080] [Slowbro] Lv. 39, ![][423] [Gastrodon] Lv. 39, ![][226] [Mantine] Lv. 39
-Leader Wake                | ![][195] [Quagsire] Lv. 43, ![][130] [Gyarados] Lv. 43, ![][062] [Poliwrath] Lv. 43,<br> ![][272] [Ludicolo] Lv. 43, ![][319] [Sharpedo] Lv. 43, ![][419] [Floatzel] Lv. 44
+Tuber Jacky                | ![][400] [Bibarel] Lv. 39  ![][008] [Wartortle] Lv. 39  ![][364] [Sealeo] Lv. 39
+Fisherman Walter           | ![][340] [Whiscash] Lv. 39  ![][171] [Lanturn] Lv. 39  ![][119] [Seaking] Lv. 39
+Sailor Damian              | ![][279] [Pelipper] Lv. 39  ![][159] [Croconaw] Lv. 39  ![][055] [Golduck] Lv. 39
+Tuber Caitlyn              | ![][184] [Azumarill] Lv. 39  ![][259] [Marshtomp] Lv. 39  ![][087] [Dewgong] Lv. 39
+Fisherman Erick            | ![][457] [Lumineon] Lv. 39  ![][073] [Tentacruel] Lv. 39  ![][099] [Kingler] Lv. 39
+Sailor Samson              | ![][080] [Slowbro] Lv. 39  ![][423] [Gastrodon] Lv. 39  ![][226] [Mantine] Lv. 39
+Leader Wake                | ![][195] [Quagsire] Lv. 43  ![][130] [Gyarados] Lv. 43  ![][062] [Poliwrath] Lv. 43 <br> ![][272] [Ludicolo] Lv. 43  ![][319] [Sharpedo] Lv. 43  ![][419] [Floatzel] Lv. 44
 
 Leader Wake        | Item         | Nature  | Ability       | Moves
 ---                | ---          | ---     | ---           | ---
@@ -835,33 +835,33 @@ Trainer                    | Pokémons
 Ninja Boy Fabian           | ![][454] [Toxicroak] Lv. 41
 Ninja Boy Brennan          | ![][291] [Ninjask] Lv. 41
 Ninja Boy Bruce            | ![][435] [Skuntank] Lv. 41
-Ninja Boy Joel             | ![][123] [Scyther] Lv. 39, ![][327] [Spinda] Lv. 39, ![][042] [Golbat] Lv. 39
-Ace Trainer Alyssa         | ![][424] [Ambipom] Lv. 42, ![][121] [Starmie] Lv. 42, ![][389] [Torterra] Lv. 42
-Double Team Zac & Jen      | ![][130] [Gyarados] Lv. 42, ![][472] [Gliscor] Lv. 42, ![][071] [Victreebel] Lv. 42,<br> ![][157] [Typhlosion] Lv. 42, ![][217] [Ursaring] Lv. 42, ![][181] [Ampharos] Lv. 42
-Ace Trainer Ernest         | ![][186] [Politoed] Lv. 41, ![][127] [Pinsir] Lv. 41, ![][476] [Probopass] Lv. 41,<br> ![][178] [Xatu] Lv. 41
+Ninja Boy Joel             | ![][123] [Scyther] Lv. 39  ![][327] [Spinda] Lv. 39  ![][042] [Golbat] Lv. 39
+Ace Trainer Alyssa         | ![][424] [Ambipom] Lv. 42  ![][121] [Starmie] Lv. 42  ![][389] [Torterra] Lv. 42
+Double Team Zac & Jen      | ![][130] [Gyarados] Lv. 42  ![][472] [Gliscor] Lv. 42  ![][071] [Victreebel] Lv. 42 <br> ![][157] [Typhlosion] Lv. 42  ![][217] [Ursaring] Lv. 42  ![][181] [Ampharos] Lv. 42
+Ace Trainer Ernest         | ![][186] [Politoed] Lv. 41  ![][127] [Pinsir] Lv. 41  ![][476] [Probopass] Lv. 41 <br> ![][178] [Xatu] Lv. 41
 Ninja Boy Davido           | ![][038] [Ninetales] Lv. 41
-Black Belt Adam            | ![][068] [Machamp] Lv. 42, ![][257] [Blaziken] Lv. 42, ![][214] [Heracross] Lv. 42
-Ninja Boy Nathan           | ![][317] [Swalot] Lv. 39, ![][269] [Dustox] Lv. 39, ![][414] [Mothim] Lv. 39
-Bird Keeper Brianna (!)    | ![][085] [Dodrio] Lv. 42, ![][018] [Pidgeot] Lv. 42, ![][227] [Skarmory] Lv. 42
-Veteran Brian (!)          | ![][465] [Tangrowth] Lv. 43, ![][078] [Rapidash] Lv. 43, ![][160] [Feraligatr] Lv. 43
-Dragon Tamer Patrick (!)   | ![][444] [Gabite] Lv. 41, ![][372] [Shelgon] Lv. 41, ![][329] [Vibrava] Lv. 41,<br> ![][148] [Dragonair] Lv. 41
-PKMN Trainer Dawn          | ![][065] [Alakazam] Lv. 44, ![][473] [Mamoswine] Lv. 44, ![][036] [Clefable] Lv. 44,<br> ![][428] [Lopunny] Lv. 44, ![][134] [Vaporeon] Lv. 44, ![][389] [Torterra] Lv. 45
-PKMN Trainer Dawn          | ![][065] [Alakazam] Lv. 44, ![][473] [Mamoswine] Lv. 44, ![][036] [Clefable] Lv. 44,<br> ![][428] [Lopunny] Lv. 44, ![][135] [Jolteon] Lv. 44, ![][392] [Infernape] Lv. 45
-PKMN Trainer Dawn          | ![][065] [Alakazam] Lv. 44, ![][473] [Mamoswine] Lv. 44, ![][036] [Clefable] Lv. 44,<br> ![][428] [Lopunny] Lv. 44, ![][136] [Flareon] Lv. 44, ![][395] [Empoleon] Lv. 45
-PKMN Trainer Lucas         | ![][065] [Alakazam] Lv. 44, ![][473] [Mamoswine] Lv. 44, ![][210] [Granbull] Lv. 44,<br> ![][463] [Lickilicky] Lv. 44, ![][134] [Vaporeon] Lv. 44, ![][389] [Torterra] Lv. 45
-PKMN Trainer Lucas         | ![][065] [Alakazam] Lv. 44, ![][473] [Mamoswine] Lv. 44, ![][210] [Granbull] Lv. 44,<br> ![][463] [Lickilicky] Lv. 44, ![][135] [Jolteon] Lv. 44, ![][392] [Infernape] Lv. 45
-PKMN Trainer Lucas         | ![][065] [Alakazam] Lv. 44, ![][473] [Mamoswine] Lv. 44, ![][210] [Granbull] Lv. 44,<br> ![][463] [Lickilicky] Lv. 44, ![][136] [Flareon] Lv. 44, ![][395] [Empoleon] Lv. 45
+Black Belt Adam            | ![][068] [Machamp] Lv. 42  ![][257] [Blaziken] Lv. 42  ![][214] [Heracross] Lv. 42
+Ninja Boy Nathan           | ![][317] [Swalot] Lv. 39  ![][269] [Dustox] Lv. 39  ![][414] [Mothim] Lv. 39
+Bird Keeper Brianna (!)    | ![][085] [Dodrio] Lv. 42  ![][018] [Pidgeot] Lv. 42  ![][227] [Skarmory] Lv. 42
+Veteran Brian (!)          | ![][465] [Tangrowth] Lv. 43  ![][078] [Rapidash] Lv. 43  ![][160] [Feraligatr] Lv. 43
+Dragon Tamer Patrick (!)   | ![][444] [Gabite] Lv. 41  ![][372] [Shelgon] Lv. 41  ![][329] [Vibrava] Lv. 41 <br> ![][148] [Dragonair] Lv. 41
+PKMN Trainer Dawn          | ![][065] [Alakazam] Lv. 44  ![][473] [Mamoswine] Lv. 44  ![][036] [Clefable] Lv. 44 <br> ![][428] [Lopunny] Lv. 44  ![][134] [Vaporeon] Lv. 44  ![][389] [Torterra] Lv. 45
+PKMN Trainer Dawn          | ![][065] [Alakazam] Lv. 44  ![][473] [Mamoswine] Lv. 44  ![][036] [Clefable] Lv. 44 <br> ![][428] [Lopunny] Lv. 44  ![][135] [Jolteon] Lv. 44  ![][392] [Infernape] Lv. 45
+PKMN Trainer Dawn          | ![][065] [Alakazam] Lv. 44  ![][473] [Mamoswine] Lv. 44  ![][036] [Clefable] Lv. 44 <br> ![][428] [Lopunny] Lv. 44  ![][136] [Flareon] Lv. 44  ![][395] [Empoleon] Lv. 45
+PKMN Trainer Lucas         | ![][065] [Alakazam] Lv. 44  ![][473] [Mamoswine] Lv. 44  ![][210] [Granbull] Lv. 44 <br> ![][463] [Lickilicky] Lv. 44  ![][134] [Vaporeon] Lv. 44  ![][389] [Torterra] Lv. 45
+PKMN Trainer Lucas         | ![][065] [Alakazam] Lv. 44  ![][473] [Mamoswine] Lv. 44  ![][210] [Granbull] Lv. 44 <br> ![][463] [Lickilicky] Lv. 44  ![][135] [Jolteon] Lv. 44  ![][392] [Infernape] Lv. 45
+PKMN Trainer Lucas         | ![][065] [Alakazam] Lv. 44  ![][473] [Mamoswine] Lv. 44  ![][210] [Granbull] Lv. 44 <br> ![][463] [Lickilicky] Lv. 44  ![][136] [Flareon] Lv. 44  ![][395] [Empoleon] Lv. 45
 
 #### Rematches
 
 Trainer                    | Pokémons
 ---                        | ---
-Bird Keeper Brianna (8)    | ![][085] [Dodrio] Lv. 60, ![][018] [Pidgeot] Lv. 60, ![][227] [Skarmory] Lv. 60
-Bird Keeper Brianna (C)    | ![][085] [Dodrio] Lv. 71, ![][018] [Pidgeot] Lv. 71, ![][227] [Skarmory] Lv. 71
-Veteran Brian (8)          | ![][465] [Tangrowth] Lv. 61, ![][078] [Rapidash] Lv. 61, ![][160] [Feraligatr] Lv. 61
-Veteran Brian (C)          | ![][465] [Tangrowth] Lv. 75, ![][078] [Rapidash] Lv. 75, ![][160] [Feraligatr] Lv. 75
-Dragon Tamer Patrick (8)   | ![][444] [Gabite] Lv. 58, ![][372] [Shelgon] Lv. 58, ![][329] [Vibrava] Lv. 58,<br> ![][148] [Dragonair] Lv. 58
-Dragon Tamer Patrick (C)   | ![][445] [Garchomp] Lv. 70, ![][373] [Salamence] Lv. 70, ![][330] [Flygon] Lv. 70,<br> ![][149] [Dragonite] Lv. 70
+Bird Keeper Brianna (8)    | ![][085] [Dodrio] Lv. 60  ![][018] [Pidgeot] Lv. 60  ![][227] [Skarmory] Lv. 60
+Bird Keeper Brianna (C)    | ![][085] [Dodrio] Lv. 71  ![][018] [Pidgeot] Lv. 71  ![][227] [Skarmory] Lv. 71
+Veteran Brian (8)          | ![][465] [Tangrowth] Lv. 61  ![][078] [Rapidash] Lv. 61  ![][160] [Feraligatr] Lv. 61
+Veteran Brian (C)          | ![][465] [Tangrowth] Lv. 75  ![][078] [Rapidash] Lv. 75  ![][160] [Feraligatr] Lv. 75
+Dragon Tamer Patrick (8)   | ![][444] [Gabite] Lv. 58  ![][372] [Shelgon] Lv. 58  ![][329] [Vibrava] Lv. 58 <br> ![][148] [Dragonair] Lv. 58
+Dragon Tamer Patrick (C)   | ![][445] [Garchomp] Lv. 70  ![][373] [Salamence] Lv. 70  ![][330] [Flygon] Lv. 70 <br> ![][149] [Dragonite] Lv. 70
 
 PKMN Trainer Dawn  | Item         | Nature  | Ability       | Moves
 ---                | ---          | ---     | ---           | ---
@@ -893,8 +893,8 @@ PKMN Trainer Lucas  | Item         | Nature  | Ability       | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-Galactic Grunt             | ![][229] [Houndoom] Lv. 43, ![][042] [Golbat] Lv. 43, ![][015] [Beedrill] Lv. 43
-Galactic Boss Cyrus        | ![][169] [Crobat] Lv. 45, ![][430] [Honchkrow] Lv. 45, ![][462] [Magnezone] Lv. 45,<br> ![][461] [Weavile] Lv. 46
+Galactic Grunt             | ![][229] [Houndoom] Lv. 43  ![][042] [Golbat] Lv. 43  ![][015] [Beedrill] Lv. 43
+Galactic Boss Cyrus        | ![][169] [Crobat] Lv. 45  ![][430] [Honchkrow] Lv. 45  ![][462] [Magnezone] Lv. 45 <br> ![][461] [Weavile] Lv. 46
 
 Galactic Boss Cyrus | Item         | Nature  | Ability       | Moves
 ---                 | ---          | ---     | ---           | ---
@@ -907,44 +907,44 @@ Galactic Boss Cyrus | Item         | Nature  | Ability       | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-Fisherman Miguel (!)       | ![][367] [Huntail] Lv. 44, ![][368] [Gorebyss] Lv. 44
+Fisherman Miguel (!)       | ![][367] [Huntail] Lv. 44  ![][368] [Gorebyss] Lv. 44
 Fisherman Luc              | ![][342] [Crawdaunt] Lv. 45
-Sailor Skyler              | ![][139] [Omastar] Lv. 43, ![][141] [Kabutops] Lv. 43, ![][369] [Relicanth] Lv. 43
-Guitarist Tony (!)         | ![][402] [Kricketune] Lv. 44, ![][295] [Exploud] Lv. 44
+Sailor Skyler              | ![][139] [Omastar] Lv. 43  ![][141] [Kabutops] Lv. 43  ![][369] [Relicanth] Lv. 43
+Guitarist Tony (!)         | ![][402] [Kricketune] Lv. 44  ![][295] [Exploud] Lv. 44
 
 #### Rematches
 
 Trainer                    | Pokémons
 ---                        | ---
-Fisherman Miguel (C)       | ![][366] [Clamperl] Lv. 70, ![][367] [Huntail] Lv. 70, ![][368] [Gorebyss] Lv. 70
-Guitarist Tony (C)         | ![][402] [Kricketune] Lv. 71, ![][295] [Exploud] Lv. 71
+Fisherman Miguel (C)       | ![][366] [Clamperl] Lv. 70  ![][367] [Huntail] Lv. 70  ![][368] [Gorebyss] Lv. 70
+Guitarist Tony (C)         | ![][402] [Kricketune] Lv. 71  ![][295] [Exploud] Lv. 71
 
 ### Fuego Ironworks
 
 Trainer                    | Pokémons
 ---                        | ---
-Worker Dillan              | ![][066] [Machop] Lv. 42, ![][067] [Machoke] Lv. 43, ![][068] [Machamp] Lv. 44
-Worker Holden              | ![][081] [Magnemite] Lv. 42, ![][081] [Magnemite] Lv. 42, ![][208] [Steelix] Lv. 45
-Worker Conrad              | ![][126] [Magmar] Lv. 43, ![][219] [Magcargo] Lv. 43, ![][078] [Rapidash] Lv. 43
+Worker Dillan              | ![][066] [Machop] Lv. 42  ![][067] [Machoke] Lv. 43  ![][068] [Machamp] Lv. 44
+Worker Holden              | ![][081] [Magnemite] Lv. 42  ![][081] [Magnemite] Lv. 42  ![][208] [Steelix] Lv. 45
+Worker Conrad              | ![][126] [Magmar] Lv. 43  ![][219] [Magcargo] Lv. 43  ![][078] [Rapidash] Lv. 43
 
 ### Route 219
 
 Trainer                    | Pokémons
 ---                        | ---
-Tuber Mariel               | ![][184] [Azumarill] Lv. 43, ![][134] [Vaporeon] Lv. 43
-Tuber Trenton              | ![][061] [Poliwhirl] Lv. 42, ![][423] [Gastrodon] Lv. 42, ![][400] [Bibarel] Lv. 42
+Tuber Mariel               | ![][184] [Azumarill] Lv. 43  ![][134] [Vaporeon] Lv. 43
+Tuber Trenton              | ![][061] [Poliwhirl] Lv. 42  ![][423] [Gastrodon] Lv. 42  ![][400] [Bibarel] Lv. 42
 
 ### Route 220
 
 Trainer                    | Pokémons
 ---                        | ---
-Swimmer Jessica            | ![][117] [Seadra] Lv. 43, ![][370] [Luvdisc] Lv. 43, ![][119] [Seaking] Lv. 43
-Swimmer Erica              | ![][457] [Lumineon] Lv. 44, ![][222] [Corsola] Lv. 44
-Swimmer Adrian             | ![][224] [Octillery] Lv. 43, ![][073] [Tentacruel] Lv. 43, ![][199] [Slowking] Lv. 43
+Swimmer Jessica            | ![][117] [Seadra] Lv. 43  ![][370] [Luvdisc] Lv. 43  ![][119] [Seaking] Lv. 43
+Swimmer Erica              | ![][457] [Lumineon] Lv. 44  ![][222] [Corsola] Lv. 44
+Swimmer Adrian             | ![][224] [Octillery] Lv. 43  ![][073] [Tentacruel] Lv. 43  ![][199] [Slowking] Lv. 43
 Swimmer Vincent            | ![][321] [Wailord] Lv. 45
-Swimmer Claire             | ![][121] [Starmie] Lv. 44, ![][009] [Blastoise] Lv. 44
-Swimmer Erik               | ![][186] [Politoed] Lv. 44, ![][171] [Lanturn] Lv. 44
-Swimmer Katelyn            | ![][419] [Floatzel] Lv. 43, ![][308] [Medicham] Lv. 43, ![][119] [Seaking] Lv. 43
+Swimmer Claire             | ![][121] [Starmie] Lv. 44  ![][009] [Blastoise] Lv. 44
+Swimmer Erik               | ![][186] [Politoed] Lv. 44  ![][171] [Lanturn] Lv. 44
+Swimmer Katelyn            | ![][419] [Floatzel] Lv. 43  ![][308] [Medicham] Lv. 43  ![][119] [Seaking] Lv. 43
 
 ### Route 221
 
@@ -952,24 +952,24 @@ Trainer                    | Pokémons
 ---                        | ---
 Swimmer Dillon             | ![][260] [Swampert] Lv. 46
 Swimmer Vanessa            | ![][350] [Milotic] Lv. 46
-Fisherman Cory             | ![][340] [Whiscash] Lv. 44, ![][099] [Kingler] Lv. 44, ![][130] [Gyarados] Lv. 44
-Ace Trainer Shannon (!)    | ![][045] [Vileplume] Lv. 45, ![][282] [Gardevoir] Lv. 45, ![][428] [Lopunny] Lv. 45,<br> ![][031] [Nidoqueen] Lv. 45
-Ace Trainer Jake (!)       | ![][344] [Claydol] Lv. 45, ![][006] [Charizard] Lv. 45, ![][103] [Exeggutor] Lv. 45,<br> ![][359] [Absol] Lv. 45
-Collector Ivan (!)         | ![][468] [Togekiss] Lv. 45, ![][242] [Blissey] Lv. 45
+Fisherman Cory             | ![][340] [Whiscash] Lv. 44  ![][099] [Kingler] Lv. 44  ![][130] [Gyarados] Lv. 44
+Ace Trainer Shannon (!)    | ![][045] [Vileplume] Lv. 45  ![][282] [Gardevoir] Lv. 45  ![][428] [Lopunny] Lv. 45 <br> ![][031] [Nidoqueen] Lv. 45
+Ace Trainer Jake (!)       | ![][344] [Claydol] Lv. 45  ![][006] [Charizard] Lv. 45  ![][103] [Exeggutor] Lv. 45 <br> ![][359] [Absol] Lv. 45
+Collector Ivan (!)         | ![][468] [Togekiss] Lv. 45  ![][242] [Blissey] Lv. 45
 
 #### Rematches
 
 Trainer                    | Pokémons
 ---                        | ---
-Ace Trainer Shannon (C)    | ![][045] [Vileplume] Lv. 72, ![][282] [Gardevoir] Lv. 72, ![][428] [Lopunny] Lv. 72,<br> ![][031] [Nidoqueen] Lv. 72
-Ace Trainer Jake (C)       | ![][344] [Claydol] Lv. 72, ![][006] [Charizard] Lv. 72, ![][103] [Exeggutor] Lv. 72,<br> ![][359] [Absol] Lv. 72
-Collector Ivan (C)         | ![][468] [Togekiss] Lv. 72, ![][242] [Blissey] Lv. 72
+Ace Trainer Shannon (C)    | ![][045] [Vileplume] Lv. 72  ![][282] [Gardevoir] Lv. 72  ![][428] [Lopunny] Lv. 72 <br> ![][031] [Nidoqueen] Lv. 72
+Ace Trainer Jake (C)       | ![][344] [Claydol] Lv. 72  ![][006] [Charizard] Lv. 72  ![][103] [Exeggutor] Lv. 72 <br> ![][359] [Absol] Lv. 72
+Collector Ivan (C)         | ![][468] [Togekiss] Lv. 72  ![][242] [Blissey] Lv. 72
 
 ### Pal Park
 
 Trainer                    | Pokémons
 ---                        | ---
-Castle Valet Darach        | ![][475] [Gallade] Lv. 48, ![][395] [Empoleon] Lv. 48, ![][065] [Alakazam] Lv. 48,<br> ![][376] [Metagross] Lv. 48, ![][398] [Staraptor] Lv. 48, ![][244] [Entei] Lv. 48
+Castle Valet Darach        | ![][475] [Gallade] Lv. 48  ![][395] [Empoleon] Lv. 48  ![][065] [Alakazam] Lv. 48 <br> ![][376] [Metagross] Lv. 48  ![][398] [Staraptor] Lv. 48  ![][244] [Entei] Lv. 48
 
 Castle Valet Darach | Item         | Nature  | Ability       | Moves
 ---                 | ---          | ---     | ---           | ---
@@ -984,9 +984,9 @@ Castle Valet Darach | Item         | Nature  | Ability       | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 48, ![][214] [Heracross] Lv. 48, ![][143] [Snorlax] Lv. 48,<br> ![][184] [Azumarill] Lv. 48, ![][059] [Arcanine] Lv. 48, ![][389] [Torterra] Lv. 49
-PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 48, ![][214] [Heracross] Lv. 48, ![][143] [Snorlax] Lv. 48,<br> ![][184] [Azumarill] Lv. 48, ![][286] [Breloom] Lv. 48, ![][392] [Infernape] Lv. 49
-PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 48, ![][214] [Heracross] Lv. 48, ![][143] [Snorlax] Lv. 48,<br> ![][286] [Breloom] Lv. 48, ![][059] [Arcanine] Lv. 48, ![][395] [Empoleon] Lv. 49
+PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 48  ![][214] [Heracross] Lv. 48  ![][143] [Snorlax] Lv. 48 <br> ![][184] [Azumarill] Lv. 48  ![][059] [Arcanine] Lv. 48  ![][389] [Torterra] Lv. 49
+PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 48  ![][214] [Heracross] Lv. 48  ![][143] [Snorlax] Lv. 48 <br> ![][184] [Azumarill] Lv. 48  ![][286] [Breloom] Lv. 48  ![][392] [Infernape] Lv. 49
+PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 48  ![][214] [Heracross] Lv. 48  ![][143] [Snorlax] Lv. 48 <br> ![][286] [Breloom] Lv. 48  ![][059] [Arcanine] Lv. 48  ![][395] [Empoleon] Lv. 49
 
 PKMN Trainer Barry | Item         | Nature  | Ability       | Moves
 ---                | ---          | ---     | ---           | ---
@@ -1004,21 +1004,21 @@ PKMN Trainer Barry | Item         | Nature  | Ability       | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-PKMN Trainer Riley         | ![][359] [Absol] Lv. 49, ![][217] [Ursaring] Lv. 49, ![][376] [Metagross] Lv. 49,<br> ![][373] [Salamence] Lv. 49, ![][289] [Slaking] Lv. 49, ![][448] [Lucario] Lv. 50
-Camper Lawrence            | ![][005] [Charmeleon] Lv. 46, ![][424] [Ambipom] Lv. 46, ![][419] [Floatzel] Lv. 46
-Picnicker Summer           | ![][253] [Grovyle] Lv. 46, ![][022] [Fearow] Lv. 46, ![][026] [Raichu] Lv. 46
+PKMN Trainer Riley         | ![][359] [Absol] Lv. 49  ![][217] [Ursaring] Lv. 49  ![][376] [Metagross] Lv. 49 <br> ![][373] [Salamence] Lv. 49  ![][289] [Slaking] Lv. 49  ![][448] [Lucario] Lv. 50
+Camper Lawrence            | ![][005] [Charmeleon] Lv. 46  ![][424] [Ambipom] Lv. 46  ![][419] [Floatzel] Lv. 46
+Picnicker Summer           | ![][253] [Grovyle] Lv. 46  ![][022] [Fearow] Lv. 46  ![][026] [Raichu] Lv. 46
 Worker Noel                | ![][232] [Donphan] Lv. 48
 Worker Braden              | ![][323] [Camerupt] Lv. 48
-Hiker Damon                | ![][247] [Pupitar] Lv. 46, ![][476] [Probopass] Lv. 46, ![][208] [Steelix] Lv. 46
-Hiker Maurice              | ![][112] [Rhydon] Lv. 47, ![][076] [Golem] Lv. 47
-Black Belt Kendal          | ![][062] [Poliwrath] Lv. 48, ![][297] [Hariyama] Lv. 48
-Battle Girl Tyler          | ![][237] [Hitmontop] Lv. 48, ![][057] [Primeape] Lv. 48
-Worker Brendon             | ![][082] [Magneton] Lv. 47, ![][067] [Machoke] Lv. 47
-Worker Quentin             | ![][305] [Lairon] Lv. 47, ![][075] [Graveler] Lv. 47
-Ace Trainer Jonah          | ![][284] [Masquerain] Lv. 48, ![][346] [Cradily] Lv. 48, ![][450] [Hippowdon] Lv. 48
-Ace Trainer Brenda         | ![][282] [Gardevoir] Lv. 48, ![][428] [Lopunny] Lv. 48, ![][308] [Medicham] Lv. 48
-Galactic Grunt             | ![][042] [Golbat] Lv. 46, ![][229] [Houndoom] Lv. 46, ![][089] [Muk] Lv. 46
-Galactic Grunt             | ![][432] [Purugly] Lv. 46, ![][454] [Toxicroak] Lv. 46, ![][435] [Skuntank] Lv. 46
+Hiker Damon                | ![][247] [Pupitar] Lv. 46  ![][476] [Probopass] Lv. 46  ![][208] [Steelix] Lv. 46
+Hiker Maurice              | ![][112] [Rhydon] Lv. 47  ![][076] [Golem] Lv. 47
+Black Belt Kendal          | ![][062] [Poliwrath] Lv. 48  ![][297] [Hariyama] Lv. 48
+Battle Girl Tyler          | ![][237] [Hitmontop] Lv. 48  ![][057] [Primeape] Lv. 48
+Worker Brendon             | ![][082] [Magneton] Lv. 47  ![][067] [Machoke] Lv. 47
+Worker Quentin             | ![][305] [Lairon] Lv. 47  ![][075] [Graveler] Lv. 47
+Ace Trainer Jonah          | ![][284] [Masquerain] Lv. 48  ![][346] [Cradily] Lv. 48  ![][450] [Hippowdon] Lv. 48
+Ace Trainer Brenda         | ![][282] [Gardevoir] Lv. 48  ![][428] [Lopunny] Lv. 48  ![][308] [Medicham] Lv. 48
+Galactic Grunt             | ![][042] [Golbat] Lv. 46  ![][229] [Houndoom] Lv. 46  ![][089] [Muk] Lv. 46
+Galactic Grunt             | ![][432] [Purugly] Lv. 46  ![][454] [Toxicroak] Lv. 46  ![][435] [Skuntank] Lv. 46
 
 PKMN Trainer Riley | Item         | Nature  | Ability       | Moves
 ---                | ---          | ---     | ---           | ---
@@ -1034,13 +1034,13 @@ PKMN Trainer Riley | Item         | Nature  | Ability       | Moves
 Trainer                    | Pokémons
 ---                        | ---
 Black Belt Ricky           | ![][208] [Steelix] Lv. 51
-Worker Gary                | ![][081] [Magnemite] Lv. 46, ![][304] [Aron] Lv. 46, ![][436] [Bronzor] Lv. 46,<br> ![][374] [Beldum] Lv. 46, ![][410] [Shieldon] Lv. 46
-Worker Jackson             | ![][082] [Magneton] Lv. 48, ![][305] [Lairon] Lv. 48, ![][375] [Metang] Lv. 48
-Ace Trainer Cesar          | ![][395] [Empoleon] Lv. 50, ![][212] [Scizor] Lv. 50, ![][376] [Metagross] Lv. 50
-Worker Gerardo             | ![][476] [Probopass] Lv. 49, ![][205] [Forretress] Lv. 49
+Worker Gary                | ![][081] [Magnemite] Lv. 46  ![][304] [Aron] Lv. 46  ![][436] [Bronzor] Lv. 46 <br> ![][374] [Beldum] Lv. 46  ![][410] [Shieldon] Lv. 46
+Worker Jackson             | ![][082] [Magneton] Lv. 48  ![][305] [Lairon] Lv. 48  ![][375] [Metang] Lv. 48
+Ace Trainer Cesar          | ![][395] [Empoleon] Lv. 50  ![][212] [Scizor] Lv. 50  ![][376] [Metagross] Lv. 50
+Worker Gerardo             | ![][476] [Probopass] Lv. 49  ![][205] [Forretress] Lv. 49
 Black Belt David           | ![][448] [Lucario] Lv. 51
-Ace Trainer Breanna        | ![][227] [Skarmory] Lv. 50, ![][303] [Mawile] Lv. 50, ![][413] [Wormadam] Lv. 50
-Leader Bryon               | ![][437] [Bronzong] Lv. 52, ![][462] [Magnezone] Lv. 52, ![][208] [Steelix] Lv. 52,<br> ![][205] [Forretress] Lv. 52, ![][306] [Aggron] Lv. 52, ![][411] [Bastiodon] Lv. 53
+Ace Trainer Breanna        | ![][227] [Skarmory] Lv. 50  ![][303] [Mawile] Lv. 50  ![][413] [Wormadam] Lv. 50
+Leader Bryon               | ![][437] [Bronzong] Lv. 52  ![][462] [Magnezone] Lv. 52  ![][208] [Steelix] Lv. 52 <br> ![][205] [Forretress] Lv. 52  ![][306] [Aggron] Lv. 52  ![][411] [Bastiodon] Lv. 53
 
 Leader Byron        | Item         | Nature  | Ability       | Moves
 ---                 | ---          | ---     | ---           | ---
@@ -1058,7 +1058,7 @@ Trainer                    | Pokémons
 Galactic Grunt             | ![][432] [Purugly] Lv. 50
 Galactic Grunt             | ![][229] [Houndoom] Lv. 50
 Galactic Grunt             | ![][435] [Skuntank] Lv. 50
-Commander Saturn           | ![][065] [Alakazam] Lv. 52, ![][224] [Octillery] Lv. 52, ![][437] [Bronzong] Lv. 52,<br> ![][112] [Rhydon] Lv. 52, ![][454] [Toxicroak] Lv. 53
+Commander Saturn           | ![][065] [Alakazam] Lv. 52  ![][224] [Octillery] Lv. 52  ![][437] [Bronzong] Lv. 52 <br> ![][112] [Rhydon] Lv. 52  ![][454] [Toxicroak] Lv. 53
 
 Commander Saturn   | Item         | Nature  | Ability       | Moves
 ---                | ---          | ---     | ---           | ---
@@ -1072,11 +1072,11 @@ Commander Saturn   | Item         | Nature  | Ability       | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-Galactic Grunt             | ![][267] [Beautifly] Lv. 50, ![][012] [Butterfree] Lv. 50
-Galactic Grunt             | ![][269] [Dustox] Lv. 50, ![][015] [Beedrill] Lv. 50
-Galactic Grunt             | ![][033] [Nidorino] Lv. 49, ![][042] [Golbat] Lv. 49, ![][413] [Wormadam] Lv. 49
-Galactic Grunt             | ![][030] [Nidorina] Lv. 49, ![][042] [Golbat] Lv. 49, ![][414] [Mothim] Lv. 49
-Commander Mars             | ![][169] [Crobat] Lv. 52, ![][469] [Yanmega] Lv. 52, ![][437] [Bronzong] Lv. 52,<br> ![][115] [Kangaskhan] Lv. 52, ![][432] [Purugly] Lv. 53
+Galactic Grunt             | ![][267] [Beautifly] Lv. 50  ![][012] [Butterfree] Lv. 50
+Galactic Grunt             | ![][269] [Dustox] Lv. 50  ![][015] [Beedrill] Lv. 50
+Galactic Grunt             | ![][033] [Nidorino] Lv. 49  ![][042] [Golbat] Lv. 49  ![][413] [Wormadam] Lv. 49
+Galactic Grunt             | ![][030] [Nidorina] Lv. 49  ![][042] [Golbat] Lv. 49  ![][414] [Mothim] Lv. 49
+Commander Mars             | ![][169] [Crobat] Lv. 52  ![][469] [Yanmega] Lv. 52  ![][437] [Bronzong] Lv. 52 <br> ![][115] [Kangaskhan] Lv. 52  ![][432] [Purugly] Lv. 53
 
 Commander Mars      | Item         | Nature  | Ability       | Moves
 ---                 | ---          | ---     | ---           | ---
@@ -1090,45 +1090,45 @@ Commander Mars      | Item         | Nature  | Ability       | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-Ace Trainer Dalton (!)     | ![][467] [Magmortar] Lv. 52, ![][003] [Venusaur] Lv. 52, ![][230] [Kingdra] Lv. 52
-Skier Shawn                | ![][459] [Snover] Lv. 49, ![][459] [Snover] Lv. 49, ![][460] [Abomasnow] Lv. 52
+Ace Trainer Dalton (!)     | ![][467] [Magmortar] Lv. 52  ![][003] [Venusaur] Lv. 52  ![][230] [Kingdra] Lv. 52
+Skier Shawn                | ![][459] [Snover] Lv. 49  ![][459] [Snover] Lv. 49  ![][460] [Abomasnow] Lv. 52
 Ninja Boy Matthew          | ![][169] [Crobat] Lv. 51
-Skier Madison (!)          | ![][238] [Smoochum] Lv. 49, ![][361] [Snorunt] Lv. 49, ![][124] [Jynx] Lv. 52
+Skier Madison (!)          | ![][238] [Smoochum] Lv. 49  ![][361] [Snorunt] Lv. 49  ![][124] [Jynx] Lv. 52
 Ninja Boy Ethan            | ![][452] [Drapion] Lv. 51
-Skier Bjorn (!)            | ![][220] [Swinub] Lv. 49, ![][220] [Swinub] Lv. 49, ![][221] [Piloswine] Lv. 52
-Skier Lexie                | ![][087] [Dewgong] Lv. 51, ![][471] [Glaceon] Lv. 51
-Black Belt Luke            | ![][068] [Machamp] Lv. 51, ![][454] [Toxicroak] Lv. 51, ![][448] [Lucario] Lv. 51
-Ace Trainer Olivia (!)     | ![][275] [Shiftry] Lv. 52, ![][334] [Altaria] Lv. 52, ![][242] [Blissey] Lv. 52
+Skier Bjorn (!)            | ![][220] [Swinub] Lv. 49  ![][220] [Swinub] Lv. 49  ![][221] [Piloswine] Lv. 52
+Skier Lexie                | ![][087] [Dewgong] Lv. 51  ![][471] [Glaceon] Lv. 51
+Black Belt Luke            | ![][068] [Machamp] Lv. 51  ![][454] [Toxicroak] Lv. 51  ![][448] [Lucario] Lv. 51
+Ace Trainer Olivia (!)     | ![][275] [Shiftry] Lv. 52  ![][334] [Altaria] Lv. 52  ![][242] [Blissey] Lv. 52
 
 #### Rematches
 
 Trainer                    | Pokémons
 ---                        | ---
-Ace Trainer Dalton (C)     | ![][467] [Magmortar] Lv. 72, ![][003] [Venusaur] Lv. 72, ![][230] [Kingdra] Lv. 72
-Skier Madison (8)          | ![][124] [Jynx] Lv. 59, ![][478] [Froslass] Lv. 59, ![][124] [Jynx] Lv. 59
-Skier Madison (C)          | ![][124] [Jynx] Lv. 70, ![][478] [Froslass] Lv. 70, ![][124] [Jynx] Lv. 70
-Skier Bjorn (8)            | ![][221] [Piloswine] Lv. 59, ![][221] [Piloswine] Lv. 59, ![][473] [Mamoswine] Lv. 59
-Skier Bjorn (C)            | ![][473] [Mamoswine] Lv. 72, ![][473] [Mamoswine] Lv. 72, ![][473] [Mamoswine] Lv. 72
-Ace Trainer Olivia (C)     | ![][275] [Shiftry] Lv. 72, ![][334] [Altaria] Lv. 72, ![][242] [Blissey] Lv. 72
+Ace Trainer Dalton (C)     | ![][467] [Magmortar] Lv. 72  ![][003] [Venusaur] Lv. 72  ![][230] [Kingdra] Lv. 72
+Skier Madison (8)          | ![][124] [Jynx] Lv. 59  ![][478] [Froslass] Lv. 59  ![][124] [Jynx] Lv. 59
+Skier Madison (C)          | ![][124] [Jynx] Lv. 70  ![][478] [Froslass] Lv. 70  ![][124] [Jynx] Lv. 70
+Skier Bjorn (8)            | ![][221] [Piloswine] Lv. 59  ![][221] [Piloswine] Lv. 59  ![][473] [Mamoswine] Lv. 59
+Skier Bjorn (C)            | ![][473] [Mamoswine] Lv. 72  ![][473] [Mamoswine] Lv. 72  ![][473] [Mamoswine] Lv. 72
+Ace Trainer Olivia (C)     | ![][275] [Shiftry] Lv. 72  ![][334] [Altaria] Lv. 72  ![][242] [Blissey] Lv. 72
 
 ### Snowpoint City
 
 Trainer                    | Pokémons
 ---                        | ---
-Ace Trainer Aran           | ![][214] [Heracross] Lv. 54, ![][157] [Typhlosion] Lv. 54, ![][248] [Tyranitar] Lv. 54
-Ace Trainer Nephenee       | ![][242] [Blissey] Lv. 54, ![][154] [Meganium] Lv. 54, ![][160] [Feraligatr] Lv. 54
+Ace Trainer Aran           | ![][214] [Heracross] Lv. 54  ![][157] [Typhlosion] Lv. 54  ![][248] [Tyranitar] Lv. 54
+Ace Trainer Nephenee       | ![][242] [Blissey] Lv. 54  ![][154] [Meganium] Lv. 54  ![][160] [Feraligatr] Lv. 54
 
 ### Snowpoint Gym
 
 Trainer                    | Pokémons
 ---                        | ---
-Ace Trainer Anton          | ![][361] [Snorunt] Lv. 51, ![][362] [Glalie] Lv. 54, ![][362] [Glalie] Lv. 54
-Ace Trainer Savannah       | ![][086] [Seel] Lv. 51, ![][124] [Jynx] Lv. 54, ![][087] [Dewgong] Lv. 54
-Ace Trainer Alicia         | ![][363] [Spheal] Lv. 51, ![][364] [Sealeo] Lv. 53, ![][365] [Walrein] Lv. 55
-Ace Trainer Isaiah         | ![][460] [Abomasnow] Lv. 54, ![][225] [Delibird] Lv. 54
-Ace Trainer Brenna         | ![][087] [Dewgong] Lv. 53, ![][091] [Cloyster] Lv. 53, ![][131] [Lapras] Lv. 53
-Ace Trainer Sergio         | ![][220] [Swinub] Lv. 51, ![][221] [Piloswine] Lv. 53, ![][473] [Mamoswine] Lv. 55
-Leader Candice             | ![][460] [Abomasnow] Lv. 55, ![][461] [Weavile] Lv. 55, ![][471] [Glaceon] Lv. 55,<br> ![][365] [Walrein] Lv. 55, ![][473] [Mamoswine] Lv. 55, ![][478] [Froslass] Lv. 56
+Ace Trainer Anton          | ![][361] [Snorunt] Lv. 51  ![][362] [Glalie] Lv. 54  ![][362] [Glalie] Lv. 54
+Ace Trainer Savannah       | ![][086] [Seel] Lv. 51  ![][124] [Jynx] Lv. 54  ![][087] [Dewgong] Lv. 54
+Ace Trainer Alicia         | ![][363] [Spheal] Lv. 51  ![][364] [Sealeo] Lv. 53  ![][365] [Walrein] Lv. 55
+Ace Trainer Isaiah         | ![][460] [Abomasnow] Lv. 54  ![][225] [Delibird] Lv. 54
+Ace Trainer Brenna         | ![][087] [Dewgong] Lv. 53  ![][091] [Cloyster] Lv. 53  ![][131] [Lapras] Lv. 53
+Ace Trainer Sergio         | ![][220] [Swinub] Lv. 51  ![][221] [Piloswine] Lv. 53  ![][473] [Mamoswine] Lv. 55
+Leader Candice             | ![][460] [Abomasnow] Lv. 55  ![][461] [Weavile] Lv. 55  ![][471] [Glaceon] Lv. 55 <br> ![][365] [Walrein] Lv. 55  ![][473] [Mamoswine] Lv. 55  ![][478] [Froslass] Lv. 56
 
 Leader Candice     | Item             | Nature  | Ability       | Moves
 ---                | ---              | ---     | ---           | ---
@@ -1143,20 +1143,20 @@ Leader Candice     | Item             | Nature  | Ability       | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-Galactic Grunt             | ![][042] [Golbat] Lv. 53, ![][269] [Dustox] Lv. 53, ![][047] [Parasect] Lv. 53
-Galactic Grunt             | ![][198] [Murkrow] Lv. 54, ![][229] [Houndoom] Lv. 54
-Galactic Grunt             | ![][267] [Beautifly] Lv. 53, ![][432] [Purugly] Lv. 53, ![][416] [Vespiquen] Lv. 53
-Galactic Grunt             | ![][454] [Toxicroak] Lv. 54, ![][435] [Skuntank] Lv. 54
-Scientist Fredrick         | ![][281] [Kirlia] Lv. 53, ![][064] [Kadabra] Lv. 53, ![][082] [Magneton] Lv. 53
-Galactic Grunt             | ![][123] [Scyther] Lv. 54, ![][435] [Skuntank] Lv. 54
-Galactic Grunt             | ![][127] [Pinsir] Lv. 54, ![][454] [Toxicroak] Lv. 54
-Galactic Grunt             | ![][042] [Golbat] Lv. 53, ![][262] [Mightyena] Lv. 53, ![][168] [Ariados] Lv. 53
-Galactic Grunt             | ![][042] [Golbat] Lv. 53, ![][049] [Venomoth] Lv. 53, ![][332] [Cacturne] Lv. 53
+Galactic Grunt             | ![][042] [Golbat] Lv. 53  ![][269] [Dustox] Lv. 53  ![][047] [Parasect] Lv. 53
+Galactic Grunt             | ![][198] [Murkrow] Lv. 54  ![][229] [Houndoom] Lv. 54
+Galactic Grunt             | ![][267] [Beautifly] Lv. 53  ![][432] [Purugly] Lv. 53  ![][416] [Vespiquen] Lv. 53
+Galactic Grunt             | ![][454] [Toxicroak] Lv. 54  ![][435] [Skuntank] Lv. 54
+Scientist Fredrick         | ![][281] [Kirlia] Lv. 53  ![][064] [Kadabra] Lv. 53  ![][082] [Magneton] Lv. 53
+Galactic Grunt             | ![][123] [Scyther] Lv. 54  ![][435] [Skuntank] Lv. 54
+Galactic Grunt             | ![][127] [Pinsir] Lv. 54  ![][454] [Toxicroak] Lv. 54
+Galactic Grunt             | ![][042] [Golbat] Lv. 53  ![][262] [Mightyena] Lv. 53  ![][168] [Ariados] Lv. 53
+Galactic Grunt             | ![][042] [Golbat] Lv. 53  ![][049] [Venomoth] Lv. 53  ![][332] [Cacturne] Lv. 53
 Scientist Darrius          | ![][474] [Porygon-Z] Lv. 55
-Galactic Grunt             | ![][089] [Muk] Lv. 54, ![][024] [Arbok] Lv. 54
-Galactic Grunt             | ![][205] [Forretress] Lv. 53, ![][336] [Seviper] Lv. 53, ![][469] [Yanmega] Lv. 53
-Galactic Boss Cyrus        | ![][169] [Crobat] Lv. 57, ![][430] [Honchkrow] Lv. 57, ![][229] [Houndoom] Lv. 57,<br> ![][462] [Magnezone] Lv. 57, ![][461] [Weavile] Lv. 58
-Commander Saturn           | ![][437] [Bronzong] Lv. 56, ![][224] [Octillery] Lv. 56, ![][065] [Alakazam] Lv. 56,<br> ![][464] [Rhyperior] Lv. 56, ![][467] [Magmortar] Lv. 56, ![][454] [Toxicroak] Lv. 57
+Galactic Grunt             | ![][089] [Muk] Lv. 54  ![][024] [Arbok] Lv. 54
+Galactic Grunt             | ![][205] [Forretress] Lv. 53  ![][336] [Seviper] Lv. 53  ![][469] [Yanmega] Lv. 53
+Galactic Boss Cyrus        | ![][169] [Crobat] Lv. 57  ![][430] [Honchkrow] Lv. 57  ![][229] [Houndoom] Lv. 57 <br> ![][462] [Magnezone] Lv. 57  ![][461] [Weavile] Lv. 58
+Commander Saturn           | ![][437] [Bronzong] Lv. 56  ![][224] [Octillery] Lv. 56  ![][065] [Alakazam] Lv. 56 <br> ![][464] [Rhyperior] Lv. 56  ![][467] [Magmortar] Lv. 56  ![][454] [Toxicroak] Lv. 57
 
 Galactic Boss Cyrus | Item         | Nature  | Ability       | Moves
 ---                 | ---          | ---     | ---           | ---
@@ -1179,51 +1179,51 @@ Commander Saturn   | Item         | Nature  | Ability       | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-Galactic Grunt             | ![][030] [Nidorina] Lv. 54, ![][317] [Swalot] Lv. 54, ![][053] [Persian] Lv. 54
-Galactic Grunt             | ![][033] [Nidorino] Lv. 54, ![][452] [Drapion] Lv. 54, ![][402] [Kricketune] Lv. 54
+Galactic Grunt             | ![][030] [Nidorina] Lv. 54  ![][317] [Swalot] Lv. 54  ![][053] [Persian] Lv. 54
+Galactic Grunt             | ![][033] [Nidorino] Lv. 54  ![][452] [Drapion] Lv. 54  ![][402] [Kricketune] Lv. 54
 
 ### Mt. Coronet ~ 4F
 
 Trainer                    | Pokémons
 ---                        | ---
-Galactic Grunt             | ![][229] [Houndoom] Lv. 54, ![][042] [Golbat] Lv. 54, ![][015] [Beedrill] Lv. 54
-Galactic Grunt             | ![][166] [Ledian] Lv. 55, ![][110] [Weezing] Lv. 55
+Galactic Grunt             | ![][229] [Houndoom] Lv. 54  ![][042] [Golbat] Lv. 54  ![][015] [Beedrill] Lv. 54
+Galactic Grunt             | ![][166] [Ledian] Lv. 55  ![][110] [Weezing] Lv. 55
 
 ### Mt. Coronet ~ Tunnel to Route 211 Entrance
 
 Trainer                    | Pokémons
 ---                        | ---
 Galactic Grunt             | ![][042] [Golbat] Lv. 56
-Galactic Grunt             | ![][198] [Murkrow] Lv. 54, ![][262] [Mightyena] Lv. 54, ![][215] [Sneasel] Lv. 54
-Galactic Grunt             | ![][284] [Masquerain] Lv. 55, ![][089] [Muk] Lv. 55
+Galactic Grunt             | ![][198] [Murkrow] Lv. 54  ![][262] [Mightyena] Lv. 54  ![][215] [Sneasel] Lv. 54
+Galactic Grunt             | ![][284] [Masquerain] Lv. 55  ![][089] [Muk] Lv. 55
 
 ### Mt. Coronet ~ 6F
 
 Trainer                    | Pokémons
 ---                        | ---
-Galactic Grunt             | ![][042] [Golbat] Lv. 55, ![][229] [Houndoom] Lv. 55, ![][469] [Yanmega] Lv. 55
-Galactic Grunt             | ![][168] [Ariados] Lv. 55, ![][053] [Persian] Lv. 55, ![][205] [Forretress] Lv. 55
+Galactic Grunt             | ![][042] [Golbat] Lv. 55  ![][229] [Houndoom] Lv. 55  ![][469] [Yanmega] Lv. 55
+Galactic Grunt             | ![][168] [Ariados] Lv. 55  ![][053] [Persian] Lv. 55  ![][205] [Forretress] Lv. 55
 
 ### Mt. Coronet ~ 7F
 
 Trainer                    | Pokémons
 ---                        | ---
-Galactic Grunt             | ![][198] [Murkrow] Lv. 55, ![][042] [Golbat] Lv. 55, ![][454] [Toxicroak] Lv. 55,<br> ![][127] [Pinsir] Lv. 55
+Galactic Grunt             | ![][198] [Murkrow] Lv. 55  ![][042] [Golbat] Lv. 55  ![][454] [Toxicroak] Lv. 55 <br> ![][127] [Pinsir] Lv. 55
 
 ### Spear Pillar
 
 Trainer                    | Pokémons
 ---                        | ---
-Galactic Grunt             | ![][454] [Toxicroak] Lv. 56, ![][049] [Venomoth] Lv. 56, ![][042] [Golbat] Lv. 56
-Galactic Grunt             | ![][053] [Persian] Lv. 56, ![][267] [Beautifly] Lv. 56, ![][097] [Hypno] Lv. 56
-Commander Mars             | ![][169] [Crobat] Lv. 57, ![][469] [Yanmega] Lv. 57, ![][437] [Bronzong] Lv. 57,<br> ![][466] [Electivire] Lv. 57, ![][115] [Kangaskhan] Lv. 57, ![][432] [Purugly] Lv. 58
-Commander Jupiter          | ![][169] [Crobat] Lv. 57, ![][302] [Sableye] Lv. 57, ![][437] [Bronzong] Lv. 57,<br> ![][465] [Tangrowth] Lv. 57, ![][423] [Gastrodon] Lv. 57, ![][435] [Skuntank] Lv. 58
+Galactic Grunt             | ![][454] [Toxicroak] Lv. 56  ![][049] [Venomoth] Lv. 56  ![][042] [Golbat] Lv. 56
+Galactic Grunt             | ![][053] [Persian] Lv. 56  ![][267] [Beautifly] Lv. 56  ![][097] [Hypno] Lv. 56
+Commander Mars             | ![][169] [Crobat] Lv. 57  ![][469] [Yanmega] Lv. 57  ![][437] [Bronzong] Lv. 57 <br> ![][466] [Electivire] Lv. 57  ![][115] [Kangaskhan] Lv. 57  ![][432] [Purugly] Lv. 58
+Commander Jupiter          | ![][169] [Crobat] Lv. 57  ![][302] [Sableye] Lv. 57  ![][437] [Bronzong] Lv. 57 <br> ![][465] [Tangrowth] Lv. 57  ![][423] [Gastrodon] Lv. 57  ![][435] [Skuntank] Lv. 58
 
 Trainer                    | Pokémons
 ---                        | ---
-PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 58, ![][214] [Heracross] Lv. 58, ![][143] [Snorlax] Lv. 58,<br> ![][184] [Azumarill] Lv. 58, ![][059] [Arcanine] Lv. 58, ![][389] [Torterra] Lv. 59
-PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 58, ![][214] [Heracross] Lv. 58, ![][143] [Snorlax] Lv. 58,<br> ![][184] [Azumarill] Lv. 58, ![][286] [Breloom] Lv. 58, ![][392] [Infernape] Lv. 59
-PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 58, ![][214] [Heracross] Lv. 58, ![][143] [Snorlax] Lv. 58,<br> ![][286] [Breloom] Lv. 58, ![][059] [Arcanine] Lv. 58, ![][395] [Empoleon] Lv. 59
+PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 58  ![][214] [Heracross] Lv. 58  ![][143] [Snorlax] Lv. 58 <br> ![][184] [Azumarill] Lv. 58  ![][059] [Arcanine] Lv. 58  ![][389] [Torterra] Lv. 59
+PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 58  ![][214] [Heracross] Lv. 58  ![][143] [Snorlax] Lv. 58 <br> ![][184] [Azumarill] Lv. 58  ![][286] [Breloom] Lv. 58  ![][392] [Infernape] Lv. 59
+PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 58  ![][214] [Heracross] Lv. 58  ![][143] [Snorlax] Lv. 58 <br> ![][286] [Breloom] Lv. 58  ![][059] [Arcanine] Lv. 58  ![][395] [Empoleon] Lv. 59
 
 Commander Mars      | Item         | Nature  | Ability       | Moves
 ---                 | ---          | ---     | ---           | ---
@@ -1247,13 +1247,13 @@ Commander Jupiter  | Item         | Nature  | Ability       | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-Galactic Boss Cyrus        | ![][484] [Palkia] Lv. 70, ![][483] [Dialga] Lv. 70
-Galactic Boss Cyrus        | ![][169] [Crobat] Lv. 59, ![][430] [Honchkrow] Lv. 59, ![][229] [Houndoom] Lv. 59,<br> ![][130] [Gyarados] Lv. 59, ![][462] [Magnezone] Lv. 59, ![][461] [Weavile] Lv. 60
+Galactic Boss Cyrus        | ![][484] [Palkia] Lv. 70  ![][483] [Dialga] Lv. 70
+Galactic Boss Cyrus        | ![][169] [Crobat] Lv. 59  ![][430] [Honchkrow] Lv. 59  ![][229] [Houndoom] Lv. 59 <br> ![][130] [Gyarados] Lv. 59  ![][462] [Magnezone] Lv. 59  ![][461] [Weavile] Lv. 60
 
 Galactic Boss Cyrus   | Item         | Nature  | Ability       | Moves
 ---                   | ---          | ---     | ---           | ---
-![][484]<br> [Palkia] (Lv. 70, 0 IV)  | None                                    | ?        | Pressure            | Hydro Pump, Spacial Rend, Earth Power, Aura Sphere
-![][483]<br> [Dialga] (Lv. 70, 0 IV)  | None                                    | ?        | Pressure            | Flash Cannon, Roar of Time, Earth Power, Aura Sphere
+![][484]<br> [Palkia] (Lv. 70  0 IV)  | None                                    | ?        | Pressure            | Hydro Pump, Spacial Rend, Earth Power, Aura Sphere
+![][483]<br> [Dialga] (Lv. 70  0 IV)  | None                                    | ?        | Pressure            | Flash Cannon, Roar of Time, Earth Power, Aura Sphere
 
 Galactic Boss Cyrus | Item         | Nature  | Ability       | Moves
 ---                 | ---          | ---     | ---           | ---
@@ -1268,34 +1268,34 @@ Galactic Boss Cyrus | Item         | Nature  | Ability       | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-Rich Boy Trey (!)          | ![][405] [Luxray] Lv. 57, ![][254] [Sceptile] Lv. 57, ![][264] [Linoone] Lv. 57
-Beauty Nicola              | ![][428] [Lopunny] Lv. 57, ![][136] [Flareon] Lv. 57, ![][154] [Meganium] Lv. 57
+Rich Boy Trey (!)          | ![][405] [Luxray] Lv. 57  ![][254] [Sceptile] Lv. 57  ![][264] [Linoone] Lv. 57
+Beauty Nicola              | ![][428] [Lopunny] Lv. 57  ![][136] [Flareon] Lv. 57  ![][154] [Meganium] Lv. 57
 Policeman Thomas           | ![][164] [Noctowl] Lv. 59
-Sailor Marc (!)            | ![][171] [Lanturn] Lv. 57, ![][068] [Machamp] Lv. 57, ![][226] [Mantine] Lv. 57
-Tuber Conner               | ![][223] [Remoraid] Lv. 57, ![][223] [Remoraid] Lv. 57
-Sailor Luther              | ![][279] [Pelipper] Lv. 56, ![][423] [Gastrodon] Lv. 56, ![][062] [Poliwrath] Lv. 56,<br> ![][099] [Kingler] Lv. 56
-Fisherman Alec (!)         | ![][130] [Gyarados] Lv. 57, ![][130] [Gyarados] Lv. 57, ![][130] [Gyarados] Lv. 57
-Fisherman George           | ![][224] [Octillery] Lv. 58, ![][457] [Lumineon] Lv. 58
+Sailor Marc (!)            | ![][171] [Lanturn] Lv. 57  ![][068] [Machamp] Lv. 57  ![][226] [Mantine] Lv. 57
+Tuber Conner               | ![][223] [Remoraid] Lv. 57  ![][223] [Remoraid] Lv. 57
+Sailor Luther              | ![][279] [Pelipper] Lv. 56  ![][423] [Gastrodon] Lv. 56  ![][062] [Poliwrath] Lv. 56 <br> ![][099] [Kingler] Lv. 56
+Fisherman Alec (!)         | ![][130] [Gyarados] Lv. 57  ![][130] [Gyarados] Lv. 57  ![][130] [Gyarados] Lv. 57
+Fisherman George           | ![][224] [Octillery] Lv. 58  ![][457] [Lumineon] Lv. 58
 Fisherman Brett            | ![][211] [Qwilfish] Lv. 59
-Fisherman Cole             | ![][119] [Seaking] Lv. 57, ![][319] [Sharpedo] Lv. 57, ![][230] [Kingdra] Lv. 57
+Fisherman Cole             | ![][119] [Seaking] Lv. 57  ![][319] [Sharpedo] Lv. 57  ![][230] [Kingdra] Lv. 57
 Tuber Holly                | ![][184] [Azumarill] Lv. 58
-Poké Kid Janet             | ![][025] [Pikachu] Lv. 57, ![][025] [Pikachu] Lv. 57
+Poké Kid Janet             | ![][025] [Pikachu] Lv. 57  ![][025] [Pikachu] Lv. 57
 
 #### Rematches
 
 Trainer                    | Pokémons
 ---                        | ---
-Rich Boy Trey (C)          | ![][405] [Luxray] Lv. 70, ![][254] [Sceptile] Lv. 70, ![][264] [Linoone] Lv. 70
-Rich Boy Trey (S)          | ![][405] [Luxray] Lv. 75, ![][254] [Sceptile] Lv. 75, ![][264] [Linoone] Lv. 75
-Sailor Marc (C)            | ![][171] [Lanturn] Lv. 70, ![][068] [Machamp] Lv. 70, ![][226] [Mantine] Lv. 70
-Sailor Marc (S)            | ![][171] [Lanturn] Lv. 75, ![][068] [Machamp] Lv. 75, ![][226] [Mantine] Lv. 75
-Fisherman Alec (C)         | ![][130] [Gyarados] Lv. 70, ![][130] [Gyarados] Lv. 70, ![][130] [Gyarados] Lv. 70
+Rich Boy Trey (C)          | ![][405] [Luxray] Lv. 70  ![][254] [Sceptile] Lv. 70  ![][264] [Linoone] Lv. 70
+Rich Boy Trey (S)          | ![][405] [Luxray] Lv. 75  ![][254] [Sceptile] Lv. 75  ![][264] [Linoone] Lv. 75
+Sailor Marc (C)            | ![][171] [Lanturn] Lv. 70  ![][068] [Machamp] Lv. 70  ![][226] [Mantine] Lv. 70
+Sailor Marc (S)            | ![][171] [Lanturn] Lv. 75  ![][068] [Machamp] Lv. 75  ![][226] [Mantine] Lv. 75
+Fisherman Alec (C)         | ![][130] [Gyarados] Lv. 70  ![][130] [Gyarados] Lv. 70  ![][130] [Gyarados] Lv. 70
 
 ### Sunyshore City
 
 Trainer                    | Pokémons
 ---                        | ---
-Arcade Star Dahlia         | ![][257] [Blaziken] Lv. 63, ![][477] [Dusknoir] Lv. 63, ![][308] [Medicham] Lv. 63,<br> ![][468] [Togekiss] Lv. 63, ![][272] [Ludicolo] Lv. 63, ![][145] [Zapdos] Lv. 63
+Arcade Star Dahlia         | ![][257] [Blaziken] Lv. 63  ![][477] [Dusknoir] Lv. 63  ![][308] [Medicham] Lv. 63 <br> ![][468] [Togekiss] Lv. 63  ![][272] [Ludicolo] Lv. 63  ![][145] [Zapdos] Lv. 63
 
 Arcade Star Dahlia | Item         | Nature  | Ability       | Moves
 ---                | ---          | ---     | ---           | ---
@@ -1310,15 +1310,15 @@ Arcade Star Dahlia | Item         | Nature  | Ability       | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-School Kid Tiera           | ![][311] [Plusle] Lv. 56, ![][312] [Minun] Lv. 56, ![][417] [Pachirisu] Lv. 59
-School Kid Forrest         | ![][239] [Elekid] Lv. 56, ![][239] [Elekid] Lv. 56, ![][125] [Electabuzz] Lv. 59
-Guitarist Jerry            | ![][125] [Electabuzz] Lv. 60, ![][405] [Luxray] Lv. 60
-Poké Kid Meghan            | ![][172] [Pichu] Lv. 56, ![][172] [Pichu] Lv. 56, ![][025] [Pikachu] Lv. 59
-Ace Trainer Destiny        | ![][026] [Raichu] Lv. 60, ![][171] [Lanturn] Lv. 60, ![][135] [Jolteon] Lv. 60,<br> ![][405] [Luxray] Lv. 60
-Guitarist Preston          | ![][125] [Electabuzz] Lv. 60, ![][462] [Magnezone] Lv. 60
-Guitarist Lonnie           | ![][125] [Electabuzz] Lv. 60, ![][101] [Electrode] Lv. 60
-Ace Trainer Zachery        | ![][181] [Ampharos] Lv. 60, ![][462] [Magnezone] Lv. 60, ![][310] [Manectric] Lv. 60,<br> ![][101] [Electrode] Lv. 60
-Leader Volkner             | ![][135] [Jolteon] Lv. 61, ![][026] [Raichu] Lv. 61, ![][479] [Rotom] Lv. 61,<br> ![][479] [Rotom] Lv. 61, ![][405] [Luxray] Lv. 61, ![][466] [Electivire] Lv. 62
+School Kid Tiera           | ![][311] [Plusle] Lv. 56  ![][312] [Minun] Lv. 56  ![][417] [Pachirisu] Lv. 59
+School Kid Forrest         | ![][239] [Elekid] Lv. 56  ![][239] [Elekid] Lv. 56  ![][125] [Electabuzz] Lv. 59
+Guitarist Jerry            | ![][125] [Electabuzz] Lv. 60  ![][405] [Luxray] Lv. 60
+Poké Kid Meghan            | ![][172] [Pichu] Lv. 56  ![][172] [Pichu] Lv. 56  ![][025] [Pikachu] Lv. 59
+Ace Trainer Destiny        | ![][026] [Raichu] Lv. 60  ![][171] [Lanturn] Lv. 60  ![][135] [Jolteon] Lv. 60 <br> ![][405] [Luxray] Lv. 60
+Guitarist Preston          | ![][125] [Electabuzz] Lv. 60  ![][462] [Magnezone] Lv. 60
+Guitarist Lonnie           | ![][125] [Electabuzz] Lv. 60  ![][101] [Electrode] Lv. 60
+Ace Trainer Zachery        | ![][181] [Ampharos] Lv. 60  ![][462] [Magnezone] Lv. 60  ![][310] [Manectric] Lv. 60 <br> ![][101] [Electrode] Lv. 60
+Leader Volkner             | ![][135] [Jolteon] Lv. 61  ![][026] [Raichu] Lv. 61  ![][479] [Rotom] Lv. 61 <br> ![][479] [Rotom] Lv. 61  ![][405] [Luxray] Lv. 61  ![][466] [Electivire] Lv. 62
 
 Leader Volkner      | Item         | Nature  | Ability       | Moves
 ---                 | ---          | ---     | ---           | ---
@@ -1333,68 +1333,68 @@ Leader Volkner      | Item         | Nature  | Ability       | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-Swimmer Wesley (!)         | ![][419] [Floatzel] Lv. 59, ![][319] [Sharpedo] Lv. 59, ![][211] [Qwilfish] Lv. 59
+Swimmer Wesley (!)         | ![][419] [Floatzel] Lv. 59  ![][319] [Sharpedo] Lv. 59  ![][211] [Qwilfish] Lv. 59
 Swimmer Ricardo            | ![][073] [Tentacruel] Lv. 61
-Swimmer Francisco (!)      | ![][272] [Ludicolo] Lv. 59, ![][369] [Relicanth] Lv. 59, ![][062] [Poliwrath] Lv. 59
-Swimmer Colton             | ![][279] [Pelipper] Lv. 59, ![][224] [Octillery] Lv. 59, ![][160] [Feraligatr] Lv. 59
+Swimmer Francisco (!)      | ![][272] [Ludicolo] Lv. 59  ![][369] [Relicanth] Lv. 59  ![][062] [Poliwrath] Lv. 59
+Swimmer Colton             | ![][279] [Pelipper] Lv. 59  ![][224] [Octillery] Lv. 59  ![][160] [Feraligatr] Lv. 59
 Swimmer Troy               | ![][130] [Gyarados] Lv. 61
-Swimmer Oscar              | ![][226] [Mantine] Lv. 59, ![][009] [Blastoise] Lv. 59, ![][340] [Whiscash] Lv. 59
-Swimmer Miranda (!)        | ![][091] [Cloyster] Lv. 60, ![][457] [Lumineon] Lv. 60
-Swimmer Aubree             | ![][400] [Bibarel] Lv. 60, ![][195] [Quagsire] Lv. 60
-Swimmer Paige              | ![][184] [Azumarill] Lv. 59, ![][080] [Slowbro] Lv. 59, ![][368] [Gorebyss] Lv. 59
-Swimmer Crystal (!)        | ![][321] [Wailord] Lv. 59, ![][119] [Seaking] Lv. 59, ![][222] [Corsola] Lv. 59
+Swimmer Oscar              | ![][226] [Mantine] Lv. 59  ![][009] [Blastoise] Lv. 59  ![][340] [Whiscash] Lv. 59
+Swimmer Miranda (!)        | ![][091] [Cloyster] Lv. 60  ![][457] [Lumineon] Lv. 60
+Swimmer Aubree             | ![][400] [Bibarel] Lv. 60  ![][195] [Quagsire] Lv. 60
+Swimmer Paige              | ![][184] [Azumarill] Lv. 59  ![][080] [Slowbro] Lv. 59  ![][368] [Gorebyss] Lv. 59
+Swimmer Crystal (!)        | ![][321] [Wailord] Lv. 59  ![][119] [Seaking] Lv. 59  ![][222] [Corsola] Lv. 59
 Swimmer Cassandra          | ![][134] [Vaporeon] Lv. 61
-Swimmer Gabrielle          | ![][055] [Golduck] Lv. 59, ![][131] [Lapras] Lv. 59, ![][121] [Starmie] Lv. 59
-Sailor Zachariah (!)       | ![][099] [Kingler] Lv. 58, ![][068] [Machamp] Lv. 58, ![][423] [Gastrodon] Lv. 58,<br> ![][199] [Slowking] Lv. 58
+Swimmer Gabrielle          | ![][055] [Golduck] Lv. 59  ![][131] [Lapras] Lv. 59  ![][121] [Starmie] Lv. 59
+Sailor Zachariah (!)       | ![][099] [Kingler] Lv. 58  ![][068] [Machamp] Lv. 58  ![][423] [Gastrodon] Lv. 58 <br> ![][199] [Slowking] Lv. 58
 
 #### Rematches
 
 Trainer                    | Pokémons
 ---                        | ---
-Swimmer Wesley (S)         | ![][419] [Floatzel] Lv. 75, ![][319] [Sharpedo] Lv. 75, ![][211] [Qwilfish] Lv. 75
-Swimmer Francisco (S)      | ![][272] [Ludicolo] Lv. 75, ![][369] [Relicanth] Lv. 75, ![][062] [Poliwrath] Lv. 75
-Swimmer Miranda (S)        | ![][091] [Cloyster] Lv. 75, ![][457] [Lumineon] Lv. 75, ![][121] [Starmie] Lv. 75
-Swimmer Crystal (S)        | ![][321] [Wailord] Lv. 75, ![][119] [Seaking] Lv. 75, ![][222] [Corsola] Lv. 75
-Sailor Zachariah (S)       | ![][099] [Kingler] Lv. 74, ![][068] [Machamp] Lv. 74, ![][423] [Gastrodon] Lv. 74,<br> ![][199] [Slowking] Lv. 74
+Swimmer Wesley (S)         | ![][419] [Floatzel] Lv. 75  ![][319] [Sharpedo] Lv. 75  ![][211] [Qwilfish] Lv. 75
+Swimmer Francisco (S)      | ![][272] [Ludicolo] Lv. 75  ![][369] [Relicanth] Lv. 75  ![][062] [Poliwrath] Lv. 75
+Swimmer Miranda (S)        | ![][091] [Cloyster] Lv. 75  ![][457] [Lumineon] Lv. 75  ![][121] [Starmie] Lv. 75
+Swimmer Crystal (S)        | ![][321] [Wailord] Lv. 75  ![][119] [Seaking] Lv. 75  ![][222] [Corsola] Lv. 75
+Sailor Zachariah (S)       | ![][099] [Kingler] Lv. 74  ![][068] [Machamp] Lv. 74  ![][423] [Gastrodon] Lv. 74 <br> ![][199] [Slowking] Lv. 74
 
 ### Victory Road
 
 Trainer                    | Pokémons
 ---                        | ---
-Psychic Bryce              | ![][094] [Gengar] Lv. 63, ![][282] [Gardevoir] Lv. 63, ![][103] [Exeggutor] Lv. 63,<br> ![][196] [Espeon] Lv. 63
-Bird Keeper Hana           | ![][164] [Noctowl] Lv. 63, ![][085] [Dodrio] Lv. 63, ![][083] [Farfetch'd] Lv. 63,<br> ![][018] [Pidgeot] Lv. 63
-Ace Trainer Mariah         | ![][242] [Blissey] Lv. 63, ![][365] [Walrein] Lv. 63, ![][306] [Aggron] Lv. 63,<br> ![][189] [Jumpluff] Lv. 63, ![][429] [Mismagius] Lv. 63
-Ace Trainer Omar           | ![][078] [Rapidash] Lv. 63, ![][357] [Tropius] Lv. 63, ![][409] [Rampardos] Lv. 63,<br> ![][214] [Heracross] Lv. 63, ![][473] [Mamoswine] Lv. 63
-Ace Trainer Sydney         | ![][036] [Clefable] Lv. 63, ![][389] [Torterra] Lv. 63, ![][121] [Starmie] Lv. 63,<br> ![][219] [Magcargo] Lv. 63, ![][128] [Tauros] Lv. 63
-Veteran Clayton            | ![][463] [Lickilicky] Lv. 64, ![][450] [Hippowdon] Lv. 64, ![][398] [Staraptor] Lv. 64,<br> ![][127] [Pinsir] Lv. 64, ![][466] [Electivire] Lv. 64
-Double Team Al & Kay       | ![][340] [Whiscash] Lv. 64, ![][424] [Ambipom] Lv. 64, ![][197] [Umbreon] Lv. 64,<br> ![][003] [Venusaur] Lv. 64
-Black Belt Miles           | ![][068] [Machamp] Lv. 63, ![][062] [Poliwrath] Lv. 63, ![][107] [Hitmonchan] Lv. 63,<br> ![][106] [Hitmonlee] Lv. 63
-Psychic Valencia           | ![][358] [Chimecho] Lv. 63, ![][477] [Dusknoir] Lv. 63, ![][359] [Absol] Lv. 63,<br> ![][326] [Grumpig] Lv. 63
-Double Team Jo & Pat       | ![][308] [Medicham] Lv. 64, ![][350] [Milotic] Lv. 64, ![][038] [Ninetales] Lv. 64,<br> ![][071] [Victreebel] Lv. 64
-Ace Trainer Henry          | ![][430] [Honchkrow] Lv. 63, ![][105] [Marowak] Lv. 63, ![][455] [Carnivine] Lv. 63,<br> ![][310] [Manectric] Lv. 63, ![][199] [Slowking] Lv. 63
-Dragon Tamer Ondrej        | ![][230] [Kingdra] Lv. 64, ![][334] [Altaria] Lv. 64, ![][373] [Salamence] Lv. 64,<br> ![][006] [Charizard] Lv. 64
-Veteran Edgar              | ![][474] [Porygon-Z] Lv. 64, ![][465] [Tangrowth] Lv. 64, ![][395] [Empoleon] Lv. 64,<br> ![][076] [Golem] Lv. 64, ![][157] [Typhlosion] Lv. 64
-Dragon Tamer Clinton       | ![][330] [Flygon] Lv. 64, ![][130] [Gyarados] Lv. 64, ![][149] [Dragonite] Lv. 64,<br> ![][142] [Aerodactyl] Lv. 64
+Psychic Bryce              | ![][094] [Gengar] Lv. 63  ![][282] [Gardevoir] Lv. 63  ![][103] [Exeggutor] Lv. 63 <br> ![][196] [Espeon] Lv. 63
+Bird Keeper Hana           | ![][164] [Noctowl] Lv. 63  ![][085] [Dodrio] Lv. 63  ![][083] [Farfetch'd] Lv. 63 <br> ![][018] [Pidgeot] Lv. 63
+Ace Trainer Mariah         | ![][242] [Blissey] Lv. 63  ![][365] [Walrein] Lv. 63  ![][306] [Aggron] Lv. 63 <br> ![][189] [Jumpluff] Lv. 63  ![][429] [Mismagius] Lv. 63
+Ace Trainer Omar           | ![][078] [Rapidash] Lv. 63  ![][357] [Tropius] Lv. 63  ![][409] [Rampardos] Lv. 63 <br> ![][214] [Heracross] Lv. 63  ![][473] [Mamoswine] Lv. 63
+Ace Trainer Sydney         | ![][036] [Clefable] Lv. 63  ![][389] [Torterra] Lv. 63  ![][121] [Starmie] Lv. 63 <br> ![][219] [Magcargo] Lv. 63  ![][128] [Tauros] Lv. 63
+Veteran Clayton            | ![][463] [Lickilicky] Lv. 64  ![][450] [Hippowdon] Lv. 64  ![][398] [Staraptor] Lv. 64 <br> ![][127] [Pinsir] Lv. 64  ![][466] [Electivire] Lv. 64
+Double Team Al & Kay       | ![][340] [Whiscash] Lv. 64  ![][424] [Ambipom] Lv. 64  ![][197] [Umbreon] Lv. 64 <br> ![][003] [Venusaur] Lv. 64
+Black Belt Miles           | ![][068] [Machamp] Lv. 63  ![][062] [Poliwrath] Lv. 63  ![][107] [Hitmonchan] Lv. 63 <br> ![][106] [Hitmonlee] Lv. 63
+Psychic Valencia           | ![][358] [Chimecho] Lv. 63  ![][477] [Dusknoir] Lv. 63  ![][359] [Absol] Lv. 63 <br> ![][326] [Grumpig] Lv. 63
+Double Team Jo & Pat       | ![][308] [Medicham] Lv. 64  ![][350] [Milotic] Lv. 64  ![][038] [Ninetales] Lv. 64 <br> ![][071] [Victreebel] Lv. 64
+Ace Trainer Henry          | ![][430] [Honchkrow] Lv. 63  ![][105] [Marowak] Lv. 63  ![][455] [Carnivine] Lv. 63 <br> ![][310] [Manectric] Lv. 63  ![][199] [Slowking] Lv. 63
+Dragon Tamer Ondrej        | ![][230] [Kingdra] Lv. 64  ![][334] [Altaria] Lv. 64  ![][373] [Salamence] Lv. 64 <br> ![][006] [Charizard] Lv. 64
+Veteran Edgar              | ![][474] [Porygon-Z] Lv. 64  ![][465] [Tangrowth] Lv. 64  ![][395] [Empoleon] Lv. 64 <br> ![][076] [Golem] Lv. 64  ![][157] [Typhlosion] Lv. 64
+Dragon Tamer Clinton       | ![][330] [Flygon] Lv. 64  ![][130] [Gyarados] Lv. 64  ![][149] [Dragonite] Lv. 64 <br> ![][142] [Aerodactyl] Lv. 64
 
 ### Victory Road ~ East
 
 Trainer                    | Pokémons
 ---                        | ---
-PKMN Trainer Marley        | ![][121] [Starmie] Lv. 65, ![][101] [Electrode] Lv. 65, ![][254] [Sceptile] Lv. 65,<br> ![][169] [Crobat] Lv. 65, ![][461] [Weavile] Lv. 65, ![][059] [Arcanine] Lv. 66
-Ace Trainer Micah          | ![][376] [Metagross] Lv. 65, ![][272] [Ludicolo] Lv. 65, ![][257] [Blaziken] Lv. 65
-Ace Trainer Brandi         | ![][031] [Nidoqueen] Lv. 65, ![][115] [Kangaskhan] Lv. 65, ![][124] [Jynx] Lv. 65
-Psychic Desiree            | ![][122] [Mr. Mime] Lv. 64, ![][426] [Drifblim] Lv. 64, ![][097] [Hypno] Lv. 64
-Psychic Landon             | ![][354] [Banette] Lv. 64, ![][065] [Alakazam] Lv. 64, ![][203] [Girafarig] Lv. 64
-Black Belt Eddie           | ![][057] [Primeape] Lv. 64, ![][286] [Breloom] Lv. 64, ![][392] [Infernape] Lv. 64
-Veteran Terrell            | ![][047] [Parasect] Lv. 66, ![][195] [Quagsire] Lv. 66, ![][229] [Houndoom] Lv. 66
-Dragon Tamer Joe           | ![][148] [Dragonair] Lv. 65, ![][373] [Salamence] Lv. 65, ![][230] [Kingdra] Lv. 65
-Bird Keeper Autumn         | ![][178] [Xatu] Lv. 64, ![][279] [Pelipper] Lv. 64, ![][225] [Delibird] Lv. 64
-Psychic Deandre            | ![][356] [Dusclops] Lv. 64, ![][302] [Sableye] Lv. 64, ![][477] [Dusknoir] Lv. 64
-Psychic Kendra             | ![][358] [Chimecho] Lv. 64, ![][478] [Froslass] Lv. 64, ![][202] [Wobbuffet] Lv. 64
-Black Belt Willie          | ![][214] [Heracross] Lv. 64, ![][068] [Machamp] Lv. 64, ![][454] [Toxicroak] Lv. 64
-Veteran Brenden            | ![][205] [Forretress] Lv. 66, ![][141] [Kabutops] Lv. 66, ![][232] [Donphan] Lv. 66
-Ace Trainer Arthur         | ![][423] [Gastrodon] Lv. 64, ![][015] [Beedrill] Lv. 64, ![][181] [Ampharos] Lv. 64
-Ace Trainer Clarice        | ![][317] [Swalot] Lv. 64, ![][038] [Ninetales] Lv. 64, ![][212] [Scizor] Lv. 64
+PKMN Trainer Marley        | ![][121] [Starmie] Lv. 65  ![][101] [Electrode] Lv. 65  ![][254] [Sceptile] Lv. 65 <br> ![][169] [Crobat] Lv. 65  ![][461] [Weavile] Lv. 65  ![][059] [Arcanine] Lv. 66
+Ace Trainer Micah          | ![][376] [Metagross] Lv. 65  ![][272] [Ludicolo] Lv. 65  ![][257] [Blaziken] Lv. 65
+Ace Trainer Brandi         | ![][031] [Nidoqueen] Lv. 65  ![][115] [Kangaskhan] Lv. 65  ![][124] [Jynx] Lv. 65
+Psychic Desiree            | ![][122] [Mr. Mime] Lv. 64  ![][426] [Drifblim] Lv. 64  ![][097] [Hypno] Lv. 64
+Psychic Landon             | ![][354] [Banette] Lv. 64  ![][065] [Alakazam] Lv. 64  ![][203] [Girafarig] Lv. 64
+Black Belt Eddie           | ![][057] [Primeape] Lv. 64  ![][286] [Breloom] Lv. 64  ![][392] [Infernape] Lv. 64
+Veteran Terrell            | ![][047] [Parasect] Lv. 66  ![][195] [Quagsire] Lv. 66  ![][229] [Houndoom] Lv. 66
+Dragon Tamer Joe           | ![][148] [Dragonair] Lv. 65  ![][373] [Salamence] Lv. 65  ![][230] [Kingdra] Lv. 65
+Bird Keeper Autumn         | ![][178] [Xatu] Lv. 64  ![][279] [Pelipper] Lv. 64  ![][225] [Delibird] Lv. 64
+Psychic Deandre            | ![][356] [Dusclops] Lv. 64  ![][302] [Sableye] Lv. 64  ![][477] [Dusknoir] Lv. 64
+Psychic Kendra             | ![][358] [Chimecho] Lv. 64  ![][478] [Froslass] Lv. 64  ![][202] [Wobbuffet] Lv. 64
+Black Belt Willie          | ![][214] [Heracross] Lv. 64  ![][068] [Machamp] Lv. 64  ![][454] [Toxicroak] Lv. 64
+Veteran Brenden            | ![][205] [Forretress] Lv. 66  ![][141] [Kabutops] Lv. 66  ![][232] [Donphan] Lv. 66
+Ace Trainer Arthur         | ![][423] [Gastrodon] Lv. 64  ![][015] [Beedrill] Lv. 64  ![][181] [Ampharos] Lv. 64
+Ace Trainer Clarice        | ![][317] [Swalot] Lv. 64  ![][038] [Ninetales] Lv. 64  ![][212] [Scizor] Lv. 64
 
 PKMN Trainer Marley  | Item         | Nature  | Ability       | Moves
 ---                  | ---          | ---     | ---           | ---
@@ -1409,27 +1409,27 @@ PKMN Trainer Marley  | Item         | Nature  | Ability       | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-Ace Trainer Ruben          | ![][275] [Shiftry] Lv. 67, ![][130] [Gyarados] Lv. 67, ![][186] [Politoed] Lv. 67,<br> ![][470] [Leafeon] Lv. 67
-Psychic Brittney           | ![][097] [Hypno] Lv. 66, ![][065] [Alakazam] Lv. 66, ![][308] [Medicham] Lv. 66,<br> ![][337] [Lunatone] Lv. 66
-Psychic Maxwell            | ![][429] [Mismagius] Lv. 66, ![][094] [Gengar] Lv. 66, ![][080] [Slowbro] Lv. 66,<br> ![][338] [Solrock] Lv. 66
-Veteran Armando (!)        | ![][089] [Muk] Lv. 68, ![][262] [Mightyena] Lv. 68, ![][463] [Lickilicky] Lv. 68,<br> ![][279] [Pelipper] Lv. 68
-Black Belt Carl            | ![][297] [Hariyama] Lv. 66, ![][106] [Hitmonlee] Lv. 66, ![][107] [Hitmonchan] Lv. 66,<br> ![][237] [Hitmontop] Lv. 66
-Ruin Maniac Larry          | ![][142] [Aerodactyl] Lv. 66, ![][348] [Armaldo] Lv. 66, ![][346] [Cradily] Lv. 66,<br> ![][369] [Relicanth] Lv. 66
-Ace Trainer Jamie          | ![][134] [Vaporeon] Lv. 67, ![][376] [Metagross] Lv. 67, ![][407] [Roserade] Lv. 67,<br> ![][051] [Dugtrio] Lv. 67
-Dragon Tamer Hayden (!)    | ![][334] [Altaria] Lv. 67, ![][373] [Salamence] Lv. 67, ![][230] [Kingdra] Lv. 67,<br> ![][149] [Dragonite] Lv. 67
-PKMN Trainer Dawn          | ![][065] [Alakazam] Lv. 69, ![][473] [Mamoswine] Lv. 69, ![][036] [Clefable] Lv. 69,<br> ![][428] [Lopunny] Lv. 69, ![][134] [Vaporeon] Lv. 69, ![][389] [Torterra] Lv. 70
-PKMN Trainer Dawn          | ![][065] [Alakazam] Lv. 69, ![][473] [Mamoswine] Lv. 69, ![][036] [Clefable] Lv. 69,<br> ![][428] [Lopunny] Lv. 69, ![][135] [Jolteon] Lv. 69, ![][392] [Infernape] Lv. 70
-PKMN Trainer Dawn          | ![][065] [Alakazam] Lv. 69, ![][473] [Mamoswine] Lv. 69, ![][036] [Clefable] Lv. 69,<br> ![][428] [Lopunny] Lv. 69, ![][136] [Flareon] Lv. 69, ![][395] [Empoleon] Lv. 70
-PKMN Trainer Lucas         | ![][065] [Alakazam] Lv. 69, ![][473] [Mamoswine] Lv. 69, ![][210] [Granbull] Lv. 69,<br> ![][463] [Lickilicky] Lv. 69, ![][134] [Vaporeon] Lv. 69, ![][389] [Torterra] Lv. 70
-PKMN Trainer Lucas         | ![][065] [Alakazam] Lv. 69, ![][473] [Mamoswine] Lv. 69, ![][210] [Granbull] Lv. 69,<br> ![][463] [Lickilicky] Lv. 69, ![][135] [Jolteon] Lv. 69, ![][392] [Infernape] Lv. 70
-PKMN Trainer Lucas         | ![][065] [Alakazam] Lv. 69, ![][473] [Mamoswine] Lv. 69, ![][210] [Granbull] Lv. 69,<br> ![][463] [Lickilicky] Lv. 69, ![][136] [Flareon] Lv. 69, ![][395] [Empoleon] Lv. 70
+Ace Trainer Ruben          | ![][275] [Shiftry] Lv. 67  ![][130] [Gyarados] Lv. 67  ![][186] [Politoed] Lv. 67 <br> ![][470] [Leafeon] Lv. 67
+Psychic Brittney           | ![][097] [Hypno] Lv. 66  ![][065] [Alakazam] Lv. 66  ![][308] [Medicham] Lv. 66 <br> ![][337] [Lunatone] Lv. 66
+Psychic Maxwell            | ![][429] [Mismagius] Lv. 66  ![][094] [Gengar] Lv. 66  ![][080] [Slowbro] Lv. 66 <br> ![][338] [Solrock] Lv. 66
+Veteran Armando (!)        | ![][089] [Muk] Lv. 68  ![][262] [Mightyena] Lv. 68  ![][463] [Lickilicky] Lv. 68 <br> ![][279] [Pelipper] Lv. 68
+Black Belt Carl            | ![][297] [Hariyama] Lv. 66  ![][106] [Hitmonlee] Lv. 66  ![][107] [Hitmonchan] Lv. 66 <br> ![][237] [Hitmontop] Lv. 66
+Ruin Maniac Larry          | ![][142] [Aerodactyl] Lv. 66  ![][348] [Armaldo] Lv. 66  ![][346] [Cradily] Lv. 66 <br> ![][369] [Relicanth] Lv. 66
+Ace Trainer Jamie          | ![][134] [Vaporeon] Lv. 67  ![][376] [Metagross] Lv. 67  ![][407] [Roserade] Lv. 67 <br> ![][051] [Dugtrio] Lv. 67
+Dragon Tamer Hayden (!)    | ![][334] [Altaria] Lv. 67  ![][373] [Salamence] Lv. 67  ![][230] [Kingdra] Lv. 67 <br> ![][149] [Dragonite] Lv. 67
+PKMN Trainer Dawn          | ![][065] [Alakazam] Lv. 69  ![][473] [Mamoswine] Lv. 69  ![][036] [Clefable] Lv. 69 <br> ![][428] [Lopunny] Lv. 69  ![][134] [Vaporeon] Lv. 69  ![][389] [Torterra] Lv. 70
+PKMN Trainer Dawn          | ![][065] [Alakazam] Lv. 69  ![][473] [Mamoswine] Lv. 69  ![][036] [Clefable] Lv. 69 <br> ![][428] [Lopunny] Lv. 69  ![][135] [Jolteon] Lv. 69  ![][392] [Infernape] Lv. 70
+PKMN Trainer Dawn          | ![][065] [Alakazam] Lv. 69  ![][473] [Mamoswine] Lv. 69  ![][036] [Clefable] Lv. 69 <br> ![][428] [Lopunny] Lv. 69  ![][136] [Flareon] Lv. 69  ![][395] [Empoleon] Lv. 70
+PKMN Trainer Lucas         | ![][065] [Alakazam] Lv. 69  ![][473] [Mamoswine] Lv. 69  ![][210] [Granbull] Lv. 69 <br> ![][463] [Lickilicky] Lv. 69  ![][134] [Vaporeon] Lv. 69  ![][389] [Torterra] Lv. 70
+PKMN Trainer Lucas         | ![][065] [Alakazam] Lv. 69  ![][473] [Mamoswine] Lv. 69  ![][210] [Granbull] Lv. 69 <br> ![][463] [Lickilicky] Lv. 69  ![][135] [Jolteon] Lv. 69  ![][392] [Infernape] Lv. 70
+PKMN Trainer Lucas         | ![][065] [Alakazam] Lv. 69  ![][473] [Mamoswine] Lv. 69  ![][210] [Granbull] Lv. 69 <br> ![][463] [Lickilicky] Lv. 69  ![][136] [Flareon] Lv. 69  ![][395] [Empoleon] Lv. 70
 
 #### Rematches
 
 Trainer                    | Pokémons
 ---                        | ---
-Veteran Armando (S)        | ![][089] [Muk] Lv. 77, ![][262] [Mightyena] Lv. 77, ![][463] [Lickilicky] Lv. 77,<br> ![][279] [Pelipper] Lv. 77
-Dragon Tamer Hayden (S)    | ![][334] [Altaria] Lv. 77, ![][373] [Salamence] Lv. 77, ![][230] [Kingdra] Lv. 77,<br> ![][149] [Dragonite] Lv. 77
+Veteran Armando (S)        | ![][089] [Muk] Lv. 77  ![][262] [Mightyena] Lv. 77  ![][463] [Lickilicky] Lv. 77 <br> ![][279] [Pelipper] Lv. 77
+Dragon Tamer Hayden (S)    | ![][334] [Altaria] Lv. 77  ![][373] [Salamence] Lv. 77  ![][230] [Kingdra] Lv. 77 <br> ![][149] [Dragonite] Lv. 77
 
 PKMN Trainer Dawn  | Item         | Nature  | Ability       | Moves
 ---                | ---          | ---     | ---           | ---
@@ -1463,44 +1463,44 @@ Note: In the first round, each Elite Four member will use a random team out of t
 
 Trainer                    | Pokémons
 ---                        | ---
-PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 70, ![][214] [Heracross] Lv. 70, ![][143] [Snorlax] Lv. 70,<br> ![][184] [Azumarill] Lv. 70, ![][059] [Arcanine] Lv. 70, ![][389] [Torterra] Lv. 71
-PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 70, ![][214] [Heracross] Lv. 70, ![][143] [Snorlax] Lv. 70,<br> ![][184] [Azumarill] Lv. 70, ![][286] [Breloom] Lv. 70, ![][392] [Infernape] Lv. 71
-PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 70, ![][214] [Heracross] Lv. 70, ![][143] [Snorlax] Lv. 70,<br> ![][286] [Breloom] Lv. 70, ![][059] [Arcanine] Lv. 70, ![][395] [Empoleon] Lv. 71
+PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 70  ![][214] [Heracross] Lv. 70  ![][143] [Snorlax] Lv. 70 <br> ![][184] [Azumarill] Lv. 70  ![][059] [Arcanine] Lv. 70  ![][389] [Torterra] Lv. 71
+PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 70  ![][214] [Heracross] Lv. 70  ![][143] [Snorlax] Lv. 70 <br> ![][184] [Azumarill] Lv. 70  ![][286] [Breloom] Lv. 70  ![][392] [Infernape] Lv. 71
+PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 70  ![][214] [Heracross] Lv. 70  ![][143] [Snorlax] Lv. 70 <br> ![][286] [Breloom] Lv. 70  ![][059] [Arcanine] Lv. 70  ![][395] [Empoleon] Lv. 71
 
 #### Round 1
 
 Trainer                    | Pokémons
 ---                        | ---
-Elite Four Aaron           | ![][469] [Yanmega] Lv. 71, ![][212] [Scizor] Lv. 71, ![][214] [Heracross] Lv. 71,<br> ![][416] [Vespiquen] Lv. 71, ![][348] [Armaldo] Lv. 71, ![][452] [Drapion] Lv. 72
-Elite Four Aaron           | ![][049] [Venomoth] Lv. 71, ![][123] [Scyther] Lv. 71, ![][127] [Pinsir] Lv. 71,<br> ![][205] [Forretress] Lv. 71, ![][348] [Armaldo] Lv. 71, ![][452] [Drapion] Lv. 72
-Elite Four Aaron           | ![][284] [Masquerain] Lv. 71, ![][267] [Beautifly] Lv. 71, ![][214] [Heracross] Lv. 71,<br> ![][212] [Scizor] Lv. 71, ![][269] [Dustox] Lv. 71, ![][452] [Drapion] Lv. 72
-Elite Four Aaron           | ![][123] [Scyther] Lv. 71, ![][469] [Yanmega] Lv. 71, ![][127] [Pinsir] Lv. 71,<br> ![][212] [Scizor] Lv. 71, ![][330] [Flygon] Lv. 71, ![][452] [Drapion] Lv. 72
-Elite Four Bertha          | ![][450] [Hippowdon] Lv. 72, ![][340] [Whiscash] Lv. 72, ![][472] [Gliscor] Lv. 72,<br> ![][076] [Golem] Lv. 72, ![][232] [Donphan] Lv. 72, ![][464] [Rhyperior] Lv. 73
-Elite Four Bertha          | ![][450] [Hippowdon] Lv. 72, ![][185] [Sudowoodo] Lv. 72, ![][472] [Gliscor] Lv. 72,<br> ![][389] [Torterra] Lv. 72, ![][323] [Camerupt] Lv. 72, ![][464] [Rhyperior] Lv. 73
-Elite Four Bertha          | ![][248] [Tyranitar] Lv. 72, ![][260] [Swampert] Lv. 72, ![][051] [Dugtrio] Lv. 72,<br> ![][473] [Mamoswine] Lv. 72, ![][344] [Claydol] Lv. 72, ![][464] [Rhyperior] Lv. 73
-Elite Four Bertha          | ![][248] [Tyranitar] Lv. 72, ![][195] [Quagsire] Lv. 72, ![][473] [Mamoswine] Lv. 72,<br> ![][051] [Dugtrio] Lv. 72, ![][389] [Torterra] Lv. 72, ![][464] [Rhyperior] Lv. 73
-Elite Four Flint           | ![][038] [Ninetales] Lv. 73, ![][229] [Houndoom] Lv. 73, ![][136] [Flareon] Lv. 73,<br> ![][078] [Rapidash] Lv. 73, ![][392] [Infernape] Lv. 73, ![][467] [Magmortar] Lv. 74
-Elite Four Flint           | ![][078] [Rapidash] Lv. 73, ![][428] [Lopunny] Lv. 73, ![][426] [Drifblim] Lv. 73,<br> ![][208] [Steelix] Lv. 73, ![][392] [Infernape] Lv. 73, ![][467] [Magmortar] Lv. 74
-Elite Four Flint           | ![][038] [Ninetales] Lv. 73, ![][059] [Arcanine] Lv. 73, ![][219] [Magcargo] Lv. 73,<br> ![][428] [Lopunny] Lv. 73, ![][006] [Charizard] Lv. 73, ![][467] [Magmortar] Lv. 74
-Elite Four Flint           | ![][324] [Torkoal] Lv. 73, ![][229] [Houndoom] Lv. 73, ![][059] [Arcanine] Lv. 73,<br> ![][426] [Drifblim] Lv. 73, ![][157] [Typhlosion] Lv. 73, ![][467] [Magmortar] Lv. 74
-Elite Four Lucian          | ![][122] [Mr. Mime] Lv. 74, ![][196] [Espeon] Lv. 74, ![][437] [Bronzong] Lv. 74,<br> ![][065] [Alakazam] Lv. 74, ![][376] [Metagross] Lv. 74, ![][475] [Gallade] Lv. 75
-Elite Four Lucian          | ![][196] [Espeon] Lv. 74, ![][203] [Girafarig] Lv. 74, ![][308] [Medicham] Lv. 74,<br> ![][121] [Starmie] Lv. 74, ![][103] [Exeggutor] Lv. 74, ![][475] [Gallade] Lv. 75
-Elite Four Lucian          | ![][097] [Hypno] Lv. 74, ![][080] [Slowbro] Lv. 74, ![][282] [Gardevoir] Lv. 74,<br> ![][124] [Jynx] Lv. 74, ![][437] [Bronzong] Lv. 74, ![][475] [Gallade] Lv. 75
-Elite Four Lucian          | ![][065] [Alakazam] Lv. 74, ![][282] [Gardevoir] Lv. 74, ![][103] [Exeggutor] Lv. 74,<br> ![][121] [Starmie] Lv. 74, ![][376] [Metagross] Lv. 74, ![][475] [Gallade] Lv. 75
-Champion Cynthia           | ![][442] [Spiritomb] Lv. 77, ![][407] [Roserade] Lv. 77, ![][468] [Togekiss] Lv. 77,<br> ![][448] [Lucario] Lv. 77, ![][350] [Milotic] Lv. 77, ![][445] [Garchomp] Lv. 78
-Champion Cynthia           | ![][350] [Milotic] Lv. 77, ![][442] [Spiritomb] Lv. 77, ![][181] [Ampharos] Lv. 77,<br> ![][398] [Staraptor] Lv. 77, ![][448] [Lucario] Lv. 77, ![][445] [Garchomp] Lv. 78
-Champion Cynthia           | ![][468] [Togekiss] Lv. 77, ![][350] [Milotic] Lv. 77, ![][442] [Spiritomb] Lv. 77,<br> ![][448] [Lucario] Lv. 77, ![][471] [Glaceon] Lv. 77, ![][445] [Garchomp] Lv. 78
-Champion Cynthia           | ![][036] [Clefable] Lv. 77, ![][407] [Roserade] Lv. 77, ![][429] [Mismagius] Lv. 77,<br> ![][428] [Lopunny] Lv. 77, ![][350] [Milotic] Lv. 77, ![][445] [Garchomp] Lv. 78
+Elite Four Aaron           | ![][469] [Yanmega] Lv. 71  ![][212] [Scizor] Lv. 71  ![][214] [Heracross] Lv. 71 <br> ![][416] [Vespiquen] Lv. 71  ![][348] [Armaldo] Lv. 71  ![][452] [Drapion] Lv. 72
+Elite Four Aaron           | ![][049] [Venomoth] Lv. 71  ![][123] [Scyther] Lv. 71  ![][127] [Pinsir] Lv. 71 <br> ![][205] [Forretress] Lv. 71  ![][348] [Armaldo] Lv. 71  ![][452] [Drapion] Lv. 72
+Elite Four Aaron           | ![][284] [Masquerain] Lv. 71  ![][267] [Beautifly] Lv. 71  ![][214] [Heracross] Lv. 71 <br> ![][212] [Scizor] Lv. 71  ![][269] [Dustox] Lv. 71  ![][452] [Drapion] Lv. 72
+Elite Four Aaron           | ![][123] [Scyther] Lv. 71  ![][469] [Yanmega] Lv. 71  ![][127] [Pinsir] Lv. 71 <br> ![][212] [Scizor] Lv. 71  ![][330] [Flygon] Lv. 71  ![][452] [Drapion] Lv. 72
+Elite Four Bertha          | ![][450] [Hippowdon] Lv. 72  ![][340] [Whiscash] Lv. 72  ![][472] [Gliscor] Lv. 72 <br> ![][076] [Golem] Lv. 72  ![][232] [Donphan] Lv. 72  ![][464] [Rhyperior] Lv. 73
+Elite Four Bertha          | ![][450] [Hippowdon] Lv. 72  ![][185] [Sudowoodo] Lv. 72  ![][472] [Gliscor] Lv. 72 <br> ![][389] [Torterra] Lv. 72  ![][323] [Camerupt] Lv. 72  ![][464] [Rhyperior] Lv. 73
+Elite Four Bertha          | ![][248] [Tyranitar] Lv. 72  ![][260] [Swampert] Lv. 72  ![][051] [Dugtrio] Lv. 72 <br> ![][473] [Mamoswine] Lv. 72  ![][344] [Claydol] Lv. 72  ![][464] [Rhyperior] Lv. 73
+Elite Four Bertha          | ![][248] [Tyranitar] Lv. 72  ![][195] [Quagsire] Lv. 72  ![][473] [Mamoswine] Lv. 72 <br> ![][051] [Dugtrio] Lv. 72  ![][389] [Torterra] Lv. 72  ![][464] [Rhyperior] Lv. 73
+Elite Four Flint           | ![][038] [Ninetales] Lv. 73  ![][229] [Houndoom] Lv. 73  ![][136] [Flareon] Lv. 73 <br> ![][078] [Rapidash] Lv. 73  ![][392] [Infernape] Lv. 73  ![][467] [Magmortar] Lv. 74
+Elite Four Flint           | ![][078] [Rapidash] Lv. 73  ![][428] [Lopunny] Lv. 73  ![][426] [Drifblim] Lv. 73 <br> ![][208] [Steelix] Lv. 73  ![][392] [Infernape] Lv. 73  ![][467] [Magmortar] Lv. 74
+Elite Four Flint           | ![][038] [Ninetales] Lv. 73  ![][059] [Arcanine] Lv. 73  ![][219] [Magcargo] Lv. 73 <br> ![][428] [Lopunny] Lv. 73  ![][006] [Charizard] Lv. 73  ![][467] [Magmortar] Lv. 74
+Elite Four Flint           | ![][324] [Torkoal] Lv. 73  ![][229] [Houndoom] Lv. 73  ![][059] [Arcanine] Lv. 73 <br> ![][426] [Drifblim] Lv. 73  ![][157] [Typhlosion] Lv. 73  ![][467] [Magmortar] Lv. 74
+Elite Four Lucian          | ![][122] [Mr. Mime] Lv. 74  ![][196] [Espeon] Lv. 74  ![][437] [Bronzong] Lv. 74 <br> ![][065] [Alakazam] Lv. 74  ![][376] [Metagross] Lv. 74  ![][475] [Gallade] Lv. 75
+Elite Four Lucian          | ![][196] [Espeon] Lv. 74  ![][203] [Girafarig] Lv. 74  ![][308] [Medicham] Lv. 74 <br> ![][121] [Starmie] Lv. 74  ![][103] [Exeggutor] Lv. 74  ![][475] [Gallade] Lv. 75
+Elite Four Lucian          | ![][097] [Hypno] Lv. 74  ![][080] [Slowbro] Lv. 74  ![][282] [Gardevoir] Lv. 74 <br> ![][124] [Jynx] Lv. 74  ![][437] [Bronzong] Lv. 74  ![][475] [Gallade] Lv. 75
+Elite Four Lucian          | ![][065] [Alakazam] Lv. 74  ![][282] [Gardevoir] Lv. 74  ![][103] [Exeggutor] Lv. 74 <br> ![][121] [Starmie] Lv. 74  ![][376] [Metagross] Lv. 74  ![][475] [Gallade] Lv. 75
+Champion Cynthia           | ![][442] [Spiritomb] Lv. 77  ![][407] [Roserade] Lv. 77  ![][468] [Togekiss] Lv. 77 <br> ![][448] [Lucario] Lv. 77  ![][350] [Milotic] Lv. 77  ![][445] [Garchomp] Lv. 78
+Champion Cynthia           | ![][350] [Milotic] Lv. 77  ![][442] [Spiritomb] Lv. 77  ![][181] [Ampharos] Lv. 77 <br> ![][398] [Staraptor] Lv. 77  ![][448] [Lucario] Lv. 77  ![][445] [Garchomp] Lv. 78
+Champion Cynthia           | ![][468] [Togekiss] Lv. 77  ![][350] [Milotic] Lv. 77  ![][442] [Spiritomb] Lv. 77 <br> ![][448] [Lucario] Lv. 77  ![][471] [Glaceon] Lv. 77  ![][445] [Garchomp] Lv. 78
+Champion Cynthia           | ![][036] [Clefable] Lv. 77  ![][407] [Roserade] Lv. 77  ![][429] [Mismagius] Lv. 77 <br> ![][428] [Lopunny] Lv. 77  ![][350] [Milotic] Lv. 77  ![][445] [Garchomp] Lv. 78
 
 #### Round 2
 
 Trainer                    | Pokémons
 ---                        | ---
-Elite Four Aaron           | ![][469] [Yanmega] Lv. 83, ![][212] [Scizor] Lv. 83, ![][214] [Heracross] Lv. 83,<br> ![][123] [Scyther] Lv. 83, ![][348] [Armaldo] Lv. 83, ![][452] [Drapion] Lv. 84
-Elite Four Bertha          | Hippowdown Lv. 84, ![][260] [Swampert] Lv. 84, ![][472] [Gliscor] Lv. 84,<br> ![][248] [Tyranitar] Lv. 84, ![][051] [Dugtrio] Lv. 84, ![][464] [Rhyperior] Lv. 85
-Elite Four Flint           | ![][038] [Ninetales] Lv. 85, ![][229] [Houndoom] Lv. 85, ![][467] [Magmortar] Lv. 85,<br> ![][392] [Infernape] Lv. 85, ![][078] [Rapidash] Lv. 85, ![][146] [Moltres] Lv. 86
-Elite Four Lucian          | ![][122] [Mr. Mime] Lv. 86, ![][196] [Espeon] Lv. 86, ![][475] [Gallade] Lv. 86,<br> ![][376] [Metagross] Lv. 86, ![][065] [Alakazam] Lv. 86, ![][381] [Latios] Lv. 87
-Champion Cynthia           | ![][442] [Spiritomb] Lv. 88, ![][468] [Togekiss] Lv. 88, ![][448] [Lucario] Lv. 88,<br> ![][445] [Garchomp] Lv. 88, ![][350] [Milotic] Lv. 88, ![][384] [Rayquaza] Lv. 89
+Elite Four Aaron           | ![][469] [Yanmega] Lv. 83  ![][212] [Scizor] Lv. 83  ![][214] [Heracross] Lv. 83 <br> ![][123] [Scyther] Lv. 83  ![][348] [Armaldo] Lv. 83  ![][452] [Drapion] Lv. 84
+Elite Four Bertha          | Hippowdown Lv. 84  ![][260] [Swampert] Lv. 84  ![][472] [Gliscor] Lv. 84 <br> ![][248] [Tyranitar] Lv. 84  ![][051] [Dugtrio] Lv. 84  ![][464] [Rhyperior] Lv. 85
+Elite Four Flint           | ![][038] [Ninetales] Lv. 85  ![][229] [Houndoom] Lv. 85  ![][467] [Magmortar] Lv. 85 <br> ![][392] [Infernape] Lv. 85  ![][078] [Rapidash] Lv. 85  ![][146] [Moltres] Lv. 86
+Elite Four Lucian          | ![][122] [Mr. Mime] Lv. 86  ![][196] [Espeon] Lv. 86  ![][475] [Gallade] Lv. 86 <br> ![][376] [Metagross] Lv. 86  ![][065] [Alakazam] Lv. 86  ![][381] [Latios] Lv. 87
+Champion Cynthia           | ![][442] [Spiritomb] Lv. 88  ![][468] [Togekiss] Lv. 88  ![][448] [Lucario] Lv. 88 <br> ![][445] [Garchomp] Lv. 88  ![][350] [Milotic] Lv. 88  ![][384] [Rayquaza] Lv. 89
 
 PKMN Trainer Barry  | Item         | Nature  | Ability       | Moves
 ---                 | ---          | ---     | ---           | ---
@@ -1743,36 +1743,36 @@ PKMN Trainer Barry  | Item         | Nature  | Ability       | Moves
 
 Trainer                    | Pokémons
 ---                        | ---
-Leader Volkner             | ![][026] [Raichu] Lv. 74, ![][135] [Jolteon] Lv. 74, ![][466] [Electivire] Lv. 75
-Elite Four Flint           | ![][059] [Arcanine] Lv. 74, ![][136] [Flareon] Lv. 74, ![][467] [Magmortar] Lv. 75
-PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 74, ![][214] [Heracross] Lv. 74, ![][143] [Snorlax] Lv. 74,<br> ![][184] [Azumarill] Lv. 74, ![][059] [Arcanine] Lv. 74, ![][389] [Torterra] Lv. 75
-PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 74, ![][214] [Heracross] Lv. 74, ![][143] [Snorlax] Lv. 74,<br> ![][184] [Azumarill] Lv. 74, ![][286] [Breloom] Lv. 74, ![][392] [Infernape] Lv. 75
-PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 74, ![][214] [Heracross] Lv. 74, ![][143] [Snorlax] Lv. 74,<br> ![][286] [Breloom] Lv. 74, ![][059] [Arcanine] Lv. 74, ![][395] [Empoleon] Lv. 75
+Leader Volkner             | ![][026] [Raichu] Lv. 74  ![][135] [Jolteon] Lv. 74  ![][466] [Electivire] Lv. 75
+Elite Four Flint           | ![][059] [Arcanine] Lv. 74  ![][136] [Flareon] Lv. 74  ![][467] [Magmortar] Lv. 75
+PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 74  ![][214] [Heracross] Lv. 74  ![][143] [Snorlax] Lv. 74 <br> ![][184] [Azumarill] Lv. 74  ![][059] [Arcanine] Lv. 74  ![][389] [Torterra] Lv. 75
+PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 74  ![][214] [Heracross] Lv. 74  ![][143] [Snorlax] Lv. 74 <br> ![][184] [Azumarill] Lv. 74  ![][286] [Breloom] Lv. 74  ![][392] [Infernape] Lv. 75
+PKMN Trainer Barry         | ![][398] [Staraptor] Lv. 74  ![][214] [Heracross] Lv. 74  ![][143] [Snorlax] Lv. 74 <br> ![][286] [Breloom] Lv. 74  ![][059] [Arcanine] Lv. 74  ![][395] [Empoleon] Lv. 75
 
 ### Route 225
 
 Trainer                    | Pokémons
 ---                        | ---
-Ace Trainer Rodolfo (!)    | ![][121] [Starmie] Lv. 73, ![][212] [Scizor] Lv. 73, ![][254] [Sceptile] Lv. 73,<br> ![][038] [Ninetales] Lv. 73
-PKMN Ranger Ashlee (!)     | ![][264] [Linoone] Lv. 73, ![][024] [Arbok] Lv. 73, ![][012] [Butterfree] Lv. 73
-Bird Keeper Audrey (!)     | ![][083] [Farfetch'd] Lv. 73, ![][277] [Swellow] Lv. 73, ![][018] [Pidgeot] Lv. 73
-Psychic Daisy (!)          | ![][080] [Slowbro] Lv. 74, ![][199] [Slowking] Lv. 74
+Ace Trainer Rodolfo (!)    | ![][121] [Starmie] Lv. 73  ![][212] [Scizor] Lv. 73  ![][254] [Sceptile] Lv. 73 <br> ![][038] [Ninetales] Lv. 73
+PKMN Ranger Ashlee (!)     | ![][264] [Linoone] Lv. 73  ![][024] [Arbok] Lv. 73  ![][012] [Butterfree] Lv. 73
+Bird Keeper Audrey (!)     | ![][083] [Farfetch'd] Lv. 73  ![][277] [Swellow] Lv. 73  ![][018] [Pidgeot] Lv. 73
+Psychic Daisy (!)          | ![][080] [Slowbro] Lv. 74  ![][199] [Slowking] Lv. 74
 Dragon Tamer Geoffrey (!)  | ![][334] [Altaria] Lv. 75
-Ace Trainer Deanna (!)     | ![][181] [Ampharos] Lv. 73, ![][357] [Tropius] Lv. 73, ![][131] [Lapras] Lv. 73,<br> ![][241] [Miltank] Lv. 73
-PKMN Ranger Dwayne         | ![][227] [Skarmory] Lv. 73, ![][055] [Golduck] Lv. 73, ![][232] [Donphan] Lv. 73
-Ace Trainer Quinn          | ![][127] [Pinsir] Lv. 73, ![][171] [Lanturn] Lv. 73, ![][076] [Golem] Lv. 73,<br> ![][295] [Exploud] Lv. 73
-Ace Trainer Heather *      | ![][279] [Pelipper] Lv. 76, ![][468] [Togekiss] Lv. 76, ![][142] [Aerodactyl] Lv. 76,<br> ![][018] [Pidgeot] Lv. 76, ![][357] [Tropius] Lv. 76, ![][149] [Dragonite] Lv. 77
+Ace Trainer Deanna (!)     | ![][181] [Ampharos] Lv. 73  ![][357] [Tropius] Lv. 73  ![][131] [Lapras] Lv. 73 <br> ![][241] [Miltank] Lv. 73
+PKMN Ranger Dwayne         | ![][227] [Skarmory] Lv. 73  ![][055] [Golduck] Lv. 73  ![][232] [Donphan] Lv. 73
+Ace Trainer Quinn          | ![][127] [Pinsir] Lv. 73  ![][171] [Lanturn] Lv. 73  ![][076] [Golem] Lv. 73 <br> ![][295] [Exploud] Lv. 73
+Ace Trainer Heather *      | ![][279] [Pelipper] Lv. 76  ![][468] [Togekiss] Lv. 76  ![][142] [Aerodactyl] Lv. 76 <br> ![][018] [Pidgeot] Lv. 76  ![][357] [Tropius] Lv. 76  ![][149] [Dragonite] Lv. 77
 
 #### Rematches
 
 Trainer                    | Pokémons
 ---                        | ---
-Ace Trainer Rodolfo (S)    | ![][121] [Starmie] Lv. 79, ![][212] [Scizor] Lv. 79, ![][254] [Sceptile] Lv. 79,<br> ![][038] [Ninetales] Lv. 79
-PKMN Ranger Ashlee (S)     | ![][264] [Linoone] Lv. 78, ![][024] [Arbok] Lv. 78, ![][012] [Butterfree] Lv. 78
-Bird Keeper Audrey (S)     | ![][083] [Farfetch'd] Lv. 78, ![][277] [Swellow] Lv. 78, ![][018] [Pidgeot] Lv. 78
-Psychic Daisy (S)          | ![][080] [Slowbro] Lv. 79, ![][199] [Slowking] Lv. 79
-Dragon Tamer Geoffrey (S)  | ![][334] [Altaria] Lv. 79, ![][445] [Garchomp] Lv. 79
-Ace Trainer Deanna (S)     | ![][181] [Ampharos] Lv. 79, ![][357] [Tropius] Lv. 79, ![][131] [Lapras] Lv. 79,<br> ![][241] [Miltank] Lv. 79
+Ace Trainer Rodolfo (S)    | ![][121] [Starmie] Lv. 79  ![][212] [Scizor] Lv. 79  ![][254] [Sceptile] Lv. 79 <br> ![][038] [Ninetales] Lv. 79
+PKMN Ranger Ashlee (S)     | ![][264] [Linoone] Lv. 78  ![][024] [Arbok] Lv. 78  ![][012] [Butterfree] Lv. 78
+Bird Keeper Audrey (S)     | ![][083] [Farfetch'd] Lv. 78  ![][277] [Swellow] Lv. 78  ![][018] [Pidgeot] Lv. 78
+Psychic Daisy (S)          | ![][080] [Slowbro] Lv. 79  ![][199] [Slowking] Lv. 79
+Dragon Tamer Geoffrey (S)  | ![][334] [Altaria] Lv. 79  ![][445] [Garchomp] Lv. 79
+Ace Trainer Deanna (S)     | ![][181] [Ampharos] Lv. 79  ![][357] [Tropius] Lv. 79  ![][131] [Lapras] Lv. 79 <br> ![][241] [Miltank] Lv. 79
 
 Ace Trainer Heather | Item         | Nature  | Ability       | Moves
 ---                 | ---          | ---     | ---           | ---
@@ -1787,12 +1787,12 @@ Ace Trainer Heather | Item         | Nature  | Ability       | Moves
 
 Trainer              | Pokémons
 ---                  | ---
-Swimmer Lydia        | ![][184] [Azumarill] Lv. 73, ![][087] [Dewgong] Lv. 73, ![][321] [Wailord] Lv. 73
-Ace Trainer Graham   | ![][236] [Tyrogue] Lv. 74, ![][107] [Hitmonchan] Lv. 74, ![][106] [Hitmonlee] Lv. 74, ![][237] [Hitmontop] Lv. 74
-Bird Keeper Geneva   | ![][022] [Fearow] Lv. 74, ![][178] [Xatu] Lv. 74, ![][277] [Swellow] Lv. 74
+Swimmer Lydia        | ![][184] [Azumarill] Lv. 73  ![][087] [Dewgong] Lv. 73  ![][321] [Wailord] Lv. 73
+Ace Trainer Graham   | ![][236] [Tyrogue] Lv. 74  ![][107] [Hitmonchan] Lv. 74  ![][106] [Hitmonlee] Lv. 74  ![][237] [Hitmontop] Lv. 74
+Bird Keeper Geneva   | ![][022] [Fearow] Lv. 74  ![][178] [Xatu] Lv. 74  ![][277] [Swellow] Lv. 74
 Dragon Tamer Stanley | ![][230] [Kingdra] Lv. 76
-Swimmer Wade         | ![][319] [Sharpedo] Lv. 74, ![][340] [Whiscash] Lv. 74
-Ace Trainer Wyver *  | ![][230] [Kingdra] Lv. 76, ![][330] [Flygon] Lv. 76, ![][334] [Altaria] Lv. 76,<br> ![][149] [Dragonite] Lv. 76, ![][445] [Garchomp] Lv. 76, ![][373] [Salamence] Lv. 77
+Swimmer Wade         | ![][319] [Sharpedo] Lv. 74  ![][340] [Whiscash] Lv. 74
+Ace Trainer Wyver *  | ![][230] [Kingdra] Lv. 76  ![][330] [Flygon] Lv. 76  ![][334] [Altaria] Lv. 76 <br> ![][149] [Dragonite] Lv. 76  ![][445] [Garchomp] Lv. 76  ![][373] [Salamence] Lv. 77
 
 Ace Trainer Wyver  | Item         | Nature | Ability           | Moves
 ---                | ---          | ---    | ---               | ---
@@ -1808,11 +1808,11 @@ Ace Trainer Wyver  | Item         | Nature | Ability           | Moves
 Trainer              | Pokémons
 ---                  | ---
 Ace Trainer Saul (!) | ![][128] [Tauros] Lv. 78
-PKMN Ranger Felicia  | ![][189] [Jumpluff] Lv. 76, ![][428] [Lopunny] Lv. 76
-Black Belt Griffin   | ![][286] [Breloom] Lv. 75, ![][308] [Medicham] Lv. 75, ![][448] [Lucario] Lv. 75
-Ace Trainer Mikayla  | ![][336] [Seviper] Lv. 76, ![][053] [Persian] Lv. 76, ![][359] [Absol] Lv. 76
-Ace Trainer Slythe * | ![][094] [Gengar] Lv. 76, ![][073] [Tentacruel] Lv. 76, ![][031] [Nidoqueen] Lv. 76,<br> ![][169] [Crobat] Lv. 76, ![][454] [Toxicroak] Lv. 76, ![][045] [Vileplume] Lv. 77
-PKMN Trainer Buck    | ![][324] [Torkoal] Lv. 77, ![][213] [Shuckle] Lv. 77, ![][197] [Umbreon] Lv. 77,<br> ![][477] [Dusknoir] Lv. 77, ![][091] [Cloyster] Lv. 77, ![][344] [Claydol] Lv. 78
+PKMN Ranger Felicia  | ![][189] [Jumpluff] Lv. 76  ![][428] [Lopunny] Lv. 76
+Black Belt Griffin   | ![][286] [Breloom] Lv. 75  ![][308] [Medicham] Lv. 75  ![][448] [Lucario] Lv. 75
+Ace Trainer Mikayla  | ![][336] [Seviper] Lv. 76  ![][053] [Persian] Lv. 76  ![][359] [Absol] Lv. 76
+Ace Trainer Slythe * | ![][094] [Gengar] Lv. 76  ![][073] [Tentacruel] Lv. 76  ![][031] [Nidoqueen] Lv. 76 <br> ![][169] [Crobat] Lv. 76  ![][454] [Toxicroak] Lv. 76  ![][045] [Vileplume] Lv. 77
+PKMN Trainer Buck    | ![][324] [Torkoal] Lv. 77  ![][213] [Shuckle] Lv. 77  ![][197] [Umbreon] Lv. 77 <br> ![][477] [Dusknoir] Lv. 77  ![][091] [Cloyster] Lv. 77  ![][344] [Claydol] Lv. 78
 
 #### Rematches
 
@@ -1842,24 +1842,24 @@ PKMN Trainer Buck | Item         | Nature  | Ability       | Moves
 
 Trainer               | Pokémons
 ---                   | ---
-Ace Trainer Jose      | ![][419] [Floatzel] Lv. 76, ![][028] [Sandslash] Lv. 76, ![][310] [Manectric] Lv. 76
-Ace Trainer Moira (!) | ![][332] [Cacturne] Lv. 76, ![][423] [Gastrodon] Lv. 76, ![][344] [Claydol] Lv. 76
-PKMN Ranger Kyler (!) | ![][103] [Exeggutor] Lv. 75, ![][335] [Zangoose] Lv. 75, ![][395] [Empoleon] Lv. 75
-PKMN Ranger Krista    | ![][105] [Marowak] Lv. 76, ![][306] [Aggron] Lv. 76
+Ace Trainer Jose      | ![][419] [Floatzel] Lv. 76  ![][028] [Sandslash] Lv. 76  ![][310] [Manectric] Lv. 76
+Ace Trainer Moira (!) | ![][332] [Cacturne] Lv. 76  ![][423] [Gastrodon] Lv. 76  ![][344] [Claydol] Lv. 76
+PKMN Ranger Kyler (!) | ![][103] [Exeggutor] Lv. 75  ![][335] [Zangoose] Lv. 75  ![][395] [Empoleon] Lv. 75
+PKMN Ranger Krista    | ![][105] [Marowak] Lv. 76  ![][306] [Aggron] Lv. 76
 Dragon Tamer Keegan   | ![][330] [Flygon] Lv. 76
-Psychic Corbin (!)    | ![][097] [Hypno] Lv. 76, ![][475] [Gallade] Lv. 76
-Ace Trainer Meagan    | ![][301] [Delcatty] Lv. 77, ![][460] [Abomasnow] Lv. 77
-Black Belt Davon (!)  | ![][297] [Hariyama] Lv. 75, ![][068] [Machamp] Lv. 75, ![][057] [Primeape] Lv. 75
-Ace Trainer Shade *   | ![][229] [Houndoom] Lv. 76, ![][461] [Weavile] Lv. 76, ![][275] [Shiftry] Lv. 76,<br> ![][319] [Sharpedo] Lv. 76, ![][442] [Spiritomb] Lv. 76, ![][248] [Tyranitar] Lv. 77
+Psychic Corbin (!)    | ![][097] [Hypno] Lv. 76  ![][475] [Gallade] Lv. 76
+Ace Trainer Meagan    | ![][301] [Delcatty] Lv. 77  ![][460] [Abomasnow] Lv. 77
+Black Belt Davon (!)  | ![][297] [Hariyama] Lv. 75  ![][068] [Machamp] Lv. 75  ![][057] [Primeape] Lv. 75
+Ace Trainer Shade *   | ![][229] [Houndoom] Lv. 76  ![][461] [Weavile] Lv. 76  ![][275] [Shiftry] Lv. 76 <br> ![][319] [Sharpedo] Lv. 76  ![][442] [Spiritomb] Lv. 76  ![][248] [Tyranitar] Lv. 77
 
 #### Rematches
 
 Trainer               | Pokémons
 ---                   | ---
-Ace Trainer Moira (S) | ![][332] [Cacturne] Lv. 79, ![][423] [Gastrodon] Lv. 79, ![][344] [Claydol] Lv. 79
-PKMN Ranger Kyler (S) | ![][103] [Exeggutor] Lv. 78, ![][335] [Zangoose] Lv. 78, ![][395] [Empoleon] Lv. 78
-Psychic Corbin (S)    | ![][097] [Hypno] Lv. 78, ![][475] [Gallade] Lv. 78, ![][178] [Xatu] Lv. 78
-Black Belt Davon (S)  | ![][297] [Hariyama] Lv. 78, ![][068] [Machamp] Lv. 78, ![][057] [Primeape] Lv. 78
+Ace Trainer Moira (S) | ![][332] [Cacturne] Lv. 79  ![][423] [Gastrodon] Lv. 79  ![][344] [Claydol] Lv. 79
+PKMN Ranger Kyler (S) | ![][103] [Exeggutor] Lv. 78  ![][335] [Zangoose] Lv. 78  ![][395] [Empoleon] Lv. 78
+Psychic Corbin (S)    | ![][097] [Hypno] Lv. 78  ![][475] [Gallade] Lv. 78  ![][178] [Xatu] Lv. 78
+Black Belt Davon (S)  | ![][297] [Hariyama] Lv. 78  ![][068] [Machamp] Lv. 78  ![][057] [Primeape] Lv. 78
 
 Ace Trainer Shade  | Item           | Nature | Ability        | Moves
 ---                | ---            | ---    | ---            | ---
@@ -1874,11 +1874,11 @@ Ace Trainer Shade  | Item           | Nature | Ability        | Moves
 
 Trainer             | Pokémons
 ---                 | ---
-PKMN Ranger Deshawn | ![][327] [Spinda] Lv. 74, ![][352] [Kecleon] Lv. 74, ![][210] [Granbull] Lv. 74
-Ace Trainer Felix   | ![][477] [Dusknoir] Lv. 76, ![][373] [Salamence] Lv. 76
-Ace Trainer Dana    | ![][262] [Mightyena] Lv. 75, ![][282] [Gardevoir] Lv. 75, ![][012] [Butterfree] Lv. 75
-Ace Trainer Sandra  | ![][051] [Dugtrio] Lv. 74, ![][026] [Raichu] Lv. 74, ![][059] [Arcanine] Lv. 74,<br> ![][045] [Vileplume] Lv. 74
-Ace Trainer Gene *  | ![][234] [Stantler] Lv. 76, ![][085] [Dodrio] Lv. 76, ![][203] [Girafarig] Lv. 76,<br> ![][400] [Bibarel] Lv. 76, ![][474] [Porygon-Z] Lv. 76, ![][143] [Snorlax] Lv. 77
+PKMN Ranger Deshawn | ![][327] [Spinda] Lv. 74  ![][352] [Kecleon] Lv. 74  ![][210] [Granbull] Lv. 74
+Ace Trainer Felix   | ![][477] [Dusknoir] Lv. 76  ![][373] [Salamence] Lv. 76
+Ace Trainer Dana    | ![][262] [Mightyena] Lv. 75  ![][282] [Gardevoir] Lv. 75  ![][012] [Butterfree] Lv. 75
+Ace Trainer Sandra  | ![][051] [Dugtrio] Lv. 74  ![][026] [Raichu] Lv. 74  ![][059] [Arcanine] Lv. 74 <br> ![][045] [Vileplume] Lv. 74
+Ace Trainer Gene *  | ![][234] [Stantler] Lv. 76  ![][085] [Dodrio] Lv. 76  ![][203] [Girafarig] Lv. 76 <br> ![][400] [Bibarel] Lv. 76  ![][474] [Porygon-Z] Lv. 76  ![][143] [Snorlax] Lv. 77
 
 Ace Trainer Gene   | Item         | Nature | Ability      | Moves
 ---                | ---          | ---    | ---          | ---
@@ -1893,20 +1893,20 @@ Ace Trainer Gene   | Item         | Nature | Ability      | Moves
 
 Trainer            | Pokémons
 ---                | ---
-Swimmer Glenn (!)  | ![][224] [Octillery] Lv. 73, ![][186] [Politoed] Lv. 73
-Swimmer Joanna (!) | ![][370] [Luvdisc] Lv. 72, ![][222] [Corsola] Lv. 72, ![][134] [Vaporeon] Lv. 72
-Swimmer Kurt       | ![][098] [Krabby] Lv. 70, ![][341] [Corphish] Lv. 70, ![][099] [Kingler] Lv. 72,<br> ![][342] [Crawdaunt] Lv. 72
-Swimmer Sophia     | ![][225] [Delibird] Lv. 73, ![][226] [Mantine] Lv. 73
-Swimmer Sam        | ![][365] [Walrein] Lv. 72, ![][423] [Gastrodon] Lv. 72, ![][119] [Seaking] Lv. 72
-Swimmer Mallory    | ![][284] [Masquerain] Lv. 73, ![][272] [Ludicolo] Lv. 73
-Ace Trainer Luna * | ![][040] [Wigglytuff] Lv. 76, ![][036] [Clefable] Lv. 76, ![][184] [Azumarill] Lv. 76,<br> ![][210] [Granbull] Lv. 76, ![][303] [Mawile] Lv. 76, ![][282] [Gardevoir] Lv. 77
+Swimmer Glenn (!)  | ![][224] [Octillery] Lv. 73  ![][186] [Politoed] Lv. 73
+Swimmer Joanna (!) | ![][370] [Luvdisc] Lv. 72  ![][222] [Corsola] Lv. 72  ![][134] [Vaporeon] Lv. 72
+Swimmer Kurt       | ![][098] [Krabby] Lv. 70  ![][341] [Corphish] Lv. 70  ![][099] [Kingler] Lv. 72 <br> ![][342] [Crawdaunt] Lv. 72
+Swimmer Sophia     | ![][225] [Delibird] Lv. 73  ![][226] [Mantine] Lv. 73
+Swimmer Sam        | ![][365] [Walrein] Lv. 72  ![][423] [Gastrodon] Lv. 72  ![][119] [Seaking] Lv. 72
+Swimmer Mallory    | ![][284] [Masquerain] Lv. 73  ![][272] [Ludicolo] Lv. 73
+Ace Trainer Luna * | ![][040] [Wigglytuff] Lv. 76  ![][036] [Clefable] Lv. 76  ![][184] [Azumarill] Lv. 76 <br> ![][210] [Granbull] Lv. 76  ![][303] [Mawile] Lv. 76  ![][282] [Gardevoir] Lv. 77
 
 #### Rematches
 
 Trainer            | Pokémons
 ---                | ---
-Swimmer Glenn (S)  | ![][224] [Octillery] Lv. 76, ![][186] [Politoed] Lv. 76
-Swimmer Joanna (S) | ![][370] [Luvdisc] Lv. 75, ![][222] [Corsola] Lv. 75, ![][134] [Vaporeon] Lv. 75
+Swimmer Glenn (S)  | ![][224] [Octillery] Lv. 76  ![][186] [Politoed] Lv. 76
+Swimmer Joanna (S) | ![][370] [Luvdisc] Lv. 75  ![][222] [Corsola] Lv. 75  ![][134] [Vaporeon] Lv. 75
 
 Ace Trainer Luna    | Item         | Nature | Ability        | Moves
 ---                 | ---          | ---    | ---            | ---
@@ -1927,8 +1927,8 @@ Dragon Tamer Darien | ![][149] [Dragonite] Lv. 78
 
 Trainer           | Pokémons
 ---               | ---
-Commander Mars    | ![][169] [Crobat] Lv. 77, ![][469] [Yanmega] Lv. 77, ![][437] [Bronzong] Lv. 77,<br> ![][466] [Electivire] Lv. 77, ![][115] [Kangaskhan] Lv. 77, ![][432] [Purugly] Lv. 78
-Commander Jupiter | ![][437] [Bronzong] Lv. 77, ![][302] [Sableye] Lv. 77, ![][169] [Crobat] Lv. 77,<br> ![][465] [Tangrowth] Lv. 77, ![][423] [Gastrodon] Lv. 77, ![][435] [Skuntank] Lv. 78
+Commander Mars    | ![][169] [Crobat] Lv. 77  ![][469] [Yanmega] Lv. 77  ![][437] [Bronzong] Lv. 77 <br> ![][466] [Electivire] Lv. 77  ![][115] [Kangaskhan] Lv. 77  ![][432] [Purugly] Lv. 78
+Commander Jupiter | ![][437] [Bronzong] Lv. 77  ![][302] [Sableye] Lv. 77  ![][169] [Crobat] Lv. 77 <br> ![][465] [Tangrowth] Lv. 77  ![][423] [Gastrodon] Lv. 77  ![][435] [Skuntank] Lv. 78
 
 Commander Mars      | Item         | Nature | Ability     | Moves
 ---                 | ---          | ---    | ---         | ---
@@ -1952,105 +1952,105 @@ Commander Jupiter  | Item          | Nature | Ability         | Moves
 
 Trainer               | Pokémons
 ---                   | ---
-Ace Trainer Keenan    | ![][057] [Primeape] Lv. 78, ![][354] [Banette] Lv. 78, ![][466] [Electivire] Lv. 78
-Ace Trainer Kassandra | ![][189] [Jumpluff] Lv. 78, ![][181] [Ampharos] Lv. 78, ![][208] [Steelix] Lv. 78
-Ace Trainer Stefan    | ![][248] [Tyranitar] Lv. 78, ![][389] [Torterra] Lv. 78, ![][306] [Aggron] Lv. 78
-Ace Trainer Jasmin    | ![][452] [Drapion] Lv. 78, Hippowdown Lv. 78, ![][467] [Magmortar] Lv. 78
-Bird Keeper Krystal   | ![][398] [Staraptor] Lv. 78, ![][022] [Fearow] Lv. 78, ![][164] [Noctowl] Lv. 78
-Black Belt Ray        | ![][286] [Breloom] Lv. 78, ![][454] [Toxicroak] Lv. 78, ![][297] [Hariyama] Lv. 78
-Ace Trainer Abel      | ![][362] [Glalie] Lv. 78, ![][169] [Crobat] Lv. 78, ![][038] [Ninetales] Lv. 78
-Ace Trainer Monique   | ![][405] [Luxray] Lv. 78, ![][217] [Ursaring] Lv. 78, ![][472] [Gliscor] Lv. 78
-Psychic Chelsey       | ![][337] [Lunatone] Lv. 78, ![][282] [Gardevoir] Lv. 78, ![][178] [Xatu] Lv. 78
-Psychic Sterling      | ![][338] [Solrock] Lv. 78, ![][475] [Gallade] Lv. 78, ![][344] [Claydol] Lv. 78
-Veteran Harlan        | ![][020] [Raticate] Lv. 78, ![][426] [Drifblim] Lv. 78, ![][275] [Shiftry] Lv. 78
-Dragon Tamer Kenny    | ![][373] [Salamence] Lv. 78, ![][330] [Flygon] Lv. 78, ![][334] [Altaria] Lv. 78
-Ace Trainer Skylar    | ![][295] [Exploud] Lv. 78, ![][409] [Rampardos] Lv. 78, ![][279] [Pelipper] Lv. 78
-Ace Trainer Natasha   | ![][040] [Wigglytuff] Lv. 78, ![][065] [Alakazam] Lv. 78, ![][308] [Medicham] Lv. 78
-Dragon Tamer Drake    | ![][445] [Garchomp] Lv. 78, ![][149] [Dragonite] Lv. 78, ![][230] [Kingdra] Lv. 78
-Black Belt Jarrett    | ![][068] [Machamp] Lv. 78, ![][257] [Blaziken] Lv. 78, ![][062] [Poliwrath] Lv. 78
+Ace Trainer Keenan    | ![][057] [Primeape] Lv. 78  ![][354] [Banette] Lv. 78  ![][466] [Electivire] Lv. 78
+Ace Trainer Kassandra | ![][189] [Jumpluff] Lv. 78  ![][181] [Ampharos] Lv. 78  ![][208] [Steelix] Lv. 78
+Ace Trainer Stefan    | ![][248] [Tyranitar] Lv. 78  ![][389] [Torterra] Lv. 78  ![][306] [Aggron] Lv. 78
+Ace Trainer Jasmin    | ![][452] [Drapion] Lv. 78  Hippowdown Lv. 78  ![][467] [Magmortar] Lv. 78
+Bird Keeper Krystal   | ![][398] [Staraptor] Lv. 78  ![][022] [Fearow] Lv. 78  ![][164] [Noctowl] Lv. 78
+Black Belt Ray        | ![][286] [Breloom] Lv. 78  ![][454] [Toxicroak] Lv. 78  ![][297] [Hariyama] Lv. 78
+Ace Trainer Abel      | ![][362] [Glalie] Lv. 78  ![][169] [Crobat] Lv. 78  ![][038] [Ninetales] Lv. 78
+Ace Trainer Monique   | ![][405] [Luxray] Lv. 78  ![][217] [Ursaring] Lv. 78  ![][472] [Gliscor] Lv. 78
+Psychic Chelsey       | ![][337] [Lunatone] Lv. 78  ![][282] [Gardevoir] Lv. 78  ![][178] [Xatu] Lv. 78
+Psychic Sterling      | ![][338] [Solrock] Lv. 78  ![][475] [Gallade] Lv. 78  ![][344] [Claydol] Lv. 78
+Veteran Harlan        | ![][020] [Raticate] Lv. 78  ![][426] [Drifblim] Lv. 78  ![][275] [Shiftry] Lv. 78
+Dragon Tamer Kenny    | ![][373] [Salamence] Lv. 78  ![][330] [Flygon] Lv. 78  ![][334] [Altaria] Lv. 78
+Ace Trainer Skylar    | ![][295] [Exploud] Lv. 78  ![][409] [Rampardos] Lv. 78  ![][279] [Pelipper] Lv. 78
+Ace Trainer Natasha   | ![][040] [Wigglytuff] Lv. 78  ![][065] [Alakazam] Lv. 78  ![][308] [Medicham] Lv. 78
+Dragon Tamer Drake    | ![][445] [Garchomp] Lv. 78  ![][149] [Dragonite] Lv. 78  ![][230] [Kingdra] Lv. 78
+Black Belt Jarrett    | ![][068] [Machamp] Lv. 78  ![][257] [Blaziken] Lv. 78  ![][062] [Poliwrath] Lv. 78
 
 ### Battleground
 
 Trainer             | Pokémons
 ---                 | ---
-Leader Roark        | ![][185] [Sudowoodo] Lv. 81, ![][476] [Probopass] Lv. 81, ![][076] [Golem] Lv. 81,<br> ![][142] [Aerodactyl] Lv. 81, ![][248] [Tyranitar] Lv. 81, ![][409] [Rampardos] Lv. 82
-Leader Gardenia     | ![][421] [Cherrim] Lv. 81, ![][465] [Tangrowth] Lv. 81, ![][182] [Bellossom] Lv. 81,<br> ![][389] [Torterra] Lv. 81, ![][286] [Breloom] Lv. 81, ![][407] [Roserade] Lv. 82
-Leader Fantina      | ![][426] [Drifblim] Lv. 81, ![][477] [Dusknoir] Lv. 81, ![][354] [Banette] Lv. 81,<br> ![][442] [Spiritomb] Lv. 81, ![][094] [Gengar] Lv. 81, ![][429] [Mismagius] Lv. 82
-Leader Maylene      | ![][308] [Medicham] Lv. 82, ![][068] [Machamp] Lv. 82, ![][392] [Infernape] Lv. 82,<br> ![][454] [Toxicroak] Lv. 82, ![][475] [Gallade] Lv. 82, ![][448] [Lucario] Lv. 83
-Leader Wake         | ![][195] [Quagsire] Lv. 81, ![][130] [Gyarados] Lv. 81, ![][062] [Poliwrath] Lv. 81,<br> ![][272] [Ludicolo] Lv. 81, ![][319] [Sharpedo] Lv. 81, ![][419] [Floatzel] Lv. 82
-Leader Byron        | ![][437] [Bronzong] Lv. 81, ![][462] [Magnezone] Lv. 81, ![][208] [Steelix] Lv. 81,<br> ![][205] [Forretress] Lv. 81, ![][306] [Aggron] Lv. 81, ![][411] [Bastiodon] Lv. 82
-Leader Candice      | ![][460] [Abomasnow] Lv. 81, ![][461] [Weavile] Lv. 81, ![][471] [Glaceon] Lv. 81,<br> ![][365] [Walrein] Lv. 81, ![][473] [Mamoswine] Lv. 81, ![][478] [Froslass] Lv. 82
-Leader Volkner      | ![][135] [Jolteon] Lv. 81, ![][026] [Raichu] Lv. 81, ![][479] [Rotom] Lv. 81,<br> ![][479] [Rotom] Lv. 81, ![][405] [Luxray] Lv. 81, ![][466] [Electivire] Lv. 82
-PKMN Trainer Cheryl | ![][202] [Wobbuffet] Lv. 81, ![][143] [Snorlax] Lv. 81, ![][426] [Drifblim] Lv. 81,<br> ![][297] [Hariyama] Lv. 81, ![][321] [Wailord] Lv. 81, ![][242] [Blissey] Lv. 82
-PKMN Trainer Mira   | ![][468] [Togekiss] Lv. 81, ![][094] [Gengar] Lv. 81, ![][103] [Exeggutor] Lv. 81,<br> ![][462] [Magnezone] Lv. 81, ![][474] [Porygon-Z] Lv. 81, ![][065] [Alakazam] Lv. 82
-PKMN Trainer Riley  | ![][359] [Absol] Lv. 81, ![][217] [Ursaring] Lv. 81, ![][376] [Metagross] Lv. 81,<br> ![][373] [Salamence] Lv. 81, ![][289] [Slaking] Lv. 81, ![][448] [Lucario] Lv. 82
-PKMN Trainer Marley | ![][121] [Starmie] Lv. 81, ![][101] [Electrode] Lv. 81, ![][254] [Sceptile] Lv. 81,<br> ![][169] [Crobat] Lv. 81, ![][461] [Weavile] Lv. 81, ![][059] [Arcanine] Lv. 82
-PKMN Trainer Buck   | ![][324] [Torkoal] Lv. 81, ![][213] [Shuckle] Lv. 81, ![][197] [Umbreon] Lv. 81,<br> ![][477] [Dusknoir] Lv. 81, ![][091] [Cloyster] Lv. 81, ![][344] [Claydol] Lv. 82
-PKMN Trainer Barry  | ![][398] [Staraptor] Lv. 84, ![][214] [Heracross] Lv. 84, ![][143] [Snorlax] Lv. 84,<br> ![][184] [Azumarill] Lv. 84, ![][059] [Arcanine] Lv. 84, ![][389] [Torterra] Lv. 85
-PKMN Trainer Barry  | ![][398] [Staraptor] Lv. 84, ![][214] [Heracross] Lv. 84, ![][143] [Snorlax] Lv. 84,<br> ![][184] [Azumarill] Lv. 84, ![][286] [Breloom] Lv. 84, ![][392] [Infernape] Lv. 85
-PKMN Trainer Barry  | ![][398] [Staraptor] Lv. 84, ![][214] [Heracross] Lv. 84, ![][143] [Snorlax] Lv. 84,<br> ![][286] [Breloom] Lv. 84, ![][059] [Arcanine] Lv. 84, ![][395] [Empoleon] Lv. 85
-PKMN Trainer Dawn   | ![][065] [Alakazam] Lv. 83, ![][473] [Mamoswine] Lv. 83, ![][036] [Clefable] Lv. 83,<br> ![][428] [Lopunny] Lv. 83, ![][134] [Vaporeon] Lv. 83, ![][389] [Torterra] Lv. 84
-PKMN Trainer Dawn   | ![][065] [Alakazam] Lv. 83, ![][473] [Mamoswine] Lv. 83, ![][036] [Clefable] Lv. 83,<br> ![][428] [Lopunny] Lv. 83, ![][135] [Jolteon] Lv. 83, ![][392] [Infernape] Lv. 84
-PKMN Trainer Dawn   | ![][065] [Alakazam] Lv. 83, ![][473] [Mamoswine] Lv. 83, ![][036] [Clefable] Lv. 83,<br> ![][428] [Lopunny] Lv. 83, ![][136] [Flareon] Lv. 83, ![][395] [Empoleon] Lv. 84
-PKMN Trainer Lucas  | ![][065] [Alakazam] Lv. 83, ![][473] [Mamoswine] Lv. 83, ![][210] [Granbull] Lv. 83,<br> ![][463] [Lickilicky] Lv. 83, ![][134] [Vaporeon] Lv. 83, ![][389] [Torterra] Lv. 84
-PKMN Trainer Lucas  | ![][065] [Alakazam] Lv. 83, ![][473] [Mamoswine] Lv. 83, ![][210] [Granbull] Lv. 83,<br> ![][463] [Lickilicky] Lv. 83, ![][135] [Jolteon] Lv. 83, ![][392] [Infernape] Lv. 84
-PKMN Trainer Lucas  | ![][065] [Alakazam] Lv. 83, ![][473] [Mamoswine] Lv. 83, ![][210] [Granbull] Lv. 83,<br> ![][463] [Lickilicky] Lv. 83, ![][136] [Flareon] Lv. 83, ![][395] [Empoleon] Lv. 84
+Leader Roark        | ![][185] [Sudowoodo] Lv. 81  ![][476] [Probopass] Lv. 81  ![][076] [Golem] Lv. 81 <br> ![][142] [Aerodactyl] Lv. 81  ![][248] [Tyranitar] Lv. 81  ![][409] [Rampardos] Lv. 82
+Leader Gardenia     | ![][421] [Cherrim] Lv. 81  ![][465] [Tangrowth] Lv. 81  ![][182] [Bellossom] Lv. 81 <br> ![][389] [Torterra] Lv. 81  ![][286] [Breloom] Lv. 81  ![][407] [Roserade] Lv. 82
+Leader Fantina      | ![][426] [Drifblim] Lv. 81  ![][477] [Dusknoir] Lv. 81  ![][354] [Banette] Lv. 81 <br> ![][442] [Spiritomb] Lv. 81  ![][094] [Gengar] Lv. 81  ![][429] [Mismagius] Lv. 82
+Leader Maylene      | ![][308] [Medicham] Lv. 82  ![][068] [Machamp] Lv. 82  ![][392] [Infernape] Lv. 82 <br> ![][454] [Toxicroak] Lv. 82  ![][475] [Gallade] Lv. 82  ![][448] [Lucario] Lv. 83
+Leader Wake         | ![][195] [Quagsire] Lv. 81  ![][130] [Gyarados] Lv. 81  ![][062] [Poliwrath] Lv. 81 <br> ![][272] [Ludicolo] Lv. 81  ![][319] [Sharpedo] Lv. 81  ![][419] [Floatzel] Lv. 82
+Leader Byron        | ![][437] [Bronzong] Lv. 81  ![][462] [Magnezone] Lv. 81  ![][208] [Steelix] Lv. 81 <br> ![][205] [Forretress] Lv. 81  ![][306] [Aggron] Lv. 81  ![][411] [Bastiodon] Lv. 82
+Leader Candice      | ![][460] [Abomasnow] Lv. 81  ![][461] [Weavile] Lv. 81  ![][471] [Glaceon] Lv. 81 <br> ![][365] [Walrein] Lv. 81  ![][473] [Mamoswine] Lv. 81  ![][478] [Froslass] Lv. 82
+Leader Volkner      | ![][135] [Jolteon] Lv. 81  ![][026] [Raichu] Lv. 81  ![][479] [Rotom] Lv. 81 <br> ![][479] [Rotom] Lv. 81  ![][405] [Luxray] Lv. 81  ![][466] [Electivire] Lv. 82
+PKMN Trainer Cheryl | ![][202] [Wobbuffet] Lv. 81  ![][143] [Snorlax] Lv. 81  ![][426] [Drifblim] Lv. 81 <br> ![][297] [Hariyama] Lv. 81  ![][321] [Wailord] Lv. 81  ![][242] [Blissey] Lv. 82
+PKMN Trainer Mira   | ![][468] [Togekiss] Lv. 81  ![][094] [Gengar] Lv. 81  ![][103] [Exeggutor] Lv. 81 <br> ![][462] [Magnezone] Lv. 81  ![][474] [Porygon-Z] Lv. 81  ![][065] [Alakazam] Lv. 82
+PKMN Trainer Riley  | ![][359] [Absol] Lv. 81  ![][217] [Ursaring] Lv. 81  ![][376] [Metagross] Lv. 81 <br> ![][373] [Salamence] Lv. 81  ![][289] [Slaking] Lv. 81  ![][448] [Lucario] Lv. 82
+PKMN Trainer Marley | ![][121] [Starmie] Lv. 81  ![][101] [Electrode] Lv. 81  ![][254] [Sceptile] Lv. 81 <br> ![][169] [Crobat] Lv. 81  ![][461] [Weavile] Lv. 81  ![][059] [Arcanine] Lv. 82
+PKMN Trainer Buck   | ![][324] [Torkoal] Lv. 81  ![][213] [Shuckle] Lv. 81  ![][197] [Umbreon] Lv. 81 <br> ![][477] [Dusknoir] Lv. 81  ![][091] [Cloyster] Lv. 81  ![][344] [Claydol] Lv. 82
+PKMN Trainer Barry  | ![][398] [Staraptor] Lv. 84  ![][214] [Heracross] Lv. 84  ![][143] [Snorlax] Lv. 84 <br> ![][184] [Azumarill] Lv. 84  ![][059] [Arcanine] Lv. 84  ![][389] [Torterra] Lv. 85
+PKMN Trainer Barry  | ![][398] [Staraptor] Lv. 84  ![][214] [Heracross] Lv. 84  ![][143] [Snorlax] Lv. 84 <br> ![][184] [Azumarill] Lv. 84  ![][286] [Breloom] Lv. 84  ![][392] [Infernape] Lv. 85
+PKMN Trainer Barry  | ![][398] [Staraptor] Lv. 84  ![][214] [Heracross] Lv. 84  ![][143] [Snorlax] Lv. 84 <br> ![][286] [Breloom] Lv. 84  ![][059] [Arcanine] Lv. 84  ![][395] [Empoleon] Lv. 85
+PKMN Trainer Dawn   | ![][065] [Alakazam] Lv. 83  ![][473] [Mamoswine] Lv. 83  ![][036] [Clefable] Lv. 83 <br> ![][428] [Lopunny] Lv. 83  ![][134] [Vaporeon] Lv. 83  ![][389] [Torterra] Lv. 84
+PKMN Trainer Dawn   | ![][065] [Alakazam] Lv. 83  ![][473] [Mamoswine] Lv. 83  ![][036] [Clefable] Lv. 83 <br> ![][428] [Lopunny] Lv. 83  ![][135] [Jolteon] Lv. 83  ![][392] [Infernape] Lv. 84
+PKMN Trainer Dawn   | ![][065] [Alakazam] Lv. 83  ![][473] [Mamoswine] Lv. 83  ![][036] [Clefable] Lv. 83 <br> ![][428] [Lopunny] Lv. 83  ![][136] [Flareon] Lv. 83  ![][395] [Empoleon] Lv. 84
+PKMN Trainer Lucas  | ![][065] [Alakazam] Lv. 83  ![][473] [Mamoswine] Lv. 83  ![][210] [Granbull] Lv. 83 <br> ![][463] [Lickilicky] Lv. 83  ![][134] [Vaporeon] Lv. 83  ![][389] [Torterra] Lv. 84
+PKMN Trainer Lucas  | ![][065] [Alakazam] Lv. 83  ![][473] [Mamoswine] Lv. 83  ![][210] [Granbull] Lv. 83 <br> ![][463] [Lickilicky] Lv. 83  ![][135] [Jolteon] Lv. 83  ![][392] [Infernape] Lv. 84
+PKMN Trainer Lucas  | ![][065] [Alakazam] Lv. 83  ![][473] [Mamoswine] Lv. 83  ![][210] [Granbull] Lv. 83 <br> ![][463] [Lickilicky] Lv. 83  ![][136] [Flareon] Lv. 83  ![][395] [Empoleon] Lv. 84
 
 ### Battle Marathon Only
 
 Trainer             | Pokémons
 ---                 | ---
-Commander Mars      | ![][169] [Crobat] Lv. 81, ![][469] [Yanmega] Lv. 81, ![][437] [Bronzong] Lv. 81,<br> ![][466] [Electivire] Lv. 81, ![][115] [Kangaskhan] Lv. 81, ![][432] [Purugly] Lv. 82
-Commander Jupiter   | ![][437] [Bronzong] Lv. 81, ![][302] [Sableye] Lv. 81, ![][169] [Crobat] Lv. 81,<br> ![][465] [Tangrowth] Lv. 81, ![][423] [Gastrodon] Lv. 81, ![][435] [Skuntank] Lv. 82
-Commander Saturn    | ![][437] [Bronzong] Lv. 81, ![][224] [Octillery] Lv. 81, ![][065] [Alakazam] Lv. 81,<br> ![][464] [Rhyperior] Lv. 81, ![][467] [Magmortar] Lv. 81, ![][454] [Toxicroak] Lv. 82
-Galactic Boss Cyrus | ![][169] [Crobat] Lv. 83, ![][430] [Honchkrow] Lv. 83, ![][229] [Houndoom] Lv. 83,<br> ![][130] [Gyarados] Lv. 83, ![][462] [Magnezone] Lv. 83, ![][461] [Weavile] Lv. 84
+Commander Mars      | ![][169] [Crobat] Lv. 81  ![][469] [Yanmega] Lv. 81  ![][437] [Bronzong] Lv. 81 <br> ![][466] [Electivire] Lv. 81  ![][115] [Kangaskhan] Lv. 81  ![][432] [Purugly] Lv. 82
+Commander Jupiter   | ![][437] [Bronzong] Lv. 81  ![][302] [Sableye] Lv. 81  ![][169] [Crobat] Lv. 81 <br> ![][465] [Tangrowth] Lv. 81  ![][423] [Gastrodon] Lv. 81  ![][435] [Skuntank] Lv. 82
+Commander Saturn    | ![][437] [Bronzong] Lv. 81  ![][224] [Octillery] Lv. 81  ![][065] [Alakazam] Lv. 81 <br> ![][464] [Rhyperior] Lv. 81  ![][467] [Magmortar] Lv. 81  ![][454] [Toxicroak] Lv. 82
+Galactic Boss Cyrus | ![][169] [Crobat] Lv. 83  ![][430] [Honchkrow] Lv. 83  ![][229] [Houndoom] Lv. 83 <br> ![][130] [Gyarados] Lv. 83  ![][462] [Magnezone] Lv. 83  ![][461] [Weavile] Lv. 84
 
 ### Pokémon Center
 
 Trainer                     | Pokémons
 ---                         | ---
-Reporter Kinsey             | ![][425] [Drifloon] Lv. 10, ![][403] [Shinx] Lv. 10
-Reporter Kinsey (3)         | ![][425] [Drifloon] Lv. 30, ![][404] [Luxio] Lv. 30
-Reporter Kinsey (5)         | ![][426] [Drifblim] Lv. 40, ![][405] [Luxray] Lv. 40
-Reporter Kinsey (8)         | ![][426] [Drifblim] Lv. 60, ![][405] [Luxray] Lv. 60
-Reporter Kinsey (C)         | ![][426] [Drifblim] Lv. 70, ![][405] [Luxray] Lv. 70
-Reporter Kinsey (S)         | ![][426] [Drifblim] Lv. 80, ![][405] [Luxray] Lv. 80
-Cameraman Tevin             | ![][439] [Mime Jr.] Lv. 10, ![][066] [Machop] Lv. 10
-Cameraman Tevin (3)         | ![][439] [Mime Jr.] Lv. 30, ![][067] [Machoke] Lv. 30
-Cameraman Tevin (5)         | ![][122] [Mr. Mime] Lv. 40, ![][068] [Machamp] Lv. 40
-Cameraman Tevin (8)         | ![][122] [Mr. Mime] Lv. 60, ![][068] [Machamp] Lv. 60
-Cameraman Tevin (C)         | ![][122] [Mr. Mime] Lv. 70, ![][068] [Machamp] Lv. 70
-Cameraman Tevin (S)         | ![][122] [Mr. Mime] Lv. 80, ![][068] [Machamp] Lv. 80
-Interviewers Roxy & Oli     | ![][081] [Magnemite] Lv. 10, ![][280] [Ralts] Lv. 10
-Interviewers Roxy & Oli (3) | ![][082] [Magneton] Lv. 30, ![][281] [Kirlia] Lv. 30
-Interviewers Roxy & Oli (5) | ![][462] [Magnezone] Lv. 40, ![][282] [Gardevoir] Lv. 40
-Interviewers Roxy & Oli (8) | ![][462] [Magnezone] Lv. 60, ![][282] [Gardevoir] Lv. 60
-Interviewers Roxy & Oli (C) | ![][462] [Magnezone] Lv. 70, ![][282] [Gardevoir] Lv. 70
-Interviewers Roxy & Oli (S) | ![][462] [Magnezone] Lv. 80, ![][282] [Gardevoir] Lv. 80
-Idol Grace                  | ![][174] [Igglybuff] Lv. 10, ![][173] [Cleffa] Lv. 10
-Idol Grace (3)              | ![][039] [Jigglypuff] Lv. 30, ![][035] [Clefairy] Lv. 30
-Idol Grace (5)              | ![][040] [Wigglytuff] Lv. 40, ![][036] [Clefable] Lv. 40
-Idol Grace (8)              | ![][040] [Wigglytuff] Lv. 60, ![][036] [Clefable] Lv. 60
-Idol Grace (C)              | ![][040] [Wigglytuff] Lv. 70, ![][036] [Clefable] Lv. 70
-Idol Grace (S)              | ![][040] [Wigglytuff] Lv. 80, ![][036] [Clefable] Lv. 80
-Guitarist Arturo            | ![][401] [Kricketot] Lv. 10, ![][100] [Voltorb] Lv. 10
-Guitarist Arturo (3)        | ![][402] [Kricketune] Lv. 30, ![][101] [Electrode] Lv. 30
-Guitarist Arturo (5)        | ![][402] [Kricketune] Lv. 40, ![][101] [Electrode] Lv. 40
-Guitarist Arturo (8)        | ![][402] [Kricketune] Lv. 60, ![][101] [Electrode] Lv. 60
-Guitarist Arturo (C)        | ![][402] [Kricketune] Lv. 70, ![][101] [Electrode] Lv. 70
-Guitarist Arturo (S)        | ![][402] [Kricketune] Lv. 80, ![][101] [Electrode] Lv. 80
-Poké Kid Ariel              | ![][172] [Pichu] Lv. 10, ![][172] [Pichu] Lv. 10, ![][172] [Pichu] Lv. 10
-Poké Kid Ariel (3)          | ![][172] [Pichu] Lv. 30, ![][025] [Pikachu] Lv. 30, ![][025] [Pikachu] Lv. 30
-Poké Kid Ariel (5)          | ![][172] [Pichu] Lv. 40, ![][025] [Pikachu] Lv. 40, ![][026] [Raichu] Lv. 40
-Poké Kid Ariel (8)          | ![][172] [Pichu] Lv. 60, ![][025] [Pikachu] Lv. 60, ![][026] [Raichu] Lv. 60
-Poké Kid Ariel (C)          | ![][172] [Pichu] Lv. 70, ![][025] [Pikachu] Lv. 70, ![][026] [Raichu] Lv. 70
-Poké Kid Ariel (S)          | ![][172] [Pichu] Lv. 80, ![][025] [Pikachu] Lv. 80, ![][026] [Raichu] Lv. 80
-Clown Lee                   | ![][190] [Aipom] Lv. 10, ![][063] [Abra] Lv. 10
-Clown Lee (3)               | ![][190] [Aipom] Lv. 30, ![][064] [Kadabra] Lv. 30
-Clown Lee (5)               | ![][424] [Ambipom] Lv. 40, ![][065] [Alakazam] Lv. 40
-Clown Lee (8)               | ![][424] [Ambipom] Lv. 60, ![][065] [Alakazam] Lv. 60
-Clown Lee (C)               | ![][424] [Ambipom] Lv. 70, ![][065] [Alakazam] Lv. 70
-Clown Lee (S)               | ![][424] [Ambipom] Lv. 80, ![][065] [Alakazam] Lv. 80
+Reporter Kinsey             | ![][425] [Drifloon] Lv. 10  ![][403] [Shinx] Lv. 10
+Reporter Kinsey (3)         | ![][425] [Drifloon] Lv. 30  ![][404] [Luxio] Lv. 30
+Reporter Kinsey (5)         | ![][426] [Drifblim] Lv. 40  ![][405] [Luxray] Lv. 40
+Reporter Kinsey (8)         | ![][426] [Drifblim] Lv. 60  ![][405] [Luxray] Lv. 60
+Reporter Kinsey (C)         | ![][426] [Drifblim] Lv. 70  ![][405] [Luxray] Lv. 70
+Reporter Kinsey (S)         | ![][426] [Drifblim] Lv. 80  ![][405] [Luxray] Lv. 80
+Cameraman Tevin             | ![][439] [Mime Jr.] Lv. 10  ![][066] [Machop] Lv. 10
+Cameraman Tevin (3)         | ![][439] [Mime Jr.] Lv. 30  ![][067] [Machoke] Lv. 30
+Cameraman Tevin (5)         | ![][122] [Mr. Mime] Lv. 40  ![][068] [Machamp] Lv. 40
+Cameraman Tevin (8)         | ![][122] [Mr. Mime] Lv. 60  ![][068] [Machamp] Lv. 60
+Cameraman Tevin (C)         | ![][122] [Mr. Mime] Lv. 70  ![][068] [Machamp] Lv. 70
+Cameraman Tevin (S)         | ![][122] [Mr. Mime] Lv. 80  ![][068] [Machamp] Lv. 80
+Interviewers Roxy & Oli     | ![][081] [Magnemite] Lv. 10  ![][280] [Ralts] Lv. 10
+Interviewers Roxy & Oli (3) | ![][082] [Magneton] Lv. 30  ![][281] [Kirlia] Lv. 30
+Interviewers Roxy & Oli (5) | ![][462] [Magnezone] Lv. 40  ![][282] [Gardevoir] Lv. 40
+Interviewers Roxy & Oli (8) | ![][462] [Magnezone] Lv. 60  ![][282] [Gardevoir] Lv. 60
+Interviewers Roxy & Oli (C) | ![][462] [Magnezone] Lv. 70  ![][282] [Gardevoir] Lv. 70
+Interviewers Roxy & Oli (S) | ![][462] [Magnezone] Lv. 80  ![][282] [Gardevoir] Lv. 80
+Idol Grace                  | ![][174] [Igglybuff] Lv. 10  ![][173] [Cleffa] Lv. 10
+Idol Grace (3)              | ![][039] [Jigglypuff] Lv. 30  ![][035] [Clefairy] Lv. 30
+Idol Grace (5)              | ![][040] [Wigglytuff] Lv. 40  ![][036] [Clefable] Lv. 40
+Idol Grace (8)              | ![][040] [Wigglytuff] Lv. 60  ![][036] [Clefable] Lv. 60
+Idol Grace (C)              | ![][040] [Wigglytuff] Lv. 70  ![][036] [Clefable] Lv. 70
+Idol Grace (S)              | ![][040] [Wigglytuff] Lv. 80  ![][036] [Clefable] Lv. 80
+Guitarist Arturo            | ![][401] [Kricketot] Lv. 10  ![][100] [Voltorb] Lv. 10
+Guitarist Arturo (3)        | ![][402] [Kricketune] Lv. 30  ![][101] [Electrode] Lv. 30
+Guitarist Arturo (5)        | ![][402] [Kricketune] Lv. 40  ![][101] [Electrode] Lv. 40
+Guitarist Arturo (8)        | ![][402] [Kricketune] Lv. 60  ![][101] [Electrode] Lv. 60
+Guitarist Arturo (C)        | ![][402] [Kricketune] Lv. 70  ![][101] [Electrode] Lv. 70
+Guitarist Arturo (S)        | ![][402] [Kricketune] Lv. 80  ![][101] [Electrode] Lv. 80
+Poké Kid Ariel              | ![][172] [Pichu] Lv. 10  ![][172] [Pichu] Lv. 10  ![][172] [Pichu] Lv. 10
+Poké Kid Ariel (3)          | ![][172] [Pichu] Lv. 30  ![][025] [Pikachu] Lv. 30  ![][025] [Pikachu] Lv. 30
+Poké Kid Ariel (5)          | ![][172] [Pichu] Lv. 40  ![][025] [Pikachu] Lv. 40  ![][026] [Raichu] Lv. 40
+Poké Kid Ariel (8)          | ![][172] [Pichu] Lv. 60  ![][025] [Pikachu] Lv. 60  ![][026] [Raichu] Lv. 60
+Poké Kid Ariel (C)          | ![][172] [Pichu] Lv. 70  ![][025] [Pikachu] Lv. 70  ![][026] [Raichu] Lv. 70
+Poké Kid Ariel (S)          | ![][172] [Pichu] Lv. 80  ![][025] [Pikachu] Lv. 80  ![][026] [Raichu] Lv. 80
+Clown Lee                   | ![][190] [Aipom] Lv. 10  ![][063] [Abra] Lv. 10
+Clown Lee (3)               | ![][190] [Aipom] Lv. 30  ![][064] [Kadabra] Lv. 30
+Clown Lee (5)               | ![][424] [Ambipom] Lv. 40  ![][065] [Alakazam] Lv. 40
+Clown Lee (8)               | ![][424] [Ambipom] Lv. 60  ![][065] [Alakazam] Lv. 60
+Clown Lee (C)               | ![][424] [Ambipom] Lv. 70  ![][065] [Alakazam] Lv. 70
+Clown Lee (S)               | ![][424] [Ambipom] Lv. 80  ![][065] [Alakazam] Lv. 80
 
 
 [001]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png "Bulbasaur"
