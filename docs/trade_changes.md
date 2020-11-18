@@ -50,9 +50,6 @@ Item               | ![][starf-berry] Starf Berry
 IVs                | 31 HP / 31 Atk / 31 Def / 31 SAtk / 31 SDef / 31 Spd
 Nature             | Adamant
 
-[never-melt-ice]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/never-melt-ice.png
-[poison-barb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poison-barb.png
-[sharp-beak]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sharp-beak.png
 [starf-berry]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/starf-berry.png
 
 [077]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png "Ponyta"
@@ -62,3 +59,6 @@ Nature             | Adamant
 [420]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/420.png "Cherubi"
 [441]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png "Chatot"
 [451]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/451.png "Skorupi"
+[sharp-beak]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sharp-beak.png
+[never-melt-ice]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/never-melt-ice.png
+[poison-barb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poison-barb.png

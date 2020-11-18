@@ -1,6 +1,7 @@
 # Pokémon Renegate Platinum v1.3.0
 
-Note: This site is fanmade, all credit goes to @Drayano60 (the creator of Platinum Renegate), all errors on the site are probably my fault. The original post can be found [here](https://projectpokemon.org/home/forums/topic/52294-pok%C3%A9mon-renegade-platinum/).
+!!! note
+    This site is fanmade, all credit goes to @Drayano60 (the creator of Platinum Renegate), all errors on the site are probably my fault. The original post can be found [here](https://projectpokemon.org/home/forums/topic/52294-pok%C3%A9mon-renegade-platinum/).
 
 ## Summary
 

@@ -18,1069 +18,1070 @@ Levels: 20 - 40 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Surf       | ![][054] [Psyduck] (90%), ![][055] [Golduck] (10%)
-Old Rod    | ![][129] [Magikarp] (65%), ![][060] [Poliwag] (35%)
-Good Rod   | ![][129] [Magikarp] (65%), ![][060] [Poliwag] (35%)
-Super Rod  | ![][130] [Gyarados] (65%), ![][061] [Poliwhirl] (35%)
+Surf       | ![][054]  [Psyduck] (90%) ![][055]  [Golduck] (10%)
+Old Rod    | ![][129]  [Magikarp] (65%) ![][060]  [Poliwag] (35%)
+Good Rod   | ![][129]  [Magikarp] (65%) ![][060]  [Poliwag] (35%)
+Super Rod  | ![][130]  [Gyarados] (65%) ![][061]  [Poliwhirl] (35%)
 
 ### Route 201
 Levels: 4 - 5 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][396] [Starly] (30%) ![][399] [Bidoof] (30%) ![][016] [Pidgey] (10%)<br> ![][401] [Kricketot] (10%) ![][032] [Nidoran♂] (10%) ![][029] [Nidoran♀] (10%)<br>
-Day        | ![][396] [Starly] (30%) ![][399] [Bidoof] (30%) ![][016] [Pidgey] (20%)<br> ![][032] [Nidoran♂] (10%) ![][029] [Nidoran♀] (10%)
-Night      | ![][396] [Starly] (30%) ![][399] [Bidoof] (30%) ![][163] [Hoothoot] (10%)<br> ![][401] [Kricketot] (10%) ![][032] [Nidoran♂] (10%) ![][029] [Nidoran♀] (10%)<br>
-Poké Radar | ![][084] [Doduo] (22%)
+Morning    | ![][396]  [Starly] (30%) ![][399]  [Bidoof] (30%) ![][016]  [Pidgey] (10%)  ![][401]  [Kricketot] (10%) ![][032]  [Nidoran♂] (10%) ![][029]  [Nidoran♀] (10%)<br>
+Day        | ![][396]  [Starly] (30%) ![][399]  [Bidoof] (30%) ![][016]  [Pidgey] (20%)  ![][032]  [Nidoran♂] (10%) ![][029]  [Nidoran♀] (10%)
+Night      | ![][396]  [Starly] (30%) ![][399]  [Bidoof] (30%) ![][163]  [Hoothoot] (10%)  ![][401]  [Kricketot] (10%) ![][032]  [Nidoran♂] (10%) ![][029]  [Nidoran♀] (10%)<br>
+Poké Radar | ![][084]  [Doduo] (22%)
 
 ### Lake Verity
-Levels: 4 - 5 (Walking), 20 - 40 (Surfing)
+Levels: 4 - 5 (Walking) 20 - 40 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][396] [Starly] (30%) ![][399] [Bidoof] (20%) ![][283] [Surskit] (20%)<br> ![][298] [Azurill] (10%) ![][054] [Psyduck] (10%) ![][278] [Wingull] (10%)<br>
-Day        | ![][396] [Starly] (30%) ![][399] [Bidoof] (20%) ![][283] [Surskit] (20%)<br> ![][298] [Azurill] (10%) ![][054] [Psyduck] (10%) ![][278] [Wingull] (10%)<br>
-Night      | ![][396] [Starly] (30%) ![][399] [Bidoof] (20%) ![][283] [Surskit] (20%)<br> ![][298] [Azurill] (10%) ![][054] [Psyduck] (10%) ![][278] [Wingull] (10%)<br>
-Poké Radar | ![][360] [Wynaut] (22%)
-Surf       | ![][283] [Surskit] (90%), ![][284] [Masquerain] (10%)
-Old Rod    | ![][129] [Magikarp] (100%)
-Good Rod   | ![][129] [Magikarp] (100%)
-Super Rod  | ![][130] [Gyarados] (100%)
+Morning    | ![][396]  [Starly] (30%) ![][399]  [Bidoof] (20%) ![][283]  [Surskit] (20%)  ![][298]  [Azurill] (10%) ![][054]  [Psyduck] (10%) ![][278]  [Wingull] (10%)<br>
+Day        | ![][396]  [Starly] (30%) ![][399]  [Bidoof] (20%) ![][283]  [Surskit] (20%)  ![][298]  [Azurill] (10%) ![][054]  [Psyduck] (10%) ![][278]  [Wingull] (10%)<br>
+Night      | ![][396]  [Starly] (30%) ![][399]  [Bidoof] (20%) ![][283]  [Surskit] (20%)  ![][298]  [Azurill] (10%) ![][054]  [Psyduck] (10%) ![][278]  [Wingull] (10%)<br>
+Poké Radar | ![][360]  [Wynaut] (22%)
+Surf       | ![][283]  [Surskit] (90%) ![][284]  [Masquerain] (10%)
+Old Rod    | ![][129]  [Magikarp] (100%)
+Good Rod   | ![][129]  [Magikarp] (100%)
+Super Rod  | ![][130]  [Gyarados] (100%)
 
 ### Route 202
 Levels: 5 - 6 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][403] [Shinx] (20%) ![][263] [Zigzagoon] (20%) ![][161] [Sentret] (20%)<br> ![][019] [Rattata] (10%) ![][261] [Poochyena] (10%) ![][058] [Growlithe] (10%)<br> ![][412] [Burmy] (10%)
-Day        | ![][403] [Shinx] (20%) ![][263] [Zigzagoon] (20%) ![][161] [Sentret] (20%)<br> ![][019] [Rattata] (10%) ![][261] [Poochyena] (10%) ![][058] [Growlithe] (10%)<br> ![][412] [Burmy] (10%)
-Night      | ![][403] [Shinx] (20%) ![][263] [Zigzagoon] (20%) ![][163] [Hoothoot] (20%)<br> ![][019] [Rattata] (10%) ![][261] [Poochyena] (10%) ![][058] [Growlithe] (10%)<br> ![][412] [Burmy] (10%)
-Poké Radar | ![][228] [Houndour] (22%)
+Morning    | ![][403]  [Shinx] (20%) ![][263]  [Zigzagoon] (20%) ![][161]  [Sentret] (20%)  ![][019]  [Rattata] (10%) ![][261]  [Poochyena] (10%) ![][058]  [Growlithe] (10%)  ![][412]  [Burmy] (10%)
+Day        | ![][403]  [Shinx] (20%) ![][263]  [Zigzagoon] (20%) ![][161]  [Sentret] (20%)  ![][019]  [Rattata] (10%) ![][261]  [Poochyena] (10%) ![][058]  [Growlithe] (10%)  ![][412]  [Burmy] (10%)
+Night      | ![][403]  [Shinx] (20%) ![][263]  [Zigzagoon] (20%) ![][163]  [Hoothoot] (20%)  ![][019]  [Rattata] (10%) ![][261]  [Poochyena] (10%) ![][058]  [Growlithe] (10%)  ![][412]  [Burmy] (10%)
+Poké Radar | ![][228]  [Houndour] (22%)
 
 ### Route 204 ~ South
-Levels: 6 - 7 (Walking), 20 - 40 (Surfing)
+Levels: 6 - 7 (Walking) 20 - 40 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][396] [Starly] (20%) ![][406] [Budew] (20%) ![][069] [Bellsprout] (10%)<br> ![][280] [Ralts] (10%) ![][010] [Caterpie] (10%) ![][013] [Weedle] (10%)<br> ![][265] [Wurmple] (10%) ![][165] [Ledyba] (10%)
-Day        | ![][396] [Starly] (20%) ![][406] [Budew] (20%) ![][069] [Bellsprout] (10%)<br> ![][280] [Ralts] (10%) ![][010] [Caterpie] (10%) ![][013] [Weedle] (10%)<br> ![][265] [Wurmple] (10%) ![][191] [Sunkern] (10%)
-Night      | ![][396] [Starly] (20%) ![][406] [Budew] (20%) ![][069] [Bellsprout] (10%)<br> ![][280] [Ralts] (10%) ![][010] [Caterpie] (10%) ![][013] [Weedle] (10%)<br> ![][043] [Oddish] (10%) ![][167] [Spinarak] (10%)
-Poké Radar | ![][315] [Roselia] (22%)
-Surf       | ![][183] [Marill] (90%), ![][184] [Azumarill] (10%)
-Old Rod    | ![][129] [Magikarp] (60%), ![][118] [Goldeen] (30%), ![][341] [Corphish] (10%)
-Good Rod   | ![][129] [Magikarp] (60%), ![][118] [Goldeen] (30%), ![][341] [Corphish] (10%)
-Super Rod  | ![][130] [Gyarados] (60%), ![][119] [Seaking] (30%), ![][342] [Crawdaunt] (10%)
+Morning    | ![][396]  [Starly] (20%) ![][406]  [Budew] (20%) ![][069]  [Bellsprout] (10%)  ![][280]  [Ralts] (10%) ![][010]  [Caterpie] (10%) ![][013]  [Weedle] (10%)  ![][265]  [Wurmple] (10%) ![][165]  [Ledyba] (10%)
+Day        | ![][396]  [Starly] (20%) ![][406]  [Budew] (20%) ![][069]  [Bellsprout] (10%)  ![][280]  [Ralts] (10%) ![][010]  [Caterpie] (10%) ![][013]  [Weedle] (10%)  ![][265]  [Wurmple] (10%) ![][191]  [Sunkern] (10%)
+Night      | ![][396]  [Starly] (20%) ![][406]  [Budew] (20%) ![][069]  [Bellsprout] (10%)  ![][280]  [Ralts] (10%) ![][010]  [Caterpie] (10%) ![][013]  [Weedle] (10%)  ![][043]  [Oddish] (10%) ![][167]  [Spinarak] (10%)
+Poké Radar | ![][315]  [Roselia] (22%)
+Surf       | ![][183]  [Marill] (90%) ![][184]  [Azumarill] (10%)
+Old Rod    | ![][129]  [Magikarp] (60%) ![][118]  [Goldeen] (30%) ![][341]  [Corphish] (10%)
+Good Rod   | ![][129]  [Magikarp] (60%) ![][118]  [Goldeen] (30%) ![][341]  [Corphish] (10%)
+Super Rod  | ![][130]  [Gyarados] (60%) ![][119]  [Seaking] (30%) ![][342]  [Crawdaunt] (10%)
 
 ### Ravaged Path
-Levels: 6 - 8 (Walking), 20 - 40 (Surfing)
+Levels: 6 - 8 (Walking) 20 - 40 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][041] [Zubat] (30%) ![][074] [Geodude] (20%) ![][194] [Wooper] (20%)<br> ![][054] [Psyduck] (10%) ![][027] [Sandshrew] (10%) ![][296] [Makuhita] (10%)<br>
-Day        | ![][041] [Zubat] (30%) ![][074] [Geodude] (20%) ![][194] [Wooper] (20%)<br> ![][054] [Psyduck] (10%) ![][027] [Sandshrew] (10%) ![][296] [Makuhita] (10%)<br>
-Night      | ![][041] [Zubat] (30%) ![][074] [Geodude] (20%) ![][194] [Wooper] (20%)<br> ![][054] [Psyduck] (10%) ![][027] [Sandshrew] (10%) ![][296] [Makuhita] (10%)<br>
-Surf       | ![][194] [Wooper] (90%), ![][195] [Quagsire] (10%)
-Old Rod    | ![][129] [Magikarp] (65%), ![][339] [Barboach] (35%)
-Good Rod   | ![][129] [Magikarp] (65%), ![][339] [Barboach] (35%)
-Super Rod  | ![][130] [Gyarados] (65%), ![][340] [Whiscash] (35%)
+Morning    | ![][041]  [Zubat] (30%) ![][074]  [Geodude] (20%) ![][194]  [Wooper] (20%)  ![][054]  [Psyduck] (10%) ![][027]  [Sandshrew] (10%) ![][296]  [Makuhita] (10%)<br>
+Day        | ![][041]  [Zubat] (30%) ![][074]  [Geodude] (20%) ![][194]  [Wooper] (20%)  ![][054]  [Psyduck] (10%) ![][027]  [Sandshrew] (10%) ![][296]  [Makuhita] (10%)<br>
+Night      | ![][041]  [Zubat] (30%) ![][074]  [Geodude] (20%) ![][194]  [Wooper] (20%)  ![][054]  [Psyduck] (10%) ![][027]  [Sandshrew] (10%) ![][296]  [Makuhita] (10%)<br>
+Surf       | ![][194]  [Wooper] (90%) ![][195]  [Quagsire] (10%)
+Old Rod    | ![][129]  [Magikarp] (65%) ![][339]  [Barboach] (35%)
+Good Rod   | ![][129]  [Magikarp] (65%) ![][339]  [Barboach] (35%)
+Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
 
 ### Route 203
-Levels: 7 - 8 (Walking), 20 - 40 (Surfing)
+Levels: 7 - 8 (Walking) 20 - 40 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][396] [Starly] (25%) ![][399] [Bidoof] (20%) ![][021] [Spearow] (15%)<br> ![][273] [Seedot] (10%) ![][270] [Lotad] (10%) ![][104] [Cubone] (10%)<br> ![][063] [Abra] (10%)
-Day        | ![][396] [Starly] (25%) ![][399] [Bidoof] (20%) ![][021] [Spearow] (15%)<br> ![][273] [Seedot] (10%) ![][270] [Lotad] (10%) ![][104] [Cubone] (10%)<br> ![][063] [Abra] (10%)
-Night      | ![][396] [Starly] (25%) ![][399] [Bidoof] (20%) ![][021] [Spearow] (15%)<br> ![][273] [Seedot] (10%) ![][270] [Lotad] (10%) ![][104] [Cubone] (10%)<br> ![][063] [Abra] (10%)
-Poké Radar | ![][204] [Pineco] (22%)
-Surf       | ![][054] [Psyduck] (90%), ![][055] [Golduck] (10%)
-Old Rod    | ![][129] [Magikarp] (65%), ![][341] [Corphish] (35%)
-Good Rod   | ![][129] [Magikarp] (60%), ![][341] [Corphish] (35%)
-Super Rod  | ![][130] [Gyarados] (60%), ![][342] [Crawdaunt] (35%)
+Morning    | ![][396]  [Starly] (25%) ![][399]  [Bidoof] (20%) ![][021]  [Spearow] (15%)  ![][273]  [Seedot] (10%) ![][270]  [Lotad] (10%) ![][104]  [Cubone] (10%)  ![][063]  [Abra] (10%)
+Day        | ![][396]  [Starly] (25%) ![][399]  [Bidoof] (20%) ![][021]  [Spearow] (15%)  ![][273]  [Seedot] (10%) ![][270]  [Lotad] (10%) ![][104]  [Cubone] (10%)  ![][063]  [Abra] (10%)
+Night      | ![][396]  [Starly] (25%) ![][399]  [Bidoof] (20%) ![][021]  [Spearow] (15%)  ![][273]  [Seedot] (10%) ![][270]  [Lotad] (10%) ![][104]  [Cubone] (10%)  ![][063]  [Abra] (10%)
+Poké Radar | ![][204]  [Pineco] (22%)
+Surf       | ![][054]  [Psyduck] (90%) ![][055]  [Golduck] (10%)
+Old Rod    | ![][129]  [Magikarp] (65%) ![][341]  [Corphish] (35%)
+Good Rod   | ![][129]  [Magikarp] (60%) ![][341]  [Corphish] (35%)
+Super Rod  | ![][130]  [Gyarados] (60%) ![][342]  [Crawdaunt] (35%)
 
 ### Oreburgh Gate ~ 1F
 Levels: 7 - 9 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][041] [Zubat] (35%) ![][074] [Geodude] (35%) ![][050] [Diglett] (20%)<br> ![][447] [Riolu] (10%)
-Day        | ![][041] [Zubat] (35%) ![][074] [Geodude] (35%) ![][050] [Diglett] (20%)<br> ![][447] [Riolu] (10%)
-Night      | ![][041] [Zubat] (35%) ![][074] [Geodude] (35%) ![][050] [Diglett] (20%)<br> ![][447] [Riolu] (10%)
+Morning    | ![][041]  [Zubat] (35%) ![][074]  [Geodude] (35%) ![][050]  [Diglett] (20%)  ![][447]  [Riolu] (10%)
+Day        | ![][041]  [Zubat] (35%) ![][074]  [Geodude] (35%) ![][050]  [Diglett] (20%)  ![][447]  [Riolu] (10%)
+Night      | ![][041]  [Zubat] (35%) ![][074]  [Geodude] (35%) ![][050]  [Diglett] (20%)  ![][447]  [Riolu] (10%)
 
 ### Oreburgh Gate ~ B1F
-Levels: 8 - 10 (Walking), 20 - 40 (Surfing)
+Levels: 8 - 10 (Walking) 20 - 40 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][041] [Zubat] (35%) ![][074] [Geodude] (35%) ![][050] [Diglett] (20%)<br> ![][447] [Riolu] (10%)
-Day        | ![][041] [Zubat] (35%) ![][074] [Geodude] (35%) ![][050] [Diglett] (20%)<br> ![][447] [Riolu] (10%)
-Night      | ![][041] [Zubat] (35%) ![][074] [Geodude] (35%) ![][050] [Diglett] (20%)<br> ![][447] [Riolu] (10%)
-Surf       | ![][041] [Zubat] (90%), ![][042] [Golbat] (10%)
-Old Rod    | ![][129] [Magikarp] (65%), ![][339] [Barboach] (35%)
-Good Rod   | ![][129] [Magikarp] (65%), ![][339] [Barboach] (35%)
-Super Rod  | ![][130] [Gyarados] (65%), ![][340] [Whiscash] (35%)
+Morning    | ![][041]  [Zubat] (35%) ![][074]  [Geodude] (35%) ![][050]  [Diglett] (20%)  ![][447]  [Riolu] (10%)
+Day        | ![][041]  [Zubat] (35%) ![][074]  [Geodude] (35%) ![][050]  [Diglett] (20%)  ![][447]  [Riolu] (10%)
+Night      | ![][041]  [Zubat] (35%) ![][074]  [Geodude] (35%) ![][050]  [Diglett] (20%)  ![][447]  [Riolu] (10%)
+Surf       | ![][041]  [Zubat] (90%) ![][042]  [Golbat] (10%)
+Old Rod    | ![][129]  [Magikarp] (65%) ![][339]  [Barboach] (35%)
+Good Rod   | ![][129]  [Magikarp] (65%) ![][339]  [Barboach] (35%)
+Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
 
 ### Route 207
-Levels: 9 - 10 (Walking), 21 (Honey Tree)
+Levels: 9 - 10 (Walking) 21 (Honey Tree)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][066] [Machop] (30%) ![][111] [Rhyhorn] (20%) ![][077] [Ponyta] (20%)<br> ![][231] [Phanpy] (20%) ![][246] [Larvitar] (10%)
-Day        | ![][066] [Machop] (30%) ![][111] [Rhyhorn] (20%) ![][077] [Ponyta] (20%)<br> ![][231] [Phanpy] (20%) ![][246] [Larvitar] (10%)
-Night      | ![][066] [Machop] (30%) ![][111] [Rhyhorn] (20%) ![][077] [Ponyta] (20%)<br> ![][231] [Phanpy] (20%) ![][246] [Larvitar] (10%)
-Poké Radar | ![][234] [Stantler] (22%)
-Honey Tree | ![][190] [Aipom] (30%) ![][287] [Slakoth] (20%) ![][011] [Metapod] (20%)<br> ![][014] [Kakuna] (20%) ![][446] [Munchlax] (10%)
+Morning    | ![][066]  [Machop] (30%) ![][111]  [Rhyhorn] (20%) ![][077]  [Ponyta] (20%)  ![][231]  [Phanpy] (20%) ![][246]  [Larvitar] (10%)
+Day        | ![][066]  [Machop] (30%) ![][111]  [Rhyhorn] (20%) ![][077]  [Ponyta] (20%)  ![][231]  [Phanpy] (20%) ![][246]  [Larvitar] (10%)
+Night      | ![][066]  [Machop] (30%) ![][111]  [Rhyhorn] (20%) ![][077]  [Ponyta] (20%)  ![][231]  [Phanpy] (20%) ![][246]  [Larvitar] (10%)
+Poké Radar | ![][234]  [Stantler] (22%)
+Honey Tree | ![][190]  [Aipom] (30%) ![][287]  [Slakoth] (20%) ![][011]  [Metapod] (20%)  ![][014]  [Kakuna] (20%) ![][446]  [Munchlax] (10%)
 
 ### Oreburgh Mine ~ 1F
 Levels: 9 - 10 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][074] [Geodude] (25%) ![][041] [Zubat] (25%) ![][293] [Whismur] (20%)<br> ![][304] [Aron] (10%) ![][095] [Onix] (10%) ![][328] [Trapinch] (10%)<br>
-Day        | ![][074] [Geodude] (25%) ![][041] [Zubat] (25%) ![][293] [Whismur] (20%)<br> ![][304] [Aron] (10%) ![][095] [Onix] (10%) ![][328] [Trapinch] (10%)<br>
-Night      | ![][074] [Geodude] (25%) ![][041] [Zubat] (25%) ![][293] [Whismur] (20%)<br> ![][304] [Aron] (10%) ![][095] [Onix] (10%) ![][328] [Trapinch] (10%)<br>
+Morning    | ![][074]  [Geodude] (25%) ![][041]  [Zubat] (25%) ![][293]  [Whismur] (20%)  ![][304]  [Aron] (10%) ![][095]  [Onix] (10%) ![][328]  [Trapinch] (10%)<br>
+Day        | ![][074]  [Geodude] (25%) ![][041]  [Zubat] (25%) ![][293]  [Whismur] (20%)  ![][304]  [Aron] (10%) ![][095]  [Onix] (10%) ![][328]  [Trapinch] (10%)<br>
+Night      | ![][074]  [Geodude] (25%) ![][041]  [Zubat] (25%) ![][293]  [Whismur] (20%)  ![][304]  [Aron] (10%) ![][095]  [Onix] (10%) ![][328]  [Trapinch] (10%)<br>
 
 ### Oreburgh Mine ~ B1F
 Levels: 10 - 11 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][074] [Geodude] (25%) ![][041] [Zubat] (25%) ![][293] [Whismur] (20%)<br> ![][304] [Aron] (10%) ![][095] [Onix] (10%) ![][328] [Trapinch] (10%)<br>
-Day        | ![][074] [Geodude] (25%) ![][041] [Zubat] (25%) ![][293] [Whismur] (20%)<br> ![][304] [Aron] (10%) ![][095] [Onix] (10%) ![][328] [Trapinch] (10%)<br>
-Night      | ![][074] [Geodude] (25%) ![][041] [Zubat] (25%) ![][293] [Whismur] (20%)<br> ![][304] [Aron] (10%) ![][095] [Onix] (10%) ![][328] [Trapinch] (10%)<br>
+Morning    | ![][074]  [Geodude] (25%) ![][041]  [Zubat] (25%) ![][293]  [Whismur] (20%)  ![][304]  [Aron] (10%) ![][095]  [Onix] (10%) ![][328]  [Trapinch] (10%)<br>
+Day        | ![][074]  [Geodude] (25%) ![][041]  [Zubat] (25%) ![][293]  [Whismur] (20%)  ![][304]  [Aron] (10%) ![][095]  [Onix] (10%) ![][328]  [Trapinch] (10%)<br>
+Night      | ![][074]  [Geodude] (25%) ![][041]  [Zubat] (25%) ![][293]  [Whismur] (20%)  ![][304]  [Aron] (10%) ![][095]  [Onix] (10%) ![][328]  [Trapinch] (10%)<br>
 
 ### Route 204 ~ North
 Levels: 11 - 12 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][396] [Starly] (20%) ![][406] [Budew] (20%) ![][069] [Bellsprout] (10%)<br> ![][280] [Ralts] (10%) ![][010] [Caterpie] (10%) ![][013] [Weedle] (10%)<br> ![][265] [Wurmple] (10%) ![][165] [Ledyba] (10%)
-Day        | ![][396] [Starly] (20%) ![][406] [Budew] (20%) ![][069] [Bellsprout] (10%)<br> ![][280] [Ralts] (10%) ![][010] [Caterpie] (10%) ![][013] [Weedle] (10%)<br> ![][265] [Wurmple] (10%) ![][191] [Sunkern] (10%)
-Night      | ![][396] [Starly] (20%) ![][406] [Budew] (20%) ![][069] [Bellsprout] (10%)<br> ![][280] [Ralts] (10%) ![][010] [Caterpie] (10%) ![][013] [Weedle] (10%)<br> ![][043] [Oddish] (10%) ![][167] [Spinarak] (10%)
-Poké Radar | ![][315] [Roselia] (22%)
+Morning    | ![][396]  [Starly] (20%) ![][406]  [Budew] (20%) ![][069]  [Bellsprout] (10%)  ![][280]  [Ralts] (10%) ![][010]  [Caterpie] (10%) ![][013]  [Weedle] (10%)  ![][265]  [Wurmple] (10%) ![][165]  [Ledyba] (10%)
+Day        | ![][396]  [Starly] (20%) ![][406]  [Budew] (20%) ![][069]  [Bellsprout] (10%)  ![][280]  [Ralts] (10%) ![][010]  [Caterpie] (10%) ![][013]  [Weedle] (10%)  ![][265]  [Wurmple] (10%) ![][191]  [Sunkern] (10%)
+Night      | ![][396]  [Starly] (20%) ![][406]  [Budew] (20%) ![][069]  [Bellsprout] (10%)  ![][280]  [Ralts] (10%) ![][010]  [Caterpie] (10%) ![][013]  [Weedle] (10%)  ![][043]  [Oddish] (10%) ![][167]  [Spinarak] (10%)
+Poké Radar | ![][315]  [Roselia] (22%)
 
 ### Valley Windworks
-Levels: 11 - 13 (Walking), 20 - 40 (Surfing), 12 (Honey Tree)
+Levels: 11 - 13 (Walking) 20 - 40 (Surfing) 12 (Honey Tree)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][081] [Magnemite] (20%) ![][239] [Elekid] (20%) ![][309] [Electrike] (20%)<br> ![][100] [Voltorb] (20%) ![][425] [Drifloon] (10%) ![][417] [Pachirisu] (10%)<br>
-Day        | ![][081] [Magnemite] (20%) ![][239] [Elekid] (20%) ![][309] [Electrike] (20%)<br> ![][100] [Voltorb] (20%) ![][425] [Drifloon] (10%) ![][417] [Pachirisu] (10%)<br>
-Night      | ![][081] [Magnemite] (20%) ![][239] [Elekid] (20%) ![][309] [Electrike] (20%)<br> ![][100] [Voltorb] (20%) ![][425] [Drifloon] (10%) ![][417] [Pachirisu] (10%)<br>
-Poké Radar | ![][311] [Plusle] (11%), ![][312] [Minun] (11%)
-Surf       | ![][422] [Shellos] (60%) ![][072] [Tentacool] (30%) ![][423] [Gastrodon] (5%)<br> ![][073] [Tentacruel] (5%)
-Old Rod    | ![][129] [Magikarp] (60%), ![][090] [Shellder] (30%), ![][170] [Chinchou] (10%)
-Good Rod   | ![][129] [Magikarp] (60%), ![][090] [Shellder] (30%), ![][170] [Chinchou] (10%)
-Super Rod  | ![][130] [Gyarados] (60%), ![][091] [Cloyster] (30%), ![][171] [Lanturn] (10%)
-Honey Tree | ![][190] [Aipom] (30%) ![][287] [Slakoth] (20%) ![][010] [Caterpie] (20%)<br> ![][013] [Weedle] (20%) ![][446] [Munchlax] (10%)
+Morning    | ![][081]  [Magnemite] (20%) ![][239]  [Elekid] (20%) ![][309]  [Electrike] (20%)  ![][100]  [Voltorb] (20%) ![][425]  [Drifloon] (10%) ![][417]  [Pachirisu] (10%)<br>
+Day        | ![][081]  [Magnemite] (20%) ![][239]  [Elekid] (20%) ![][309]  [Electrike] (20%)  ![][100]  [Voltorb] (20%) ![][425]  [Drifloon] (10%) ![][417]  [Pachirisu] (10%)<br>
+Night      | ![][081]  [Magnemite] (20%) ![][239]  [Elekid] (20%) ![][309]  [Electrike] (20%)  ![][100]  [Voltorb] (20%) ![][425]  [Drifloon] (10%) ![][417]  [Pachirisu] (10%)<br>
+Poké Radar | ![][311]  [Plusle] (11%) ![][312]  [Minun] (11%)
+Surf       | ![][422]  [Shellos] (60%) ![][072]  [Tentacool] (30%) ![][423]  [Gastrodon] (5%)  ![][073]  [Tentacruel] (5%)
+Old Rod    | ![][129]  [Magikarp] (60%) ![][090]  [Shellder] (30%) ![][170]  [Chinchou] (10%)
+Good Rod   | ![][129]  [Magikarp] (60%) ![][090]  [Shellder] (30%) ![][170]  [Chinchou] (10%)
+Super Rod  | ![][130]  [Gyarados] (60%) ![][091]  [Cloyster] (30%) ![][171]  [Lanturn] (10%)
+Honey Tree | ![][190]  [Aipom] (30%) ![][287]  [Slakoth] (20%) ![][010]  [Caterpie] (20%)  ![][013]  [Weedle] (20%) ![][446]  [Munchlax] (10%)
 
 ### Floaroma Meadow
 Levels: 12 (Honey Tree)
 
 Area       | Pokémon
 ---        | ---
-Honey Tree | ![][420] [Cherubi] (30%) ![][285] [Shroomish] (20%) ![][102] [Exeggcute] (20%)<br> ![][273] [Seedot] (20%) ![][114] [Tangela] (10%)
+Honey Tree | ![][420]  [Cherubi] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Exeggcute] (20%)  ![][273]  [Seedot] (20%) ![][114]  [Tangela] (10%)
 
 ### Route 205 ~ South
-Levels: 11 - 13 (Walking), 20 - 40 (Surfing), 12 (Honey Tree)
+Levels: 11 - 13 (Walking) 20 - 40 (Surfing) 12 (Honey Tree)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][422] [Shellos] (30%) ![][179] [Mareep] (20%) ![][418] [Buizel] (20%)<br> ![][187] [Hoppip] (20%) ![][417] [Pachirisu] (10%)
-Day        | ![][422] [Shellos] (30%) ![][179] [Mareep] (20%) ![][418] [Buizel] (20%)<br> ![][187] [Hoppip] (20%) ![][417] [Pachirisu] (10%)
-Night      | ![][422] [Shellos] (30%) ![][179] [Mareep] (20%) ![][418] [Buizel] (20%)<br> ![][048] [Venonat] (20%) ![][417] [Pachirisu] (10%)
-Poké Radar | ![][311] [Plusle] (11%), ![][312] [Minun] (11%)
-Surf       | ![][422] [Shellos] (60%) ![][072] [Tentacool] (30%) ![][423] [Gastrodon] (5%)<br> ![][073] [Tentacruel] (5%)
-Old Rod    | ![][129] [Magikarp] (60%), ![][090] [Shellder] (30%), ![][170] [Chinchou] (10%)
-Good Rod   | ![][129] [Magikarp] (60%), ![][090] [Shellder] (30%), ![][170] [Chinchou] (10%)
-Super Rod  | ![][130] [Gyarados] (60%), ![][091] [Cloyster] (30%), ![][171] [Lanturn] (10%)
-Honey Tree | ![][415] [Combee] (30%) ![][412] [Burmy] (20%) ![][204] [Pineco] (20%)<br> ![][265] [Wurmple] (20%) ![][214] [Heracross] (10%)
+Morning    | ![][422]  [Shellos] (30%) ![][179]  [Mareep] (20%) ![][418]  [Buizel] (20%)  ![][187]  [Hoppip] (20%) ![][417]  [Pachirisu] (10%)
+Day        | ![][422]  [Shellos] (30%) ![][179]  [Mareep] (20%) ![][418]  [Buizel] (20%)  ![][187]  [Hoppip] (20%) ![][417]  [Pachirisu] (10%)
+Night      | ![][422]  [Shellos] (30%) ![][179]  [Mareep] (20%) ![][418]  [Buizel] (20%)  ![][048]  [Venonat] (20%) ![][417]  [Pachirisu] (10%)
+Poké Radar | ![][311]  [Plusle] (11%) ![][312]  [Minun] (11%)
+Surf       | ![][422]  [Shellos] (60%) ![][072]  [Tentacool] (30%) ![][423]  [Gastrodon] (5%)  ![][073]  [Tentacruel] (5%)
+Old Rod    | ![][129]  [Magikarp] (60%) ![][090]  [Shellder] (30%) ![][170]  [Chinchou] (10%)
+Good Rod   | ![][129]  [Magikarp] (60%) ![][090]  [Shellder] (30%) ![][170]  [Chinchou] (10%)
+Super Rod  | ![][130]  [Gyarados] (60%) ![][091]  [Cloyster] (30%) ![][171]  [Lanturn] (10%)
+Honey Tree | ![][415]  [Combee] (30%) ![][412]  [Burmy] (20%) ![][204]  [Pineco] (20%)  ![][265]  [Wurmple] (20%) ![][214]  [Heracross] (10%)
 
 ### Eterna Forest
 Levels: 14 - 16 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][427] [Buneary] (30%) ![][285] [Shroomish] (20%) ![][046] [Paras] (20%)<br> ![][287] [Slakoth] (10%) ![][290] [Nincada] (10%) ![][276] [Taillow] (10%)<br>
-Day        | ![][427] [Buneary] (30%) ![][285] [Shroomish] (20%) ![][046] [Paras] (20%)<br> ![][287] [Slakoth] (10%) ![][290] [Nincada] (10%) ![][276] [Taillow] (10%)<br>
-Night      | ![][427] [Buneary] (30%) ![][285] [Shroomish] (20%) ![][198] [Murkrow] (10%)<br> ![][200] [Misdreavus] (10%) ![][287] [Slakoth] (10%) ![][290] [Nincada] (10%)<br> ![][276] [Taillow] (10%)
-Poké Radar | ![][267] [Beautifly] (11%), ![][269] [Dustox] (11%)
+Morning    | ![][427]  [Buneary] (30%) ![][285]  [Shroomish] (20%) ![][046]  [Paras] (20%)  ![][287]  [Slakoth] (10%) ![][290]  [Nincada] (10%) ![][276]  [Taillow] (10%)<br>
+Day        | ![][427]  [Buneary] (30%) ![][285]  [Shroomish] (20%) ![][046]  [Paras] (20%)  ![][287]  [Slakoth] (10%) ![][290]  [Nincada] (10%) ![][276]  [Taillow] (10%)<br>
+Night      | ![][427]  [Buneary] (30%) ![][285]  [Shroomish] (20%) ![][198]  [Murkrow] (10%)  ![][200]  [Misdreavus] (10%) ![][287]  [Slakoth] (10%) ![][290]  [Nincada] (10%)  ![][276]  [Taillow] (10%)
+Poké Radar | ![][267]  [Beautifly] (11%) ![][269]  [Dustox] (11%)
 
 ### Eterna Forest (Outside)
 Levels: 15 (Honey Tree)
 
 Area       | Pokémon
 ---        | ---
-Honey Tree | ![][015] [Beedrill] (100%)
+Honey Tree | ![][015]  [Beedrill] (100%)
 
 ### Old Chateau (All Rooms)
 Levels: 15 - 18 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][092] [Gastly] (40%) ![][019] [Rattata] (30%) ![][355] [Duskull] (10%)<br> ![][353] [Shuppet] (10%) ![][020] [Raticate] (5%) ![][093] [Haunter] (5%)<br>
-Day        | ![][092] [Gastly] (40%) ![][019] [Rattata] (30%) ![][355] [Duskull] (10%)<br> ![][353] [Shuppet] (10%) ![][020] [Raticate] (5%) ![][093] [Haunter] (5%)<br>
-Night      | ![][092] [Gastly] (40%) ![][019] [Rattata] (30%) ![][355] [Duskull] (10%)<br> ![][353] [Shuppet] (10%) ![][020] [Raticate] (5%) ![][093] [Haunter] (5%)<br>
+Morning    | ![][092]  [Gastly] (40%) ![][019]  [Rattata] (30%) ![][355]  [Duskull] (10%)  ![][353]  [Shuppet] (10%) ![][020]  [Raticate] (5%) ![][093]  [Haunter] (5%)<br>
+Day        | ![][092]  [Gastly] (40%) ![][019]  [Rattata] (30%) ![][355]  [Duskull] (10%)  ![][353]  [Shuppet] (10%) ![][020]  [Raticate] (5%) ![][093]  [Haunter] (5%)<br>
+Night      | ![][092]  [Gastly] (40%) ![][019]  [Rattata] (30%) ![][355]  [Duskull] (10%)  ![][353]  [Shuppet] (10%) ![][020]  [Raticate] (5%) ![][093]  [Haunter] (5%)<br>
 
 ### Route 205 ~ North
-Levels: 15 - 17 (Walking), 20 - 40 (Surfing), 16 (Honey Tree)
+Levels: 15 - 17 (Walking) 20 - 40 (Surfing) 16 (Honey Tree)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][399] [Bidoof] (20%) ![][079] [Slowpoke] (20%) ![][183] [Marill] (20%)<br> ![][453] [Croagunk] (10%) ![][102] [Exeggcute] (10%) ![][313] [Volbeat] (10%)<br> ![][314] [Illumise] (10%)
-Day        | ![][399] [Bidoof] (20%) ![][079] [Slowpoke] (20%) ![][183] [Marill] (20%)<br> ![][453] [Croagunk] (10%) ![][102] [Exeggcute] (10%) ![][313] [Volbeat] (10%)<br> ![][314] [Illumise] (10%)
-Night      | ![][399] [Bidoof] (20%) ![][079] [Slowpoke] (20%) ![][183] [Marill] (20%)<br> ![][453] [Croagunk] (10%) ![][102] [Exeggcute] (10%) ![][313] [Volbeat] (10%)<br> ![][314] [Illumise] (10%)
-Poké Radar | ![][193] [Yanma] (22%)
-Surf       | ![][183] [Marill] (90%), ![][184] [Azumarill] (10%)
-Old Rod    | ![][129] [Magikarp] (65%), ![][341] [Corphish] (35%)
-Good Rod   | ![][129] [Magikarp] (65%), ![][341] [Corphish] (35%)
-Super Rod  | ![][130] [Gyarados] (65%), ![][342] [Crawdaunt] (35%)
-Honey Tree | ![][396] [Starly] (30%) ![][016] [Pidgey] (20%) ![][163] [Hoothoot] (20%)<br> ![][276] [Taillow] (20%) ![][083] [Farfetch'd] (10%)
+Morning    | ![][399]  [Bidoof] (20%) ![][079]  [Slowpoke] (20%) ![][183]  [Marill] (20%)  ![][453]  [Croagunk] (10%) ![][102]  [Exeggcute] (10%) ![][313]  [Volbeat] (10%)  ![][314]  [Illumise] (10%)
+Day        | ![][399]  [Bidoof] (20%) ![][079]  [Slowpoke] (20%) ![][183]  [Marill] (20%)  ![][453]  [Croagunk] (10%) ![][102]  [Exeggcute] (10%) ![][313]  [Volbeat] (10%)  ![][314]  [Illumise] (10%)
+Night      | ![][399]  [Bidoof] (20%) ![][079]  [Slowpoke] (20%) ![][183]  [Marill] (20%)  ![][453]  [Croagunk] (10%) ![][102]  [Exeggcute] (10%) ![][313]  [Volbeat] (10%)  ![][314]  [Illumise] (10%)
+Poké Radar | ![][193]  [Yanma] (22%)
+Surf       | ![][183]  [Marill] (90%) ![][184]  [Azumarill] (10%)
+Old Rod    | ![][129]  [Magikarp] (65%) ![][341]  [Corphish] (35%)
+Good Rod   | ![][129]  [Magikarp] (65%) ![][341]  [Corphish] (35%)
+Super Rod  | ![][130]  [Gyarados] (65%) ![][342]  [Crawdaunt] (35%)
+Honey Tree | ![][396]  [Starly] (30%) ![][016]  [Pidgey] (20%) ![][163]  [Hoothoot] (20%)  ![][276]  [Taillow] (20%) ![][083]  [Farfetch'd] (10%)
 
 ### Eterna City
 Levels: 20 - 40 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Surf       | ![][054] [Psyduck] (90%), ![][055] [Golduck] (10%)
-Old Rod    | ![][129] [Magikarp] (60%), ![][060] [Poliwag] (30%), ![][147] [Dratini] (10%)
-Good Rod   | ![][129] [Magikarp] (60%), ![][060] [Poliwag] (30%), ![][147] [Dratini] (10%)
-Super Rod  | ![][130] [Gyarados] (60%), ![][061] [Poliwhirl] (30%), ![][148] [Dragonair] (10%)
+Surf       | ![][054]  [Psyduck] (90%) ![][055]  [Golduck] (10%)
+Old Rod    | ![][129]  [Magikarp] (60%) ![][060]  [Poliwag] (30%) ![][147]  [Dratini] (10%)
+Good Rod   | ![][129]  [Magikarp] (60%) ![][060]  [Poliwag] (30%) ![][147]  [Dratini] (10%)
+Super Rod  | ![][130]  [Gyarados] (60%) ![][061]  [Poliwhirl] (30%) ![][148]  [Dragonair] (10%)
 
 ### Route 211 ~ West
 Levels: 16 - 18 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][307] [Meditite] (30%) ![][066] [Machop] (20%) ![][333] [Swablu] (20%)<br> ![][216] [Teddiursa] (10%) ![][177] [Natu] (10%) ![][433] [Chingling] (10%)<br>
-Day        | ![][307] [Meditite] (30%) ![][066] [Machop] (20%) ![][333] [Swablu] (20%)<br> ![][216] [Teddiursa] (10%) ![][177] [Natu] (10%) ![][433] [Chingling] (10%)<br>
-Night      | ![][307] [Meditite] (30%) ![][066] [Machop] (20%) ![][333] [Swablu] (20%)<br> ![][216] [Teddiursa] (10%) ![][177] [Natu] (10%) ![][433] [Chingling] (10%)<br>
-Poké Radar | ![][236] [Tyrogue] (22%)
+Morning    | ![][307]  [Meditite] (30%) ![][066]  [Machop] (20%) ![][333]  [Swablu] (20%)  ![][216]  [Teddiursa] (10%) ![][177]  [Natu] (10%) ![][433]  [Chingling] (10%)<br>
+Day        | ![][307]  [Meditite] (30%) ![][066]  [Machop] (20%) ![][333]  [Swablu] (20%)  ![][216]  [Teddiursa] (10%) ![][177]  [Natu] (10%) ![][433]  [Chingling] (10%)<br>
+Night      | ![][307]  [Meditite] (30%) ![][066]  [Machop] (20%) ![][333]  [Swablu] (20%)  ![][216]  [Teddiursa] (10%) ![][177]  [Natu] (10%) ![][433]  [Chingling] (10%)<br>
+Poké Radar | ![][236]  [Tyrogue] (22%)
 
 ### Mt. Coronet ~ Route 211 Entrance
 Levels: 16 - 18 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][074] [Geodude] (20%) ![][436] [Bronzor] (20%) ![][173] [Cleffa] (10%)<br> ![][299] [Nosepass] (10%) ![][433] [Chingling] (10%) ![][041] [Zubat] (10%)<br> ![][374] [Beldum] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
-Day        | ![][074] [Geodude] (20%) ![][436] [Bronzor] (20%) ![][173] [Cleffa] (10%)<br> ![][299] [Nosepass] (10%) ![][433] [Chingling] (10%) ![][041] [Zubat] (10%)<br> ![][374] [Beldum] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
-Night      | ![][074] [Geodude] (20%) ![][436] [Bronzor] (20%) ![][173] [Cleffa] (10%)<br> ![][299] [Nosepass] (10%) ![][433] [Chingling] (10%) ![][041] [Zubat] (10%)<br> ![][374] [Beldum] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
+Morning    | ![][074]  [Geodude] (20%) ![][436]  [Bronzor] (20%) ![][173]  [Cleffa] (10%)  ![][299]  [Nosepass] (10%) ![][433]  [Chingling] (10%) ![][041]  [Zubat] (10%)  ![][374]  [Beldum] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Day        | ![][074]  [Geodude] (20%) ![][436]  [Bronzor] (20%) ![][173]  [Cleffa] (10%)  ![][299]  [Nosepass] (10%) ![][433]  [Chingling] (10%) ![][041]  [Zubat] (10%)  ![][374]  [Beldum] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Night      | ![][074]  [Geodude] (20%) ![][436]  [Bronzor] (20%) ![][173]  [Cleffa] (10%)  ![][299]  [Nosepass] (10%) ![][433]  [Chingling] (10%) ![][041]  [Zubat] (10%)  ![][374]  [Beldum] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
 
 ### Route 211 ~ East
-Levels: 18 - 19 (Walking), 18 (Honey Tree)
+Levels: 18 - 19 (Walking) 18 (Honey Tree)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][307] [Meditite] (30%) ![][066] [Machop] (20%) ![][333] [Swablu] (20%)<br> ![][216] [Teddiursa] (10%) ![][177] [Natu] (10%) ![][371] [Bagon] (10%)<br>
-Day        | ![][307] [Meditite] (30%) ![][066] [Machop] (20%) ![][333] [Swablu] (20%)<br> ![][216] [Teddiursa] (10%) ![][177] [Natu] (10%) ![][371] [Bagon] (10%)<br>
-Night      | ![][307] [Meditite] (30%) ![][066] [Machop] (20%) ![][333] [Swablu] (20%)<br> ![][216] [Teddiursa] (10%) ![][177] [Natu] (10%) ![][371] [Bagon] (10%)<br>
-Poké Radar | ![][236] [Tyrogue] (22%)
-Honey Tree | ![][190] [Aipom] (30%) ![][287] [Slakoth] (20%) ![][011] [Metapod] (20%)<br> ![][014] [Kakuna] (20%) ![][446] [Munchlax] (10%)
+Morning    | ![][307]  [Meditite] (30%) ![][066]  [Machop] (20%) ![][333]  [Swablu] (20%)  ![][216]  [Teddiursa] (10%) ![][177]  [Natu] (10%) ![][371]  [Bagon] (10%)<br>
+Day        | ![][307]  [Meditite] (30%) ![][066]  [Machop] (20%) ![][333]  [Swablu] (20%)  ![][216]  [Teddiursa] (10%) ![][177]  [Natu] (10%) ![][371]  [Bagon] (10%)<br>
+Night      | ![][307]  [Meditite] (30%) ![][066]  [Machop] (20%) ![][333]  [Swablu] (20%)  ![][216]  [Teddiursa] (10%) ![][177]  [Natu] (10%) ![][371]  [Bagon] (10%)<br>
+Poké Radar | ![][236]  [Tyrogue] (22%)
+Honey Tree | ![][190]  [Aipom] (30%) ![][287]  [Slakoth] (20%) ![][011]  [Metapod] (20%)  ![][014]  [Kakuna] (20%) ![][446]  [Munchlax] (10%)
 
 ### Mt. Coronet ~ Tunnel to Route 211 Entrance
 Levels: 18 - 19 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][074] [Geodude] (20%) ![][436] [Bronzor] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][041] [Zubat] (10%)<br> ![][374] [Beldum] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
-Day        | ![][074] [Geodude] (20%) ![][436] [Bronzor] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][041] [Zubat] (10%)<br> ![][374] [Beldum] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
-Night      | ![][074] [Geodude] (20%) ![][436] [Bronzor] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][041] [Zubat] (10%)<br> ![][374] [Beldum] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
+Morning    | ![][074]  [Geodude] (20%) ![][436]  [Bronzor] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][041]  [Zubat] (10%)  ![][374]  [Beldum] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Day        | ![][074]  [Geodude] (20%) ![][436]  [Bronzor] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][041]  [Zubat] (10%)  ![][374]  [Beldum] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Night      | ![][074]  [Geodude] (20%) ![][436]  [Bronzor] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][041]  [Zubat] (10%)  ![][374]  [Beldum] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
 
 ### Mt. Coronet ~ B1F
-Levels: 18 - 20 (Walking), 30 - 45 (Surfing)
+Levels: 18 - 20 (Walking) 30 - 45 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][074] [Geodude] (20%) ![][436] [Bronzor] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][041] [Zubat] (10%)<br> ![][375] [Metang] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
-Day        | ![][074] [Geodude] (20%) ![][436] [Bronzor] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][041] [Zubat] (10%)<br> ![][375] [Metang] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
-Night      | ![][074] [Geodude] (20%) ![][436] [Bronzor] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][041] [Zubat] (10%)<br> ![][375] [Metang] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
-Surf       | ![][363] [Spheal] (60%), ![][086] [Seel] (30%), ![][364] [Sealeo] (10%)
-Old Rod    | ![][349] [Feebas] (100%)
-Good Rod   | ![][349] [Feebas] (100%)
-Super Rod  | ![][349] [Feebas] (100%)
+Morning    | ![][074]  [Geodude] (20%) ![][436]  [Bronzor] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][041]  [Zubat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Day        | ![][074]  [Geodude] (20%) ![][436]  [Bronzor] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][041]  [Zubat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Night      | ![][074]  [Geodude] (20%) ![][436]  [Bronzor] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][041]  [Zubat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Surf       | ![][363]  [Spheal] (60%) ![][086]  [Seel] (30%) ![][364]  [Sealeo] (10%)
+Old Rod    | ![][349]  [Feebas] (100%)
+Good Rod   | ![][349]  [Feebas] (100%)
+Super Rod  | ![][349]  [Feebas] (100%)
 
 ### Mt. Coronet ~ Route 216 Entrance
 Levels: 18 - 19 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][074] [Geodude] (20%) ![][436] [Bronzor] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][041] [Zubat] (10%)<br> ![][374] [Beldum] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
-Day        | ![][074] [Geodude] (20%) ![][436] [Bronzor] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][041] [Zubat] (10%)<br> ![][374] [Beldum] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
-Night      | ![][074] [Geodude] (20%) ![][436] [Bronzor] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][041] [Zubat] (10%)<br> ![][374] [Beldum] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
+Morning    | ![][074]  [Geodude] (20%) ![][436]  [Bronzor] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][041]  [Zubat] (10%)  ![][374]  [Beldum] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Day        | ![][074]  [Geodude] (20%) ![][436]  [Bronzor] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][041]  [Zubat] (10%)  ![][374]  [Beldum] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Night      | ![][074]  [Geodude] (20%) ![][436]  [Bronzor] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][041]  [Zubat] (10%)  ![][374]  [Beldum] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
 
 ### Route 216
 Levels: 18 - 20 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][459] [Snover] (30%) ![][220] [Swinub] (25%) ![][238] [Smoochum] (20%)<br> ![][361] [Snorunt] (15%) ![][215] [Sneasel] (10%)
-Day        | ![][459] [Snover] (30%) ![][220] [Swinub] (25%) ![][238] [Smoochum] (20%)<br> ![][361] [Snorunt] (15%) ![][215] [Sneasel] (10%)
-Night      | ![][459] [Snover] (30%) ![][220] [Swinub] (25%) ![][238] [Smoochum] (20%)<br> ![][361] [Snorunt] (15%) ![][215] [Sneasel] (10%)
-Poké Radar | ![][225] [Delibird] (22%)
+Morning    | ![][459]  [Snover] (30%) ![][220]  [Swinub] (25%) ![][238]  [Smoochum] (20%)  ![][361]  [Snorunt] (15%) ![][215]  [Sneasel] (10%)
+Day        | ![][459]  [Snover] (30%) ![][220]  [Swinub] (25%) ![][238]  [Smoochum] (20%)  ![][361]  [Snorunt] (15%) ![][215]  [Sneasel] (10%)
+Night      | ![][459]  [Snover] (30%) ![][220]  [Swinub] (25%) ![][238]  [Smoochum] (20%)  ![][361]  [Snorunt] (15%) ![][215]  [Sneasel] (10%)
+Poké Radar | ![][225]  [Delibird] (22%)
 
 ### Route 206
-Levels: 20 - 22 (Walking), 21 (Honey Tree)
+Levels: 20 - 22 (Walking) 21 (Honey Tree)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][434] [Stunky] (20%) ![][218] [Slugma] (20%) ![][056] [Mankey] (20%)<br> ![][240] [Magby] (10%) ![][325] [Spoink] (10%) ![][322] [Numel] (10%)<br> ![][207] [Gligar] (10%)
-Day        | ![][434] [Stunky] (20%) ![][218] [Slugma] (20%) ![][056] [Mankey] (20%)<br> ![][240] [Magby] (10%) ![][325] [Spoink] (10%) ![][322] [Numel] (10%)<br> ![][207] [Gligar] (10%)
-Night      | ![][434] [Stunky] (20%) ![][218] [Slugma] (20%) ![][056] [Mankey] (20%)<br> ![][240] [Magby] (10%) ![][325] [Spoink] (10%) ![][322] [Numel] (10%)<br> ![][207] [Gligar] (10%)
-Poké Radar | ![][324] [Torkoal] (22%)
-Honey Tree | ![][415] [Combee] (30%) ![][412] [Burmy] (20%) ![][204] [Pineco] (20%)<br> ![][266] [Silcoon] (10%) ![][268] [Cascoon] (10%) ![][214] [Heracross] (10%)<br>
+Morning    | ![][434]  [Stunky] (20%) ![][218]  [Slugma] (20%) ![][056]  [Mankey] (20%)  ![][240]  [Magby] (10%) ![][325]  [Spoink] (10%) ![][322]  [Numel] (10%)  ![][207]  [Gligar] (10%)
+Day        | ![][434]  [Stunky] (20%) ![][218]  [Slugma] (20%) ![][056]  [Mankey] (20%)  ![][240]  [Magby] (10%) ![][325]  [Spoink] (10%) ![][322]  [Numel] (10%)  ![][207]  [Gligar] (10%)
+Night      | ![][434]  [Stunky] (20%) ![][218]  [Slugma] (20%) ![][056]  [Mankey] (20%)  ![][240]  [Magby] (10%) ![][325]  [Spoink] (10%) ![][322]  [Numel] (10%)  ![][207]  [Gligar] (10%)
+Poké Radar | ![][324]  [Torkoal] (22%)
+Honey Tree | ![][415]  [Combee] (30%) ![][412]  [Burmy] (20%) ![][204]  [Pineco] (20%)  ![][266]  [Silcoon] (10%) ![][268]  [Cascoon] (10%) ![][214]  [Heracross] (10%)<br>
 
 ### Wayward Cave (Both)
 Levels: 20 - 22
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][041] [Zubat] (20%) ![][074] [Geodude] (20%) ![][443] [Gible] (20%)<br> ![][343] [Baltoy] (10%) ![][027] [Sandshrew] (10%) ![][095] [Onix] (10%)<br> ![][302] [Sableye] (5%) ![][303] [Mawile] (5%)
-Day        | ![][041] [Zubat] (20%) ![][074] [Geodude] (20%) ![][443] [Gible] (20%)<br> ![][343] [Baltoy] (10%) ![][027] [Sandshrew] (10%) ![][095] [Onix] (10%)<br> ![][302] [Sableye] (5%) ![][303] [Mawile] (5%)
-Night      | ![][041] [Zubat] (20%) ![][074] [Geodude] (20%) ![][443] [Gible] (20%)<br> ![][343] [Baltoy] (10%) ![][027] [Sandshrew] (10%) ![][095] [Onix] (10%)<br> ![][302] [Sableye] (5%) ![][303] [Mawile] (5%)
+Morning    | ![][041]  [Zubat] (20%) ![][074]  [Geodude] (20%) ![][443]  [Gible] (20%)  ![][343]  [Baltoy] (10%) ![][027]  [Sandshrew] (10%) ![][095]  [Onix] (10%)  ![][302]  [Sableye] (5%) ![][303]  [Mawile] (5%)
+Day        | ![][041]  [Zubat] (20%) ![][074]  [Geodude] (20%) ![][443]  [Gible] (20%)  ![][343]  [Baltoy] (10%) ![][027]  [Sandshrew] (10%) ![][095]  [Onix] (10%)  ![][302]  [Sableye] (5%) ![][303]  [Mawile] (5%)
+Night      | ![][041]  [Zubat] (20%) ![][074]  [Geodude] (20%) ![][443]  [Gible] (20%)  ![][343]  [Baltoy] (10%) ![][027]  [Sandshrew] (10%) ![][095]  [Onix] (10%)  ![][302]  [Sableye] (5%) ![][303]  [Mawile] (5%)
 
 ### Mt. Coronet ~ Route 207 Entrance
-Levels: 22 - 23 (Walking), 20 - 40 (Surfing)
+Levels: 22 - 23 (Walking) 20 - 40 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][074] [Geodude] (20%) ![][436] [Bronzor] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][042] [Golbat] (10%)<br> ![][375] [Metang] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
-Day        | ![][074] [Geodude] (20%) ![][436] [Bronzor] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][042] [Golbat] (10%)<br> ![][375] [Metang] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
-Night      | ![][074] [Geodude] (20%) ![][436] [Bronzor] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][042] [Golbat] (10%)<br> ![][375] [Metang] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
-Surf       | ![][041] [Zubat] (90%), ![][042] [Golbat] (10%)
-Old Rod    | ![][129] [Magikarp] (65%), ![][339] [Barboach] (35%)
-Good Rod   | ![][129] [Magikarp] (65%), ![][339] [Barboach] (35%)
-Super Rod  | ![][130] [Gyarados] (65%), ![][340] [Whiscash] (35%)
+Morning    | ![][074]  [Geodude] (20%) ![][436]  [Bronzor] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][042]  [Golbat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Day        | ![][074]  [Geodude] (20%) ![][436]  [Bronzor] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][042]  [Golbat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Night      | ![][074]  [Geodude] (20%) ![][436]  [Bronzor] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][042]  [Golbat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Surf       | ![][041]  [Zubat] (90%) ![][042]  [Golbat] (10%)
+Old Rod    | ![][129]  [Magikarp] (65%) ![][339]  [Barboach] (35%)
+Good Rod   | ![][129]  [Magikarp] (65%) ![][339]  [Barboach] (35%)
+Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
 
 ### Route 208
-Levels: 23 - 24 (Walking), 20 - 40 (Surfing), 23 (Honey Tree)
+Levels: 23 - 24 (Walking) 20 - 40 (Surfing) 23 (Honey Tree)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][400] [Bibarel] (20%) ![][315] [Roselia] (20%) ![][300] [Skitty] (10%)<br> ![][039] [Jigglypuff] (10%) ![][281] [Kirlia] (10%) ![][335] [Zangoose] (10%)<br> ![][336] [Seviper] (10%) ![][235] [Smeargle] (10%)
-Day        | ![][400] [Bibarel] (20%) ![][315] [Roselia] (20%) ![][300] [Skitty] (10%)<br> ![][039] [Jigglypuff] (10%) ![][281] [Kirlia] (10%) ![][335] [Zangoose] (10%)<br> ![][336] [Seviper] (10%) ![][235] [Smeargle] (10%)
-Night      | ![][400] [Bibarel] (20%) ![][315] [Roselia] (20%) ![][300] [Skitty] (10%)<br> ![][039] [Jigglypuff] (10%) ![][281] [Kirlia] (10%) ![][335] [Zangoose] (10%)<br> ![][336] [Seviper] (10%) ![][235] [Smeargle] (10%)
-Poké Radar | ![][206] [Dunsparce] (22%)
-Surf       | ![][054] [Psyduck] (90%), ![][055] [Golduck] (10%)
-Old Rod    | ![][129] [Magikarp] (60%), ![][118] [Goldeen] (30%), ![][223] [Remoraid] (10%)
-Good Rod   | ![][129] [Magikarp] (60%), ![][118] [Goldeen] (30%), ![][223] [Remoraid] (10%)
-Super Rod  | ![][130] [Gyarados] (60%), ![][119] [Seaking] (30%), ![][224] [Octillery] (10%)
-Honey Tree | ![][420] [Cherubi] (30%) ![][285] [Shroomish] (20%) ![][102] [Exeggcute] (20%)<br> ![][273] [Seedot] (20%) ![][114] [Tangela] (10%)
+Morning    | ![][400]  [Bibarel] (20%) ![][315]  [Roselia] (20%) ![][300]  [Skitty] (10%)  ![][039]  [Jigglypuff] (10%) ![][281]  [Kirlia] (10%) ![][335]  [Zangoose] (10%)  ![][336]  [Seviper] (10%) ![][235]  [Smeargle] (10%)
+Day        | ![][400]  [Bibarel] (20%) ![][315]  [Roselia] (20%) ![][300]  [Skitty] (10%)  ![][039]  [Jigglypuff] (10%) ![][281]  [Kirlia] (10%) ![][335]  [Zangoose] (10%)  ![][336]  [Seviper] (10%) ![][235]  [Smeargle] (10%)
+Night      | ![][400]  [Bibarel] (20%) ![][315]  [Roselia] (20%) ![][300]  [Skitty] (10%)  ![][039]  [Jigglypuff] (10%) ![][281]  [Kirlia] (10%) ![][335]  [Zangoose] (10%)  ![][336]  [Seviper] (10%) ![][235]  [Smeargle] (10%)
+Poké Radar | ![][206]  [Dunsparce] (22%)
+Surf       | ![][054]  [Psyduck] (90%) ![][055]  [Golduck] (10%)
+Old Rod    | ![][129]  [Magikarp] (60%) ![][118]  [Goldeen] (30%) ![][223]  [Remoraid] (10%)
+Good Rod   | ![][129]  [Magikarp] (60%) ![][118]  [Goldeen] (30%) ![][223]  [Remoraid] (10%)
+Super Rod  | ![][130]  [Gyarados] (60%) ![][119]  [Seaking] (30%) ![][224]  [Octillery] (10%)
+Honey Tree | ![][420]  [Cherubi] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Exeggcute] (20%)  ![][273]  [Seedot] (20%) ![][114]  [Tangela] (10%)
 
 ### Route 212 ~ North
-Levels: 24 - 26 (Walking), 20 - 40 (Surfing), 25 (Honey Tree)
+Levels: 24 - 26 (Walking) 20 - 40 (Surfing) 25 (Honey Tree)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][397] [Staravia] (30%) ![][183] [Marill] (20%) ![][315] [Roselia] (10%)<br> ![][070] [Weepinbell] (10%) ![][044] [Gloom] (10%) ![][281] [Kirlia] (10%)<br> ![][235] [Smeargle] (10%)
-Day        | ![][397] [Staravia] (30%) ![][183] [Marill] (20%) ![][315] [Roselia] (10%)<br> ![][070] [Weepinbell] (10%) ![][044] [Gloom] (10%) ![][281] [Kirlia] (10%)<br> ![][235] [Smeargle] (10%)
-Night      | ![][397] [Staravia] (30%) ![][183] [Marill] (20%) ![][315] [Roselia] (10%)<br> ![][070] [Weepinbell] (10%) ![][044] [Gloom] (10%) ![][281] [Kirlia] (10%)<br> ![][235] [Smeargle] (10%)
-Poké Radar | ![][083] [Farfetch'd] (22%)
-Surf       | ![][183] [Marill] (90%), ![][184] [Azumarill] (10%)
-Old Rod    | ![][129] [Magikarp] (65%), ![][118] [Goldeen] (35%)
-Good Rod   | ![][129] [Magikarp] (65%), ![][118] [Goldeen] (35%)
-Super Rod  | ![][130] [Gyarados] (65%), ![][119] [Seaking] (35%)
-Honey Tree | ![][420] [Cherubi] (30%) ![][285] [Shroomish] (20%) ![][102] [Exeggcute] (20%)<br> ![][274] [Nuzleaf] (20%) ![][114] [Tangela] (10%)
+Morning    | ![][397]  [Staravia] (30%) ![][183]  [Marill] (20%) ![][315]  [Roselia] (10%)  ![][070]  [Weepinbell] (10%) ![][044]  [Gloom] (10%) ![][281]  [Kirlia] (10%)  ![][235]  [Smeargle] (10%)
+Day        | ![][397]  [Staravia] (30%) ![][183]  [Marill] (20%) ![][315]  [Roselia] (10%)  ![][070]  [Weepinbell] (10%) ![][044]  [Gloom] (10%) ![][281]  [Kirlia] (10%)  ![][235]  [Smeargle] (10%)
+Night      | ![][397]  [Staravia] (30%) ![][183]  [Marill] (20%) ![][315]  [Roselia] (10%)  ![][070]  [Weepinbell] (10%) ![][044]  [Gloom] (10%) ![][281]  [Kirlia] (10%)  ![][235]  [Smeargle] (10%)
+Poké Radar | ![][083]  [Farfetch'd] (22%)
+Surf       | ![][183]  [Marill] (90%) ![][184]  [Azumarill] (10%)
+Old Rod    | ![][129]  [Magikarp] (65%) ![][118]  [Goldeen] (35%)
+Good Rod   | ![][129]  [Magikarp] (65%) ![][118]  [Goldeen] (35%)
+Super Rod  | ![][130]  [Gyarados] (65%) ![][119]  [Seaking] (35%)
+Honey Tree | ![][420]  [Cherubi] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Exeggcute] (20%)  ![][274]  [Nuzleaf] (20%) ![][114]  [Tangela] (10%)
 
 ### Trophy Garden
 Levels: 24 - 26
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][172] [Pichu] (20%) ![][025] [Pikachu] (20%) ![][173] [Cleffa] (10%)<br> ![][174] [Igglybuff] (10%) ![][175] [Togepi] (10%) ![][137] [Porygon] (10%)<br> ![][440] [Happiny] (10%) ![][133] [Eevee] (10%)
-Day        | ![][172] [Pichu] (20%) ![][025] [Pikachu] (20%) ![][173] [Cleffa] (10%)<br> ![][174] [Igglybuff] (10%) ![][175] [Togepi] (10%) ![][137] [Porygon] (10%)<br> ![][440] [Happiny] (10%) ![][133] [Eevee] (10%)
-Night      | ![][172] [Pichu] (20%) ![][025] [Pikachu] (20%) ![][173] [Cleffa] (10%)<br> ![][174] [Igglybuff] (10%) ![][175] [Togepi] (10%) ![][137] [Porygon] (10%)<br> ![][440] [Happiny] (10%) ![][133] [Eevee] (10%)
-Poké Radar | ![][351] [Castform] (22%)
+Morning    | ![][172]  [Pichu] (20%) ![][025]  [Pikachu] (20%) ![][173]  [Cleffa] (10%)  ![][174]  [Igglybuff] (10%) ![][175]  [Togepi] (10%) ![][137]  [Porygon] (10%)  ![][440]  [Happiny] (10%) ![][133]  [Eevee] (10%)
+Day        | ![][172]  [Pichu] (20%) ![][025]  [Pikachu] (20%) ![][173]  [Cleffa] (10%)  ![][174]  [Igglybuff] (10%) ![][175]  [Togepi] (10%) ![][137]  [Porygon] (10%)  ![][440]  [Happiny] (10%) ![][133]  [Eevee] (10%)
+Night      | ![][172]  [Pichu] (20%) ![][025]  [Pikachu] (20%) ![][173]  [Cleffa] (10%)  ![][174]  [Igglybuff] (10%) ![][175]  [Togepi] (10%) ![][137]  [Porygon] (10%)  ![][440]  [Happiny] (10%) ![][133]  [Eevee] (10%)
+Poké Radar | ![][351]  [Castform] (22%)
 
 ### Route 209
-Levels: 24 - 26 (Walking), 20 - 40 (Surfing), 27 (Honey Tree)
+Levels: 24 - 26 (Walking) 20 - 40 (Surfing) 27 (Honey Tree)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][397] [Staravia] (20%) ![][431] [Glameow] (20%) ![][037] [Vulpix] (10%)<br> ![][438] [Bonsly] (10%) ![][439] [Mime Jr.] (10%) ![][209] [Snubbull] (10%)<br> ![][052] [Meowth] (10%) ![][113] [Chansey] (10%)
-Day        | ![][397] [Staravia] (20%) ![][431] [Glameow] (20%) ![][037] [Vulpix] (10%)<br> ![][438] [Bonsly] (10%) ![][439] [Mime Jr.] (10%) ![][209] [Snubbull] (10%)<br> ![][052] [Meowth] (10%) ![][113] [Chansey] (10%)
-Night      | ![][397] [Staravia] (20%) ![][431] [Glameow] (20%) ![][037] [Vulpix] (10%)<br> ![][438] [Bonsly] (10%) ![][439] [Mime Jr.] (10%) ![][209] [Snubbull] (10%)<br> ![][052] [Meowth] (10%) ![][113] [Chansey] (10%)
-Poké Radar | ![][432] [Purugly] (22%)
-Surf       | ![][054] [Psyduck] (90%), ![][055] [Golduck] (10%)
-Old Rod    | ![][129] [Magikarp] (65%), ![][118] [Goldeen] (35%)
-Good Rod   | ![][129] [Magikarp] (65%), ![][118] [Goldeen] (35%)
-Super Rod  | ![][130] [Gyarados] (65%), ![][119] [Seaking] (35%)
-Honey Tree | ![][397] [Staravia] (30%) ![][017] [Pidgeotto] (20%) ![][164] [Noctowl] (20%)<br> ![][277] [Swellow] (20%) ![][083] [Farfetch'd] (10%)
+Morning    | ![][397]  [Staravia] (20%) ![][431]  [Glameow] (20%) ![][037]  [Vulpix] (10%)  ![][438]  [Bonsly] (10%) ![][439]  [Mime Jr.] (10%) ![][209]  [Snubbull] (10%)  ![][052]  [Meowth] (10%) ![][113]  [Chansey] (10%)
+Day        | ![][397]  [Staravia] (20%) ![][431]  [Glameow] (20%) ![][037]  [Vulpix] (10%)  ![][438]  [Bonsly] (10%) ![][439]  [Mime Jr.] (10%) ![][209]  [Snubbull] (10%)  ![][052]  [Meowth] (10%) ![][113]  [Chansey] (10%)
+Night      | ![][397]  [Staravia] (20%) ![][431]  [Glameow] (20%) ![][037]  [Vulpix] (10%)  ![][438]  [Bonsly] (10%) ![][439]  [Mime Jr.] (10%) ![][209]  [Snubbull] (10%)  ![][052]  [Meowth] (10%) ![][113]  [Chansey] (10%)
+Poké Radar | ![][432]  [Purugly] (22%)
+Surf       | ![][054]  [Psyduck] (90%) ![][055]  [Golduck] (10%)
+Old Rod    | ![][129]  [Magikarp] (65%) ![][118]  [Goldeen] (35%)
+Good Rod   | ![][129]  [Magikarp] (65%) ![][118]  [Goldeen] (35%)
+Super Rod  | ![][130]  [Gyarados] (65%) ![][119]  [Seaking] (35%)
+Honey Tree | ![][397]  [Staravia] (30%) ![][017]  [Pidgeotto] (20%) ![][164]  [Noctowl] (20%)  ![][277]  [Swellow] (20%) ![][083]  [Farfetch'd] (10%)
 
 ### Lost Tower
 Levels: 26 - 30
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][353] [Shuppet] (20%) ![][355] [Duskull] (20%) ![][042] [Golbat] (15%)<br> ![][093] [Haunter] (15%) ![][198] [Murkrow] (10%) ![][200] [Misdreavus] (10%)<br> ![][356] [Dusclops] (5%) ![][354] [Banette] (5%)
-Day        | ![][353] [Shuppet] (20%) ![][355] [Duskull] (20%) ![][042] [Golbat] (15%)<br> ![][093] [Haunter] (15%) ![][198] [Murkrow] (10%) ![][200] [Misdreavus] (10%)<br> ![][356] [Dusclops] (5%) ![][354] [Banette] (5%)
-Night      | ![][353] [Shuppet] (20%) ![][355] [Duskull] (20%) ![][042] [Golbat] (15%)<br> ![][093] [Haunter] (15%) ![][198] [Murkrow] (10%) ![][200] [Misdreavus] (10%)<br> ![][356] [Dusclops] (5%) ![][354] [Banette] (5%)
+Morning    | ![][353]  [Shuppet] (20%) ![][355]  [Duskull] (20%) ![][042]  [Golbat] (15%)  ![][093]  [Haunter] (15%) ![][198]  [Murkrow] (10%) ![][200]  [Misdreavus] (10%)  ![][356]  [Dusclops] (5%) ![][354]  [Banette] (5%)
+Day        | ![][353]  [Shuppet] (20%) ![][355]  [Duskull] (20%) ![][042]  [Golbat] (15%)  ![][093]  [Haunter] (15%) ![][198]  [Murkrow] (10%) ![][200]  [Misdreavus] (10%)  ![][356]  [Dusclops] (5%) ![][354]  [Banette] (5%)
+Night      | ![][353]  [Shuppet] (20%) ![][355]  [Duskull] (20%) ![][042]  [Golbat] (15%)  ![][093]  [Haunter] (15%) ![][198]  [Murkrow] (10%) ![][200]  [Misdreavus] (10%)  ![][356]  [Dusclops] (5%) ![][354]  [Banette] (5%)
 
 ### Solaceon Ruins
 Levels: 20 - 30
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][201] [Unown] (100%)
-Day        | ![][201] [Unown] (100%)
-Night      | ![][201] [Unown] (100%)
+Morning    | ![][201]  [Unown] (100%)
+Day        | ![][201]  [Unown] (100%)
+Night      | ![][201]  [Unown] (100%)
 
 ### Route 210 ~ South
-Levels: 28 - 30 (Walking), 29 (Honey Tree)
+Levels: 28 - 30 (Walking) 29 (Honey Tree)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][402] [Kricketune] (20%) ![][274] [Nuzleaf] (20%) ![][123] [Scyther] (15%)<br> ![][127] [Pinsir] (10%) ![][241] [Miltank] (10%) ![][128] [Tauros] (10%)<br> ![][017] [Pidgeotto] (10%) ![][078] [Rapidash] (5%)
-Day        | ![][402] [Kricketune] (20%) ![][274] [Nuzleaf] (20%) ![][123] [Scyther] (15%)<br> ![][127] [Pinsir] (10%) ![][241] [Miltank] (10%) ![][128] [Tauros] (10%)<br> ![][017] [Pidgeotto] (10%) ![][078] [Rapidash] (5%)
-Night      | ![][402] [Kricketune] (20%) ![][274] [Nuzleaf] (20%) ![][123] [Scyther] (15%)<br> ![][127] [Pinsir] (10%) ![][241] [Miltank] (10%) ![][128] [Tauros] (10%)<br> ![][164] [Noctowl] (10%) ![][078] [Rapidash] (5%)
-Poké Radar | ![][352] [Kecleon] (22%)
-Honey Tree | ![][415] [Combee] (30%) ![][204] [Pineco] (20%) ![][266] [Silcoon] (10%)<br> ![][268] [Cascoon] (10%) ![][413] [Wormadam] (10%) ![][414] [Mothim] (10%)<br> ![][214] [Heracross] (10%)
+Morning    | ![][402]  [Kricketune] (20%) ![][274]  [Nuzleaf] (20%) ![][123]  [Scyther] (15%)  ![][127]  [Pinsir] (10%) ![][241]  [Miltank] (10%) ![][128]  [Tauros] (10%)  ![][017]  [Pidgeotto] (10%) ![][078]  [Rapidash] (5%)
+Day        | ![][402]  [Kricketune] (20%) ![][274]  [Nuzleaf] (20%) ![][123]  [Scyther] (15%)  ![][127]  [Pinsir] (10%) ![][241]  [Miltank] (10%) ![][128]  [Tauros] (10%)  ![][017]  [Pidgeotto] (10%) ![][078]  [Rapidash] (5%)
+Night      | ![][402]  [Kricketune] (20%) ![][274]  [Nuzleaf] (20%) ![][123]  [Scyther] (15%)  ![][127]  [Pinsir] (10%) ![][241]  [Miltank] (10%) ![][128]  [Tauros] (10%)  ![][164]  [Noctowl] (10%) ![][078]  [Rapidash] (5%)
+Poké Radar | ![][352]  [Kecleon] (22%)
+Honey Tree | ![][415]  [Combee] (30%) ![][204]  [Pineco] (20%) ![][266]  [Silcoon] (10%)  ![][268]  [Cascoon] (10%) ![][413]  [Wormadam] (10%) ![][414]  [Mothim] (10%)  ![][214]  [Heracross] (10%)
 
 ### Route 215
-Levels: 27 - 30 (Walking), 28 (Honey Tree)
+Levels: 27 - 30 (Walking) 28 (Honey Tree)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][183] [Marill] (25%) ![][096] [Drowzee] (20%) ![][108] [Lickitung] (15%)<br> ![][064] [Kadabra] (15%) ![][262] [Mightyena] (10%) ![][264] [Linoone] (10%)<br> ![][097] [Hypno] (5%)
-Day        | ![][183] [Marill] (25%) ![][096] [Drowzee] (20%) ![][108] [Lickitung] (15%)<br> ![][064] [Kadabra] (15%) ![][262] [Mightyena] (10%) ![][264] [Linoone] (10%)<br> ![][097] [Hypno] (5%)
-Night      | ![][183] [Marill] (25%) ![][096] [Drowzee] (20%) ![][108] [Lickitung] (15%)<br> ![][064] [Kadabra] (15%) ![][262] [Mightyena] (10%) ![][264] [Linoone] (10%)<br> ![][097] [Hypno] (5%)
-Poké Radar | ![][359] [Absol] (22%)
-Honey Tree | ![][190] [Aipom] (30%) ![][288] [Vigoroth] (20%) ![][011] [Metapod] (20%)<br> ![][014] [Kakuna] (20%) ![][446] [Munchlax] (10%)
+Morning    | ![][183]  [Marill] (25%) ![][096]  [Drowzee] (20%) ![][108]  [Lickitung] (15%)  ![][064]  [Kadabra] (15%) ![][262]  [Mightyena] (10%) ![][264]  [Linoone] (10%)  ![][097]  [Hypno] (5%)
+Day        | ![][183]  [Marill] (25%) ![][096]  [Drowzee] (20%) ![][108]  [Lickitung] (15%)  ![][064]  [Kadabra] (15%) ![][262]  [Mightyena] (10%) ![][264]  [Linoone] (10%)  ![][097]  [Hypno] (5%)
+Night      | ![][183]  [Marill] (25%) ![][096]  [Drowzee] (20%) ![][108]  [Lickitung] (15%)  ![][064]  [Kadabra] (15%) ![][262]  [Mightyena] (10%) ![][264]  [Linoone] (10%)  ![][097]  [Hypno] (5%)
+Poké Radar | ![][359]  [Absol] (22%)
+Honey Tree | ![][190]  [Aipom] (30%) ![][288]  [Vigoroth] (20%) ![][011]  [Metapod] (20%)  ![][014]  [Kakuna] (20%) ![][446]  [Munchlax] (10%)
 
 ### Route 214
-Levels: 28 - 32 (Walking), 20 - 40 (Surfing), 30 (Honey Tree)
+Levels: 28 - 32 (Walking) 20 - 40 (Surfing) 30 (Honey Tree)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][075] [Graveler] (30%) ![][228] [Houndour] (20%) ![][111] [Rhyhorn] (15%)<br> ![][322] [Numel] (15%) ![][325] [Spoink] (10%) ![][331] [Cacnea] (10%)<br>
-Day        | ![][075] [Graveler] (30%) ![][228] [Houndour] (20%) ![][111] [Rhyhorn] (15%)<br> ![][322] [Numel] (15%) ![][325] [Spoink] (10%) ![][331] [Cacnea] (10%)<br>
-Night      | ![][075] [Graveler] (30%) ![][228] [Houndour] (20%) ![][111] [Rhyhorn] (15%)<br> ![][322] [Numel] (15%) ![][325] [Spoink] (10%) ![][331] [Cacnea] (10%)<br>
-Poké Radar | ![][327] [Spinda] (22%)
-Surf       | ![][054] [Psyduck] (90%), ![][055] [Golduck] (10%)
-Old Rod    | ![][129] [Magikarp] (65%), ![][118] [Goldeen] (35%)
-Good Rod   | ![][129] [Magikarp] (65%), ![][118] [Goldeen] (35%)
-Super Rod  | ![][130] [Gyarados] (65%), ![][119] [Seaking] (35%)
-Honey Tree | ![][190] [Aipom] (30%) ![][288] [Vigoroth] (20%) ![][012] [Butterfree] (20%)<br> ![][015] [Beedrill] (20%) ![][446] [Munchlax] (10%)
+Morning    | ![][075]  [Graveler] (30%) ![][228]  [Houndour] (20%) ![][111]  [Rhyhorn] (15%)  ![][322]  [Numel] (15%) ![][325]  [Spoink] (10%) ![][331]  [Cacnea] (10%)<br>
+Day        | ![][075]  [Graveler] (30%) ![][228]  [Houndour] (20%) ![][111]  [Rhyhorn] (15%)  ![][322]  [Numel] (15%) ![][325]  [Spoink] (10%) ![][331]  [Cacnea] (10%)<br>
+Night      | ![][075]  [Graveler] (30%) ![][228]  [Houndour] (20%) ![][111]  [Rhyhorn] (15%)  ![][322]  [Numel] (15%) ![][325]  [Spoink] (10%) ![][331]  [Cacnea] (10%)<br>
+Poké Radar | ![][327]  [Spinda] (22%)
+Surf       | ![][054]  [Psyduck] (90%) ![][055]  [Golduck] (10%)
+Old Rod    | ![][129]  [Magikarp] (65%) ![][118]  [Goldeen] (35%)
+Good Rod   | ![][129]  [Magikarp] (65%) ![][118]  [Goldeen] (35%)
+Super Rod  | ![][130]  [Gyarados] (65%) ![][119]  [Seaking] (35%)
+Honey Tree | ![][190]  [Aipom] (30%) ![][288]  [Vigoroth] (20%) ![][012]  [Butterfree] (20%)  ![][015]  [Beedrill] (20%) ![][446]  [Munchlax] (10%)
 
 ### Maniac Tunnel
 Levels: 28 - 32
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][050] [Diglett] (25%) ![][293] [Whismur] (20%) ![][449] [Hippopotas] (15%)<br> ![][328] [Trapinch] (15%) ![][294] [Loudred] (10%) ![][132] [Ditto] (10%)<br> ![][051] [Dugtrio] (5%)
-Day        | ![][050] [Diglett] (25%) ![][293] [Whismur] (20%) ![][449] [Hippopotas] (15%)<br> ![][328] [Trapinch] (15%) ![][294] [Loudred] (10%) ![][132] [Ditto] (10%)<br> ![][051] [Dugtrio] (5%)
-Night      | ![][050] [Diglett] (25%) ![][293] [Whismur] (20%) ![][449] [Hippopotas] (15%)<br> ![][328] [Trapinch] (15%) ![][294] [Loudred] (10%) ![][132] [Ditto] (10%)<br> ![][051] [Dugtrio] (5%)
+Morning    | ![][050]  [Diglett] (25%) ![][293]  [Whismur] (20%) ![][449]  [Hippopotas] (15%)  ![][328]  [Trapinch] (15%) ![][294]  [Loudred] (10%) ![][132]  [Ditto] (10%)  ![][051]  [Dugtrio] (5%)
+Day        | ![][050]  [Diglett] (25%) ![][293]  [Whismur] (20%) ![][449]  [Hippopotas] (15%)  ![][328]  [Trapinch] (15%) ![][294]  [Loudred] (10%) ![][132]  [Ditto] (10%)  ![][051]  [Dugtrio] (5%)
+Night      | ![][050]  [Diglett] (25%) ![][293]  [Whismur] (20%) ![][449]  [Hippopotas] (15%)  ![][328]  [Trapinch] (15%) ![][294]  [Loudred] (10%) ![][132]  [Ditto] (10%)  ![][051]  [Dugtrio] (5%)
 
 ### Valor Lakefront
 Levels: 31 - 33
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][203] [Girafarig] (30%) ![][400] [Bibarel] (20%) ![][030] [Nidorina] (20%)<br> ![][033] [Nidorino] (20%) ![][402] [Kricketune] (10%)
-Day        | ![][203] [Girafarig] (30%) ![][400] [Bibarel] (20%) ![][030] [Nidorina] (20%)<br> ![][033] [Nidorino] (20%) ![][402] [Kricketune] (10%)
-Night      | ![][203] [Girafarig] (30%) ![][400] [Bibarel] (20%) ![][030] [Nidorina] (20%)<br> ![][033] [Nidorino] (20%) ![][402] [Kricketune] (10%)
-Poké Radar | ![][049] [Venomoth] (22%)
+Morning    | ![][203]  [Girafarig] (30%) ![][400]  [Bibarel] (20%) ![][030]  [Nidorina] (20%)  ![][033]  [Nidorino] (20%) ![][402]  [Kricketune] (10%)
+Day        | ![][203]  [Girafarig] (30%) ![][400]  [Bibarel] (20%) ![][030]  [Nidorina] (20%)  ![][033]  [Nidorino] (20%) ![][402]  [Kricketune] (10%)
+Night      | ![][203]  [Girafarig] (30%) ![][400]  [Bibarel] (20%) ![][030]  [Nidorina] (20%)  ![][033]  [Nidorino] (20%) ![][402]  [Kricketune] (10%)
+Poké Radar | ![][049]  [Venomoth] (22%)
 
 ### Route 213
-Levels: 32 - 34 (Walking), 20 - 40 (Surfing), 33 (Honey Tree)
+Levels: 32 - 34 (Walking) 20 - 40 (Surfing) 33 (Honey Tree)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][423] [Gastrodon] (25%) ![][419] [Floatzel] (20%) ![][279] [Pelipper] (20%)<br> ![][277] [Swellow] (20%) ![][441] [Chatot] (10%) ![][213] [Shuckle] (5%)<br>
-Day        | ![][423] [Gastrodon] (25%) ![][419] [Floatzel] (20%) ![][279] [Pelipper] (20%)<br> ![][277] [Swellow] (20%) ![][441] [Chatot] (10%) ![][213] [Shuckle] (5%)<br>
-Night      | ![][423] [Gastrodon] (35%) ![][419] [Floatzel] (20%) ![][279] [Pelipper] (20%)<br> ![][277] [Swellow] (20%) ![][213] [Shuckle] (5%)
-Poké Radar | ![][359] [Absol] (22%)
-Surf       | ![][072] [Tentacool] (60%) ![][278] [Wingull] (30%) ![][073] [Tentacruel] (5%)<br> ![][279] [Pelipper] (5%)
-Old Rod    | ![][129] [Magikarp] (60%), ![][223] [Remoraid] (30%), ![][320] [Wailmer] (10%)
-Good Rod   | ![][129] [Magikarp] (60%), ![][223] [Remoraid] (30%), ![][320] [Wailmer] (10%)
-Super Rod  | ![][130] [Gyarados] (60%), ![][224] [Octillery] (30%), ![][321] [Wailord] (10%)
-Honey Tree | ![][397] [Staravia] (30%) ![][017] [Pidgeotto] (20%) ![][164] [Noctowl] (20%)<br> ![][277] [Swellow] (20%) ![][083] [Farfetch'd] (10%)
+Morning    | ![][423]  [Gastrodon] (25%) ![][419]  [Floatzel] (20%) ![][279]  [Pelipper] (20%)  ![][277]  [Swellow] (20%) ![][441]  [Chatot] (10%) ![][213]  [Shuckle] (5%)<br>
+Day        | ![][423]  [Gastrodon] (25%) ![][419]  [Floatzel] (20%) ![][279]  [Pelipper] (20%)  ![][277]  [Swellow] (20%) ![][441]  [Chatot] (10%) ![][213]  [Shuckle] (5%)<br>
+Night      | ![][423]  [Gastrodon] (35%) ![][419]  [Floatzel] (20%) ![][279]  [Pelipper] (20%)  ![][277]  [Swellow] (20%) ![][213]  [Shuckle] (5%)
+Poké Radar | ![][359]  [Absol] (22%)
+Surf       | ![][072]  [Tentacool] (60%) ![][278]  [Wingull] (30%) ![][073]  [Tentacruel] (5%)  ![][279]  [Pelipper] (5%)
+Old Rod    | ![][129]  [Magikarp] (60%) ![][223]  [Remoraid] (30%) ![][320]  [Wailmer] (10%)
+Good Rod   | ![][129]  [Magikarp] (60%) ![][223]  [Remoraid] (30%) ![][320]  [Wailmer] (10%)
+Super Rod  | ![][130]  [Gyarados] (60%) ![][224]  [Octillery] (30%) ![][321]  [Wailord] (10%)
+Honey Tree | ![][397]  [Staravia] (30%) ![][017]  [Pidgeotto] (20%) ![][164]  [Noctowl] (20%)  ![][277]  [Swellow] (20%) ![][083]  [Farfetch'd] (10%)
 
 ### Pastoria City
 Levels: 20 - 40 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Surf       | ![][072] [Tentacool] (60%) ![][422] [Shellos] (30%) ![][073] [Tentacruel] (5%)<br> ![][423] [Gastrodon] (5%)
-Old Rod    | ![][129] [Magikarp] (60%), ![][060] [Poliwag] (30%), ![][318] [Carvanha] (10%)
-Good Rod   | ![][129] [Magikarp] (60%), ![][060] [Poliwag] (30%), ![][318] [Carvanha] (10%)
-Super Rod  | ![][130] [Gyarados] (60%), ![][061] [Poliwhirl] (30%), ![][319] [Sharpedo] (10%)
+Surf       | ![][072]  [Tentacool] (60%) ![][422]  [Shellos] (30%) ![][073]  [Tentacruel] (5%)  ![][423]  [Gastrodon] (5%)
+Old Rod    | ![][129]  [Magikarp] (60%) ![][060]  [Poliwag] (30%) ![][318]  [Carvanha] (10%)
+Good Rod   | ![][129]  [Magikarp] (60%) ![][060]  [Poliwag] (30%) ![][318]  [Carvanha] (10%)
+Super Rod  | ![][130]  [Gyarados] (60%) ![][061]  [Poliwhirl] (30%) ![][319]  [Sharpedo] (10%)
 
 ### Great Marsh ~ Area 1/2
-Levels: 33 - 36 (Walking), 20 - 40 (Surfing)
+Levels: 33 - 36 (Walking) 20 - 40 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][400] [Bibarel] (30%) ![][195] [Quagsire] (20%) ![][357] [Tropius] (20%)<br> ![][114] [Tangela] (20%) ![][455] [Carnivine] (10%)
-Day        | ![][400] [Bibarel] (30%) ![][195] [Quagsire] (20%) ![][357] [Tropius] (20%)<br> ![][114] [Tangela] (20%) ![][455] [Carnivine] (10%)
-Night      | ![][400] [Bibarel] (30%) ![][195] [Quagsire] (20%) ![][357] [Tropius] (20%)<br> ![][114] [Tangela] (20%) ![][455] [Carnivine] (10%)
-Surf       | ![][194] [Wooper] (90%), ![][195] [Quagsire] (10%)
-Old Rod    | ![][129] [Magikarp] (60%), ![][339] [Barboach] (30%), ![][318] [Carvanha] (10%)
-Good Rod   | ![][129] [Magikarp] (60%), ![][339] [Barboach] (30%), ![][318] [Carvanha] (10%)
-Super Rod  | ![][130] [Gyarados] (60%), ![][340] [Whiscash] (30%), ![][319] [Sharpedo] (10%)
+Morning    | ![][400]  [Bibarel] (30%) ![][195]  [Quagsire] (20%) ![][357]  [Tropius] (20%)  ![][114]  [Tangela] (20%) ![][455]  [Carnivine] (10%)
+Day        | ![][400]  [Bibarel] (30%) ![][195]  [Quagsire] (20%) ![][357]  [Tropius] (20%)  ![][114]  [Tangela] (20%) ![][455]  [Carnivine] (10%)
+Night      | ![][400]  [Bibarel] (30%) ![][195]  [Quagsire] (20%) ![][357]  [Tropius] (20%)  ![][114]  [Tangela] (20%) ![][455]  [Carnivine] (10%)
+Surf       | ![][194]  [Wooper] (90%) ![][195]  [Quagsire] (10%)
+Old Rod    | ![][129]  [Magikarp] (60%) ![][339]  [Barboach] (30%) ![][318]  [Carvanha] (10%)
+Good Rod   | ![][129]  [Magikarp] (60%) ![][339]  [Barboach] (30%) ![][318]  [Carvanha] (10%)
+Super Rod  | ![][130]  [Gyarados] (60%) ![][340]  [Whiscash] (30%) ![][319]  [Sharpedo] (10%)
 
 ### Great Marsh ~ Area 3/4
-Levels: 33 - 36 (Walking), 20 - 40 (Surfing)
+Levels: 33 - 36 (Walking) 20 - 40 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][046] ![][047] [Parasect] (30%) ![][102] [Exeggcute] (20%) ![][453] [Croagunk] (20%)<br> ![][454] [Toxicroak] (10%) ![][115] [Kangaskhan] (10%) ![][193] [Yanma] (10%)<br>
-Day        | ![][046] ![][047] [Parasect] (30%) ![][102] [Exeggcute] (20%) ![][453] [Croagunk] (20%)<br> ![][454] [Toxicroak] (10%) ![][115] [Kangaskhan] (10%) ![][193] [Yanma] (10%)<br>
-Night      | ![][046] ![][047] [Parasect] (30%) ![][102] [Exeggcute] (20%) ![][453] [Croagunk] (20%)<br> ![][454] [Toxicroak] (10%) ![][115] [Kangaskhan] (10%) ![][193] [Yanma] (10%)<br>
-Surf       | ![][194] [Wooper] (90%), ![][195] [Quagsire] (10%)
-Old Rod    | ![][129] [Magikarp] (60%), ![][339] [Barboach] (30%), ![][318] [Carvanha] (10%)
-Good Rod   | ![][129] [Magikarp] (60%), ![][339] [Barboach] (30%), ![][318] [Carvanha] (10%)
-Super Rod  | ![][130] [Gyarados] (60%), ![][340] [Whiscash] (30%), ![][319] [Sharpedo] (10%)
+Morning    | ![][046] ![][047]  [Parasect] (30%) ![][102]  [Exeggcute] (20%) ![][453]  [Croagunk] (20%)  ![][454]  [Toxicroak] (10%) ![][115]  [Kangaskhan] (10%) ![][193]  [Yanma] (10%)<br>
+Day        | ![][046] ![][047]  [Parasect] (30%) ![][102]  [Exeggcute] (20%) ![][453]  [Croagunk] (20%)  ![][454]  [Toxicroak] (10%) ![][115]  [Kangaskhan] (10%) ![][193]  [Yanma] (10%)<br>
+Night      | ![][046] ![][047]  [Parasect] (30%) ![][102]  [Exeggcute] (20%) ![][453]  [Croagunk] (20%)  ![][454]  [Toxicroak] (10%) ![][115]  [Kangaskhan] (10%) ![][193]  [Yanma] (10%)<br>
+Surf       | ![][194]  [Wooper] (90%) ![][195]  [Quagsire] (10%)
+Old Rod    | ![][129]  [Magikarp] (60%) ![][339]  [Barboach] (30%) ![][318]  [Carvanha] (10%)
+Good Rod   | ![][129]  [Magikarp] (60%) ![][339]  [Barboach] (30%) ![][318]  [Carvanha] (10%)
+Super Rod  | ![][130]  [Gyarados] (60%) ![][340]  [Whiscash] (30%) ![][319]  [Sharpedo] (10%)
 
 ### Great Marsh ~ Area 5/6
-Levels: 33 - 36 (Walking), 20 - 40 (Surfing)
+Levels: 33 - 36 (Walking) 20 - 40 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][451] [Skorupi] (30%) ![][316] [Gulpin] (20%) ![][285] [Shroomish] (20%)<br> ![][317] [Swalot] (10%) ![][286] [Breloom] (10%) ![][452] [Drapion] (10%)<br>
-Day        | ![][451] [Skorupi] (30%) ![][316] [Gulpin] (20%) ![][285] [Shroomish] (20%)<br> ![][317] [Swalot] (10%) ![][286] [Breloom] (10%) ![][452] [Drapion] (10%)<br>
-Night      | ![][451] [Skorupi] (30%) ![][316] [Gulpin] (20%) ![][285] [Shroomish] (20%)<br> ![][317] [Swalot] (10%) ![][286] [Breloom] (10%) ![][452] [Drapion] (10%)<br>
-Surf       | ![][194] [Wooper] (90%), ![][195] [Quagsire] (10%)
-Old Rod    | ![][129] [Magikarp] (60%), ![][339] [Barboach] (30%), ![][318] [Carvanha] (10%)
-Good Rod   | ![][129] [Magikarp] (60%), ![][339] [Barboach] (30%), ![][318] [Carvanha] (10%)
-Super Rod  | ![][130] [Gyarados] (60%), ![][340] [Whiscash] (30%), ![][319] [Sharpedo] (10%)
+Morning    | ![][451]  [Skorupi] (30%) ![][316]  [Gulpin] (20%) ![][285]  [Shroomish] (20%)  ![][317]  [Swalot] (10%) ![][286]  [Breloom] (10%) ![][452]  [Drapion] (10%)<br>
+Day        | ![][451]  [Skorupi] (30%) ![][316]  [Gulpin] (20%) ![][285]  [Shroomish] (20%)  ![][317]  [Swalot] (10%) ![][286]  [Breloom] (10%) ![][452]  [Drapion] (10%)<br>
+Night      | ![][451]  [Skorupi] (30%) ![][316]  [Gulpin] (20%) ![][285]  [Shroomish] (20%)  ![][317]  [Swalot] (10%) ![][286]  [Breloom] (10%) ![][452]  [Drapion] (10%)<br>
+Surf       | ![][194]  [Wooper] (90%) ![][195]  [Quagsire] (10%)
+Old Rod    | ![][129]  [Magikarp] (60%) ![][339]  [Barboach] (30%) ![][318]  [Carvanha] (10%)
+Good Rod   | ![][129]  [Magikarp] (60%) ![][339]  [Barboach] (30%) ![][318]  [Carvanha] (10%)
+Super Rod  | ![][130]  [Gyarados] (60%) ![][340]  [Whiscash] (30%) ![][319]  [Sharpedo] (10%)
 
 ### Route 212 ~ South
-Levels: 33 - 36 (Walking), 20 - 40 (Surfing), Honey Tree (34)
+Levels: 33 - 36 (Walking) 20 - 40 (Surfing) Honey Tree (34)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][453] [Croagunk] (20%) ![][088] [Grimer] (20%) ![][109] [Koffing] (15%)<br> ![][023] [Ekans] (15%) ![][070] [Weepinbell] (10%) ![][271] [Lombre] (10%)<br> ![][024] [Arbok] (5%) ![][454] [Toxicroak] (5%)
-Day        | ![][453] [Croagunk] (20%) ![][088] [Grimer] (20%) ![][109] [Koffing] (15%)<br> ![][023] [Ekans] (15%) ![][070] [Weepinbell] (10%) ![][271] [Lombre] (10%)<br> ![][024] [Arbok] (5%) ![][454] [Toxicroak] (5%)
-Night      | ![][453] [Croagunk] (20%) ![][088] [Grimer] (20%) ![][109] [Koffing] (15%)<br> ![][023] [Ekans] (15%) ![][070] [Weepinbell] (10%) ![][271] [Lombre] (10%)<br> ![][024] [Arbok] (5%) ![][454] [Toxicroak] (5%)
-Poké Radar | ![][089] [Muk] (11%), ![][110] [Weezing] (11%)
-Surf       | ![][422] [Shellos] (60%) ![][194] [Wooper] (30%) ![][423] [Gastrodon] (5%)<br> ![][195] [Quagsire] (5%)
-Old Rod    | ![][129] [Magikarp] (60%), ![][339] [Barboach] (30%), ![][223] [Remoraid] (10%)
-Good Rod   | ![][129] [Magikarp] (60%), ![][339] [Barboach] (30%), ![][223] [Remoraid] (10%)
-Super Rod  | ![][130] [Gyarados] (60%), ![][340] [Whiscash] (30%), ![][224] [Octillery] (10%)
-Honey Tree | ![][421] [Cherrim] (30%) ![][285] [Shroomish] (20%) ![][102] [Exeggcute] (20%)<br> ![][274] [Nuzleaf] (20%) ![][114] [Tangela] (10%)
+Morning    | ![][453]  [Croagunk] (20%) ![][088]  [Grimer] (20%) ![][109]  [Koffing] (15%)  ![][023]  [Ekans] (15%) ![][070]  [Weepinbell] (10%) ![][271]  [Lombre] (10%)  ![][024]  [Arbok] (5%) ![][454]  [Toxicroak] (5%)
+Day        | ![][453]  [Croagunk] (20%) ![][088]  [Grimer] (20%) ![][109]  [Koffing] (15%)  ![][023]  [Ekans] (15%) ![][070]  [Weepinbell] (10%) ![][271]  [Lombre] (10%)  ![][024]  [Arbok] (5%) ![][454]  [Toxicroak] (5%)
+Night      | ![][453]  [Croagunk] (20%) ![][088]  [Grimer] (20%) ![][109]  [Koffing] (15%)  ![][023]  [Ekans] (15%) ![][070]  [Weepinbell] (10%) ![][271]  [Lombre] (10%)  ![][024]  [Arbok] (5%) ![][454]  [Toxicroak] (5%)
+Poké Radar | ![][089]  [Muk] (11%) ![][110]  [Weezing] (11%)
+Surf       | ![][422]  [Shellos] (60%) ![][194]  [Wooper] (30%) ![][423]  [Gastrodon] (5%)  ![][195]  [Quagsire] (5%)
+Old Rod    | ![][129]  [Magikarp] (60%) ![][339]  [Barboach] (30%) ![][223]  [Remoraid] (10%)
+Good Rod   | ![][129]  [Magikarp] (60%) ![][339]  [Barboach] (30%) ![][223]  [Remoraid] (10%)
+Super Rod  | ![][130]  [Gyarados] (60%) ![][340]  [Whiscash] (30%) ![][224]  [Octillery] (10%)
+Honey Tree | ![][421]  [Cherrim] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Exeggcute] (20%)  ![][274]  [Nuzleaf] (20%) ![][114]  [Tangela] (10%)
 
 ### Route 210 ~ North
-Levels: 34 - 38 (Walking), 20 - 40 (Surfing), Honey Tree (37)
+Levels: 34 - 38 (Walking) 20 - 40 (Surfing) Honey Tree (37)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][333] [Swablu] (20%) ![][022] [Fearow] (20%) ![][067] [Machoke] (10%)<br> ![][426] [Drifblim] (10%) ![][335] [Zangoose] (10%) ![][336] [Seviper] (10%)<br> ![][227] [Skarmory] (10%) ![][372] [Shelgon] (10%)
-Day        | ![][333] [Swablu] (20%) ![][022] [Fearow] (20%) ![][067] [Machoke] (10%)<br> ![][426] [Drifblim] (10%) ![][335] [Zangoose] (10%) ![][336] [Seviper] (10%)<br> ![][227] [Skarmory] (10%) ![][372] [Shelgon] (10%)
-Night      | ![][333] [Swablu] (20%) ![][022] [Fearow] (20%) ![][067] [Machoke] (10%)<br> ![][426] [Drifblim] (10%) ![][335] [Zangoose] (10%) ![][336] [Seviper] (10%)<br> ![][227] [Skarmory] (10%) ![][372] [Shelgon] (10%)
-Poké Radar | ![][334] [Altaria] (22%)
-Surf       | ![][054] [Psyduck] (90%), ![][055] [Golduck] (10%)
-Old Rod    | ![][129] [Magikarp] (60%), ![][116] [Horsea] (30%), ![][147] [Dratini] (10%)
-Good Rod   | ![][129] [Magikarp] (60%), ![][116] [Horsea] (30%), ![][147] [Dratini] (10%)
-Super Rod  | ![][130] [Gyarados] (60%), ![][117] [Seadra] (30%), ![][148] [Dragonair] (10%)
-Honey Tree | ![][397] [Staravia] (30%) ![][017] [Pidgeotto] (20%) ![][164] [Noctowl] (20%)<br> ![][277] [Swellow] (20%) ![][083] [Farfetch'd] (10%)
+Morning    | ![][333]  [Swablu] (20%) ![][022]  [Fearow] (20%) ![][067]  [Machoke] (10%)  ![][426]  [Drifblim] (10%) ![][335]  [Zangoose] (10%) ![][336]  [Seviper] (10%)  ![][227]  [Skarmory] (10%) ![][372]  [Shelgon] (10%)
+Day        | ![][333]  [Swablu] (20%) ![][022]  [Fearow] (20%) ![][067]  [Machoke] (10%)  ![][426]  [Drifblim] (10%) ![][335]  [Zangoose] (10%) ![][336]  [Seviper] (10%)  ![][227]  [Skarmory] (10%) ![][372]  [Shelgon] (10%)
+Night      | ![][333]  [Swablu] (20%) ![][022]  [Fearow] (20%) ![][067]  [Machoke] (10%)  ![][426]  [Drifblim] (10%) ![][335]  [Zangoose] (10%) ![][336]  [Seviper] (10%)  ![][227]  [Skarmory] (10%) ![][372]  [Shelgon] (10%)
+Poké Radar | ![][334]  [Altaria] (22%)
+Surf       | ![][054]  [Psyduck] (90%) ![][055]  [Golduck] (10%)
+Old Rod    | ![][129]  [Magikarp] (60%) ![][116]  [Horsea] (30%) ![][147]  [Dratini] (10%)
+Good Rod   | ![][129]  [Magikarp] (60%) ![][116]  [Horsea] (30%) ![][147]  [Dratini] (10%)
+Super Rod  | ![][130]  [Gyarados] (60%) ![][117]  [Seadra] (30%) ![][148]  [Dragonair] (10%)
+Honey Tree | ![][397]  [Staravia] (30%) ![][017]  [Pidgeotto] (20%) ![][164]  [Noctowl] (20%)  ![][277]  [Swellow] (20%) ![][083]  [Farfetch'd] (10%)
 
 ### Celestic Town
 Levels: 20 - 40 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Surf       | ![][054] [Psyduck] (90%), ![][055] [Golduck] (10%)
-Old Rod    | ![][129] [Magikarp] (90%), ![][369] [Relicanth] (10%)
-Good Rod   | ![][129] [Magikarp] (90%), ![][369] [Relicanth] (10%)
-Super Rod  | ![][130] [Gyarados] (90%), ![][369] [Relicanth] (10%)
+Surf       | ![][054]  [Psyduck] (90%) ![][055]  [Golduck] (10%)
+Old Rod    | ![][129]  [Magikarp] (90%) ![][369]  [Relicanth] (10%)
+Good Rod   | ![][129]  [Magikarp] (90%) ![][369]  [Relicanth] (10%)
+Super Rod  | ![][130]  [Gyarados] (90%) ![][369]  [Relicanth] (10%)
 
 ### Route 219
 Wild Levels: 30 - 45 (Surf)
 
 Area       | Pokémon
 ---        | ---
-Surf       | ![][278] [Wingull] (60%) ![][072] [Tentacool] (30%) ![][279] [Pelipper] (5%)<br> ![][073] [Tentacruel] (5%)
-Old Rod    | ![][098] [Krabby] (60%), ![][116] [Horsea] (30%), ![][366] [Clamperl] (10%)
-Good Rod   | ![][098] [Krabby] (60%), ![][116] [Horsea] (30%), ![][366] [Clamperl] (10%)
-Super Rod  | ![][099] [Kingler] (60%) ![][116] [Horsea] (30%) ![][367] [Huntail] (5%)<br> ![][368] [Gorebyss] (5%)
+Surf       | ![][278]  [Wingull] (60%) ![][072]  [Tentacool] (30%) ![][279]  [Pelipper] (5%)  ![][073]  [Tentacruel] (5%)
+Old Rod    | ![][098]  [Krabby] (60%) ![][116]  [Horsea] (30%) ![][366]  [Clamperl] (10%)
+Good Rod   | ![][098]  [Krabby] (60%) ![][116]  [Horsea] (30%) ![][366]  [Clamperl] (10%)
+Super Rod  | ![][099]  [Kingler] (60%) ![][116]  [Horsea] (30%) ![][367]  [Huntail] (5%)  ![][368]  [Gorebyss] (5%)
 
 ### Route 220
 Wild Levels: 30 - 45 (Surf)
 
 Area       | Pokémon
 ---        | ---
-Surf       | ![][278] [Wingull] (60%) ![][458] [Mantyke] (30%) ![][279] [Pelipper] (5%)<br> ![][226] [Mantine] (5%)
-Old Rod    | ![][370] [Luvdisc] (60%), ![][116] [Horsea] (30%), ![][222] [Corsola] (10%)
-Good Rod   | ![][370] [Luvdisc] (60%), ![][116] [Horsea] (30%), ![][222] [Corsola] (10%)
-Super Rod  | ![][370] [Luvdisc] (60%), ![][117] [Seadra] (30%), ![][222] [Corsola] (10%)
+Surf       | ![][278]  [Wingull] (60%) ![][458]  [Mantyke] (30%) ![][279]  [Pelipper] (5%)  ![][226]  [Mantine] (5%)
+Old Rod    | ![][370]  [Luvdisc] (60%) ![][116]  [Horsea] (30%) ![][222]  [Corsola] (10%)
+Good Rod   | ![][370]  [Luvdisc] (60%) ![][116]  [Horsea] (30%) ![][222]  [Corsola] (10%)
+Super Rod  | ![][370]  [Luvdisc] (60%) ![][117]  [Seadra] (30%) ![][222]  [Corsola] (10%)
 
 ### Route 221
-Levels: 38 - 40 (Walking), 30 - 45 (Surf), 39 (Honey Tree)
+Levels: 38 - 40 (Walking) 30 - 45 (Surf) 39 (Honey Tree)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][185] [Sudowoodo] (20%) ![][435] [Skuntank] (20%) ![][030] [Nidorina] (15%)<br> ![][033] [Nidorino] (15%) ![][083] [Farfetch'd] (10%) ![][203] [Girafarig] (10%)<br> ![][085] [Dodrio] (10%)
-Day        | ![][185] [Sudowoodo] (20%) ![][435] [Skuntank] (20%) ![][030] [Nidorina] (15%)<br> ![][033] [Nidorino] (15%) ![][083] [Farfetch'd] (10%) ![][203] [Girafarig] (10%)<br> ![][085] [Dodrio] (10%)
-Night      | ![][185] [Sudowoodo] (20%) ![][435] [Skuntank] (20%) ![][030] [Nidorina] (15%)<br> ![][033] [Nidorino] (15%) ![][083] [Farfetch'd] (10%) ![][203] [Girafarig] (10%)<br> ![][085] [Dodrio] (10%)
+Morning    | ![][185]  [Sudowoodo] (20%) ![][435]  [Skuntank] (20%) ![][030]  [Nidorina] (15%)  ![][033]  [Nidorino] (15%) ![][083]  [Farfetch'd] (10%) ![][203]  [Girafarig] (10%)  ![][085]  [Dodrio] (10%)
+Day        | ![][185]  [Sudowoodo] (20%) ![][435]  [Skuntank] (20%) ![][030]  [Nidorina] (15%)  ![][033]  [Nidorino] (15%) ![][083]  [Farfetch'd] (10%) ![][203]  [Girafarig] (10%)  ![][085]  [Dodrio] (10%)
+Night      | ![][185]  [Sudowoodo] (20%) ![][435]  [Skuntank] (20%) ![][030]  [Nidorina] (15%)  ![][033]  [Nidorino] (15%) ![][083]  [Farfetch'd] (10%) ![][203]  [Girafarig] (10%)  ![][085]  [Dodrio] (10%)
 Poké Radar | -
-Surf       | ![][278] [Wingull] (60%) ![][072] [Tentacool] (30%) ![][279] [Pelipper] (5%)<br> ![][073] [Tentacruel] (5%)
-Old Rod    | ![][098] [Krabby] (60%), ![][116] [Horsea] (30%), ![][366] [Clamperl] (10%)
-Good Rod   | ![][098] [Krabby] (60%), ![][116] [Horsea] (30%), ![][366] [Clamperl] (10%)
-Super Rod  | ![][099] [Kingler] (60%) ![][116] [Horsea] (30%) ![][367] [Huntail] (5%)<br> ![][368] [Gorebyss] (5%)
-Honey Tree | ![][421] [Cherrim] (30%) ![][285] [Shroomish] (20%) ![][102] [Exeggcute] (20%)<br> ![][274] [Nuzleaf] (20%) ![][114] [Tangela] (10%)
+Surf       | ![][278]  [Wingull] (60%) ![][072]  [Tentacool] (30%) ![][279]  [Pelipper] (5%)  ![][073]  [Tentacruel] (5%)
+Old Rod    | ![][098]  [Krabby] (60%) ![][116]  [Horsea] (30%) ![][366]  [Clamperl] (10%)
+Good Rod   | ![][098]  [Krabby] (60%) ![][116]  [Horsea] (30%) ![][366]  [Clamperl] (10%)
+Super Rod  | ![][099]  [Kingler] (60%) ![][116]  [Horsea] (30%) ![][367]  [Huntail] (5%)  ![][368]  [Gorebyss] (5%)
+Honey Tree | ![][421]  [Cherrim] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Exeggcute] (20%)  ![][274]  [Nuzleaf] (20%) ![][114]  [Tangela] (10%)
 
 ### Fuego Ironworks
-Levels: 36 - 40 (Walking), 30 - 45 (Surf), 40 (Honey Tree)
+Levels: 36 - 40 (Walking) 30 - 45 (Surf) 40 (Honey Tree)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][081] [Magnemite] (30%) ![][126] [Magmar] (20%) ![][082] [Magneton] (20%)<br> ![][310] [Manectric] (15%) ![][205] [Forretress] (15%)
-Day        | ![][081] [Magnemite] (30%) ![][126] [Magmar] (20%) ![][082] [Magneton] (20%)<br> ![][310] [Manectric] (15%) ![][205] [Forretress] (15%)
-Night      | ![][081] [Magnemite] (30%) ![][126] [Magmar] (20%) ![][082] [Magneton] (20%)<br> ![][310] [Manectric] (15%) ![][205] [Forretress] (15%)
-Poké Radar | ![][110] [Weezing] (22%)
-Surf       | ![][422] [Shellos] (60%) ![][072] [Tentacool] (30%) ![][423] [Gastrodon] (5%)<br> ![][073] [Tentacruel] (5%)
-Old Rod    | ![][129] [Magikarp] (100%)
-Good Rod   | ![][129] [Magikarp] (65%), ![][456] [Finneon] (35%)
-Super Rod  | ![][130] [Gyarados] (60%), ![][457] [Lumineon] (35%), ![][090] [Shellder] (5%)
-Honey Tree | ![][415] [Combee] (30%) ![][205] [Forretress] (10%) ![][413] [Wormadam] (10%)<br> ![][414] [Mothim] (10%) ![][267] [Beautifly] (10%) ![][269] [Dustox] (10%)<br> ![][214] [Heracross] (10%) ![][416] [Vespiquen] (10%)
+Morning    | ![][081]  [Magnemite] (30%) ![][126]  [Magmar] (20%) ![][082]  [Magneton] (20%)  ![][310]  [Manectric] (15%) ![][205]  [Forretress] (15%)
+Day        | ![][081]  [Magnemite] (30%) ![][126]  [Magmar] (20%) ![][082]  [Magneton] (20%)  ![][310]  [Manectric] (15%) ![][205]  [Forretress] (15%)
+Night      | ![][081]  [Magnemite] (30%) ![][126]  [Magmar] (20%) ![][082]  [Magneton] (20%)  ![][310]  [Manectric] (15%) ![][205]  [Forretress] (15%)
+Poké Radar | ![][110]  [Weezing] (22%)
+Surf       | ![][422]  [Shellos] (60%) ![][072]  [Tentacool] (30%) ![][423]  [Gastrodon] (5%)  ![][073]  [Tentacruel] (5%)
+Old Rod    | ![][129]  [Magikarp] (100%)
+Good Rod   | ![][129]  [Magikarp] (65%) ![][456]  [Finneon] (35%)
+Super Rod  | ![][130]  [Gyarados] (60%) ![][457]  [Lumineon] (35%) ![][090]  [Shellder] (5%)
+Honey Tree | ![][415]  [Combee] (30%) ![][205]  [Forretress] (10%) ![][413]  [Wormadam] (10%)  ![][414]  [Mothim] (10%) ![][267]  [Beautifly] (10%) ![][269]  [Dustox] (10%)  ![][214]  [Heracross] (10%) ![][416]  [Vespiquen] (10%)
 
 ### Route 218
-Levels: 38 - 39 (Walking), 20 - 45 (Surfing), 39 (Honey Tree)
+Levels: 38 - 39 (Walking) 20 - 45 (Surfing) 39 (Honey Tree)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][419] [Floatzel] (20%) ![][423] [Gastrodon] (20%) ![][432] [Purugly] (10%)<br> ![][122] [Mr. Mime] (10%) ![][101] [Electrode] (10%) ![][132] [Ditto] (10%)<br> ![][125] [Electabuzz] (10%) ![][441] [Chatot] (10%)
-Day        | ![][419] [Floatzel] (20%) ![][423] [Gastrodon] (20%) ![][432] [Purugly] (10%)<br> ![][122] [Mr. Mime] (10%) ![][101] [Electrode] (10%) ![][132] [Ditto] (10%)<br> ![][125] [Electabuzz] (10%) ![][441] [Chatot] (10%)
-Night      | ![][419] [Floatzel] (20%) ![][423] [Gastrodon] (20%) ![][432] [Purugly] (20%)<br> ![][122] [Mr. Mime] (10%) ![][101] [Electrode] (10%) ![][132] [Ditto] (10%)<br> ![][125] [Electabuzz] (10%)
-Surf       | ![][072] [Tentacool] (60%) ![][422] [Shellos] (30%) ![][073] [Tentacruel] (5%)<br> ![][423] [Gastrodon] (5%)
-Old Rod    | ![][129] [Magikarp] (60%), ![][456] [Finneon] (30%), ![][120] [Staryu] (10%)
-Good Rod   | ![][129] [Magikarp] (60%), ![][456] [Finneon] (30%), ![][120] [Staryu] (10%)
-Super Rod  | ![][130] [Gyarados] (60%), ![][457] [Lumineon] (30%), ![][121] [Starmie] (10%)
-Honey Tree | ![][415] [Combee] (30%) ![][205] [Forretress] (10%) ![][413] [Wormadam] (10%)<br> ![][414] [Mothim] (10%) ![][267] [Beautifly] (10%) ![][269] [Dustox] (10%)<br> ![][214] [Heracross] (10%) ![][416] [Vespiquen] (10%)
+Morning    | ![][419]  [Floatzel] (20%) ![][423]  [Gastrodon] (20%) ![][432]  [Purugly] (10%)  ![][122]  [Mr. Mime] (10%) ![][101]  [Electrode] (10%) ![][132]  [Ditto] (10%)  ![][125]  [Electabuzz] (10%) ![][441]  [Chatot] (10%)
+Day        | ![][419]  [Floatzel] (20%) ![][423]  [Gastrodon] (20%) ![][432]  [Purugly] (10%)  ![][122]  [Mr. Mime] (10%) ![][101]  [Electrode] (10%) ![][132]  [Ditto] (10%)  ![][125]  [Electabuzz] (10%) ![][441]  [Chatot] (10%)
+Night      | ![][419]  [Floatzel] (20%) ![][423]  [Gastrodon] (20%) ![][432]  [Purugly] (20%)  ![][122]  [Mr. Mime] (10%) ![][101]  [Electrode] (10%) ![][132]  [Ditto] (10%)  ![][125]  [Electabuzz] (10%)
+Surf       | ![][072]  [Tentacool] (60%) ![][422]  [Shellos] (30%) ![][073]  [Tentacruel] (5%)  ![][423]  [Gastrodon] (5%)
+Old Rod    | ![][129]  [Magikarp] (60%) ![][456]  [Finneon] (30%) ![][120]  [Staryu] (10%)
+Good Rod   | ![][129]  [Magikarp] (60%) ![][456]  [Finneon] (30%) ![][120]  [Staryu] (10%)
+Super Rod  | ![][130]  [Gyarados] (60%) ![][457]  [Lumineon] (30%) ![][121]  [Starmie] (10%)
+Honey Tree | ![][415]  [Combee] (30%) ![][205]  [Forretress] (10%) ![][413]  [Wormadam] (10%)  ![][414]  [Mothim] (10%) ![][267]  [Beautifly] (10%) ![][269]  [Dustox] (10%)  ![][214]  [Heracross] (10%) ![][416]  [Vespiquen] (10%)
 
 ### Canalave City
 Levels: 30 - 45 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Surf       | ![][072] [Tentacool] (60%) ![][422] [Shellos] (30%) ![][073] [Tentacruel] (5%)<br> ![][423] [Gastrodon] (5%)
-Old Rod    | ![][129] [Magikarp] (60%), ![][456] [Finneon] (30%), ![][120] [Staryu] (10%)
-Good Rod   | ![][129] [Magikarp] (60%), ![][456] [Finneon] (30%), ![][120] [Staryu] (10%)
-Super Rod  | ![][130] [Gyarados] (60%), ![][457] [Lumineon] (30%), ![][121] [Starmie] (10%)
+Surf       | ![][072]  [Tentacool] (60%) ![][422]  [Shellos] (30%) ![][073]  [Tentacruel] (5%)  ![][423]  [Gastrodon] (5%)
+Old Rod    | ![][129]  [Magikarp] (60%) ![][456]  [Finneon] (30%) ![][120]  [Staryu] (10%)
+Good Rod   | ![][129]  [Magikarp] (60%) ![][456]  [Finneon] (30%) ![][120]  [Staryu] (10%)
+Super Rod  | ![][130]  [Gyarados] (60%) ![][457]  [Lumineon] (30%) ![][121]  [Starmie] (10%)
 
 ### Iron Island ~ Outside
 Levels: 30 - 45 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Surf       | ![][278] [Wingull] (60%) ![][072] [Tentacool] (30%) ![][279] [Pelipper] (5%)<br> ![][073] [Tentacruel] (5%)
-Old Rod    | ![][129] [Magikarp] (60%), ![][456] [Finneon] (30%), ![][211] [Qwilfish] (10%)
-Good Rod   | ![][129] [Magikarp] (60%), ![][456] [Finneon] (30%), ![][211] [Qwilfish] (10%)
-Super Rod  | ![][130] [Gyarados] (60%), ![][457] [Lumineon] (30%), ![][211] [Qwilfish] (10%)
+Surf       | ![][278]  [Wingull] (60%) ![][072]  [Tentacool] (30%) ![][279]  [Pelipper] (5%)  ![][073]  [Tentacruel] (5%)
+Old Rod    | ![][129]  [Magikarp] (60%) ![][456]  [Finneon] (30%) ![][211]  [Qwilfish] (10%)
+Good Rod   | ![][129]  [Magikarp] (60%) ![][456]  [Finneon] (30%) ![][211]  [Qwilfish] (10%)
+Super Rod  | ![][130]  [Gyarados] (60%) ![][457]  [Lumineon] (30%) ![][211]  [Qwilfish] (10%)
 
 ### Iron Island ~ Inside ~ 1F, B1F
 Levels: 41 - 43
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][075] [Graveler] (25%) ![][042] [Golbat] (20%) ![][305] [Lairon] (15%)<br> ![][303] [Mawile] (10%) ![][302] [Sableye] (10%) ![][299] [Nosepass] (10%)<br> ![][112] [Rhydon] (5%) ![][208] [Steelix] (5%)
-Day        | ![][075] [Graveler] (25%) ![][042] [Golbat] (20%) ![][305] [Lairon] (15%)<br> ![][303] [Mawile] (10%) ![][302] [Sableye] (10%) ![][299] [Nosepass] (10%)<br> ![][112] [Rhydon] (5%) ![][208] [Steelix] (5%)
-Night      | ![][075] [Graveler] (25%) ![][042] [Golbat] (20%) ![][305] [Lairon] (15%)<br> ![][303] [Mawile] (10%) ![][302] [Sableye] (10%) ![][299] [Nosepass] (10%)<br> ![][112] [Rhydon] (5%) ![][208] [Steelix] (5%)
+Morning    | ![][075]  [Graveler] (25%) ![][042]  [Golbat] (20%) ![][305]  [Lairon] (15%)  ![][303]  [Mawile] (10%) ![][302]  [Sableye] (10%) ![][299]  [Nosepass] (10%)  ![][112]  [Rhydon] (5%) ![][208]  [Steelix] (5%)
+Day        | ![][075]  [Graveler] (25%) ![][042]  [Golbat] (20%) ![][305]  [Lairon] (15%)  ![][303]  [Mawile] (10%) ![][302]  [Sableye] (10%) ![][299]  [Nosepass] (10%)  ![][112]  [Rhydon] (5%) ![][208]  [Steelix] (5%)
+Night      | ![][075]  [Graveler] (25%) ![][042]  [Golbat] (20%) ![][305]  [Lairon] (15%)  ![][303]  [Mawile] (10%) ![][302]  [Sableye] (10%) ![][299]  [Nosepass] (10%)  ![][112]  [Rhydon] (5%) ![][208]  [Steelix] (5%)
 
 ### Iron Island ~ Inside ~ B2F, B3F
 Levels: 43 - 45
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][075] [Graveler] (25%) ![][042] [Golbat] (20%) ![][305] [Lairon] (15%)<br> ![][303] [Mawile] (10%) ![][302] [Sableye] (10%) ![][299] [Nosepass] (10%)<br> ![][112] [Rhydon] (5%) ![][208] [Steelix] (5%)
-Day        | ![][075] [Graveler] (25%) ![][042] [Golbat] (20%) ![][305] [Lairon] (15%)<br> ![][303] [Mawile] (10%) ![][302] [Sableye] (10%) ![][299] [Nosepass] (10%)<br> ![][112] [Rhydon] (5%) ![][208] [Steelix] (5%)
-Night      | ![][075] [Graveler] (25%) ![][042] [Golbat] (20%) ![][305] [Lairon] (15%)<br> ![][303] [Mawile] (10%) ![][302] [Sableye] (10%) ![][299] [Nosepass] (10%)<br> ![][112] [Rhydon] (5%) ![][208] [Steelix] (5%)
+Morning    | ![][075]  [Graveler] (25%) ![][042]  [Golbat] (20%) ![][305]  [Lairon] (15%)  ![][303]  [Mawile] (10%) ![][302]  [Sableye] (10%) ![][299]  [Nosepass] (10%)  ![][112]  [Rhydon] (5%) ![][208]  [Steelix] (5%)
+Day        | ![][075]  [Graveler] (25%) ![][042]  [Golbat] (20%) ![][305]  [Lairon] (15%)  ![][303]  [Mawile] (10%) ![][302]  [Sableye] (10%) ![][299]  [Nosepass] (10%)  ![][112]  [Rhydon] (5%) ![][208]  [Steelix] (5%)
+Night      | ![][075]  [Graveler] (25%) ![][042]  [Golbat] (20%) ![][305]  [Lairon] (15%)  ![][303]  [Mawile] (10%) ![][302]  [Sableye] (10%) ![][299]  [Nosepass] (10%)  ![][112]  [Rhydon] (5%) ![][208]  [Steelix] (5%)
 
 ### Route 217
 Levels: 44 - 48
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][221] [Piloswine] (30%) ![][361] [Snorunt] (20%) ![][215] [Sneasel] (10%)<br> ![][124] [Jynx] (10%) ![][460] [Abomasnow] (10%) ![][362] [Glalie] (10%)<br> ![][225] [Delibird] (10%)
-Day        | ![][221] [Piloswine] (30%) ![][361] [Snorunt] (20%) ![][215] [Sneasel] (10%)<br> ![][124] [Jynx] (10%) ![][460] [Abomasnow] (10%) ![][362] [Glalie] (10%)<br> ![][225] [Delibird] (10%)
-Night      | ![][221] [Piloswine] (30%) ![][361] [Snorunt] (20%) ![][215] [Sneasel] (10%)<br> ![][124] [Jynx] (10%) ![][460] [Abomasnow] (10%) ![][362] [Glalie] (10%)<br> ![][225] [Delibird] (10%)
-Poké Radar | ![][478] [Froslass] (22%)
+Morning    | ![][221]  [Piloswine] (30%) ![][361]  [Snorunt] (20%) ![][215]  [Sneasel] (10%)  ![][124]  [Jynx] (10%) ![][460]  [Abomasnow] (10%) ![][362]  [Glalie] (10%)  ![][225]  [Delibird] (10%)
+Day        | ![][221]  [Piloswine] (30%) ![][361]  [Snorunt] (20%) ![][215]  [Sneasel] (10%)  ![][124]  [Jynx] (10%) ![][460]  [Abomasnow] (10%) ![][362]  [Glalie] (10%)  ![][225]  [Delibird] (10%)
+Night      | ![][221]  [Piloswine] (30%) ![][361]  [Snorunt] (20%) ![][215]  [Sneasel] (10%)  ![][124]  [Jynx] (10%) ![][460]  [Abomasnow] (10%) ![][362]  [Glalie] (10%)  ![][225]  [Delibird] (10%)
+Poké Radar | ![][478]  [Froslass] (22%)
 
 ### Acuity Lakefront
 Levels: 45 - 49
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][221] [Piloswine] (30%) ![][361] [Snorunt] (20%) ![][215] [Sneasel] (10%)<br> ![][124] [Jynx] (10%) ![][460] [Abomasnow] (10%) ![][362] [Glalie] (10%)<br> ![][225] [Delibird] (10%)
-Day        | ![][221] [Piloswine] (30%) ![][361] [Snorunt] (20%) ![][215] [Sneasel] (10%)<br> ![][124] [Jynx] (10%) ![][460] [Abomasnow] (10%) ![][362] [Glalie] (10%)<br> ![][225] [Delibird] (10%)
-Night      | ![][221] [Piloswine] (30%) ![][361] [Snorunt] (20%) ![][215] [Sneasel] (10%)<br> ![][124] [Jynx] (10%) ![][460] [Abomasnow] (10%) ![][362] [Glalie] (10%)<br> ![][225] [Delibird] (10%)
-Poké Radar | ![][478] [Froslass] (22%)
+Morning    | ![][221]  [Piloswine] (30%) ![][361]  [Snorunt] (20%) ![][215]  [Sneasel] (10%)  ![][124]  [Jynx] (10%) ![][460]  [Abomasnow] (10%) ![][362]  [Glalie] (10%)  ![][225]  [Delibird] (10%)
+Day        | ![][221]  [Piloswine] (30%) ![][361]  [Snorunt] (20%) ![][215]  [Sneasel] (10%)  ![][124]  [Jynx] (10%) ![][460]  [Abomasnow] (10%) ![][362]  [Glalie] (10%)  ![][225]  [Delibird] (10%)
+Night      | ![][221]  [Piloswine] (30%) ![][361]  [Snorunt] (20%) ![][215]  [Sneasel] (10%)  ![][124]  [Jynx] (10%) ![][460]  [Abomasnow] (10%) ![][362]  [Glalie] (10%)  ![][225]  [Delibird] (10%)
+Poké Radar | ![][478]  [Froslass] (22%)
 
 ### Snowpoint Temple
 Levels: 47 - 50
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][042] [Golbat] (25%) ![][075] [Graveler] (20%) ![][215] [Sneasel] (20%)<br> ![][208] [Steelix] (10%) ![][124] [Jynx] (10%) ![][362] [Glalie] (5%)<br> ![][478] [Froslass] (5%) ![][461] [Weavile] (5%)
-Day        | ![][042] [Golbat] (25%) ![][075] [Graveler] (20%) ![][215] [Sneasel] (20%)<br> ![][208] [Steelix] (10%) ![][124] [Jynx] (10%) ![][362] [Glalie] (5%)<br> ![][478] [Froslass] (5%) ![][461] [Weavile] (5%)
-Night      | ![][042] [Golbat] (25%) ![][075] [Graveler] (20%) ![][215] [Sneasel] (20%)<br> ![][208] [Steelix] (10%) ![][124] [Jynx] (10%) ![][362] [Glalie] (5%)<br> ![][478] [Froslass] (5%) ![][461] [Weavile] (5%)
+Morning    | ![][042]  [Golbat] (25%) ![][075]  [Graveler] (20%) ![][215]  [Sneasel] (20%)  ![][208]  [Steelix] (10%) ![][124]  [Jynx] (10%) ![][362]  [Glalie] (5%)  ![][478]  [Froslass] (5%) ![][461]  [Weavile] (5%)
+Day        | ![][042]  [Golbat] (25%) ![][075]  [Graveler] (20%) ![][215]  [Sneasel] (20%)  ![][208]  [Steelix] (10%) ![][124]  [Jynx] (10%) ![][362]  [Glalie] (5%)  ![][478]  [Froslass] (5%) ![][461]  [Weavile] (5%)
+Night      | ![][042]  [Golbat] (25%) ![][075]  [Graveler] (20%) ![][215]  [Sneasel] (20%)  ![][208]  [Steelix] (10%) ![][124]  [Jynx] (10%) ![][362]  [Glalie] (5%)  ![][478]  [Froslass] (5%) ![][461]  [Weavile] (5%)
 
 ### Lake Acuity
-Levels: 49 - 51 (Walking), 45 - 50 (Surfing)
+Levels: 49 - 51 (Walking) 45 - 50 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][215] [Sneasel] (30%) ![][460] [Abomasnow] (25%) ![][221] [Piloswine] (20%)<br> ![][124] [Jynx] (15%) ![][362] [Glalie] (10%)
-Day        | ![][215] [Sneasel] (30%) ![][460] [Abomasnow] (25%) ![][221] [Piloswine] (20%)<br> ![][124] [Jynx] (15%) ![][362] [Glalie] (10%)
-Night      | ![][215] [Sneasel] (30%) ![][460] [Abomasnow] (25%) ![][221] [Piloswine] (20%)<br> ![][124] [Jynx] (15%) ![][362] [Glalie] (10%)
-Poké Radar | ![][202] [Wobbuffet] (22%)
-Surf       | ![][364] [Sealeo] (60%), ![][087] [Dewgong] (35%), ![][131] [Lapras] (5%)
-Old Rod    | ![][129] [Magikarp] (100%)
-Good Rod   | ![][129] [Magikarp] (100%)
-Super Rod  | ![][130] [Gyarados] (100%)
+Morning    | ![][215]  [Sneasel] (30%) ![][460]  [Abomasnow] (25%) ![][221]  [Piloswine] (20%)  ![][124]  [Jynx] (15%) ![][362]  [Glalie] (10%)
+Day        | ![][215]  [Sneasel] (30%) ![][460]  [Abomasnow] (25%) ![][221]  [Piloswine] (20%)  ![][124]  [Jynx] (15%) ![][362]  [Glalie] (10%)
+Night      | ![][215]  [Sneasel] (30%) ![][460]  [Abomasnow] (25%) ![][221]  [Piloswine] (20%)  ![][124]  [Jynx] (15%) ![][362]  [Glalie] (10%)
+Poké Radar | ![][202]  [Wobbuffet] (22%)
+Surf       | ![][364]  [Sealeo] (60%) ![][087]  [Dewgong] (35%) ![][131]  [Lapras] (5%)
+Old Rod    | ![][129]  [Magikarp] (100%)
+Good Rod   | ![][129]  [Magikarp] (100%)
+Super Rod  | ![][130]  [Gyarados] (100%)
 
 ### Mt. Coronet ~ 2F
 Levels: 49 - 51 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][075] [Graveler] (20%) ![][437] [Bronzong] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][042] [Golbat] (10%)<br> ![][375] [Metang] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
-Day        | ![][075] [Graveler] (20%) ![][437] [Bronzong] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][042] [Golbat] (10%)<br> ![][375] [Metang] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
-Night      | ![][075] [Graveler] (20%) ![][437] [Bronzong] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][042] [Golbat] (10%)<br> ![][375] [Metang] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
+Morning    | ![][075]  [Graveler] (20%) ![][437]  [Bronzong] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][042]  [Golbat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Day        | ![][075]  [Graveler] (20%) ![][437]  [Bronzong] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][042]  [Golbat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Night      | ![][075]  [Graveler] (20%) ![][437]  [Bronzong] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][042]  [Golbat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
 
 ### Mt. Coronet ~ 3F
 Levels: 49 - 51 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][075] [Graveler] (20%) ![][437] [Bronzong] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][042] [Golbat] (10%)<br> ![][375] [Metang] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
-Day        | ![][075] [Graveler] (20%) ![][437] [Bronzong] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][042] [Golbat] (10%)<br> ![][375] [Metang] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
-Night      | ![][075] [Graveler] (20%) ![][437] [Bronzong] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][042] [Golbat] (10%)<br> ![][375] [Metang] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
+Morning    | ![][075]  [Graveler] (20%) ![][437]  [Bronzong] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][042]  [Golbat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Day        | ![][075]  [Graveler] (20%) ![][437]  [Bronzong] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][042]  [Golbat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Night      | ![][075]  [Graveler] (20%) ![][437]  [Bronzong] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][042]  [Golbat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
 
 ### Mt. Coronet ~ Snow Area
 Levels: 50 - 52
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][460] [Abomasnow] (30%) ![][308] [Medicham] (20%) ![][294] [Loudred] (20%)<br> ![][359] [Absol] (10%) ![][232] [Donphan] (10%) ![][217] [Ursaring] (10%)<br>
-Day        | ![][460] [Abomasnow] (30%) ![][308] [Medicham] (20%) ![][294] [Loudred] (20%)<br> ![][359] [Absol] (10%) ![][232] [Donphan] (10%) ![][217] [Ursaring] (10%)<br>
-Night      | ![][460] [Abomasnow] (30%) ![][308] [Medicham] (20%) ![][294] [Loudred] (20%)<br> ![][359] [Absol] (10%) ![][232] [Donphan] (10%) ![][217] [Ursaring] (10%)<br>
-Poké Radar | ![][036] [Clefable] (22%)
+Morning    | ![][460]  [Abomasnow] (30%) ![][308]  [Medicham] (20%) ![][294]  [Loudred] (20%)  ![][359]  [Absol] (10%) ![][232]  [Donphan] (10%) ![][217]  [Ursaring] (10%)<br>
+Day        | ![][460]  [Abomasnow] (30%) ![][308]  [Medicham] (20%) ![][294]  [Loudred] (20%)  ![][359]  [Absol] (10%) ![][232]  [Donphan] (10%) ![][217]  [Ursaring] (10%)<br>
+Night      | ![][460]  [Abomasnow] (30%) ![][308]  [Medicham] (20%) ![][294]  [Loudred] (20%)  ![][359]  [Absol] (10%) ![][232]  [Donphan] (10%) ![][217]  [Ursaring] (10%)<br>
+Poké Radar | ![][036]  [Clefable] (22%)
 
 ### Mt. Coronet ~ 4F
-Levels: 50 - 52 (Walking), 35 - 55 (Surfing)
+Levels: 50 - 52 (Walking) 35 - 55 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][075] [Graveler] (20%) ![][437] [Bronzong] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][042] [Golbat] (10%)<br> ![][375] [Metang] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
-Day        | ![][075] [Graveler] (20%) ![][437] [Bronzong] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][042] [Golbat] (10%)<br> ![][375] [Metang] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
-Night      | ![][075] [Graveler] (20%) ![][437] [Bronzong] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][042] [Golbat] (10%)<br> ![][375] [Metang] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
-Surf       | ![][041] [Zubat] (90%), ![][042] [Golbat] (10%)
-Old Rod    | ![][129] [Magikarp] (60%), ![][116] [Horsea] (30%), ![][147] [Dratini] (10%)
-Good Rod   | ![][129] [Magikarp] (60%), ![][116] [Horsea] (30%), ![][147] [Dratini] (10%)
-Super Rod  | ![][130] [Gyarados] (60%), ![][117] [Seadra] (30%), ![][148] [Dragonair] (10%)
+Morning    | ![][075]  [Graveler] (20%) ![][437]  [Bronzong] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][042]  [Golbat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Day        | ![][075]  [Graveler] (20%) ![][437]  [Bronzong] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][042]  [Golbat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Night      | ![][075]  [Graveler] (20%) ![][437]  [Bronzong] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][042]  [Golbat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Surf       | ![][041]  [Zubat] (90%) ![][042]  [Golbat] (10%)
+Old Rod    | ![][129]  [Magikarp] (60%) ![][116]  [Horsea] (30%) ![][147]  [Dratini] (10%)
+Good Rod   | ![][129]  [Magikarp] (60%) ![][116]  [Horsea] (30%) ![][147]  [Dratini] (10%)
+Super Rod  | ![][130]  [Gyarados] (60%) ![][117]  [Seadra] (30%) ![][148]  [Dragonair] (10%)
 
 ### Mt. Coronet ~ Summit
 Levels: 51 - 53 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][460] [Abomasnow] (30%) ![][308] [Medicham] (20%) ![][294] [Loudred] (20%)<br> ![][359] [Absol] (10%) ![][232] [Donphan] (10%) ![][217] [Ursaring] (10%)<br>
-Day        | ![][460] [Abomasnow] (30%) ![][308] [Medicham] (20%) ![][294] [Loudred] (20%)<br> ![][359] [Absol] (10%) ![][232] [Donphan] (10%) ![][217] [Ursaring] (10%)<br>
-Night      | ![][460] [Abomasnow] (30%) ![][308] [Medicham] (20%) ![][294] [Loudred] (20%)<br> ![][359] [Absol] (10%) ![][232] [Donphan] (10%) ![][217] [Ursaring] (10%)<br>
-Poké Radar | ![][036] [Clefable] (22%)
+Morning    | ![][460]  [Abomasnow] (30%) ![][308]  [Medicham] (20%) ![][294]  [Loudred] (20%)  ![][359]  [Absol] (10%) ![][232]  [Donphan] (10%) ![][217]  [Ursaring] (10%)<br>
+Day        | ![][460]  [Abomasnow] (30%) ![][308]  [Medicham] (20%) ![][294]  [Loudred] (20%)  ![][359]  [Absol] (10%) ![][232]  [Donphan] (10%) ![][217]  [Ursaring] (10%)<br>
+Night      | ![][460]  [Abomasnow] (30%) ![][308]  [Medicham] (20%) ![][294]  [Loudred] (20%)  ![][359]  [Absol] (10%) ![][232]  [Donphan] (10%) ![][217]  [Ursaring] (10%)<br>
+Poké Radar | ![][036]  [Clefable] (22%)
 
 ### Mt. Coronet ~ 5F
 Levels: 51 - 53 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][075] [Graveler] (20%) ![][437] [Bronzong] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][042] [Golbat] (10%)<br> ![][375] [Metang] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
-Day        | ![][075] [Graveler] (20%) ![][437] [Bronzong] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][042] [Golbat] (10%)<br> ![][375] [Metang] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
-Night      | ![][075] [Graveler] (20%) ![][437] [Bronzong] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][042] [Golbat] (10%)<br> ![][375] [Metang] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
+Morning    | ![][075]  [Graveler] (20%) ![][437]  [Bronzong] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][042]  [Golbat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Day        | ![][075]  [Graveler] (20%) ![][437]  [Bronzong] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][042]  [Golbat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Night      | ![][075]  [Graveler] (20%) ![][437]  [Bronzong] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][042]  [Golbat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
 
 ### Mt. Coronet ~ 6F
 Levels: 51 - 53 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][075] [Graveler] (20%) ![][437] [Bronzong] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][042] [Golbat] (10%)<br> ![][375] [Metang] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
-Day        | ![][075] [Graveler] (20%) ![][437] [Bronzong] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][042] [Golbat] (10%)<br> ![][375] [Metang] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
-Night      | ![][075] [Graveler] (20%) ![][437] [Bronzong] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][042] [Golbat] (10%)<br> ![][375] [Metang] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
+Morning    | ![][075]  [Graveler] (20%) ![][437]  [Bronzong] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][042]  [Golbat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Day        | ![][075]  [Graveler] (20%) ![][437]  [Bronzong] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][042]  [Golbat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Night      | ![][075]  [Graveler] (20%) ![][437]  [Bronzong] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][042]  [Golbat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
 
 ### Mt. Coronet ~ 7F
 Levels: 51 - 53 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][075] [Graveler] (20%) ![][437] [Bronzong] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][042] [Golbat] (10%)<br> ![][375] [Metang] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
-Day        | ![][075] [Graveler] (20%) ![][437] [Bronzong] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][042] [Golbat] (10%)<br> ![][375] [Metang] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
-Night      | ![][075] [Graveler] (20%) ![][437] [Bronzong] (20%) ![][035] [Clefairy] (10%)<br> ![][299] [Nosepass] (10%) ![][358] [Chimecho] (10%) ![][042] [Golbat] (10%)<br> ![][375] [Metang] (10%) ![][338] [Solrock] (5%) ![][337] [Lunatone] (5%)<br>
+Morning    | ![][075]  [Graveler] (20%) ![][437]  [Bronzong] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][042]  [Golbat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Day        | ![][075]  [Graveler] (20%) ![][437]  [Bronzong] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][042]  [Golbat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Night      | ![][075]  [Graveler] (20%) ![][437]  [Bronzong] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][042]  [Golbat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
 
 ### Sendoff Spring
-Levels: 53 - 54 (Walking), 45 - 55 (Surfing)
+Levels: 53 - 54 (Walking) 45 - 55 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][397] [Staravia] (30%) ![][400] [Bibarel] (20%) ![][358] [Chimecho] (20%)<br> ![][338] [Solrock] (10%) ![][337] [Lunatone] (10%) ![][356] [Dusclops] (10%)<br>
-Day        | ![][397] [Staravia] (30%) ![][400] [Bibarel] (20%) ![][358] [Chimecho] (20%)<br> ![][338] [Solrock] (10%) ![][337] [Lunatone] (10%) ![][356] [Dusclops] (10%)<br>
-Night      | ![][397] [Staravia] (30%) ![][400] [Bibarel] (20%) ![][358] [Chimecho] (20%)<br> ![][338] [Solrock] (10%) ![][337] [Lunatone] (10%) ![][356] [Dusclops] (10%)<br>
-Poké Radar | ![][202] [Wobbuffet] (22%)
-Surf       | ![][055] [Golduck] (100%)
-Old Rod    | ![][129] [Magikarp] (100%)
-Good Rod   | ![][129] [Magikarp] (100%)
-Super Rod  | ![][130] [Gyarados] (100%)
+Morning    | ![][397]  [Staravia] (30%) ![][400]  [Bibarel] (20%) ![][358]  [Chimecho] (20%)  ![][338]  [Solrock] (10%) ![][337]  [Lunatone] (10%) ![][356]  [Dusclops] (10%)<br>
+Day        | ![][397]  [Staravia] (30%) ![][400]  [Bibarel] (20%) ![][358]  [Chimecho] (20%)  ![][338]  [Solrock] (10%) ![][337]  [Lunatone] (10%) ![][356]  [Dusclops] (10%)<br>
+Night      | ![][397]  [Staravia] (30%) ![][400]  [Bibarel] (20%) ![][358]  [Chimecho] (20%)  ![][338]  [Solrock] (10%) ![][337]  [Lunatone] (10%) ![][356]  [Dusclops] (10%)<br>
+Poké Radar | ![][202]  [Wobbuffet] (22%)
+Surf       | ![][055]  [Golduck] (100%)
+Old Rod    | ![][129]  [Magikarp] (100%)
+Good Rod   | ![][129]  [Magikarp] (100%)
+Super Rod  | ![][130]  [Gyarados] (100%)
 
 ### Lake Valor
-Levels: 53 - 54 (Walking), 35 - 55 (Surfing)
+Levels: 53 - 54 (Walking) 35 - 55 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][397] [Staravia] (30%) ![][400] [Bibarel] (30%) ![][284] [Masquerain] (20%)<br> ![][108] [Lickitung] (10%) ![][055] [Golduck] (10%)
-Day        | ![][397] [Staravia] (30%) ![][400] [Bibarel] (30%) ![][284] [Masquerain] (20%)<br> ![][108] [Lickitung] (10%) ![][055] [Golduck] (10%)
-Night      | ![][397] [Staravia] (30%) ![][400] [Bibarel] (30%) ![][284] [Masquerain] (20%)<br> ![][108] [Lickitung] (10%) ![][055] [Golduck] (10%)
-Poké Radar | ![][202] [Wobbuffet] (22%)
-Surf       | ![][283] [Surskit] (90%), ![][284] [Masquerain] (10%)
-Old Rod    | ![][129] [Magikarp] (100%)
-Good Rod   | ![][129] [Magikarp] (100%)
-Super Rod  | ![][130] [Gyarados] (100%)
+Morning    | ![][397]  [Staravia] (30%) ![][400]  [Bibarel] (30%) ![][284]  [Masquerain] (20%)  ![][108]  [Lickitung] (10%) ![][055]  [Golduck] (10%)
+Day        | ![][397]  [Staravia] (30%) ![][400]  [Bibarel] (30%) ![][284]  [Masquerain] (20%)  ![][108]  [Lickitung] (10%) ![][055]  [Golduck] (10%)
+Night      | ![][397]  [Staravia] (30%) ![][400]  [Bibarel] (30%) ![][284]  [Masquerain] (20%)  ![][108]  [Lickitung] (10%) ![][055]  [Golduck] (10%)
+Poké Radar | ![][202]  [Wobbuffet] (22%)
+Surf       | ![][283]  [Surskit] (90%) ![][284]  [Masquerain] (10%)
+Old Rod    | ![][129]  [Magikarp] (100%)
+Good Rod   | ![][129]  [Magikarp] (100%)
+Super Rod  | ![][130]  [Gyarados] (100%)
 
 
 ### Route 222
-Levels: 53 - 54 (Walking), 54 (Honey Tree), 35 - 55 (Surfing)
+Levels: 53 - 54 (Walking) 54 (Honey Tree) 35 - 55 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][125] [Electabuzz] (20%) ![][419] [Floatzel] (20%) ![][404] [Luxio] (10%)<br> ![][432] [Purugly] (10%) ![][279] [Pelipper] (10%) ![][180] [Flaaffy] (10%)<br> ![][122] [Mr. Mime] (10%) ![][441] [Chatot] (10%)
-Day        | ![][125] [Electabuzz] (20%) ![][419] [Floatzel] (20%) ![][404] [Luxio] (10%)<br> ![][432] [Purugly] (10%) ![][279] [Pelipper] (10%) ![][180] [Flaaffy] (10%)<br> ![][122] [Mr. Mime] (10%) ![][441] [Chatot] (10%)
-Night      | ![][125] [Electabuzz] (20%) ![][419] [Floatzel] (20%) ![][404] [Luxio] (20%)<br> ![][432] [Purugly] (10%) ![][279] [Pelipper] (10%) ![][180] [Flaaffy] (10%)<br> ![][122] [Mr. Mime] (10%)
-Poké Radar | ![][301] [Delcatty] (22%)
-Surf       | ![][072] [Tentacool] (60%) ![][278] [Wingull] (30%) ![][073] [Tentacruel] (5%)<br> ![][279] [Pelipper] (5%)
-Old Rod    | ![][129] [Magikarp] (60%), ![][223] [Remoraid] (30%), ![][320] [Wailmer] (10%)
-Good Rod   | ![][129] [Magikarp] (60%), ![][223] [Remoraid] (30%), ![][320] [Wailmer] (10%)
-Super Rod  | ![][130] [Gyarados] (60%) ![][320] [Wailmer] (30%) ![][224] [Octillery] (5%)<br> ![][321] [Wailord] (5%)
-Honey Tree | ![][114] [Tangela] (30%) ![][214] [Heracross] (30%) ![][083] [Farfetch'd] (30%)<br> ![][143] [Snorlax] (10%)
+Morning    | ![][125]  [Electabuzz] (20%) ![][419]  [Floatzel] (20%) ![][404]  [Luxio] (10%)  ![][432]  [Purugly] (10%) ![][279]  [Pelipper] (10%) ![][180]  [Flaaffy] (10%)  ![][122]  [Mr. Mime] (10%) ![][441]  [Chatot] (10%)
+Day        | ![][125]  [Electabuzz] (20%) ![][419]  [Floatzel] (20%) ![][404]  [Luxio] (10%)  ![][432]  [Purugly] (10%) ![][279]  [Pelipper] (10%) ![][180]  [Flaaffy] (10%)  ![][122]  [Mr. Mime] (10%) ![][441]  [Chatot] (10%)
+Night      | ![][125]  [Electabuzz] (20%) ![][419]  [Floatzel] (20%) ![][404]  [Luxio] (20%)  ![][432]  [Purugly] (10%) ![][279]  [Pelipper] (10%) ![][180]  [Flaaffy] (10%)  ![][122]  [Mr. Mime] (10%)
+Poké Radar | ![][301]  [Delcatty] (22%)
+Surf       | ![][072]  [Tentacool] (60%) ![][278]  [Wingull] (30%) ![][073]  [Tentacruel] (5%)  ![][279]  [Pelipper] (5%)
+Old Rod    | ![][129]  [Magikarp] (60%) ![][223]  [Remoraid] (30%) ![][320]  [Wailmer] (10%)
+Good Rod   | ![][129]  [Magikarp] (60%) ![][223]  [Remoraid] (30%) ![][320]  [Wailmer] (10%)
+Super Rod  | ![][130]  [Gyarados] (60%) ![][320]  [Wailmer] (30%) ![][224]  [Octillery] (5%)  ![][321]  [Wailord] (5%)
+Honey Tree | ![][114]  [Tangela] (30%) ![][214]  [Heracross] (30%) ![][083]  [Farfetch'd] (30%)  ![][143]  [Snorlax] (10%)
 
 ### Sunyshore City
 Levels: 50 - 60 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Surf       | ![][073] [Tentacruel] (60%), ![][279] [Pelipper] (30%), ![][226] [Mantine] (10%)
-Old Rod    | ![][129] [Magikarp] (60%), ![][098] [Krabby] (30%), ![][120] [Staryu] (10%)
-Good Rod   | ![][129] [Magikarp] (60%), ![][098] [Krabby] (30%), ![][120] [Staryu] (10%)
-Super Rod  | ![][130] [Gyarados] (60%), ![][099] [Kingler] (30%), ![][121] [Starmie] (10%)
+Surf       | ![][073]  [Tentacruel] (60%) ![][279]  [Pelipper] (30%) ![][226]  [Mantine] (10%)
+Old Rod    | ![][129]  [Magikarp] (60%) ![][098]  [Krabby] (30%) ![][120]  [Staryu] (10%)
+Good Rod   | ![][129]  [Magikarp] (60%) ![][098]  [Krabby] (30%) ![][120]  [Staryu] (10%)
+Super Rod  | ![][130]  [Gyarados] (60%) ![][099]  [Kingler] (30%) ![][121]  [Starmie] (10%)
 
 ### Route 223
 Levels: 50 - 60 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Surf       | ![][073] [Tentacruel] (60%), ![][279] [Pelipper] (30%), ![][226] [Mantine] (10%)
-Old Rod    | ![][129] [Magikarp] (60%), ![][223] [Remoraid] (30%), ![][320] [Wailmer] (10%)
-Good Rod   | ![][129] [Magikarp] (60%), ![][223] [Remoraid] (30%), ![][320] [Wailmer] (10%)
-Super Rod  | ![][130] [Gyarados] (60%) ![][320] [Wailmer] (30%) ![][224] [Octillery] (5%)<br> ![][321] [Wailord] (5%)
+Surf       | ![][073]  [Tentacruel] (60%) ![][279]  [Pelipper] (30%) ![][226]  [Mantine] (10%)
+Old Rod    | ![][129]  [Magikarp] (60%) ![][223]  [Remoraid] (30%) ![][320]  [Wailmer] (10%)
+Good Rod   | ![][129]  [Magikarp] (60%) ![][223]  [Remoraid] (30%) ![][320]  [Wailmer] (10%)
+Super Rod  | ![][130]  [Gyarados] (60%) ![][320]  [Wailmer] (30%) ![][224]  [Octillery] (5%)  ![][321]  [Wailord] (5%)
 
 ### Pokémon League
 Levels: 50 - 60 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Surf       | ![][073] [Tentacruel] (60%), ![][279] [Pelipper] (30%), ![][226] [Mantine] (10%)
-Old Rod    | ![][129] [Magikarp] (60%), ![][370] [Luvdisc] (30%), ![][222] [Corsola] (10%)
-Good Rod   | ![][129] [Magikarp] (60%), ![][370] [Luvdisc] (30%), ![][222] [Corsola] (10%)
-Super Rod  | ![][130] [Gyarados] (60%), ![][370] [Luvdisc] (30%), ![][222] [Corsola] (10%)
+Surf       | ![][073]  [Tentacruel] (60%) ![][279]  [Pelipper] (30%) ![][226]  [Mantine] (10%)
+Old Rod    | ![][129]  [Magikarp] (60%) ![][370]  [Luvdisc] (30%) ![][222]  [Corsola] (10%)
+Good Rod   | ![][129]  [Magikarp] (60%) ![][370]  [Luvdisc] (30%) ![][222]  [Corsola] (10%)
+Super Rod  | ![][130]  [Gyarados] (60%) ![][370]  [Luvdisc] (30%) ![][222]  [Corsola] (10%)
 
 ### Victory Road ~ 1F
 Level: 59 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][067] [Machoke] (20%) ![][042] [Golbat] (20%) ![][075] [Graveler] (10%)<br> ![][308] [Medicham] (10%) ![][297] [Hariyama] (10%) ![][444] [Gabite] (10%)<br> ![][112] [Rhydon] (10%) ![][208] [Steelix] (10%)
-Day        | ![][067] [Machoke] (20%) ![][042] [Golbat] (20%) ![][075] [Graveler] (10%)<br> ![][308] [Medicham] (10%) ![][297] [Hariyama] (10%) ![][444] [Gabite] (10%)<br> ![][112] [Rhydon] (10%) ![][208] [Steelix] (10%)
-Night      | ![][067] [Machoke] (20%) ![][042] [Golbat] (20%) ![][075] [Graveler] (10%)<br> ![][308] [Medicham] (10%) ![][297] [Hariyama] (10%) ![][444] [Gabite] (10%)<br> ![][112] [Rhydon] (10%) ![][208] [Steelix] (10%)
+Morning    | ![][067]  [Machoke] (20%) ![][042]  [Golbat] (20%) ![][075]  [Graveler] (10%)  ![][308]  [Medicham] (10%) ![][297]  [Hariyama] (10%) ![][444]  [Gabite] (10%)  ![][112]  [Rhydon] (10%) ![][208]  [Steelix] (10%)
+Day        | ![][067]  [Machoke] (20%) ![][042]  [Golbat] (20%) ![][075]  [Graveler] (10%)  ![][308]  [Medicham] (10%) ![][297]  [Hariyama] (10%) ![][444]  [Gabite] (10%)  ![][112]  [Rhydon] (10%) ![][208]  [Steelix] (10%)
+Night      | ![][067]  [Machoke] (20%) ![][042]  [Golbat] (20%) ![][075]  [Graveler] (10%)  ![][308]  [Medicham] (10%) ![][297]  [Hariyama] (10%) ![][444]  [Gabite] (10%)  ![][112]  [Rhydon] (10%) ![][208]  [Steelix] (10%)
 
 ### Victory Road ~ 2F
 Level: 59 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][208] [Steelix] (20%) ![][082] [Magneton] (20%) ![][075] [Graveler] (10%)<br> ![][064] [Kadabra] (10%) ![][108] [Lickitung] (10%) ![][042] [Golbat] (10%)<br> ![][105] [Marowak] (10%) ![][444] [Gabite] (10%)
-Day        | ![][208] [Steelix] (20%) ![][082] [Magneton] (20%) ![][075] [Graveler] (10%)<br> ![][064] [Kadabra] (10%) ![][108] [Lickitung] (10%) ![][042] [Golbat] (10%)<br> ![][105] [Marowak] (10%) ![][444] [Gabite] (10%)
-Night      | ![][208] [Steelix] (20%) ![][082] [Magneton] (20%) ![][075] [Graveler] (10%)<br> ![][064] [Kadabra] (10%) ![][108] [Lickitung] (10%) ![][042] [Golbat] (10%)<br> ![][105] [Marowak] (10%) ![][444] [Gabite] (10%)
+Morning    | ![][208]  [Steelix] (20%) ![][082]  [Magneton] (20%) ![][075]  [Graveler] (10%)  ![][064]  [Kadabra] (10%) ![][108]  [Lickitung] (10%) ![][042]  [Golbat] (10%)  ![][105]  [Marowak] (10%) ![][444]  [Gabite] (10%)
+Day        | ![][208]  [Steelix] (20%) ![][082]  [Magneton] (20%) ![][075]  [Graveler] (10%)  ![][064]  [Kadabra] (10%) ![][108]  [Lickitung] (10%) ![][042]  [Golbat] (10%)  ![][105]  [Marowak] (10%) ![][444]  [Gabite] (10%)
+Night      | ![][208]  [Steelix] (20%) ![][082]  [Magneton] (20%) ![][075]  [Graveler] (10%)  ![][064]  [Kadabra] (10%) ![][108]  [Lickitung] (10%) ![][042]  [Golbat] (10%)  ![][105]  [Marowak] (10%) ![][444]  [Gabite] (10%)
 
 ### Victory Road ~ B1F
-Level: 59 (Walking), 50 - 60 (Surfing)
+Level: 59 (Walking) 50 - 60 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][184] [Azumarill] (20%) ![][419] [Floatzel] (20%) ![][075] [Graveler] (10%)<br> ![][303] [Mawile] (10%) ![][302] [Sableye] (10%) ![][087] [Dewgong] (10%)<br> ![][042] [Golbat] (10%) ![][444] [Gabite] (10%)
-Day        | ![][184] [Azumarill] (20%) ![][419] [Floatzel] (20%) ![][075] [Graveler] (10%)<br> ![][303] [Mawile] (10%) ![][302] [Sableye] (10%) ![][087] [Dewgong] (10%)<br> ![][042] [Golbat] (10%) ![][444] [Gabite] (10%)
-Night      | ![][184] [Azumarill] (20%) ![][419] [Floatzel] (20%) ![][075] [Graveler] (10%)<br> ![][303] [Mawile] (10%) ![][302] [Sableye] (10%) ![][087] [Dewgong] (10%)<br> ![][042] [Golbat] (10%) ![][444] [Gabite] (10%)
-Surf       | ![][419] [Floatzel] (65%), ![][042] [Golbat] (35%)
-Old Rod    | ![][129] [Magikarp] (100%)
-Good Rod   | ![][129] [Magikarp] (100%)
-Super Rod  | ![][130] [Gyarados] (100%)
+Morning    | ![][184]  [Azumarill] (20%) ![][419]  [Floatzel] (20%) ![][075]  [Graveler] (10%)  ![][303]  [Mawile] (10%) ![][302]  [Sableye] (10%) ![][087]  [Dewgong] (10%)  ![][042]  [Golbat] (10%) ![][444]  [Gabite] (10%)
+Day        | ![][184]  [Azumarill] (20%) ![][419]  [Floatzel] (20%) ![][075]  [Graveler] (10%)  ![][303]  [Mawile] (10%) ![][302]  [Sableye] (10%) ![][087]  [Dewgong] (10%)  ![][042]  [Golbat] (10%) ![][444]  [Gabite] (10%)
+Night      | ![][184]  [Azumarill] (20%) ![][419]  [Floatzel] (20%) ![][075]  [Graveler] (10%)  ![][303]  [Mawile] (10%) ![][302]  [Sableye] (10%) ![][087]  [Dewgong] (10%)  ![][042]  [Golbat] (10%) ![][444]  [Gabite] (10%)
+Surf       | ![][419]  [Floatzel] (65%) ![][042]  [Golbat] (35%)
+Old Rod    | ![][129]  [Magikarp] (100%)
+Good Rod   | ![][129]  [Magikarp] (100%)
+Super Rod  | ![][130]  [Gyarados] (100%)
 
 ### Victory Road ~ 1F Back 1
 Level: 59 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][184] [Azumarill] (20%) ![][419] [Floatzel] (20%) ![][075] [Graveler] (10%)<br> ![][067] [Machoke] (10%) ![][308] [Medicham] (10%) ![][208] [Steelix] (10%)<br> ![][042] [Golbat] (10%) ![][444] [Gabite] (10%)
-Day        | ![][184] [Azumarill] (20%) ![][419] [Floatzel] (20%) ![][075] [Graveler] (10%)<br> ![][067] [Machoke] (10%) ![][308] [Medicham] (10%) ![][208] [Steelix] (10%)<br> ![][042] [Golbat] (10%) ![][444] [Gabite] (10%)
-Night      | ![][184] [Azumarill] (20%) ![][419] [Floatzel] (20%) ![][075] [Graveler] (10%)<br> ![][067] [Machoke] (10%) ![][308] [Medicham] (10%) ![][208] [Steelix] (10%)<br> ![][042] [Golbat] (10%) ![][444] [Gabite] (10%)
+Morning    | ![][184]  [Azumarill] (20%) ![][419]  [Floatzel] (20%) ![][075]  [Graveler] (10%)  ![][067]  [Machoke] (10%) ![][308]  [Medicham] (10%) ![][208]  [Steelix] (10%)  ![][042]  [Golbat] (10%) ![][444]  [Gabite] (10%)
+Day        | ![][184]  [Azumarill] (20%) ![][419]  [Floatzel] (20%) ![][075]  [Graveler] (10%)  ![][067]  [Machoke] (10%) ![][308]  [Medicham] (10%) ![][208]  [Steelix] (10%)  ![][042]  [Golbat] (10%) ![][444]  [Gabite] (10%)
+Night      | ![][184]  [Azumarill] (20%) ![][419]  [Floatzel] (20%) ![][075]  [Graveler] (10%)  ![][067]  [Machoke] (10%) ![][308]  [Medicham] (10%) ![][208]  [Steelix] (10%)  ![][042]  [Golbat] (10%) ![][444]  [Gabite] (10%)
 
 ### Victory Road ~ 1F Back 2
-Level: 59 (Walking), 50 - 60 (Surfing)
+Level: 59 (Walking) 50 - 60 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][184] [Azumarill] (20%) ![][419] [Floatzel] (20%) ![][075] [Graveler] (10%)<br> ![][067] [Machoke] (10%) ![][308] [Medicham] (10%) ![][087] [Dewgong] (10%)<br> ![][042] [Golbat] (10%) ![][444] [Gabite] (10%)
-Day        | ![][184] [Azumarill] (20%) ![][419] [Floatzel] (20%) ![][075] [Graveler] (10%)<br> ![][067] [Machoke] (10%) ![][308] [Medicham] (10%) ![][087] [Dewgong] (10%)<br> ![][042] [Golbat] (10%) ![][444] [Gabite] (10%)
-Night      | ![][184] [Azumarill] (20%) ![][419] [Floatzel] (20%) ![][075] [Graveler] (10%)<br> ![][067] [Machoke] (10%) ![][308] [Medicham] (10%) ![][087] [Dewgong] (10%)<br> ![][042] [Golbat] (10%) ![][444] [Gabite] (10%)
-Surf       | ![][364] [Sealeo] (60%), ![][087] [Dewgong] (30%), ![][131] [Lapras] (10%)
-Old Rod    | ![][129] [Magikarp] (100%)
-Good Rod   | ![][129] [Magikarp] (100%)
-Super Rod  | ![][130] [Gyarados] (100%)
+Morning    | ![][184]  [Azumarill] (20%) ![][419]  [Floatzel] (20%) ![][075]  [Graveler] (10%)  ![][067]  [Machoke] (10%) ![][308]  [Medicham] (10%) ![][087]  [Dewgong] (10%)  ![][042]  [Golbat] (10%) ![][444]  [Gabite] (10%)
+Day        | ![][184]  [Azumarill] (20%) ![][419]  [Floatzel] (20%) ![][075]  [Graveler] (10%)  ![][067]  [Machoke] (10%) ![][308]  [Medicham] (10%) ![][087]  [Dewgong] (10%)  ![][042]  [Golbat] (10%) ![][444]  [Gabite] (10%)
+Night      | ![][184]  [Azumarill] (20%) ![][419]  [Floatzel] (20%) ![][075]  [Graveler] (10%)  ![][067]  [Machoke] (10%) ![][308]  [Medicham] (10%) ![][087]  [Dewgong] (10%)  ![][042]  [Golbat] (10%) ![][444]  [Gabite] (10%)
+Surf       | ![][364]  [Sealeo] (60%) ![][087]  [Dewgong] (30%) ![][131]  [Lapras] (10%)
+Old Rod    | ![][129]  [Magikarp] (100%)
+Good Rod   | ![][129]  [Magikarp] (100%)
+Super Rod  | ![][130]  [Gyarados] (100%)
 
 ### Victory Road ~ 1F Back 3
 Level: 59 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][184] [Azumarill] (20%) ![][419] [Floatzel] (20%) ![][075] [Graveler] (10%)<br> ![][067] [Machoke] (10%) ![][308] [Medicham] (10%) ![][208] [Steelix] (10%)<br> ![][042] [Golbat] (10%) ![][444] [Gabite] (10%)
-Day        | ![][184] [Azumarill] (20%) ![][419] [Floatzel] (20%) ![][075] [Graveler] (10%)<br> ![][067] [Machoke] (10%) ![][308] [Medicham] (10%) ![][208] [Steelix] (10%)<br> ![][042] [Golbat] (10%) ![][444] [Gabite] (10%)
-Night      | ![][184] [Azumarill] (20%) ![][419] [Floatzel] (20%) ![][075] [Graveler] (10%)<br> ![][067] [Machoke] (10%) ![][308] [Medicham] (10%) ![][208] [Steelix] (10%)<br> ![][042] [Golbat] (10%) ![][444] [Gabite] (10%)
+Morning    | ![][184]  [Azumarill] (20%) ![][419]  [Floatzel] (20%) ![][075]  [Graveler] (10%)  ![][067]  [Machoke] (10%) ![][308]  [Medicham] (10%) ![][208]  [Steelix] (10%)  ![][042]  [Golbat] (10%) ![][444]  [Gabite] (10%)
+Day        | ![][184]  [Azumarill] (20%) ![][419]  [Floatzel] (20%) ![][075]  [Graveler] (10%)  ![][067]  [Machoke] (10%) ![][308]  [Medicham] (10%) ![][208]  [Steelix] (10%)  ![][042]  [Golbat] (10%) ![][444]  [Gabite] (10%)
+Night      | ![][184]  [Azumarill] (20%) ![][419]  [Floatzel] (20%) ![][075]  [Graveler] (10%)  ![][067]  [Machoke] (10%) ![][308]  [Medicham] (10%) ![][208]  [Steelix] (10%)  ![][042]  [Golbat] (10%) ![][444]  [Gabite] (10%)
 
 ### Route 224
-Level: 59 (Walking), 50 - 60 (Surfing)
+Level: 59 (Walking) 50 - 60 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][267] [Beautifly] (20%) ![][269] [Dustox] (20%) ![][070] [Weepinbell] (10%)<br> ![][441] [Chatot] (10%) ![][315] [Roselia] (10%) ![][423] [Gastrodon] (10%)<br> ![][213] [Shuckle] (10%) ![][178] [Xatu] (10%)
-Day        | ![][267] [Beautifly] (20%) ![][269] [Dustox] (20%) ![][070] [Weepinbell] (10%)<br> ![][441] [Chatot] (10%) ![][315] [Roselia] (10%) ![][423] [Gastrodon] (10%)<br> ![][213] [Shuckle] (10%) ![][178] [Xatu] (10%)
-Night      | ![][267] [Beautifly] (20%) ![][269] [Dustox] (20%) ![][070] [Weepinbell] (10%)<br> ![][044] [Gloom] (10%) ![][315] [Roselia] (10%) ![][423] [Gastrodon] (10%)<br> ![][213] [Shuckle] (10%) ![][178] [Xatu] (10%)
+Morning    | ![][267]  [Beautifly] (20%) ![][269]  [Dustox] (20%) ![][070]  [Weepinbell] (10%)  ![][441]  [Chatot] (10%) ![][315]  [Roselia] (10%) ![][423]  [Gastrodon] (10%)  ![][213]  [Shuckle] (10%) ![][178]  [Xatu] (10%)
+Day        | ![][267]  [Beautifly] (20%) ![][269]  [Dustox] (20%) ![][070]  [Weepinbell] (10%)  ![][441]  [Chatot] (10%) ![][315]  [Roselia] (10%) ![][423]  [Gastrodon] (10%)  ![][213]  [Shuckle] (10%) ![][178]  [Xatu] (10%)
+Night      | ![][267]  [Beautifly] (20%) ![][269]  [Dustox] (20%) ![][070]  [Weepinbell] (10%)  ![][044]  [Gloom] (10%) ![][315]  [Roselia] (10%) ![][423]  [Gastrodon] (10%)  ![][213]  [Shuckle] (10%) ![][178]  [Xatu] (10%)
 Poké Radar | -
-Surf       | ![][073] [Tentacruel] (60%), ![][279] [Pelipper] (30%), ![][423] [Gastrodon] (10%)
-Old Rod    | ![][129] [Magikarp] (60%), ![][370] [Luvdisc] (30%), ![][222] [Corsola] (10%)
-Good Rod   | ![][129] [Magikarp] (60%), ![][370] [Luvdisc] (30%), ![][222] [Corsola] (10%)
-Super Rod  | ![][130] [Gyarados] (60%), ![][370] [Luvdisc] (30%), ![][222] [Corsola] (10%)
+Surf       | ![][073]  [Tentacruel] (60%) ![][279]  [Pelipper] (30%) ![][423]  [Gastrodon] (10%)
+Old Rod    | ![][129]  [Magikarp] (60%) ![][370]  [Luvdisc] (30%) ![][222]  [Corsola] (10%)
+Good Rod   | ![][129]  [Magikarp] (60%) ![][370]  [Luvdisc] (30%) ![][222]  [Corsola] (10%)
+Super Rod  | ![][130]  [Gyarados] (60%) ![][370]  [Luvdisc] (30%) ![][222]  [Corsola] (10%)
 
 ### Turnback Cave
 Levels: 65 - 66 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][042] [Golbat] (20%) ![][093] [Haunter] (20%) ![][356] [Dusclops] (10%)<br> ![][354] [Banette] (10%) ![][437] [Bronzong] (10%) ![][358] [Chimecho] (10%)<br> ![][337] [Lunatone] (10%) ![][338] [Solrock] (10%)
-Day        | ![][042] [Golbat] (20%) ![][093] [Haunter] (20%) ![][356] [Dusclops] (10%)<br> ![][354] [Banette] (10%) ![][437] [Bronzong] (10%) ![][358] [Chimecho] (10%)<br> ![][337] [Lunatone] (10%) ![][338] [Solrock] (10%)
-Night      | ![][042] [Golbat] (20%) ![][093] [Haunter] (20%) ![][356] [Dusclops] (10%)<br> ![][354] [Banette] (10%) ![][437] [Bronzong] (10%) ![][358] [Chimecho] (10%)<br> ![][337] [Lunatone] (10%) ![][338] [Solrock] (10%)
+Morning    | ![][042]  [Golbat] (20%) ![][093]  [Haunter] (20%) ![][356]  [Dusclops] (10%)  ![][354]  [Banette] (10%) ![][437]  [Bronzong] (10%) ![][358]  [Chimecho] (10%)  ![][337]  [Lunatone] (10%) ![][338]  [Solrock] (10%)
+Day        | ![][042]  [Golbat] (20%) ![][093]  [Haunter] (20%) ![][356]  [Dusclops] (10%)  ![][354]  [Banette] (10%) ![][437]  [Bronzong] (10%) ![][358]  [Chimecho] (10%)  ![][337]  [Lunatone] (10%) ![][338]  [Solrock] (10%)
+Night      | ![][042]  [Golbat] (20%) ![][093]  [Haunter] (20%) ![][356]  [Dusclops] (10%)  ![][354]  [Banette] (10%) ![][437]  [Bronzong] (10%) ![][358]  [Chimecho] (10%)  ![][337]  [Lunatone] (10%) ![][338]  [Solrock] (10%)
 
 
 ### Route 225
-Levels: 65 - 67 (Walking), 65 - 67 (Surfing)
+Levels: 65 - 67 (Walking) 65 - 67 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][022] [Fearow] (20%) ![][067] [Machoke] (20%) ![][075] [Graveler] (20%)<br> ![][020] [Raticate] (15%) ![][057] [Primeape] (15%) ![][297] [Hariyama] (5%)<br> ![][326] [Grumpig] (5%)
-Day        | ![][022] [Fearow] (20%) ![][067] [Machoke] (20%) ![][075] [Graveler] (20%)<br> ![][020] [Raticate] (15%) ![][057] [Primeape] (15%) ![][297] [Hariyama] (5%)<br> ![][326] [Grumpig] (5%)
-Night      | ![][022] [Fearow] (20%) ![][067] [Machoke] (20%) ![][075] [Graveler] (20%)<br> ![][020] [Raticate] (15%) ![][057] [Primeape] (15%) ![][297] [Hariyama] (5%)<br> ![][326] [Grumpig] (5%)
-Surf       | ![][061] [Poliwhirl] (60%), ![][055] [Golduck] (40%)
-Old Rod    | ![][129] [Magikarp] (65%), ![][339] [Barboach] (35%)
-Good Rod   | ![][129] [Magikarp] (65%), ![][339] [Barboach] (35%)
-Super Rod  | ![][130] [Gyarados] (65%), ![][340] [Whiscash] (35%)
+Morning    | ![][022]  [Fearow] (20%) ![][067]  [Machoke] (20%) ![][075]  [Graveler] (20%)  ![][020]  [Raticate] (15%) ![][057]  [Primeape] (15%) ![][297]  [Hariyama] (5%)  ![][326]  [Grumpig] (5%)
+Day        | ![][022]  [Fearow] (20%) ![][067]  [Machoke] (20%) ![][075]  [Graveler] (20%)  ![][020]  [Raticate] (15%) ![][057]  [Primeape] (15%) ![][297]  [Hariyama] (5%)  ![][326]  [Grumpig] (5%)
+Night      | ![][022]  [Fearow] (20%) ![][067]  [Machoke] (20%) ![][075]  [Graveler] (20%)  ![][020]  [Raticate] (15%) ![][057]  [Primeape] (15%) ![][297]  [Hariyama] (5%)  ![][326]  [Grumpig] (5%)
+Surf       | ![][061]  [Poliwhirl] (60%) ![][055]  [Golduck] (40%)
+Old Rod    | ![][129]  [Magikarp] (65%) ![][339]  [Barboach] (35%)
+Good Rod   | ![][129]  [Magikarp] (65%) ![][339]  [Barboach] (35%)
+Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
 
 ### Route 226
-Levels: 65 - 67 (Walking), 65 - 67 (Surfing)
+Levels: 65 - 67 (Walking) 65 - 67 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][020] [Raticate] (20%) ![][022] [Fearow] (20%) ![][024] [Arbok] (15%)<br> ![][028] [Sandslash] (15%) ![][078] [Rapidash] (10%) ![][085] [Dodrio] (10%)<br> ![][099] [Kingler] (10%)
-Day        | ![][020] [Raticate] (20%) ![][022] [Fearow] (20%) ![][024] [Arbok] (15%)<br> ![][028] [Sandslash] (15%) ![][078] [Rapidash] (10%) ![][085] [Dodrio] (10%)<br> ![][099] [Kingler] (10%)
-Night      | ![][020] [Raticate] (20%) ![][022] [Fearow] (20%) ![][024] [Arbok] (15%)<br> ![][028] [Sandslash] (15%) ![][078] [Rapidash] (10%) ![][085] [Dodrio] (10%)<br> ![][099] [Kingler] (10%)
-Surf       | ![][279] [Pelipper] (60%), ![][073] [Tentacruel] (40%)
-Old Rod    | ![][129] [Magikarp] (60%), ![][116] [Horsea] (30%), ![][369] [Relicanth] (10%)
-Good Rod   | ![][129] [Magikarp] (60%), ![][116] [Horsea] (30%), ![][369] [Relicanth] (10%)
-Super Rod  | ![][130] [Gyarados] (60%), ![][117] [Seadra] (30%), ![][369] [Relicanth] (10%)
+Morning    | ![][020]  [Raticate] (20%) ![][022]  [Fearow] (20%) ![][024]  [Arbok] (15%)  ![][028]  [Sandslash] (15%) ![][078]  [Rapidash] (10%) ![][085]  [Dodrio] (10%)  ![][099]  [Kingler] (10%)
+Day        | ![][020]  [Raticate] (20%) ![][022]  [Fearow] (20%) ![][024]  [Arbok] (15%)  ![][028]  [Sandslash] (15%) ![][078]  [Rapidash] (10%) ![][085]  [Dodrio] (10%)  ![][099]  [Kingler] (10%)
+Night      | ![][020]  [Raticate] (20%) ![][022]  [Fearow] (20%) ![][024]  [Arbok] (15%)  ![][028]  [Sandslash] (15%) ![][078]  [Rapidash] (10%) ![][085]  [Dodrio] (10%)  ![][099]  [Kingler] (10%)
+Surf       | ![][279]  [Pelipper] (60%) ![][073]  [Tentacruel] (40%)
+Old Rod    | ![][129]  [Magikarp] (60%) ![][116]  [Horsea] (30%) ![][369]  [Relicanth] (10%)
+Good Rod   | ![][129]  [Magikarp] (60%) ![][116]  [Horsea] (30%) ![][369]  [Relicanth] (10%)
+Super Rod  | ![][130]  [Gyarados] (60%) ![][117]  [Seadra] (30%) ![][369]  [Relicanth] (10%)
 
 ### Route 227
-Levels: 65 - 67 (Walking), 65 - 67 (Surfing)
+Levels: 65 - 67 (Walking) 65 - 67 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][112] [Rhydon] (20%) ![][323] [Camerupt] (20%) ![][227] [Skarmory] (15%)<br> ![][207] [Gligar] (15%) ![][110] [Weezing] (10%) ![][324] [Torkoal] (10%)<br> ![][327] [Spinda] (10%)
-Day        | ![][112] [Rhydon] (20%) ![][323] [Camerupt] (20%) ![][227] [Skarmory] (15%)<br> ![][207] [Gligar] (15%) ![][110] [Weezing] (10%) ![][324] [Torkoal] (10%)<br> ![][327] [Spinda] (10%)
-Night      | ![][112] [Rhydon] (20%) ![][323] [Camerupt] (20%) ![][227] [Skarmory] (15%)<br> ![][207] [Gligar] (15%) ![][110] [Weezing] (10%) ![][324] [Torkoal] (10%)<br> ![][327] [Spinda] (10%)
-Surf       | ![][061] [Poliwhirl] (100%)
-Old Rod    | ![][129] [Magikarp] (65%), ![][339] [Barboach] (35%)
-Good Rod   | ![][129] [Magikarp] (65%), ![][339] [Barboach] (35%)
-Super Rod  | ![][130] [Gyarados] (65%), ![][340] [Whiscash] (35%)
+Morning    | ![][112]  [Rhydon] (20%) ![][323]  [Camerupt] (20%) ![][227]  [Skarmory] (15%)  ![][207]  [Gligar] (15%) ![][110]  [Weezing] (10%) ![][324]  [Torkoal] (10%)  ![][327]  [Spinda] (10%)
+Day        | ![][112]  [Rhydon] (20%) ![][323]  [Camerupt] (20%) ![][227]  [Skarmory] (15%)  ![][207]  [Gligar] (15%) ![][110]  [Weezing] (10%) ![][324]  [Torkoal] (10%)  ![][327]  [Spinda] (10%)
+Night      | ![][112]  [Rhydon] (20%) ![][323]  [Camerupt] (20%) ![][227]  [Skarmory] (15%)  ![][207]  [Gligar] (15%) ![][110]  [Weezing] (10%) ![][324]  [Torkoal] (10%)  ![][327]  [Spinda] (10%)
+Surf       | ![][061]  [Poliwhirl] (100%)
+Old Rod    | ![][129]  [Magikarp] (65%) ![][339]  [Barboach] (35%)
+Good Rod   | ![][129]  [Magikarp] (65%) ![][339]  [Barboach] (35%)
+Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
 
 ### Route 228
-Levels: 65 - 67 (Walking), 65 - 67 (Surfing)
+Levels: 65 - 67 (Walking) 65 - 67 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][332] [Cacturne] (20%) ![][028] [Sandslash] (20%) ![][051] [Dugtrio] (20%)<br> ![][329] [Vibrava] (10%) ![][344] [Claydol] (10%) ![][450] [Hippowdon] (10%)<br> ![][375] [Metang] (5%) ![][444] [Gabite] (5%)
-Day        | ![][332] [Cacturne] (20%) ![][028] [Sandslash] (20%) ![][051] [Dugtrio] (20%)<br> ![][329] [Vibrava] (10%) ![][344] [Claydol] (10%) ![][450] [Hippowdon] (10%)<br> ![][375] [Metang] (5%) ![][444] [Gabite] (5%)
-Night      | ![][332] [Cacturne] (20%) ![][028] [Sandslash] (20%) ![][051] [Dugtrio] (20%)<br> ![][329] [Vibrava] (10%) ![][344] [Claydol] (10%) ![][450] [Hippowdon] (10%)<br> ![][375] [Metang] (5%) ![][444] [Gabite] (5%)
-Surf       | ![][061] [Poliwhirl] (100%)
-Old Rod    | ![][129] [Magikarp] (65%), ![][339] [Barboach] (35%)
-Good Rod   | ![][129] [Magikarp] (65%), ![][339] [Barboach] (35%)
-Super Rod  | ![][130] [Gyarados] (65%), ![][340] [Whiscash] (35%)
+Morning    | ![][332]  [Cacturne] (20%) ![][028]  [Sandslash] (20%) ![][051]  [Dugtrio] (20%)  ![][329]  [Vibrava] (10%) ![][344]  [Claydol] (10%) ![][450]  [Hippowdon] (10%)  ![][375]  [Metang] (5%) ![][444]  [Gabite] (5%)
+Day        | ![][332]  [Cacturne] (20%) ![][028]  [Sandslash] (20%) ![][051]  [Dugtrio] (20%)  ![][329]  [Vibrava] (10%) ![][344]  [Claydol] (10%) ![][450]  [Hippowdon] (10%)  ![][375]  [Metang] (5%) ![][444]  [Gabite] (5%)
+Night      | ![][332]  [Cacturne] (20%) ![][028]  [Sandslash] (20%) ![][051]  [Dugtrio] (20%)  ![][329]  [Vibrava] (10%) ![][344]  [Claydol] (10%) ![][450]  [Hippowdon] (10%)  ![][375]  [Metang] (5%) ![][444]  [Gabite] (5%)
+Surf       | ![][061]  [Poliwhirl] (100%)
+Old Rod    | ![][129]  [Magikarp] (65%) ![][339]  [Barboach] (35%)
+Good Rod   | ![][129]  [Magikarp] (65%) ![][339]  [Barboach] (35%)
+Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
 
 ### Route 229
-Levels: 65 - 67 (Walking), 65 - 67 (Surfing)
+Levels: 65 - 67 (Walking) 65 - 67 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][123] [Scyther] (20%) ![][127] [Pinsir] (20%) ![][166] [Ledian] (20%)<br> ![][315] [Roselia] (15%) ![][049] [Venomoth] (10%) ![][314] [Illumise] (5%)<br> ![][313] [Volbeat] (5%) ![][070] [Weepinbell] (5%)
-Day        | ![][123] [Scyther] (20%) ![][127] [Pinsir] (20%) ![][191] [Sunkern] (20%)<br> ![][315] [Roselia] (15%) ![][049] [Venomoth] (10%) ![][314] [Illumise] (5%)<br> ![][313] [Volbeat] (5%) ![][070] [Weepinbell] (5%)
-Night      | ![][123] [Scyther] (20%) ![][127] [Pinsir] (20%) ![][168] [Ariados] (20%)<br> ![][315] [Roselia] (15%) ![][049] [Venomoth] (10%) ![][314] [Illumise] (5%)<br> ![][313] [Volbeat] (5%) ![][070] [Weepinbell] (5%)
-Surf       | ![][284] [Masquerain] (100%)
-Old Rod    | ![][129] [Magikarp] (65%), ![][118] [Goldeen] (35%)
-Good Rod   | ![][129] [Magikarp] (65%), ![][118] [Goldeen] (35%)
-Super Rod  | ![][130] [Gyarados] (65%), ![][119] [Seaking] (35%)
+Morning    | ![][123]  [Scyther] (20%) ![][127]  [Pinsir] (20%) ![][166]  [Ledian] (20%)  ![][315]  [Roselia] (15%) ![][049]  [Venomoth] (10%) ![][314]  [Illumise] (5%)  ![][313]  [Volbeat] (5%) ![][070]  [Weepinbell] (5%)
+Day        | ![][123]  [Scyther] (20%) ![][127]  [Pinsir] (20%) ![][191]  [Sunkern] (20%)  ![][315]  [Roselia] (15%) ![][049]  [Venomoth] (10%) ![][314]  [Illumise] (5%)  ![][313]  [Volbeat] (5%) ![][070]  [Weepinbell] (5%)
+Night      | ![][123]  [Scyther] (20%) ![][127]  [Pinsir] (20%) ![][168]  [Ariados] (20%)  ![][315]  [Roselia] (15%) ![][049]  [Venomoth] (10%) ![][314]  [Illumise] (5%)  ![][313]  [Volbeat] (5%) ![][070]  [Weepinbell] (5%)
+Surf       | ![][284]  [Masquerain] (100%)
+Old Rod    | ![][129]  [Magikarp] (65%) ![][118]  [Goldeen] (35%)
+Good Rod   | ![][129]  [Magikarp] (65%) ![][118]  [Goldeen] (35%)
+Super Rod  | ![][130]  [Gyarados] (65%) ![][119]  [Seaking] (35%)
 
 ### Resort Area
-Levels: 1 - 100 (Surf), 1 - 100 (All Rods)
+Levels: 1 - 100 (Surf) 1 - 100 (All Rods)
 
 Area       | Pokémon
 ---        | ---
-Surf       | ![][129] [Magikarp] (100%)
-Old Rod    | ![][129] [Magikarp] (100%)
-Good Rod   | ![][129] [Magikarp] (100%)
-Super Rod  | ![][129] [Magikarp] (100%)
+Surf       | ![][129]  [Magikarp] (100%)
+Old Rod    | ![][129]  [Magikarp] (100%)
+Good Rod   | ![][129]  [Magikarp] (100%)
+Super Rod  | ![][129]  [Magikarp] (100%)
 
 ### Route 230
-Levels: 65 - 67 (Walking), 65 - 67 (Surfing)
+Levels: 65 - 67 (Walking) 65 - 67 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][279] [Pelipper] (20%) ![][419] [Floatzel] (20%) ![][423] [Gastrodon] (15%)<br> ![][055] [Golduck] (10%) ![][357] [Tropius] (10%) ![][335] [Zangoose] (10%)<br> ![][336] [Seviper] (10%) ![][176] [Togetic] (5%)
-Day        | ![][279] [Pelipper] (20%) ![][419] [Floatzel] (20%) ![][423] [Gastrodon] (15%)<br> ![][055] [Golduck] (10%) ![][357] [Tropius] (10%) ![][335] [Zangoose] (10%)<br> ![][336] [Seviper] (10%) ![][176] [Togetic] (5%)
-Night      | ![][279] [Pelipper] (20%) ![][419] [Floatzel] (20%) ![][423] [Gastrodon] (15%)<br> ![][055] [Golduck] (10%) ![][357] [Tropius] (10%) ![][335] [Zangoose] (10%)<br> ![][336] [Seviper] (10%) ![][176] [Togetic] (5%)
-Surf       | ![][364] [Sealeo] (60%), ![][073] [Tentacruel] (40%)
-Old Rod    | ![][129] [Magikarp] (60%), ![][222] [Corsola] (30%), ![][320] [Wailmer] (10%)
-Good Rod   | ![][129] [Magikarp] (65%), ![][222] [Corsola] (30%), ![][320] [Wailmer] (10%)
-Super Rod  | ![][130] [Gyarados] (65%), ![][222] [Corsola] (30%), ![][321] [Wailord] (10%)
+Morning    | ![][279]  [Pelipper] (20%) ![][419]  [Floatzel] (20%) ![][423]  [Gastrodon] (15%)  ![][055]  [Golduck] (10%) ![][357]  [Tropius] (10%) ![][335]  [Zangoose] (10%)  ![][336]  [Seviper] (10%) ![][176]  [Togetic] (5%)
+Day        | ![][279]  [Pelipper] (20%) ![][419]  [Floatzel] (20%) ![][423]  [Gastrodon] (15%)  ![][055]  [Golduck] (10%) ![][357]  [Tropius] (10%) ![][335]  [Zangoose] (10%)  ![][336]  [Seviper] (10%) ![][176]  [Togetic] (5%)
+Night      | ![][279]  [Pelipper] (20%) ![][419]  [Floatzel] (20%) ![][423]  [Gastrodon] (15%)  ![][055]  [Golduck] (10%) ![][357]  [Tropius] (10%) ![][335]  [Zangoose] (10%)  ![][336]  [Seviper] (10%) ![][176]  [Togetic] (5%)
+Surf       | ![][364]  [Sealeo] (60%) ![][073]  [Tentacruel] (40%)
+Old Rod    | ![][129]  [Magikarp] (60%) ![][222]  [Corsola] (30%) ![][320]  [Wailmer] (10%)
+Good Rod   | ![][129]  [Magikarp] (65%) ![][222]  [Corsola] (30%) ![][320]  [Wailmer] (10%)
+Super Rod  | ![][130]  [Gyarados] (65%) ![][222]  [Corsola] (30%) ![][321]  [Wailord] (10%)
 
 ### Stark Mountain (Outside)
 Levels: 66 - 68 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][022] [Fearow] (20%) ![][112] [Rhydon] (20%) ![][323] [Camerupt] (10%)<br> ![][067] [Machoke] (10%) ![][227] [Skarmory] (10%) ![][207] [Gligar] (10%)<br> ![][126] [Magmar] (10%) ![][324] [Torkoal] (10%)
-Day        | ![][022] [Fearow] (20%) ![][112] [Rhydon] (20%) ![][323] [Camerupt] (10%)<br> ![][067] [Machoke] (10%) ![][227] [Skarmory] (10%) ![][207] [Gligar] (10%)<br> ![][126] [Magmar] (10%) ![][324] [Torkoal] (10%)
-Night      | ![][022] [Fearow] (20%) ![][112] [Rhydon] (20%) ![][323] [Camerupt] (10%)<br> ![][067] [Machoke] (10%) ![][227] [Skarmory] (10%) ![][207] [Gligar] (10%)<br> ![][126] [Magmar] (10%) ![][324] [Torkoal] (10%)
+Morning    | ![][022]  [Fearow] (20%) ![][112]  [Rhydon] (20%) ![][323]  [Camerupt] (10%)  ![][067]  [Machoke] (10%) ![][227]  [Skarmory] (10%) ![][207]  [Gligar] (10%)  ![][126]  [Magmar] (10%) ![][324]  [Torkoal] (10%)
+Day        | ![][022]  [Fearow] (20%) ![][112]  [Rhydon] (20%) ![][323]  [Camerupt] (10%)  ![][067]  [Machoke] (10%) ![][227]  [Skarmory] (10%) ![][207]  [Gligar] (10%)  ![][126]  [Magmar] (10%) ![][324]  [Torkoal] (10%)
+Night      | ![][022]  [Fearow] (20%) ![][112]  [Rhydon] (20%) ![][323]  [Camerupt] (10%)  ![][067]  [Machoke] (10%) ![][227]  [Skarmory] (10%) ![][207]  [Gligar] (10%)  ![][126]  [Magmar] (10%) ![][324]  [Torkoal] (10%)
 
 ### Stark Mountain (Entrance)
 Levels: 67 - 69 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][042] [Golbat] (20%) ![][112] [Rhydon] (20%) ![][219] [Magcargo] (10%)<br> ![][075] [Graveler] (10%) ![][067] [Machoke] (10%) ![][110] [Weezing] (10%)<br> ![][089] [Muk] (10%) ![][324] [Torkoal] (10%)
-Day        | ![][042] [Golbat] (20%) ![][112] [Rhydon] (20%) ![][219] [Magcargo] (10%)<br> ![][075] [Graveler] (10%) ![][067] [Machoke] (10%) ![][110] [Weezing] (10%)<br> ![][089] [Muk] (10%) ![][324] [Torkoal] (10%)
-Night      | ![][042] [Golbat] (20%) ![][112] [Rhydon] (20%) ![][219] [Magcargo] (10%)<br> ![][075] [Graveler] (10%) ![][067] [Machoke] (10%) ![][110] [Weezing] (10%)<br> ![][089] [Muk] (10%) ![][324] [Torkoal] (10%)
+Morning    | ![][042]  [Golbat] (20%) ![][112]  [Rhydon] (20%) ![][219]  [Magcargo] (10%)  ![][075]  [Graveler] (10%) ![][067]  [Machoke] (10%) ![][110]  [Weezing] (10%)  ![][089]  [Muk] (10%) ![][324]  [Torkoal] (10%)
+Day        | ![][042]  [Golbat] (20%) ![][112]  [Rhydon] (20%) ![][219]  [Magcargo] (10%)  ![][075]  [Graveler] (10%) ![][067]  [Machoke] (10%) ![][110]  [Weezing] (10%)  ![][089]  [Muk] (10%) ![][324]  [Torkoal] (10%)
+Night      | ![][042]  [Golbat] (20%) ![][112]  [Rhydon] (20%) ![][219]  [Magcargo] (10%)  ![][075]  [Graveler] (10%) ![][067]  [Machoke] (10%) ![][110]  [Weezing] (10%)  ![][089]  [Muk] (10%) ![][324]  [Torkoal] (10%)
 
 ### Stark Mountain (Interior)
 Levels: 67 - 69 (Walking)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][219] [Magcargo] (20%) ![][112] [Rhydon] (20%) ![][042] [Golbat] (10%)<br> ![][075] [Graveler] (10%) ![][067] [Machoke] (10%) ![][110] [Weezing] (10%)<br> ![][089] [Muk] (10%) ![][324] [Torkoal] (10%)
-Day        | ![][219] [Magcargo] (20%) ![][112] [Rhydon] (20%) ![][042] [Golbat] (10%)<br> ![][075] [Graveler] (10%) ![][067] [Machoke] (10%) ![][110] [Weezing] (10%)<br> ![][089] [Muk] (10%) ![][324] [Torkoal] (10%)
-Night      | ![][219] [Magcargo] (20%) ![][112] [Rhydon] (20%) ![][042] [Golbat] (10%)<br> ![][075] [Graveler] (10%) ![][067] [Machoke] (10%) ![][110] [Weezing] (10%)<br> ![][089] [Muk] (10%) ![][324] [Torkoal] (10%)
+Morning    | ![][219]  [Magcargo] (20%) ![][112]  [Rhydon] (20%) ![][042]  [Golbat] (10%)  ![][075]  [Graveler] (10%) ![][067]  [Machoke] (10%) ![][110]  [Weezing] (10%)  ![][089]  [Muk] (10%) ![][324]  [Torkoal] (10%)
+Day        | ![][219]  [Magcargo] (20%) ![][112]  [Rhydon] (20%) ![][042]  [Golbat] (10%)  ![][075]  [Graveler] (10%) ![][067]  [Machoke] (10%) ![][110]  [Weezing] (10%)  ![][089]  [Muk] (10%) ![][324]  [Torkoal] (10%)
+Night      | ![][219]  [Magcargo] (20%) ![][112]  [Rhydon] (20%) ![][042]  [Golbat] (10%)  ![][075]  [Graveler] (10%) ![][067]  [Machoke] (10%) ![][110]  [Weezing] (10%)  ![][089]  [Muk] (10%) ![][324]  [Torkoal] (10%)
+
 
 
 [010]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png "Caterpie"
@@ -1409,330 +1410,329 @@ Night      | ![][219] [Magcargo] (20%) ![][112] [Rhydon] (20%) ![][042] [Golbat]
 [460]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460.png "Abomasnow"
 [461]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/461.png "Weavile"
 [478]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/478.png "Froslass"
-
-[Caterpie]: pokemon_changes.md#010_-_Caterpie
-[Metapod]: pokemon_changes.md#011_-_Metapod
-[Butterfree]: pokemon_changes.md#012_-_Butterfree
-[Weedle]: pokemon_changes.md#013_-_Weedle
-[Kakuna]: pokemon_changes.md#014_-_Kakuna
-[Beedrill]: pokemon_changes.md#015_-_Beedrill
-[Pidgey]: pokemon_changes.md#016_-_Pidgey
-[Pidgeotto]: pokemon_changes.md#017_-_Pidgeotto
-[Rattata]: pokemon_changes.md#019_-_Rattata
-[Raticate]: pokemon_changes.md#020_-_Raticate
-[Spearow]: pokemon_changes.md#021_-_Spearow
-[Fearow]: pokemon_changes.md#022_-_Fearow
-[Ekans]: pokemon_changes.md#023_-_Ekans
-[Arbok]: pokemon_changes.md#024_-_Arbok
-[Pikachu]: pokemon_changes.md#025_-_Pikachu
-[Sandshrew]: pokemon_changes.md#027_-_Sandshrew
-[Sandslash]: pokemon_changes.md#028_-_Sandslash
-[Nidoran♀]: pokemon_changes.md#029_-_Nidoran♀
-[Nidorina]: pokemon_changes.md#030_-_Nidorina
-[Nidoran♂]: pokemon_changes.md#032_-_Nidoran♂
-[Nidorino]: pokemon_changes.md#033_-_Nidorino
-[Clefairy]: pokemon_changes.md#035_-_Clefairy
-[Clefable]: pokemon_changes.md#036_-_Clefable
-[Vulpix]: pokemon_changes.md#037_-_Vulpix
-[Jigglypuff]: pokemon_changes.md#039_-_Jigglypuff
-[Zubat]: pokemon_changes.md#041_-_Zubat
-[Golbat]: pokemon_changes.md#042_-_Golbat
-[Oddish]: pokemon_changes.md#043_-_Oddish
-[Gloom]: pokemon_changes.md#044_-_Gloom
-[Paras]: pokemon_changes.md#046_-_Paras
-[Parasect]: pokemon_changes.md#047_-_Parasect
-[Venonat]: pokemon_changes.md#048_-_Venonat
-[Venomoth]: pokemon_changes.md#049_-_Venomoth
-[Diglett]: pokemon_changes.md#050_-_Diglett
-[Dugtrio]: pokemon_changes.md#051_-_Dugtrio
-[Meowth]: pokemon_changes.md#052_-_Meowth
-[Psyduck]: pokemon_changes.md#054_-_Psyduck
-[Golduck]: pokemon_changes.md#055_-_Golduck
-[Mankey]: pokemon_changes.md#056_-_Mankey
-[Primeape]: pokemon_changes.md#057_-_Primeape
-[Growlithe]: pokemon_changes.md#058_-_Growlithe
-[Poliwag]: pokemon_changes.md#060_-_Poliwag
-[Poliwhirl]: pokemon_changes.md#061_-_Poliwhirl
-[Abra]: pokemon_changes.md#063_-_Abra
-[Kadabra]: pokemon_changes.md#064_-_Kadabra
-[Machop]: pokemon_changes.md#066_-_Machop
-[Machoke]: pokemon_changes.md#067_-_Machoke
-[Bellsprout]: pokemon_changes.md#069_-_Bellsprout
-[Weepinbell]: pokemon_changes.md#070_-_Weepinbell
-[Tentacool]: pokemon_changes.md#072_-_Tentacool
-[Tentacruel]: pokemon_changes.md#073_-_Tentacruel
-[Geodude]: pokemon_changes.md#074_-_Geodude
-[Graveler]: pokemon_changes.md#075_-_Graveler
-[Ponyta]: pokemon_changes.md#077_-_Ponyta
-[Rapidash]: pokemon_changes.md#078_-_Rapidash
-[Slowpoke]: pokemon_changes.md#079_-_Slowpoke
-[Magnemite]: pokemon_changes.md#081_-_Magnemite
-[Magneton]: pokemon_changes.md#082_-_Magneton
-[Farfetch'd]: pokemon_changes.md#083_-_Farfetch'd
-[Doduo]: pokemon_changes.md#084_-_Doduo
-[Dodrio]: pokemon_changes.md#085_-_Dodrio
-[Seel]: pokemon_changes.md#086_-_Seel
-[Dewgong]: pokemon_changes.md#087_-_Dewgong
-[Grimer]: pokemon_changes.md#088_-_Grimer
-[Muk]: pokemon_changes.md#089_-_Muk
-[Shellder]: pokemon_changes.md#090_-_Shellder
-[Cloyster]: pokemon_changes.md#091_-_Cloyster
-[Gastly]: pokemon_changes.md#092_-_Gastly
-[Haunter]: pokemon_changes.md#093_-_Haunter
-[Onix]: pokemon_changes.md#095_-_Onix
-[Drowzee]: pokemon_changes.md#096_-_Drowzee
-[Hypno]: pokemon_changes.md#097_-_Hypno
-[Krabby]: pokemon_changes.md#098_-_Krabby
-[Kingler]: pokemon_changes.md#099_-_Kingler
-[Voltorb]: pokemon_changes.md#100_-_Voltorb
-[Electrode]: pokemon_changes.md#101_-_Electrode
-[Exeggcute]: pokemon_changes.md#102_-_Exeggcute
-[Cubone]: pokemon_changes.md#104_-_Cubone
-[Marowak]: pokemon_changes.md#105_-_Marowak
-[Lickitung]: pokemon_changes.md#108_-_Lickitung
-[Koffing]: pokemon_changes.md#109_-_Koffing
-[Weezing]: pokemon_changes.md#110_-_Weezing
-[Rhyhorn]: pokemon_changes.md#111_-_Rhyhorn
-[Rhydon]: pokemon_changes.md#112_-_Rhydon
-[Chansey]: pokemon_changes.md#113_-_Chansey
-[Tangela]: pokemon_changes.md#114_-_Tangela
-[Kangaskhan]: pokemon_changes.md#115_-_Kangaskhan
-[Horsea]: pokemon_changes.md#116_-_Horsea
-[Seadra]: pokemon_changes.md#117_-_Seadra
-[Goldeen]: pokemon_changes.md#118_-_Goldeen
-[Seaking]: pokemon_changes.md#119_-_Seaking
-[Staryu]: pokemon_changes.md#120_-_Staryu
-[Starmie]: pokemon_changes.md#121_-_Starmie
-[Mr. Mime]: pokemon_changes.md#122_-_Mr._Mime
-[Scyther]: pokemon_changes.md#123_-_Scyther
-[Jynx]: pokemon_changes.md#124_-_Jynx
-[Electabuzz]: pokemon_changes.md#125_-_Electabuzz
-[Magmar]: pokemon_changes.md#126_-_Magmar
-[Pinsir]: pokemon_changes.md#127_-_Pinsir
-[Tauros]: pokemon_changes.md#128_-_Tauros
-[Magikarp]: pokemon_changes.md#129_-_Magikarp
-[Gyarados]: pokemon_changes.md#130_-_Gyarados
-[Lapras]: pokemon_changes.md#131_-_Lapras
-[Ditto]: pokemon_changes.md#132_-_Ditto
-[Eevee]: pokemon_changes.md#133_-_Eevee
-[Porygon]: pokemon_changes.md#137_-_Porygon
-[Snorlax]: pokemon_changes.md#143_-_Snorlax
-[Dratini]: pokemon_changes.md#147_-_Dratini
-[Dragonair]: pokemon_changes.md#148_-_Dragonair
-[Sentret]: pokemon_changes.md#161_-_Sentret
-[Hoothoot]: pokemon_changes.md#163_-_Hoothoot
-[Noctowl]: pokemon_changes.md#164_-_Noctowl
-[Ledyba]: pokemon_changes.md#165_-_Ledyba
-[Ledian]: pokemon_changes.md#166_-_Ledian
-[Spinarak]: pokemon_changes.md#167_-_Spinarak
-[Ariados]: pokemon_changes.md#168_-_Ariados
-[Chinchou]: pokemon_changes.md#170_-_Chinchou
-[Lanturn]: pokemon_changes.md#171_-_Lanturn
-[Pichu]: pokemon_changes.md#172_-_Pichu
-[Cleffa]: pokemon_changes.md#173_-_Cleffa
-[Igglybuff]: pokemon_changes.md#174_-_Igglybuff
-[Togepi]: pokemon_changes.md#175_-_Togepi
-[Togetic]: pokemon_changes.md#176_-_Togetic
-[Natu]: pokemon_changes.md#177_-_Natu
-[Xatu]: pokemon_changes.md#178_-_Xatu
-[Mareep]: pokemon_changes.md#179_-_Mareep
-[Flaaffy]: pokemon_changes.md#180_-_Flaaffy
-[Marill]: pokemon_changes.md#183_-_Marill
-[Azumarill]: pokemon_changes.md#184_-_Azumarill
-[Sudowoodo]: pokemon_changes.md#185_-_Sudowoodo
-[Hoppip]: pokemon_changes.md#187_-_Hoppip
-[Aipom]: pokemon_changes.md#190_-_Aipom
-[Sunkern]: pokemon_changes.md#191_-_Sunkern
-[Yanma]: pokemon_changes.md#193_-_Yanma
-[Wooper]: pokemon_changes.md#194_-_Wooper
-[Quagsire]: pokemon_changes.md#195_-_Quagsire
-[Murkrow]: pokemon_changes.md#198_-_Murkrow
-[Misdreavus]: pokemon_changes.md#200_-_Misdreavus
-[Unown]: pokemon_changes.md#201_-_Unown
-[Wobbuffet]: pokemon_changes.md#202_-_Wobbuffet
-[Girafarig]: pokemon_changes.md#203_-_Girafarig
-[Pineco]: pokemon_changes.md#204_-_Pineco
-[Forretress]: pokemon_changes.md#205_-_Forretress
-[Dunsparce]: pokemon_changes.md#206_-_Dunsparce
-[Gligar]: pokemon_changes.md#207_-_Gligar
-[Steelix]: pokemon_changes.md#208_-_Steelix
-[Snubbull]: pokemon_changes.md#209_-_Snubbull
-[Qwilfish]: pokemon_changes.md#211_-_Qwilfish
-[Shuckle]: pokemon_changes.md#213_-_Shuckle
-[Heracross]: pokemon_changes.md#214_-_Heracross
-[Sneasel]: pokemon_changes.md#215_-_Sneasel
-[Teddiursa]: pokemon_changes.md#216_-_Teddiursa
-[Ursaring]: pokemon_changes.md#217_-_Ursaring
-[Slugma]: pokemon_changes.md#218_-_Slugma
-[Magcargo]: pokemon_changes.md#219_-_Magcargo
-[Swinub]: pokemon_changes.md#220_-_Swinub
-[Piloswine]: pokemon_changes.md#221_-_Piloswine
-[Corsola]: pokemon_changes.md#222_-_Corsola
-[Remoraid]: pokemon_changes.md#223_-_Remoraid
-[Octillery]: pokemon_changes.md#224_-_Octillery
-[Delibird]: pokemon_changes.md#225_-_Delibird
-[Mantine]: pokemon_changes.md#226_-_Mantine
-[Skarmory]: pokemon_changes.md#227_-_Skarmory
-[Houndour]: pokemon_changes.md#228_-_Houndour
-[Phanpy]: pokemon_changes.md#231_-_Phanpy
-[Donphan]: pokemon_changes.md#232_-_Donphan
-[Stantler]: pokemon_changes.md#234_-_Stantler
-[Smeargle]: pokemon_changes.md#235_-_Smeargle
-[Tyrogue]: pokemon_changes.md#236_-_Tyrogue
-[Smoochum]: pokemon_changes.md#238_-_Smoochum
-[Elekid]: pokemon_changes.md#239_-_Elekid
-[Magby]: pokemon_changes.md#240_-_Magby
-[Miltank]: pokemon_changes.md#241_-_Miltank
-[Larvitar]: pokemon_changes.md#246_-_Larvitar
-[Poochyena]: pokemon_changes.md#261_-_Poochyena
-[Mightyena]: pokemon_changes.md#262_-_Mightyena
-[Zigzagoon]: pokemon_changes.md#263_-_Zigzagoon
-[Linoone]: pokemon_changes.md#264_-_Linoone
-[Wurmple]: pokemon_changes.md#265_-_Wurmple
-[Silcoon]: pokemon_changes.md#266_-_Silcoon
-[Beautifly]: pokemon_changes.md#267_-_Beautifly
-[Cascoon]: pokemon_changes.md#268_-_Cascoon
-[Dustox]: pokemon_changes.md#269_-_Dustox
-[Lotad]: pokemon_changes.md#270_-_Lotad
-[Lombre]: pokemon_changes.md#271_-_Lombre
-[Seedot]: pokemon_changes.md#273_-_Seedot
-[Nuzleaf]: pokemon_changes.md#274_-_Nuzleaf
-[Taillow]: pokemon_changes.md#276_-_Taillow
-[Swellow]: pokemon_changes.md#277_-_Swellow
-[Wingull]: pokemon_changes.md#278_-_Wingull
-[Pelipper]: pokemon_changes.md#279_-_Pelipper
-[Ralts]: pokemon_changes.md#280_-_Ralts
-[Kirlia]: pokemon_changes.md#281_-_Kirlia
-[Surskit]: pokemon_changes.md#283_-_Surskit
-[Masquerain]: pokemon_changes.md#284_-_Masquerain
-[Shroomish]: pokemon_changes.md#285_-_Shroomish
-[Breloom]: pokemon_changes.md#286_-_Breloom
-[Slakoth]: pokemon_changes.md#287_-_Slakoth
-[Vigoroth]: pokemon_changes.md#288_-_Vigoroth
-[Nincada]: pokemon_changes.md#290_-_Nincada
-[Whismur]: pokemon_changes.md#293_-_Whismur
-[Loudred]: pokemon_changes.md#294_-_Loudred
-[Makuhita]: pokemon_changes.md#296_-_Makuhita
-[Hariyama]: pokemon_changes.md#297_-_Hariyama
-[Azurill]: pokemon_changes.md#298_-_Azurill
-[Nosepass]: pokemon_changes.md#299_-_Nosepass
-[Skitty]: pokemon_changes.md#300_-_Skitty
-[Delcatty]: pokemon_changes.md#301_-_Delcatty
-[Sableye]: pokemon_changes.md#302_-_Sableye
-[Mawile]: pokemon_changes.md#303_-_Mawile
-[Aron]: pokemon_changes.md#304_-_Aron
-[Lairon]: pokemon_changes.md#305_-_Lairon
-[Meditite]: pokemon_changes.md#307_-_Meditite
-[Medicham]: pokemon_changes.md#308_-_Medicham
-[Electrike]: pokemon_changes.md#309_-_Electrike
-[Manectric]: pokemon_changes.md#310_-_Manectric
-[Plusle]: pokemon_changes.md#311_-_Plusle
-[Minun]: pokemon_changes.md#312_-_Minun
-[Volbeat]: pokemon_changes.md#313_-_Volbeat
-[Illumise]: pokemon_changes.md#314_-_Illumise
-[Roselia]: pokemon_changes.md#315_-_Roselia
-[Gulpin]: pokemon_changes.md#316_-_Gulpin
-[Swalot]: pokemon_changes.md#317_-_Swalot
-[Carvanha]: pokemon_changes.md#318_-_Carvanha
-[Sharpedo]: pokemon_changes.md#319_-_Sharpedo
-[Wailmer]: pokemon_changes.md#320_-_Wailmer
-[Wailord]: pokemon_changes.md#321_-_Wailord
-[Numel]: pokemon_changes.md#322_-_Numel
-[Camerupt]: pokemon_changes.md#323_-_Camerupt
-[Torkoal]: pokemon_changes.md#324_-_Torkoal
-[Spoink]: pokemon_changes.md#325_-_Spoink
-[Grumpig]: pokemon_changes.md#326_-_Grumpig
-[Spinda]: pokemon_changes.md#327_-_Spinda
-[Trapinch]: pokemon_changes.md#328_-_Trapinch
-[Vibrava]: pokemon_changes.md#329_-_Vibrava
-[Cacnea]: pokemon_changes.md#331_-_Cacnea
-[Cacturne]: pokemon_changes.md#332_-_Cacturne
-[Swablu]: pokemon_changes.md#333_-_Swablu
-[Altaria]: pokemon_changes.md#334_-_Altaria
-[Zangoose]: pokemon_changes.md#335_-_Zangoose
-[Seviper]: pokemon_changes.md#336_-_Seviper
-[Lunatone]: pokemon_changes.md#337_-_Lunatone
-[Solrock]: pokemon_changes.md#338_-_Solrock
-[Barboach]: pokemon_changes.md#339_-_Barboach
-[Whiscash]: pokemon_changes.md#340_-_Whiscash
-[Corphish]: pokemon_changes.md#341_-_Corphish
-[Crawdaunt]: pokemon_changes.md#342_-_Crawdaunt
-[Baltoy]: pokemon_changes.md#343_-_Baltoy
-[Claydol]: pokemon_changes.md#344_-_Claydol
-[Feebas]: pokemon_changes.md#349_-_Feebas
-[Castform]: pokemon_changes.md#351_-_Castform
-[Kecleon]: pokemon_changes.md#352_-_Kecleon
-[Shuppet]: pokemon_changes.md#353_-_Shuppet
-[Banette]: pokemon_changes.md#354_-_Banette
-[Duskull]: pokemon_changes.md#355_-_Duskull
-[Dusclops]: pokemon_changes.md#356_-_Dusclops
-[Tropius]: pokemon_changes.md#357_-_Tropius
-[Chimecho]: pokemon_changes.md#358_-_Chimecho
-[Absol]: pokemon_changes.md#359_-_Absol
-[Wynaut]: pokemon_changes.md#360_-_Wynaut
-[Snorunt]: pokemon_changes.md#361_-_Snorunt
-[Glalie]: pokemon_changes.md#362_-_Glalie
-[Spheal]: pokemon_changes.md#363_-_Spheal
-[Sealeo]: pokemon_changes.md#364_-_Sealeo
-[Clamperl]: pokemon_changes.md#366_-_Clamperl
-[Huntail]: pokemon_changes.md#367_-_Huntail
-[Gorebyss]: pokemon_changes.md#368_-_Gorebyss
-[Relicanth]: pokemon_changes.md#369_-_Relicanth
-[Luvdisc]: pokemon_changes.md#370_-_Luvdisc
-[Bagon]: pokemon_changes.md#371_-_Bagon
-[Shelgon]: pokemon_changes.md#372_-_Shelgon
-[Beldum]: pokemon_changes.md#374_-_Beldum
-[Metang]: pokemon_changes.md#375_-_Metang
-[Starly]: pokemon_changes.md#396_-_Starly
-[Staravia]: pokemon_changes.md#397_-_Staravia
-[Bidoof]: pokemon_changes.md#399_-_Bidoof
-[Bibarel]: pokemon_changes.md#400_-_Bibarel
-[Kricketot]: pokemon_changes.md#401_-_Kricketot
-[Kricketune]: pokemon_changes.md#402_-_Kricketune
-[Shinx]: pokemon_changes.md#403_-_Shinx
-[Luxio]: pokemon_changes.md#404_-_Luxio
-[Budew]: pokemon_changes.md#406_-_Budew
-[Burmy]: pokemon_changes.md#412_-_Burmy
-[Wormadam]: pokemon_changes.md#413_-_Wormadam
-[Mothim]: pokemon_changes.md#414_-_Mothim
-[Combee]: pokemon_changes.md#415_-_Combee
-[Vespiquen]: pokemon_changes.md#416_-_Vespiquen
-[Pachirisu]: pokemon_changes.md#417_-_Pachirisu
-[Buizel]: pokemon_changes.md#418_-_Buizel
-[Floatzel]: pokemon_changes.md#419_-_Floatzel
-[Cherubi]: pokemon_changes.md#420_-_Cherubi
-[Cherrim]: pokemon_changes.md#421_-_Cherrim
-[Shellos]: pokemon_changes.md#422_-_Shellos
-[Gastrodon]: pokemon_changes.md#423_-_Gastrodon
-[Drifloon]: pokemon_changes.md#425_-_Drifloon
-[Drifblim]: pokemon_changes.md#426_-_Drifblim
-[Buneary]: pokemon_changes.md#427_-_Buneary
-[Glameow]: pokemon_changes.md#431_-_Glameow
-[Purugly]: pokemon_changes.md#432_-_Purugly
-[Chingling]: pokemon_changes.md#433_-_Chingling
-[Stunky]: pokemon_changes.md#434_-_Stunky
-[Skuntank]: pokemon_changes.md#435_-_Skuntank
-[Bronzor]: pokemon_changes.md#436_-_Bronzor
-[Bronzong]: pokemon_changes.md#437_-_Bronzong
-[Bonsly]: pokemon_changes.md#438_-_Bonsly
-[Mime Jr.]: pokemon_changes.md#439_-_Mime_Jr.
-[Happiny]: pokemon_changes.md#440_-_Happiny
-[Chatot]: pokemon_changes.md#441_-_Chatot
-[Gible]: pokemon_changes.md#443_-_Gible
-[Gabite]: pokemon_changes.md#444_-_Gabite
-[Munchlax]: pokemon_changes.md#446_-_Munchlax
-[Riolu]: pokemon_changes.md#447_-_Riolu
-[Hippopotas]: pokemon_changes.md#449_-_Hippopotas
-[Hippowdon]: pokemon_changes.md#450_-_Hippowdon
-[Skorupi]: pokemon_changes.md#451_-_Skorupi
-[Drapion]: pokemon_changes.md#452_-_Drapion
-[Croagunk]: pokemon_changes.md#453_-_Croagunk
-[Toxicroak]: pokemon_changes.md#454_-_Toxicroak
-[Carnivine]: pokemon_changes.md#455_-_Carnivine
-[Finneon]: pokemon_changes.md#456_-_Finneon
-[Lumineon]: pokemon_changes.md#457_-_Lumineon
-[Mantyke]: pokemon_changes.md#458_-_Mantyke
-[Snover]: pokemon_changes.md#459_-_Snover
-[Abomasnow]: pokemon_changes.md#460_-_Abomasnow
-[Weavile]: pokemon_changes.md#461_-_Weavile
-[Froslass]: pokemon_changes.md#478_-_Froslass
+[Caterpie]: /pokemon_changes/010
+[Metapod]: /pokemon_changes/011
+[Butterfree]: /pokemon_changes/012
+[Weedle]: /pokemon_changes/013
+[Kakuna]: /pokemon_changes/014
+[Beedrill]: /pokemon_changes/015
+[Pidgey]: /pokemon_changes/016
+[Pidgeotto]: /pokemon_changes/017
+[Rattata]: /pokemon_changes/019
+[Raticate]: /pokemon_changes/020
+[Spearow]: /pokemon_changes/021
+[Fearow]: /pokemon_changes/022
+[Ekans]: /pokemon_changes/023
+[Arbok]: /pokemon_changes/024
+[Pikachu]: /pokemon_changes/025
+[Sandshrew]: /pokemon_changes/027
+[Sandslash]: /pokemon_changes/028
+[Nidoran♀]: /pokemon_changes/029
+[Nidorina]: /pokemon_changes/030
+[Nidoran♂]: /pokemon_changes/032
+[Nidorino]: /pokemon_changes/033
+[Clefairy]: /pokemon_changes/035
+[Clefable]: /pokemon_changes/036
+[Vulpix]: /pokemon_changes/037
+[Jigglypuff]: /pokemon_changes/039
+[Zubat]: /pokemon_changes/041
+[Golbat]: /pokemon_changes/042
+[Oddish]: /pokemon_changes/043
+[Gloom]: /pokemon_changes/044
+[Paras]: /pokemon_changes/046
+[Parasect]: /pokemon_changes/047
+[Venonat]: /pokemon_changes/048
+[Venomoth]: /pokemon_changes/049
+[Diglett]: /pokemon_changes/050
+[Dugtrio]: /pokemon_changes/051
+[Meowth]: /pokemon_changes/052
+[Psyduck]: /pokemon_changes/054
+[Golduck]: /pokemon_changes/055
+[Mankey]: /pokemon_changes/056
+[Primeape]: /pokemon_changes/057
+[Growlithe]: /pokemon_changes/058
+[Poliwag]: /pokemon_changes/060
+[Poliwhirl]: /pokemon_changes/061
+[Abra]: /pokemon_changes/063
+[Kadabra]: /pokemon_changes/064
+[Machop]: /pokemon_changes/066
+[Machoke]: /pokemon_changes/067
+[Bellsprout]: /pokemon_changes/069
+[Weepinbell]: /pokemon_changes/070
+[Tentacool]: /pokemon_changes/072
+[Tentacruel]: /pokemon_changes/073
+[Geodude]: /pokemon_changes/074
+[Graveler]: /pokemon_changes/075
+[Ponyta]: /pokemon_changes/077
+[Rapidash]: /pokemon_changes/078
+[Slowpoke]: /pokemon_changes/079
+[Magnemite]: /pokemon_changes/081
+[Magneton]: /pokemon_changes/082
+[Farfetch'd]: /pokemon_changes/083
+[Doduo]: /pokemon_changes/084
+[Dodrio]: /pokemon_changes/085
+[Seel]: /pokemon_changes/086
+[Dewgong]: /pokemon_changes/087
+[Grimer]: /pokemon_changes/088
+[Muk]: /pokemon_changes/089
+[Shellder]: /pokemon_changes/090
+[Cloyster]: /pokemon_changes/091
+[Gastly]: /pokemon_changes/092
+[Haunter]: /pokemon_changes/093
+[Onix]: /pokemon_changes/095
+[Drowzee]: /pokemon_changes/096
+[Hypno]: /pokemon_changes/097
+[Krabby]: /pokemon_changes/098
+[Kingler]: /pokemon_changes/099
+[Voltorb]: /pokemon_changes/100
+[Electrode]: /pokemon_changes/101
+[Exeggcute]: /pokemon_changes/102
+[Cubone]: /pokemon_changes/104
+[Marowak]: /pokemon_changes/105
+[Lickitung]: /pokemon_changes/108
+[Koffing]: /pokemon_changes/109
+[Weezing]: /pokemon_changes/110
+[Rhyhorn]: /pokemon_changes/111
+[Rhydon]: /pokemon_changes/112
+[Chansey]: /pokemon_changes/113
+[Tangela]: /pokemon_changes/114
+[Kangaskhan]: /pokemon_changes/115
+[Horsea]: /pokemon_changes/116
+[Seadra]: /pokemon_changes/117
+[Goldeen]: /pokemon_changes/118
+[Seaking]: /pokemon_changes/119
+[Staryu]: /pokemon_changes/120
+[Starmie]: /pokemon_changes/121
+[Mr. Mime]: /pokemon_changes/122
+[Scyther]: /pokemon_changes/123
+[Jynx]: /pokemon_changes/124
+[Electabuzz]: /pokemon_changes/125
+[Magmar]: /pokemon_changes/126
+[Pinsir]: /pokemon_changes/127
+[Tauros]: /pokemon_changes/128
+[Magikarp]: /pokemon_changes/129
+[Gyarados]: /pokemon_changes/130
+[Lapras]: /pokemon_changes/131
+[Ditto]: /pokemon_changes/132
+[Eevee]: /pokemon_changes/133
+[Porygon]: /pokemon_changes/137
+[Snorlax]: /pokemon_changes/143
+[Dratini]: /pokemon_changes/147
+[Dragonair]: /pokemon_changes/148
+[Sentret]: /pokemon_changes/161
+[Hoothoot]: /pokemon_changes/163
+[Noctowl]: /pokemon_changes/164
+[Ledyba]: /pokemon_changes/165
+[Ledian]: /pokemon_changes/166
+[Spinarak]: /pokemon_changes/167
+[Ariados]: /pokemon_changes/168
+[Chinchou]: /pokemon_changes/170
+[Lanturn]: /pokemon_changes/171
+[Pichu]: /pokemon_changes/172
+[Cleffa]: /pokemon_changes/173
+[Igglybuff]: /pokemon_changes/174
+[Togepi]: /pokemon_changes/175
+[Togetic]: /pokemon_changes/176
+[Natu]: /pokemon_changes/177
+[Xatu]: /pokemon_changes/178
+[Mareep]: /pokemon_changes/179
+[Flaaffy]: /pokemon_changes/180
+[Marill]: /pokemon_changes/183
+[Azumarill]: /pokemon_changes/184
+[Sudowoodo]: /pokemon_changes/185
+[Hoppip]: /pokemon_changes/187
+[Aipom]: /pokemon_changes/190
+[Sunkern]: /pokemon_changes/191
+[Yanma]: /pokemon_changes/193
+[Wooper]: /pokemon_changes/194
+[Quagsire]: /pokemon_changes/195
+[Murkrow]: /pokemon_changes/198
+[Misdreavus]: /pokemon_changes/200
+[Unown]: /pokemon_changes/201
+[Wobbuffet]: /pokemon_changes/202
+[Girafarig]: /pokemon_changes/203
+[Pineco]: /pokemon_changes/204
+[Forretress]: /pokemon_changes/205
+[Dunsparce]: /pokemon_changes/206
+[Gligar]: /pokemon_changes/207
+[Steelix]: /pokemon_changes/208
+[Snubbull]: /pokemon_changes/209
+[Qwilfish]: /pokemon_changes/211
+[Shuckle]: /pokemon_changes/213
+[Heracross]: /pokemon_changes/214
+[Sneasel]: /pokemon_changes/215
+[Teddiursa]: /pokemon_changes/216
+[Ursaring]: /pokemon_changes/217
+[Slugma]: /pokemon_changes/218
+[Magcargo]: /pokemon_changes/219
+[Swinub]: /pokemon_changes/220
+[Piloswine]: /pokemon_changes/221
+[Corsola]: /pokemon_changes/222
+[Remoraid]: /pokemon_changes/223
+[Octillery]: /pokemon_changes/224
+[Delibird]: /pokemon_changes/225
+[Mantine]: /pokemon_changes/226
+[Skarmory]: /pokemon_changes/227
+[Houndour]: /pokemon_changes/228
+[Phanpy]: /pokemon_changes/231
+[Donphan]: /pokemon_changes/232
+[Stantler]: /pokemon_changes/234
+[Smeargle]: /pokemon_changes/235
+[Tyrogue]: /pokemon_changes/236
+[Smoochum]: /pokemon_changes/238
+[Elekid]: /pokemon_changes/239
+[Magby]: /pokemon_changes/240
+[Miltank]: /pokemon_changes/241
+[Larvitar]: /pokemon_changes/246
+[Poochyena]: /pokemon_changes/261
+[Mightyena]: /pokemon_changes/262
+[Zigzagoon]: /pokemon_changes/263
+[Linoone]: /pokemon_changes/264
+[Wurmple]: /pokemon_changes/265
+[Silcoon]: /pokemon_changes/266
+[Beautifly]: /pokemon_changes/267
+[Cascoon]: /pokemon_changes/268
+[Dustox]: /pokemon_changes/269
+[Lotad]: /pokemon_changes/270
+[Lombre]: /pokemon_changes/271
+[Seedot]: /pokemon_changes/273
+[Nuzleaf]: /pokemon_changes/274
+[Taillow]: /pokemon_changes/276
+[Swellow]: /pokemon_changes/277
+[Wingull]: /pokemon_changes/278
+[Pelipper]: /pokemon_changes/279
+[Ralts]: /pokemon_changes/280
+[Kirlia]: /pokemon_changes/281
+[Surskit]: /pokemon_changes/283
+[Masquerain]: /pokemon_changes/284
+[Shroomish]: /pokemon_changes/285
+[Breloom]: /pokemon_changes/286
+[Slakoth]: /pokemon_changes/287
+[Vigoroth]: /pokemon_changes/288
+[Nincada]: /pokemon_changes/290
+[Whismur]: /pokemon_changes/293
+[Loudred]: /pokemon_changes/294
+[Makuhita]: /pokemon_changes/296
+[Hariyama]: /pokemon_changes/297
+[Azurill]: /pokemon_changes/298
+[Nosepass]: /pokemon_changes/299
+[Skitty]: /pokemon_changes/300
+[Delcatty]: /pokemon_changes/301
+[Sableye]: /pokemon_changes/302
+[Mawile]: /pokemon_changes/303
+[Aron]: /pokemon_changes/304
+[Lairon]: /pokemon_changes/305
+[Meditite]: /pokemon_changes/307
+[Medicham]: /pokemon_changes/308
+[Electrike]: /pokemon_changes/309
+[Manectric]: /pokemon_changes/310
+[Plusle]: /pokemon_changes/311
+[Minun]: /pokemon_changes/312
+[Volbeat]: /pokemon_changes/313
+[Illumise]: /pokemon_changes/314
+[Roselia]: /pokemon_changes/315
+[Gulpin]: /pokemon_changes/316
+[Swalot]: /pokemon_changes/317
+[Carvanha]: /pokemon_changes/318
+[Sharpedo]: /pokemon_changes/319
+[Wailmer]: /pokemon_changes/320
+[Wailord]: /pokemon_changes/321
+[Numel]: /pokemon_changes/322
+[Camerupt]: /pokemon_changes/323
+[Torkoal]: /pokemon_changes/324
+[Spoink]: /pokemon_changes/325
+[Grumpig]: /pokemon_changes/326
+[Spinda]: /pokemon_changes/327
+[Trapinch]: /pokemon_changes/328
+[Vibrava]: /pokemon_changes/329
+[Cacnea]: /pokemon_changes/331
+[Cacturne]: /pokemon_changes/332
+[Swablu]: /pokemon_changes/333
+[Altaria]: /pokemon_changes/334
+[Zangoose]: /pokemon_changes/335
+[Seviper]: /pokemon_changes/336
+[Lunatone]: /pokemon_changes/337
+[Solrock]: /pokemon_changes/338
+[Barboach]: /pokemon_changes/339
+[Whiscash]: /pokemon_changes/340
+[Corphish]: /pokemon_changes/341
+[Crawdaunt]: /pokemon_changes/342
+[Baltoy]: /pokemon_changes/343
+[Claydol]: /pokemon_changes/344
+[Feebas]: /pokemon_changes/349
+[Castform]: /pokemon_changes/351
+[Kecleon]: /pokemon_changes/352
+[Shuppet]: /pokemon_changes/353
+[Banette]: /pokemon_changes/354
+[Duskull]: /pokemon_changes/355
+[Dusclops]: /pokemon_changes/356
+[Tropius]: /pokemon_changes/357
+[Chimecho]: /pokemon_changes/358
+[Absol]: /pokemon_changes/359
+[Wynaut]: /pokemon_changes/360
+[Snorunt]: /pokemon_changes/361
+[Glalie]: /pokemon_changes/362
+[Spheal]: /pokemon_changes/363
+[Sealeo]: /pokemon_changes/364
+[Clamperl]: /pokemon_changes/366
+[Huntail]: /pokemon_changes/367
+[Gorebyss]: /pokemon_changes/368
+[Relicanth]: /pokemon_changes/369
+[Luvdisc]: /pokemon_changes/370
+[Bagon]: /pokemon_changes/371
+[Shelgon]: /pokemon_changes/372
+[Beldum]: /pokemon_changes/374
+[Metang]: /pokemon_changes/375
+[Starly]: /pokemon_changes/396
+[Staravia]: /pokemon_changes/397
+[Bidoof]: /pokemon_changes/399
+[Bibarel]: /pokemon_changes/400
+[Kricketot]: /pokemon_changes/401
+[Kricketune]: /pokemon_changes/402
+[Shinx]: /pokemon_changes/403
+[Luxio]: /pokemon_changes/404
+[Budew]: /pokemon_changes/406
+[Burmy]: /pokemon_changes/412
+[Wormadam]: /pokemon_changes/413
+[Mothim]: /pokemon_changes/414
+[Combee]: /pokemon_changes/415
+[Vespiquen]: /pokemon_changes/416
+[Pachirisu]: /pokemon_changes/417
+[Buizel]: /pokemon_changes/418
+[Floatzel]: /pokemon_changes/419
+[Cherubi]: /pokemon_changes/420
+[Cherrim]: /pokemon_changes/421
+[Shellos]: /pokemon_changes/422
+[Gastrodon]: /pokemon_changes/423
+[Drifloon]: /pokemon_changes/425
+[Drifblim]: /pokemon_changes/426
+[Buneary]: /pokemon_changes/427
+[Glameow]: /pokemon_changes/431
+[Purugly]: /pokemon_changes/432
+[Chingling]: /pokemon_changes/433
+[Stunky]: /pokemon_changes/434
+[Skuntank]: /pokemon_changes/435
+[Bronzor]: /pokemon_changes/436
+[Bronzong]: /pokemon_changes/437
+[Bonsly]: /pokemon_changes/438
+[Mime Jr.]: /pokemon_changes/439
+[Happiny]: /pokemon_changes/440
+[Chatot]: /pokemon_changes/441
+[Gible]: /pokemon_changes/443
+[Gabite]: /pokemon_changes/444
+[Munchlax]: /pokemon_changes/446
+[Riolu]: /pokemon_changes/447
+[Hippopotas]: /pokemon_changes/449
+[Hippowdon]: /pokemon_changes/450
+[Skorupi]: /pokemon_changes/451
+[Drapion]: /pokemon_changes/452
+[Croagunk]: /pokemon_changes/453
+[Toxicroak]: /pokemon_changes/454
+[Carnivine]: /pokemon_changes/455
+[Finneon]: /pokemon_changes/456
+[Lumineon]: /pokemon_changes/457
+[Mantyke]: /pokemon_changes/458
+[Snover]: /pokemon_changes/459
+[Abomasnow]: /pokemon_changes/460
+[Weavile]: /pokemon_changes/461
+[Froslass]: /pokemon_changes/478
