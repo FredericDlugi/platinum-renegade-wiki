@@ -10,7 +10,7 @@
 
 You will be asked for a Ponyta in exchange for a Spheal.
 
-Gaia the Spheal   |
+Gaia the Spheal   | Stats
 ---               | ---
 Item              | ![][never-melt-ice] Never-Melt Ice
 IVs               | 31 HP / 31 Atk / 15 Def / 31 SAtk / 15 SDef / 15 Spd
@@ -22,7 +22,7 @@ Nature            | Quiet
 
 You will be asked for a Cherubi in exchange for a Skorupi.
 
-Spike the Skorupi |
+Spike the Skorupi | Stats
 ---               | ---
 Item              | ![][poison-barb] Poison Barb
 IVs               | 15 HP / 31 Atk / 31 Def / 15 SAtk / 15 SDef / 31 Spd
@@ -33,7 +33,7 @@ Nature            | Jolly
 
 You will be asked for a Snorunt in exchange for a Chatot.
 
-Macaw the Chatot |
+Macaw the Chatot | Stats
 ---              | ---
 Item             | ![][sharp-beak] Sharp Beak
 IVs              | 15 HP / 15 Atk / 15 Def / 31 SAtk / 31 SDef / 31 Spd
@@ -44,7 +44,7 @@ Nature           | Modest
 
 You will be asked for a Magikarp in exchange for a (German) Magikarp.
 
-Foppa the Magikarp |
+Foppa the Magikarp | Stats
 ---                | ---
 Item               | ![][starf-berry] Starf Berry
 IVs                | 31 HP / 31 Atk / 31 Def / 31 SAtk / 31 SDef / 31 Spd

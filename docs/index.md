@@ -165,15 +165,25 @@ As you may have seen at the end of each section, there is documentation availabl
 ## Tools Used
 
 **BTX Editor:** Made by KazoWAR, this tool was helpful for getting some new overworlds into the game, such as Steven, a few of the legendaries and more.
+
 **crystaltile2:** An invaluable tool for importing/exporting/locating particular files from NARCs, as well as being very helpful when implementing the Fairy-type.
+
 **Hex Workshop:** Helpful for those times where I needed to do things via hex editing.
+
 **JackHack Tools:** A number of tools from his site were used, including a Pokémon Editor, Attack Editor and Trade Editor.
+
 **kiwiDS:** Helpful for some cases where I needed to get the individual files for a NARC.
+
 **Lua Scripts:** A Lua script by Kaphotics that displayed the X/Y coordinate of the player on the map, allowing me to position overworlds correctly.
+
 **PKHeX:** While not used for actual development, it came in useful a few times to figure out how things worked.
+
 **PokeDSPic Platinum:** Used in a few cases where sprites had to be modified from their standard HG/SS versions.
+
 **PPRE:** Used primarily for scripting and placing overworlds on the map, as well as some text editing. Both 0.14b and 0.12 were used to get around the issues related to freezes caused when saving the script in 0.14b.
+
 **SDSME:** Used for editing text that wasn't tied to a map, as well as configuring the "weather" for places like Twinleaf Town and Wayward Cave.
+
 **Tinke:** Extremely helpful for some graphical changes, including the Steven trainer sprite and adding the Renegade Platinum logo to the title screen.
 
 I also used some tools that I made on my own to deal with the wild encounters and level up moves, as the existing tools had usability issues or bugs preventing me from doing what I wanted. These two tools aren't currently publicly available but I can hand them over on request, they're just a bit shoddy!
