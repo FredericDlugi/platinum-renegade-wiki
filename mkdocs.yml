@@ -10,7 +10,7 @@ theme:
 
 nav:
     - Pokémon Changes:
-        - General Changes: pokemon_changes.md
+        - General Changes: pokemon_changes/general_changes.md
         - Specific Changes:
             - 001 - Bulbasaur: pokemon_changes/001.md
             - 002 - Ivysaur: pokemon_changes/002.md
@@ -505,7 +505,95 @@ nav:
             - 491 - Darkrai: pokemon_changes/491.md
             - 492 - Shaymin: pokemon_changes/492.md
             - 493 - Arceus: pokemon_changes/493.md
-    - Trainer Pokémon: trainer_pokemon.md
+    - Trainer Changes:
+        - General Changes: trainer_changes/general_changes.md
+        - Area Changes:
+            - Route 201: trainer_changes/route_201.md
+            - Route 202: trainer_changes/route_202.md
+            - Jubilife City Trainer School: trainer_changes/jubilife_city_trainer_school.md
+            - Route 204 ~ South: trainer_changes/route_204__south.md
+            - Route 203: trainer_changes/route_203.md
+            - Oreburgh Gate: trainer_changes/oreburgh_gate.md
+            - Oreburgh City: trainer_changes/oreburgh_city.md
+            - Oreburgh Mine: trainer_changes/oreburgh_mine.md
+            - 💪Oreburgh Gym: trainer_changes/oreburgh_gym.md
+            - Jubilife City: trainer_changes/jubilife_city.md
+            - Route 204 ~ North: trainer_changes/route_204__north.md
+            - Floaroma Town: trainer_changes/floaroma_town.md
+            - Floaroma Meadow: trainer_changes/floaroma_meadow.md
+            - Valley Windworks: trainer_changes/valley_windworks.md
+            - Route 205 ~ South: trainer_changes/route_205__south.md
+            - Eterna Forest: trainer_changes/eterna_forest.md
+            - Route 205 ~ North: trainer_changes/route_205__north.md
+            - Route 211 ~ West: trainer_changes/route_211__west.md
+            - Route 211 ~ East: trainer_changes/route_211__east.md
+            - Route 216: trainer_changes/route_216.md
+            - Route 206: trainer_changes/route_206.md
+            - 💪Eterna Gym: trainer_changes/eterna_gym.md
+            - Team Galactic Eterna Building: trainer_changes/team_galactic_eterna_building.md
+            - Route 207: trainer_changes/route_207.md
+            - Wayward Cave: trainer_changes/wayward_cave.md
+            - Route 208: trainer_changes/route_208.md
+            - 💪Hearthome Gym: trainer_changes/hearthome_gym.md
+            - Route 212 ~ North: trainer_changes/route_212__north.md
+            - Route 209: trainer_changes/route_209.md
+            - Lost Tower: trainer_changes/lost_tower.md
+            - Solaceon Ruins: trainer_changes/solaceon_ruins.md
+            - Route 210 ~ South: trainer_changes/route_210__south.md
+            - Route 215: trainer_changes/route_215.md
+            - 💪Veilstone Gym: trainer_changes/veilstone_gym.md
+            - Veilstone City: trainer_changes/veilstone_city.md
+            - Route 214: trainer_changes/route_214.md
+            - Seven Stars Restaurant: trainer_changes/seven_stars_restaurant.md
+            - Route 213: trainer_changes/route_213.md
+            - Route 212 ~ South: trainer_changes/route_212__south.md
+            - Pastoria City: trainer_changes/pastoria_city.md
+            - 💪Pastoria Gym: trainer_changes/pastoria_gym.md
+            - Route 210 ~ North: trainer_changes/route_210__north.md
+            - Celestic Town: trainer_changes/celestic_town.md
+            - Route 218: trainer_changes/route_218.md
+            - Fuego Ironworks: trainer_changes/fuego_ironworks.md
+            - Route 219: trainer_changes/route_219.md
+            - Route 220: trainer_changes/route_220.md
+            - Route 221: trainer_changes/route_221.md
+            - Pal Park: trainer_changes/pal_park.md
+            - Canalave City: trainer_changes/canalave_city.md
+            - Iron Island: trainer_changes/iron_island.md
+            - 💪Canalave Gym: trainer_changes/canalave_gym.md
+            - Lake Valor: trainer_changes/lake_valor.md
+            - Lake Verity: trainer_changes/lake_verity.md
+            - Route 217: trainer_changes/route_217.md
+            - Snowpoint City: trainer_changes/snowpoint_city.md
+            - 💪Snowpoint Gym: trainer_changes/snowpoint_gym.md
+            - Galactic HQ: trainer_changes/galactic_hq.md
+            - Mt. Coronet ~ 3F: trainer_changes/mt_coronet__3f.md
+            - Mt. Coronet ~ 4F: trainer_changes/mt_coronet__4f.md
+            - Mt. Coronet ~ Tunnel to Route 211 Entrance: trainer_changes/mt_coronet__tunnel_to_route_211_entrance.md
+            - Mt. Coronet ~ 6F: trainer_changes/mt_coronet__6f.md
+            - Mt. Coronet ~ 7F: trainer_changes/mt_coronet__7f.md
+            - Spear Pillar: trainer_changes/spear_pillar.md
+            - Distortion World: trainer_changes/distortion_world.md
+            - Route 222: trainer_changes/route_222.md
+            - Sunyshore City: trainer_changes/sunyshore_city.md
+            - 💪Sunyshore Gym: trainer_changes/sunyshore_gym.md
+            - Route 223: trainer_changes/route_223.md
+            - Victory Road: trainer_changes/victory_road.md
+            - Victory Road ~ East: trainer_changes/victory_road__east.md
+            - Route 224: trainer_changes/route_224.md
+            - 🥇Pokémon League: trainer_changes/pokemon_league.md
+            - Fight Area: trainer_changes/fight_area.md
+            - Route 225: trainer_changes/route_225.md
+            - Route 226: trainer_changes/route_226.md
+            - Route 227: trainer_changes/route_227.md
+            - Route 228: trainer_changes/route_228.md
+            - Route 229: trainer_changes/route_229.md
+            - Route 230: trainer_changes/route_230.md
+            - Stark Mountain ~ Outside: trainer_changes/stark_mountain__outside.md
+            - Stark Mountain ~ Entrance: trainer_changes/stark_mountain__entrance.md
+            - Stark Mountain ~ Interior: trainer_changes/stark_mountain__interior.md
+            - Battleground: trainer_changes/battleground.md
+            - Battle Marathon Only: trainer_changes/battle_marathon_only.md
+            - Pokémon Center: trainer_changes/pokemon_center.md
     - Item Changes: item_changes.md
     - Wild Pokémon: wild_pokemon.md
     - Special Events: special_events.md
@@ -528,7 +616,7 @@ markdown_extensions:
     - admonition
     - def_list
 
-copyright: Maintained by <a href="/about/release-notes/#maintenance-team">Frederic Dlugi</a>.
+copyright: Maintained by Frederic Dlugi.
 
 plugins:
     - search:
