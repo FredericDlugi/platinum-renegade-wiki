@@ -26,6 +26,8 @@ PKMN Trainer Marley  | Item         | Nature  | Ability       | Moves
 ![][169]<br> [Crobat] Lv. 65          | ![][bright-powder]<br> Bright Powder    | ?        | Inner Focus         | Brave Bird, Cross Poison, Hypnosis, Roost
 ![][461]<br> [Weavile] Lv. 65         | ![][life-orb]<br> Life Orb              | ?        | Technician          | Crunch, Icicle Crash, Aerial Ace, Low Kick
 ![][059]<br> [Arcanine] Lv. 66        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Intimidate          | Flare Blitz, Close Combat, Crunch, Extreme Speed
+
+
 [015]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png "Beedrill"
 [031]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png "Nidoqueen"
 [038]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png "Ninetales"

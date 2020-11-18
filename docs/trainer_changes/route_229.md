@@ -16,6 +16,8 @@ Ace Trainer Gene   | Item         | Nature | Ability      | Moves
 ![][400]<br> [Bibarel] Lv. 76         | ![][chople-berry]<br> Chople Berry      | ?        | Simple              | Double-Edge, Aqua Tail, Crunch, Curse
 ![][474]<br> [Porygon-Z] Lv. 76       | ![][life-orb]<br> Life Orb              | ?        | Adaptability        | Hyper Beam, Thunderbolt, Ice Beam, Psychic
 ![][143]<br> [Snorlax] Lv. 77         | ![][leftovers]<br> Leftovers            | ?        | Thick Fat           | Body Slam, Earthquake, Curse, Slack Off
+
+
 [012]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png "Butterfree"
 [026]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png "Raichu"
 [045]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png "Vileplume"

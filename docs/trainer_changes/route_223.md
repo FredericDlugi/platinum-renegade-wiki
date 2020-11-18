@@ -25,6 +25,8 @@ Swimmer Francisco (S)      | ![][272]  [Ludicolo] Lv. 75  ![][369]  [Relicanth] 
 Swimmer Miranda (S)        | ![][091]  [Cloyster] Lv. 75  ![][457]  [Lumineon] Lv. 75  ![][121]  [Starmie] Lv. 75
 Swimmer Crystal (S)        | ![][321]  [Wailord] Lv. 75  ![][119]  [Seaking] Lv. 75  ![][222]  [Corsola] Lv. 75
 Sailor Zachariah (S)       | ![][099]  [Kingler] Lv. 74  ![][068]  [Machamp] Lv. 74  ![][423]  [Gastrodon] Lv. 74 <br> ![][199]  [Slowking] Lv. 74
+
+
 [009]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png "Blastoise"
 [055]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png "Golduck"
 [062]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png "Poliwrath"

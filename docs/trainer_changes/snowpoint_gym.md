@@ -18,6 +18,8 @@ Leader Candice     | Item             | Nature  | Ability       | Moves
 ![][365]<br> [Walrein] Lv. 55         | ![][chople-berry]<br> Chople Berry      | Quiet    | Thick Fat           | Blizzard, Surf, Yawn, Aqua Ring
 ![][473]<br> [Mamoswine] Lv. 55       | ![][passho-berry]<br> Passho Berry      | Naive    | Thick Fat           | Earthquake, Avalanche, Stone Edge, Ice Shard
 ![][478]<br> [Froslass] Lv. 56        | ![][life-orb]<br> Life Orb              | Modest   | Levitate (!)        | Blizzard, Shadow Ball, Thunderbolt, Attract
+
+
 [086]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png "Seel"
 [087]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png "Dewgong"
 [091]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png "Cloyster"

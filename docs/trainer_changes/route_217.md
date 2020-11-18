@@ -22,6 +22,8 @@ Skier Madison (C)          | ![][124]  [Jynx] Lv. 70  ![][478]  [Froslass] Lv. 7
 Skier Bjorn (8)            | ![][221]  [Piloswine] Lv. 59  ![][221]  [Piloswine] Lv. 59  ![][473]  [Mamoswine] Lv. 59
 Skier Bjorn (C)            | ![][473]  [Mamoswine] Lv. 72  ![][473]  [Mamoswine] Lv. 72  ![][473]  [Mamoswine] Lv. 72
 Ace Trainer Olivia (C)     | ![][275]  [Shiftry] Lv. 72  ![][334]  [Altaria] Lv. 72  ![][242]  [Blissey] Lv. 72
+
+
 [003]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png "Venusaur"
 [068]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png "Machamp"
 [087]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png "Dewgong"

@@ -19,6 +19,8 @@ Leader Byron        | Item         | Nature  | Ability       | Moves
 ![][205]<br> [Forretress] Lv. 52      | ![][sitrus-berry]<br> Sitrus Berry      | Impish   | Sturdy              | Gyro Ball, Spikes, Toxic Spikes, Explosion
 ![][306]<br> [Aggron] Lv. 52          | ![][focus-sash]<br> Focus Sash          | Naughty  | Rock Head           | Head Smash, Iron Head, Aqua Tail, Low Kick
 ![][411]<br> [Bastiodon] Lv. 53       | ![][leftovers]<br> Leftovers            | Sassy    | Soundproof          | Iron Head, Toxic, Protect, Metal Burst
+
+
 [081]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png "Magnemite"
 [082]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png "Magneton"
 [205]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png "Forretress"

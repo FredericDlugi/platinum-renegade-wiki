@@ -24,6 +24,8 @@ PKMN Trainer Dawn   | ![][065]  [Alakazam] Lv. 83  ![][473]  [Mamoswine] Lv. 83 
 PKMN Trainer Lucas  | ![][065]  [Alakazam] Lv. 83  ![][473]  [Mamoswine] Lv. 83  ![][210]  [Granbull] Lv. 83 <br> ![][463]  [Lickilicky] Lv. 83  ![][134]  [Vaporeon] Lv. 83  ![][389]  [Torterra] Lv. 84
 PKMN Trainer Lucas  | ![][065]  [Alakazam] Lv. 83  ![][473]  [Mamoswine] Lv. 83  ![][210]  [Granbull] Lv. 83 <br> ![][463]  [Lickilicky] Lv. 83  ![][135]  [Jolteon] Lv. 83  ![][392]  [Infernape] Lv. 84
 PKMN Trainer Lucas  | ![][065]  [Alakazam] Lv. 83  ![][473]  [Mamoswine] Lv. 83  ![][210]  [Granbull] Lv. 83 <br> ![][463]  [Lickilicky] Lv. 83  ![][136]  [Flareon] Lv. 83  ![][395]  [Empoleon] Lv. 84
+
+
 [026]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png "Raichu"
 [036]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png "Clefable"
 [059]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png "Arcanine"

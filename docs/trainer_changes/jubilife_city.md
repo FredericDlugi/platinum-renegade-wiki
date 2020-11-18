@@ -11,6 +11,8 @@ PKMN Trainer Dawn          | ![][035]  [Clefairy] Lv. 13  ![][390]  [Chimchar] L
 PKMN Trainer Lucas         | ![][209]  [Snubbull] Lv. 13  ![][393]  [Piplup] Lv. 14
 PKMN Trainer Lucas         | ![][209]  [Snubbull] Lv. 13  ![][387]  [Turtwig] Lv. 14
 PKMN Trainer Lucas         | ![][209]  [Snubbull] Lv. 13  ![][390]  [Chimchar] Lv. 14
+
+
 [001]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png "Bulbasaur"
 [004]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png "Charmander"
 [007]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png "Squirtle"

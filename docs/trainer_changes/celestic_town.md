@@ -11,6 +11,8 @@ Galactic Boss Cyrus | Item         | Nature  | Ability       | Moves
 ![][430]<br> [Honchkrow] Lv. 45       | ![][scope-lens]<br> Scope Lens          | ?        | Super Luck          | Brave Bird, Night Slash, Swagger, Torment
 ![][462]<br> [Magnezone] Lv. 45       | ![][life-orb]<br> Life Orb              | ?        | Magnet Pull         | Thunderbolt, Flash Cannon, Thunder Wave, Mirror Coat
 ![][461]<br> [Weavile] Lv. 46         | ![][expert-belt]<br> Expert Belt        | ?        | Technician (!)      | Feint Attack, Icicle Crash, Ice Shard, Swords Dance
+
+
 [015]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png "Beedrill"
 [042]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png "Golbat"
 [169]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png "Crobat"

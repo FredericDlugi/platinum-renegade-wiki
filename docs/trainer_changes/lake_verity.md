@@ -15,6 +15,8 @@ Commander Mars      | Item         | Nature  | Ability       | Moves
 ![][437]<br> [Bronzong] Lv. 52        | ![][leftovers]<br> Leftovers            | ?        | Levitate            | Stealth Rock, Gyro Ball, Payback, Explosion
 ![][115]<br> [Kangaskhan] Lv. 52      | ![][muscle-band]<br> Muscle Band        | ?        | Scrappy             | Double-Edge, Hammer Arm, Crunch, Fake Out
 ![][432]<br> [Purugly] Lv. 53         | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Thick Fat           | Body Slam, Play Rough, Hypnosis, Fake Out
+
+
 [012]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png "Butterfree"
 [015]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png "Beedrill"
 [030]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png "Nidorina"

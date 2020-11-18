@@ -30,6 +30,8 @@ Commander Jupiter  | Item         | Nature  | Ability       | Moves
 ![][465]<br> [Tangrowth] Lv. 57       | ![][big-root]<br> Big Root              | ?        | Chlorophyll         | Giga Drain, Leech Seed, Focus Blast, Sludge Bomb
 ![][423]<br> [Gastrodon] Lv. 57       | ![][wise-glasses]<br> Wise Glasses      | ?        | Sticky Hold         | Muddy Water, Earth Power, Ice Beam, Recover
 ![][435]<br> [Skuntank] Lv. 58        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Aftermath           | Gunk Shot, Crunch, Play Rough, Toxic
+
+
 [042]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png "Golbat"
 [049]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png "Venomoth"
 [053]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png "Persian"

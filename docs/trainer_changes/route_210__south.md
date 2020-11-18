@@ -18,6 +18,8 @@ Trainer                    | Pokémons
 ---                        | ---
 Rancher Marco (8)          | ![][078]  [Rapidash] Lv. 59  ![][128]  [Tauros] Lv. 59  ![][241]  [Miltank] Lv. 59
 Rancher Marco (C)          | ![][078]  [Rapidash] Lv. 70  ![][128]  [Tauros] Lv. 70  ![][241]  [Miltank] Lv. 70
+
+
 [036]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png "Clefable"
 [078]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png "Rapidash"
 [101]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png "Electrode"

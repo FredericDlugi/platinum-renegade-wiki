@@ -12,6 +12,8 @@ Castle Valet Darach | Item         | Nature  | Ability       | Moves
 ![][376]<br> [Metagross] Lv. 48       | ![][life-orb]<br> Life Orb              | ?        | Iron Fist (!)       | Meteor Mash, Zen Headbutt, Earthquake, Hammer Arm
 ![][398]<br> [Staraptor] Lv. 48       | ![][kings-rock]<br> King's Rock         | ?        | Reckless            | Return, Brave Bird, Close Combat, Roost
 ![][244]<br> [Entei] Lv. 48           | ![][shuca-berry]<br> Shuca Berry        | ?        | Pressure            | Sacred Fire, Stone Edge, Extreme Speed, Iron Head
+
+
 [065]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png "Alakazam"
 [244]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png "Entei"
 [376]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png "Metagross"

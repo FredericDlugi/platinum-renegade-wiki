@@ -13,6 +13,8 @@ Trainer                    | Pokémons
 Lass Samantha (3)          | ![][404]  [Luxio] Lv. 26  ![][315]  [Roselia] Lv. 26  ![][070]  [Weepinbell] Lv. 26
 Lass Samantha (5)          | ![][404]  [Luxio] Lv. 38  ![][315]  [Roselia] Lv. 38  ![][070]  [Weepinbell] Lv. 38
 Lass Samantha (C)          | ![][405]  [Luxray] Lv. 70  ![][407]  [Roserade] Lv. 70  ![][071]  [Victreebel] Lv. 70
+
+
 [016]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png "Pidgey"
 [029]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png "Nidoran♀"
 [043]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png "Oddish"

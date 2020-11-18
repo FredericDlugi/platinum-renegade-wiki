@@ -40,6 +40,8 @@ PKMN Trainer Lucas | Item         | Nature  | Ability       | Moves
 ![][388]<br> [Grotle] Lv. 30          | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Overgrow            | Seed Bomb, Body Slam, Leech Seed, Sand Tomb     (!)
 ![][391]<br> [Monferno] Lv. 30        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Iron Fist           | Flamethrower, Fake Out, Mach Punch, Grass Knot  (!)
 ![][394]<br> [Prinplup] Lv. 30        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Torrent             | Bubble Beam, Icy Wind, Brick Break, Shadow Claw (!)
+
+
 [004]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png "Charmander"
 [028]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png "Sandslash"
 [036]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png "Clefable"

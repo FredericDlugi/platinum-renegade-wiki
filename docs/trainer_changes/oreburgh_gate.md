@@ -5,6 +5,8 @@ Trainer                    | Pokémons
 Camper Curtis              | ![][273]  [Seedot] Lv. 10  ![][050]  [Diglett] Lv. 10
 Picnicker Diana            | ![][293]  [Whismur] Lv. 10  ![][194]  [Wooper] Lv. 10
 Veteran Grant              | ![][448]  [Lucario] Lv. 45  ![][076]  [Golem] Lv. 45  ![][398]  [Staraptor] Lv. 45
+
+
 [050]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png "Diglett"
 [076]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png "Golem"
 [194]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png "Wooper"

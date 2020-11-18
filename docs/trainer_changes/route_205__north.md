@@ -12,6 +12,8 @@ Trainer                    | Pokémons
 ---                        | ---
 Fisherman Joseph (5)       | ![][119]  [Seaking] Lv. 38  ![][061]  [Poliwhirl] Lv. 38  ![][342]  [Crawdaunt] Lv. 38
 Fisherman Joseph (C)       | ![][119]  [Seaking] Lv. 70  ![][186]  [Politoed] Lv. 70  ![][342]  [Crawdaunt] Lv. 70
+
+
 [060]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png "Poliwag"
 [061]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png "Poliwhirl"
 [098]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png "Krabby"

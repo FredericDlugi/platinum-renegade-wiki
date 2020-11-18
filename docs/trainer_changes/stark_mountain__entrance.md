@@ -22,6 +22,8 @@ Commander Jupiter  | Item          | Nature | Ability         | Moves
 ![][465]<br> [Tangrowth] Lv. 77       | ![][white-herb]<br> White Herb          | ?        | Chlorophyll         | Leaf Storm, Earthquake, Focus Blast, Sludge Bomb
 ![][423]<br> [Gastrodon] Lv. 77       | ![][wise-glasses]<br> Wise Glasses      | ?        | Sticky Hold         | Muddy Water, Earth Power, Ice Beam, Recover
 ![][435]<br> [Skuntank] Lv. 78        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Aftermath           | Gunk Shot, Crunch, Play Rough, Toxic
+
+
 [115]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png "Kangaskhan"
 [169]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png "Crobat"
 [302]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/302.png "Sableye"

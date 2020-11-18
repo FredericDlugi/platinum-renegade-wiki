@@ -62,6 +62,8 @@ Clown Lee (S)               | ![][424]  [Ambipom] Lv. 80  ![][065]  [Alakazam] L
 [passho-berry]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/passho-berry.png
 [petaya-berry]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/petaya-berry.png
 
+
+
 [025]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png "Pikachu"
 [026]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png "Raichu"
 [035]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png "Clefairy"

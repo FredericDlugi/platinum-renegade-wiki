@@ -21,6 +21,8 @@ Ace Trainer Dennis (7)     | ![][472]  [Gliscor] Lv. 62  ![][130]  [Gyarados] Lv
 Ace Trainer Dennis (S)     | ![][472]  [Gliscor] Lv. 77  ![][130]  [Gyarados] Lv. 77  ![][426]  [Drifblim] Lv. 77
 Ace Trainer Maya (7)       | ![][463]  [Lickilicky] Lv. 62  ![][282]  [Gardevoir] Lv. 62  ![][407]  [Roserade] Lv. 62
 Ace Trainer Maya (S)       | ![][463]  [Lickilicky] Lv. 77  ![][282]  [Gardevoir] Lv. 77  ![][407]  [Roserade] Lv. 77
+
+
 [057]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png "Primeape"
 [067]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png "Machoke"
 [105]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png "Marowak"

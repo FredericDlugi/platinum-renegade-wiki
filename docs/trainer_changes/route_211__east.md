@@ -13,6 +13,8 @@ Trainer                    | Pokémons
 ---                        | ---
 Ruin Maniac Harry (8)      | ![][142]  [Aerodactyl] Lv. 61
 Ruin Maniac Harry (C)      | ![][142]  [Aerodactyl] Lv. 72
+
+
 [142]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png "Aerodactyl"
 [164]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png "Noctowl"
 [214]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png "Heracross"

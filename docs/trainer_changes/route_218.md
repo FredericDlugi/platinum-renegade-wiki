@@ -13,6 +13,8 @@ Trainer                    | Pokémons
 ---                        | ---
 Fisherman Miguel (C)       | ![][366]  [Clamperl] Lv. 70  ![][367]  [Huntail] Lv. 70  ![][368]  [Gorebyss] Lv. 70
 Guitarist Tony (C)         | ![][402]  [Kricketune] Lv. 71  ![][295]  [Exploud] Lv. 71
+
+
 [139]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png "Omastar"
 [141]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png "Kabutops"
 [295]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/295.png "Exploud"

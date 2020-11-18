@@ -58,6 +58,8 @@ PKMN Trainer Lucas  | Item         | Nature  | Ability       | Moves
 ![][389]<br> [Torterra] Lv. 45        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Overgrow            | Wood Hammer, Earthquake, Iron Head, Rock Slide          (!)
 ![][392]<br> [Infernape] Lv. 45       | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Iron Fist           | Fire Blast, Close Combat, Thunder Punch, Rock Slide     (!)
 ![][395]<br> [Empoleon] Lv. 45        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Torrent             | Surf, Flash Cannon, Grass Knot, Featherdance            (!)
+
+
 [018]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png "Pidgeot"
 [036]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png "Clefable"
 [038]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png "Ninetales"

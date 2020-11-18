@@ -18,6 +18,8 @@ Galactic Boss Cyrus | Item         | Nature  | Ability       | Moves
 ![][130]<br> [Gyarados] Lv. 59        | ![][muscle-band]<br> Muscle Band        | Jolly    | Intimidate          | Aqua Tail, Stone Edge, Ice Fang, Dragon Dance
 ![][462]<br> [Magnezone] Lv. 59       | ![][wise-glasses]<br> Wise Glasses      | Modest   | Magnet Pull         | Thunderbolt, Flash Cannon, Signal Beam, Mirror Coat
 ![][461]<br> [Weavile] Lv. 60         | ![][focus-sash]<br> Focus Sash          | Jolly    | Technician (!)      | Feint Attack, Icicle Crash, Aerial Ace, Swords Dance
+
+
 [130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
 [169]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png "Crobat"
 [229]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png "Houndoom"

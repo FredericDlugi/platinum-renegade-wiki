@@ -29,6 +29,8 @@ Ace Trainer Shade  | Item           | Nature | Ability        | Moves
 ![][319]<br> [Sharpedo] Lv. 76        | ![][expert-belt]<br> Expert Belt        | ?        | Speed Boost         | Waterfall, Crunch, Ice Fang, Zen Headbutt
 ![][442]<br> [Spiritomb] Lv. 76       | ![][leftovers]<br> Leftovers            | ?        | Pressure            | Dark Pulse, Psychic, Hypnosis, Double Team
 ![][248]<br> [Tyranitar] Lv. 77       | ![][chople-berry]<br> Chople Berry      | ?        | Sand Stream         | Crunch, Stone Edge, Iron Tail, Fire Punch
+
+
 [028]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png "Sandslash"
 [057]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png "Primeape"
 [068]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png "Machamp"

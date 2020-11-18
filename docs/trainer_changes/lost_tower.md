@@ -8,6 +8,8 @@ Roughneck Kirby            | ![][173]  [Cleffa] Lv. 33
 Pokéfan Rebekah            | ![][035]  [Clefairy] Lv. 30  ![][320]  [Wailmer] Lv. 30  ![][438]  [Bonsly] Lv. 30 <br> ![][300]  [Skitty] Lv. 30
 Young Couple Mike & Nat    | ![][198]  [Murkrow] Lv. 33  ![][200]  [Misdreavus] Lv. 33
 Belle & Pa Beth & Bob      | ![][077]  [Ponyta] Lv. 33  ![][180]  [Flaaffy] Lv. 33
+
+
 [035]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png "Clefairy"
 [077]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png "Ponyta"
 [173]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png "Cleffa"

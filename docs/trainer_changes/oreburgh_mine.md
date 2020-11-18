@@ -4,6 +4,8 @@ Trainer                    | Pokémons
 ---                        | ---
 Worker Mason               | ![][304]  [Aron] Lv. 12  ![][231]  [Phanpy] Lv. 12  ![][447]  [Riolu] Lv. 12
 Worker Colin               | ![][074]  [Geodude] Lv. 12  ![][293]  [Whismur] Lv. 12  ![][066]  [Machop] Lv. 12
+
+
 [066]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png "Machop"
 [074]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png "Geodude"
 [231]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/231.png "Phanpy"

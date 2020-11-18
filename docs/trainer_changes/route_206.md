@@ -22,6 +22,8 @@ Cyclist John (C)           | ![][083]  [Farfetch'd] Lv. 72
 Cyclist Kayla (5)          | ![][101]  [Electrode] Lv. 38  ![][082]  [Magneton] Lv. 38  ![][310]  [Manectric] Lv. 38
 Cyclist Kayla (8)          | ![][101]  [Electrode] Lv. 59  ![][082]  [Magneton] Lv. 59  ![][310]  [Manectric] Lv. 59
 Cyclist Kayla (C)          | ![][101]  [Electrode] Lv. 70  ![][462]  [Magnezone] Lv. 70  ![][310]  [Manectric] Lv. 70
+
+
 [017]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png "Pidgeotto"
 [025]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png "Pikachu"
 [077]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png "Ponyta"

@@ -4,6 +4,8 @@ Trainer                    | Pokémons
 ---                        | ---
 Galactic Grunt             | ![][030]  [Nidorina] Lv. 54  ![][317]  [Swalot] Lv. 54  ![][053]  [Persian] Lv. 54
 Galactic Grunt             | ![][033]  [Nidorino] Lv. 54  ![][452]  [Drapion] Lv. 54  ![][402]  [Kricketune] Lv. 54
+
+
 [030]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png "Nidorina"
 [033]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png "Nidorino"
 [053]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png "Persian"

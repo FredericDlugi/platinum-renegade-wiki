@@ -49,6 +49,8 @@ Gentleman Backlot   | Item         | Nature  | Ability       | Moves
 ![][040]<br> [Wigglytuff] Lv. 33      | ![][zoom-lens]<br> Zoom Lens            | ?        | Cute Charm          | Moonblast, Hyper Voice, Sing, Thunderbolt
 ![][026]<br> [Raichu] Lv. 33          | ![][wise-glasses]<br> Wise Glasses      | ?        | Static              | Fake Out, Thunderbolt, Grass Knot, Teeter Dance
 ![][196]<br> [Espeon] Lv. 33          | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Synchronize         | Psychic, Power Gem, Dazzling Gleam, Protect
+
+
 [012]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png "Butterfree"
 [015]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png "Beedrill"
 [024]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png "Arbok"

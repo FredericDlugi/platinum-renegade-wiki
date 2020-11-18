@@ -31,6 +31,8 @@ Pokémon Ranger Allison (C) | ![][350]  [Milotic] Lv. 71  ![][470]  [Leafeon] Lv
 Parasol Lady Alexa (5)     | ![][117]  [Seadra] Lv. 39  ![][055]  [Golduck] Lv. 39
 Parasol Lady Alexa (8)     | ![][230]  [Kingdra] Lv. 60  ![][055]  [Golduck] Lv. 60
 Parasol Lady Alexa (C)     | ![][230]  [Kingdra] Lv. 71  ![][055]  [Golduck] Lv. 71
+
+
 [034]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png "Nidoking"
 [055]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png "Golduck"
 [058]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png "Growlithe"

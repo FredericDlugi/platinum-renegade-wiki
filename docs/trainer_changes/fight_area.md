@@ -7,6 +7,8 @@ Elite Four Flint           | ![][059]  [Arcanine] Lv. 74  ![][136]  [Flareon] Lv
 PKMN Trainer Barry         | ![][398]  [Staraptor] Lv. 74  ![][214]  [Heracross] Lv. 74  ![][143]  [Snorlax] Lv. 74 <br> ![][184]  [Azumarill] Lv. 74  ![][059]  [Arcanine] Lv. 74  ![][389]  [Torterra] Lv. 75
 PKMN Trainer Barry         | ![][398]  [Staraptor] Lv. 74  ![][214]  [Heracross] Lv. 74  ![][143]  [Snorlax] Lv. 74 <br> ![][184]  [Azumarill] Lv. 74  ![][286]  [Breloom] Lv. 74  ![][392]  [Infernape] Lv. 75
 PKMN Trainer Barry         | ![][398]  [Staraptor] Lv. 74  ![][214]  [Heracross] Lv. 74  ![][143]  [Snorlax] Lv. 74 <br> ![][286]  [Breloom] Lv. 74  ![][059]  [Arcanine] Lv. 74  ![][395]  [Empoleon] Lv. 75
+
+
 [026]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png "Raichu"
 [059]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png "Arcanine"
 [135]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png "Jolteon"

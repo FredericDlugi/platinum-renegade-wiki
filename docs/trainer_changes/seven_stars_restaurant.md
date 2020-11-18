@@ -21,6 +21,7 @@ Beauty Gabriella           | ![][457]  [Lumineon] Lv. 37
 Scientist Emilio           | ![][065]  [Alakazam] Lv. 37
 Pokémon Breeder Kaylee     | ![][184]  [Azumarill] Lv. 37
 
+
 [045]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png "Vileplume"
 [053]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png "Persian"
 [055]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png "Golduck"

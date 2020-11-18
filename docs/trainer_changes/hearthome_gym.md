@@ -30,6 +30,8 @@ PKMN Trainer Barry | Item         | Nature  | Ability       | Moves
 ![][388]<br> [Grotle] Lv. 33          | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Overgrow            | Seed Bomb, Crunch, Leech Seed, Protect          (!)
 ![][391]<br> [Monferno] Lv. 33        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Iron Fist           | Flamethrower, Low Kick, Grass Knot, Fake Out    (!)
 ![][394]<br> [Prinplup] Lv. 33        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Torrent             | Scald, Icy Wind, Grass Knot, Aerial Ace         (!)
+
+
 [092]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png "Gastly"
 [093]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png "Haunter"
 [094]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png "Gengar"

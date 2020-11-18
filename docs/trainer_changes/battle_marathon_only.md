@@ -6,6 +6,8 @@ Commander Mars      | ![][169]  [Crobat] Lv. 81  ![][469]  [Yanmega] Lv. 81  ![]
 Commander Jupiter   | ![][437]  [Bronzong] Lv. 81  ![][302]  [Sableye] Lv. 81  ![][169]  [Crobat] Lv. 81 <br> ![][465]  [Tangrowth] Lv. 81  ![][423]  [Gastrodon] Lv. 81  ![][435]  [Skuntank] Lv. 82
 Commander Saturn    | ![][437]  [Bronzong] Lv. 81  ![][224]  [Octillery] Lv. 81  ![][065]  [Alakazam] Lv. 81 <br> ![][464]  [Rhyperior] Lv. 81  ![][467]  [Magmortar] Lv. 81  ![][454]  [Toxicroak] Lv. 82
 Galactic Boss Cyrus | ![][169]  [Crobat] Lv. 83  ![][430]  [Honchkrow] Lv. 83  ![][229]  [Houndoom] Lv. 83 <br> ![][130]  [Gyarados] Lv. 83  ![][462]  [Magnezone] Lv. 83  ![][461]  [Weavile] Lv. 84
+
+
 [065]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png "Alakazam"
 [115]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png "Kangaskhan"
 [130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"

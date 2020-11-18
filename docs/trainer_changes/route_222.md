@@ -24,6 +24,8 @@ Rich Boy Trey (S)          | ![][405]  [Luxray] Lv. 75  ![][254]  [Sceptile] Lv.
 Sailor Marc (C)            | ![][171]  [Lanturn] Lv. 70  ![][068]  [Machamp] Lv. 70  ![][226]  [Mantine] Lv. 70
 Sailor Marc (S)            | ![][171]  [Lanturn] Lv. 75  ![][068]  [Machamp] Lv. 75  ![][226]  [Mantine] Lv. 75
 Fisherman Alec (C)         | ![][130]  [Gyarados] Lv. 70  ![][130]  [Gyarados] Lv. 70  ![][130]  [Gyarados] Lv. 70
+
+
 [025]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png "Pikachu"
 [062]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png "Poliwrath"
 [068]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png "Machamp"

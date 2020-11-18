@@ -31,6 +31,8 @@ Ace Trainer Heather | Item         | Nature  | Ability       | Moves
 ![][018]<br> [Pidgeot] Lv. 76         | ![][wise-glasses]<br> Wise Glasses      | ?        | No Guard (!)        | Hurricane, Hyper Beam, Heat Wave, Tailwind
 ![][357]<br> [Tropius] Lv. 76         | ![][leftovers]<br> Leftovers            | ?        | Chlorophyll         | Hurricane, Energy Ball, Dragon Pulse, Roost
 ![][149]<br> [Dragonite] Lv. 77       | ![][white-herb]<br> White Herb          | ?        | Marvel Scale (!)    | Hurricane, Draco Meteor, Thunder, Ice Beam
+
+
 [012]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png "Butterfree"
 [018]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png "Pidgeot"
 [024]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png "Arbok"

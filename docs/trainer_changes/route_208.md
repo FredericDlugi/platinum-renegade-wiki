@@ -26,6 +26,8 @@ Elite Four Aaron | Item         | Nature  | Ability       | Moves
 ![][049]<br> [Venomoth] Lv. 31        | ![][wise-glasses]<br> Wise Glasses      | Naive    | Tinted Lens         | Bug Buzz, Psychic, Sludge Bomb, Sleep Powder
 ![][212]<br> [Scizor] Lv. 31          | ![][muscle-band]<br> Muscle Band        | Adamant  | Technician          | X-Scissor, Bullet Punch, Iron Head, Swords Dance
 ![][452]<br> [Drapion] Lv. 32         | ![][scope-lens]<br> Scope Lens          | Jolly    | Sniper              | Cross Poison, X-Scissor, Night Slash, Swords Dance
+
+
 [049]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png "Venomoth"
 [067]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png "Machoke"
 [075]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png "Graveler"

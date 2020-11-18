@@ -26,6 +26,8 @@ PKMN Trainer Riley | Item         | Nature  | Ability       | Moves
 ![][373]<br> [Salamence] Lv. 49       | ![][power-herb]<br> Power Herb          | ?        | Intimidate          | Dragon Rush, Fly, Crunch, Dragon Dance
 ![][289]<br> [Slaking] Lv. 49         | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Truant              | Body Slam, Hammer Arm, Play Rough, Slack Off
 ![][448]<br> [Lucario] Lv. 50         | ![][life-orb]<br> Life Orb              | ?        | Adaptability        | High Jump Kick, Meteor Mash, Blaze Kick, Bullet Punch
+
+
 [005]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png "Charmeleon"
 [022]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png "Fearow"
 [026]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png "Raichu"

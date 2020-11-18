@@ -16,6 +16,8 @@ Ace Trainer Henry          | ![][430]  [Honchkrow] Lv. 63  ![][105]  [Marowak] L
 Dragon Tamer Ondrej        | ![][230]  [Kingdra] Lv. 64  ![][334]  [Altaria] Lv. 64  ![][373]  [Salamence] Lv. 64 <br> ![][006]  [Charizard] Lv. 64
 Veteran Edgar              | ![][474]  [Porygon-Z] Lv. 64  ![][465]  [Tangrowth] Lv. 64  ![][395]  [Empoleon] Lv. 64 <br> ![][076]  [Golem] Lv. 64  ![][157]  [Typhlosion] Lv. 64
 Dragon Tamer Clinton       | ![][330]  [Flygon] Lv. 64  ![][130]  [Gyarados] Lv. 64  ![][149]  [Dragonite] Lv. 64 <br> ![][142]  [Aerodactyl] Lv. 64
+
+
 [003]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png "Venusaur"
 [006]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png "Charizard"
 [018]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png "Pidgeot"

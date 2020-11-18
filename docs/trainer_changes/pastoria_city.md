@@ -17,6 +17,8 @@ PKMN Trainer Barry| Item         | Nature  | Ability       | Moves
 ![][389]<br> [Torterra] Lv. 42        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Overgrow            | Seed Bomb, Earthquake, Crunch, Iron Head            (!)
 ![][392]<br> [Infernape] Lv. 42       | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Iron Fist           | Flamethrower, Close Combat, Fake Out, Thunder Punch (!)
 ![][395]<br> [Empoleon] Lv. 42        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Torrent             | Scald, Flash Cannon, Agility, Swagger               (!)
+
+
 [059]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png "Arcanine"
 [143]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png "Snorlax"
 [184]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png "Azumarill"

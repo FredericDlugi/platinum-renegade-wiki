@@ -32,6 +32,8 @@ PKMN Trainer Buck | Item         | Nature  | Ability       | Moves
 ![][477]<br> [Dusknoir] Lv. 77        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Iron Fist (!)       | Shadow Punch, Confuse Ray, Protect, Drain Punch
 ![][091]<br> [Cloyster] Lv. 77        | ![][expert-belt]<br> Expert Belt        | ?        | Skill Link          | Icicle Spear, Hydro Pump, Spikes, Toxic Spikes
 ![][344]<br> [Claydol] Lv. 78         | ![][leftovers]<br> Leftovers            | ?        | Levitate            | Earth Power, Psychic, Ice Beam, Calm Mind
+
+
 [031]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png "Nidoqueen"
 [045]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png "Vileplume"
 [053]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png "Persian"

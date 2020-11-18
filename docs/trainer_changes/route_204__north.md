@@ -13,6 +13,8 @@ Trainer                    | Pokémons
 Bug Catcher Brandon (3)    | ![][269]  [Dustox] Lv. 27  ![][402]  [Kricketune] Lv. 27
 Bug Catcher Brandon (5)    | ![][269]  [Dustox] Lv. 38  ![][402]  [Kricketune] Lv. 38  ![][123]  [Scyther] Lv. 38
 Bug Catcher Brandon (C)    | ![][269]  [Dustox] Lv. 70  ![][402]  [Kricketune] Lv. 70  ![][212]  [Scizor] Lv. 70
+
+
 [123]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png "Scyther"
 [187]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png "Hoppip"
 [212]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png "Scizor"

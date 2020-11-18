@@ -279,6 +279,8 @@ PKMN Trainer Barry  | Item         | Nature  | Ability       | Moves
 ![][445]<br> [Garchomp] Lv. 88        | ![][choice-scarf]<br> Choice Scarf      | ?        | Rough Skin          | Outrage, Earthquake, Stone Edge, Extreme Speed
 ![][350]<br> [Milotic] Lv. 88         | ![][flame-orb]<br> Flame Orb            | ?        | Marvel Scale        | Scald, Ice Beam, Attract, Recover
 ![][384]<br> [Rayquaza] Lv. 89        | ![][focus-sash]<br> Focus Sash          | ?        | Air Lock            | Outrage, Earthquake, Overheat, Dragon Dance
+
+
 [006]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png "Charizard"
 [036]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png "Clefable"
 [038]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png "Ninetales"

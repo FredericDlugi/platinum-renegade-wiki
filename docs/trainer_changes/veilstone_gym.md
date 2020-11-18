@@ -16,6 +16,8 @@ Leader Maylene     | Item         | Nature  | Ability       | Moves
 ![][454]<br> [Toxicroak] Lv. 38       | ![][big-root]<br> Big Root              | Lonely   | Dry Skin            | Drain Punch, Poison Jab, Ice Punch, Sucker Punch
 ![][475]<br> [Gallade] Lv. 38         | ![][light-clay]<br> Light Clay          | Brave    | Steadfast           | Drain Punch, Zen Headbutt, Light Screen, Reflect
 ![][448]<br> [Lucario] Lv. 39         | ![][focus-sash]<br> Focus Sash          | Timid    | Adaptability (!)    | Aura Sphere, Flash Cannon, Dark Pulse, Agility
+
+
 [056]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png "Mankey"
 [057]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png "Primeape"
 [062]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png "Poliwrath"

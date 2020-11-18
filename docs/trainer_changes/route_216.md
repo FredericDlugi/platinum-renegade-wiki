@@ -26,6 +26,8 @@ Skier Edward (C)           | ![][460]  [Abomasnow] Lv. 70  ![][362]  [Glalie] Lv
 Black Belt Philip (C)      | ![][297]  [Hariyama] Lv. 70  ![][068]  [Machamp] Lv. 70  ![][062]  [Poliwrath] Lv. 70
 Skier Andrea (8)           | ![][460]  [Abomasnow] Lv. 61
 Skier Andrea (C)           | ![][460]  [Abomasnow] Lv. 72
+
+
 [062]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png "Poliwrath"
 [068]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png "Machamp"
 [122]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png "Mr. Mime"

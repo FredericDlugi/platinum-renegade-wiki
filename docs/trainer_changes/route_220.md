@@ -9,6 +9,8 @@ Swimmer Vincent            | ![][321]  [Wailord] Lv. 45
 Swimmer Claire             | ![][121]  [Starmie] Lv. 44  ![][009]  [Blastoise] Lv. 44
 Swimmer Erik               | ![][186]  [Politoed] Lv. 44  ![][171]  [Lanturn] Lv. 44
 Swimmer Katelyn            | ![][419]  [Floatzel] Lv. 43  ![][308]  [Medicham] Lv. 43  ![][119]  [Seaking] Lv. 43
+
+
 [009]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png "Blastoise"
 [073]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png "Tentacruel"
 [117]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png "Seadra"

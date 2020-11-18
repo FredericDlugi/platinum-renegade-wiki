@@ -25,6 +25,8 @@ Ace Trainer Luna    | Item         | Nature | Ability        | Moves
 ![][210]<br> [Granbull] Lv. 76        | ![][muscle-band]<br> Muscle Band        | ?        | Intimidate          | Play Rough, Close Combat, Crunch, Lovely Kiss
 ![][303]<br> [Mawile] Lv. 76          | ![][focus-sash]<br> Focus Sash          | ?        | Huge Power (!)      | Play Rough, Iron Head, Sucker Punch, Swords Dance
 ![][282]<br> [Gardevoir] Lv. 77       | ![][life-orb]<br> Life Orb              | ?        | Synchronize         | Moonblast, Psychic, Thunderbolt, Aura Sphere
+
+
 [036]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png "Clefable"
 [040]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png "Wigglytuff"
 [098]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png "Krabby"

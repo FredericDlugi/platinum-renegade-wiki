@@ -18,6 +18,8 @@ Ace Trainer Skylar    | ![][295]  [Exploud] Lv. 78  ![][409]  [Rampardos] Lv. 78
 Ace Trainer Natasha   | ![][040]  [Wigglytuff] Lv. 78  ![][065]  [Alakazam] Lv. 78  ![][308]  [Medicham] Lv. 78
 Dragon Tamer Drake    | ![][445]  [Garchomp] Lv. 78  ![][149]  [Dragonite] Lv. 78  ![][230]  [Kingdra] Lv. 78
 Black Belt Jarrett    | ![][068]  [Machamp] Lv. 78  ![][257]  [Blaziken] Lv. 78  ![][062]  [Poliwrath] Lv. 78
+
+
 [020]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png "Raticate"
 [022]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png "Fearow"
 [038]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png "Ninetales"

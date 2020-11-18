@@ -21,6 +21,8 @@ Youngster Dallas (C)       | ![][405]  [Luxray] Lv. 69  ![][028]  [Sandslash] Lv
 Lass Madeline (3)          | ![][054]  [Psyduck] Lv. 26  ![][191]  [Sunkern] Lv. 26  ![][427]  [Buneary] Lv. 26
 Lass Madeline (5)          | ![][055]  [Golduck] Lv. 38  ![][192]  [Sunflora] Lv. 38  ![][428]  [Lopunny] Lv. 38
 Lass Madeline (8)          | ![][055]  [Golduck] Lv. 59  ![][192]  [Sunflora] Lv. 59  ![][428]  [Lopunny] Lv. 59
+
+
 [019]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png "Rattata"
 [021]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png "Spearow"
 [027]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png "Sandshrew"

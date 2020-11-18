@@ -14,6 +14,8 @@ Leader Roark         | Item          | Nature  | Ability       | Moves
 ![][095]<br> [Onix] Lv. 15            | ![][muscle-band]<br> Muscle Band        | Jolly    | Rock Head           | Stealth Rock, Rock Tomb, Bulldoze, Sandstorm
 ![][246]<br> [Larvitar] Lv. 15        | ![][flame-orb]<br> Flame Orb            | Jolly    | Guts                | Rock Tomb, Bulldoze, Bite, Protect
 ![][408]<br> [Cranidos] Lv. 16        | ![][sitrus-berry]<br> Sitrus Berry      | Hasty    | Rock Head (!)       | Zen Headbutt, Rock Tomb, Thunder Punch, Scary Face
+
+
 [074]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png "Geodude"
 [095]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png "Onix"
 [111]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png "Rhyhorn"

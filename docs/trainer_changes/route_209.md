@@ -24,6 +24,8 @@ Poké Kid Danielle (C)      | ![][026]  [Raichu] Lv. 69  ![][026]  [Raichu] Lv. 
 PKMN Breeder Jennifer (5)  | ![][183]  [Marill] Lv. 37  ![][176]  [Togetic] Lv. 37  ![][035]  [Clefairy] Lv. 37 <br> ![][039]  [Jigglypuff] Lv. 37  ![][124]  [Jynx] Lv. 37  ![][315]  [Roselia] Lv. 37
 PKMN Breeder Jennifer (8)  | ![][184]  [Azumarill] Lv. 57  ![][468]  [Togekiss] Lv. 57  ![][036]  [Clefable] Lv. 57 <br> ![][040]  [Wigglytuff] Lv. 57  ![][124]  [Jynx] Lv. 57  ![][407]  [Roserade] Lv. 57
 PKMN Breeder Jennifer (C)  | ![][184]  [Azumarill] Lv. 68  ![][468]  [Togekiss] Lv. 68  ![][036]  [Clefable] Lv. 68 <br> ![][040]  [Wigglytuff] Lv. 68  ![][124]  [Jynx] Lv. 68  ![][407]  [Roserade] Lv. 68
+
+
 [022]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png "Fearow"
 [025]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png "Pikachu"
 [026]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png "Raichu"

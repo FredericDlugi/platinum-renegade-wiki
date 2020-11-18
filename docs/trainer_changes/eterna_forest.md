@@ -18,6 +18,8 @@ PKMN Trainer Cheryl | Item          | Nature  | Ability       | Moves
 ![][296]<br> [Makuhita] Lv. 19        | None                                    | Relaxed  | Thick Fat           | Knock Off, Fake Out, Brick Break, Bullet Punch
 ![][320]<br> [Wailmer] Lv. 19         | None                                    | Relaxed  | Water Veil          | Water Pulse, Rock Tomb, Mist, Rollout
 ![][113]<br> [Chansey] Lv. 20         | ![][sitrus-berry]<br> Sitrus Berry      | Quiet    | Serene Grace        | Hyper Voice, Soft-Boiled, Ice Beam, Thunderbolt
+
+
 [015]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png "Beedrill"
 [046]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png "Paras"
 [048]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png "Venonat"

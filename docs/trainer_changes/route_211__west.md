@@ -13,6 +13,8 @@ Trainer                    | Pokémons
 Ninja Boy Zach (5)         | ![][042]  [Golbat] Lv. 38  ![][451]  [Skorupi] Lv. 38  ![][042]  [Golbat] Lv. 38
 Ninja Boy Zach (8)         | ![][169]  [Crobat] Lv. 59  ![][452]  [Drapion] Lv. 59  ![][169]  [Crobat] Lv. 59
 Ninja Boy Zach (C)         | ![][169]  [Crobat] Lv. 70  ![][452]  [Drapion] Lv. 70  ![][169]  [Crobat] Lv. 70
+
+
 [041]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png "Zubat"
 [042]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png "Golbat"
 [074]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png "Geodude"

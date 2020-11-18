@@ -15,6 +15,8 @@ Leader Gardenia    | Item         | Nature  | Ability       | Moves
 ![][388]<br> [Grotle] Lv. 25          | ![][leftovers]<br> Leftovers            | Adamant  | Overgrow            | Seed Bomb, Protect, Leech Seed, Bulldoze
 ![][286]<br> [Breloom] Lv. 25         | ![][muscle-band]<br> Muscle Band        | Naughty  | Technician          | Bullet Seed, Mach Punch, Thunder Punch, Spore
 ![][407]<br> [Roserade] Lv. 26        | ![][sitrus-berry]<br> Sitrus Berry      | Timid    | Technician          | Magical Leaf, Sludge, Dazzling Gleam, Extrasensory
+
+
 [002]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png "Ivysaur"
 [044]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png "Gloom"
 [070]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png "Weepinbell"

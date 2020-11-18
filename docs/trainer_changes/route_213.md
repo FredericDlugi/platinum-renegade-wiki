@@ -23,6 +23,8 @@ Tuber Jared (5)            | ![][423]  [Gastrodon] Lv. 39
 Tuber Jared (C)            | ![][423]  [Gastrodon] Lv. 69
 Tuber Chelsea (8)          | ![][184]  [Azumarill] Lv. 59
 Tuber Chelsea (C)          | ![][184]  [Azumarill] Lv. 69
+
+
 [053]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png "Persian"
 [055]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png "Golduck"
 [116]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png "Horsea"

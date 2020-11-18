@@ -18,6 +18,8 @@ Leader Wake        | Item         | Nature  | Ability       | Moves
 ![][272]<br> [Ludicolo] Lv. 43        | ![][life-orb]<br> Life Orb              | Modest   | Swift Swim          | Hydro Pump, Ice Beam, Energy Ball, Fake Out
 ![][319]<br> [Sharpedo] Lv. 43        | ![][focus-sash]<br> Focus Sash          | Naive    | Speed Boost         | Waterfall, Crunch, Ice Fang, Zen Headbutt
 ![][419]<br> [Floatzel] Lv. 44        | ![][life-orb]<br> Life Orb              | Naive    | Swift Swim          | Aqua Tail, Crunch, Ice Punch, Aqua Jet
+
+
 [008]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png "Wartortle"
 [055]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png "Golduck"
 [062]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png "Poliwrath"

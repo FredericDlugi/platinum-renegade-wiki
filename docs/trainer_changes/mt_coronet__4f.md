@@ -4,6 +4,8 @@ Trainer                    | Pokémons
 ---                        | ---
 Galactic Grunt             | ![][229]  [Houndoom] Lv. 54  ![][042]  [Golbat] Lv. 54  ![][015]  [Beedrill] Lv. 54
 Galactic Grunt             | ![][166]  [Ledian] Lv. 55  ![][110]  [Weezing] Lv. 55
+
+
 [015]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png "Beedrill"
 [042]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png "Golbat"
 [110]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png "Weezing"

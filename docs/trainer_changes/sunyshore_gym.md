@@ -20,6 +20,8 @@ Leader Volkner      | Item         | Nature  | Ability       | Moves
 ![][479]<br> [Rotom] Lv. 61           | ![][white-herb]<br> White Herb          | Modest   | Levitate            | Thunderbolt, Overheat, Shadow Ball, Will-O-Wisp
 ![][405]<br> [Luxray] Lv. 61          | ![][choice-band]<br> Choice Band        | Naughty  | Intimidate          | Wild Charge, Crunch, Ice Fang, Fire Fang
 ![][466]<br> [Electivire] Lv. 62      | ![][life-orb]<br> Life Orb              | Jolly    | Motor Drive         | Wild Charge, Close Combat, Ice Punch, Earthquake
+
+
 [025]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png "Pikachu"
 [026]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png "Raichu"
 [101]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png "Electrode"

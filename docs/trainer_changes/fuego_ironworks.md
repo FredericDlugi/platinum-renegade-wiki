@@ -5,6 +5,8 @@ Trainer                    | Pokémons
 Worker Dillan              | ![][066]  [Machop] Lv. 42  ![][067]  [Machoke] Lv. 43  ![][068]  [Machamp] Lv. 44
 Worker Holden              | ![][081]  [Magnemite] Lv. 42  ![][081]  [Magnemite] Lv. 42  ![][208]  [Steelix] Lv. 45
 Worker Conrad              | ![][126]  [Magmar] Lv. 43  ![][219]  [Magcargo] Lv. 43  ![][078]  [Rapidash] Lv. 43
+
+
 [066]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png "Machop"
 [067]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png "Machoke"
 [068]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png "Machamp"

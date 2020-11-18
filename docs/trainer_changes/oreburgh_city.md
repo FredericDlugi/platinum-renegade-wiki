@@ -14,6 +14,8 @@ PKMN Trainer Steven  | Item          | Nature | Ability      | Moves
 ![][346]<br> [Cradily] Lv. 88         | ![][leftovers]<br> Leftovers            | ?        | Suction Cups        | Power Whip, Rock Slide, Toxic, Recover
 ![][348]<br> [Armaldo] Lv. 88         | ![][passho-berry]<br> Passho Berry      | ?        | Battle Armor        | Stone Edge, X-Scissor, Swords Dance, Aqua Jet
 ![][376]<br> [Metagross] Lv. 89       | ![][life-orb]<br> Life Orb              | ?        | Iron Fist           | Meteor Mash, Zen Headbutt, Earthquake, Ice Punch
+
+
 [142]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png "Aerodactyl"
 [227]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png "Skarmory"
 [252]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png "Treecko"

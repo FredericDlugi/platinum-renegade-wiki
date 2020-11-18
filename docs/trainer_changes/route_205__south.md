@@ -24,6 +24,8 @@ Camper Zackary (C)         | ![][424]  [Ambipom] Lv. 70  ![][289]  [Slaking] Lv.
 Picnicker Karina (3)       | ![][394]  [Prinplup] Lv. 27  ![][391]  [Monferno] Lv. 27
 Picnicker Karina (5)       | ![][395]  [Empoleon] Lv. 39  ![][392]  [Infernape] Lv. 39
 Picnicker Karina (C)       | ![][395]  [Empoleon] Lv. 71  ![][392]  [Infernape] Lv. 71
+
+
 [001]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png "Bulbasaur"
 [002]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png "Ivysaur"
 [003]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png "Venusaur"

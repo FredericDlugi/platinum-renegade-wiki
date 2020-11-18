@@ -10,6 +10,6 @@ for pok in pokemons:
 
     print("- {}: /trainer_changes/{}.md".format(route,file_name))
     output_file = open("docs/trainer_changes/{}.md".format(file_name), "w",encoding="utf-8")
-    output_file.write("# {}".format(pok))
+    output_file.write("# {}\n\n".format(pok))
     output_file.close()
 

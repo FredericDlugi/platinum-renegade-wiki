@@ -19,6 +19,8 @@ Trainer                    | Pokémons
 Youngster Tristan (3)      | ![][164]  [Noctowl] Lv. 27  ![][397]  [Staravia] Lv. 27
 Youngster Tristan (5)      | ![][164]  [Noctowl] Lv. 39  ![][398]  [Staraptor] Lv. 39
 Youngster Tristan (8)      | ![][164]  [Noctowl] Lv. 59  ![][398]  [Staraptor] Lv. 59  ![][018]  [Pidgeot] Lv. 59
+
+
 [018]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png "Pidgeot"
 [058]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png "Growlithe"
 [161]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png "Sentret"

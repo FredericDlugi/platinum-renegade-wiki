@@ -17,6 +17,8 @@ Commander Jupiter | Item         | Nature  | Ability       | Moves
 ![][302]<br> [Sableye] Lv. 26         | ![][sitrus-berry]<br> Sitrus Berry      | Adamant  | Magic Guard (!)     | Fake Out, Shadow Claw, Knock Off, Shadow Sneak
 ![][114]<br> [Tangela] Lv. 26         | None                                    | Modest   | Chlorophyll         | Giga Drain, Shock Wave, Leech Seed, Sleep Powder
 ![][435]<br> [Skuntank] Lv. 27        | ![][sitrus-berry]<br> Sitrus Berry      | Adamant  | Aftermath           | Poison Jab, Night Slash, Focus Energy, Torment
+
+
 [023]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png "Ekans"
 [029]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png "Nidoran♀"
 [032]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png "Nidoran♂"

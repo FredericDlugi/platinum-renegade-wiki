@@ -17,6 +17,8 @@ Ace Trainer Wyver  | Item         | Nature | Ability           | Moves
 ![][149]<br> [Dragonite] Lv. 76       | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Marvel Scale (!)    | Outrage, Earthquake, Extreme Speed, Iron Tail
 ![][445]<br> [Garchomp] Lv. 76        | ![][choice-scarf]<br> Choice Scarf      | ?        | Rough Skin          | Outrage, Earthquake, Poison Jab, Fire Fang
 ![][373]<br> [Salamence] Lv. 77       | ![][focus-sash]<br> Focus Sash          | ?        | Intimidate          | Outrage, Aerial Ace, Dragon Dance, Earthquake
+
+
 [022]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png "Fearow"
 [087]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png "Dewgong"
 [106]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png "Hitmonlee"

@@ -16,6 +16,8 @@ Trainer                    | Pokémons
 Ace Trainer Shannon (C)    | ![][045]  [Vileplume] Lv. 72  ![][282]  [Gardevoir] Lv. 72  ![][428]  [Lopunny] Lv. 72 <br> ![][031]  [Nidoqueen] Lv. 72
 Ace Trainer Jake (C)       | ![][344]  [Claydol] Lv. 72  ![][006]  [Charizard] Lv. 72  ![][103]  [Exeggutor] Lv. 72 <br> ![][359]  [Absol] Lv. 72
 Collector Ivan (C)         | ![][468]  [Togekiss] Lv. 72  ![][242]  [Blissey] Lv. 72
+
+
 [006]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png "Charizard"
 [031]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png "Nidoqueen"
 [045]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png "Vileplume"

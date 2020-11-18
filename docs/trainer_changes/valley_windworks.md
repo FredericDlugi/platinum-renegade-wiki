@@ -13,6 +13,8 @@ Commander Mars   | Item          | Nature  | Ability       | Moves
 ![][436]<br> [Bronzor] Lv. 18         | ![][sitrus-berry]<br> Sitrus Berry      | Brave    | Levitate            | Hypnosis, Extrasensory, Gyro Ball, Confuse Ray
 ![][193]<br> [Yanma] Lv. 18           | None                                    | Timid    | Speed Boost         | Silver Wind, Air Cutter, Detect, Sonic Boom
 ![][432]<br> [Purugly] Lv. 19         | ![][sitrus-berry]<br> Sitrus Berry      | Jolly    | Thick Fat           | Fake Out, Hypnosis, Facade, Feint Attack
+
+
 [011]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png "Metapod"
 [014]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png "Kakuna"
 [041]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png "Zubat"

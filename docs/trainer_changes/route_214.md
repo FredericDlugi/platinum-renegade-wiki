@@ -22,6 +22,8 @@ Psychic Mitchell (8)       | ![][065]  [Alakazam] Lv. 60  ![][326]  [Grumpig] Lv
 Psychic Mitchell (C)       | ![][065]  [Alakazam] Lv. 72  ![][326]  [Grumpig] Lv. 72  ![][097]  [Hypno] Lv. 72
 Psychic Abigail (8)        | ![][282]  [Gardevoir] Lv. 60  ![][358]  [Chimecho] Lv. 60  ![][203]  [Girafarig] Lv. 60
 Psychic Abigail (C)        | ![][282]  [Gardevoir] Lv. 72  ![][358]  [Chimecho] Lv. 72  ![][203]  [Girafarig] Lv. 72
+
+
 [051]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png "Dugtrio"
 [064]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png "Kadabra"
 [065]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png "Alakazam"

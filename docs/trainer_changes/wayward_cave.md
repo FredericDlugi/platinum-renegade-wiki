@@ -20,6 +20,8 @@ PKMN Trainer Mira | Item         | Nature  | Ability       | Moves
 ![][093]<br> [Haunter] Lv. 27         | ![][spell-tag]<br> Spell Tag            | Hasty    | Levitate            | Shadow Ball, Double Team, Hypnosis, Curse
 ![][233]<br> [Porygon2] Lv. 27        | ![][expert-belt]<br> Expert Belt        | Calm     | Trace               | Tri Attack, Charge Beam, Signal Beam, Recover
 ![][064]<br> [Kadabra] Lv. 28         | ![][life-orb]<br> Life Orb              | Modest   | Magic Guard         | Psybeam, Grass Knot, Dazzling Gleam, Recover
+
+
 [020]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png "Raticate"
 [030]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png "Nidorina"
 [033]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png "Nidorino"
