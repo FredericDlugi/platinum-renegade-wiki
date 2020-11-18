@@ -3,7 +3,7 @@
 
 ## General Changes
 
-- The Fairy-type has been added to the game, replacing the almost unused ???-type.
+- The <span style="color:white; background:#EE99AC; border: 1px solid #9B6470">Fairy</span>-type has been added to the game, replacing the almost unused ???-type.
 - All Pokémon have had their base stats updated to match Ultra Sun and Ultra Moon.
 - All Pokémon have had their types updated to match Ultra Sun and Ultra Moon.
 - All Pokémon have had their wild held item updated to match Ultra Sun and Ultra Moon (with some exceptions).
@@ -266,8 +266,8 @@ New    | 78 | 84  | 78  | 110 | 85 | 100 | 535
 
 Update | Type
 ---    | ---
-Old    | $\color{white}{Fire}$ / Flying
-New    | Fire / Dragon
+Old    | <span style="color:white; background:#F08030; border: 1px solid #9C531F">Fire</span> / <span style="color:white; background:#A890F0; border: 1px solid #6D5E9C">Flying</span>
+New    | <span style="color:white; background:#F08030; border: 1px solid #9C531F">Fire</span> / <span style="color:white; background:#7038F8; border: 1px solid #4924A1">Dragon</span>
 
 **Level Up:**
 
@@ -1302,8 +1302,8 @@ New    | 73 |  67 |  75 |  81  |  100  |  109  |  505
 
 Update | Type
 ---    | ---
-Old    | Fire
-New    | Fire / Fairy
+Old    | <span style="color:white; background:#F08030; border: 1px solid #9C531F">Fire</span>
+New    | <span style="color:white; background:#F08030; border: 1px solid #9C531F">Fire</span> / <span style="color:white; background:#EE99AC; border: 1px solid #9B6470">Fairy</span>
 
 **Level Up:**
 
@@ -1854,8 +1854,8 @@ Level | Move
 
 Update | Type
 ---    | ---
-Old    | Water
-New    | Water / Psychic
+Old    | <span style="color:white; background:#6890F0; border: 1px solid #445E9C">Water</span>
+New    | <span style="color:white; background:#6890F0; border: 1px solid #445E9C">Water</span> / <span style="color:white; background:#F85888; border: 1px solid #A13959">Psychic</span>
 
 **Level Up:**
 
@@ -2681,8 +2681,8 @@ New    | 2 Atk
 
 Update | Type
 ---    | ---
-Old    | Normal / Flying
-New    | Fighting / Flying
+Old    | <span style="color:white; background:#A8A878; border: 1px solid #6D6D4E">Normal</span> / <span style="color:white; background:#A890F0; border: 1px solid #6D5E9C">Flying</span>
+New    | <span style="color:white; background:#C03028; border: 1px solid #7D1F1A">Fighting</span> / <span style="color:white; background:#A890F0; border: 1px solid #6D5E9C">Flying</span>
 
 **Level Up:**
 
@@ -4927,8 +4927,8 @@ New    | 80 |  82 |  100 |  93  |  100  |  80  |  535
 
 Update | Type
 ---    | ---
-Old    | Grass
-New    | Grass / Fairy
+Old    | <span style="color:white; background:#78C850; border: 1px solid #4E8234">Grass</span>
+New    | <span style="color:white; background:#78C850; border: 1px solid #4E8234">Grass</span> / <span style="color:white; background:#EE99AC; border: 1px solid #9B6470">Fairy</span>
 
 **Level Up:**
 
@@ -5177,8 +5177,8 @@ New    | 85 |  110 |  100 |  79  |  83  |  78  |  535
 
 Update | Type
 ---    | ---
-Old    | Water
-New    | Water / Dark
+Old    | <span style="color:white; background:#6890F0; border: 1px solid #445E9C">Water</span>
+New    | <span style="color:white; background:#6890F0; border: 1px solid #445E9C">Water</span> / <span style="color:white; background:#705848; border: 1px solid #49392F">Dark</span>
 
 **Level Up:**
 
@@ -5347,8 +5347,8 @@ New    | 100 |  40 |  40 |  106  |  116  |  60  |  462
 
 Update | Type
 ---    | ---
-Old    | Normal / Flying
-New    | Psychic / Flying
+Old    | <span style="color:white; background:#A8A878; border: 1px solid #6D6D4E">Normal</span> / <span style="color:white; background:#A890F0; border: 1px solid #6D5E9C">Flying</span>
+New    | <span style="color:white; background:#F85888; border: 1px solid #A13959">Psychic</span> / <span style="color:white; background:#A890F0; border: 1px solid #6D5E9C">Flying</span>
 
 **Level Up:**
 
@@ -5935,8 +5935,8 @@ Level | Move
 
 Update | Type
 ---    | ---
-Old    | Electric
-New    | Electric / Dragon
+Old    | <span style="color:white; background:#F8D030; border: 1px solid #A1871F">Electric</span>
+New    | <span style="color:white; background:#F8D030; border: 1px solid #A1871F">Electric</span> / <span style="color:white; background:#7038F8; border: 1px solid #4924A1">Dragon</span>
 
 **Level Up:**
 
@@ -6605,8 +6605,8 @@ Level | Move
 
 Update | Type
 ---    | ---
-Old    | Ghost
-New    | Ghost / Fairy
+Old    | <span style="color:white; background:#705898; border: 1px solid #493963">Ghost</span>
+New    | <span style="color:white; background:#705898; border: 1px solid #493963">Ghost</span> / <span style="color:white; background:#EE99AC; border: 1px solid #9B6470">Fairy</span>
 
 **Level Up:**
 
@@ -8351,8 +8351,8 @@ New    | 70 |  90 |  65 |  110  |  80  |  120  |  535
 
 Update | Type
 ---    | ---
-Old    | Grass
-New    | Grass / Dragon
+Old    | <span style="color:white; background:#78C850; border: 1px solid #4E8234">Grass</span>
+New    | <span style="color:white; background:#78C850; border: 1px solid #4E8234">Grass</span> / <span style="color:white; background:#7038F8; border: 1px solid #4924A1">Dragon</span>
 
 **Level Up:**
 
@@ -9297,8 +9297,8 @@ New    | 70 |  50 |  50 |  110  |  100  |  100  |  480
 
 Update | Type
 ---    | ---
-Old    | Bug / Flying
-New    | Bug / Water
+Old    | <span style="color:white; background:#A8B820; border: 1px solid #6D7815">Bug</span> / <span style="color:white; background:#A890F0; border: 1px solid #6D5E9C">Flying</span>
+New    | <span style="color:white; background:#A8B820; border: 1px solid #6D7815">Bug</span> / <span style="color:white; background:#6890F0; border: 1px solid #445E9C">Water</span>
 
 **Level Up:**
 
@@ -10275,8 +10275,8 @@ Old     65 |  33 |  75 |  107  |  85  |  100  |  465
 
 Update | Type
 ---    | ---
-Old    | Bug
-New    | Bug / Electric
+Old    | <span style="color:white; background:#A8B820; border: 1px solid #6D7815">Bug</span>
+New    | <span style="color:white; background:#A8B820; border: 1px solid #6D7815">Bug</span> / <span style="color:white; background:#F8D030; border: 1px solid #A1871F">Electric</span>
 
 **Moves:**
 
@@ -10327,8 +10327,8 @@ Old     65 |  33 |  85 |  97  |  85  |  100  |  450
 
 Update | Type
 ---    | ---
-Old    | Bug
-New    | Bug / Fairy
+Old    | <span style="color:white; background:#A8B820; border: 1px solid #6D7815">Bug</span>
+New    | <span style="color:white; background:#A8B820; border: 1px solid #6D7815">Bug</span> / <span style="color:white; background:#EE99AC; border: 1px solid #9B6470">Fairy</span>
 
 **Moves:**
 
@@ -10784,8 +10784,8 @@ Now evolves into Vibrava at Level 30.
 
 Update | Type
 ---    | ---
-Old    | Ground
-New    | Bug / Ground
+Old    | <span style="color:white; background:#E0C068; border: 1px solid #927D44">Ground</span>
+New    | <span style="color:white; background:#A8B820; border: 1px solid #6D7815">Bug</span> / <span style="color:white; background:#E0C068; border: 1px solid #927D44">Ground</span>
 
 **Level Up:**
 
@@ -10835,8 +10835,8 @@ New    | 2 SAtk
 
 Update | Type
 ---    | ---
-Old    | Ground / Dragon
-New    | Bug / Dragon
+Old    | <span style="color:white; background:#E0C068; border: 1px solid #927D44">Ground</span> / <span style="color:white; background:#7038F8; border: 1px solid #4924A1">Dragon</span>
+New    | <span style="color:white; background:#A8B820; border: 1px solid #6D7815">Bug</span> / <span style="color:white; background:#7038F8; border: 1px solid #4924A1">Dragon</span>
 
 **Moves:**
 
@@ -10892,8 +10892,8 @@ New    | 3 SAtk
 
 Update | Type
 ---    | ---
-Old    | Ground / Dragon
-New    | Bug / Dragon
+Old    | <span style="color:white; background:#E0C068; border: 1px solid #927D44">Ground</span> / <span style="color:white; background:#7038F8; border: 1px solid #4924A1">Dragon</span>
+New    | <span style="color:white; background:#A8B820; border: 1px solid #6D7815">Bug</span> / <span style="color:white; background:#7038F8; border: 1px solid #4924A1">Dragon</span>
 
 **Moves:**
 
@@ -11023,8 +11023,8 @@ New    | 45 |  60 |  60 |  60  |  75  |  50  |  350
 
 Update | Type
 ---    | ---
-Old    | Normal / Flying
-New    | Fairy / Flying
+Old    | <span style="color:white; background:#A8A878; border: 1px solid #6D6D4E">Normal</span> / <span style="color:white; background:#A890F0; border: 1px solid #6D5E9C">Flying</span>
+New    | <span style="color:white; background:#EE99AC; border: 1px solid #9B6470">Fairy</span> / <span style="color:white; background:#A890F0; border: 1px solid #6D5E9C">Flying</span>
 
 **Level Up:**
 
@@ -11074,8 +11074,8 @@ New    | 75 |  90 |  90 |  90  |  105  |  80  |  530
 
 Update | Type
 ---    | ---
-Old    | Dragon / Flying
-New    | Dragon / Fairy
+Old    | <span style="color:white; background:#7038F8; border: 1px solid #4924A1">Dragon</span> / <span style="color:white; background:#A890F0; border: 1px solid #6D5E9C">Flying</span>
+New    | <span style="color:white; background:#7038F8; border: 1px solid #4924A1">Dragon</span> / <span style="color:white; background:#EE99AC; border: 1px solid #9B6470">Fairy</span>
 
 **Level Up:**
 
@@ -11151,8 +11151,8 @@ New    | 75 |  115 |  60 |  80  |  60  |  75  |  465
 
 Update | Type
 ---    | ---
-Old    | Poison
-New    | Poison / Dark
+Old    | <span style="color:white; background:#A040A0; border: 1px solid #682A68">Poison</span>
+New    | <span style="color:white; background:#A040A0; border: 1px solid #682A68">Poison</span> / <span style="color:white; background:#705848; border: 1px solid #49392F">Dark</span>
 
 **Level Up:**
 
@@ -11615,8 +11615,8 @@ New    | Marvel Scale / Cute Charm
 
 Update | Type
 ---    | ---
-Old    | Water
-New    | Water / Fairy
+Old    | <span style="color:white; background:#6890F0; border: 1px solid #445E9C">Water</span>
+New    | <span style="color:white; background:#6890F0; border: 1px solid #445E9C">Water</span> / <span style="color:white; background:#EE99AC; border: 1px solid #9B6470">Fairy</span>
 
 **Level Up:**
 
@@ -12061,8 +12061,8 @@ New    | 80 |  110 |  110 |  60  |  60  |  80  |  500
 
 Update | Type
 ---    | ---
-Old    | Ice
-New    | Ice / Rock
+Old    | <span style="color:white; background:#98D8D8; border: 1px solid #638D8D">Ice</span>
+New    | <span style="color:white; background:#98D8D8; border: 1px solid #638D8D">Ice</span> / <span style="color:white; background:#B8A038; border: 1px solid #786824">Rock</span>
 
 **Level Up:**
 
@@ -12333,8 +12333,8 @@ New    | 50 |  30 |  75 |  95  |  75  |  125  |  450
 
 Update | Type
 ---    | ---
-Old    | Water
-New    | Water / Fairy
+Old    | <span style="color:white; background:#6890F0; border: 1px solid #445E9C">Water</span>
+New    | <span style="color:white; background:#6890F0; border: 1px solid #445E9C">Water</span> / <span style="color:white; background:#EE99AC; border: 1px solid #9B6470">Fairy</span>
 
 **Level Up:**
 
@@ -12766,7 +12766,10 @@ Level | Move
 ### 386 - Deoxys
 ![][386]
 
-Level Up (Normal Forme):
+**Level Up (Normal Forme):**
+
+Level | Move
+---   | ---
   1   | Leer
   1   | Wrap
   6   | Night Shade
@@ -12782,7 +12785,10 @@ Level Up (Normal Forme):
  46   | Psycho Boost
  50   | Hyper Beam
 
-Level Up (Attack Forme):
+**Level Up (Attack Forme):**
+
+Level | Move
+---   | ---
   1   | Leer
   1   | Wrap
   6   | Night Shade
@@ -12798,7 +12804,10 @@ Level Up (Attack Forme):
  46   | Psycho Boost
  50   | Hyper Beam
 
-Level Up (Defense Forme):
+**Level Up (Defense Forme):**
+
+Level | Move
+---   | ---
   1   | Leer
   1   | Wrap
   6   | Night Shade
@@ -12816,7 +12825,10 @@ Level Up (Defense Forme):
  50   | Counter
  50   | Mirror Coat
 
-Level Up (Speed Forme):
+**Level Up (Speed Forme):**
+
+Level | Move
+---   | ---
   1   | Leer
   1   | Wrap
   6   | Night Shade
@@ -13475,8 +13487,8 @@ New    | Intimidate / Guts
 
 Update | Type
 ---    | ---
-Old    | Electric
-New    | Electric / Dark
+Old    | <span style="color:white; background:#F8D030; border: 1px solid #A1871F">Electric</span>
+New    | <span style="color:white; background:#F8D030; border: 1px solid #A1871F">Electric</span> / <span style="color:white; background:#705848; border: 1px solid #49392F">Dark</span>
 
 **Level Up:**
 
@@ -14317,8 +14329,8 @@ New    | 65 |  106 |  84 |  44  |  96  |  105  |  500
 
 Update | Type
 ---    | ---
-Old    | Normal
-New    | Normal / Fighting
+Old    | <span style="color:white; background:#A8A878; border: 1px solid #6D6D4E">Normal</span>
+New    | <span style="color:white; background:#A8A878; border: 1px solid #6D6D4E">Normal</span> / <span style="color:white; background:#C03028; border: 1px solid #7D1F1A">Fighting</span>
 
 **Level Up:**
 
@@ -14353,8 +14365,8 @@ Level | Move
 
 Update | Type
 ---    | ---
-Old    | Ghost
-New    | Ghost / Fairy
+Old    | <span style="color:white; background:#705898; border: 1px solid #493963">Ghost</span>
+New    | <span style="color:white; background:#705898; border: 1px solid #493963">Ghost</span> / <span style="color:white; background:#EE99AC; border: 1px solid #9B6470">Fairy</span>
 
 **Level Up:**
 
@@ -15624,8 +15636,8 @@ New    | Motor Drive / Vital Spirit
 
 Update | Type
 ---    | ---
-Old    | Electric
-New    | Electric / Fighting
+Old    | <span style="color:white; background:#F8D030; border: 1px solid #A1871F">Electric</span>
+New    | <span style="color:white; background:#F8D030; border: 1px solid #A1871F">Electric</span> / <span style="color:white; background:#C03028; border: 1px solid #7D1F1A">Fighting</span>
 
 **Level Up:**
 
@@ -16133,8 +16145,8 @@ Level | Move
 
 Update | Type
 ---    | ---
-Old    | Psychic
-New    | Psychic / Fairy
+Old    | <span style="color:white; background:#F85888; border: 1px solid #A13959">Psychic</span>
+New    | <span style="color:white; background:#F85888; border: 1px solid #A13959">Psychic</span> / <span style="color:white; background:#EE99AC; border: 1px solid #9B6470">Fairy</span>
 
 **Level Up:**
 
@@ -16163,8 +16175,8 @@ Level | Move
 
 Update | Type
 ---    | ---
-Old    | Psychic
-New    | Psychic / Fairy
+Old    | <span style="color:white; background:#F85888; border: 1px solid #A13959">Psychic</span>
+New    | <span style="color:white; background:#F85888; border: 1px solid #A13959">Psychic</span> / <span style="color:white; background:#EE99AC; border: 1px solid #9B6470">Fairy</span>
 
 **Level Up:**
 
@@ -16193,8 +16205,8 @@ Level | Move
 
 Update | Type
 ---    | ---
-Old    | Psychic
-New    | Psychic / Fairy
+Old    | <span style="color:white; background:#F85888; border: 1px solid #A13959">Psychic</span>
+New    | <span style="color:white; background:#F85888; border: 1px solid #A13959">Psychic</span> / <span style="color:white; background:#EE99AC; border: 1px solid #9B6470">Fairy</span>
 
 **Level Up:**
 
