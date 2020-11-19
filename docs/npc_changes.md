@@ -6,24 +6,27 @@ See [here](trade_changes.md) how the trades are changed.
 
 
 ## Evolution Item Seller (New)
+![](/img/npc_changes/evolution_item_seller.png)
 
-Location: Snowpoint City
+**Location:** Snowpoint City
 
 - The top left house is now occupied by an NPC who will sell evolution items to you.
 - She only sells items that are not available in the Veilstone Dept. Store or the Game Corner.
 - One of any item will cost you $10,000.
 
 ## Hidden Power Teller (New)
+![](/img/npc_changes/hidden_power_teller.png)
 
-Location: Jubilife Trainers' School
+**Location:** Jubilife Trainers' School
 
 - An NPC has been placed in the school who can tell you what type a Pokémon's Hidden Power will be.
 - The power of Hidden Power is still based on IVs in Renegade Platinum - the NPC unfortunately cannot tell you this.
 - The Hidden Power teller is still in Veilstone City as well.
 
 ## Item Fanatic (New)
+![](/img/npc_changes/item_fanatic.png)
 
-Location: Floaroma Town
+**Location:** Floaroma Town
 
 - The house to the right of the Pokémon Center contains the "Item Fanatic".
 - Talk to him and he'll mention that he can give you items only particular Pokémon can use.
@@ -35,29 +38,34 @@ Location: Floaroma Town
 - Talk to him with a [Clamperl] in your party to get a Deep Sea Tooth and Deep Sea Scale.
 
 ## Move Deleter
-Location: Oreburgh City
+![](/img/npc_changes/move_deleter.png)
+
+**Location:** Oreburgh City
 
 - The move deleter has moved into the house left of the Pokémon Center in Oreburgh City.
 - No other changes.
 
 ## Move Relearner
+![](/img/npc_changes/move_relearner.png)
 
-Location: Pastoria City
+**Location:** Pastoria City
 
 - The move relearner is in the same place as before.
 - Heart Scales or any payment is no longer required - just speak to him to learn some moves.
 
 ## Move Tutors
+![](/img/npc_changes/move_tutors.png)
 
-Location: Route 212 (South)
+**Location:** Route 212 (South)
 
 - The move tutors from Route 212, Snowpoint City and the Survival Area are now all present in the house on Route 212.
 - Shards or any payment is no longer required - just speak to them to learn a move.
 
 
 ## Rare Berry Seller (New)
+![](/img/npc_changes/rare_berry_seller.png)
 
-Location: Route 208
+**Location:** Route 208
 
 - The house just left of the gatehouse to Hearthome City where the Berry Master lives now has a female scientist NPC.
 - This NPC will sell you rare berries that can't be obtained in Platinum normally, such as the Liechi and Salac Berries.
@@ -65,8 +73,9 @@ Location: Route 208
 
 
 ## Training NPCs (New)
+![](/img/npc_changes/training_npcs.png)
 
-Location: Solaceon Town
+**Location:** Solaceon Town
 
 - The training NPCs are a new set of NPCs found in the Solaceon Day Care.
 - The Cowgirl on the right will offer you training for either experience or a particular stat.
@@ -89,7 +98,9 @@ Location: Solaceon Town
 - Choosing a stat will ask you to select Low, Medium or High.
 - Choosing Low will pit you against a team of Level 10 Pokémon who give 1 EV of that stat each.
 - Choosing Medium will pit you against a team of Level 10 Pokémon who give 2 EV of that stat each.
-- Choosing High will pit you against a team of Level 10 Pokémon who give 3 EV of that stat each.[Pikachu]: /pokemon_changes/025/
+- Choosing High will pit you against a team of Level 10 Pokémon who give 3 EV of that stat each.
+
+[Pikachu]: /pokemon_changes/025/
 [Farfetch'd]: /pokemon_changes/083/
 [Cubone]: /pokemon_changes/104/
 [Chansey]: /pokemon_changes/113/

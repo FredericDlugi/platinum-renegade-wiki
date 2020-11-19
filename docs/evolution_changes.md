@@ -5,22 +5,22 @@
 
 Evolution-Item in this context means the item can be used exactly like an evolution stone (e.g. a Fire Stone). See [here](item_changes.md#Modified_Items) to see which Items are effected.
 
-Base-Pokémon            | Evolution-Item                      | Evolved-Pokemon
----                     | ---                                 | ---
-![][061]     Poliwhirl  | ![][kings-rock]      King's Rock    | ![][186]        Politoed
-![][079]     Slowpoke   | ![][kings-rock]      King's Rock    | ![][199]        Slowking
-![][095]     Onix       | ![][metal-coat]      Metal Coat     | ![][208]        Steelix
-![][112]     Rhydon     | ![][protector]       Protector      | ![][464]        Rhyperior
-![][117]     Seadra     | ![][dragon-scale]    Dragon Scale   | ![][230]        Kingdra
-![][123]     Scyther    | ![][metal-coat]      Metal Coat     | ![][212]        Scizor
-![][125]     Electabuzz | ![][electirizer]     Electirizer    | ![][466]        Electivire
-![][126]     Magmar     | ![][magmarizer]      Magmarizer     | ![][467]        Magmortar
-![][137]     Porygon    | ![][up-grade]        Up-Grade       | ![][233]        Porygon2
-![][233]     Porygon2   | ![][dubious-disc]    Dubious Disc   | ![][474]        Porygon-Z
-![][349]     Feebas     | ![][prism-scale]     Prism Scale    | ![][350]        Milotic
-![][356]     Dusclops   | ![][reaper-cloth]    Reaper Cloth   | ![][477]        Dusknoir
-![][366]     Clamperl   | ![][deep-sea-scale]  Deep Sea Tooth | ![][367]        Huntail
-![][366]     Clamperl   | ![][deep-sea-tooth]  Deep Sea Scale | ![][368]        Gorebyss
+Base-Pokémon              | Evolution-Item                          | Evolved-Pokemon
+---                       | ---                                     | ---
+![][061]<br> [Poliwhirl]  | ![][kings-rock]<br>      King's Rock    | ![][186]<br> [Politoed]
+![][079]<br> [Slowpoke]   | ![][kings-rock]<br>      King's Rock    | ![][199]<br> [Slowking]
+![][095]<br> [Onix]       | ![][metal-coat]<br>      Metal Coat     | ![][208]<br> [Steelix]
+![][112]<br> [Rhydon]     | ![][protector]<br>       Protector      | ![][464]<br> [Rhyperior]
+![][117]<br> [Seadra]     | ![][dragon-scale]<br>    Dragon Scale   | ![][230]<br> [Kingdra]
+![][123]<br> [Scyther]    | ![][metal-coat]<br>      Metal Coat     | ![][212]<br> [Scizor]
+![][125]<br> [Electabuzz] | ![][electirizer]<br>     Electirizer    | ![][466]<br> [Electivire]
+![][126]<br> [Magmar]     | ![][magmarizer]<br>      Magmarizer     | ![][467]<br> [Magmortar]
+![][137]<br> [Porygon]    | ![][up-grade]<br>        Up-Grade       | ![][233]<br> [Porygon2]
+![][233]<br> [Porygon2]   | ![][dubious-disc]<br>    Dubious Disc   | ![][474]<br> [Porygon-Z]
+![][349]<br> [Feebas]     | ![][prism-scale]<br>     Prism Scale    | ![][350]<br> [Milotic]
+![][356]<br> [Dusclops]   | ![][reaper-cloth]<br>    Reaper Cloth   | ![][477]<br> [Dusknoir]
+![][366]<br> [Clamperl]   | ![][deep-sea-scale]<br>  Deep Sea Tooth | ![][367]<br> [Huntail]
+![][366]<br> [Clamperl]   | ![][deep-sea-tooth]<br>  Deep Sea Scale | ![][368]<br> [Gorebyss]
 
 
 ## Level Changes
@@ -29,30 +29,30 @@ Some Pokemon now evolve at a different level.
 
 Base-Pokémon            | Evolution-Level | Evolved-Pokemon
 ---                     | ---             | ---
-![][077]    Ponyta      | 35              | ![][078]    Rapidash
-![][079]    Slowpoke    | 33              | ![][080]    Slowbro
-![][088]    Grimer      | 35              | ![][089]    Muk
-![][111]    Rhyhorn     | 36              | ![][112]    Rhydon
-![][138]    Omanyte     | 30              | ![][139]    Omastar
-![][140]    Kabuto      | 30              | ![][141]    Kabutops
-![][218]    Slugma      | 32              | ![][219]    Magcargo
-![][304]    Aron        | 24              | ![][305]    Lairon
-![][305]    Lairon      | 40              | ![][306]    Aggron
-![][307]    Meditite    | 33              | ![][308]    Medicham
-![][320]    Wailmer     | 36              | ![][321]    Wailord
-![][328]    Trapinch    | 30              | ![][329]    Vibrava
-![][343]    Baltoy      | 32              | ![][344]    Claydol
-![][345]    Lileep      | 30              | ![][346]    Cradily
-![][347]    Anorith     | 30              | ![][348]    Armaldo
-![][353]    Shuppet     | 32              | ![][354]    Banette
-![][355]    Duskull     | 32              | ![][356]    Dusclops
-![][361]    Snorunt     | 32              | ![][362]    Glalie
-![][363]    Spheal      | 24              | ![][364]    Sealeo
-![][364]    Sealeo      | 40              | ![][365]    Walrein
-![][431]    Glameow     | 32              | ![][432]    Purugly
-![][434]    Stunky      | 32              | ![][435]    Skuntank
-![][451]    Skorupi     | 30              | ![][452]    Drapion
-![][453]    Croagunk    | 33              | ![][454]    Toxicroak
+![][077]<br> [Ponyta]   | 35              | ![][078]<br> [Rapidash]
+![][079]<br> [Slowpoke] | 33              | ![][080]<br> [Slowbro]
+![][088]<br> [Grimer]   | 35              | ![][089]<br> [Muk]
+![][111]<br> [Rhyhorn]  | 36              | ![][112]<br> [Rhydon]
+![][138]<br> [Omanyte]  | 30              | ![][139]<br> [Omastar]
+![][140]<br> [Kabuto]   | 30              | ![][141]<br> [Kabutops]
+![][218]<br> [Slugma]   | 32              | ![][219]<br> [Magcargo]
+![][304]<br> [Aron]     | 24              | ![][305]<br> [Lairon]
+![][305]<br> [Lairon]   | 40              | ![][306]<br> [Aggron]
+![][307]<br> [Meditite] | 33              | ![][308]<br> [Medicham]
+![][320]<br> [Wailmer]  | 36              | ![][321]<br> [Wailord]
+![][328]<br> [Trapinch] | 30              | ![][329]<br> [Vibrava]
+![][343]<br> [Baltoy]   | 32              | ![][344]<br> [Claydol]
+![][345]<br> [Lileep]   | 30              | ![][346]<br> [Cradily]
+![][347]<br> [Anorith]  | 30              | ![][348]<br> [Armaldo]
+![][353]<br> [Shuppet]  | 32              | ![][354]<br> [Banette]
+![][355]<br> [Duskull]  | 32              | ![][356]<br> [Dusclops]
+![][361]<br> [Snorunt]  | 32              | ![][362]<br> [Glalie]
+![][363]<br> [Spheal]   | 24              | ![][364]<br> [Sealeo]
+![][364]<br> [Sealeo]   | 40              | ![][365]<br> [Walrein]
+![][431]<br> [Glameow]  | 32              | ![][432]<br> [Purugly]
+![][434]<br> [Stunky]   | 32              | ![][435]<br> [Skuntank]
+![][451]<br> [Skorupi]  | 30              | ![][452]<br> [Drapion]
+![][453]<br> [Croagunk] | 33              | ![][454]<br> [Toxicroak]
 
 ## Method Changes
 
@@ -75,27 +75,94 @@ Base-Pokémon             | Evolution-Method                  | Evolved-Pokemon
 
 
 
+[Poliwhirl]: /pokemon_changes/061/
 [Kadabra]: /pokemon_changes/064/
 [Alakazam]: /pokemon_changes/065/
 [Machoke]: /pokemon_changes/067/
 [Machamp]: /pokemon_changes/068/
 [Graveler]: /pokemon_changes/075/
 [Golem]: /pokemon_changes/076/
+[Ponyta]: /pokemon_changes/077/
+[Rapidash]: /pokemon_changes/078/
+[Slowpoke]: /pokemon_changes/079/
+[Slowbro]: /pokemon_changes/080/
+[Grimer]: /pokemon_changes/088/
+[Muk]: /pokemon_changes/089/
 [Haunter]: /pokemon_changes/093/
 [Gengar]: /pokemon_changes/094/
+[Onix]: /pokemon_changes/095/
+[Rhyhorn]: /pokemon_changes/111/
+[Rhydon]: /pokemon_changes/112/
+[Seadra]: /pokemon_changes/117/
+[Scyther]: /pokemon_changes/123/
+[Electabuzz]: /pokemon_changes/125/
+[Magmar]: /pokemon_changes/126/
 [Eevee]: /pokemon_changes/133/
+[Porygon]: /pokemon_changes/137/
+[Omanyte]: /pokemon_changes/138/
+[Omastar]: /pokemon_changes/139/
+[Kabuto]: /pokemon_changes/140/
+[Kabutops]: /pokemon_changes/141/
+[Politoed]: /pokemon_changes/186/
 [Espeon]: /pokemon_changes/196/
 [Umbreon]: /pokemon_changes/197/
+[Slowking]: /pokemon_changes/199/
+[Steelix]: /pokemon_changes/208/
+[Scizor]: /pokemon_changes/212/
+[Slugma]: /pokemon_changes/218/
+[Magcargo]: /pokemon_changes/219/
+[Kingdra]: /pokemon_changes/230/
+[Porygon2]: /pokemon_changes/233/
+[Aron]: /pokemon_changes/304/
+[Lairon]: /pokemon_changes/305/
+[Aggron]: /pokemon_changes/306/
+[Meditite]: /pokemon_changes/307/
+[Medicham]: /pokemon_changes/308/
 [Roselia]: /pokemon_changes/315/
+[Wailmer]: /pokemon_changes/320/
+[Wailord]: /pokemon_changes/321/
+[Trapinch]: /pokemon_changes/328/
+[Vibrava]: /pokemon_changes/329/
+[Baltoy]: /pokemon_changes/343/
+[Claydol]: /pokemon_changes/344/
+[Lileep]: /pokemon_changes/345/
+[Cradily]: /pokemon_changes/346/
+[Anorith]: /pokemon_changes/347/
+[Armaldo]: /pokemon_changes/348/
 [Feebas]: /pokemon_changes/349/
 [Milotic]: /pokemon_changes/350/
+[Shuppet]: /pokemon_changes/353/
+[Banette]: /pokemon_changes/354/
+[Duskull]: /pokemon_changes/355/
+[Dusclops]: /pokemon_changes/356/
 [Chimecho]: /pokemon_changes/358/
+[Snorunt]: /pokemon_changes/361/
+[Glalie]: /pokemon_changes/362/
+[Spheal]: /pokemon_changes/363/
+[Sealeo]: /pokemon_changes/364/
+[Walrein]: /pokemon_changes/365/
+[Clamperl]: /pokemon_changes/366/
+[Huntail]: /pokemon_changes/367/
+[Gorebyss]: /pokemon_changes/368/
 [Budew]: /pokemon_changes/406/
+[Glameow]: /pokemon_changes/431/
+[Purugly]: /pokemon_changes/432/
 [Chingling]: /pokemon_changes/433/
+[Stunky]: /pokemon_changes/434/
+[Skuntank]: /pokemon_changes/435/
 [Riolu]: /pokemon_changes/447/
 [Lucario]: /pokemon_changes/448/
+[Skorupi]: /pokemon_changes/451/
+[Drapion]: /pokemon_changes/452/
+[Croagunk]: /pokemon_changes/453/
+[Toxicroak]: /pokemon_changes/454/
+[Rhyperior]: /pokemon_changes/464/
+[Electivire]: /pokemon_changes/466/
+[Magmortar]: /pokemon_changes/467/
 [Leafeon]: /pokemon_changes/470/
 [Glaceon]: /pokemon_changes/471/
+[Porygon-Z]: /pokemon_changes/474/
+[Dusknoir]: /pokemon_changes/477/
 [deep-sea-scale]: /img/items/deep-sea-scale.png
 [deep-sea-tooth]: /img/items/deep-sea-tooth.png
 [dragon-scale]: /img/items/dragon-scale.png
