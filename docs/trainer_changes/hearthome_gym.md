@@ -1,7 +1,7 @@
 # Hearthome Gym
 
-Trainer                          | 1                                    | 2                                    | 3                                    | 4
----                              | ---                                  | ---                                  | ---                                  | ---
+Trainer                          | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6
+---                              | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---
 Youngster Donny                  | ![][092]<br> [Gastly]<br> Lv. 27     | ![][092]<br> [Gastly]<br> Lv. 27     | ![][092]<br> [Gastly]<br> Lv. 27
 Lass Molly                       | ![][200]<br> [Misdreavus]<br> Lv. 29
 School Kid Chance                | ![][355]<br> [Duskull]<br> Lv. 26    | ![][353]<br> [Shuppet]<br> Lv. 26    | ![][355]<br> [Duskull]<br> Lv. 26
