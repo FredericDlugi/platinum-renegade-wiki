@@ -1,5 +1,9 @@
 # Route 217
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_217/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 Ace Trainer Dalton (!)     | ![][467]  [Magmortar] Lv. 52  ![][003]  [Venusaur] Lv. 52  ![][230]  [Kingdra] Lv. 52
@@ -46,25 +50,25 @@ Ace Trainer Olivia (C)     | ![][275]  [Shiftry] Lv. 72  ![][334]  [Altaria] Lv.
 [471]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png "Glaceon"
 [473]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png "Mamoswine"
 [478]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/478.png "Froslass"
-[Venusaur]: pokemon_changes/003/
-[Machamp]: pokemon_changes/068/
-[Dewgong]: pokemon_changes/087/
-[Jynx]: pokemon_changes/124/
-[Crobat]: pokemon_changes/169/
-[Swinub]: pokemon_changes/220/
-[Piloswine]: pokemon_changes/221/
-[Kingdra]: pokemon_changes/230/
-[Smoochum]: pokemon_changes/238/
-[Blissey]: pokemon_changes/242/
-[Shiftry]: pokemon_changes/275/
-[Altaria]: pokemon_changes/334/
-[Snorunt]: pokemon_changes/361/
-[Lucario]: pokemon_changes/448/
-[Drapion]: pokemon_changes/452/
-[Toxicroak]: pokemon_changes/454/
-[Snover]: pokemon_changes/459/
-[Abomasnow]: pokemon_changes/460/
-[Magmortar]: pokemon_changes/467/
-[Glaceon]: pokemon_changes/471/
-[Mamoswine]: pokemon_changes/473/
-[Froslass]: pokemon_changes/478/
+[Venusaur]: /pokemon_changes/003/
+[Machamp]: /pokemon_changes/068/
+[Dewgong]: /pokemon_changes/087/
+[Jynx]: /pokemon_changes/124/
+[Crobat]: /pokemon_changes/169/
+[Swinub]: /pokemon_changes/220/
+[Piloswine]: /pokemon_changes/221/
+[Kingdra]: /pokemon_changes/230/
+[Smoochum]: /pokemon_changes/238/
+[Blissey]: /pokemon_changes/242/
+[Shiftry]: /pokemon_changes/275/
+[Altaria]: /pokemon_changes/334/
+[Snorunt]: /pokemon_changes/361/
+[Lucario]: /pokemon_changes/448/
+[Drapion]: /pokemon_changes/452/
+[Toxicroak]: /pokemon_changes/454/
+[Snover]: /pokemon_changes/459/
+[Abomasnow]: /pokemon_changes/460/
+[Magmortar]: /pokemon_changes/467/
+[Glaceon]: /pokemon_changes/471/
+[Mamoswine]: /pokemon_changes/473/
+[Froslass]: /pokemon_changes/478/

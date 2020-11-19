@@ -14,9 +14,9 @@ Night      | ![][092]  [Gastly] (40%) ![][019]  [Rattata] (30%) ![][355]  [Dusku
 [093]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png "Haunter"
 [353]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/353.png "Shuppet"
 [355]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/355.png "Duskull"
-[Rattata]: pokemon_changes/019/
-[Raticate]: pokemon_changes/020/
-[Gastly]: pokemon_changes/092/
-[Haunter]: pokemon_changes/093/
-[Shuppet]: pokemon_changes/353/
-[Duskull]: pokemon_changes/355/
+[Rattata]: /pokemon_changes/019/
+[Raticate]: /pokemon_changes/020/
+[Gastly]: /pokemon_changes/092/
+[Haunter]: /pokemon_changes/093/
+[Shuppet]: /pokemon_changes/353/
+[Duskull]: /pokemon_changes/355/

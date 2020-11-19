@@ -1,4 +1,8 @@
 # Route 221
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/route_221/).
+
 Levels: 38 - 40 (Walking) 30 - 45 (Surf) 39 (Honey Tree)
 
 Area       | Pokémon
@@ -36,25 +40,25 @@ Honey Tree | ![][421]  [Cherrim] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Ex
 [368]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/368.png "Gorebyss"
 [421]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/421.png "Cherrim"
 [435]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png "Skuntank"
-[Nidorina]: pokemon_changes/030/
-[Nidorino]: pokemon_changes/033/
-[Tentacool]: pokemon_changes/072/
-[Tentacruel]: pokemon_changes/073/
-[Farfetch'd]: pokemon_changes/083/
-[Dodrio]: pokemon_changes/085/
-[Krabby]: pokemon_changes/098/
-[Kingler]: pokemon_changes/099/
-[Exeggcute]: pokemon_changes/102/
-[Tangela]: pokemon_changes/114/
-[Horsea]: pokemon_changes/116/
-[Sudowoodo]: pokemon_changes/185/
-[Girafarig]: pokemon_changes/203/
-[Nuzleaf]: pokemon_changes/274/
-[Wingull]: pokemon_changes/278/
-[Pelipper]: pokemon_changes/279/
-[Shroomish]: pokemon_changes/285/
-[Clamperl]: pokemon_changes/366/
-[Huntail]: pokemon_changes/367/
-[Gorebyss]: pokemon_changes/368/
-[Cherrim]: pokemon_changes/421/
-[Skuntank]: pokemon_changes/435/
+[Nidorina]: /pokemon_changes/030/
+[Nidorino]: /pokemon_changes/033/
+[Tentacool]: /pokemon_changes/072/
+[Tentacruel]: /pokemon_changes/073/
+[Farfetch'd]: /pokemon_changes/083/
+[Dodrio]: /pokemon_changes/085/
+[Krabby]: /pokemon_changes/098/
+[Kingler]: /pokemon_changes/099/
+[Exeggcute]: /pokemon_changes/102/
+[Tangela]: /pokemon_changes/114/
+[Horsea]: /pokemon_changes/116/
+[Sudowoodo]: /pokemon_changes/185/
+[Girafarig]: /pokemon_changes/203/
+[Nuzleaf]: /pokemon_changes/274/
+[Wingull]: /pokemon_changes/278/
+[Pelipper]: /pokemon_changes/279/
+[Shroomish]: /pokemon_changes/285/
+[Clamperl]: /pokemon_changes/366/
+[Huntail]: /pokemon_changes/367/
+[Gorebyss]: /pokemon_changes/368/
+[Cherrim]: /pokemon_changes/421/
+[Skuntank]: /pokemon_changes/435/

@@ -1,4 +1,8 @@
 # Route 222
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/route_222/).
+
 Levels: 53 - 54 (Walking) 54 (Honey Tree) 35 - 55 (Surfing)
 
 Area       | Pokémon
@@ -36,25 +40,25 @@ Honey Tree | ![][114]  [Tangela] (30%) ![][214]  [Heracross] (30%) ![][083]  [Fa
 [419]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png "Floatzel"
 [432]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png "Purugly"
 [441]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png "Chatot"
-[Tentacool]: pokemon_changes/072/
-[Tentacruel]: pokemon_changes/073/
-[Farfetch'd]: pokemon_changes/083/
-[Tangela]: pokemon_changes/114/
-[Mr. Mime]: pokemon_changes/122/
-[Electabuzz]: pokemon_changes/125/
-[Magikarp]: pokemon_changes/129/
-[Gyarados]: pokemon_changes/130/
-[Snorlax]: pokemon_changes/143/
-[Flaaffy]: pokemon_changes/180/
-[Heracross]: pokemon_changes/214/
-[Remoraid]: pokemon_changes/223/
-[Octillery]: pokemon_changes/224/
-[Wingull]: pokemon_changes/278/
-[Pelipper]: pokemon_changes/279/
-[Delcatty]: pokemon_changes/301/
-[Wailmer]: pokemon_changes/320/
-[Wailord]: pokemon_changes/321/
-[Luxio]: pokemon_changes/404/
-[Floatzel]: pokemon_changes/419/
-[Purugly]: pokemon_changes/432/
-[Chatot]: pokemon_changes/441/
+[Tentacool]: /pokemon_changes/072/
+[Tentacruel]: /pokemon_changes/073/
+[Farfetch'd]: /pokemon_changes/083/
+[Tangela]: /pokemon_changes/114/
+[Mr. Mime]: /pokemon_changes/122/
+[Electabuzz]: /pokemon_changes/125/
+[Magikarp]: /pokemon_changes/129/
+[Gyarados]: /pokemon_changes/130/
+[Snorlax]: /pokemon_changes/143/
+[Flaaffy]: /pokemon_changes/180/
+[Heracross]: /pokemon_changes/214/
+[Remoraid]: /pokemon_changes/223/
+[Octillery]: /pokemon_changes/224/
+[Wingull]: /pokemon_changes/278/
+[Pelipper]: /pokemon_changes/279/
+[Delcatty]: /pokemon_changes/301/
+[Wailmer]: /pokemon_changes/320/
+[Wailord]: /pokemon_changes/321/
+[Luxio]: /pokemon_changes/404/
+[Floatzel]: /pokemon_changes/419/
+[Purugly]: /pokemon_changes/432/
+[Chatot]: /pokemon_changes/441/

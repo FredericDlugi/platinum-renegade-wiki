@@ -1,4 +1,8 @@
 # Route 228
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/route_228/).
+
 Levels: 65 - 67 (Walking) 65 - 67 (Surfing)
 
 Area       | Pokémon
@@ -25,16 +29,16 @@ Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
 [375]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png "Metang"
 [444]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/444.png "Gabite"
 [450]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/450.png "Hippowdon"
-[Sandslash]: pokemon_changes/028/
-[Dugtrio]: pokemon_changes/051/
-[Poliwhirl]: pokemon_changes/061/
-[Magikarp]: pokemon_changes/129/
-[Gyarados]: pokemon_changes/130/
-[Vibrava]: pokemon_changes/329/
-[Cacturne]: pokemon_changes/332/
-[Barboach]: pokemon_changes/339/
-[Whiscash]: pokemon_changes/340/
-[Claydol]: pokemon_changes/344/
-[Metang]: pokemon_changes/375/
-[Gabite]: pokemon_changes/444/
-[Hippowdon]: pokemon_changes/450/
+[Sandslash]: /pokemon_changes/028/
+[Dugtrio]: /pokemon_changes/051/
+[Poliwhirl]: /pokemon_changes/061/
+[Magikarp]: /pokemon_changes/129/
+[Gyarados]: /pokemon_changes/130/
+[Vibrava]: /pokemon_changes/329/
+[Cacturne]: /pokemon_changes/332/
+[Barboach]: /pokemon_changes/339/
+[Whiscash]: /pokemon_changes/340/
+[Claydol]: /pokemon_changes/344/
+[Metang]: /pokemon_changes/375/
+[Gabite]: /pokemon_changes/444/
+[Hippowdon]: /pokemon_changes/450/

@@ -1,5 +1,9 @@
 # Route 206
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_206/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 Cyclist Axel               | ![][172]  [Pichu] Lv. 19  ![][172]  [Pichu] Lv. 19  ![][025]  [Pikachu] Lv. 19
@@ -43,22 +47,22 @@ Cyclist Kayla (C)          | ![][101]  [Electrode] Lv. 70  ![][462]  [Magnezone]
 [324]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png "Torkoal"
 [404]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/404.png "Luxio"
 [462]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png "Magnezone"
-[Pidgeotto]: pokemon_changes/017/
-[Pikachu]: pokemon_changes/025/
-[Ponyta]: pokemon_changes/077/
-[Magnemite]: pokemon_changes/081/
-[Magneton]: pokemon_changes/082/
-[Farfetch'd]: pokemon_changes/083/
-[Doduo]: pokemon_changes/084/
-[Voltorb]: pokemon_changes/100/
-[Electrode]: pokemon_changes/101/
-[Jolteon]: pokemon_changes/135/
-[Pichu]: pokemon_changes/172/
-[Flaaffy]: pokemon_changes/180/
-[Taillow]: pokemon_changes/276/
-[Wingull]: pokemon_changes/278/
-[Electrike]: pokemon_changes/309/
-[Manectric]: pokemon_changes/310/
-[Torkoal]: pokemon_changes/324/
-[Luxio]: pokemon_changes/404/
-[Magnezone]: pokemon_changes/462/
+[Pidgeotto]: /pokemon_changes/017/
+[Pikachu]: /pokemon_changes/025/
+[Ponyta]: /pokemon_changes/077/
+[Magnemite]: /pokemon_changes/081/
+[Magneton]: /pokemon_changes/082/
+[Farfetch'd]: /pokemon_changes/083/
+[Doduo]: /pokemon_changes/084/
+[Voltorb]: /pokemon_changes/100/
+[Electrode]: /pokemon_changes/101/
+[Jolteon]: /pokemon_changes/135/
+[Pichu]: /pokemon_changes/172/
+[Flaaffy]: /pokemon_changes/180/
+[Taillow]: /pokemon_changes/276/
+[Wingull]: /pokemon_changes/278/
+[Electrike]: /pokemon_changes/309/
+[Manectric]: /pokemon_changes/310/
+[Torkoal]: /pokemon_changes/324/
+[Luxio]: /pokemon_changes/404/
+[Magnezone]: /pokemon_changes/462/

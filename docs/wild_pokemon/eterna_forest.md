@@ -1,4 +1,8 @@
 # Eterna Forest
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/eterna_forest/).
+
 Levels: 14 - 16 (Walking)
 
 Area       | Pokémon
@@ -19,13 +23,13 @@ Poké Radar | ![][267]  [Beautifly] (11%) ![][269]  [Dustox] (11%)
 [287]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/287.png "Slakoth"
 [290]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/290.png "Nincada"
 [427]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/427.png "Buneary"
-[Paras]: pokemon_changes/046/
-[Murkrow]: pokemon_changes/198/
-[Misdreavus]: pokemon_changes/200/
-[Beautifly]: pokemon_changes/267/
-[Dustox]: pokemon_changes/269/
-[Taillow]: pokemon_changes/276/
-[Shroomish]: pokemon_changes/285/
-[Slakoth]: pokemon_changes/287/
-[Nincada]: pokemon_changes/290/
-[Buneary]: pokemon_changes/427/
+[Paras]: /pokemon_changes/046/
+[Murkrow]: /pokemon_changes/198/
+[Misdreavus]: /pokemon_changes/200/
+[Beautifly]: /pokemon_changes/267/
+[Dustox]: /pokemon_changes/269/
+[Taillow]: /pokemon_changes/276/
+[Shroomish]: /pokemon_changes/285/
+[Slakoth]: /pokemon_changes/287/
+[Nincada]: /pokemon_changes/290/
+[Buneary]: /pokemon_changes/427/

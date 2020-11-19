@@ -1,4 +1,8 @@
 # Route 227
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/route_227/).
+
 Levels: 65 - 67 (Walking) 65 - 67 (Surfing)
 
 Area       | Pokémon
@@ -24,15 +28,15 @@ Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
 [327]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/327.png "Spinda"
 [339]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png "Barboach"
 [340]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png "Whiscash"
-[Poliwhirl]: pokemon_changes/061/
-[Weezing]: pokemon_changes/110/
-[Rhydon]: pokemon_changes/112/
-[Magikarp]: pokemon_changes/129/
-[Gyarados]: pokemon_changes/130/
-[Gligar]: pokemon_changes/207/
-[Skarmory]: pokemon_changes/227/
-[Camerupt]: pokemon_changes/323/
-[Torkoal]: pokemon_changes/324/
-[Spinda]: pokemon_changes/327/
-[Barboach]: pokemon_changes/339/
-[Whiscash]: pokemon_changes/340/
+[Poliwhirl]: /pokemon_changes/061/
+[Weezing]: /pokemon_changes/110/
+[Rhydon]: /pokemon_changes/112/
+[Magikarp]: /pokemon_changes/129/
+[Gyarados]: /pokemon_changes/130/
+[Gligar]: /pokemon_changes/207/
+[Skarmory]: /pokemon_changes/227/
+[Camerupt]: /pokemon_changes/323/
+[Torkoal]: /pokemon_changes/324/
+[Spinda]: /pokemon_changes/327/
+[Barboach]: /pokemon_changes/339/
+[Whiscash]: /pokemon_changes/340/

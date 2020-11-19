@@ -1,5 +1,9 @@
 # Route 212 ~ South
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_212__south/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 Parasol Lady Sabrina       | ![][351]  [Castform] Lv. 39
@@ -68,38 +72,38 @@ Parasol Lady Alexa (C)     | ![][230]  [Kingdra] Lv. 71  ![][055]  [Golduck] Lv.
 [470]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/470.png "Leafeon"
 [471]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png "Glaceon"
 [474]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/474.png "Porygon-Z"
-[Nidoking]: pokemon_changes/034/
-[Golduck]: pokemon_changes/055/
-[Growlithe]: pokemon_changes/058/
-[Machoke]: pokemon_changes/067/
-[Magneton]: pokemon_changes/082/
-[Muk]: pokemon_changes/089/
-[Shellder]: pokemon_changes/090/
-[Cloyster]: pokemon_changes/091/
-[Electrode]: pokemon_changes/101/
-[Weezing]: pokemon_changes/110/
-[Seadra]: pokemon_changes/117/
-[Goldeen]: pokemon_changes/118/
-[Jynx]: pokemon_changes/124/
-[Electabuzz]: pokemon_changes/125/
-[Magmar]: pokemon_changes/126/
-[Noctowl]: pokemon_changes/164/
-[Espeon]: pokemon_changes/196/
-[Umbreon]: pokemon_changes/197/
-[Qwilfish]: pokemon_changes/211/
-[Remoraid]: pokemon_changes/223/
-[Octillery]: pokemon_changes/224/
-[Kingdra]: pokemon_changes/230/
-[Porygon2]: pokemon_changes/233/
-[Manectric]: pokemon_changes/310/
-[Barboach]: pokemon_changes/339/
-[Milotic]: pokemon_changes/350/
-[Castform]: pokemon_changes/351/
-[Kecleon]: pokemon_changes/352/
-[Clamperl]: pokemon_changes/366/
-[Carnivine]: pokemon_changes/455/
-[Magnezone]: pokemon_changes/462/
-[Electivire]: pokemon_changes/466/
-[Leafeon]: pokemon_changes/470/
-[Glaceon]: pokemon_changes/471/
-[Porygon-Z]: pokemon_changes/474/
+[Nidoking]: /pokemon_changes/034/
+[Golduck]: /pokemon_changes/055/
+[Growlithe]: /pokemon_changes/058/
+[Machoke]: /pokemon_changes/067/
+[Magneton]: /pokemon_changes/082/
+[Muk]: /pokemon_changes/089/
+[Shellder]: /pokemon_changes/090/
+[Cloyster]: /pokemon_changes/091/
+[Electrode]: /pokemon_changes/101/
+[Weezing]: /pokemon_changes/110/
+[Seadra]: /pokemon_changes/117/
+[Goldeen]: /pokemon_changes/118/
+[Jynx]: /pokemon_changes/124/
+[Electabuzz]: /pokemon_changes/125/
+[Magmar]: /pokemon_changes/126/
+[Noctowl]: /pokemon_changes/164/
+[Espeon]: /pokemon_changes/196/
+[Umbreon]: /pokemon_changes/197/
+[Qwilfish]: /pokemon_changes/211/
+[Remoraid]: /pokemon_changes/223/
+[Octillery]: /pokemon_changes/224/
+[Kingdra]: /pokemon_changes/230/
+[Porygon2]: /pokemon_changes/233/
+[Manectric]: /pokemon_changes/310/
+[Barboach]: /pokemon_changes/339/
+[Milotic]: /pokemon_changes/350/
+[Castform]: /pokemon_changes/351/
+[Kecleon]: /pokemon_changes/352/
+[Clamperl]: /pokemon_changes/366/
+[Carnivine]: /pokemon_changes/455/
+[Magnezone]: /pokemon_changes/462/
+[Electivire]: /pokemon_changes/466/
+[Leafeon]: /pokemon_changes/470/
+[Glaceon]: /pokemon_changes/471/
+[Porygon-Z]: /pokemon_changes/474/

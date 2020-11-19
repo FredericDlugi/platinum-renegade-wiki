@@ -39,23 +39,23 @@ Commander Jupiter | Item         | Nature  | Ability       | Moves
 [435]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png "Skuntank"
 [451]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/451.png "Skorupi"
 [453]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png "Croagunk"
-[Ekans]: pokemon_changes/023/
-[Nidoran♀]: pokemon_changes/029/
-[Nidoran♂]: pokemon_changes/032/
-[Golbat]: pokemon_changes/042/
-[Kadabra]: pokemon_changes/064/
-[Drowzee]: pokemon_changes/096/
-[Koffing]: pokemon_changes/109/
-[Tangela]: pokemon_changes/114/
-[Ledian]: pokemon_changes/166/
-[Ariados]: pokemon_changes/168/
-[Cleffa]: pokemon_changes/173/
-[Houndour]: pokemon_changes/228/
-[Beautifly]: pokemon_changes/267/
-[Sableye]: pokemon_changes/302/
-[Metang]: pokemon_changes/375/
-[Glameow]: pokemon_changes/431/
-[Stunky]: pokemon_changes/434/
-[Skuntank]: pokemon_changes/435/
-[Skorupi]: pokemon_changes/451/
-[Croagunk]: pokemon_changes/453/
+[Ekans]: /pokemon_changes/023/
+[Nidoran♀]: /pokemon_changes/029/
+[Nidoran♂]: /pokemon_changes/032/
+[Golbat]: /pokemon_changes/042/
+[Kadabra]: /pokemon_changes/064/
+[Drowzee]: /pokemon_changes/096/
+[Koffing]: /pokemon_changes/109/
+[Tangela]: /pokemon_changes/114/
+[Ledian]: /pokemon_changes/166/
+[Ariados]: /pokemon_changes/168/
+[Cleffa]: /pokemon_changes/173/
+[Houndour]: /pokemon_changes/228/
+[Beautifly]: /pokemon_changes/267/
+[Sableye]: /pokemon_changes/302/
+[Metang]: /pokemon_changes/375/
+[Glameow]: /pokemon_changes/431/
+[Stunky]: /pokemon_changes/434/
+[Skuntank]: /pokemon_changes/435/
+[Skorupi]: /pokemon_changes/451/
+[Croagunk]: /pokemon_changes/453/

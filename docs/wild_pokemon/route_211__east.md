@@ -1,4 +1,8 @@
 # Route 211 ~ East
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/route_211__east/).
+
 Levels: 18 - 19 (Walking) 18 (Honey Tree)
 
 Area       | Pokémon
@@ -22,15 +26,15 @@ Honey Tree | ![][190]  [Aipom] (30%) ![][287]  [Slakoth] (20%) ![][011]  [Metapo
 [333]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png "Swablu"
 [371]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/371.png "Bagon"
 [446]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png "Munchlax"
-[Metapod]: pokemon_changes/011/
-[Kakuna]: pokemon_changes/014/
-[Machop]: pokemon_changes/066/
-[Natu]: pokemon_changes/177/
-[Aipom]: pokemon_changes/190/
-[Teddiursa]: pokemon_changes/216/
-[Tyrogue]: pokemon_changes/236/
-[Slakoth]: pokemon_changes/287/
-[Meditite]: pokemon_changes/307/
-[Swablu]: pokemon_changes/333/
-[Bagon]: pokemon_changes/371/
-[Munchlax]: pokemon_changes/446/
+[Metapod]: /pokemon_changes/011/
+[Kakuna]: /pokemon_changes/014/
+[Machop]: /pokemon_changes/066/
+[Natu]: /pokemon_changes/177/
+[Aipom]: /pokemon_changes/190/
+[Teddiursa]: /pokemon_changes/216/
+[Tyrogue]: /pokemon_changes/236/
+[Slakoth]: /pokemon_changes/287/
+[Meditite]: /pokemon_changes/307/
+[Swablu]: /pokemon_changes/333/
+[Bagon]: /pokemon_changes/371/
+[Munchlax]: /pokemon_changes/446/

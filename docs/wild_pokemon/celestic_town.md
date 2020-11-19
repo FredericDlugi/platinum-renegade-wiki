@@ -1,4 +1,8 @@
 # Celestic Town
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/celestic_town/).
+
 Levels: 20 - 40 (Surfing)
 
 Area       | Pokémon
@@ -14,8 +18,8 @@ Super Rod  | ![][130]  [Gyarados] (90%) ![][369]  [Relicanth] (10%)
 [129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
 [130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
 [369]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/369.png "Relicanth"
-[Psyduck]: pokemon_changes/054/
-[Golduck]: pokemon_changes/055/
-[Magikarp]: pokemon_changes/129/
-[Gyarados]: pokemon_changes/130/
-[Relicanth]: pokemon_changes/369/
+[Psyduck]: /pokemon_changes/054/
+[Golduck]: /pokemon_changes/055/
+[Magikarp]: /pokemon_changes/129/
+[Gyarados]: /pokemon_changes/130/
+[Relicanth]: /pokemon_changes/369/

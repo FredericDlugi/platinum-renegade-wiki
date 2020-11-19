@@ -1,4 +1,8 @@
 # Route 214
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/route_214/).
+
 Levels: 28 - 32 (Walking) 20 - 40 (Surfing) 30 (Honey Tree)
 
 Area       | Pokémon
@@ -32,21 +36,21 @@ Honey Tree | ![][190]  [Aipom] (30%) ![][288]  [Vigoroth] (20%) ![][012]  [Butte
 [327]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/327.png "Spinda"
 [331]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/331.png "Cacnea"
 [446]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png "Munchlax"
-[Butterfree]: pokemon_changes/012/
-[Beedrill]: pokemon_changes/015/
-[Psyduck]: pokemon_changes/054/
-[Golduck]: pokemon_changes/055/
-[Graveler]: pokemon_changes/075/
-[Rhyhorn]: pokemon_changes/111/
-[Goldeen]: pokemon_changes/118/
-[Seaking]: pokemon_changes/119/
-[Magikarp]: pokemon_changes/129/
-[Gyarados]: pokemon_changes/130/
-[Aipom]: pokemon_changes/190/
-[Houndour]: pokemon_changes/228/
-[Vigoroth]: pokemon_changes/288/
-[Numel]: pokemon_changes/322/
-[Spoink]: pokemon_changes/325/
-[Spinda]: pokemon_changes/327/
-[Cacnea]: pokemon_changes/331/
-[Munchlax]: pokemon_changes/446/
+[Butterfree]: /pokemon_changes/012/
+[Beedrill]: /pokemon_changes/015/
+[Psyduck]: /pokemon_changes/054/
+[Golduck]: /pokemon_changes/055/
+[Graveler]: /pokemon_changes/075/
+[Rhyhorn]: /pokemon_changes/111/
+[Goldeen]: /pokemon_changes/118/
+[Seaking]: /pokemon_changes/119/
+[Magikarp]: /pokemon_changes/129/
+[Gyarados]: /pokemon_changes/130/
+[Aipom]: /pokemon_changes/190/
+[Houndour]: /pokemon_changes/228/
+[Vigoroth]: /pokemon_changes/288/
+[Numel]: /pokemon_changes/322/
+[Spoink]: /pokemon_changes/325/
+[Spinda]: /pokemon_changes/327/
+[Cacnea]: /pokemon_changes/331/
+[Munchlax]: /pokemon_changes/446/

@@ -1,5 +1,9 @@
 # Celestic Town
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/celestic_town/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 Galactic Grunt             | ![][229]  [Houndoom] Lv. 43  ![][042]  [Golbat] Lv. 43  ![][015]  [Beedrill] Lv. 43
@@ -20,13 +24,13 @@ Galactic Boss Cyrus | Item         | Nature  | Ability       | Moves
 [430]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/430.png "Honchkrow"
 [461]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/461.png "Weavile"
 [462]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png "Magnezone"
-[Beedrill]: pokemon_changes/015/
-[Golbat]: pokemon_changes/042/
-[Crobat]: pokemon_changes/169/
-[Houndoom]: pokemon_changes/229/
-[Honchkrow]: pokemon_changes/430/
-[Weavile]: pokemon_changes/461/
-[Magnezone]: pokemon_changes/462/
+[Beedrill]: /pokemon_changes/015/
+[Golbat]: /pokemon_changes/042/
+[Crobat]: /pokemon_changes/169/
+[Houndoom]: /pokemon_changes/229/
+[Honchkrow]: /pokemon_changes/430/
+[Weavile]: /pokemon_changes/461/
+[Magnezone]: /pokemon_changes/462/
 [expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
 [scope-lens]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/scope-lens.png
 [wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png

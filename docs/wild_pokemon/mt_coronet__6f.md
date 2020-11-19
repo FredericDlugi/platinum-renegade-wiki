@@ -1,4 +1,8 @@
 # Mt. Coronet ~ 6F
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/mt_coronet__6f/).
+
 Levels: 51 - 53 (Walking)
 
 Area       | Pokémon
@@ -17,12 +21,12 @@ Night      | ![][075]  [Graveler] (20%) ![][437]  [Bronzong] (20%) ![][035]  [Cl
 [358]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png "Chimecho"
 [375]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png "Metang"
 [437]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png "Bronzong"
-[Clefairy]: pokemon_changes/035/
-[Golbat]: pokemon_changes/042/
-[Graveler]: pokemon_changes/075/
-[Nosepass]: pokemon_changes/299/
-[Lunatone]: pokemon_changes/337/
-[Solrock]: pokemon_changes/338/
-[Chimecho]: pokemon_changes/358/
-[Metang]: pokemon_changes/375/
-[Bronzong]: pokemon_changes/437/
+[Clefairy]: /pokemon_changes/035/
+[Golbat]: /pokemon_changes/042/
+[Graveler]: /pokemon_changes/075/
+[Nosepass]: /pokemon_changes/299/
+[Lunatone]: /pokemon_changes/337/
+[Solrock]: /pokemon_changes/338/
+[Chimecho]: /pokemon_changes/358/
+[Metang]: /pokemon_changes/375/
+[Bronzong]: /pokemon_changes/437/

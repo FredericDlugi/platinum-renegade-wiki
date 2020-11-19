@@ -1,5 +1,9 @@
 # Route 225
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_225/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 Ace Trainer Rodolfo (!)    | ![][121]  [Starmie] Lv. 73  ![][212]  [Scizor] Lv. 73  ![][254]  [Sceptile] Lv. 73 <br> ![][038]  [Ninetales] Lv. 73
@@ -62,35 +66,35 @@ Ace Trainer Heather | Item         | Nature  | Ability       | Moves
 [357]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/357.png "Tropius"
 [445]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png "Garchomp"
 [468]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/468.png "Togekiss"
-[Butterfree]: pokemon_changes/012/
-[Pidgeot]: pokemon_changes/018/
-[Arbok]: pokemon_changes/024/
-[Ninetales]: pokemon_changes/038/
-[Golduck]: pokemon_changes/055/
-[Golem]: pokemon_changes/076/
-[Slowbro]: pokemon_changes/080/
-[Farfetch'd]: pokemon_changes/083/
-[Starmie]: pokemon_changes/121/
-[Pinsir]: pokemon_changes/127/
-[Lapras]: pokemon_changes/131/
-[Aerodactyl]: pokemon_changes/142/
-[Dragonite]: pokemon_changes/149/
-[Lanturn]: pokemon_changes/171/
-[Ampharos]: pokemon_changes/181/
-[Slowking]: pokemon_changes/199/
-[Scizor]: pokemon_changes/212/
-[Skarmory]: pokemon_changes/227/
-[Donphan]: pokemon_changes/232/
-[Miltank]: pokemon_changes/241/
-[Sceptile]: pokemon_changes/254/
-[Linoone]: pokemon_changes/264/
-[Swellow]: pokemon_changes/277/
-[Pelipper]: pokemon_changes/279/
-[Exploud]: pokemon_changes/295/
-[Altaria]: pokemon_changes/334/
-[Tropius]: pokemon_changes/357/
-[Garchomp]: pokemon_changes/445/
-[Togekiss]: pokemon_changes/468/
+[Butterfree]: /pokemon_changes/012/
+[Pidgeot]: /pokemon_changes/018/
+[Arbok]: /pokemon_changes/024/
+[Ninetales]: /pokemon_changes/038/
+[Golduck]: /pokemon_changes/055/
+[Golem]: /pokemon_changes/076/
+[Slowbro]: /pokemon_changes/080/
+[Farfetch'd]: /pokemon_changes/083/
+[Starmie]: /pokemon_changes/121/
+[Pinsir]: /pokemon_changes/127/
+[Lapras]: /pokemon_changes/131/
+[Aerodactyl]: /pokemon_changes/142/
+[Dragonite]: /pokemon_changes/149/
+[Lanturn]: /pokemon_changes/171/
+[Ampharos]: /pokemon_changes/181/
+[Slowking]: /pokemon_changes/199/
+[Scizor]: /pokemon_changes/212/
+[Skarmory]: /pokemon_changes/227/
+[Donphan]: /pokemon_changes/232/
+[Miltank]: /pokemon_changes/241/
+[Sceptile]: /pokemon_changes/254/
+[Linoone]: /pokemon_changes/264/
+[Swellow]: /pokemon_changes/277/
+[Pelipper]: /pokemon_changes/279/
+[Exploud]: /pokemon_changes/295/
+[Altaria]: /pokemon_changes/334/
+[Tropius]: /pokemon_changes/357/
+[Garchomp]: /pokemon_changes/445/
+[Togekiss]: /pokemon_changes/468/
 [expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
 [focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
 [white-herb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-herb.png

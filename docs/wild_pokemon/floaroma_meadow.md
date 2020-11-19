@@ -1,4 +1,8 @@
 # Floaroma Meadow
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/floaroma_meadow/).
+
 Levels: 12 (Honey Tree)
 
 Area       | Pokémon
@@ -11,8 +15,8 @@ Honey Tree | ![][420]  [Cherubi] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Ex
 [273]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/273.png "Seedot"
 [285]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/285.png "Shroomish"
 [420]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/420.png "Cherubi"
-[Exeggcute]: pokemon_changes/102/
-[Tangela]: pokemon_changes/114/
-[Seedot]: pokemon_changes/273/
-[Shroomish]: pokemon_changes/285/
-[Cherubi]: pokemon_changes/420/
+[Exeggcute]: /pokemon_changes/102/
+[Tangela]: /pokemon_changes/114/
+[Seedot]: /pokemon_changes/273/
+[Shroomish]: /pokemon_changes/285/
+[Cherubi]: /pokemon_changes/420/

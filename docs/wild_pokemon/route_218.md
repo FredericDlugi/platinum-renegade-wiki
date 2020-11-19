@@ -1,4 +1,8 @@
 # Route 218
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/route_218/).
+
 Levels: 38 - 39 (Walking) 20 - 45 (Surfing) 39 (Honey Tree)
 
 Area       | Pokémon
@@ -38,28 +42,28 @@ Honey Tree | ![][415]  [Combee] (30%) ![][205]  [Forretress] (10%) ![][413]  [Wo
 [441]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png "Chatot"
 [456]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/456.png "Finneon"
 [457]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png "Lumineon"
-[Tentacool]: pokemon_changes/072/
-[Tentacruel]: pokemon_changes/073/
-[Electrode]: pokemon_changes/101/
-[Staryu]: pokemon_changes/120/
-[Starmie]: pokemon_changes/121/
-[Mr. Mime]: pokemon_changes/122/
-[Electabuzz]: pokemon_changes/125/
-[Magikarp]: pokemon_changes/129/
-[Gyarados]: pokemon_changes/130/
-[Ditto]: pokemon_changes/132/
-[Forretress]: pokemon_changes/205/
-[Heracross]: pokemon_changes/214/
-[Beautifly]: pokemon_changes/267/
-[Dustox]: pokemon_changes/269/
-[Wormadam]: pokemon_changes/413/
-[Mothim]: pokemon_changes/414/
-[Combee]: pokemon_changes/415/
-[Vespiquen]: pokemon_changes/416/
-[Floatzel]: pokemon_changes/419/
-[Shellos]: pokemon_changes/422/
-[Gastrodon]: pokemon_changes/423/
-[Purugly]: pokemon_changes/432/
-[Chatot]: pokemon_changes/441/
-[Finneon]: pokemon_changes/456/
-[Lumineon]: pokemon_changes/457/
+[Tentacool]: /pokemon_changes/072/
+[Tentacruel]: /pokemon_changes/073/
+[Electrode]: /pokemon_changes/101/
+[Staryu]: /pokemon_changes/120/
+[Starmie]: /pokemon_changes/121/
+[Mr. Mime]: /pokemon_changes/122/
+[Electabuzz]: /pokemon_changes/125/
+[Magikarp]: /pokemon_changes/129/
+[Gyarados]: /pokemon_changes/130/
+[Ditto]: /pokemon_changes/132/
+[Forretress]: /pokemon_changes/205/
+[Heracross]: /pokemon_changes/214/
+[Beautifly]: /pokemon_changes/267/
+[Dustox]: /pokemon_changes/269/
+[Wormadam]: /pokemon_changes/413/
+[Mothim]: /pokemon_changes/414/
+[Combee]: /pokemon_changes/415/
+[Vespiquen]: /pokemon_changes/416/
+[Floatzel]: /pokemon_changes/419/
+[Shellos]: /pokemon_changes/422/
+[Gastrodon]: /pokemon_changes/423/
+[Purugly]: /pokemon_changes/432/
+[Chatot]: /pokemon_changes/441/
+[Finneon]: /pokemon_changes/456/
+[Lumineon]: /pokemon_changes/457/

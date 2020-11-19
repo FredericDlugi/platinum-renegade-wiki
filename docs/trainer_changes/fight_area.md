@@ -23,17 +23,17 @@ PKMN Trainer Barry         | ![][398]  [Staraptor] Lv. 74  ![][214]  [Heracross]
 [398]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png "Staraptor"
 [466]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png "Electivire"
 [467]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/467.png "Magmortar"
-[Raichu]: pokemon_changes/026/
-[Arcanine]: pokemon_changes/059/
-[Jolteon]: pokemon_changes/135/
-[Flareon]: pokemon_changes/136/
-[Snorlax]: pokemon_changes/143/
-[Azumarill]: pokemon_changes/184/
-[Heracross]: pokemon_changes/214/
-[Breloom]: pokemon_changes/286/
-[Torterra]: pokemon_changes/389/
-[Infernape]: pokemon_changes/392/
-[Empoleon]: pokemon_changes/395/
-[Staraptor]: pokemon_changes/398/
-[Electivire]: pokemon_changes/466/
-[Magmortar]: pokemon_changes/467/
+[Raichu]: /pokemon_changes/026/
+[Arcanine]: /pokemon_changes/059/
+[Jolteon]: /pokemon_changes/135/
+[Flareon]: /pokemon_changes/136/
+[Snorlax]: /pokemon_changes/143/
+[Azumarill]: /pokemon_changes/184/
+[Heracross]: /pokemon_changes/214/
+[Breloom]: /pokemon_changes/286/
+[Torterra]: /pokemon_changes/389/
+[Infernape]: /pokemon_changes/392/
+[Empoleon]: /pokemon_changes/395/
+[Staraptor]: /pokemon_changes/398/
+[Electivire]: /pokemon_changes/466/
+[Magmortar]: /pokemon_changes/467/

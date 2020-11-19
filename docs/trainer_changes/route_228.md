@@ -1,5 +1,9 @@
 # Route 228
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_228/).
+
+
 Trainer               | Pokémons
 ---                   | ---
 Ace Trainer Jose      | ![][419]  [Floatzel] Lv. 76  ![][028]  [Sandslash] Lv. 76  ![][310]  [Manectric] Lv. 76
@@ -57,32 +61,32 @@ Ace Trainer Shade  | Item           | Nature | Ability        | Moves
 [460]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460.png "Abomasnow"
 [461]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/461.png "Weavile"
 [475]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475.png "Gallade"
-[Sandslash]: pokemon_changes/028/
-[Primeape]: pokemon_changes/057/
-[Machamp]: pokemon_changes/068/
-[Hypno]: pokemon_changes/097/
-[Exeggutor]: pokemon_changes/103/
-[Marowak]: pokemon_changes/105/
-[Xatu]: pokemon_changes/178/
-[Houndoom]: pokemon_changes/229/
-[Tyranitar]: pokemon_changes/248/
-[Shiftry]: pokemon_changes/275/
-[Hariyama]: pokemon_changes/297/
-[Delcatty]: pokemon_changes/301/
-[Aggron]: pokemon_changes/306/
-[Manectric]: pokemon_changes/310/
-[Sharpedo]: pokemon_changes/319/
-[Flygon]: pokemon_changes/330/
-[Cacturne]: pokemon_changes/332/
-[Zangoose]: pokemon_changes/335/
-[Claydol]: pokemon_changes/344/
-[Empoleon]: pokemon_changes/395/
-[Floatzel]: pokemon_changes/419/
-[Gastrodon]: pokemon_changes/423/
-[Spiritomb]: pokemon_changes/442/
-[Abomasnow]: pokemon_changes/460/
-[Weavile]: pokemon_changes/461/
-[Gallade]: pokemon_changes/475/
+[Sandslash]: /pokemon_changes/028/
+[Primeape]: /pokemon_changes/057/
+[Machamp]: /pokemon_changes/068/
+[Hypno]: /pokemon_changes/097/
+[Exeggutor]: /pokemon_changes/103/
+[Marowak]: /pokemon_changes/105/
+[Xatu]: /pokemon_changes/178/
+[Houndoom]: /pokemon_changes/229/
+[Tyranitar]: /pokemon_changes/248/
+[Shiftry]: /pokemon_changes/275/
+[Hariyama]: /pokemon_changes/297/
+[Delcatty]: /pokemon_changes/301/
+[Aggron]: /pokemon_changes/306/
+[Manectric]: /pokemon_changes/310/
+[Sharpedo]: /pokemon_changes/319/
+[Flygon]: /pokemon_changes/330/
+[Cacturne]: /pokemon_changes/332/
+[Zangoose]: /pokemon_changes/335/
+[Claydol]: /pokemon_changes/344/
+[Empoleon]: /pokemon_changes/395/
+[Floatzel]: /pokemon_changes/419/
+[Gastrodon]: /pokemon_changes/423/
+[Spiritomb]: /pokemon_changes/442/
+[Abomasnow]: /pokemon_changes/460/
+[Weavile]: /pokemon_changes/461/
+[Gallade]: /pokemon_changes/475/
 [expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
 [white-herb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-herb.png
 [wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png

@@ -1,5 +1,9 @@
 # Route 202
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_202/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 PKMN Trainer Dawn          | ![][393]  [Piplup] Lv. 9
@@ -35,17 +39,17 @@ Youngster Tristan (8)      | ![][164]  [Noctowl] Lv. 59  ![][398]  [Staraptor] L
 [398]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png "Staraptor"
 [399]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png "Bidoof"
 [412]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/412.png "Burmy"
-[Pidgeot]: pokemon_changes/018/
-[Growlithe]: pokemon_changes/058/
-[Sentret]: pokemon_changes/161/
-[Hoothoot]: pokemon_changes/163/
-[Noctowl]: pokemon_changes/164/
-[Zigzagoon]: pokemon_changes/263/
-[Turtwig]: pokemon_changes/387/
-[Chimchar]: pokemon_changes/390/
-[Piplup]: pokemon_changes/393/
-[Starly]: pokemon_changes/396/
-[Staravia]: pokemon_changes/397/
-[Staraptor]: pokemon_changes/398/
-[Bidoof]: pokemon_changes/399/
-[Burmy]: pokemon_changes/412/
+[Pidgeot]: /pokemon_changes/018/
+[Growlithe]: /pokemon_changes/058/
+[Sentret]: /pokemon_changes/161/
+[Hoothoot]: /pokemon_changes/163/
+[Noctowl]: /pokemon_changes/164/
+[Zigzagoon]: /pokemon_changes/263/
+[Turtwig]: /pokemon_changes/387/
+[Chimchar]: /pokemon_changes/390/
+[Piplup]: /pokemon_changes/393/
+[Starly]: /pokemon_changes/396/
+[Staravia]: /pokemon_changes/397/
+[Staraptor]: /pokemon_changes/398/
+[Bidoof]: /pokemon_changes/399/
+[Burmy]: /pokemon_changes/412/

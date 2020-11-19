@@ -17,12 +17,12 @@ Night      | ![][074]  [Geodude] (20%) ![][436]  [Bronzor] (20%) ![][173]  [Clef
 [374]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/374.png "Beldum"
 [433]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/433.png "Chingling"
 [436]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/436.png "Bronzor"
-[Zubat]: pokemon_changes/041/
-[Geodude]: pokemon_changes/074/
-[Cleffa]: pokemon_changes/173/
-[Nosepass]: pokemon_changes/299/
-[Lunatone]: pokemon_changes/337/
-[Solrock]: pokemon_changes/338/
-[Beldum]: pokemon_changes/374/
-[Chingling]: pokemon_changes/433/
-[Bronzor]: pokemon_changes/436/
+[Zubat]: /pokemon_changes/041/
+[Geodude]: /pokemon_changes/074/
+[Cleffa]: /pokemon_changes/173/
+[Nosepass]: /pokemon_changes/299/
+[Lunatone]: /pokemon_changes/337/
+[Solrock]: /pokemon_changes/338/
+[Beldum]: /pokemon_changes/374/
+[Chingling]: /pokemon_changes/433/
+[Bronzor]: /pokemon_changes/436/

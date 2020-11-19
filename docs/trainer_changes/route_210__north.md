@@ -1,5 +1,9 @@
 # Route 210 ~ North
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_210__north/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 Ninja Boy Fabian           | ![][454]  [Toxicroak] Lv. 41
@@ -111,57 +115,57 @@ PKMN Trainer Lucas  | Item         | Nature  | Ability       | Moves
 [472]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/472.png "Gliscor"
 [473]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png "Mamoswine"
 [476]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png "Probopass"
-[Pidgeot]: pokemon_changes/018/
-[Clefable]: pokemon_changes/036/
-[Ninetales]: pokemon_changes/038/
-[Golbat]: pokemon_changes/042/
-[Alakazam]: pokemon_changes/065/
-[Machamp]: pokemon_changes/068/
-[Victreebel]: pokemon_changes/071/
-[Rapidash]: pokemon_changes/078/
-[Dodrio]: pokemon_changes/085/
-[Starmie]: pokemon_changes/121/
-[Scyther]: pokemon_changes/123/
-[Pinsir]: pokemon_changes/127/
-[Gyarados]: pokemon_changes/130/
-[Vaporeon]: pokemon_changes/134/
-[Jolteon]: pokemon_changes/135/
-[Flareon]: pokemon_changes/136/
-[Dragonair]: pokemon_changes/148/
-[Dragonite]: pokemon_changes/149/
-[Typhlosion]: pokemon_changes/157/
-[Feraligatr]: pokemon_changes/160/
-[Xatu]: pokemon_changes/178/
-[Ampharos]: pokemon_changes/181/
-[Politoed]: pokemon_changes/186/
-[Granbull]: pokemon_changes/210/
-[Heracross]: pokemon_changes/214/
-[Ursaring]: pokemon_changes/217/
-[Skarmory]: pokemon_changes/227/
-[Blaziken]: pokemon_changes/257/
-[Dustox]: pokemon_changes/269/
-[Ninjask]: pokemon_changes/291/
-[Swalot]: pokemon_changes/317/
-[Spinda]: pokemon_changes/327/
-[Vibrava]: pokemon_changes/329/
-[Flygon]: pokemon_changes/330/
-[Shelgon]: pokemon_changes/372/
-[Salamence]: pokemon_changes/373/
-[Torterra]: pokemon_changes/389/
-[Infernape]: pokemon_changes/392/
-[Empoleon]: pokemon_changes/395/
-[Mothim]: pokemon_changes/414/
-[Ambipom]: pokemon_changes/424/
-[Lopunny]: pokemon_changes/428/
-[Skuntank]: pokemon_changes/435/
-[Gabite]: pokemon_changes/444/
-[Garchomp]: pokemon_changes/445/
-[Toxicroak]: pokemon_changes/454/
-[Lickilicky]: pokemon_changes/463/
-[Tangrowth]: pokemon_changes/465/
-[Gliscor]: pokemon_changes/472/
-[Mamoswine]: pokemon_changes/473/
-[Probopass]: pokemon_changes/476/
+[Pidgeot]: /pokemon_changes/018/
+[Clefable]: /pokemon_changes/036/
+[Ninetales]: /pokemon_changes/038/
+[Golbat]: /pokemon_changes/042/
+[Alakazam]: /pokemon_changes/065/
+[Machamp]: /pokemon_changes/068/
+[Victreebel]: /pokemon_changes/071/
+[Rapidash]: /pokemon_changes/078/
+[Dodrio]: /pokemon_changes/085/
+[Starmie]: /pokemon_changes/121/
+[Scyther]: /pokemon_changes/123/
+[Pinsir]: /pokemon_changes/127/
+[Gyarados]: /pokemon_changes/130/
+[Vaporeon]: /pokemon_changes/134/
+[Jolteon]: /pokemon_changes/135/
+[Flareon]: /pokemon_changes/136/
+[Dragonair]: /pokemon_changes/148/
+[Dragonite]: /pokemon_changes/149/
+[Typhlosion]: /pokemon_changes/157/
+[Feraligatr]: /pokemon_changes/160/
+[Xatu]: /pokemon_changes/178/
+[Ampharos]: /pokemon_changes/181/
+[Politoed]: /pokemon_changes/186/
+[Granbull]: /pokemon_changes/210/
+[Heracross]: /pokemon_changes/214/
+[Ursaring]: /pokemon_changes/217/
+[Skarmory]: /pokemon_changes/227/
+[Blaziken]: /pokemon_changes/257/
+[Dustox]: /pokemon_changes/269/
+[Ninjask]: /pokemon_changes/291/
+[Swalot]: /pokemon_changes/317/
+[Spinda]: /pokemon_changes/327/
+[Vibrava]: /pokemon_changes/329/
+[Flygon]: /pokemon_changes/330/
+[Shelgon]: /pokemon_changes/372/
+[Salamence]: /pokemon_changes/373/
+[Torterra]: /pokemon_changes/389/
+[Infernape]: /pokemon_changes/392/
+[Empoleon]: /pokemon_changes/395/
+[Mothim]: /pokemon_changes/414/
+[Ambipom]: /pokemon_changes/424/
+[Lopunny]: /pokemon_changes/428/
+[Skuntank]: /pokemon_changes/435/
+[Gabite]: /pokemon_changes/444/
+[Garchomp]: /pokemon_changes/445/
+[Toxicroak]: /pokemon_changes/454/
+[Lickilicky]: /pokemon_changes/463/
+[Tangrowth]: /pokemon_changes/465/
+[Gliscor]: /pokemon_changes/472/
+[Mamoswine]: /pokemon_changes/473/
+[Probopass]: /pokemon_changes/476/
 [choice-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-band.png
 [wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png
 [leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png

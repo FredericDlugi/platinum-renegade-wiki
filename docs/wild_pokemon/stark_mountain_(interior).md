@@ -19,11 +19,11 @@ Night      | ![][219]  [Magcargo] (20%) ![][112]  [Rhydon] (20%) ![][042]  [Golb
 [112]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png "Rhydon"
 [219]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/219.png "Magcargo"
 [324]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png "Torkoal"
-[Golbat]: pokemon_changes/042/
-[Machoke]: pokemon_changes/067/
-[Graveler]: pokemon_changes/075/
-[Muk]: pokemon_changes/089/
-[Weezing]: pokemon_changes/110/
-[Rhydon]: pokemon_changes/112/
-[Magcargo]: pokemon_changes/219/
-[Torkoal]: pokemon_changes/324/
+[Golbat]: /pokemon_changes/042/
+[Machoke]: /pokemon_changes/067/
+[Graveler]: /pokemon_changes/075/
+[Muk]: /pokemon_changes/089/
+[Weezing]: /pokemon_changes/110/
+[Rhydon]: /pokemon_changes/112/
+[Magcargo]: /pokemon_changes/219/
+[Torkoal]: /pokemon_changes/324/

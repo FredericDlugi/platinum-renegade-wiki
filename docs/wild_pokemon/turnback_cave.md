@@ -17,11 +17,11 @@ Night      | ![][042]  [Golbat] (20%) ![][093]  [Haunter] (20%) ![][356]  [Duscl
 [356]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/356.png "Dusclops"
 [358]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png "Chimecho"
 [437]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png "Bronzong"
-[Golbat]: pokemon_changes/042/
-[Haunter]: pokemon_changes/093/
-[Lunatone]: pokemon_changes/337/
-[Solrock]: pokemon_changes/338/
-[Banette]: pokemon_changes/354/
-[Dusclops]: pokemon_changes/356/
-[Chimecho]: pokemon_changes/358/
-[Bronzong]: pokemon_changes/437/
+[Golbat]: /pokemon_changes/042/
+[Haunter]: /pokemon_changes/093/
+[Lunatone]: /pokemon_changes/337/
+[Solrock]: /pokemon_changes/338/
+[Banette]: /pokemon_changes/354/
+[Dusclops]: /pokemon_changes/356/
+[Chimecho]: /pokemon_changes/358/
+[Bronzong]: /pokemon_changes/437/

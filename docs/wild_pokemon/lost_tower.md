@@ -1,4 +1,8 @@
 # Lost Tower
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/lost_tower/).
+
 Levels: 26 - 30
 
 Area       | Pokémon
@@ -16,11 +20,11 @@ Night      | ![][353]  [Shuppet] (20%) ![][355]  [Duskull] (20%) ![][042]  [Golb
 [354]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/354.png "Banette"
 [355]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/355.png "Duskull"
 [356]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/356.png "Dusclops"
-[Golbat]: pokemon_changes/042/
-[Haunter]: pokemon_changes/093/
-[Murkrow]: pokemon_changes/198/
-[Misdreavus]: pokemon_changes/200/
-[Shuppet]: pokemon_changes/353/
-[Banette]: pokemon_changes/354/
-[Duskull]: pokemon_changes/355/
-[Dusclops]: pokemon_changes/356/
+[Golbat]: /pokemon_changes/042/
+[Haunter]: /pokemon_changes/093/
+[Murkrow]: /pokemon_changes/198/
+[Misdreavus]: /pokemon_changes/200/
+[Shuppet]: /pokemon_changes/353/
+[Banette]: /pokemon_changes/354/
+[Duskull]: /pokemon_changes/355/
+[Dusclops]: /pokemon_changes/356/

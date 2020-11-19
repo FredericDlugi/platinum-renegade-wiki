@@ -1,4 +1,8 @@
 # Route 215
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/route_215/).
+
 Levels: 27 - 30 (Walking) 28 (Honey Tree)
 
 Area       | Pokémon
@@ -23,16 +27,16 @@ Honey Tree | ![][190]  [Aipom] (30%) ![][288]  [Vigoroth] (20%) ![][011]  [Metap
 [288]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png "Vigoroth"
 [359]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359.png "Absol"
 [446]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png "Munchlax"
-[Metapod]: pokemon_changes/011/
-[Kakuna]: pokemon_changes/014/
-[Kadabra]: pokemon_changes/064/
-[Drowzee]: pokemon_changes/096/
-[Hypno]: pokemon_changes/097/
-[Lickitung]: pokemon_changes/108/
-[Marill]: pokemon_changes/183/
-[Aipom]: pokemon_changes/190/
-[Mightyena]: pokemon_changes/262/
-[Linoone]: pokemon_changes/264/
-[Vigoroth]: pokemon_changes/288/
-[Absol]: pokemon_changes/359/
-[Munchlax]: pokemon_changes/446/
+[Metapod]: /pokemon_changes/011/
+[Kakuna]: /pokemon_changes/014/
+[Kadabra]: /pokemon_changes/064/
+[Drowzee]: /pokemon_changes/096/
+[Hypno]: /pokemon_changes/097/
+[Lickitung]: /pokemon_changes/108/
+[Marill]: /pokemon_changes/183/
+[Aipom]: /pokemon_changes/190/
+[Mightyena]: /pokemon_changes/262/
+[Linoone]: /pokemon_changes/264/
+[Vigoroth]: /pokemon_changes/288/
+[Absol]: /pokemon_changes/359/
+[Munchlax]: /pokemon_changes/446/

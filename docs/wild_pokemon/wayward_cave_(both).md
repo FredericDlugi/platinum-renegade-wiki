@@ -16,11 +16,11 @@ Night      | ![][041]  [Zubat] (20%) ![][074]  [Geodude] (20%) ![][443]  [Gible]
 [303]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/303.png "Mawile"
 [343]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/343.png "Baltoy"
 [443]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/443.png "Gible"
-[Sandshrew]: pokemon_changes/027/
-[Zubat]: pokemon_changes/041/
-[Geodude]: pokemon_changes/074/
-[Onix]: pokemon_changes/095/
-[Sableye]: pokemon_changes/302/
-[Mawile]: pokemon_changes/303/
-[Baltoy]: pokemon_changes/343/
-[Gible]: pokemon_changes/443/
+[Sandshrew]: /pokemon_changes/027/
+[Zubat]: /pokemon_changes/041/
+[Geodude]: /pokemon_changes/074/
+[Onix]: /pokemon_changes/095/
+[Sableye]: /pokemon_changes/302/
+[Mawile]: /pokemon_changes/303/
+[Baltoy]: /pokemon_changes/343/
+[Gible]: /pokemon_changes/443/

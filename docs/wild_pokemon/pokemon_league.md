@@ -1,4 +1,8 @@
 # Pokémon League
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/pokemon_league/).
+
 Levels: 50 - 60 (Surfing)
 
 Area       | Pokémon
@@ -16,10 +20,10 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][370]  [Luvdisc] (30%) ![][222]  [Cor
 [226]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png "Mantine"
 [279]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png "Pelipper"
 [370]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/370.png "Luvdisc"
-[Tentacruel]: pokemon_changes/073/
-[Magikarp]: pokemon_changes/129/
-[Gyarados]: pokemon_changes/130/
-[Corsola]: pokemon_changes/222/
-[Mantine]: pokemon_changes/226/
-[Pelipper]: pokemon_changes/279/
-[Luvdisc]: pokemon_changes/370/
+[Tentacruel]: /pokemon_changes/073/
+[Magikarp]: /pokemon_changes/129/
+[Gyarados]: /pokemon_changes/130/
+[Corsola]: /pokemon_changes/222/
+[Mantine]: /pokemon_changes/226/
+[Pelipper]: /pokemon_changes/279/
+[Luvdisc]: /pokemon_changes/370/

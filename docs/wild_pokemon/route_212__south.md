@@ -1,4 +1,8 @@
 # Route 212 ~ South
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/route_212__south/).
+
 Levels: 33 - 36 (Walking) 20 - 40 (Surfing) Honey Tree (34)
 
 Area       | Pokémon
@@ -39,28 +43,28 @@ Honey Tree | ![][421]  [Cherrim] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Ex
 [423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
 [453]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png "Croagunk"
 [454]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png "Toxicroak"
-[Ekans]: pokemon_changes/023/
-[Arbok]: pokemon_changes/024/
-[Weepinbell]: pokemon_changes/070/
-[Grimer]: pokemon_changes/088/
-[Muk]: pokemon_changes/089/
-[Exeggcute]: pokemon_changes/102/
-[Koffing]: pokemon_changes/109/
-[Weezing]: pokemon_changes/110/
-[Tangela]: pokemon_changes/114/
-[Magikarp]: pokemon_changes/129/
-[Gyarados]: pokemon_changes/130/
-[Wooper]: pokemon_changes/194/
-[Quagsire]: pokemon_changes/195/
-[Remoraid]: pokemon_changes/223/
-[Octillery]: pokemon_changes/224/
-[Lombre]: pokemon_changes/271/
-[Nuzleaf]: pokemon_changes/274/
-[Shroomish]: pokemon_changes/285/
-[Barboach]: pokemon_changes/339/
-[Whiscash]: pokemon_changes/340/
-[Cherrim]: pokemon_changes/421/
-[Shellos]: pokemon_changes/422/
-[Gastrodon]: pokemon_changes/423/
-[Croagunk]: pokemon_changes/453/
-[Toxicroak]: pokemon_changes/454/
+[Ekans]: /pokemon_changes/023/
+[Arbok]: /pokemon_changes/024/
+[Weepinbell]: /pokemon_changes/070/
+[Grimer]: /pokemon_changes/088/
+[Muk]: /pokemon_changes/089/
+[Exeggcute]: /pokemon_changes/102/
+[Koffing]: /pokemon_changes/109/
+[Weezing]: /pokemon_changes/110/
+[Tangela]: /pokemon_changes/114/
+[Magikarp]: /pokemon_changes/129/
+[Gyarados]: /pokemon_changes/130/
+[Wooper]: /pokemon_changes/194/
+[Quagsire]: /pokemon_changes/195/
+[Remoraid]: /pokemon_changes/223/
+[Octillery]: /pokemon_changes/224/
+[Lombre]: /pokemon_changes/271/
+[Nuzleaf]: /pokemon_changes/274/
+[Shroomish]: /pokemon_changes/285/
+[Barboach]: /pokemon_changes/339/
+[Whiscash]: /pokemon_changes/340/
+[Cherrim]: /pokemon_changes/421/
+[Shellos]: /pokemon_changes/422/
+[Gastrodon]: /pokemon_changes/423/
+[Croagunk]: /pokemon_changes/453/
+[Toxicroak]: /pokemon_changes/454/

@@ -1,5 +1,9 @@
 # Route 222
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_222/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 Rich Boy Trey (!)          | ![][405]  [Luxray] Lv. 57  ![][254]  [Sceptile] Lv. 57  ![][264]  [Linoone] Lv. 57
@@ -50,27 +54,27 @@ Fisherman Alec (C)         | ![][130]  [Gyarados] Lv. 70  ![][130]  [Gyarados] L
 [423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
 [428]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428.png "Lopunny"
 [457]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png "Lumineon"
-[Pikachu]: pokemon_changes/025/
-[Poliwrath]: pokemon_changes/062/
-[Machamp]: pokemon_changes/068/
-[Kingler]: pokemon_changes/099/
-[Seaking]: pokemon_changes/119/
-[Gyarados]: pokemon_changes/130/
-[Flareon]: pokemon_changes/136/
-[Meganium]: pokemon_changes/154/
-[Noctowl]: pokemon_changes/164/
-[Lanturn]: pokemon_changes/171/
-[Azumarill]: pokemon_changes/184/
-[Qwilfish]: pokemon_changes/211/
-[Remoraid]: pokemon_changes/223/
-[Octillery]: pokemon_changes/224/
-[Mantine]: pokemon_changes/226/
-[Kingdra]: pokemon_changes/230/
-[Sceptile]: pokemon_changes/254/
-[Linoone]: pokemon_changes/264/
-[Pelipper]: pokemon_changes/279/
-[Sharpedo]: pokemon_changes/319/
-[Luxray]: pokemon_changes/405/
-[Gastrodon]: pokemon_changes/423/
-[Lopunny]: pokemon_changes/428/
-[Lumineon]: pokemon_changes/457/
+[Pikachu]: /pokemon_changes/025/
+[Poliwrath]: /pokemon_changes/062/
+[Machamp]: /pokemon_changes/068/
+[Kingler]: /pokemon_changes/099/
+[Seaking]: /pokemon_changes/119/
+[Gyarados]: /pokemon_changes/130/
+[Flareon]: /pokemon_changes/136/
+[Meganium]: /pokemon_changes/154/
+[Noctowl]: /pokemon_changes/164/
+[Lanturn]: /pokemon_changes/171/
+[Azumarill]: /pokemon_changes/184/
+[Qwilfish]: /pokemon_changes/211/
+[Remoraid]: /pokemon_changes/223/
+[Octillery]: /pokemon_changes/224/
+[Mantine]: /pokemon_changes/226/
+[Kingdra]: /pokemon_changes/230/
+[Sceptile]: /pokemon_changes/254/
+[Linoone]: /pokemon_changes/264/
+[Pelipper]: /pokemon_changes/279/
+[Sharpedo]: /pokemon_changes/319/
+[Luxray]: /pokemon_changes/405/
+[Gastrodon]: /pokemon_changes/423/
+[Lopunny]: /pokemon_changes/428/
+[Lumineon]: /pokemon_changes/457/

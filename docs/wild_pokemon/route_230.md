@@ -1,4 +1,8 @@
 # Route 230
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/route_230/).
+
 Levels: 65 - 67 (Walking) 65 - 67 (Surfing)
 
 Area       | Pokémon
@@ -27,18 +31,18 @@ Super Rod  | ![][130]  [Gyarados] (65%) ![][222]  [Corsola] (30%) ![][321]  [Wai
 [364]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/364.png "Sealeo"
 [419]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png "Floatzel"
 [423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
-[Golduck]: pokemon_changes/055/
-[Tentacruel]: pokemon_changes/073/
-[Magikarp]: pokemon_changes/129/
-[Gyarados]: pokemon_changes/130/
-[Togetic]: pokemon_changes/176/
-[Corsola]: pokemon_changes/222/
-[Pelipper]: pokemon_changes/279/
-[Wailmer]: pokemon_changes/320/
-[Wailord]: pokemon_changes/321/
-[Zangoose]: pokemon_changes/335/
-[Seviper]: pokemon_changes/336/
-[Tropius]: pokemon_changes/357/
-[Sealeo]: pokemon_changes/364/
-[Floatzel]: pokemon_changes/419/
-[Gastrodon]: pokemon_changes/423/
+[Golduck]: /pokemon_changes/055/
+[Tentacruel]: /pokemon_changes/073/
+[Magikarp]: /pokemon_changes/129/
+[Gyarados]: /pokemon_changes/130/
+[Togetic]: /pokemon_changes/176/
+[Corsola]: /pokemon_changes/222/
+[Pelipper]: /pokemon_changes/279/
+[Wailmer]: /pokemon_changes/320/
+[Wailord]: /pokemon_changes/321/
+[Zangoose]: /pokemon_changes/335/
+[Seviper]: /pokemon_changes/336/
+[Tropius]: /pokemon_changes/357/
+[Sealeo]: /pokemon_changes/364/
+[Floatzel]: /pokemon_changes/419/
+[Gastrodon]: /pokemon_changes/423/

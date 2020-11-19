@@ -1,4 +1,8 @@
 # Route 219
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/route_219/).
+
 Wild Levels: 30 - 45 (Surf)
 
 Area       | Pokémon
@@ -19,13 +23,13 @@ Super Rod  | ![][099]  [Kingler] (60%) ![][116]  [Horsea] (30%) ![][367]  [Hunta
 [366]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/366.png "Clamperl"
 [367]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/367.png "Huntail"
 [368]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/368.png "Gorebyss"
-[Tentacool]: pokemon_changes/072/
-[Tentacruel]: pokemon_changes/073/
-[Krabby]: pokemon_changes/098/
-[Kingler]: pokemon_changes/099/
-[Horsea]: pokemon_changes/116/
-[Wingull]: pokemon_changes/278/
-[Pelipper]: pokemon_changes/279/
-[Clamperl]: pokemon_changes/366/
-[Huntail]: pokemon_changes/367/
-[Gorebyss]: pokemon_changes/368/
+[Tentacool]: /pokemon_changes/072/
+[Tentacruel]: /pokemon_changes/073/
+[Krabby]: /pokemon_changes/098/
+[Kingler]: /pokemon_changes/099/
+[Horsea]: /pokemon_changes/116/
+[Wingull]: /pokemon_changes/278/
+[Pelipper]: /pokemon_changes/279/
+[Clamperl]: /pokemon_changes/366/
+[Huntail]: /pokemon_changes/367/
+[Gorebyss]: /pokemon_changes/368/

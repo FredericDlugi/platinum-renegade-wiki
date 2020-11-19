@@ -28,18 +28,18 @@ Leader Roark         | Item          | Nature  | Ability       | Moves
 [347]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/347.png "Anorith"
 [408]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/408.png "Cranidos"
 [438]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/438.png "Bonsly"
-[Geodude]: pokemon_changes/074/
-[Onix]: pokemon_changes/095/
-[Rhyhorn]: pokemon_changes/111/
-[Omanyte]: pokemon_changes/138/
-[Kabuto]: pokemon_changes/140/
-[Larvitar]: pokemon_changes/246/
-[Nosepass]: pokemon_changes/299/
-[Aron]: pokemon_changes/304/
-[Lileep]: pokemon_changes/345/
-[Anorith]: pokemon_changes/347/
-[Cranidos]: pokemon_changes/408/
-[Bonsly]: pokemon_changes/438/
+[Geodude]: /pokemon_changes/074/
+[Onix]: /pokemon_changes/095/
+[Rhyhorn]: /pokemon_changes/111/
+[Omanyte]: /pokemon_changes/138/
+[Kabuto]: /pokemon_changes/140/
+[Larvitar]: /pokemon_changes/246/
+[Nosepass]: /pokemon_changes/299/
+[Aron]: /pokemon_changes/304/
+[Lileep]: /pokemon_changes/345/
+[Anorith]: /pokemon_changes/347/
+[Cranidos]: /pokemon_changes/408/
+[Bonsly]: /pokemon_changes/438/
 [expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
 [flame-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flame-orb.png
 [smooth-rock]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/smooth-rock.png

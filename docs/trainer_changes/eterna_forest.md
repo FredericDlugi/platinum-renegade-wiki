@@ -1,5 +1,9 @@
 # Eterna Forest
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/eterna_forest/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 PKMN Trainer Cheryl        | ![][425]  [Drifloon] Lv. 19  ![][296]  [Makuhita] Lv. 19  ![][320]  [Wailmer] Lv. 19 <br> ![][113]  [Chansey] Lv. 20
@@ -43,26 +47,26 @@ PKMN Trainer Cheryl | Item          | Nature  | Ability       | Moves
 [427]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/427.png "Buneary"
 [433]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/433.png "Chingling"
 [439]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png "Mime Jr."
-[Beedrill]: pokemon_changes/015/
-[Paras]: pokemon_changes/046/
-[Venonat]: pokemon_changes/048/
-[Slowpoke]: pokemon_changes/079/
-[Drowzee]: pokemon_changes/096/
-[Exeggcute]: pokemon_changes/102/
-[Chansey]: pokemon_changes/113/
-[Mr. Mime]: pokemon_changes/122/
-[Natu]: pokemon_changes/177/
-[Marill]: pokemon_changes/183/
-[Dustox]: pokemon_changes/269/
-[Surskit]: pokemon_changes/283/
-[Nincada]: pokemon_changes/290/
-[Makuhita]: pokemon_changes/296/
-[Wailmer]: pokemon_changes/320/
-[Spoink]: pokemon_changes/325/
-[Baltoy]: pokemon_changes/343/
-[Chimecho]: pokemon_changes/358/
-[Combee]: pokemon_changes/415/
-[Drifloon]: pokemon_changes/425/
-[Buneary]: pokemon_changes/427/
-[Chingling]: pokemon_changes/433/
-[Mime Jr.]: pokemon_changes/439/
+[Beedrill]: /pokemon_changes/015/
+[Paras]: /pokemon_changes/046/
+[Venonat]: /pokemon_changes/048/
+[Slowpoke]: /pokemon_changes/079/
+[Drowzee]: /pokemon_changes/096/
+[Exeggcute]: /pokemon_changes/102/
+[Chansey]: /pokemon_changes/113/
+[Mr. Mime]: /pokemon_changes/122/
+[Natu]: /pokemon_changes/177/
+[Marill]: /pokemon_changes/183/
+[Dustox]: /pokemon_changes/269/
+[Surskit]: /pokemon_changes/283/
+[Nincada]: /pokemon_changes/290/
+[Makuhita]: /pokemon_changes/296/
+[Wailmer]: /pokemon_changes/320/
+[Spoink]: /pokemon_changes/325/
+[Baltoy]: /pokemon_changes/343/
+[Chimecho]: /pokemon_changes/358/
+[Combee]: /pokemon_changes/415/
+[Drifloon]: /pokemon_changes/425/
+[Buneary]: /pokemon_changes/427/
+[Chingling]: /pokemon_changes/433/
+[Mime Jr.]: /pokemon_changes/439/

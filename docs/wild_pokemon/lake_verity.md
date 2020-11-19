@@ -1,4 +1,8 @@
 # Lake Verity
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/lake_verity/).
+
 Levels: 4 - 5 (Walking) 20 - 40 (Surfing)
 
 Area       | Pokémon
@@ -23,13 +27,13 @@ Super Rod  | ![][130]  [Gyarados] (100%)
 [360]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/360.png "Wynaut"
 [396]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png "Starly"
 [399]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png "Bidoof"
-[Psyduck]: pokemon_changes/054/
-[Magikarp]: pokemon_changes/129/
-[Gyarados]: pokemon_changes/130/
-[Wingull]: pokemon_changes/278/
-[Surskit]: pokemon_changes/283/
-[Masquerain]: pokemon_changes/284/
-[Azurill]: pokemon_changes/298/
-[Wynaut]: pokemon_changes/360/
-[Starly]: pokemon_changes/396/
-[Bidoof]: pokemon_changes/399/
+[Psyduck]: /pokemon_changes/054/
+[Magikarp]: /pokemon_changes/129/
+[Gyarados]: /pokemon_changes/130/
+[Wingull]: /pokemon_changes/278/
+[Surskit]: /pokemon_changes/283/
+[Masquerain]: /pokemon_changes/284/
+[Azurill]: /pokemon_changes/298/
+[Wynaut]: /pokemon_changes/360/
+[Starly]: /pokemon_changes/396/
+[Bidoof]: /pokemon_changes/399/

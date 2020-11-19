@@ -1,4 +1,8 @@
 # Route 203
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/route_203/).
+
 Levels: 7 - 8 (Walking) 20 - 40 (Surfing)
 
 Area       | Pokémon
@@ -27,17 +31,17 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][342]  [Crawdaunt] (35%)
 [342]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png "Crawdaunt"
 [396]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png "Starly"
 [399]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png "Bidoof"
-[Spearow]: pokemon_changes/021/
-[Psyduck]: pokemon_changes/054/
-[Golduck]: pokemon_changes/055/
-[Abra]: pokemon_changes/063/
-[Cubone]: pokemon_changes/104/
-[Magikarp]: pokemon_changes/129/
-[Gyarados]: pokemon_changes/130/
-[Pineco]: pokemon_changes/204/
-[Lotad]: pokemon_changes/270/
-[Seedot]: pokemon_changes/273/
-[Corphish]: pokemon_changes/341/
-[Crawdaunt]: pokemon_changes/342/
-[Starly]: pokemon_changes/396/
-[Bidoof]: pokemon_changes/399/
+[Spearow]: /pokemon_changes/021/
+[Psyduck]: /pokemon_changes/054/
+[Golduck]: /pokemon_changes/055/
+[Abra]: /pokemon_changes/063/
+[Cubone]: /pokemon_changes/104/
+[Magikarp]: /pokemon_changes/129/
+[Gyarados]: /pokemon_changes/130/
+[Pineco]: /pokemon_changes/204/
+[Lotad]: /pokemon_changes/270/
+[Seedot]: /pokemon_changes/273/
+[Corphish]: /pokemon_changes/341/
+[Crawdaunt]: /pokemon_changes/342/
+[Starly]: /pokemon_changes/396/
+[Bidoof]: /pokemon_changes/399/

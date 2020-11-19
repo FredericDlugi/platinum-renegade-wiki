@@ -1,5 +1,9 @@
 # Mt. Coronet ~ Tunnel to Route 211 Entrance
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/mt_coronet__tunnel_to_route_211_entrance/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 Galactic Grunt             | ![][042]  [Golbat] Lv. 56
@@ -13,9 +17,9 @@ Galactic Grunt             | ![][284]  [Masquerain] Lv. 55  ![][089]  [Muk] Lv. 
 [215]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png "Sneasel"
 [262]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/262.png "Mightyena"
 [284]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png "Masquerain"
-[Golbat]: pokemon_changes/042/
-[Muk]: pokemon_changes/089/
-[Murkrow]: pokemon_changes/198/
-[Sneasel]: pokemon_changes/215/
-[Mightyena]: pokemon_changes/262/
-[Masquerain]: pokemon_changes/284/
+[Golbat]: /pokemon_changes/042/
+[Muk]: /pokemon_changes/089/
+[Murkrow]: /pokemon_changes/198/
+[Sneasel]: /pokemon_changes/215/
+[Mightyena]: /pokemon_changes/262/
+[Masquerain]: /pokemon_changes/284/

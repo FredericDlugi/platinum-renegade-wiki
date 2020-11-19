@@ -16,10 +16,10 @@ Poké Radar | ![][036]  [Clefable] (22%)
 [308]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png "Medicham"
 [359]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359.png "Absol"
 [460]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460.png "Abomasnow"
-[Clefable]: pokemon_changes/036/
-[Ursaring]: pokemon_changes/217/
-[Donphan]: pokemon_changes/232/
-[Loudred]: pokemon_changes/294/
-[Medicham]: pokemon_changes/308/
-[Absol]: pokemon_changes/359/
-[Abomasnow]: pokemon_changes/460/
+[Clefable]: /pokemon_changes/036/
+[Ursaring]: /pokemon_changes/217/
+[Donphan]: /pokemon_changes/232/
+[Loudred]: /pokemon_changes/294/
+[Medicham]: /pokemon_changes/308/
+[Absol]: /pokemon_changes/359/
+[Abomasnow]: /pokemon_changes/460/

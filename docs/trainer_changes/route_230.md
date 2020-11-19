@@ -1,5 +1,9 @@
 # Route 230
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_230/).
+
+
 Trainer            | Pokémons
 ---                | ---
 Swimmer Glenn (!)  | ![][224]  [Octillery] Lv. 73  ![][186]  [Politoed] Lv. 73
@@ -49,28 +53,28 @@ Ace Trainer Luna    | Item         | Nature | Ability        | Moves
 [365]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/365.png "Walrein"
 [370]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/370.png "Luvdisc"
 [423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
-[Clefable]: pokemon_changes/036/
-[Wigglytuff]: pokemon_changes/040/
-[Krabby]: pokemon_changes/098/
-[Kingler]: pokemon_changes/099/
-[Seaking]: pokemon_changes/119/
-[Vaporeon]: pokemon_changes/134/
-[Azumarill]: pokemon_changes/184/
-[Politoed]: pokemon_changes/186/
-[Granbull]: pokemon_changes/210/
-[Corsola]: pokemon_changes/222/
-[Octillery]: pokemon_changes/224/
-[Delibird]: pokemon_changes/225/
-[Mantine]: pokemon_changes/226/
-[Ludicolo]: pokemon_changes/272/
-[Gardevoir]: pokemon_changes/282/
-[Masquerain]: pokemon_changes/284/
-[Mawile]: pokemon_changes/303/
-[Corphish]: pokemon_changes/341/
-[Crawdaunt]: pokemon_changes/342/
-[Walrein]: pokemon_changes/365/
-[Luvdisc]: pokemon_changes/370/
-[Gastrodon]: pokemon_changes/423/
+[Clefable]: /pokemon_changes/036/
+[Wigglytuff]: /pokemon_changes/040/
+[Krabby]: /pokemon_changes/098/
+[Kingler]: /pokemon_changes/099/
+[Seaking]: /pokemon_changes/119/
+[Vaporeon]: /pokemon_changes/134/
+[Azumarill]: /pokemon_changes/184/
+[Politoed]: /pokemon_changes/186/
+[Granbull]: /pokemon_changes/210/
+[Corsola]: /pokemon_changes/222/
+[Octillery]: /pokemon_changes/224/
+[Delibird]: /pokemon_changes/225/
+[Mantine]: /pokemon_changes/226/
+[Ludicolo]: /pokemon_changes/272/
+[Gardevoir]: /pokemon_changes/282/
+[Masquerain]: /pokemon_changes/284/
+[Mawile]: /pokemon_changes/303/
+[Corphish]: /pokemon_changes/341/
+[Crawdaunt]: /pokemon_changes/342/
+[Walrein]: /pokemon_changes/365/
+[Luvdisc]: /pokemon_changes/370/
+[Gastrodon]: /pokemon_changes/423/
 [expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
 [focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
 [white-herb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-herb.png

@@ -1,5 +1,9 @@
 # Lake Verity
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/lake_verity/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 Galactic Grunt             | ![][267]  [Beautifly] Lv. 50  ![][012]  [Butterfree] Lv. 50
@@ -31,20 +35,20 @@ Commander Mars      | Item         | Nature  | Ability       | Moves
 [432]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png "Purugly"
 [437]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png "Bronzong"
 [469]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/469.png "Yanmega"
-[Butterfree]: pokemon_changes/012/
-[Beedrill]: pokemon_changes/015/
-[Nidorina]: pokemon_changes/030/
-[Nidorino]: pokemon_changes/033/
-[Golbat]: pokemon_changes/042/
-[Kangaskhan]: pokemon_changes/115/
-[Crobat]: pokemon_changes/169/
-[Beautifly]: pokemon_changes/267/
-[Dustox]: pokemon_changes/269/
-[Wormadam]: pokemon_changes/413/
-[Mothim]: pokemon_changes/414/
-[Purugly]: pokemon_changes/432/
-[Bronzong]: pokemon_changes/437/
-[Yanmega]: pokemon_changes/469/
+[Butterfree]: /pokemon_changes/012/
+[Beedrill]: /pokemon_changes/015/
+[Nidorina]: /pokemon_changes/030/
+[Nidorino]: /pokemon_changes/033/
+[Golbat]: /pokemon_changes/042/
+[Kangaskhan]: /pokemon_changes/115/
+[Crobat]: /pokemon_changes/169/
+[Beautifly]: /pokemon_changes/267/
+[Dustox]: /pokemon_changes/269/
+[Wormadam]: /pokemon_changes/413/
+[Mothim]: /pokemon_changes/414/
+[Purugly]: /pokemon_changes/432/
+[Bronzong]: /pokemon_changes/437/
+[Yanmega]: /pokemon_changes/469/
 [bright-powder]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bright-powder.png
 [wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png
 [leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png

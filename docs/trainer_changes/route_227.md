@@ -1,5 +1,9 @@
 # Route 227
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_227/).
+
+
 Trainer              | Pokémons
 ---                  | ---
 Ace Trainer Saul (!) | ![][128]  [Tauros] Lv. 78
@@ -55,27 +59,27 @@ PKMN Trainer Buck | Item         | Nature  | Ability       | Moves
 [448]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png "Lucario"
 [454]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png "Toxicroak"
 [477]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/477.png "Dusknoir"
-[Nidoqueen]: pokemon_changes/031/
-[Vileplume]: pokemon_changes/045/
-[Persian]: pokemon_changes/053/
-[Tentacruel]: pokemon_changes/073/
-[Cloyster]: pokemon_changes/091/
-[Gengar]: pokemon_changes/094/
-[Tauros]: pokemon_changes/128/
-[Crobat]: pokemon_changes/169/
-[Jumpluff]: pokemon_changes/189/
-[Umbreon]: pokemon_changes/197/
-[Shuckle]: pokemon_changes/213/
-[Breloom]: pokemon_changes/286/
-[Medicham]: pokemon_changes/308/
-[Torkoal]: pokemon_changes/324/
-[Seviper]: pokemon_changes/336/
-[Claydol]: pokemon_changes/344/
-[Absol]: pokemon_changes/359/
-[Lopunny]: pokemon_changes/428/
-[Lucario]: pokemon_changes/448/
-[Toxicroak]: pokemon_changes/454/
-[Dusknoir]: pokemon_changes/477/
+[Nidoqueen]: /pokemon_changes/031/
+[Vileplume]: /pokemon_changes/045/
+[Persian]: /pokemon_changes/053/
+[Tentacruel]: /pokemon_changes/073/
+[Cloyster]: /pokemon_changes/091/
+[Gengar]: /pokemon_changes/094/
+[Tauros]: /pokemon_changes/128/
+[Crobat]: /pokemon_changes/169/
+[Jumpluff]: /pokemon_changes/189/
+[Umbreon]: /pokemon_changes/197/
+[Shuckle]: /pokemon_changes/213/
+[Breloom]: /pokemon_changes/286/
+[Medicham]: /pokemon_changes/308/
+[Torkoal]: /pokemon_changes/324/
+[Seviper]: /pokemon_changes/336/
+[Claydol]: /pokemon_changes/344/
+[Absol]: /pokemon_changes/359/
+[Lopunny]: /pokemon_changes/428/
+[Lucario]: /pokemon_changes/448/
+[Toxicroak]: /pokemon_changes/454/
+[Dusknoir]: /pokemon_changes/477/
 [black-sludge]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-sludge.png
 [expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
 [shell-bell]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shell-bell.png

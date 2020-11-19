@@ -25,15 +25,15 @@ PKMN Trainer Lucas         | ![][209]  [Snubbull] Lv. 13  ![][390]  [Chimchar] L
 [393]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png "Piplup"
 [431]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/431.png "Glameow"
 [434]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/434.png "Stunky"
-[Bulbasaur]: pokemon_changes/001/
-[Charmander]: pokemon_changes/004/
-[Squirtle]: pokemon_changes/007/
-[Clefairy]: pokemon_changes/035/
-[Snubbull]: pokemon_changes/209/
-[Silcoon]: pokemon_changes/266/
-[Cascoon]: pokemon_changes/268/
-[Turtwig]: pokemon_changes/387/
-[Chimchar]: pokemon_changes/390/
-[Piplup]: pokemon_changes/393/
-[Glameow]: pokemon_changes/431/
-[Stunky]: pokemon_changes/434/
+[Bulbasaur]: /pokemon_changes/001/
+[Charmander]: /pokemon_changes/004/
+[Squirtle]: /pokemon_changes/007/
+[Clefairy]: /pokemon_changes/035/
+[Snubbull]: /pokemon_changes/209/
+[Silcoon]: /pokemon_changes/266/
+[Cascoon]: /pokemon_changes/268/
+[Turtwig]: /pokemon_changes/387/
+[Chimchar]: /pokemon_changes/390/
+[Piplup]: /pokemon_changes/393/
+[Glameow]: /pokemon_changes/431/
+[Stunky]: /pokemon_changes/434/

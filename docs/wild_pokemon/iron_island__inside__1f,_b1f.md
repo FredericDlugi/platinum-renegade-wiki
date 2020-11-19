@@ -16,11 +16,11 @@ Night      | ![][075]  [Graveler] (25%) ![][042]  [Golbat] (20%) ![][305]  [Lair
 [302]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/302.png "Sableye"
 [303]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/303.png "Mawile"
 [305]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/305.png "Lairon"
-[Golbat]: pokemon_changes/042/
-[Graveler]: pokemon_changes/075/
-[Rhydon]: pokemon_changes/112/
-[Steelix]: pokemon_changes/208/
-[Nosepass]: pokemon_changes/299/
-[Sableye]: pokemon_changes/302/
-[Mawile]: pokemon_changes/303/
-[Lairon]: pokemon_changes/305/
+[Golbat]: /pokemon_changes/042/
+[Graveler]: /pokemon_changes/075/
+[Rhydon]: /pokemon_changes/112/
+[Steelix]: /pokemon_changes/208/
+[Nosepass]: /pokemon_changes/299/
+[Sableye]: /pokemon_changes/302/
+[Mawile]: /pokemon_changes/303/
+[Lairon]: /pokemon_changes/305/

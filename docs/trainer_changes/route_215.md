@@ -1,5 +1,9 @@
 # Route 215
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_215/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 Black Belt Derek           | ![][256]  [Combusken] Lv. 34  ![][106]  [Hitmonlee] Lv. 34
@@ -41,21 +45,21 @@ Ace Trainer Maya (S)       | ![][463]  [Lickilicky] Lv. 77  ![][282]  [Gardevoir
 [426]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/426.png "Drifblim"
 [463]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/463.png "Lickilicky"
 [472]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/472.png "Gliscor"
-[Primeape]: pokemon_changes/057/
-[Machoke]: pokemon_changes/067/
-[Marowak]: pokemon_changes/105/
-[Hitmonlee]: pokemon_changes/106/
-[Hitmonchan]: pokemon_changes/107/
-[Lickitung]: pokemon_changes/108/
-[Gyarados]: pokemon_changes/130/
-[Gligar]: pokemon_changes/207/
-[Hitmontop]: pokemon_changes/237/
-[Combusken]: pokemon_changes/256/
-[Gardevoir]: pokemon_changes/282/
-[Staraptor]: pokemon_changes/398/
-[Luxray]: pokemon_changes/405/
-[Roserade]: pokemon_changes/407/
-[Rampardos]: pokemon_changes/409/
-[Drifblim]: pokemon_changes/426/
-[Lickilicky]: pokemon_changes/463/
-[Gliscor]: pokemon_changes/472/
+[Primeape]: /pokemon_changes/057/
+[Machoke]: /pokemon_changes/067/
+[Marowak]: /pokemon_changes/105/
+[Hitmonlee]: /pokemon_changes/106/
+[Hitmonchan]: /pokemon_changes/107/
+[Lickitung]: /pokemon_changes/108/
+[Gyarados]: /pokemon_changes/130/
+[Gligar]: /pokemon_changes/207/
+[Hitmontop]: /pokemon_changes/237/
+[Combusken]: /pokemon_changes/256/
+[Gardevoir]: /pokemon_changes/282/
+[Staraptor]: /pokemon_changes/398/
+[Luxray]: /pokemon_changes/405/
+[Roserade]: /pokemon_changes/407/
+[Rampardos]: /pokemon_changes/409/
+[Drifblim]: /pokemon_changes/426/
+[Lickilicky]: /pokemon_changes/463/
+[Gliscor]: /pokemon_changes/472/

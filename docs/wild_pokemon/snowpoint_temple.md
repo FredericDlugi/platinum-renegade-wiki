@@ -16,11 +16,11 @@ Night      | ![][042]  [Golbat] (25%) ![][075]  [Graveler] (20%) ![][215]  [Snea
 [362]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png "Glalie"
 [461]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/461.png "Weavile"
 [478]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/478.png "Froslass"
-[Golbat]: pokemon_changes/042/
-[Graveler]: pokemon_changes/075/
-[Jynx]: pokemon_changes/124/
-[Steelix]: pokemon_changes/208/
-[Sneasel]: pokemon_changes/215/
-[Glalie]: pokemon_changes/362/
-[Weavile]: pokemon_changes/461/
-[Froslass]: pokemon_changes/478/
+[Golbat]: /pokemon_changes/042/
+[Graveler]: /pokemon_changes/075/
+[Jynx]: /pokemon_changes/124/
+[Steelix]: /pokemon_changes/208/
+[Sneasel]: /pokemon_changes/215/
+[Glalie]: /pokemon_changes/362/
+[Weavile]: /pokemon_changes/461/
+[Froslass]: /pokemon_changes/478/

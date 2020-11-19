@@ -1,5 +1,9 @@
 # General Changes
 
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/general_changes/).
+
+
 - The Wild Pokémon in each area have been modified.
 - The levels listed for an area are the minimum and maximum levels that you may encounter in that area.
 - Please note that many Pokémon can only be encountered at one specific level. Only some have the range.

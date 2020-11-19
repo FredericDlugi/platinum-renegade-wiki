@@ -1,5 +1,9 @@
 # Route 226
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_226/).
+
+
 Trainer              | Pokémons
 ---                  | ---
 Swimmer Lydia        | ![][184]  [Azumarill] Lv. 73  ![][087]  [Dewgong] Lv. 73  ![][321]  [Wailord] Lv. 73
@@ -37,24 +41,24 @@ Ace Trainer Wyver  | Item         | Nature | Ability           | Moves
 [340]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png "Whiscash"
 [373]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png "Salamence"
 [445]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png "Garchomp"
-[Fearow]: pokemon_changes/022/
-[Dewgong]: pokemon_changes/087/
-[Hitmonlee]: pokemon_changes/106/
-[Hitmonchan]: pokemon_changes/107/
-[Dragonite]: pokemon_changes/149/
-[Xatu]: pokemon_changes/178/
-[Azumarill]: pokemon_changes/184/
-[Kingdra]: pokemon_changes/230/
-[Tyrogue]: pokemon_changes/236/
-[Hitmontop]: pokemon_changes/237/
-[Swellow]: pokemon_changes/277/
-[Sharpedo]: pokemon_changes/319/
-[Wailord]: pokemon_changes/321/
-[Flygon]: pokemon_changes/330/
-[Altaria]: pokemon_changes/334/
-[Whiscash]: pokemon_changes/340/
-[Salamence]: pokemon_changes/373/
-[Garchomp]: pokemon_changes/445/
+[Fearow]: /pokemon_changes/022/
+[Dewgong]: /pokemon_changes/087/
+[Hitmonlee]: /pokemon_changes/106/
+[Hitmonchan]: /pokemon_changes/107/
+[Dragonite]: /pokemon_changes/149/
+[Xatu]: /pokemon_changes/178/
+[Azumarill]: /pokemon_changes/184/
+[Kingdra]: /pokemon_changes/230/
+[Tyrogue]: /pokemon_changes/236/
+[Hitmontop]: /pokemon_changes/237/
+[Swellow]: /pokemon_changes/277/
+[Sharpedo]: /pokemon_changes/319/
+[Wailord]: /pokemon_changes/321/
+[Flygon]: /pokemon_changes/330/
+[Altaria]: /pokemon_changes/334/
+[Whiscash]: /pokemon_changes/340/
+[Salamence]: /pokemon_changes/373/
+[Garchomp]: /pokemon_changes/445/
 [choice-scarf]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-scarf.png
 [focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
 [white-herb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-herb.png

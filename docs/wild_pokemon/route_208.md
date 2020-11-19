@@ -1,4 +1,8 @@
 # Route 208
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/route_208/).
+
 Levels: 23 - 24 (Walking) 20 - 40 (Surfing) 23 (Honey Tree)
 
 Area       | Pokémon
@@ -36,25 +40,25 @@ Honey Tree | ![][420]  [Cherubi] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Ex
 [336]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png "Seviper"
 [400]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png "Bibarel"
 [420]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/420.png "Cherubi"
-[Jigglypuff]: pokemon_changes/039/
-[Psyduck]: pokemon_changes/054/
-[Golduck]: pokemon_changes/055/
-[Exeggcute]: pokemon_changes/102/
-[Tangela]: pokemon_changes/114/
-[Goldeen]: pokemon_changes/118/
-[Seaking]: pokemon_changes/119/
-[Magikarp]: pokemon_changes/129/
-[Gyarados]: pokemon_changes/130/
-[Dunsparce]: pokemon_changes/206/
-[Remoraid]: pokemon_changes/223/
-[Octillery]: pokemon_changes/224/
-[Smeargle]: pokemon_changes/235/
-[Seedot]: pokemon_changes/273/
-[Kirlia]: pokemon_changes/281/
-[Shroomish]: pokemon_changes/285/
-[Skitty]: pokemon_changes/300/
-[Roselia]: pokemon_changes/315/
-[Zangoose]: pokemon_changes/335/
-[Seviper]: pokemon_changes/336/
-[Bibarel]: pokemon_changes/400/
-[Cherubi]: pokemon_changes/420/
+[Jigglypuff]: /pokemon_changes/039/
+[Psyduck]: /pokemon_changes/054/
+[Golduck]: /pokemon_changes/055/
+[Exeggcute]: /pokemon_changes/102/
+[Tangela]: /pokemon_changes/114/
+[Goldeen]: /pokemon_changes/118/
+[Seaking]: /pokemon_changes/119/
+[Magikarp]: /pokemon_changes/129/
+[Gyarados]: /pokemon_changes/130/
+[Dunsparce]: /pokemon_changes/206/
+[Remoraid]: /pokemon_changes/223/
+[Octillery]: /pokemon_changes/224/
+[Smeargle]: /pokemon_changes/235/
+[Seedot]: /pokemon_changes/273/
+[Kirlia]: /pokemon_changes/281/
+[Shroomish]: /pokemon_changes/285/
+[Skitty]: /pokemon_changes/300/
+[Roselia]: /pokemon_changes/315/
+[Zangoose]: /pokemon_changes/335/
+[Seviper]: /pokemon_changes/336/
+[Bibarel]: /pokemon_changes/400/
+[Cherubi]: /pokemon_changes/420/

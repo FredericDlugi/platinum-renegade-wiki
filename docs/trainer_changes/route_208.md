@@ -1,5 +1,9 @@
 # Route 208
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_208/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 Hiker Robert               | ![][105]  [Marowak] Lv. 28
@@ -44,22 +48,22 @@ Elite Four Aaron | Item         | Nature  | Ability       | Moves
 [436]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/436.png "Bronzor"
 [449]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/449.png "Hippopotas"
 [452]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/452.png "Drapion"
-[Venomoth]: pokemon_changes/049/
-[Machoke]: pokemon_changes/067/
-[Graveler]: pokemon_changes/075/
-[Marowak]: pokemon_changes/105/
-[Gyarados]: pokemon_changes/130/
-[Sunflora]: pokemon_changes/192/
-[Scizor]: pokemon_changes/212/
-[Shuckle]: pokemon_changes/213/
-[Smeargle]: pokemon_changes/235/
-[Beautifly]: pokemon_changes/267/
-[Dustox]: pokemon_changes/269/
-[Roselia]: pokemon_changes/315/
-[Whiscash]: pokemon_changes/340/
-[Bronzor]: pokemon_changes/436/
-[Hippopotas]: pokemon_changes/449/
-[Drapion]: pokemon_changes/452/
+[Venomoth]: /pokemon_changes/049/
+[Machoke]: /pokemon_changes/067/
+[Graveler]: /pokemon_changes/075/
+[Marowak]: /pokemon_changes/105/
+[Gyarados]: /pokemon_changes/130/
+[Sunflora]: /pokemon_changes/192/
+[Scizor]: /pokemon_changes/212/
+[Shuckle]: /pokemon_changes/213/
+[Smeargle]: /pokemon_changes/235/
+[Beautifly]: /pokemon_changes/267/
+[Dustox]: /pokemon_changes/269/
+[Roselia]: /pokemon_changes/315/
+[Whiscash]: /pokemon_changes/340/
+[Bronzor]: /pokemon_changes/436/
+[Hippopotas]: /pokemon_changes/449/
+[Drapion]: /pokemon_changes/452/
 [focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
 [scope-lens]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/scope-lens.png
 [wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png

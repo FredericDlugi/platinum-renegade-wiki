@@ -1,5 +1,9 @@
 # Sunyshore City
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/sunyshore_city/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 Arcade Star Dahlia         | ![][257]  [Blaziken] Lv. 63  ![][477]  [Dusknoir] Lv. 63  ![][308]  [Medicham] Lv. 63 <br> ![][468]  [Togekiss] Lv. 63  ![][272]  [Ludicolo] Lv. 63  ![][145]  [Zapdos] Lv. 63
@@ -20,12 +24,12 @@ Arcade Star Dahlia | Item         | Nature  | Ability       | Moves
 [308]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png "Medicham"
 [468]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/468.png "Togekiss"
 [477]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/477.png "Dusknoir"
-[Zapdos]: pokemon_changes/145/
-[Blaziken]: pokemon_changes/257/
-[Ludicolo]: pokemon_changes/272/
-[Medicham]: pokemon_changes/308/
-[Togekiss]: pokemon_changes/468/
-[Dusknoir]: pokemon_changes/477/
+[Zapdos]: /pokemon_changes/145/
+[Blaziken]: /pokemon_changes/257/
+[Ludicolo]: /pokemon_changes/272/
+[Medicham]: /pokemon_changes/308/
+[Togekiss]: /pokemon_changes/468/
+[Dusknoir]: /pokemon_changes/477/
 [choice-scarf]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-scarf.png
 [focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
 [wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png

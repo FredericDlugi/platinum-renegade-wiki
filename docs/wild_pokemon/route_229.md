@@ -1,4 +1,8 @@
 # Route 229
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/route_229/).
+
 Levels: 65 - 67 (Walking) 65 - 67 (Surfing)
 
 Area       | Pokémon
@@ -27,18 +31,18 @@ Super Rod  | ![][130]  [Gyarados] (65%) ![][119]  [Seaking] (35%)
 [313]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/313.png "Volbeat"
 [314]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png "Illumise"
 [315]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/315.png "Roselia"
-[Venomoth]: pokemon_changes/049/
-[Weepinbell]: pokemon_changes/070/
-[Goldeen]: pokemon_changes/118/
-[Seaking]: pokemon_changes/119/
-[Scyther]: pokemon_changes/123/
-[Pinsir]: pokemon_changes/127/
-[Magikarp]: pokemon_changes/129/
-[Gyarados]: pokemon_changes/130/
-[Ledian]: pokemon_changes/166/
-[Ariados]: pokemon_changes/168/
-[Sunkern]: pokemon_changes/191/
-[Masquerain]: pokemon_changes/284/
-[Volbeat]: pokemon_changes/313/
-[Illumise]: pokemon_changes/314/
-[Roselia]: pokemon_changes/315/
+[Venomoth]: /pokemon_changes/049/
+[Weepinbell]: /pokemon_changes/070/
+[Goldeen]: /pokemon_changes/118/
+[Seaking]: /pokemon_changes/119/
+[Scyther]: /pokemon_changes/123/
+[Pinsir]: /pokemon_changes/127/
+[Magikarp]: /pokemon_changes/129/
+[Gyarados]: /pokemon_changes/130/
+[Ledian]: /pokemon_changes/166/
+[Ariados]: /pokemon_changes/168/
+[Sunkern]: /pokemon_changes/191/
+[Masquerain]: /pokemon_changes/284/
+[Volbeat]: /pokemon_changes/313/
+[Illumise]: /pokemon_changes/314/
+[Roselia]: /pokemon_changes/315/

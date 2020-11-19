@@ -12,9 +12,9 @@ Worker Colin               | ![][074]  [Geodude] Lv. 12  ![][293]  [Whismur] Lv.
 [293]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/293.png "Whismur"
 [304]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/304.png "Aron"
 [447]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/447.png "Riolu"
-[Machop]: pokemon_changes/066/
-[Geodude]: pokemon_changes/074/
-[Phanpy]: pokemon_changes/231/
-[Whismur]: pokemon_changes/293/
-[Aron]: pokemon_changes/304/
-[Riolu]: pokemon_changes/447/
+[Machop]: /pokemon_changes/066/
+[Geodude]: /pokemon_changes/074/
+[Phanpy]: /pokemon_changes/231/
+[Whismur]: /pokemon_changes/293/
+[Aron]: /pokemon_changes/304/
+[Riolu]: /pokemon_changes/447/

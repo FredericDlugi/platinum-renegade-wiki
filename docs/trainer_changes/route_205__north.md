@@ -1,5 +1,9 @@
 # Route 205 ~ North
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_205__north/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 Fisherman Joseph (!)       | ![][118]  [Goldeen] Lv. 18  ![][060]  [Poliwag] Lv. 18  ![][341]  [Corphish] Lv. 18
@@ -25,14 +29,14 @@ Fisherman Joseph (C)       | ![][119]  [Seaking] Lv. 70  ![][186]  [Politoed] Lv
 [342]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png "Crawdaunt"
 [349]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/349.png "Feebas"
 [456]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/456.png "Finneon"
-[Poliwag]: pokemon_changes/060/
-[Poliwhirl]: pokemon_changes/061/
-[Krabby]: pokemon_changes/098/
-[Goldeen]: pokemon_changes/118/
-[Seaking]: pokemon_changes/119/
-[Magikarp]: pokemon_changes/129/
-[Politoed]: pokemon_changes/186/
-[Corphish]: pokemon_changes/341/
-[Crawdaunt]: pokemon_changes/342/
-[Feebas]: pokemon_changes/349/
-[Finneon]: pokemon_changes/456/
+[Poliwag]: /pokemon_changes/060/
+[Poliwhirl]: /pokemon_changes/061/
+[Krabby]: /pokemon_changes/098/
+[Goldeen]: /pokemon_changes/118/
+[Seaking]: /pokemon_changes/119/
+[Magikarp]: /pokemon_changes/129/
+[Politoed]: /pokemon_changes/186/
+[Corphish]: /pokemon_changes/341/
+[Crawdaunt]: /pokemon_changes/342/
+[Feebas]: /pokemon_changes/349/
+[Finneon]: /pokemon_changes/456/

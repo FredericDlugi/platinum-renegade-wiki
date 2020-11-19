@@ -1,5 +1,9 @@
 # Route 216
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_216/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 Ace Trainer Blake          | ![][137]  [Porygon] Lv. 23  ![][288]  [Vigoroth] Lv. 23
@@ -49,24 +53,24 @@ Skier Andrea (C)           | ![][460]  [Abomasnow] Lv. 72
 [459]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/459.png "Snover"
 [460]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460.png "Abomasnow"
 [473]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png "Mamoswine"
-[Poliwrath]: pokemon_changes/062/
-[Machamp]: pokemon_changes/068/
-[Mr. Mime]: pokemon_changes/122/
-[Scyther]: pokemon_changes/123/
-[Lapras]: pokemon_changes/131/
-[Porygon]: pokemon_changes/137/
-[Quilava]: pokemon_changes/156/
-[Togetic]: pokemon_changes/176/
-[Sudowoodo]: pokemon_changes/185/
-[Quagsire]: pokemon_changes/195/
-[Swinub]: pokemon_changes/220/
-[Piloswine]: pokemon_changes/221/
-[Nuzleaf]: pokemon_changes/274/
-[Swellow]: pokemon_changes/277/
-[Vigoroth]: pokemon_changes/288/
-[Hariyama]: pokemon_changes/297/
-[Snorunt]: pokemon_changes/361/
-[Glalie]: pokemon_changes/362/
-[Snover]: pokemon_changes/459/
-[Abomasnow]: pokemon_changes/460/
-[Mamoswine]: pokemon_changes/473/
+[Poliwrath]: /pokemon_changes/062/
+[Machamp]: /pokemon_changes/068/
+[Mr. Mime]: /pokemon_changes/122/
+[Scyther]: /pokemon_changes/123/
+[Lapras]: /pokemon_changes/131/
+[Porygon]: /pokemon_changes/137/
+[Quilava]: /pokemon_changes/156/
+[Togetic]: /pokemon_changes/176/
+[Sudowoodo]: /pokemon_changes/185/
+[Quagsire]: /pokemon_changes/195/
+[Swinub]: /pokemon_changes/220/
+[Piloswine]: /pokemon_changes/221/
+[Nuzleaf]: /pokemon_changes/274/
+[Swellow]: /pokemon_changes/277/
+[Vigoroth]: /pokemon_changes/288/
+[Hariyama]: /pokemon_changes/297/
+[Snorunt]: /pokemon_changes/361/
+[Glalie]: /pokemon_changes/362/
+[Snover]: /pokemon_changes/459/
+[Abomasnow]: /pokemon_changes/460/
+[Mamoswine]: /pokemon_changes/473/

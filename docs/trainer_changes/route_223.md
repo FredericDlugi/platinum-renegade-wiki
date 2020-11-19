@@ -1,5 +1,9 @@
 # Route 223
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_223/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 Swimmer Wesley (!)         | ![][419]  [Floatzel] Lv. 59  ![][319]  [Sharpedo] Lv. 59  ![][211]  [Qwilfish] Lv. 59
@@ -59,35 +63,35 @@ Sailor Zachariah (S)       | ![][099]  [Kingler] Lv. 74  ![][068]  [Machamp] Lv.
 [419]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png "Floatzel"
 [423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
 [457]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png "Lumineon"
-[Blastoise]: pokemon_changes/009/
-[Golduck]: pokemon_changes/055/
-[Poliwrath]: pokemon_changes/062/
-[Machamp]: pokemon_changes/068/
-[Tentacruel]: pokemon_changes/073/
-[Slowbro]: pokemon_changes/080/
-[Cloyster]: pokemon_changes/091/
-[Kingler]: pokemon_changes/099/
-[Seaking]: pokemon_changes/119/
-[Starmie]: pokemon_changes/121/
-[Gyarados]: pokemon_changes/130/
-[Lapras]: pokemon_changes/131/
-[Vaporeon]: pokemon_changes/134/
-[Feraligatr]: pokemon_changes/160/
-[Azumarill]: pokemon_changes/184/
-[Quagsire]: pokemon_changes/195/
-[Slowking]: pokemon_changes/199/
-[Qwilfish]: pokemon_changes/211/
-[Corsola]: pokemon_changes/222/
-[Octillery]: pokemon_changes/224/
-[Mantine]: pokemon_changes/226/
-[Ludicolo]: pokemon_changes/272/
-[Pelipper]: pokemon_changes/279/
-[Sharpedo]: pokemon_changes/319/
-[Wailord]: pokemon_changes/321/
-[Whiscash]: pokemon_changes/340/
-[Gorebyss]: pokemon_changes/368/
-[Relicanth]: pokemon_changes/369/
-[Bibarel]: pokemon_changes/400/
-[Floatzel]: pokemon_changes/419/
-[Gastrodon]: pokemon_changes/423/
-[Lumineon]: pokemon_changes/457/
+[Blastoise]: /pokemon_changes/009/
+[Golduck]: /pokemon_changes/055/
+[Poliwrath]: /pokemon_changes/062/
+[Machamp]: /pokemon_changes/068/
+[Tentacruel]: /pokemon_changes/073/
+[Slowbro]: /pokemon_changes/080/
+[Cloyster]: /pokemon_changes/091/
+[Kingler]: /pokemon_changes/099/
+[Seaking]: /pokemon_changes/119/
+[Starmie]: /pokemon_changes/121/
+[Gyarados]: /pokemon_changes/130/
+[Lapras]: /pokemon_changes/131/
+[Vaporeon]: /pokemon_changes/134/
+[Feraligatr]: /pokemon_changes/160/
+[Azumarill]: /pokemon_changes/184/
+[Quagsire]: /pokemon_changes/195/
+[Slowking]: /pokemon_changes/199/
+[Qwilfish]: /pokemon_changes/211/
+[Corsola]: /pokemon_changes/222/
+[Octillery]: /pokemon_changes/224/
+[Mantine]: /pokemon_changes/226/
+[Ludicolo]: /pokemon_changes/272/
+[Pelipper]: /pokemon_changes/279/
+[Sharpedo]: /pokemon_changes/319/
+[Wailord]: /pokemon_changes/321/
+[Whiscash]: /pokemon_changes/340/
+[Gorebyss]: /pokemon_changes/368/
+[Relicanth]: /pokemon_changes/369/
+[Bibarel]: /pokemon_changes/400/
+[Floatzel]: /pokemon_changes/419/
+[Gastrodon]: /pokemon_changes/423/
+[Lumineon]: /pokemon_changes/457/

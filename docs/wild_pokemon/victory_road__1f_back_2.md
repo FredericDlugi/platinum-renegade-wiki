@@ -24,15 +24,15 @@ Super Rod  | ![][130]  [Gyarados] (100%)
 [364]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/364.png "Sealeo"
 [419]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png "Floatzel"
 [444]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/444.png "Gabite"
-[Golbat]: pokemon_changes/042/
-[Machoke]: pokemon_changes/067/
-[Graveler]: pokemon_changes/075/
-[Dewgong]: pokemon_changes/087/
-[Magikarp]: pokemon_changes/129/
-[Gyarados]: pokemon_changes/130/
-[Lapras]: pokemon_changes/131/
-[Azumarill]: pokemon_changes/184/
-[Medicham]: pokemon_changes/308/
-[Sealeo]: pokemon_changes/364/
-[Floatzel]: pokemon_changes/419/
-[Gabite]: pokemon_changes/444/
+[Golbat]: /pokemon_changes/042/
+[Machoke]: /pokemon_changes/067/
+[Graveler]: /pokemon_changes/075/
+[Dewgong]: /pokemon_changes/087/
+[Magikarp]: /pokemon_changes/129/
+[Gyarados]: /pokemon_changes/130/
+[Lapras]: /pokemon_changes/131/
+[Azumarill]: /pokemon_changes/184/
+[Medicham]: /pokemon_changes/308/
+[Sealeo]: /pokemon_changes/364/
+[Floatzel]: /pokemon_changes/419/
+[Gabite]: /pokemon_changes/444/

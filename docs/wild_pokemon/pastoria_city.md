@@ -1,4 +1,8 @@
 # Pastoria City
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/pastoria_city/).
+
 Levels: 20 - 40 (Surfing)
 
 Area       | Pokémon
@@ -19,13 +23,13 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][061]  [Poliwhirl] (30%) ![][319]  [S
 [319]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png "Sharpedo"
 [422]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png "Shellos"
 [423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
-[Poliwag]: pokemon_changes/060/
-[Poliwhirl]: pokemon_changes/061/
-[Tentacool]: pokemon_changes/072/
-[Tentacruel]: pokemon_changes/073/
-[Magikarp]: pokemon_changes/129/
-[Gyarados]: pokemon_changes/130/
-[Carvanha]: pokemon_changes/318/
-[Sharpedo]: pokemon_changes/319/
-[Shellos]: pokemon_changes/422/
-[Gastrodon]: pokemon_changes/423/
+[Poliwag]: /pokemon_changes/060/
+[Poliwhirl]: /pokemon_changes/061/
+[Tentacool]: /pokemon_changes/072/
+[Tentacruel]: /pokemon_changes/073/
+[Magikarp]: /pokemon_changes/129/
+[Gyarados]: /pokemon_changes/130/
+[Carvanha]: /pokemon_changes/318/
+[Sharpedo]: /pokemon_changes/319/
+[Shellos]: /pokemon_changes/422/
+[Gastrodon]: /pokemon_changes/423/

@@ -39,23 +39,23 @@ Leader Volkner      | Item         | Nature  | Ability       | Moves
 [462]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png "Magnezone"
 [466]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png "Electivire"
 [479]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/479.png "Rotom"
-[Pikachu]: pokemon_changes/025/
-[Raichu]: pokemon_changes/026/
-[Electrode]: pokemon_changes/101/
-[Electabuzz]: pokemon_changes/125/
-[Jolteon]: pokemon_changes/135/
-[Lanturn]: pokemon_changes/171/
-[Pichu]: pokemon_changes/172/
-[Ampharos]: pokemon_changes/181/
-[Elekid]: pokemon_changes/239/
-[Manectric]: pokemon_changes/310/
-[Plusle]: pokemon_changes/311/
-[Minun]: pokemon_changes/312/
-[Luxray]: pokemon_changes/405/
-[Pachirisu]: pokemon_changes/417/
-[Magnezone]: pokemon_changes/462/
-[Electivire]: pokemon_changes/466/
-[Rotom]: pokemon_changes/479/
+[Pikachu]: /pokemon_changes/025/
+[Raichu]: /pokemon_changes/026/
+[Electrode]: /pokemon_changes/101/
+[Electabuzz]: /pokemon_changes/125/
+[Jolteon]: /pokemon_changes/135/
+[Lanturn]: /pokemon_changes/171/
+[Pichu]: /pokemon_changes/172/
+[Ampharos]: /pokemon_changes/181/
+[Elekid]: /pokemon_changes/239/
+[Manectric]: /pokemon_changes/310/
+[Plusle]: /pokemon_changes/311/
+[Minun]: /pokemon_changes/312/
+[Luxray]: /pokemon_changes/405/
+[Pachirisu]: /pokemon_changes/417/
+[Magnezone]: /pokemon_changes/462/
+[Electivire]: /pokemon_changes/466/
+[Rotom]: /pokemon_changes/479/
 [choice-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-band.png
 [expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
 [focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png

@@ -8,6 +8,6 @@ Reporter Jenny             | ![][152]  [Chikorita] Lv. 15  ![][155]  [Cyndaquil]
 [152]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png "Chikorita"
 [155]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png "Cyndaquil"
 [158]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png "Totodile"
-[Chikorita]: pokemon_changes/152/
-[Cyndaquil]: pokemon_changes/155/
-[Totodile]: pokemon_changes/158/
+[Chikorita]: /pokemon_changes/152/
+[Cyndaquil]: /pokemon_changes/155/
+[Totodile]: /pokemon_changes/158/

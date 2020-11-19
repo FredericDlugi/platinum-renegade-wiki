@@ -37,25 +37,25 @@ Leader Maylene     | Item         | Nature  | Ability       | Moves
 [453]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png "Croagunk"
 [454]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png "Toxicroak"
 [475]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475.png "Gallade"
-[Mankey]: pokemon_changes/056/
-[Primeape]: pokemon_changes/057/
-[Poliwrath]: pokemon_changes/062/
-[Machop]: pokemon_changes/066/
-[Machamp]: pokemon_changes/068/
-[Hitmonlee]: pokemon_changes/106/
-[Hitmonchan]: pokemon_changes/107/
-[Heracross]: pokemon_changes/214/
-[Hitmontop]: pokemon_changes/237/
-[Breloom]: pokemon_changes/286/
-[Makuhita]: pokemon_changes/296/
-[Hariyama]: pokemon_changes/297/
-[Meditite]: pokemon_changes/307/
-[Medicham]: pokemon_changes/308/
-[Infernape]: pokemon_changes/392/
-[Lucario]: pokemon_changes/448/
-[Croagunk]: pokemon_changes/453/
-[Toxicroak]: pokemon_changes/454/
-[Gallade]: pokemon_changes/475/
+[Mankey]: /pokemon_changes/056/
+[Primeape]: /pokemon_changes/057/
+[Poliwrath]: /pokemon_changes/062/
+[Machop]: /pokemon_changes/066/
+[Machamp]: /pokemon_changes/068/
+[Hitmonlee]: /pokemon_changes/106/
+[Hitmonchan]: /pokemon_changes/107/
+[Heracross]: /pokemon_changes/214/
+[Hitmontop]: /pokemon_changes/237/
+[Breloom]: /pokemon_changes/286/
+[Makuhita]: /pokemon_changes/296/
+[Hariyama]: /pokemon_changes/297/
+[Meditite]: /pokemon_changes/307/
+[Medicham]: /pokemon_changes/308/
+[Infernape]: /pokemon_changes/392/
+[Lucario]: /pokemon_changes/448/
+[Croagunk]: /pokemon_changes/453/
+[Toxicroak]: /pokemon_changes/454/
+[Gallade]: /pokemon_changes/475/
 [big-root]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-root.png
 [focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
 [toxic-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/toxic-orb.png

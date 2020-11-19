@@ -1,4 +1,8 @@
 # Route 210 ~ South
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/route_210__south/).
+
 Levels: 28 - 30 (Walking) 29 (Honey Tree)
 
 Area       | Pokémon
@@ -27,20 +31,20 @@ Honey Tree | ![][415]  [Combee] (30%) ![][204]  [Pineco] (20%) ![][266]  [Silcoo
 [413]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/413.png "Wormadam"
 [414]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/414.png "Mothim"
 [415]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/415.png "Combee"
-[Pidgeotto]: pokemon_changes/017/
-[Rapidash]: pokemon_changes/078/
-[Scyther]: pokemon_changes/123/
-[Pinsir]: pokemon_changes/127/
-[Tauros]: pokemon_changes/128/
-[Noctowl]: pokemon_changes/164/
-[Pineco]: pokemon_changes/204/
-[Heracross]: pokemon_changes/214/
-[Miltank]: pokemon_changes/241/
-[Silcoon]: pokemon_changes/266/
-[Cascoon]: pokemon_changes/268/
-[Nuzleaf]: pokemon_changes/274/
-[Kecleon]: pokemon_changes/352/
-[Kricketune]: pokemon_changes/402/
-[Wormadam]: pokemon_changes/413/
-[Mothim]: pokemon_changes/414/
-[Combee]: pokemon_changes/415/
+[Pidgeotto]: /pokemon_changes/017/
+[Rapidash]: /pokemon_changes/078/
+[Scyther]: /pokemon_changes/123/
+[Pinsir]: /pokemon_changes/127/
+[Tauros]: /pokemon_changes/128/
+[Noctowl]: /pokemon_changes/164/
+[Pineco]: /pokemon_changes/204/
+[Heracross]: /pokemon_changes/214/
+[Miltank]: /pokemon_changes/241/
+[Silcoon]: /pokemon_changes/266/
+[Cascoon]: /pokemon_changes/268/
+[Nuzleaf]: /pokemon_changes/274/
+[Kecleon]: /pokemon_changes/352/
+[Kricketune]: /pokemon_changes/402/
+[Wormadam]: /pokemon_changes/413/
+[Mothim]: /pokemon_changes/414/
+[Combee]: /pokemon_changes/415/

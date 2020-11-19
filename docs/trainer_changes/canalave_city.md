@@ -1,5 +1,9 @@
 # Canalave City
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/canalave_city/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 PKMN Trainer Barry         | ![][398]  [Staraptor] Lv. 48  ![][214]  [Heracross] Lv. 48  ![][143]  [Snorlax] Lv. 48 <br> ![][184]  [Azumarill] Lv. 48  ![][059]  [Arcanine] Lv. 48  ![][389]  [Torterra] Lv. 49
@@ -28,15 +32,15 @@ PKMN Trainer Barry | Item         | Nature  | Ability       | Moves
 [392]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png "Infernape"
 [395]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png "Empoleon"
 [398]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png "Staraptor"
-[Arcanine]: pokemon_changes/059/
-[Snorlax]: pokemon_changes/143/
-[Azumarill]: pokemon_changes/184/
-[Heracross]: pokemon_changes/214/
-[Breloom]: pokemon_changes/286/
-[Torterra]: pokemon_changes/389/
-[Infernape]: pokemon_changes/392/
-[Empoleon]: pokemon_changes/395/
-[Staraptor]: pokemon_changes/398/
+[Arcanine]: /pokemon_changes/059/
+[Snorlax]: /pokemon_changes/143/
+[Azumarill]: /pokemon_changes/184/
+[Heracross]: /pokemon_changes/214/
+[Breloom]: /pokemon_changes/286/
+[Torterra]: /pokemon_changes/389/
+[Infernape]: /pokemon_changes/392/
+[Empoleon]: /pokemon_changes/395/
+[Staraptor]: /pokemon_changes/398/
 [choice-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-band.png
 [expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
 [focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png

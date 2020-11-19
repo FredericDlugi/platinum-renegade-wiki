@@ -1,4 +1,8 @@
 # Route 205 ~ North
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/route_205__north/).
+
 Levels: 15 - 17 (Walking) 20 - 40 (Surfing) 16 (Honey Tree)
 
 Area       | Pokémon
@@ -32,21 +36,21 @@ Honey Tree | ![][396]  [Starly] (30%) ![][016]  [Pidgey] (20%) ![][163]  [Hootho
 [396]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png "Starly"
 [399]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png "Bidoof"
 [453]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png "Croagunk"
-[Pidgey]: pokemon_changes/016/
-[Slowpoke]: pokemon_changes/079/
-[Farfetch'd]: pokemon_changes/083/
-[Exeggcute]: pokemon_changes/102/
-[Magikarp]: pokemon_changes/129/
-[Gyarados]: pokemon_changes/130/
-[Hoothoot]: pokemon_changes/163/
-[Marill]: pokemon_changes/183/
-[Azumarill]: pokemon_changes/184/
-[Yanma]: pokemon_changes/193/
-[Taillow]: pokemon_changes/276/
-[Volbeat]: pokemon_changes/313/
-[Illumise]: pokemon_changes/314/
-[Corphish]: pokemon_changes/341/
-[Crawdaunt]: pokemon_changes/342/
-[Starly]: pokemon_changes/396/
-[Bidoof]: pokemon_changes/399/
-[Croagunk]: pokemon_changes/453/
+[Pidgey]: /pokemon_changes/016/
+[Slowpoke]: /pokemon_changes/079/
+[Farfetch'd]: /pokemon_changes/083/
+[Exeggcute]: /pokemon_changes/102/
+[Magikarp]: /pokemon_changes/129/
+[Gyarados]: /pokemon_changes/130/
+[Hoothoot]: /pokemon_changes/163/
+[Marill]: /pokemon_changes/183/
+[Azumarill]: /pokemon_changes/184/
+[Yanma]: /pokemon_changes/193/
+[Taillow]: /pokemon_changes/276/
+[Volbeat]: /pokemon_changes/313/
+[Illumise]: /pokemon_changes/314/
+[Corphish]: /pokemon_changes/341/
+[Crawdaunt]: /pokemon_changes/342/
+[Starly]: /pokemon_changes/396/
+[Bidoof]: /pokemon_changes/399/
+[Croagunk]: /pokemon_changes/453/

@@ -1,5 +1,9 @@
 # Route 204 ~ South
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_204__south/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 Lass Sarah                 | ![][403]  [Shinx] Lv. 8  ![][029]  [Nidoran♀] Lv. 8  ![][016]  [Pidgey] Lv. 8
@@ -28,16 +32,16 @@ Lass Samantha (C)          | ![][405]  [Luxray] Lv. 70  ![][407]  [Roserade] Lv.
 [405]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png "Luxray"
 [406]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/406.png "Budew"
 [407]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/407.png "Roserade"
-[Pidgey]: pokemon_changes/016/
-[Nidoran♀]: pokemon_changes/029/
-[Oddish]: pokemon_changes/043/
-[Bellsprout]: pokemon_changes/069/
-[Weepinbell]: pokemon_changes/070/
-[Victreebel]: pokemon_changes/071/
-[Magikarp]: pokemon_changes/129/
-[Roselia]: pokemon_changes/315/
-[Shinx]: pokemon_changes/403/
-[Luxio]: pokemon_changes/404/
-[Luxray]: pokemon_changes/405/
-[Budew]: pokemon_changes/406/
-[Roserade]: pokemon_changes/407/
+[Pidgey]: /pokemon_changes/016/
+[Nidoran♀]: /pokemon_changes/029/
+[Oddish]: /pokemon_changes/043/
+[Bellsprout]: /pokemon_changes/069/
+[Weepinbell]: /pokemon_changes/070/
+[Victreebel]: /pokemon_changes/071/
+[Magikarp]: /pokemon_changes/129/
+[Roselia]: /pokemon_changes/315/
+[Shinx]: /pokemon_changes/403/
+[Luxio]: /pokemon_changes/404/
+[Luxray]: /pokemon_changes/405/
+[Budew]: /pokemon_changes/406/
+[Roserade]: /pokemon_changes/407/

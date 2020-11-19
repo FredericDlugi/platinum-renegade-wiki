@@ -1,5 +1,9 @@
 # Route 212 ~ North
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_212__north/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 Galactic Grunt             | ![][262]  [Mightyena] Lv. 29  ![][024]  [Arbok] Lv. 29
@@ -88,43 +92,43 @@ Gentleman Backlot   | Item         | Nature  | Ability       | Moves
 [441]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png "Chatot"
 [453]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png "Croagunk"
 [454]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png "Toxicroak"
-[Butterfree]: pokemon_changes/012/
-[Beedrill]: pokemon_changes/015/
-[Arbok]: pokemon_changes/024/
-[Raichu]: pokemon_changes/026/
-[Wigglytuff]: pokemon_changes/040/
-[Golbat]: pokemon_changes/042/
-[Gloom]: pokemon_changes/044/
-[Venonat]: pokemon_changes/048/
-[Arcanine]: pokemon_changes/059/
-[Machamp]: pokemon_changes/068/
-[Koffing]: pokemon_changes/109/
-[Noctowl]: pokemon_changes/164/
-[Bellossom]: pokemon_changes/182/
-[Azumarill]: pokemon_changes/184/
-[Jumpluff]: pokemon_changes/189/
-[Espeon]: pokemon_changes/196/
-[Murkrow]: pokemon_changes/198/
-[Granbull]: pokemon_changes/210/
-[Octillery]: pokemon_changes/224/
-[Mightyena]: pokemon_changes/262/
-[Dustox]: pokemon_changes/269/
-[Nincada]: pokemon_changes/290/
-[Ninjask]: pokemon_changes/291/
-[Shedinja]: pokemon_changes/292/
-[Delcatty]: pokemon_changes/301/
-[Seviper]: pokemon_changes/336/
-[Lunatone]: pokemon_changes/337/
-[Solrock]: pokemon_changes/338/
-[Prinplup]: pokemon_changes/394/
-[Kricketune]: pokemon_changes/402/
-[Cherrim]: pokemon_changes/421/
-[Glameow]: pokemon_changes/431/
-[Stunky]: pokemon_changes/434/
-[Bronzong]: pokemon_changes/437/
-[Chatot]: pokemon_changes/441/
-[Croagunk]: pokemon_changes/453/
-[Toxicroak]: pokemon_changes/454/
+[Butterfree]: /pokemon_changes/012/
+[Beedrill]: /pokemon_changes/015/
+[Arbok]: /pokemon_changes/024/
+[Raichu]: /pokemon_changes/026/
+[Wigglytuff]: /pokemon_changes/040/
+[Golbat]: /pokemon_changes/042/
+[Gloom]: /pokemon_changes/044/
+[Venonat]: /pokemon_changes/048/
+[Arcanine]: /pokemon_changes/059/
+[Machamp]: /pokemon_changes/068/
+[Koffing]: /pokemon_changes/109/
+[Noctowl]: /pokemon_changes/164/
+[Bellossom]: /pokemon_changes/182/
+[Azumarill]: /pokemon_changes/184/
+[Jumpluff]: /pokemon_changes/189/
+[Espeon]: /pokemon_changes/196/
+[Murkrow]: /pokemon_changes/198/
+[Granbull]: /pokemon_changes/210/
+[Octillery]: /pokemon_changes/224/
+[Mightyena]: /pokemon_changes/262/
+[Dustox]: /pokemon_changes/269/
+[Nincada]: /pokemon_changes/290/
+[Ninjask]: /pokemon_changes/291/
+[Shedinja]: /pokemon_changes/292/
+[Delcatty]: /pokemon_changes/301/
+[Seviper]: /pokemon_changes/336/
+[Lunatone]: /pokemon_changes/337/
+[Solrock]: /pokemon_changes/338/
+[Prinplup]: /pokemon_changes/394/
+[Kricketune]: /pokemon_changes/402/
+[Cherrim]: /pokemon_changes/421/
+[Glameow]: /pokemon_changes/431/
+[Stunky]: /pokemon_changes/434/
+[Bronzong]: /pokemon_changes/437/
+[Chatot]: /pokemon_changes/441/
+[Croagunk]: /pokemon_changes/453/
+[Toxicroak]: /pokemon_changes/454/
 [wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png
 [zoom-lens]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/zoom-lens.png
 [leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png

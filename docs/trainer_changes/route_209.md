@@ -1,5 +1,9 @@
 # Route 209
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_209/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 PKMN Breeder Albert (!)    | ![][236]  [Tyrogue] Lv. 26  ![][433]  [Chingling] Lv. 26  ![][438]  [Bonsly] Lv. 26 <br> ![][240]  [Magby] Lv. 26  ![][239]  [Elekid] Lv. 26  ![][439]  [Mime Jr.] Lv. 26
@@ -66,43 +70,43 @@ PKMN Breeder Jennifer (C)  | ![][184]  [Azumarill] Lv. 68  ![][468]  [Togekiss] 
 [438]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/438.png "Bonsly"
 [439]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png "Mime Jr."
 [468]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/468.png "Togekiss"
-[Fearow]: pokemon_changes/022/
-[Pikachu]: pokemon_changes/025/
-[Raichu]: pokemon_changes/026/
-[Clefairy]: pokemon_changes/035/
-[Clefable]: pokemon_changes/036/
-[Jigglypuff]: pokemon_changes/039/
-[Wigglytuff]: pokemon_changes/040/
-[Ponyta]: pokemon_changes/077/
-[Dodrio]: pokemon_changes/085/
-[Mr. Mime]: pokemon_changes/122/
-[Jynx]: pokemon_changes/124/
-[Electabuzz]: pokemon_changes/125/
-[Magmar]: pokemon_changes/126/
-[Vaporeon]: pokemon_changes/134/
-[Flareon]: pokemon_changes/136/
-[Pichu]: pokemon_changes/172/
-[Cleffa]: pokemon_changes/173/
-[Igglybuff]: pokemon_changes/174/
-[Togepi]: pokemon_changes/175/
-[Togetic]: pokemon_changes/176/
-[Marill]: pokemon_changes/183/
-[Azumarill]: pokemon_changes/184/
-[Sudowoodo]: pokemon_changes/185/
-[Tyrogue]: pokemon_changes/236/
-[Hitmontop]: pokemon_changes/237/
-[Smoochum]: pokemon_changes/238/
-[Elekid]: pokemon_changes/239/
-[Magby]: pokemon_changes/240/
-[Azurill]: pokemon_changes/298/
-[Volbeat]: pokemon_changes/313/
-[Illumise]: pokemon_changes/314/
-[Roselia]: pokemon_changes/315/
-[Chimecho]: pokemon_changes/358/
-[Bibarel]: pokemon_changes/400/
-[Budew]: pokemon_changes/406/
-[Roserade]: pokemon_changes/407/
-[Chingling]: pokemon_changes/433/
-[Bonsly]: pokemon_changes/438/
-[Mime Jr.]: pokemon_changes/439/
-[Togekiss]: pokemon_changes/468/
+[Fearow]: /pokemon_changes/022/
+[Pikachu]: /pokemon_changes/025/
+[Raichu]: /pokemon_changes/026/
+[Clefairy]: /pokemon_changes/035/
+[Clefable]: /pokemon_changes/036/
+[Jigglypuff]: /pokemon_changes/039/
+[Wigglytuff]: /pokemon_changes/040/
+[Ponyta]: /pokemon_changes/077/
+[Dodrio]: /pokemon_changes/085/
+[Mr. Mime]: /pokemon_changes/122/
+[Jynx]: /pokemon_changes/124/
+[Electabuzz]: /pokemon_changes/125/
+[Magmar]: /pokemon_changes/126/
+[Vaporeon]: /pokemon_changes/134/
+[Flareon]: /pokemon_changes/136/
+[Pichu]: /pokemon_changes/172/
+[Cleffa]: /pokemon_changes/173/
+[Igglybuff]: /pokemon_changes/174/
+[Togepi]: /pokemon_changes/175/
+[Togetic]: /pokemon_changes/176/
+[Marill]: /pokemon_changes/183/
+[Azumarill]: /pokemon_changes/184/
+[Sudowoodo]: /pokemon_changes/185/
+[Tyrogue]: /pokemon_changes/236/
+[Hitmontop]: /pokemon_changes/237/
+[Smoochum]: /pokemon_changes/238/
+[Elekid]: /pokemon_changes/239/
+[Magby]: /pokemon_changes/240/
+[Azurill]: /pokemon_changes/298/
+[Volbeat]: /pokemon_changes/313/
+[Illumise]: /pokemon_changes/314/
+[Roselia]: /pokemon_changes/315/
+[Chimecho]: /pokemon_changes/358/
+[Bibarel]: /pokemon_changes/400/
+[Budew]: /pokemon_changes/406/
+[Roserade]: /pokemon_changes/407/
+[Chingling]: /pokemon_changes/433/
+[Bonsly]: /pokemon_changes/438/
+[Mime Jr.]: /pokemon_changes/439/
+[Togekiss]: /pokemon_changes/468/

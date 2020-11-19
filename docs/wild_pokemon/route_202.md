@@ -1,4 +1,8 @@
 # Route 202
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/route_202/).
+
 Levels: 5 - 6 (Walking)
 
 Area       | Pokémon
@@ -18,12 +22,12 @@ Poké Radar | ![][228]  [Houndour] (22%)
 [263]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263.png "Zigzagoon"
 [403]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/403.png "Shinx"
 [412]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/412.png "Burmy"
-[Rattata]: pokemon_changes/019/
-[Growlithe]: pokemon_changes/058/
-[Sentret]: pokemon_changes/161/
-[Hoothoot]: pokemon_changes/163/
-[Houndour]: pokemon_changes/228/
-[Poochyena]: pokemon_changes/261/
-[Zigzagoon]: pokemon_changes/263/
-[Shinx]: pokemon_changes/403/
-[Burmy]: pokemon_changes/412/
+[Rattata]: /pokemon_changes/019/
+[Growlithe]: /pokemon_changes/058/
+[Sentret]: /pokemon_changes/161/
+[Hoothoot]: /pokemon_changes/163/
+[Houndour]: /pokemon_changes/228/
+[Poochyena]: /pokemon_changes/261/
+[Zigzagoon]: /pokemon_changes/263/
+[Shinx]: /pokemon_changes/403/
+[Burmy]: /pokemon_changes/412/

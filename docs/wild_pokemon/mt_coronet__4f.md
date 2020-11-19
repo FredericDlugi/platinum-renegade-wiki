@@ -1,4 +1,8 @@
 # Mt. Coronet ~ 4F
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/mt_coronet__4f/).
+
 Levels: 50 - 52 (Walking) 35 - 55 (Surfing)
 
 Area       | Pokémon
@@ -28,19 +32,19 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][117]  [Seadra] (30%) ![][148]  [Drag
 [358]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png "Chimecho"
 [375]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png "Metang"
 [437]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png "Bronzong"
-[Clefairy]: pokemon_changes/035/
-[Zubat]: pokemon_changes/041/
-[Golbat]: pokemon_changes/042/
-[Graveler]: pokemon_changes/075/
-[Horsea]: pokemon_changes/116/
-[Seadra]: pokemon_changes/117/
-[Magikarp]: pokemon_changes/129/
-[Gyarados]: pokemon_changes/130/
-[Dratini]: pokemon_changes/147/
-[Dragonair]: pokemon_changes/148/
-[Nosepass]: pokemon_changes/299/
-[Lunatone]: pokemon_changes/337/
-[Solrock]: pokemon_changes/338/
-[Chimecho]: pokemon_changes/358/
-[Metang]: pokemon_changes/375/
-[Bronzong]: pokemon_changes/437/
+[Clefairy]: /pokemon_changes/035/
+[Zubat]: /pokemon_changes/041/
+[Golbat]: /pokemon_changes/042/
+[Graveler]: /pokemon_changes/075/
+[Horsea]: /pokemon_changes/116/
+[Seadra]: /pokemon_changes/117/
+[Magikarp]: /pokemon_changes/129/
+[Gyarados]: /pokemon_changes/130/
+[Dratini]: /pokemon_changes/147/
+[Dragonair]: /pokemon_changes/148/
+[Nosepass]: /pokemon_changes/299/
+[Lunatone]: /pokemon_changes/337/
+[Solrock]: /pokemon_changes/338/
+[Chimecho]: /pokemon_changes/358/
+[Metang]: /pokemon_changes/375/
+[Bronzong]: /pokemon_changes/437/

@@ -1,5 +1,9 @@
 # Route 203
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_203/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 PKMN Trainer Barry         | ![][396]  [Starly] Lv. 10  ![][446]  [Munchlax] Lv. 10  ![][387]  [Turtwig] Lv. 11
@@ -49,29 +53,29 @@ Lass Madeline (8)          | ![][055]  [Golduck] Lv. 59  ![][192]  [Sunflora] Lv
 [427]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/427.png "Buneary"
 [428]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428.png "Lopunny"
 [446]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png "Munchlax"
-[Rattata]: pokemon_changes/019/
-[Spearow]: pokemon_changes/021/
-[Sandshrew]: pokemon_changes/027/
-[Sandslash]: pokemon_changes/028/
-[Zubat]: pokemon_changes/041/
-[Psyduck]: pokemon_changes/054/
-[Golduck]: pokemon_changes/055/
-[Machop]: pokemon_changes/066/
-[Golem]: pokemon_changes/076/
-[Cubone]: pokemon_changes/104/
-[Sunkern]: pokemon_changes/191/
-[Sunflora]: pokemon_changes/192/
-[Makuhita]: pokemon_changes/296/
-[Azurill]: pokemon_changes/298/
-[Turtwig]: pokemon_changes/387/
-[Chimchar]: pokemon_changes/390/
-[Piplup]: pokemon_changes/393/
-[Starly]: pokemon_changes/396/
-[Bibarel]: pokemon_changes/400/
-[Kricketot]: pokemon_changes/401/
-[Shinx]: pokemon_changes/403/
-[Luxio]: pokemon_changes/404/
-[Luxray]: pokemon_changes/405/
-[Buneary]: pokemon_changes/427/
-[Lopunny]: pokemon_changes/428/
-[Munchlax]: pokemon_changes/446/
+[Rattata]: /pokemon_changes/019/
+[Spearow]: /pokemon_changes/021/
+[Sandshrew]: /pokemon_changes/027/
+[Sandslash]: /pokemon_changes/028/
+[Zubat]: /pokemon_changes/041/
+[Psyduck]: /pokemon_changes/054/
+[Golduck]: /pokemon_changes/055/
+[Machop]: /pokemon_changes/066/
+[Golem]: /pokemon_changes/076/
+[Cubone]: /pokemon_changes/104/
+[Sunkern]: /pokemon_changes/191/
+[Sunflora]: /pokemon_changes/192/
+[Makuhita]: /pokemon_changes/296/
+[Azurill]: /pokemon_changes/298/
+[Turtwig]: /pokemon_changes/387/
+[Chimchar]: /pokemon_changes/390/
+[Piplup]: /pokemon_changes/393/
+[Starly]: /pokemon_changes/396/
+[Bibarel]: /pokemon_changes/400/
+[Kricketot]: /pokemon_changes/401/
+[Shinx]: /pokemon_changes/403/
+[Luxio]: /pokemon_changes/404/
+[Luxray]: /pokemon_changes/405/
+[Buneary]: /pokemon_changes/427/
+[Lopunny]: /pokemon_changes/428/
+[Munchlax]: /pokemon_changes/446/

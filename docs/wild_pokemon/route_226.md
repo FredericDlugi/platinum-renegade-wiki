@@ -1,4 +1,8 @@
 # Route 226
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/route_226/).
+
 Levels: 65 - 67 (Walking) 65 - 67 (Surfing)
 
 Area       | Pokémon
@@ -26,17 +30,17 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][117]  [Seadra] (30%) ![][369]  [Reli
 [130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
 [279]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png "Pelipper"
 [369]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/369.png "Relicanth"
-[Raticate]: pokemon_changes/020/
-[Fearow]: pokemon_changes/022/
-[Arbok]: pokemon_changes/024/
-[Sandslash]: pokemon_changes/028/
-[Tentacruel]: pokemon_changes/073/
-[Rapidash]: pokemon_changes/078/
-[Dodrio]: pokemon_changes/085/
-[Kingler]: pokemon_changes/099/
-[Horsea]: pokemon_changes/116/
-[Seadra]: pokemon_changes/117/
-[Magikarp]: pokemon_changes/129/
-[Gyarados]: pokemon_changes/130/
-[Pelipper]: pokemon_changes/279/
-[Relicanth]: pokemon_changes/369/
+[Raticate]: /pokemon_changes/020/
+[Fearow]: /pokemon_changes/022/
+[Arbok]: /pokemon_changes/024/
+[Sandslash]: /pokemon_changes/028/
+[Tentacruel]: /pokemon_changes/073/
+[Rapidash]: /pokemon_changes/078/
+[Dodrio]: /pokemon_changes/085/
+[Kingler]: /pokemon_changes/099/
+[Horsea]: /pokemon_changes/116/
+[Seadra]: /pokemon_changes/117/
+[Magikarp]: /pokemon_changes/129/
+[Gyarados]: /pokemon_changes/130/
+[Pelipper]: /pokemon_changes/279/
+[Relicanth]: /pokemon_changes/369/

@@ -33,22 +33,22 @@ Leader Gardenia    | Item         | Nature  | Ability       | Moves
 [388]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/388.png "Grotle"
 [407]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/407.png "Roserade"
 [421]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/421.png "Cherrim"
-[Ivysaur]: pokemon_changes/002/
-[Gloom]: pokemon_changes/044/
-[Weepinbell]: pokemon_changes/070/
-[Exeggcute]: pokemon_changes/102/
-[Tangela]: pokemon_changes/114/
-[Bayleef]: pokemon_changes/153/
-[Bellossom]: pokemon_changes/182/
-[Skiploom]: pokemon_changes/188/
-[Lotad]: pokemon_changes/270/
-[Shroomish]: pokemon_changes/285/
-[Breloom]: pokemon_changes/286/
-[Roselia]: pokemon_changes/315/
-[Cacnea]: pokemon_changes/331/
-[Grotle]: pokemon_changes/388/
-[Roserade]: pokemon_changes/407/
-[Cherrim]: pokemon_changes/421/
+[Ivysaur]: /pokemon_changes/002/
+[Gloom]: /pokemon_changes/044/
+[Weepinbell]: /pokemon_changes/070/
+[Exeggcute]: /pokemon_changes/102/
+[Tangela]: /pokemon_changes/114/
+[Bayleef]: /pokemon_changes/153/
+[Bellossom]: /pokemon_changes/182/
+[Skiploom]: /pokemon_changes/188/
+[Lotad]: /pokemon_changes/270/
+[Shroomish]: /pokemon_changes/285/
+[Breloom]: /pokemon_changes/286/
+[Roselia]: /pokemon_changes/315/
+[Cacnea]: /pokemon_changes/331/
+[Grotle]: /pokemon_changes/388/
+[Roserade]: /pokemon_changes/407/
+[Cherrim]: /pokemon_changes/421/
 [focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
 [wide-lens]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wide-lens.png
 [leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png

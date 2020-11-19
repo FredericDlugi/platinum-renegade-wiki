@@ -1,4 +1,8 @@
 # Valley Windworks
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/valley_windworks/).
+
 Levels: 11 - 13 (Walking) 20 - 40 (Surfing) 12 (Honey Tree)
 
 Area       | Pokémon
@@ -37,26 +41,26 @@ Honey Tree | ![][190]  [Aipom] (30%) ![][287]  [Slakoth] (20%) ![][010]  [Caterp
 [423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
 [425]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/425.png "Drifloon"
 [446]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png "Munchlax"
-[Caterpie]: pokemon_changes/010/
-[Weedle]: pokemon_changes/013/
-[Tentacool]: pokemon_changes/072/
-[Tentacruel]: pokemon_changes/073/
-[Magnemite]: pokemon_changes/081/
-[Shellder]: pokemon_changes/090/
-[Cloyster]: pokemon_changes/091/
-[Voltorb]: pokemon_changes/100/
-[Magikarp]: pokemon_changes/129/
-[Gyarados]: pokemon_changes/130/
-[Chinchou]: pokemon_changes/170/
-[Lanturn]: pokemon_changes/171/
-[Aipom]: pokemon_changes/190/
-[Elekid]: pokemon_changes/239/
-[Slakoth]: pokemon_changes/287/
-[Electrike]: pokemon_changes/309/
-[Plusle]: pokemon_changes/311/
-[Minun]: pokemon_changes/312/
-[Pachirisu]: pokemon_changes/417/
-[Shellos]: pokemon_changes/422/
-[Gastrodon]: pokemon_changes/423/
-[Drifloon]: pokemon_changes/425/
-[Munchlax]: pokemon_changes/446/
+[Caterpie]: /pokemon_changes/010/
+[Weedle]: /pokemon_changes/013/
+[Tentacool]: /pokemon_changes/072/
+[Tentacruel]: /pokemon_changes/073/
+[Magnemite]: /pokemon_changes/081/
+[Shellder]: /pokemon_changes/090/
+[Cloyster]: /pokemon_changes/091/
+[Voltorb]: /pokemon_changes/100/
+[Magikarp]: /pokemon_changes/129/
+[Gyarados]: /pokemon_changes/130/
+[Chinchou]: /pokemon_changes/170/
+[Lanturn]: /pokemon_changes/171/
+[Aipom]: /pokemon_changes/190/
+[Elekid]: /pokemon_changes/239/
+[Slakoth]: /pokemon_changes/287/
+[Electrike]: /pokemon_changes/309/
+[Plusle]: /pokemon_changes/311/
+[Minun]: /pokemon_changes/312/
+[Pachirisu]: /pokemon_changes/417/
+[Shellos]: /pokemon_changes/422/
+[Gastrodon]: /pokemon_changes/423/
+[Drifloon]: /pokemon_changes/425/
+[Munchlax]: /pokemon_changes/446/

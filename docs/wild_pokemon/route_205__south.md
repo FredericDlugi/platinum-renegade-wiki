@@ -1,4 +1,8 @@
 # Route 205 ~ South
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/route_205__south/).
+
 Levels: 11 - 13 (Walking) 20 - 40 (Surfing) 12 (Honey Tree)
 
 Area       | Pokémon
@@ -36,25 +40,25 @@ Honey Tree | ![][415]  [Combee] (30%) ![][412]  [Burmy] (20%) ![][204]  [Pineco]
 [418]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/418.png "Buizel"
 [422]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png "Shellos"
 [423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
-[Venonat]: pokemon_changes/048/
-[Tentacool]: pokemon_changes/072/
-[Tentacruel]: pokemon_changes/073/
-[Shellder]: pokemon_changes/090/
-[Cloyster]: pokemon_changes/091/
-[Magikarp]: pokemon_changes/129/
-[Gyarados]: pokemon_changes/130/
-[Chinchou]: pokemon_changes/170/
-[Lanturn]: pokemon_changes/171/
-[Mareep]: pokemon_changes/179/
-[Hoppip]: pokemon_changes/187/
-[Pineco]: pokemon_changes/204/
-[Heracross]: pokemon_changes/214/
-[Wurmple]: pokemon_changes/265/
-[Plusle]: pokemon_changes/311/
-[Minun]: pokemon_changes/312/
-[Burmy]: pokemon_changes/412/
-[Combee]: pokemon_changes/415/
-[Pachirisu]: pokemon_changes/417/
-[Buizel]: pokemon_changes/418/
-[Shellos]: pokemon_changes/422/
-[Gastrodon]: pokemon_changes/423/
+[Venonat]: /pokemon_changes/048/
+[Tentacool]: /pokemon_changes/072/
+[Tentacruel]: /pokemon_changes/073/
+[Shellder]: /pokemon_changes/090/
+[Cloyster]: /pokemon_changes/091/
+[Magikarp]: /pokemon_changes/129/
+[Gyarados]: /pokemon_changes/130/
+[Chinchou]: /pokemon_changes/170/
+[Lanturn]: /pokemon_changes/171/
+[Mareep]: /pokemon_changes/179/
+[Hoppip]: /pokemon_changes/187/
+[Pineco]: /pokemon_changes/204/
+[Heracross]: /pokemon_changes/214/
+[Wurmple]: /pokemon_changes/265/
+[Plusle]: /pokemon_changes/311/
+[Minun]: /pokemon_changes/312/
+[Burmy]: /pokemon_changes/412/
+[Combee]: /pokemon_changes/415/
+[Pachirisu]: /pokemon_changes/417/
+[Buizel]: /pokemon_changes/418/
+[Shellos]: /pokemon_changes/422/
+[Gastrodon]: /pokemon_changes/423/

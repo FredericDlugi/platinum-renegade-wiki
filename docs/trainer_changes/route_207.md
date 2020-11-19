@@ -1,5 +1,9 @@
 # Route 207
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_207/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 Camper Anthony             | ![][240]  [Magby] Lv. 24  ![][328]  [Trapinch] Lv. 24  ![][004]  [Charmander] Lv. 24
@@ -66,30 +70,30 @@ PKMN Trainer Lucas | Item         | Nature  | Ability       | Moves
 [394]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/394.png "Prinplup"
 [428]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428.png "Lopunny"
 [463]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/463.png "Lickilicky"
-[Charmander]: pokemon_changes/004/
-[Sandslash]: pokemon_changes/028/
-[Clefable]: pokemon_changes/036/
-[Graveler]: pokemon_changes/075/
-[Dunsparce]: pokemon_changes/206/
-[Gligar]: pokemon_changes/207/
-[Snubbull]: pokemon_changes/209/
-[Granbull]: pokemon_changes/210/
-[Piloswine]: pokemon_changes/221/
-[Tyrogue]: pokemon_changes/236/
-[Hitmontop]: pokemon_changes/237/
-[Smoochum]: pokemon_changes/238/
-[Magby]: pokemon_changes/240/
-[Treecko]: pokemon_changes/252/
-[Lombre]: pokemon_changes/271/
-[Hariyama]: pokemon_changes/297/
-[Meditite]: pokemon_changes/307/
-[Medicham]: pokemon_changes/308/
-[Trapinch]: pokemon_changes/328/
-[Grotle]: pokemon_changes/388/
-[Monferno]: pokemon_changes/391/
-[Prinplup]: pokemon_changes/394/
-[Lopunny]: pokemon_changes/428/
-[Lickilicky]: pokemon_changes/463/
+[Charmander]: /pokemon_changes/004/
+[Sandslash]: /pokemon_changes/028/
+[Clefable]: /pokemon_changes/036/
+[Graveler]: /pokemon_changes/075/
+[Dunsparce]: /pokemon_changes/206/
+[Gligar]: /pokemon_changes/207/
+[Snubbull]: /pokemon_changes/209/
+[Granbull]: /pokemon_changes/210/
+[Piloswine]: /pokemon_changes/221/
+[Tyrogue]: /pokemon_changes/236/
+[Hitmontop]: /pokemon_changes/237/
+[Smoochum]: /pokemon_changes/238/
+[Magby]: /pokemon_changes/240/
+[Treecko]: /pokemon_changes/252/
+[Lombre]: /pokemon_changes/271/
+[Hariyama]: /pokemon_changes/297/
+[Meditite]: /pokemon_changes/307/
+[Medicham]: /pokemon_changes/308/
+[Trapinch]: /pokemon_changes/328/
+[Grotle]: /pokemon_changes/388/
+[Monferno]: /pokemon_changes/391/
+[Prinplup]: /pokemon_changes/394/
+[Lopunny]: /pokemon_changes/428/
+[Lickilicky]: /pokemon_changes/463/
 [focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
 [leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png
 [muscle-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-band.png

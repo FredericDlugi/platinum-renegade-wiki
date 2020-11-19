@@ -1,5 +1,9 @@
 # Valley Windworks
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/valley_windworks/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 Galactic Grunt             | ![][261]  [Poochyena] Lv. 14  ![][316]  [Gulpin] Lv. 14  ![][228]  [Houndour] Lv. 14
@@ -27,15 +31,15 @@ Commander Mars   | Item          | Nature  | Ability       | Moves
 [316]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/316.png "Gulpin"
 [432]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png "Purugly"
 [436]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/436.png "Bronzor"
-[Metapod]: pokemon_changes/011/
-[Kakuna]: pokemon_changes/014/
-[Zubat]: pokemon_changes/041/
-[Grimer]: pokemon_changes/088/
-[Koffing]: pokemon_changes/109/
-[Yanma]: pokemon_changes/193/
-[Pineco]: pokemon_changes/204/
-[Houndour]: pokemon_changes/228/
-[Poochyena]: pokemon_changes/261/
-[Gulpin]: pokemon_changes/316/
-[Purugly]: pokemon_changes/432/
-[Bronzor]: pokemon_changes/436/
+[Metapod]: /pokemon_changes/011/
+[Kakuna]: /pokemon_changes/014/
+[Zubat]: /pokemon_changes/041/
+[Grimer]: /pokemon_changes/088/
+[Koffing]: /pokemon_changes/109/
+[Yanma]: /pokemon_changes/193/
+[Pineco]: /pokemon_changes/204/
+[Houndour]: /pokemon_changes/228/
+[Poochyena]: /pokemon_changes/261/
+[Gulpin]: /pokemon_changes/316/
+[Purugly]: /pokemon_changes/432/
+[Bronzor]: /pokemon_changes/436/

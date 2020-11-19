@@ -1,5 +1,9 @@
 # Route 210 ~ South
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_210__south/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 Twins Teri & Tia           | ![][162]  [Furret] Lv. 32  ![][264]  [Linoone] Lv. 32
@@ -37,20 +41,20 @@ Rancher Marco (C)          | ![][078]  [Rapidash] Lv. 70  ![][128]  [Tauros] Lv.
 [446]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png "Munchlax"
 [447]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/447.png "Riolu"
 [458]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/458.png "Mantyke"
-[Clefable]: pokemon_changes/036/
-[Rapidash]: pokemon_changes/078/
-[Electrode]: pokemon_changes/101/
-[Tauros]: pokemon_changes/128/
-[Dratini]: pokemon_changes/147/
-[Dragonair]: pokemon_changes/148/
-[Furret]: pokemon_changes/162/
-[Miltank]: pokemon_changes/241/
-[Linoone]: pokemon_changes/264/
-[Wynaut]: pokemon_changes/360/
-[Bagon]: pokemon_changes/371/
-[Shelgon]: pokemon_changes/372/
-[Chingling]: pokemon_changes/433/
-[Happiny]: pokemon_changes/440/
-[Munchlax]: pokemon_changes/446/
-[Riolu]: pokemon_changes/447/
-[Mantyke]: pokemon_changes/458/
+[Clefable]: /pokemon_changes/036/
+[Rapidash]: /pokemon_changes/078/
+[Electrode]: /pokemon_changes/101/
+[Tauros]: /pokemon_changes/128/
+[Dratini]: /pokemon_changes/147/
+[Dragonair]: /pokemon_changes/148/
+[Furret]: /pokemon_changes/162/
+[Miltank]: /pokemon_changes/241/
+[Linoone]: /pokemon_changes/264/
+[Wynaut]: /pokemon_changes/360/
+[Bagon]: /pokemon_changes/371/
+[Shelgon]: /pokemon_changes/372/
+[Chingling]: /pokemon_changes/433/
+[Happiny]: /pokemon_changes/440/
+[Munchlax]: /pokemon_changes/446/
+[Riolu]: /pokemon_changes/447/
+[Mantyke]: /pokemon_changes/458/

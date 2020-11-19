@@ -1,4 +1,8 @@
 # Route 223
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/route_223/).
+
 Levels: 50 - 60 (Surfing)
 
 Area       | Pokémon
@@ -18,12 +22,12 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][320]  [Wailmer] (30%) ![][224]  [Oct
 [279]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png "Pelipper"
 [320]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/320.png "Wailmer"
 [321]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png "Wailord"
-[Tentacruel]: pokemon_changes/073/
-[Magikarp]: pokemon_changes/129/
-[Gyarados]: pokemon_changes/130/
-[Remoraid]: pokemon_changes/223/
-[Octillery]: pokemon_changes/224/
-[Mantine]: pokemon_changes/226/
-[Pelipper]: pokemon_changes/279/
-[Wailmer]: pokemon_changes/320/
-[Wailord]: pokemon_changes/321/
+[Tentacruel]: /pokemon_changes/073/
+[Magikarp]: /pokemon_changes/129/
+[Gyarados]: /pokemon_changes/130/
+[Remoraid]: /pokemon_changes/223/
+[Octillery]: /pokemon_changes/224/
+[Mantine]: /pokemon_changes/226/
+[Pelipper]: /pokemon_changes/279/
+[Wailmer]: /pokemon_changes/320/
+[Wailord]: /pokemon_changes/321/

@@ -1,4 +1,8 @@
 # Fuego Ironworks
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/fuego_ironworks/).
+
 Levels: 36 - 40 (Walking) 30 - 45 (Surf) 40 (Honey Tree)
 
 Area       | Pokémon
@@ -36,25 +40,25 @@ Honey Tree | ![][415]  [Combee] (30%) ![][205]  [Forretress] (10%) ![][413]  [Wo
 [423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
 [456]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/456.png "Finneon"
 [457]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png "Lumineon"
-[Tentacool]: pokemon_changes/072/
-[Tentacruel]: pokemon_changes/073/
-[Magnemite]: pokemon_changes/081/
-[Magneton]: pokemon_changes/082/
-[Shellder]: pokemon_changes/090/
-[Weezing]: pokemon_changes/110/
-[Magmar]: pokemon_changes/126/
-[Magikarp]: pokemon_changes/129/
-[Gyarados]: pokemon_changes/130/
-[Forretress]: pokemon_changes/205/
-[Heracross]: pokemon_changes/214/
-[Beautifly]: pokemon_changes/267/
-[Dustox]: pokemon_changes/269/
-[Manectric]: pokemon_changes/310/
-[Wormadam]: pokemon_changes/413/
-[Mothim]: pokemon_changes/414/
-[Combee]: pokemon_changes/415/
-[Vespiquen]: pokemon_changes/416/
-[Shellos]: pokemon_changes/422/
-[Gastrodon]: pokemon_changes/423/
-[Finneon]: pokemon_changes/456/
-[Lumineon]: pokemon_changes/457/
+[Tentacool]: /pokemon_changes/072/
+[Tentacruel]: /pokemon_changes/073/
+[Magnemite]: /pokemon_changes/081/
+[Magneton]: /pokemon_changes/082/
+[Shellder]: /pokemon_changes/090/
+[Weezing]: /pokemon_changes/110/
+[Magmar]: /pokemon_changes/126/
+[Magikarp]: /pokemon_changes/129/
+[Gyarados]: /pokemon_changes/130/
+[Forretress]: /pokemon_changes/205/
+[Heracross]: /pokemon_changes/214/
+[Beautifly]: /pokemon_changes/267/
+[Dustox]: /pokemon_changes/269/
+[Manectric]: /pokemon_changes/310/
+[Wormadam]: /pokemon_changes/413/
+[Mothim]: /pokemon_changes/414/
+[Combee]: /pokemon_changes/415/
+[Vespiquen]: /pokemon_changes/416/
+[Shellos]: /pokemon_changes/422/
+[Gastrodon]: /pokemon_changes/423/
+[Finneon]: /pokemon_changes/456/
+[Lumineon]: /pokemon_changes/457/

@@ -1,5 +1,9 @@
 # Route 213
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_213/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 Beauty Cyndy (!)           | ![][301]  [Delcatty] Lv. 37  ![][053]  [Persian] Lv. 37
@@ -43,21 +47,21 @@ Tuber Chelsea (C)          | ![][184]  [Azumarill] Lv. 69
 [432]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png "Purugly"
 [454]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png "Toxicroak"
 [457]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png "Lumineon"
-[Persian]: pokemon_changes/053/
-[Golduck]: pokemon_changes/055/
-[Horsea]: pokemon_changes/116/
-[Gyarados]: pokemon_changes/130/
-[Azumarill]: pokemon_changes/184/
-[Politoed]: pokemon_changes/186/
-[Quagsire]: pokemon_changes/195/
-[Corsola]: pokemon_changes/222/
-[Remoraid]: pokemon_changes/223/
-[Mantine]: pokemon_changes/226/
-[Pelipper]: pokemon_changes/279/
-[Delcatty]: pokemon_changes/301/
-[Carvanha]: pokemon_changes/318/
-[Sharpedo]: pokemon_changes/319/
-[Gastrodon]: pokemon_changes/423/
-[Purugly]: pokemon_changes/432/
-[Toxicroak]: pokemon_changes/454/
-[Lumineon]: pokemon_changes/457/
+[Persian]: /pokemon_changes/053/
+[Golduck]: /pokemon_changes/055/
+[Horsea]: /pokemon_changes/116/
+[Gyarados]: /pokemon_changes/130/
+[Azumarill]: /pokemon_changes/184/
+[Politoed]: /pokemon_changes/186/
+[Quagsire]: /pokemon_changes/195/
+[Corsola]: /pokemon_changes/222/
+[Remoraid]: /pokemon_changes/223/
+[Mantine]: /pokemon_changes/226/
+[Pelipper]: /pokemon_changes/279/
+[Delcatty]: /pokemon_changes/301/
+[Carvanha]: /pokemon_changes/318/
+[Sharpedo]: /pokemon_changes/319/
+[Gastrodon]: /pokemon_changes/423/
+[Purugly]: /pokemon_changes/432/
+[Toxicroak]: /pokemon_changes/454/
+[Lumineon]: /pokemon_changes/457/

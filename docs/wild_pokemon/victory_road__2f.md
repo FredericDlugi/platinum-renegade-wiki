@@ -16,11 +16,11 @@ Night      | ![][208]  [Steelix] (20%) ![][082]  [Magneton] (20%) ![][075]  [Gra
 [108]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png "Lickitung"
 [208]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png "Steelix"
 [444]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/444.png "Gabite"
-[Golbat]: pokemon_changes/042/
-[Kadabra]: pokemon_changes/064/
-[Graveler]: pokemon_changes/075/
-[Magneton]: pokemon_changes/082/
-[Marowak]: pokemon_changes/105/
-[Lickitung]: pokemon_changes/108/
-[Steelix]: pokemon_changes/208/
-[Gabite]: pokemon_changes/444/
+[Golbat]: /pokemon_changes/042/
+[Kadabra]: /pokemon_changes/064/
+[Graveler]: /pokemon_changes/075/
+[Magneton]: /pokemon_changes/082/
+[Marowak]: /pokemon_changes/105/
+[Lickitung]: /pokemon_changes/108/
+[Steelix]: /pokemon_changes/208/
+[Gabite]: /pokemon_changes/444/

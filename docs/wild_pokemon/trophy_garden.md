@@ -18,12 +18,12 @@ Poké Radar | ![][351]  [Castform] (22%)
 [175]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png "Togepi"
 [351]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351.png "Castform"
 [440]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/440.png "Happiny"
-[Pikachu]: pokemon_changes/025/
-[Eevee]: pokemon_changes/133/
-[Porygon]: pokemon_changes/137/
-[Pichu]: pokemon_changes/172/
-[Cleffa]: pokemon_changes/173/
-[Igglybuff]: pokemon_changes/174/
-[Togepi]: pokemon_changes/175/
-[Castform]: pokemon_changes/351/
-[Happiny]: pokemon_changes/440/
+[Pikachu]: /pokemon_changes/025/
+[Eevee]: /pokemon_changes/133/
+[Porygon]: /pokemon_changes/137/
+[Pichu]: /pokemon_changes/172/
+[Cleffa]: /pokemon_changes/173/
+[Igglybuff]: /pokemon_changes/174/
+[Togepi]: /pokemon_changes/175/
+[Castform]: /pokemon_changes/351/
+[Happiny]: /pokemon_changes/440/

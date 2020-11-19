@@ -25,15 +25,15 @@ PKMN Trainer Steven  | Item          | Nature | Ability      | Moves
 [346]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/346.png "Cradily"
 [348]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/348.png "Armaldo"
 [376]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png "Metagross"
-[Aerodactyl]: pokemon_changes/142/
-[Skarmory]: pokemon_changes/227/
-[Treecko]: pokemon_changes/252/
-[Torchic]: pokemon_changes/255/
-[Mudkip]: pokemon_changes/258/
-[Aggron]: pokemon_changes/306/
-[Cradily]: pokemon_changes/346/
-[Armaldo]: pokemon_changes/348/
-[Metagross]: pokemon_changes/376/
+[Aerodactyl]: /pokemon_changes/142/
+[Skarmory]: /pokemon_changes/227/
+[Treecko]: /pokemon_changes/252/
+[Torchic]: /pokemon_changes/255/
+[Mudkip]: /pokemon_changes/258/
+[Aggron]: /pokemon_changes/306/
+[Cradily]: /pokemon_changes/346/
+[Armaldo]: /pokemon_changes/348/
+[Metagross]: /pokemon_changes/376/
 [focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
 [leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png
 [life-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png

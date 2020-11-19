@@ -40,21 +40,21 @@ Pokémon Breeder Kaylee     | ![][184]  [Azumarill] Lv. 37
 [428]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428.png "Lopunny"
 [441]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png "Chatot"
 [457]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png "Lumineon"
-[Vileplume]: pokemon_changes/045/
-[Persian]: pokemon_changes/053/
-[Golduck]: pokemon_changes/055/
-[Arcanine]: pokemon_changes/059/
-[Alakazam]: pokemon_changes/065/
-[Magneton]: pokemon_changes/082/
-[Rhydon]: pokemon_changes/112/
-[Meganium]: pokemon_changes/154/
-[Azumarill]: pokemon_changes/184/
-[Quagsire]: pokemon_changes/195/
-[Smeargle]: pokemon_changes/235/
-[Blaziken]: pokemon_changes/257/
-[Loudred]: pokemon_changes/294/
-[Milotic]: pokemon_changes/350/
-[Pachirisu]: pokemon_changes/417/
-[Lopunny]: pokemon_changes/428/
-[Chatot]: pokemon_changes/441/
-[Lumineon]: pokemon_changes/457/
+[Vileplume]: /pokemon_changes/045/
+[Persian]: /pokemon_changes/053/
+[Golduck]: /pokemon_changes/055/
+[Arcanine]: /pokemon_changes/059/
+[Alakazam]: /pokemon_changes/065/
+[Magneton]: /pokemon_changes/082/
+[Rhydon]: /pokemon_changes/112/
+[Meganium]: /pokemon_changes/154/
+[Azumarill]: /pokemon_changes/184/
+[Quagsire]: /pokemon_changes/195/
+[Smeargle]: /pokemon_changes/235/
+[Blaziken]: /pokemon_changes/257/
+[Loudred]: /pokemon_changes/294/
+[Milotic]: /pokemon_changes/350/
+[Pachirisu]: /pokemon_changes/417/
+[Lopunny]: /pokemon_changes/428/
+[Chatot]: /pokemon_changes/441/
+[Lumineon]: /pokemon_changes/457/

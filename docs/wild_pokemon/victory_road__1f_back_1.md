@@ -16,11 +16,11 @@ Night      | ![][184]  [Azumarill] (20%) ![][419]  [Floatzel] (20%) ![][075]  [G
 [308]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png "Medicham"
 [419]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png "Floatzel"
 [444]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/444.png "Gabite"
-[Golbat]: pokemon_changes/042/
-[Machoke]: pokemon_changes/067/
-[Graveler]: pokemon_changes/075/
-[Azumarill]: pokemon_changes/184/
-[Steelix]: pokemon_changes/208/
-[Medicham]: pokemon_changes/308/
-[Floatzel]: pokemon_changes/419/
-[Gabite]: pokemon_changes/444/
+[Golbat]: /pokemon_changes/042/
+[Machoke]: /pokemon_changes/067/
+[Graveler]: /pokemon_changes/075/
+[Azumarill]: /pokemon_changes/184/
+[Steelix]: /pokemon_changes/208/
+[Medicham]: /pokemon_changes/308/
+[Floatzel]: /pokemon_changes/419/
+[Gabite]: /pokemon_changes/444/

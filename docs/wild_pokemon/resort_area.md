@@ -10,4 +10,4 @@ Super Rod  | ![][129]  [Magikarp] (100%)
 
 
 [129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[Magikarp]: pokemon_changes/129/
+[Magikarp]: /pokemon_changes/129/

@@ -14,10 +14,10 @@ Veteran Grant              | ![][448]  [Lucario] Lv. 45  ![][076]  [Golem] Lv. 4
 [293]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/293.png "Whismur"
 [398]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png "Staraptor"
 [448]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png "Lucario"
-[Diglett]: pokemon_changes/050/
-[Golem]: pokemon_changes/076/
-[Wooper]: pokemon_changes/194/
-[Seedot]: pokemon_changes/273/
-[Whismur]: pokemon_changes/293/
-[Staraptor]: pokemon_changes/398/
-[Lucario]: pokemon_changes/448/
+[Diglett]: /pokemon_changes/050/
+[Golem]: /pokemon_changes/076/
+[Wooper]: /pokemon_changes/194/
+[Seedot]: /pokemon_changes/273/
+[Whismur]: /pokemon_changes/293/
+[Staraptor]: /pokemon_changes/398/
+[Lucario]: /pokemon_changes/448/

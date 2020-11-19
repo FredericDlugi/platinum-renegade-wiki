@@ -1,4 +1,8 @@
 # Route 204 ~ North
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/route_204__north/).
+
 Levels: 11 - 12 (Walking)
 
 Area       | Pokémon
@@ -21,15 +25,15 @@ Poké Radar | ![][315]  [Roselia] (22%)
 [315]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/315.png "Roselia"
 [396]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png "Starly"
 [406]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/406.png "Budew"
-[Caterpie]: pokemon_changes/010/
-[Weedle]: pokemon_changes/013/
-[Oddish]: pokemon_changes/043/
-[Bellsprout]: pokemon_changes/069/
-[Ledyba]: pokemon_changes/165/
-[Spinarak]: pokemon_changes/167/
-[Sunkern]: pokemon_changes/191/
-[Wurmple]: pokemon_changes/265/
-[Ralts]: pokemon_changes/280/
-[Roselia]: pokemon_changes/315/
-[Starly]: pokemon_changes/396/
-[Budew]: pokemon_changes/406/
+[Caterpie]: /pokemon_changes/010/
+[Weedle]: /pokemon_changes/013/
+[Oddish]: /pokemon_changes/043/
+[Bellsprout]: /pokemon_changes/069/
+[Ledyba]: /pokemon_changes/165/
+[Spinarak]: /pokemon_changes/167/
+[Sunkern]: /pokemon_changes/191/
+[Wurmple]: /pokemon_changes/265/
+[Ralts]: /pokemon_changes/280/
+[Roselia]: /pokemon_changes/315/
+[Starly]: /pokemon_changes/396/
+[Budew]: /pokemon_changes/406/

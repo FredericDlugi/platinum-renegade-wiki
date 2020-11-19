@@ -1,5 +1,9 @@
 # Route 224
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_224/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 Ace Trainer Ruben          | ![][275]  [Shiftry] Lv. 67  ![][130]  [Gyarados] Lv. 67  ![][186]  [Politoed] Lv. 67 <br> ![][470]  [Leafeon] Lv. 67
@@ -92,47 +96,47 @@ PKMN Trainer Lucas  | Item         | Nature  | Ability       | Moves
 [463]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/463.png "Lickilicky"
 [470]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/470.png "Leafeon"
 [473]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png "Mamoswine"
-[Clefable]: pokemon_changes/036/
-[Dugtrio]: pokemon_changes/051/
-[Alakazam]: pokemon_changes/065/
-[Slowbro]: pokemon_changes/080/
-[Muk]: pokemon_changes/089/
-[Gengar]: pokemon_changes/094/
-[Hypno]: pokemon_changes/097/
-[Hitmonlee]: pokemon_changes/106/
-[Hitmonchan]: pokemon_changes/107/
-[Gyarados]: pokemon_changes/130/
-[Vaporeon]: pokemon_changes/134/
-[Jolteon]: pokemon_changes/135/
-[Flareon]: pokemon_changes/136/
-[Aerodactyl]: pokemon_changes/142/
-[Dragonite]: pokemon_changes/149/
-[Politoed]: pokemon_changes/186/
-[Granbull]: pokemon_changes/210/
-[Kingdra]: pokemon_changes/230/
-[Hitmontop]: pokemon_changes/237/
-[Mightyena]: pokemon_changes/262/
-[Shiftry]: pokemon_changes/275/
-[Pelipper]: pokemon_changes/279/
-[Hariyama]: pokemon_changes/297/
-[Medicham]: pokemon_changes/308/
-[Altaria]: pokemon_changes/334/
-[Lunatone]: pokemon_changes/337/
-[Solrock]: pokemon_changes/338/
-[Cradily]: pokemon_changes/346/
-[Armaldo]: pokemon_changes/348/
-[Relicanth]: pokemon_changes/369/
-[Salamence]: pokemon_changes/373/
-[Metagross]: pokemon_changes/376/
-[Torterra]: pokemon_changes/389/
-[Infernape]: pokemon_changes/392/
-[Empoleon]: pokemon_changes/395/
-[Roserade]: pokemon_changes/407/
-[Lopunny]: pokemon_changes/428/
-[Mismagius]: pokemon_changes/429/
-[Lickilicky]: pokemon_changes/463/
-[Leafeon]: pokemon_changes/470/
-[Mamoswine]: pokemon_changes/473/
+[Clefable]: /pokemon_changes/036/
+[Dugtrio]: /pokemon_changes/051/
+[Alakazam]: /pokemon_changes/065/
+[Slowbro]: /pokemon_changes/080/
+[Muk]: /pokemon_changes/089/
+[Gengar]: /pokemon_changes/094/
+[Hypno]: /pokemon_changes/097/
+[Hitmonlee]: /pokemon_changes/106/
+[Hitmonchan]: /pokemon_changes/107/
+[Gyarados]: /pokemon_changes/130/
+[Vaporeon]: /pokemon_changes/134/
+[Jolteon]: /pokemon_changes/135/
+[Flareon]: /pokemon_changes/136/
+[Aerodactyl]: /pokemon_changes/142/
+[Dragonite]: /pokemon_changes/149/
+[Politoed]: /pokemon_changes/186/
+[Granbull]: /pokemon_changes/210/
+[Kingdra]: /pokemon_changes/230/
+[Hitmontop]: /pokemon_changes/237/
+[Mightyena]: /pokemon_changes/262/
+[Shiftry]: /pokemon_changes/275/
+[Pelipper]: /pokemon_changes/279/
+[Hariyama]: /pokemon_changes/297/
+[Medicham]: /pokemon_changes/308/
+[Altaria]: /pokemon_changes/334/
+[Lunatone]: /pokemon_changes/337/
+[Solrock]: /pokemon_changes/338/
+[Cradily]: /pokemon_changes/346/
+[Armaldo]: /pokemon_changes/348/
+[Relicanth]: /pokemon_changes/369/
+[Salamence]: /pokemon_changes/373/
+[Metagross]: /pokemon_changes/376/
+[Torterra]: /pokemon_changes/389/
+[Infernape]: /pokemon_changes/392/
+[Empoleon]: /pokemon_changes/395/
+[Roserade]: /pokemon_changes/407/
+[Lopunny]: /pokemon_changes/428/
+[Mismagius]: /pokemon_changes/429/
+[Lickilicky]: /pokemon_changes/463/
+[Leafeon]: /pokemon_changes/470/
+[Mamoswine]: /pokemon_changes/473/
 [choice-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-band.png
 [focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
 [leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png

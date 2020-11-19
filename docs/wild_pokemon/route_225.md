@@ -1,4 +1,8 @@
 # Route 225
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/route_225/).
+
 Levels: 65 - 67 (Walking) 65 - 67 (Surfing)
 
 Area       | Pokémon
@@ -25,16 +29,16 @@ Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
 [326]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/326.png "Grumpig"
 [339]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png "Barboach"
 [340]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png "Whiscash"
-[Raticate]: pokemon_changes/020/
-[Fearow]: pokemon_changes/022/
-[Golduck]: pokemon_changes/055/
-[Primeape]: pokemon_changes/057/
-[Poliwhirl]: pokemon_changes/061/
-[Machoke]: pokemon_changes/067/
-[Graveler]: pokemon_changes/075/
-[Magikarp]: pokemon_changes/129/
-[Gyarados]: pokemon_changes/130/
-[Hariyama]: pokemon_changes/297/
-[Grumpig]: pokemon_changes/326/
-[Barboach]: pokemon_changes/339/
-[Whiscash]: pokemon_changes/340/
+[Raticate]: /pokemon_changes/020/
+[Fearow]: /pokemon_changes/022/
+[Golduck]: /pokemon_changes/055/
+[Primeape]: /pokemon_changes/057/
+[Poliwhirl]: /pokemon_changes/061/
+[Machoke]: /pokemon_changes/067/
+[Graveler]: /pokemon_changes/075/
+[Magikarp]: /pokemon_changes/129/
+[Gyarados]: /pokemon_changes/130/
+[Hariyama]: /pokemon_changes/297/
+[Grumpig]: /pokemon_changes/326/
+[Barboach]: /pokemon_changes/339/
+[Whiscash]: /pokemon_changes/340/

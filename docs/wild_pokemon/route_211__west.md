@@ -1,4 +1,8 @@
 # Route 211 ~ West
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/route_211__west/).
+
 Levels: 16 - 18 (Walking)
 
 Area       | Pokémon
@@ -16,10 +20,10 @@ Poké Radar | ![][236]  [Tyrogue] (22%)
 [307]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/307.png "Meditite"
 [333]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png "Swablu"
 [433]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/433.png "Chingling"
-[Machop]: pokemon_changes/066/
-[Natu]: pokemon_changes/177/
-[Teddiursa]: pokemon_changes/216/
-[Tyrogue]: pokemon_changes/236/
-[Meditite]: pokemon_changes/307/
-[Swablu]: pokemon_changes/333/
-[Chingling]: pokemon_changes/433/
+[Machop]: /pokemon_changes/066/
+[Natu]: /pokemon_changes/177/
+[Teddiursa]: /pokemon_changes/216/
+[Tyrogue]: /pokemon_changes/236/
+[Meditite]: /pokemon_changes/307/
+[Swablu]: /pokemon_changes/333/
+[Chingling]: /pokemon_changes/433/

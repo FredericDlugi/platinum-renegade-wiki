@@ -1,4 +1,8 @@
 # Lake Valor
+
+!!! note
+    There are trainer on this route. You can find out more [here](/trainer_changes/lake_valor/).
+
 Levels: 53 - 54 (Walking) 35 - 55 (Surfing)
 
 Area       | Pokémon
@@ -23,12 +27,12 @@ Super Rod  | ![][130]  [Gyarados] (100%)
 [284]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png "Masquerain"
 [397]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/397.png "Staravia"
 [400]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png "Bibarel"
-[Golduck]: pokemon_changes/055/
-[Lickitung]: pokemon_changes/108/
-[Magikarp]: pokemon_changes/129/
-[Gyarados]: pokemon_changes/130/
-[Wobbuffet]: pokemon_changes/202/
-[Surskit]: pokemon_changes/283/
-[Masquerain]: pokemon_changes/284/
-[Staravia]: pokemon_changes/397/
-[Bibarel]: pokemon_changes/400/
+[Golduck]: /pokemon_changes/055/
+[Lickitung]: /pokemon_changes/108/
+[Magikarp]: /pokemon_changes/129/
+[Gyarados]: /pokemon_changes/130/
+[Wobbuffet]: /pokemon_changes/202/
+[Surskit]: /pokemon_changes/283/
+[Masquerain]: /pokemon_changes/284/
+[Staravia]: /pokemon_changes/397/
+[Bibarel]: /pokemon_changes/400/

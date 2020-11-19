@@ -1,5 +1,9 @@
 # Route 218
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_218/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 Fisherman Miguel (!)       | ![][367]  [Huntail] Lv. 44  ![][368]  [Gorebyss] Lv. 44
@@ -24,12 +28,12 @@ Guitarist Tony (C)         | ![][402]  [Kricketune] Lv. 71  ![][295]  [Exploud] 
 [368]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/368.png "Gorebyss"
 [369]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/369.png "Relicanth"
 [402]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/402.png "Kricketune"
-[Omastar]: pokemon_changes/139/
-[Kabutops]: pokemon_changes/141/
-[Exploud]: pokemon_changes/295/
-[Crawdaunt]: pokemon_changes/342/
-[Clamperl]: pokemon_changes/366/
-[Huntail]: pokemon_changes/367/
-[Gorebyss]: pokemon_changes/368/
-[Relicanth]: pokemon_changes/369/
-[Kricketune]: pokemon_changes/402/
+[Omastar]: /pokemon_changes/139/
+[Kabutops]: /pokemon_changes/141/
+[Exploud]: /pokemon_changes/295/
+[Crawdaunt]: /pokemon_changes/342/
+[Clamperl]: /pokemon_changes/366/
+[Huntail]: /pokemon_changes/367/
+[Gorebyss]: /pokemon_changes/368/
+[Relicanth]: /pokemon_changes/369/
+[Kricketune]: /pokemon_changes/402/

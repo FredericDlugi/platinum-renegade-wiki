@@ -1,5 +1,9 @@
 # Route 205 ~ South
 
+!!! note
+    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_205__south/).
+
+
 Trainer                    | Pokémons
 ---                        | ---
 Hiker Daniel               | ![][050]  [Diglett] Lv. 15  ![][410]  [Shieldon] Lv. 15  ![][322]  [Numel] Lv. 15
@@ -57,34 +61,34 @@ Picnicker Karina (C)       | ![][395]  [Empoleon] Lv. 71  ![][392]  [Infernape] 
 [418]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/418.png "Buizel"
 [422]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png "Shellos"
 [424]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/424.png "Ambipom"
-[Bulbasaur]: pokemon_changes/001/
-[Ivysaur]: pokemon_changes/002/
-[Venusaur]: pokemon_changes/003/
-[Diglett]: pokemon_changes/050/
-[Mankey]: pokemon_changes/056/
-[Machop]: pokemon_changes/066/
-[Ponyta]: pokemon_changes/077/
-[Onix]: pokemon_changes/095/
-[Chikorita]: pokemon_changes/152/
-[Bayleef]: pokemon_changes/153/
-[Meganium]: pokemon_changes/154/
-[Mareep]: pokemon_changes/179/
-[Aipom]: pokemon_changes/190/
-[Taillow]: pokemon_changes/276/
-[Swellow]: pokemon_changes/277/
-[Slakoth]: pokemon_changes/287/
-[Vigoroth]: pokemon_changes/288/
-[Slaking]: pokemon_changes/289/
-[Meditite]: pokemon_changes/307/
-[Numel]: pokemon_changes/322/
-[Chimchar]: pokemon_changes/390/
-[Monferno]: pokemon_changes/391/
-[Infernape]: pokemon_changes/392/
-[Piplup]: pokemon_changes/393/
-[Prinplup]: pokemon_changes/394/
-[Empoleon]: pokemon_changes/395/
-[Shieldon]: pokemon_changes/410/
-[Pachirisu]: pokemon_changes/417/
-[Buizel]: pokemon_changes/418/
-[Shellos]: pokemon_changes/422/
-[Ambipom]: pokemon_changes/424/
+[Bulbasaur]: /pokemon_changes/001/
+[Ivysaur]: /pokemon_changes/002/
+[Venusaur]: /pokemon_changes/003/
+[Diglett]: /pokemon_changes/050/
+[Mankey]: /pokemon_changes/056/
+[Machop]: /pokemon_changes/066/
+[Ponyta]: /pokemon_changes/077/
+[Onix]: /pokemon_changes/095/
+[Chikorita]: /pokemon_changes/152/
+[Bayleef]: /pokemon_changes/153/
+[Meganium]: /pokemon_changes/154/
+[Mareep]: /pokemon_changes/179/
+[Aipom]: /pokemon_changes/190/
+[Taillow]: /pokemon_changes/276/
+[Swellow]: /pokemon_changes/277/
+[Slakoth]: /pokemon_changes/287/
+[Vigoroth]: /pokemon_changes/288/
+[Slaking]: /pokemon_changes/289/
+[Meditite]: /pokemon_changes/307/
+[Numel]: /pokemon_changes/322/
+[Chimchar]: /pokemon_changes/390/
+[Monferno]: /pokemon_changes/391/
+[Infernape]: /pokemon_changes/392/
+[Piplup]: /pokemon_changes/393/
+[Prinplup]: /pokemon_changes/394/
+[Empoleon]: /pokemon_changes/395/
+[Shieldon]: /pokemon_changes/410/
+[Pachirisu]: /pokemon_changes/417/
+[Buizel]: /pokemon_changes/418/
+[Shellos]: /pokemon_changes/422/
+[Ambipom]: /pokemon_changes/424/
