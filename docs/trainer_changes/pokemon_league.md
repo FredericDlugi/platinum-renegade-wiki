@@ -4,48 +4,39 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/pokemon_league/).
 
 
-Note: In the first round, each Elite Four member will use a random team out of the four listed when challenged.
+!!! note
+    In the first round, each Elite Four member will use a random team out of the four listed when challenged.
 
-Trainer            | 1                                   | 2                                   | 3                                   | 4                                   | 5                                   | 6                                   
----                | ---                                 | ---                                 | ---                                 | ---                                 | ---                                 | ---                                 
-PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 70 | ![][214]<br> [Heracross]<br> Lv. 70 | ![][143]<br> [Snorlax]<br> Lv. 70   | ![][184]<br> [Azumarill]<br> Lv. 70 | ![][059]<br> [Arcanine]<br> Lv. 70  | ![][389]<br> [Torterra]<br> Lv. 71  
-PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 70 | ![][214]<br> [Heracross]<br> Lv. 70 | ![][143]<br> [Snorlax]<br> Lv. 70   | ![][184]<br> [Azumarill]<br> Lv. 70 | ![][286]<br> [Breloom]<br> Lv. 70   | ![][392]<br> [Infernape]<br> Lv. 71 
-PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 70 | ![][214]<br> [Heracross]<br> Lv. 70 | ![][143]<br> [Snorlax]<br> Lv. 70   | ![][286]<br> [Breloom]<br> Lv. 70   | ![][059]<br> [Arcanine]<br> Lv. 70  | ![][395]<br> [Empoleon]<br> Lv. 71  
+Trainer            | 1                                   | 2                                   | 3                                   | 4                                   | 5                                   | 6
+---                | ---                                 | ---                                 | ---                                 | ---                                 | ---                                 | ---
+PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 70 | ![][214]<br> [Heracross]<br> Lv. 70 | ![][143]<br> [Snorlax]<br> Lv. 70   | ![][184]<br> [Azumarill]<br> Lv. 70 | ![][059]<br> [Arcanine]<br> Lv. 70  | ![][389]<br> [Torterra]<br> Lv. 71
+PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 70 | ![][214]<br> [Heracross]<br> Lv. 70 | ![][143]<br> [Snorlax]<br> Lv. 70   | ![][184]<br> [Azumarill]<br> Lv. 70 | ![][286]<br> [Breloom]<br> Lv. 70   | ![][392]<br> [Infernape]<br> Lv. 71
+PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 70 | ![][214]<br> [Heracross]<br> Lv. 70 | ![][143]<br> [Snorlax]<br> Lv. 70   | ![][286]<br> [Breloom]<br> Lv. 70   | ![][059]<br> [Arcanine]<br> Lv. 70  | ![][395]<br> [Empoleon]<br> Lv. 71
 
 #### Round 1
 
-Trainer           | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6                                    
----               | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  
-Elite Four Aaron  | ![][469]<br> [Yanmega]<br> Lv. 71    | ![][212]<br> [Scizor]<br> Lv. 71     | ![][214]<br> [Heracross]<br> Lv. 71  | ![][416]<br> [Vespiquen]<br> Lv. 71  | ![][348]<br> [Armaldo]<br> Lv. 71    | ![][452]<br> [Drapion]<br> Lv. 72    
-Elite Four Aaron  | ![][049]<br> [Venomoth]<br> Lv. 71   | ![][123]<br> [Scyther]<br> Lv. 71    | ![][127]<br> [Pinsir]<br> Lv. 71     | ![][205]<br> [Forretress]<br> Lv. 71 | ![][348]<br> [Armaldo]<br> Lv. 71    | ![][452]<br> [Drapion]<br> Lv. 72    
-Elite Four Aaron  | ![][284]<br> [Masquerain]<br> Lv. 71 | ![][267]<br> [Beautifly]<br> Lv. 71  | ![][214]<br> [Heracross]<br> Lv. 71  | ![][212]<br> [Scizor]<br> Lv. 71     | ![][269]<br> [Dustox]<br> Lv. 71     | ![][452]<br> [Drapion]<br> Lv. 72    
-Elite Four Aaron  | ![][123]<br> [Scyther]<br> Lv. 71    | ![][469]<br> [Yanmega]<br> Lv. 71    | ![][127]<br> [Pinsir]<br> Lv. 71     | ![][212]<br> [Scizor]<br> Lv. 71     | ![][330]<br> [Flygon]<br> Lv. 71     | ![][452]<br> [Drapion]<br> Lv. 72    
-Elite Four Bertha | ![][450]<br> [Hippowdon]<br> Lv. 72  | ![][340]<br> [Whiscash]<br> Lv. 72   | ![][472]<br> [Gliscor]<br> Lv. 72    | ![][076]<br> [Golem]<br> Lv. 72      | ![][232]<br> [Donphan]<br> Lv. 72    | ![][464]<br> [Rhyperior]<br> Lv. 73  
-Elite Four Bertha | ![][450]<br> [Hippowdon]<br> Lv. 72  | ![][185]<br> [Sudowoodo]<br> Lv. 72  | ![][472]<br> [Gliscor]<br> Lv. 72    | ![][389]<br> [Torterra]<br> Lv. 72   | ![][323]<br> [Camerupt]<br> Lv. 72   | ![][464]<br> [Rhyperior]<br> Lv. 73  
-Elite Four Bertha | ![][248]<br> [Tyranitar]<br> Lv. 72  | ![][260]<br> [Swampert]<br> Lv. 72   | ![][051]<br> [Dugtrio]<br> Lv. 72    | ![][473]<br> [Mamoswine]<br> Lv. 72  | ![][344]<br> [Claydol]<br> Lv. 72    | ![][464]<br> [Rhyperior]<br> Lv. 73  
-Elite Four Bertha | ![][248]<br> [Tyranitar]<br> Lv. 72  | ![][195]<br> [Quagsire]<br> Lv. 72   | ![][473]<br> [Mamoswine]<br> Lv. 72  | ![][051]<br> [Dugtrio]<br> Lv. 72    | ![][389]<br> [Torterra]<br> Lv. 72   | ![][464]<br> [Rhyperior]<br> Lv. 73  
-Elite Four Flint  | ![][038]<br> [Ninetales]<br> Lv. 73  | ![][229]<br> [Houndoom]<br> Lv. 73   | ![][136]<br> [Flareon]<br> Lv. 73    | ![][078]<br> [Rapidash]<br> Lv. 73   | ![][392]<br> [Infernape]<br> Lv. 73  | ![][467]<br> [Magmortar]<br> Lv. 74  
-Elite Four Flint  | ![][078]<br> [Rapidash]<br> Lv. 73   | ![][428]<br> [Lopunny]<br> Lv. 73    | ![][426]<br> [Drifblim]<br> Lv. 73   | ![][208]<br> [Steelix]<br> Lv. 73    | ![][392]<br> [Infernape]<br> Lv. 73  | ![][467]<br> [Magmortar]<br> Lv. 74  
-Elite Four Flint  | ![][038]<br> [Ninetales]<br> Lv. 73  | ![][059]<br> [Arcanine]<br> Lv. 73   | ![][219]<br> [Magcargo]<br> Lv. 73   | ![][428]<br> [Lopunny]<br> Lv. 73    | ![][006]<br> [Charizard]<br> Lv. 73  | ![][467]<br> [Magmortar]<br> Lv. 74  
-Elite Four Flint  | ![][324]<br> [Torkoal]<br> Lv. 73    | ![][229]<br> [Houndoom]<br> Lv. 73   | ![][059]<br> [Arcanine]<br> Lv. 73   | ![][426]<br> [Drifblim]<br> Lv. 73   | ![][157]<br> [Typhlosion]<br> Lv. 73 | ![][467]<br> [Magmortar]<br> Lv. 74  
-Elite Four Lucian | ![][122]<br> [Mr. Mime]<br> Lv. 74   | ![][196]<br> [Espeon]<br> Lv. 74     | ![][437]<br> [Bronzong]<br> Lv. 74   | ![][065]<br> [Alakazam]<br> Lv. 74   | ![][376]<br> [Metagross]<br> Lv. 74  | ![][475]<br> [Gallade]<br> Lv. 75    
-Elite Four Lucian | ![][196]<br> [Espeon]<br> Lv. 74     | ![][203]<br> [Girafarig]<br> Lv. 74  | ![][308]<br> [Medicham]<br> Lv. 74   | ![][121]<br> [Starmie]<br> Lv. 74    | ![][103]<br> [Exeggutor]<br> Lv. 74  | ![][475]<br> [Gallade]<br> Lv. 75    
-Elite Four Lucian | ![][097]<br> [Hypno]<br> Lv. 74      | ![][080]<br> [Slowbro]<br> Lv. 74    | ![][282]<br> [Gardevoir]<br> Lv. 74  | ![][124]<br> [Jynx]<br> Lv. 74       | ![][437]<br> [Bronzong]<br> Lv. 74   | ![][475]<br> [Gallade]<br> Lv. 75    
-Elite Four Lucian | ![][065]<br> [Alakazam]<br> Lv. 74   | ![][282]<br> [Gardevoir]<br> Lv. 74  | ![][103]<br> [Exeggutor]<br> Lv. 74  | ![][121]<br> [Starmie]<br> Lv. 74    | ![][376]<br> [Metagross]<br> Lv. 74  | ![][475]<br> [Gallade]<br> Lv. 75    
-Champion Cynthia  | ![][442]<br> [Spiritomb]<br> Lv. 77  | ![][407]<br> [Roserade]<br> Lv. 77   | ![][468]<br> [Togekiss]<br> Lv. 77   | ![][448]<br> [Lucario]<br> Lv. 77    | ![][350]<br> [Milotic]<br> Lv. 77    | ![][445]<br> [Garchomp]<br> Lv. 78   
-Champion Cynthia  | ![][350]<br> [Milotic]<br> Lv. 77    | ![][442]<br> [Spiritomb]<br> Lv. 77  | ![][181]<br> [Ampharos]<br> Lv. 77   | ![][398]<br> [Staraptor]<br> Lv. 77  | ![][448]<br> [Lucario]<br> Lv. 77    | ![][445]<br> [Garchomp]<br> Lv. 78   
-Champion Cynthia  | ![][468]<br> [Togekiss]<br> Lv. 77   | ![][350]<br> [Milotic]<br> Lv. 77    | ![][442]<br> [Spiritomb]<br> Lv. 77  | ![][448]<br> [Lucario]<br> Lv. 77    | ![][471]<br> [Glaceon]<br> Lv. 77    | ![][445]<br> [Garchomp]<br> Lv. 78   
-Champion Cynthia  | ![][036]<br> [Clefable]<br> Lv. 77   | ![][407]<br> [Roserade]<br> Lv. 77   | ![][429]<br> [Mismagius]<br> Lv. 77  | ![][428]<br> [Lopunny]<br> Lv. 77    | ![][350]<br> [Milotic]<br> Lv. 77    | ![][445]<br> [Garchomp]<br> Lv. 78   
-
-#### Round 2
-
-Trainer           | 1                                   | 2                                   | 3                                   | 4                                   | 5                                   | 6                                   
----               | ---                                 | ---                                 | ---                                 | ---                                 | ---                                 | ---                                 
-Elite Four Aaron  | ![][469]<br> [Yanmega]<br> Lv. 83   | ![][212]<br> [Scizor]<br> Lv. 83    | ![][214]<br> [Heracross]<br> Lv. 83 | ![][123]<br> [Scyther]<br> Lv. 83   | ![][348]<br> [Armaldo]<br> Lv. 83   | ![][452]<br> [Drapion]<br> Lv. 84   
-Elite Four Bertha | ![][260]<br> [Swampert]<br> Lv. 84  | ![][472]<br> [Gliscor]<br> Lv. 84   | ![][248]<br> [Tyranitar]<br> Lv. 84 | ![][051]<br> [Dugtrio]<br> Lv. 84   | ![][464]<br> [Rhyperior]<br> Lv. 85 
-Elite Four Flint  | ![][038]<br> [Ninetales]<br> Lv. 85 | ![][229]<br> [Houndoom]<br> Lv. 85  | ![][467]<br> [Magmortar]<br> Lv. 85 | ![][392]<br> [Infernape]<br> Lv. 85 | ![][078]<br> [Rapidash]<br> Lv. 85  | ![][146]<br> [Moltres]<br> Lv. 86   
-Elite Four Lucian | ![][122]<br> [Mr. Mime]<br> Lv. 86  | ![][196]<br> [Espeon]<br> Lv. 86    | ![][475]<br> [Gallade]<br> Lv. 86   | ![][376]<br> [Metagross]<br> Lv. 86 | ![][065]<br> [Alakazam]<br> Lv. 86  | ![][381]<br> [Latios]<br> Lv. 87    
-Champion Cynthia  | ![][442]<br> [Spiritomb]<br> Lv. 88 | ![][468]<br> [Togekiss]<br> Lv. 88  | ![][448]<br> [Lucario]<br> Lv. 88   | ![][445]<br> [Garchomp]<br> Lv. 88  | ![][350]<br> [Milotic]<br> Lv. 88   | ![][384]<br> [Rayquaza]<br> Lv. 89  
+Trainer           | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6
+---               | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---
+Elite Four Aaron  | ![][469]<br> [Yanmega]<br> Lv. 71    | ![][212]<br> [Scizor]<br> Lv. 71     | ![][214]<br> [Heracross]<br> Lv. 71  | ![][416]<br> [Vespiquen]<br> Lv. 71  | ![][348]<br> [Armaldo]<br> Lv. 71    | ![][452]<br> [Drapion]<br> Lv. 72
+Elite Four Aaron  | ![][049]<br> [Venomoth]<br> Lv. 71   | ![][123]<br> [Scyther]<br> Lv. 71    | ![][127]<br> [Pinsir]<br> Lv. 71     | ![][205]<br> [Forretress]<br> Lv. 71 | ![][348]<br> [Armaldo]<br> Lv. 71    | ![][452]<br> [Drapion]<br> Lv. 72
+Elite Four Aaron  | ![][284]<br> [Masquerain]<br> Lv. 71 | ![][267]<br> [Beautifly]<br> Lv. 71  | ![][214]<br> [Heracross]<br> Lv. 71  | ![][212]<br> [Scizor]<br> Lv. 71     | ![][269]<br> [Dustox]<br> Lv. 71     | ![][452]<br> [Drapion]<br> Lv. 72
+Elite Four Aaron  | ![][123]<br> [Scyther]<br> Lv. 71    | ![][469]<br> [Yanmega]<br> Lv. 71    | ![][127]<br> [Pinsir]<br> Lv. 71     | ![][212]<br> [Scizor]<br> Lv. 71     | ![][330]<br> [Flygon]<br> Lv. 71     | ![][452]<br> [Drapion]<br> Lv. 72
+Elite Four Bertha | ![][450]<br> [Hippowdon]<br> Lv. 72  | ![][340]<br> [Whiscash]<br> Lv. 72   | ![][472]<br> [Gliscor]<br> Lv. 72    | ![][076]<br> [Golem]<br> Lv. 72      | ![][232]<br> [Donphan]<br> Lv. 72    | ![][464]<br> [Rhyperior]<br> Lv. 73
+Elite Four Bertha | ![][450]<br> [Hippowdon]<br> Lv. 72  | ![][185]<br> [Sudowoodo]<br> Lv. 72  | ![][472]<br> [Gliscor]<br> Lv. 72    | ![][389]<br> [Torterra]<br> Lv. 72   | ![][323]<br> [Camerupt]<br> Lv. 72   | ![][464]<br> [Rhyperior]<br> Lv. 73
+Elite Four Bertha | ![][248]<br> [Tyranitar]<br> Lv. 72  | ![][260]<br> [Swampert]<br> Lv. 72   | ![][051]<br> [Dugtrio]<br> Lv. 72    | ![][473]<br> [Mamoswine]<br> Lv. 72  | ![][344]<br> [Claydol]<br> Lv. 72    | ![][464]<br> [Rhyperior]<br> Lv. 73
+Elite Four Bertha | ![][248]<br> [Tyranitar]<br> Lv. 72  | ![][195]<br> [Quagsire]<br> Lv. 72   | ![][473]<br> [Mamoswine]<br> Lv. 72  | ![][051]<br> [Dugtrio]<br> Lv. 72    | ![][389]<br> [Torterra]<br> Lv. 72   | ![][464]<br> [Rhyperior]<br> Lv. 73
+Elite Four Flint  | ![][038]<br> [Ninetales]<br> Lv. 73  | ![][229]<br> [Houndoom]<br> Lv. 73   | ![][136]<br> [Flareon]<br> Lv. 73    | ![][078]<br> [Rapidash]<br> Lv. 73   | ![][392]<br> [Infernape]<br> Lv. 73  | ![][467]<br> [Magmortar]<br> Lv. 74
+Elite Four Flint  | ![][078]<br> [Rapidash]<br> Lv. 73   | ![][428]<br> [Lopunny]<br> Lv. 73    | ![][426]<br> [Drifblim]<br> Lv. 73   | ![][208]<br> [Steelix]<br> Lv. 73    | ![][392]<br> [Infernape]<br> Lv. 73  | ![][467]<br> [Magmortar]<br> Lv. 74
+Elite Four Flint  | ![][038]<br> [Ninetales]<br> Lv. 73  | ![][059]<br> [Arcanine]<br> Lv. 73   | ![][219]<br> [Magcargo]<br> Lv. 73   | ![][428]<br> [Lopunny]<br> Lv. 73    | ![][006]<br> [Charizard]<br> Lv. 73  | ![][467]<br> [Magmortar]<br> Lv. 74
+Elite Four Flint  | ![][324]<br> [Torkoal]<br> Lv. 73    | ![][229]<br> [Houndoom]<br> Lv. 73   | ![][059]<br> [Arcanine]<br> Lv. 73   | ![][426]<br> [Drifblim]<br> Lv. 73   | ![][157]<br> [Typhlosion]<br> Lv. 73 | ![][467]<br> [Magmortar]<br> Lv. 74
+Elite Four Lucian | ![][122]<br> [Mr. Mime]<br> Lv. 74   | ![][196]<br> [Espeon]<br> Lv. 74     | ![][437]<br> [Bronzong]<br> Lv. 74   | ![][065]<br> [Alakazam]<br> Lv. 74   | ![][376]<br> [Metagross]<br> Lv. 74  | ![][475]<br> [Gallade]<br> Lv. 75
+Elite Four Lucian | ![][196]<br> [Espeon]<br> Lv. 74     | ![][203]<br> [Girafarig]<br> Lv. 74  | ![][308]<br> [Medicham]<br> Lv. 74   | ![][121]<br> [Starmie]<br> Lv. 74    | ![][103]<br> [Exeggutor]<br> Lv. 74  | ![][475]<br> [Gallade]<br> Lv. 75
+Elite Four Lucian | ![][097]<br> [Hypno]<br> Lv. 74      | ![][080]<br> [Slowbro]<br> Lv. 74    | ![][282]<br> [Gardevoir]<br> Lv. 74  | ![][124]<br> [Jynx]<br> Lv. 74       | ![][437]<br> [Bronzong]<br> Lv. 74   | ![][475]<br> [Gallade]<br> Lv. 75
+Elite Four Lucian | ![][065]<br> [Alakazam]<br> Lv. 74   | ![][282]<br> [Gardevoir]<br> Lv. 74  | ![][103]<br> [Exeggutor]<br> Lv. 74  | ![][121]<br> [Starmie]<br> Lv. 74    | ![][376]<br> [Metagross]<br> Lv. 74  | ![][475]<br> [Gallade]<br> Lv. 75
+Champion Cynthia  | ![][442]<br> [Spiritomb]<br> Lv. 77  | ![][407]<br> [Roserade]<br> Lv. 77   | ![][468]<br> [Togekiss]<br> Lv. 77   | ![][448]<br> [Lucario]<br> Lv. 77    | ![][350]<br> [Milotic]<br> Lv. 77    | ![][445]<br> [Garchomp]<br> Lv. 78
+Champion Cynthia  | ![][350]<br> [Milotic]<br> Lv. 77    | ![][442]<br> [Spiritomb]<br> Lv. 77  | ![][181]<br> [Ampharos]<br> Lv. 77   | ![][398]<br> [Staraptor]<br> Lv. 77  | ![][448]<br> [Lucario]<br> Lv. 77    | ![][445]<br> [Garchomp]<br> Lv. 78
+Champion Cynthia  | ![][468]<br> [Togekiss]<br> Lv. 77   | ![][350]<br> [Milotic]<br> Lv. 77    | ![][442]<br> [Spiritomb]<br> Lv. 77  | ![][448]<br> [Lucario]<br> Lv. 77    | ![][471]<br> [Glaceon]<br> Lv. 77    | ![][445]<br> [Garchomp]<br> Lv. 78
+Champion Cynthia  | ![][036]<br> [Clefable]<br> Lv. 77   | ![][407]<br> [Roserade]<br> Lv. 77   | ![][429]<br> [Mismagius]<br> Lv. 77  | ![][428]<br> [Lopunny]<br> Lv. 77    | ![][350]<br> [Milotic]<br> Lv. 77    | ![][445]<br> [Garchomp]<br> Lv. 78
 
 PKMN Trainer Barry  | Item         | Nature  | Ability       | Moves
 ---                 | ---          | ---     | ---           | ---
@@ -238,6 +229,16 @@ PKMN Trainer Barry  | Item         | Nature  | Ability       | Moves
 ![][428]<br> [Lopunny] Lv. 77         | ![][life-orb]<br> Life Orb              | Hasty    | Scrappy (!)         | High Jump Kick, Mega Kick, Ice Punch, Fake Out
 ![][350]<br> [Milotic] Lv. 77         | ![][leftovers]<br> Leftovers            | Calm     | Marvel Scale        | Hydro Pump, Ice Beam, Rest, Sleep Talk
 ![][445]<br> [Garchomp] Lv. 78        | ![][yache-berry]<br> Yache Berry        | Hasty    | Rough Skin          | Earthquake, Outrage, Stone Edge, Swords Dance
+
+#### Round 2
+
+Trainer           | 1                                   | 2                                   | 3                                   | 4                                   | 5                                   | 6
+---               | ---                                 | ---                                 | ---                                 | ---                                 | ---                                 | ---
+Elite Four Aaron  | ![][469]<br> [Yanmega]<br> Lv. 83   | ![][212]<br> [Scizor]<br> Lv. 83    | ![][214]<br> [Heracross]<br> Lv. 83 | ![][123]<br> [Scyther]<br> Lv. 83   | ![][348]<br> [Armaldo]<br> Lv. 83   | ![][452]<br> [Drapion]<br> Lv. 84
+Elite Four Bertha | ![][260]<br> [Swampert]<br> Lv. 84  | ![][472]<br> [Gliscor]<br> Lv. 84   | ![][248]<br> [Tyranitar]<br> Lv. 84 | ![][051]<br> [Dugtrio]<br> Lv. 84   | ![][464]<br> [Rhyperior]<br> Lv. 85
+Elite Four Flint  | ![][038]<br> [Ninetales]<br> Lv. 85 | ![][229]<br> [Houndoom]<br> Lv. 85  | ![][467]<br> [Magmortar]<br> Lv. 85 | ![][392]<br> [Infernape]<br> Lv. 85 | ![][078]<br> [Rapidash]<br> Lv. 85  | ![][146]<br> [Moltres]<br> Lv. 86
+Elite Four Lucian | ![][122]<br> [Mr. Mime]<br> Lv. 86  | ![][196]<br> [Espeon]<br> Lv. 86    | ![][475]<br> [Gallade]<br> Lv. 86   | ![][376]<br> [Metagross]<br> Lv. 86 | ![][065]<br> [Alakazam]<br> Lv. 86  | ![][381]<br> [Latios]<br> Lv. 87
+Champion Cynthia  | ![][442]<br> [Spiritomb]<br> Lv. 88 | ![][468]<br> [Togekiss]<br> Lv. 88  | ![][448]<br> [Lucario]<br> Lv. 88   | ![][445]<br> [Garchomp]<br> Lv. 88  | ![][350]<br> [Milotic]<br> Lv. 88   | ![][384]<br> [Rayquaza]<br> Lv. 89
 
 (R2) Elite Four Aaron | Item         | Nature  | Ability       | Moves
 ---                   | ---          | ---     | ---           | ---
