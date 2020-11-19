@@ -5,11 +5,14 @@
 
 Levels: 18 - 19 (Walking)
 
-Area       | Pokémon
----        | ---
-Morning    | ![][074]  [Geodude] (20%) ![][436]  [Bronzor] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][041]  [Zubat] (10%)  ![][374]  [Beldum] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
-Day        | ![][074]  [Geodude] (20%) ![][436]  [Bronzor] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][041]  [Zubat] (10%)  ![][374]  [Beldum] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
-Night      | ![][074]  [Geodude] (20%) ![][436]  [Bronzor] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][041]  [Zubat] (10%)  ![][374]  [Beldum] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
+Area         | Pokémon                         | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                          
+---          | ---                             | ---                             | ---                             | ---                             | ---                             | ---                             
+🌅<br>Morning | ![][074]<br> [Geodude]<br> 20% | ![][436]<br> [Bronzor]<br> 20% | ![][035]<br> [Clefairy]<br> 10%| ![][299]<br> [Nosepass]<br> 10%| ![][358]<br> [Chimecho]<br> 10%| ![][041]<br> [Zubat]<br> 10%   
+&nbsp;       | ![][374]<br> [Beldum]<br> 10%  | ![][338]<br> [Solrock]<br> 5%  | ![][337]<br> [Lunatone]<br> 5% 
+🌞<br>Day     | ![][074]<br> [Geodude]<br> 20% | ![][436]<br> [Bronzor]<br> 20% | ![][035]<br> [Clefairy]<br> 10%| ![][299]<br> [Nosepass]<br> 10%| ![][358]<br> [Chimecho]<br> 10%| ![][041]<br> [Zubat]<br> 10%   
+&nbsp;       | ![][374]<br> [Beldum]<br> 10%  | ![][338]<br> [Solrock]<br> 5%  | ![][337]<br> [Lunatone]<br> 5% 
+🌙<br>Night   | ![][074]<br> [Geodude]<br> 20% | ![][436]<br> [Bronzor]<br> 20% | ![][035]<br> [Clefairy]<br> 10%| ![][299]<br> [Nosepass]<br> 10%| ![][358]<br> [Chimecho]<br> 10%| ![][041]<br> [Zubat]<br> 10%   
+&nbsp;       | ![][374]<br> [Beldum]<br> 10%  | ![][338]<br> [Solrock]<br> 5%  | ![][337]<br> [Lunatone]<br> 5% 
 
 
 [Clefairy]: /pokemon_changes/035/

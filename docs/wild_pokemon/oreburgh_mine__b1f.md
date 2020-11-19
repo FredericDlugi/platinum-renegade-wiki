@@ -1,11 +1,11 @@
 # Oreburgh Mine ~ B1F
 Levels: 10 - 11 (Walking)
 
-Area       | Pokémon
----        | ---
-Morning    | ![][074]  [Geodude] (25%) ![][041]  [Zubat] (25%) ![][293]  [Whismur] (20%)  ![][304]  [Aron] (10%) ![][095]  [Onix] (10%) ![][328]  [Trapinch] (10%)<br>
-Day        | ![][074]  [Geodude] (25%) ![][041]  [Zubat] (25%) ![][293]  [Whismur] (20%)  ![][304]  [Aron] (10%) ![][095]  [Onix] (10%) ![][328]  [Trapinch] (10%)<br>
-Night      | ![][074]  [Geodude] (25%) ![][041]  [Zubat] (25%) ![][293]  [Whismur] (20%)  ![][304]  [Aron] (10%) ![][095]  [Onix] (10%) ![][328]  [Trapinch] (10%)<br>
+Area         | Pokémon                         | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                          
+---          | ---                             | ---                             | ---                             | ---                             | ---                             | ---                             
+🌅<br>Morning | ![][074]<br> [Geodude]<br> 25% | ![][041]<br> [Zubat]<br> 25%   | ![][293]<br> [Whismur]<br> 20% | ![][304]<br> [Aron]<br> 10%    | ![][095]<br> [Onix]<br> 10%    | ![][328]<br> [Trapinch]<br> 10%
+🌞<br>Day     | ![][074]<br> [Geodude]<br> 25% | ![][041]<br> [Zubat]<br> 25%   | ![][293]<br> [Whismur]<br> 20% | ![][304]<br> [Aron]<br> 10%    | ![][095]<br> [Onix]<br> 10%    | ![][328]<br> [Trapinch]<br> 10%
+🌙<br>Night   | ![][074]<br> [Geodude]<br> 25% | ![][041]<br> [Zubat]<br> 25%   | ![][293]<br> [Whismur]<br> 20% | ![][304]<br> [Aron]<br> 10%    | ![][095]<br> [Onix]<br> 10%    | ![][328]<br> [Trapinch]<br> 10%
 
 
 [Zubat]: /pokemon_changes/041/

@@ -5,12 +5,12 @@
 
 Levels: 50 - 60 (Surfing)
 
-Area       | Pokémon
----        | ---
-Surf       | ![][073]  [Tentacruel] (60%) ![][279]  [Pelipper] (30%) ![][226]  [Mantine] (10%)
-Old Rod    | ![][129]  [Magikarp] (60%) ![][223]  [Remoraid] (30%) ![][320]  [Wailmer] (10%)
-Good Rod   | ![][129]  [Magikarp] (60%) ![][223]  [Remoraid] (30%) ![][320]  [Wailmer] (10%)
-Super Rod  | ![][130]  [Gyarados] (60%) ![][320]  [Wailmer] (30%) ![][224]  [Octillery] (5%)  ![][321]  [Wailord] (5%)
+Area                         | Pokémon                           | &nbsp;                            | &nbsp;                            | &nbsp;                            
+---                          | ---                               | ---                               | ---                               | ---                               
+🌊<br> Surf                   | ![][073]<br> [Tentacruel]<br> 60%| ![][279]<br> [Pelipper]<br> 30%  | ![][226]<br> [Mantine]<br> 10%   
+![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 60%  | ![][223]<br> [Remoraid]<br> 30%  | ![][320]<br> [Wailmer]<br> 10%   
+![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60%  | ![][223]<br> [Remoraid]<br> 30%  | ![][320]<br> [Wailmer]<br> 10%   
+![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60%  | ![][320]<br> [Wailmer]<br> 30%   | ![][224]<br> [Octillery]<br> 5%  | ![][321]<br> [Wailord]<br> 5%    
 
 
 [Tentacruel]: /pokemon_changes/073/
@@ -22,6 +22,9 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][320]  [Wailmer] (30%) ![][224]  [Oct
 [Pelipper]: /pokemon_changes/279/
 [Wailmer]: /pokemon_changes/320/
 [Wailord]: /pokemon_changes/321/
+[good-rod]: /img/items/good-rod.png
+[old-rod]: /img/items/old-rod.png
+[super-rod]: /img/items/super-rod.png
 [073]: /img/pokemon/073.png
 [129]: /img/pokemon/129.png
 [130]: /img/pokemon/130.png

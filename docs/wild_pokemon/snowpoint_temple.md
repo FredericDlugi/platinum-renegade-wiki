@@ -1,11 +1,14 @@
 # Snowpoint Temple
 Levels: 47 - 50
 
-Area       | Pokémon
----        | ---
-Morning    | ![][042]  [Golbat] (25%) ![][075]  [Graveler] (20%) ![][215]  [Sneasel] (20%)  ![][208]  [Steelix] (10%) ![][124]  [Jynx] (10%) ![][362]  [Glalie] (5%)  ![][478]  [Froslass] (5%) ![][461]  [Weavile] (5%)
-Day        | ![][042]  [Golbat] (25%) ![][075]  [Graveler] (20%) ![][215]  [Sneasel] (20%)  ![][208]  [Steelix] (10%) ![][124]  [Jynx] (10%) ![][362]  [Glalie] (5%)  ![][478]  [Froslass] (5%) ![][461]  [Weavile] (5%)
-Night      | ![][042]  [Golbat] (25%) ![][075]  [Graveler] (20%) ![][215]  [Sneasel] (20%)  ![][208]  [Steelix] (10%) ![][124]  [Jynx] (10%) ![][362]  [Glalie] (5%)  ![][478]  [Froslass] (5%) ![][461]  [Weavile] (5%)
+Area         | Pokémon                         | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                          
+---          | ---                             | ---                             | ---                             | ---                             | ---                             | ---                             
+🌅<br>Morning | ![][042]<br> [Golbat]<br> 25%  | ![][075]<br> [Graveler]<br> 20%| ![][215]<br> [Sneasel]<br> 20% | ![][208]<br> [Steelix]<br> 10% | ![][124]<br> [Jynx]<br> 10%    | ![][362]<br> [Glalie]<br> 5%   
+&nbsp;       | ![][478]<br> [Froslass]<br> 5% | ![][461]<br> [Weavile]<br> 5%  
+🌞<br>Day     | ![][042]<br> [Golbat]<br> 25%  | ![][075]<br> [Graveler]<br> 20%| ![][215]<br> [Sneasel]<br> 20% | ![][208]<br> [Steelix]<br> 10% | ![][124]<br> [Jynx]<br> 10%    | ![][362]<br> [Glalie]<br> 5%   
+&nbsp;       | ![][478]<br> [Froslass]<br> 5% | ![][461]<br> [Weavile]<br> 5%  
+🌙<br>Night   | ![][042]<br> [Golbat]<br> 25%  | ![][075]<br> [Graveler]<br> 20%| ![][215]<br> [Sneasel]<br> 20% | ![][208]<br> [Steelix]<br> 10% | ![][124]<br> [Jynx]<br> 10%    | ![][362]<br> [Glalie]<br> 5%   
+&nbsp;       | ![][478]<br> [Froslass]<br> 5% | ![][461]<br> [Weavile]<br> 5%  
 
 
 [Golbat]: /pokemon_changes/042/

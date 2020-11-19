@@ -5,17 +5,20 @@
 
 Levels: 23 - 24 (Walking) 20 - 40 (Surfing) 23 (Honey Tree)
 
-Area       | Pokémon
----        | ---
-Morning    | ![][400]  [Bibarel] (20%) ![][315]  [Roselia] (20%) ![][300]  [Skitty] (10%)  ![][039]  [Jigglypuff] (10%) ![][281]  [Kirlia] (10%) ![][335]  [Zangoose] (10%)  ![][336]  [Seviper] (10%) ![][235]  [Smeargle] (10%)
-Day        | ![][400]  [Bibarel] (20%) ![][315]  [Roselia] (20%) ![][300]  [Skitty] (10%)  ![][039]  [Jigglypuff] (10%) ![][281]  [Kirlia] (10%) ![][335]  [Zangoose] (10%)  ![][336]  [Seviper] (10%) ![][235]  [Smeargle] (10%)
-Night      | ![][400]  [Bibarel] (20%) ![][315]  [Roselia] (20%) ![][300]  [Skitty] (10%)  ![][039]  [Jigglypuff] (10%) ![][281]  [Kirlia] (10%) ![][335]  [Zangoose] (10%)  ![][336]  [Seviper] (10%) ![][235]  [Smeargle] (10%)
-Poké Radar | ![][206]  [Dunsparce] (22%)
-Surf       | ![][054]  [Psyduck] (90%) ![][055]  [Golduck] (10%)
-Old Rod    | ![][129]  [Magikarp] (60%) ![][118]  [Goldeen] (30%) ![][223]  [Remoraid] (10%)
-Good Rod   | ![][129]  [Magikarp] (60%) ![][118]  [Goldeen] (30%) ![][223]  [Remoraid] (10%)
-Super Rod  | ![][130]  [Gyarados] (60%) ![][119]  [Seaking] (30%) ![][224]  [Octillery] (10%)
-Honey Tree | ![][420]  [Cherubi] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Exeggcute] (20%)  ![][273]  [Seedot] (20%) ![][114]  [Tangela] (10%)
+Area                           | Pokémon                           | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            
+---                            | ---                               | ---                               | ---                               | ---                               | ---                               | ---                               
+🌅<br>Morning                   | ![][400]<br> [Bibarel]<br> 20%   | ![][315]<br> [Roselia]<br> 20%   | ![][300]<br> [Skitty]<br> 10%    | ![][039]<br> [Jigglypuff]<br> 10%| ![][281]<br> [Kirlia]<br> 10%    | ![][335]<br> [Zangoose]<br> 10%  
+&nbsp;                         | ![][336]<br> [Seviper]<br> 10%   | ![][235]<br> [Smeargle]<br> 10%  
+🌞<br>Day                       | ![][400]<br> [Bibarel]<br> 20%   | ![][315]<br> [Roselia]<br> 20%   | ![][300]<br> [Skitty]<br> 10%    | ![][039]<br> [Jigglypuff]<br> 10%| ![][281]<br> [Kirlia]<br> 10%    | ![][335]<br> [Zangoose]<br> 10%  
+&nbsp;                         | ![][336]<br> [Seviper]<br> 10%   | ![][235]<br> [Smeargle]<br> 10%  
+🌙<br>Night                     | ![][400]<br> [Bibarel]<br> 20%   | ![][315]<br> [Roselia]<br> 20%   | ![][300]<br> [Skitty]<br> 10%    | ![][039]<br> [Jigglypuff]<br> 10%| ![][281]<br> [Kirlia]<br> 10%    | ![][335]<br> [Zangoose]<br> 10%  
+&nbsp;                         | ![][336]<br> [Seviper]<br> 10%   | ![][235]<br> [Smeargle]<br> 10%  
+![][poke-radar]<br> Poké Radar | ![][206]<br> [Dunsparce]<br> 22% 
+🌊<br> Surf                     | ![][054]<br> [Psyduck]<br> 90%   | ![][055]<br> [Golduck]<br> 10%   
+![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 60%  | ![][118]<br> [Goldeen]<br> 30%   | ![][223]<br> [Remoraid]<br> 10%  
+![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 60%  | ![][118]<br> [Goldeen]<br> 30%   | ![][223]<br> [Remoraid]<br> 10%  
+![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60%  | ![][119]<br> [Seaking]<br> 30%   | ![][224]<br> [Octillery]<br> 10% 
+![][honey]<br> Honey Tree      | ![][420]<br> [Cherubi]<br> 30%   | ![][285]<br> [Shroomish]<br> 20% | ![][102]<br> [Exeggcute]<br> 20% | ![][273]<br> [Seedot]<br> 20%    | ![][114]<br> [Tangela]<br> 10%   
 
 
 [Jigglypuff]: /pokemon_changes/039/
@@ -40,6 +43,11 @@ Honey Tree | ![][420]  [Cherubi] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Ex
 [Seviper]: /pokemon_changes/336/
 [Bibarel]: /pokemon_changes/400/
 [Cherubi]: /pokemon_changes/420/
+[good-rod]: /img/items/good-rod.png
+[honey]: /img/items/honey.png
+[old-rod]: /img/items/old-rod.png
+[poke-radar]: /img/items/poke-radar.png
+[super-rod]: /img/items/super-rod.png
 [039]: /img/pokemon/039.png
 [054]: /img/pokemon/054.png
 [055]: /img/pokemon/055.png

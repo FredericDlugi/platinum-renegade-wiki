@@ -5,17 +5,20 @@
 
 Levels: 33 - 36 (Walking) 20 - 40 (Surfing) Honey Tree (34)
 
-Area       | Pokémon
----        | ---
-Morning    | ![][453]  [Croagunk] (20%) ![][088]  [Grimer] (20%) ![][109]  [Koffing] (15%)  ![][023]  [Ekans] (15%) ![][070]  [Weepinbell] (10%) ![][271]  [Lombre] (10%)  ![][024]  [Arbok] (5%) ![][454]  [Toxicroak] (5%)
-Day        | ![][453]  [Croagunk] (20%) ![][088]  [Grimer] (20%) ![][109]  [Koffing] (15%)  ![][023]  [Ekans] (15%) ![][070]  [Weepinbell] (10%) ![][271]  [Lombre] (10%)  ![][024]  [Arbok] (5%) ![][454]  [Toxicroak] (5%)
-Night      | ![][453]  [Croagunk] (20%) ![][088]  [Grimer] (20%) ![][109]  [Koffing] (15%)  ![][023]  [Ekans] (15%) ![][070]  [Weepinbell] (10%) ![][271]  [Lombre] (10%)  ![][024]  [Arbok] (5%) ![][454]  [Toxicroak] (5%)
-Poké Radar | ![][089]  [Muk] (11%) ![][110]  [Weezing] (11%)
-Surf       | ![][422]  [Shellos] (60%) ![][194]  [Wooper] (30%) ![][423]  [Gastrodon] (5%)  ![][195]  [Quagsire] (5%)
-Old Rod    | ![][129]  [Magikarp] (60%) ![][339]  [Barboach] (30%) ![][223]  [Remoraid] (10%)
-Good Rod   | ![][129]  [Magikarp] (60%) ![][339]  [Barboach] (30%) ![][223]  [Remoraid] (10%)
-Super Rod  | ![][130]  [Gyarados] (60%) ![][340]  [Whiscash] (30%) ![][224]  [Octillery] (10%)
-Honey Tree | ![][421]  [Cherrim] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Exeggcute] (20%)  ![][274]  [Nuzleaf] (20%) ![][114]  [Tangela] (10%)
+Area                           | Pokémon                           | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            
+---                            | ---                               | ---                               | ---                               | ---                               | ---                               | ---                               
+🌅<br>Morning                   | ![][453]<br> [Croagunk]<br> 20%  | ![][088]<br> [Grimer]<br> 20%    | ![][109]<br> [Koffing]<br> 15%   | ![][023]<br> [Ekans]<br> 15%     | ![][070]<br> [Weepinbell]<br> 10%| ![][271]<br> [Lombre]<br> 10%    
+&nbsp;                         | ![][024]<br> [Arbok]<br> 5%      | ![][454]<br> [Toxicroak]<br> 5%  
+🌞<br>Day                       | ![][453]<br> [Croagunk]<br> 20%  | ![][088]<br> [Grimer]<br> 20%    | ![][109]<br> [Koffing]<br> 15%   | ![][023]<br> [Ekans]<br> 15%     | ![][070]<br> [Weepinbell]<br> 10%| ![][271]<br> [Lombre]<br> 10%    
+&nbsp;                         | ![][024]<br> [Arbok]<br> 5%      | ![][454]<br> [Toxicroak]<br> 5%  
+🌙<br>Night                     | ![][453]<br> [Croagunk]<br> 20%  | ![][088]<br> [Grimer]<br> 20%    | ![][109]<br> [Koffing]<br> 15%   | ![][023]<br> [Ekans]<br> 15%     | ![][070]<br> [Weepinbell]<br> 10%| ![][271]<br> [Lombre]<br> 10%    
+&nbsp;                         | ![][024]<br> [Arbok]<br> 5%      | ![][454]<br> [Toxicroak]<br> 5%  
+![][poke-radar]<br> Poké Radar | ![][089]<br> [Muk]<br> 11%       | ![][110]<br> [Weezing]<br> 11%   
+🌊<br> Surf                     | ![][422]<br> [Shellos]<br> 60%   | ![][194]<br> [Wooper]<br> 30%    | ![][423]<br> [Gastrodon]<br> 5%  | ![][195]<br> [Quagsire]<br> 5%   
+![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 60%  | ![][339]<br> [Barboach]<br> 30%  | ![][223]<br> [Remoraid]<br> 10%  
+![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 60%  | ![][339]<br> [Barboach]<br> 30%  | ![][223]<br> [Remoraid]<br> 10%  
+![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60%  | ![][340]<br> [Whiscash]<br> 30%  | ![][224]<br> [Octillery]<br> 10% 
+![][honey]<br> Honey Tree      | ![][421]<br> [Cherrim]<br> 30%   | ![][285]<br> [Shroomish]<br> 20% | ![][102]<br> [Exeggcute]<br> 20% | ![][274]<br> [Nuzleaf]<br> 20%   | ![][114]<br> [Tangela]<br> 10%   
 
 
 [Ekans]: /pokemon_changes/023/
@@ -43,6 +46,11 @@ Honey Tree | ![][421]  [Cherrim] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Ex
 [Gastrodon]: /pokemon_changes/423/
 [Croagunk]: /pokemon_changes/453/
 [Toxicroak]: /pokemon_changes/454/
+[good-rod]: /img/items/good-rod.png
+[honey]: /img/items/honey.png
+[old-rod]: /img/items/old-rod.png
+[poke-radar]: /img/items/poke-radar.png
+[super-rod]: /img/items/super-rod.png
 [023]: /img/pokemon/023.png
 [024]: /img/pokemon/024.png
 [070]: /img/pokemon/070.png

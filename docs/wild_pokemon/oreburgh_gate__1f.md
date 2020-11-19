@@ -1,11 +1,11 @@
 # Oreburgh Gate ~ 1F
 Levels: 7 - 9 (Walking)
 
-Area       | Pokémon
----        | ---
-Morning    | ![][041]  [Zubat] (35%) ![][074]  [Geodude] (35%) ![][050]  [Diglett] (20%)  ![][447]  [Riolu] (10%)
-Day        | ![][041]  [Zubat] (35%) ![][074]  [Geodude] (35%) ![][050]  [Diglett] (20%)  ![][447]  [Riolu] (10%)
-Night      | ![][041]  [Zubat] (35%) ![][074]  [Geodude] (35%) ![][050]  [Diglett] (20%)  ![][447]  [Riolu] (10%)
+Area         | Pokémon                        | &nbsp;                         | &nbsp;                         | &nbsp;                         
+---          | ---                            | ---                            | ---                            | ---                            
+🌅<br>Morning | ![][041]<br> [Zubat]<br> 35%  | ![][074]<br> [Geodude]<br> 35%| ![][050]<br> [Diglett]<br> 20%| ![][447]<br> [Riolu]<br> 10%  
+🌞<br>Day     | ![][041]<br> [Zubat]<br> 35%  | ![][074]<br> [Geodude]<br> 35%| ![][050]<br> [Diglett]<br> 20%| ![][447]<br> [Riolu]<br> 10%  
+🌙<br>Night   | ![][041]<br> [Zubat]<br> 35%  | ![][074]<br> [Geodude]<br> 35%| ![][050]<br> [Diglett]<br> 20%| ![][447]<br> [Riolu]<br> 10%  
 
 
 [Zubat]: /pokemon_changes/041/

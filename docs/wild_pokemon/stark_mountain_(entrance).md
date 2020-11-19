@@ -1,11 +1,14 @@
 # Stark Mountain (Entrance)
 Levels: 67 - 69 (Walking)
 
-Area       | Pokémon
----        | ---
-Morning    | ![][042]  [Golbat] (20%) ![][112]  [Rhydon] (20%) ![][219]  [Magcargo] (10%)  ![][075]  [Graveler] (10%) ![][067]  [Machoke] (10%) ![][110]  [Weezing] (10%)  ![][089]  [Muk] (10%) ![][324]  [Torkoal] (10%)
-Day        | ![][042]  [Golbat] (20%) ![][112]  [Rhydon] (20%) ![][219]  [Magcargo] (10%)  ![][075]  [Graveler] (10%) ![][067]  [Machoke] (10%) ![][110]  [Weezing] (10%)  ![][089]  [Muk] (10%) ![][324]  [Torkoal] (10%)
-Night      | ![][042]  [Golbat] (20%) ![][112]  [Rhydon] (20%) ![][219]  [Magcargo] (10%)  ![][075]  [Graveler] (10%) ![][067]  [Machoke] (10%) ![][110]  [Weezing] (10%)  ![][089]  [Muk] (10%) ![][324]  [Torkoal] (10%)
+Area         | Pokémon                         | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                          
+---          | ---                             | ---                             | ---                             | ---                             | ---                             | ---                             
+🌅<br>Morning | ![][042]<br> [Golbat]<br> 20%  | ![][112]<br> [Rhydon]<br> 20%  | ![][219]<br> [Magcargo]<br> 10%| ![][075]<br> [Graveler]<br> 10%| ![][067]<br> [Machoke]<br> 10% | ![][110]<br> [Weezing]<br> 10% 
+&nbsp;       | ![][089]<br> [Muk]<br> 10%     | ![][324]<br> [Torkoal]<br> 10% 
+🌞<br>Day     | ![][042]<br> [Golbat]<br> 20%  | ![][112]<br> [Rhydon]<br> 20%  | ![][219]<br> [Magcargo]<br> 10%| ![][075]<br> [Graveler]<br> 10%| ![][067]<br> [Machoke]<br> 10% | ![][110]<br> [Weezing]<br> 10% 
+&nbsp;       | ![][089]<br> [Muk]<br> 10%     | ![][324]<br> [Torkoal]<br> 10% 
+🌙<br>Night   | ![][042]<br> [Golbat]<br> 20%  | ![][112]<br> [Rhydon]<br> 20%  | ![][219]<br> [Magcargo]<br> 10%| ![][075]<br> [Graveler]<br> 10%| ![][067]<br> [Machoke]<br> 10% | ![][110]<br> [Weezing]<br> 10% 
+&nbsp;       | ![][089]<br> [Muk]<br> 10%     | ![][324]<br> [Torkoal]<br> 10% 
 
 
 [Golbat]: /pokemon_changes/042/

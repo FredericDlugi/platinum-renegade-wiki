@@ -5,17 +5,20 @@
 
 Levels: 24 - 26 (Walking) 20 - 40 (Surfing) 25 (Honey Tree)
 
-Area       | Pokémon
----        | ---
-Morning    | ![][397]  [Staravia] (30%) ![][183]  [Marill] (20%) ![][315]  [Roselia] (10%)  ![][070]  [Weepinbell] (10%) ![][044]  [Gloom] (10%) ![][281]  [Kirlia] (10%)  ![][235]  [Smeargle] (10%)
-Day        | ![][397]  [Staravia] (30%) ![][183]  [Marill] (20%) ![][315]  [Roselia] (10%)  ![][070]  [Weepinbell] (10%) ![][044]  [Gloom] (10%) ![][281]  [Kirlia] (10%)  ![][235]  [Smeargle] (10%)
-Night      | ![][397]  [Staravia] (30%) ![][183]  [Marill] (20%) ![][315]  [Roselia] (10%)  ![][070]  [Weepinbell] (10%) ![][044]  [Gloom] (10%) ![][281]  [Kirlia] (10%)  ![][235]  [Smeargle] (10%)
-Poké Radar | ![][083]  [Farfetch'd] (22%)
-Surf       | ![][183]  [Marill] (90%) ![][184]  [Azumarill] (10%)
-Old Rod    | ![][129]  [Magikarp] (65%) ![][118]  [Goldeen] (35%)
-Good Rod   | ![][129]  [Magikarp] (65%) ![][118]  [Goldeen] (35%)
-Super Rod  | ![][130]  [Gyarados] (65%) ![][119]  [Seaking] (35%)
-Honey Tree | ![][420]  [Cherubi] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Exeggcute] (20%)  ![][274]  [Nuzleaf] (20%) ![][114]  [Tangela] (10%)
+Area                           | Pokémon                           | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            
+---                            | ---                               | ---                               | ---                               | ---                               | ---                               | ---                               
+🌅<br>Morning                   | ![][397]<br> [Staravia]<br> 30%  | ![][183]<br> [Marill]<br> 20%    | ![][315]<br> [Roselia]<br> 10%   | ![][070]<br> [Weepinbell]<br> 10%| ![][044]<br> [Gloom]<br> 10%     | ![][281]<br> [Kirlia]<br> 10%    
+&nbsp;                         | ![][235]<br> [Smeargle]<br> 10%  
+🌞<br>Day                       | ![][397]<br> [Staravia]<br> 30%  | ![][183]<br> [Marill]<br> 20%    | ![][315]<br> [Roselia]<br> 10%   | ![][070]<br> [Weepinbell]<br> 10%| ![][044]<br> [Gloom]<br> 10%     | ![][281]<br> [Kirlia]<br> 10%    
+&nbsp;                         | ![][235]<br> [Smeargle]<br> 10%  
+🌙<br>Night                     | ![][397]<br> [Staravia]<br> 30%  | ![][183]<br> [Marill]<br> 20%    | ![][315]<br> [Roselia]<br> 10%   | ![][070]<br> [Weepinbell]<br> 10%| ![][044]<br> [Gloom]<br> 10%     | ![][281]<br> [Kirlia]<br> 10%    
+&nbsp;                         | ![][235]<br> [Smeargle]<br> 10%  
+![][poke-radar]<br> Poké Radar | ![][083]<br> [Farfetch'd]<br> 22%
+🌊<br> Surf                     | ![][183]<br> [Marill]<br> 90%    | ![][184]<br> [Azumarill]<br> 10% 
+![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 65%  | ![][118]<br> [Goldeen]<br> 35%   
+![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 65%  | ![][118]<br> [Goldeen]<br> 35%   
+![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 65%  | ![][119]<br> [Seaking]<br> 35%   
+![][honey]<br> Honey Tree      | ![][420]<br> [Cherubi]<br> 30%   | ![][285]<br> [Shroomish]<br> 20% | ![][102]<br> [Exeggcute]<br> 20% | ![][274]<br> [Nuzleaf]<br> 20%   | ![][114]<br> [Tangela]<br> 10%   
 
 
 [Gloom]: /pokemon_changes/044/
@@ -36,6 +39,11 @@ Honey Tree | ![][420]  [Cherubi] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Ex
 [Roselia]: /pokemon_changes/315/
 [Staravia]: /pokemon_changes/397/
 [Cherubi]: /pokemon_changes/420/
+[good-rod]: /img/items/good-rod.png
+[honey]: /img/items/honey.png
+[old-rod]: /img/items/old-rod.png
+[poke-radar]: /img/items/poke-radar.png
+[super-rod]: /img/items/super-rod.png
 [044]: /img/pokemon/044.png
 [070]: /img/pokemon/070.png
 [083]: /img/pokemon/083.png

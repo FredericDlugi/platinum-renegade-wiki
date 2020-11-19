@@ -5,13 +5,13 @@
 
 Levels: 9 - 10 (Walking) 21 (Honey Tree)
 
-Area       | Pokémon
----        | ---
-Morning    | ![][066]  [Machop] (30%) ![][111]  [Rhyhorn] (20%) ![][077]  [Ponyta] (20%)  ![][231]  [Phanpy] (20%) ![][246]  [Larvitar] (10%)
-Day        | ![][066]  [Machop] (30%) ![][111]  [Rhyhorn] (20%) ![][077]  [Ponyta] (20%)  ![][231]  [Phanpy] (20%) ![][246]  [Larvitar] (10%)
-Night      | ![][066]  [Machop] (30%) ![][111]  [Rhyhorn] (20%) ![][077]  [Ponyta] (20%)  ![][231]  [Phanpy] (20%) ![][246]  [Larvitar] (10%)
-Poké Radar | ![][234]  [Stantler] (22%)
-Honey Tree | ![][190]  [Aipom] (30%) ![][287]  [Slakoth] (20%) ![][011]  [Metapod] (20%)  ![][014]  [Kakuna] (20%) ![][446]  [Munchlax] (10%)
+Area                           | Pokémon                         | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                          
+---                            | ---                             | ---                             | ---                             | ---                             | ---                             
+🌅<br>Morning                   | ![][066]<br> [Machop]<br> 30%  | ![][111]<br> [Rhyhorn]<br> 20% | ![][077]<br> [Ponyta]<br> 20%  | ![][231]<br> [Phanpy]<br> 20%  | ![][246]<br> [Larvitar]<br> 10%
+🌞<br>Day                       | ![][066]<br> [Machop]<br> 30%  | ![][111]<br> [Rhyhorn]<br> 20% | ![][077]<br> [Ponyta]<br> 20%  | ![][231]<br> [Phanpy]<br> 20%  | ![][246]<br> [Larvitar]<br> 10%
+🌙<br>Night                     | ![][066]<br> [Machop]<br> 30%  | ![][111]<br> [Rhyhorn]<br> 20% | ![][077]<br> [Ponyta]<br> 20%  | ![][231]<br> [Phanpy]<br> 20%  | ![][246]<br> [Larvitar]<br> 10%
+![][poke-radar]<br> Poké Radar | ![][234]<br> [Stantler]<br> 22%
+![][honey]<br> Honey Tree      | ![][190]<br> [Aipom]<br> 30%   | ![][287]<br> [Slakoth]<br> 20% | ![][011]<br> [Metapod]<br> 20% | ![][014]<br> [Kakuna]<br> 20%  | ![][446]<br> [Munchlax]<br> 10%
 
 
 [Metapod]: /pokemon_changes/011/
@@ -25,6 +25,8 @@ Honey Tree | ![][190]  [Aipom] (30%) ![][287]  [Slakoth] (20%) ![][011]  [Metapo
 [Larvitar]: /pokemon_changes/246/
 [Slakoth]: /pokemon_changes/287/
 [Munchlax]: /pokemon_changes/446/
+[honey]: /img/items/honey.png
+[poke-radar]: /img/items/poke-radar.png
 [011]: /img/pokemon/011.png
 [014]: /img/pokemon/014.png
 [066]: /img/pokemon/066.png

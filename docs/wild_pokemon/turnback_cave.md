@@ -1,11 +1,14 @@
 # Turnback Cave
 Levels: 65 - 66 (Walking)
 
-Area       | Pokémon
----        | ---
-Morning    | ![][042]  [Golbat] (20%) ![][093]  [Haunter] (20%) ![][356]  [Dusclops] (10%)  ![][354]  [Banette] (10%) ![][437]  [Bronzong] (10%) ![][358]  [Chimecho] (10%)  ![][337]  [Lunatone] (10%) ![][338]  [Solrock] (10%)
-Day        | ![][042]  [Golbat] (20%) ![][093]  [Haunter] (20%) ![][356]  [Dusclops] (10%)  ![][354]  [Banette] (10%) ![][437]  [Bronzong] (10%) ![][358]  [Chimecho] (10%)  ![][337]  [Lunatone] (10%) ![][338]  [Solrock] (10%)
-Night      | ![][042]  [Golbat] (20%) ![][093]  [Haunter] (20%) ![][356]  [Dusclops] (10%)  ![][354]  [Banette] (10%) ![][437]  [Bronzong] (10%) ![][358]  [Chimecho] (10%)  ![][337]  [Lunatone] (10%) ![][338]  [Solrock] (10%)
+Area         | Pokémon                         | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                          
+---          | ---                             | ---                             | ---                             | ---                             | ---                             | ---                             
+🌅<br>Morning | ![][042]<br> [Golbat]<br> 20%  | ![][093]<br> [Haunter]<br> 20% | ![][356]<br> [Dusclops]<br> 10%| ![][354]<br> [Banette]<br> 10% | ![][437]<br> [Bronzong]<br> 10%| ![][358]<br> [Chimecho]<br> 10%
+&nbsp;       | ![][337]<br> [Lunatone]<br> 10%| ![][338]<br> [Solrock]<br> 10% 
+🌞<br>Day     | ![][042]<br> [Golbat]<br> 20%  | ![][093]<br> [Haunter]<br> 20% | ![][356]<br> [Dusclops]<br> 10%| ![][354]<br> [Banette]<br> 10% | ![][437]<br> [Bronzong]<br> 10%| ![][358]<br> [Chimecho]<br> 10%
+&nbsp;       | ![][337]<br> [Lunatone]<br> 10%| ![][338]<br> [Solrock]<br> 10% 
+🌙<br>Night   | ![][042]<br> [Golbat]<br> 20%  | ![][093]<br> [Haunter]<br> 20% | ![][356]<br> [Dusclops]<br> 10%| ![][354]<br> [Banette]<br> 10% | ![][437]<br> [Bronzong]<br> 10%| ![][358]<br> [Chimecho]<br> 10%
+&nbsp;       | ![][337]<br> [Lunatone]<br> 10%| ![][338]<br> [Solrock]<br> 10% 
 
 
 

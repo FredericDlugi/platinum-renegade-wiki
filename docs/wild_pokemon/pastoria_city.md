@@ -5,12 +5,12 @@
 
 Levels: 20 - 40 (Surfing)
 
-Area       | Pokémon
----        | ---
-Surf       | ![][072]  [Tentacool] (60%) ![][422]  [Shellos] (30%) ![][073]  [Tentacruel] (5%)  ![][423]  [Gastrodon] (5%)
-Old Rod    | ![][129]  [Magikarp] (60%) ![][060]  [Poliwag] (30%) ![][318]  [Carvanha] (10%)
-Good Rod   | ![][129]  [Magikarp] (60%) ![][060]  [Poliwag] (30%) ![][318]  [Carvanha] (10%)
-Super Rod  | ![][130]  [Gyarados] (60%) ![][061]  [Poliwhirl] (30%) ![][319]  [Sharpedo] (10%)
+Area                         | Pokémon                          | &nbsp;                           | &nbsp;                           | &nbsp;                           
+---                          | ---                              | ---                              | ---                              | ---                              
+🌊<br> Surf                   | ![][072]<br> [Tentacool]<br> 60%| ![][422]<br> [Shellos]<br> 30%  | ![][073]<br> [Tentacruel]<br> 5%| ![][423]<br> [Gastrodon]<br> 5% 
+![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 60% | ![][060]<br> [Poliwag]<br> 30%  | ![][318]<br> [Carvanha]<br> 10% 
+![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60% | ![][060]<br> [Poliwag]<br> 30%  | ![][318]<br> [Carvanha]<br> 10% 
+![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60% | ![][061]<br> [Poliwhirl]<br> 30%| ![][319]<br> [Sharpedo]<br> 10% 
 
 
 [Poliwag]: /pokemon_changes/060/
@@ -23,6 +23,9 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][061]  [Poliwhirl] (30%) ![][319]  [S
 [Sharpedo]: /pokemon_changes/319/
 [Shellos]: /pokemon_changes/422/
 [Gastrodon]: /pokemon_changes/423/
+[good-rod]: /img/items/good-rod.png
+[old-rod]: /img/items/old-rod.png
+[super-rod]: /img/items/super-rod.png
 [060]: /img/pokemon/060.png
 [061]: /img/pokemon/061.png
 [072]: /img/pokemon/072.png

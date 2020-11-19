@@ -5,9 +5,9 @@
 
 Levels: 12 (Honey Tree)
 
-Area       | Pokémon
----        | ---
-Honey Tree | ![][420]  [Cherubi] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Exeggcute] (20%)  ![][273]  [Seedot] (20%) ![][114]  [Tangela] (10%)
+Area                      | Pokémon                          | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;                           
+---                       | ---                              | ---                              | ---                              | ---                              | ---                              
+![][honey]<br> Honey Tree | ![][420]<br> [Cherubi]<br> 30%  | ![][285]<br> [Shroomish]<br> 20%| ![][102]<br> [Exeggcute]<br> 20%| ![][273]<br> [Seedot]<br> 20%   | ![][114]<br> [Tangela]<br> 10%  
 
 
 [Exeggcute]: /pokemon_changes/102/
@@ -15,6 +15,7 @@ Honey Tree | ![][420]  [Cherubi] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Ex
 [Seedot]: /pokemon_changes/273/
 [Shroomish]: /pokemon_changes/285/
 [Cherubi]: /pokemon_changes/420/
+[honey]: /img/items/honey.png
 [102]: /img/pokemon/102.png
 [114]: /img/pokemon/114.png
 [273]: /img/pokemon/273.png

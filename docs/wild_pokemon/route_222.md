@@ -5,17 +5,20 @@
 
 Levels: 53 - 54 (Walking) 54 (Honey Tree) 35 - 55 (Surfing)
 
-Area       | Pokémon
----        | ---
-Morning    | ![][125]  [Electabuzz] (20%) ![][419]  [Floatzel] (20%) ![][404]  [Luxio] (10%)  ![][432]  [Purugly] (10%) ![][279]  [Pelipper] (10%) ![][180]  [Flaaffy] (10%)  ![][122]  [Mr. Mime] (10%) ![][441]  [Chatot] (10%)
-Day        | ![][125]  [Electabuzz] (20%) ![][419]  [Floatzel] (20%) ![][404]  [Luxio] (10%)  ![][432]  [Purugly] (10%) ![][279]  [Pelipper] (10%) ![][180]  [Flaaffy] (10%)  ![][122]  [Mr. Mime] (10%) ![][441]  [Chatot] (10%)
-Night      | ![][125]  [Electabuzz] (20%) ![][419]  [Floatzel] (20%) ![][404]  [Luxio] (20%)  ![][432]  [Purugly] (10%) ![][279]  [Pelipper] (10%) ![][180]  [Flaaffy] (10%)  ![][122]  [Mr. Mime] (10%)
-Poké Radar | ![][301]  [Delcatty] (22%)
-Surf       | ![][072]  [Tentacool] (60%) ![][278]  [Wingull] (30%) ![][073]  [Tentacruel] (5%)  ![][279]  [Pelipper] (5%)
-Old Rod    | ![][129]  [Magikarp] (60%) ![][223]  [Remoraid] (30%) ![][320]  [Wailmer] (10%)
-Good Rod   | ![][129]  [Magikarp] (60%) ![][223]  [Remoraid] (30%) ![][320]  [Wailmer] (10%)
-Super Rod  | ![][130]  [Gyarados] (60%) ![][320]  [Wailmer] (30%) ![][224]  [Octillery] (5%)  ![][321]  [Wailord] (5%)
-Honey Tree | ![][114]  [Tangela] (30%) ![][214]  [Heracross] (30%) ![][083]  [Farfetch'd] (30%)  ![][143]  [Snorlax] (10%)
+Area                           | Pokémon                           | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            
+---                            | ---                               | ---                               | ---                               | ---                               | ---                               | ---                               
+🌅<br>Morning                   | ![][125]<br> [Electabuzz]<br> 20%| ![][419]<br> [Floatzel]<br> 20%  | ![][404]<br> [Luxio]<br> 10%     | ![][432]<br> [Purugly]<br> 10%   | ![][279]<br> [Pelipper]<br> 10%  | ![][180]<br> [Flaaffy]<br> 10%   
+&nbsp;                         | ![][122]<br> [Mr. Mime]<br> 10%  | ![][441]<br> [Chatot]<br> 10%    
+🌞<br>Day                       | ![][125]<br> [Electabuzz]<br> 20%| ![][419]<br> [Floatzel]<br> 20%  | ![][404]<br> [Luxio]<br> 10%     | ![][432]<br> [Purugly]<br> 10%   | ![][279]<br> [Pelipper]<br> 10%  | ![][180]<br> [Flaaffy]<br> 10%   
+&nbsp;                         | ![][122]<br> [Mr. Mime]<br> 10%  | ![][441]<br> [Chatot]<br> 10%    
+🌙<br>Night                     | ![][125]<br> [Electabuzz]<br> 20%| ![][419]<br> [Floatzel]<br> 20%  | ![][404]<br> [Luxio]<br> 20%     | ![][432]<br> [Purugly]<br> 10%   | ![][279]<br> [Pelipper]<br> 10%  | ![][180]<br> [Flaaffy]<br> 10%   
+&nbsp;                         | ![][122]<br> [Mr. Mime]<br> 10%  
+![][poke-radar]<br> Poké Radar | ![][301]<br> [Delcatty]<br> 22%  
+🌊<br> Surf                     | ![][072]<br> [Tentacool]<br> 60% | ![][278]<br> [Wingull]<br> 30%   | ![][073]<br> [Tentacruel]<br> 5% | ![][279]<br> [Pelipper]<br> 5%   
+![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 60%  | ![][223]<br> [Remoraid]<br> 30%  | ![][320]<br> [Wailmer]<br> 10%   
+![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 60%  | ![][223]<br> [Remoraid]<br> 30%  | ![][320]<br> [Wailmer]<br> 10%   
+![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60%  | ![][320]<br> [Wailmer]<br> 30%   | ![][224]<br> [Octillery]<br> 5%  | ![][321]<br> [Wailord]<br> 5%    
+![][honey]<br> Honey Tree      | ![][114]<br> [Tangela]<br> 30%   | ![][214]<br> [Heracross]<br> 30% | ![][083]<br> [Farfetch'd]<br> 30%| ![][143]<br> [Snorlax]<br> 10%   
 
 
 [Tentacool]: /pokemon_changes/072/
@@ -40,6 +43,11 @@ Honey Tree | ![][114]  [Tangela] (30%) ![][214]  [Heracross] (30%) ![][083]  [Fa
 [Floatzel]: /pokemon_changes/419/
 [Purugly]: /pokemon_changes/432/
 [Chatot]: /pokemon_changes/441/
+[good-rod]: /img/items/good-rod.png
+[honey]: /img/items/honey.png
+[old-rod]: /img/items/old-rod.png
+[poke-radar]: /img/items/poke-radar.png
+[super-rod]: /img/items/super-rod.png
 [072]: /img/pokemon/072.png
 [073]: /img/pokemon/073.png
 [083]: /img/pokemon/083.png

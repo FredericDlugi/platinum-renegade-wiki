@@ -5,15 +5,18 @@
 
 Levels: 50 - 52 (Walking) 35 - 55 (Surfing)
 
-Area       | Pokémon
----        | ---
-Morning    | ![][075]  [Graveler] (20%) ![][437]  [Bronzong] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][042]  [Golbat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
-Day        | ![][075]  [Graveler] (20%) ![][437]  [Bronzong] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][042]  [Golbat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
-Night      | ![][075]  [Graveler] (20%) ![][437]  [Bronzong] (20%) ![][035]  [Clefairy] (10%)  ![][299]  [Nosepass] (10%) ![][358]  [Chimecho] (10%) ![][042]  [Golbat] (10%)  ![][375]  [Metang] (10%) ![][338]  [Solrock] (5%) ![][337]  [Lunatone] (5%)<br>
-Surf       | ![][041]  [Zubat] (90%) ![][042]  [Golbat] (10%)
-Old Rod    | ![][129]  [Magikarp] (60%) ![][116]  [Horsea] (30%) ![][147]  [Dratini] (10%)
-Good Rod   | ![][129]  [Magikarp] (60%) ![][116]  [Horsea] (30%) ![][147]  [Dratini] (10%)
-Super Rod  | ![][130]  [Gyarados] (60%) ![][117]  [Seadra] (30%) ![][148]  [Dragonair] (10%)
+Area                         | Pokémon                          | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;                           
+---                          | ---                              | ---                              | ---                              | ---                              | ---                              | ---                              
+🌅<br>Morning                 | ![][075]<br> [Graveler]<br> 20% | ![][437]<br> [Bronzong]<br> 20% | ![][035]<br> [Clefairy]<br> 10% | ![][299]<br> [Nosepass]<br> 10% | ![][358]<br> [Chimecho]<br> 10% | ![][042]<br> [Golbat]<br> 10%   
+&nbsp;                       | ![][375]<br> [Metang]<br> 10%   | ![][338]<br> [Solrock]<br> 5%   | ![][337]<br> [Lunatone]<br> 5%  
+🌞<br>Day                     | ![][075]<br> [Graveler]<br> 20% | ![][437]<br> [Bronzong]<br> 20% | ![][035]<br> [Clefairy]<br> 10% | ![][299]<br> [Nosepass]<br> 10% | ![][358]<br> [Chimecho]<br> 10% | ![][042]<br> [Golbat]<br> 10%   
+&nbsp;                       | ![][375]<br> [Metang]<br> 10%   | ![][338]<br> [Solrock]<br> 5%   | ![][337]<br> [Lunatone]<br> 5%  
+🌙<br>Night                   | ![][075]<br> [Graveler]<br> 20% | ![][437]<br> [Bronzong]<br> 20% | ![][035]<br> [Clefairy]<br> 10% | ![][299]<br> [Nosepass]<br> 10% | ![][358]<br> [Chimecho]<br> 10% | ![][042]<br> [Golbat]<br> 10%   
+&nbsp;                       | ![][375]<br> [Metang]<br> 10%   | ![][338]<br> [Solrock]<br> 5%   | ![][337]<br> [Lunatone]<br> 5%  
+🌊<br> Surf                   | ![][041]<br> [Zubat]<br> 90%    | ![][042]<br> [Golbat]<br> 10%   
+![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 60% | ![][116]<br> [Horsea]<br> 30%   | ![][147]<br> [Dratini]<br> 10%  
+![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60% | ![][116]<br> [Horsea]<br> 30%   | ![][147]<br> [Dratini]<br> 10%  
+![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60% | ![][117]<br> [Seadra]<br> 30%   | ![][148]<br> [Dragonair]<br> 10%
 
 
 [Clefairy]: /pokemon_changes/035/
@@ -32,6 +35,9 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][117]  [Seadra] (30%) ![][148]  [Drag
 [Chimecho]: /pokemon_changes/358/
 [Metang]: /pokemon_changes/375/
 [Bronzong]: /pokemon_changes/437/
+[good-rod]: /img/items/good-rod.png
+[old-rod]: /img/items/old-rod.png
+[super-rod]: /img/items/super-rod.png
 [035]: /img/pokemon/035.png
 [041]: /img/pokemon/041.png
 [042]: /img/pokemon/042.png

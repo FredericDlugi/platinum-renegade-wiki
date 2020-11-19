@@ -5,17 +5,17 @@
 
 Levels: 28 - 32 (Walking) 20 - 40 (Surfing) 30 (Honey Tree)
 
-Area       | Pokémon
----        | ---
-Morning    | ![][075]  [Graveler] (30%) ![][228]  [Houndour] (20%) ![][111]  [Rhyhorn] (15%)  ![][322]  [Numel] (15%) ![][325]  [Spoink] (10%) ![][331]  [Cacnea] (10%)<br>
-Day        | ![][075]  [Graveler] (30%) ![][228]  [Houndour] (20%) ![][111]  [Rhyhorn] (15%)  ![][322]  [Numel] (15%) ![][325]  [Spoink] (10%) ![][331]  [Cacnea] (10%)<br>
-Night      | ![][075]  [Graveler] (30%) ![][228]  [Houndour] (20%) ![][111]  [Rhyhorn] (15%)  ![][322]  [Numel] (15%) ![][325]  [Spoink] (10%) ![][331]  [Cacnea] (10%)<br>
-Poké Radar | ![][327]  [Spinda] (22%)
-Surf       | ![][054]  [Psyduck] (90%) ![][055]  [Golduck] (10%)
-Old Rod    | ![][129]  [Magikarp] (65%) ![][118]  [Goldeen] (35%)
-Good Rod   | ![][129]  [Magikarp] (65%) ![][118]  [Goldeen] (35%)
-Super Rod  | ![][130]  [Gyarados] (65%) ![][119]  [Seaking] (35%)
-Honey Tree | ![][190]  [Aipom] (30%) ![][288]  [Vigoroth] (20%) ![][012]  [Butterfree] (20%)  ![][015]  [Beedrill] (20%) ![][446]  [Munchlax] (10%)
+Area                           | Pokémon                           | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            
+---                            | ---                               | ---                               | ---                               | ---                               | ---                               | ---                               
+🌅<br>Morning                   | ![][075]<br> [Graveler]<br> 30%  | ![][228]<br> [Houndour]<br> 20%  | ![][111]<br> [Rhyhorn]<br> 15%   | ![][322]<br> [Numel]<br> 15%     | ![][325]<br> [Spoink]<br> 10%    | ![][331]<br> [Cacnea]<br> 10%    
+🌞<br>Day                       | ![][075]<br> [Graveler]<br> 30%  | ![][228]<br> [Houndour]<br> 20%  | ![][111]<br> [Rhyhorn]<br> 15%   | ![][322]<br> [Numel]<br> 15%     | ![][325]<br> [Spoink]<br> 10%    | ![][331]<br> [Cacnea]<br> 10%    
+🌙<br>Night                     | ![][075]<br> [Graveler]<br> 30%  | ![][228]<br> [Houndour]<br> 20%  | ![][111]<br> [Rhyhorn]<br> 15%   | ![][322]<br> [Numel]<br> 15%     | ![][325]<br> [Spoink]<br> 10%    | ![][331]<br> [Cacnea]<br> 10%    
+![][poke-radar]<br> Poké Radar | ![][327]<br> [Spinda]<br> 22%    
+🌊<br> Surf                     | ![][054]<br> [Psyduck]<br> 90%   | ![][055]<br> [Golduck]<br> 10%   
+![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 65%  | ![][118]<br> [Goldeen]<br> 35%   
+![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 65%  | ![][118]<br> [Goldeen]<br> 35%   
+![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 65%  | ![][119]<br> [Seaking]<br> 35%   
+![][honey]<br> Honey Tree      | ![][190]<br> [Aipom]<br> 30%     | ![][288]<br> [Vigoroth]<br> 20%  | ![][012]<br> [Butterfree]<br> 20%| ![][015]<br> [Beedrill]<br> 20%  | ![][446]<br> [Munchlax]<br> 10%  
 
 
 [Butterfree]: /pokemon_changes/012/
@@ -36,6 +36,11 @@ Honey Tree | ![][190]  [Aipom] (30%) ![][288]  [Vigoroth] (20%) ![][012]  [Butte
 [Spinda]: /pokemon_changes/327/
 [Cacnea]: /pokemon_changes/331/
 [Munchlax]: /pokemon_changes/446/
+[good-rod]: /img/items/good-rod.png
+[honey]: /img/items/honey.png
+[old-rod]: /img/items/old-rod.png
+[poke-radar]: /img/items/poke-radar.png
+[super-rod]: /img/items/super-rod.png
 [012]: /img/pokemon/012.png
 [015]: /img/pokemon/015.png
 [054]: /img/pokemon/054.png

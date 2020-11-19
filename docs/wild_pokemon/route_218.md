@@ -5,16 +5,20 @@
 
 Levels: 38 - 39 (Walking) 20 - 45 (Surfing) 39 (Honey Tree)
 
-Area       | Pokémon
----        | ---
-Morning    | ![][419]  [Floatzel] (20%) ![][423]  [Gastrodon] (20%) ![][432]  [Purugly] (10%)  ![][122]  [Mr. Mime] (10%) ![][101]  [Electrode] (10%) ![][132]  [Ditto] (10%)  ![][125]  [Electabuzz] (10%) ![][441]  [Chatot] (10%)
-Day        | ![][419]  [Floatzel] (20%) ![][423]  [Gastrodon] (20%) ![][432]  [Purugly] (10%)  ![][122]  [Mr. Mime] (10%) ![][101]  [Electrode] (10%) ![][132]  [Ditto] (10%)  ![][125]  [Electabuzz] (10%) ![][441]  [Chatot] (10%)
-Night      | ![][419]  [Floatzel] (20%) ![][423]  [Gastrodon] (20%) ![][432]  [Purugly] (20%)  ![][122]  [Mr. Mime] (10%) ![][101]  [Electrode] (10%) ![][132]  [Ditto] (10%)  ![][125]  [Electabuzz] (10%)
-Surf       | ![][072]  [Tentacool] (60%) ![][422]  [Shellos] (30%) ![][073]  [Tentacruel] (5%)  ![][423]  [Gastrodon] (5%)
-Old Rod    | ![][129]  [Magikarp] (60%) ![][456]  [Finneon] (30%) ![][120]  [Staryu] (10%)
-Good Rod   | ![][129]  [Magikarp] (60%) ![][456]  [Finneon] (30%) ![][120]  [Staryu] (10%)
-Super Rod  | ![][130]  [Gyarados] (60%) ![][457]  [Lumineon] (30%) ![][121]  [Starmie] (10%)
-Honey Tree | ![][415]  [Combee] (30%) ![][205]  [Forretress] (10%) ![][413]  [Wormadam] (10%)  ![][414]  [Mothim] (10%) ![][267]  [Beautifly] (10%) ![][269]  [Dustox] (10%)  ![][214]  [Heracross] (10%) ![][416]  [Vespiquen] (10%)
+Area                         | Pokémon                           | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            
+---                          | ---                               | ---                               | ---                               | ---                               | ---                               | ---                               
+🌅<br>Morning                 | ![][419]<br> [Floatzel]<br> 20%  | ![][423]<br> [Gastrodon]<br> 20% | ![][432]<br> [Purugly]<br> 10%   | ![][122]<br> [Mr. Mime]<br> 10%  | ![][101]<br> [Electrode]<br> 10% | ![][132]<br> [Ditto]<br> 10%     
+&nbsp;                       | ![][125]<br> [Electabuzz]<br> 10%| ![][441]<br> [Chatot]<br> 10%    
+🌞<br>Day                     | ![][419]<br> [Floatzel]<br> 20%  | ![][423]<br> [Gastrodon]<br> 20% | ![][432]<br> [Purugly]<br> 10%   | ![][122]<br> [Mr. Mime]<br> 10%  | ![][101]<br> [Electrode]<br> 10% | ![][132]<br> [Ditto]<br> 10%     
+&nbsp;                       | ![][125]<br> [Electabuzz]<br> 10%| ![][441]<br> [Chatot]<br> 10%    
+🌙<br>Night                   | ![][419]<br> [Floatzel]<br> 20%  | ![][423]<br> [Gastrodon]<br> 20% | ![][432]<br> [Purugly]<br> 20%   | ![][122]<br> [Mr. Mime]<br> 10%  | ![][101]<br> [Electrode]<br> 10% | ![][132]<br> [Ditto]<br> 10%     
+&nbsp;                       | ![][125]<br> [Electabuzz]<br> 10%
+🌊<br> Surf                   | ![][072]<br> [Tentacool]<br> 60% | ![][422]<br> [Shellos]<br> 30%   | ![][073]<br> [Tentacruel]<br> 5% | ![][423]<br> [Gastrodon]<br> 5%  
+![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 60%  | ![][456]<br> [Finneon]<br> 30%   | ![][120]<br> [Staryu]<br> 10%    
+![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60%  | ![][456]<br> [Finneon]<br> 30%   | ![][120]<br> [Staryu]<br> 10%    
+![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60%  | ![][457]<br> [Lumineon]<br> 30%  | ![][121]<br> [Starmie]<br> 10%   
+![][honey]<br> Honey Tree    | ![][415]<br> [Combee]<br> 30%    | ![][205]<br> [Forretress]<br> 10%| ![][413]<br> [Wormadam]<br> 10%  | ![][414]<br> [Mothim]<br> 10%    | ![][267]<br> [Beautifly]<br> 10% | ![][269]<br> [Dustox]<br> 10%    
+&nbsp;                       | ![][214]<br> [Heracross]<br> 10% | ![][416]<br> [Vespiquen]<br> 10% 
 
 
 [Tentacool]: /pokemon_changes/072/
@@ -42,6 +46,10 @@ Honey Tree | ![][415]  [Combee] (30%) ![][205]  [Forretress] (10%) ![][413]  [Wo
 [Chatot]: /pokemon_changes/441/
 [Finneon]: /pokemon_changes/456/
 [Lumineon]: /pokemon_changes/457/
+[good-rod]: /img/items/good-rod.png
+[honey]: /img/items/honey.png
+[old-rod]: /img/items/old-rod.png
+[super-rod]: /img/items/super-rod.png
 [072]: /img/pokemon/072.png
 [073]: /img/pokemon/073.png
 [101]: /img/pokemon/101.png

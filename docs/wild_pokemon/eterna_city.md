@@ -1,12 +1,12 @@
 # Eterna City
 Levels: 20 - 40 (Surfing)
 
-Area       | Pokémon
----        | ---
-Surf       | ![][054]  [Psyduck] (90%) ![][055]  [Golduck] (10%)
-Old Rod    | ![][129]  [Magikarp] (60%) ![][060]  [Poliwag] (30%) ![][147]  [Dratini] (10%)
-Good Rod   | ![][129]  [Magikarp] (60%) ![][060]  [Poliwag] (30%) ![][147]  [Dratini] (10%)
-Super Rod  | ![][130]  [Gyarados] (60%) ![][061]  [Poliwhirl] (30%) ![][148]  [Dragonair] (10%)
+Area                         | Pokémon                          | &nbsp;                           | &nbsp;                           
+---                          | ---                              | ---                              | ---                              
+🌊<br> Surf                   | ![][054]<br> [Psyduck]<br> 90%  | ![][055]<br> [Golduck]<br> 10%  
+![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 60% | ![][060]<br> [Poliwag]<br> 30%  | ![][147]<br> [Dratini]<br> 10%  
+![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60% | ![][060]<br> [Poliwag]<br> 30%  | ![][147]<br> [Dratini]<br> 10%  
+![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60% | ![][061]<br> [Poliwhirl]<br> 30%| ![][148]<br> [Dragonair]<br> 10%
 
 
 [Psyduck]: /pokemon_changes/054/
@@ -17,6 +17,9 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][061]  [Poliwhirl] (30%) ![][148]  [D
 [Gyarados]: /pokemon_changes/130/
 [Dratini]: /pokemon_changes/147/
 [Dragonair]: /pokemon_changes/148/
+[good-rod]: /img/items/good-rod.png
+[old-rod]: /img/items/old-rod.png
+[super-rod]: /img/items/super-rod.png
 [054]: /img/pokemon/054.png
 [055]: /img/pokemon/055.png
 [060]: /img/pokemon/060.png

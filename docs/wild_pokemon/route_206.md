@@ -5,13 +5,16 @@
 
 Levels: 20 - 22 (Walking) 21 (Honey Tree)
 
-Area       | Pokémon
----        | ---
-Morning    | ![][434]  [Stunky] (20%) ![][218]  [Slugma] (20%) ![][056]  [Mankey] (20%)  ![][240]  [Magby] (10%) ![][325]  [Spoink] (10%) ![][322]  [Numel] (10%)  ![][207]  [Gligar] (10%)
-Day        | ![][434]  [Stunky] (20%) ![][218]  [Slugma] (20%) ![][056]  [Mankey] (20%)  ![][240]  [Magby] (10%) ![][325]  [Spoink] (10%) ![][322]  [Numel] (10%)  ![][207]  [Gligar] (10%)
-Night      | ![][434]  [Stunky] (20%) ![][218]  [Slugma] (20%) ![][056]  [Mankey] (20%)  ![][240]  [Magby] (10%) ![][325]  [Spoink] (10%) ![][322]  [Numel] (10%)  ![][207]  [Gligar] (10%)
-Poké Radar | ![][324]  [Torkoal] (22%)
-Honey Tree | ![][415]  [Combee] (30%) ![][412]  [Burmy] (20%) ![][204]  [Pineco] (20%)  ![][266]  [Silcoon] (10%) ![][268]  [Cascoon] (10%) ![][214]  [Heracross] (10%)<br>
+Area                           | Pokémon                          | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;                           
+---                            | ---                              | ---                              | ---                              | ---                              | ---                              | ---                              
+🌅<br>Morning                   | ![][434]<br> [Stunky]<br> 20%   | ![][218]<br> [Slugma]<br> 20%   | ![][056]<br> [Mankey]<br> 20%   | ![][240]<br> [Magby]<br> 10%    | ![][325]<br> [Spoink]<br> 10%   | ![][322]<br> [Numel]<br> 10%    
+&nbsp;                         | ![][207]<br> [Gligar]<br> 10%   
+🌞<br>Day                       | ![][434]<br> [Stunky]<br> 20%   | ![][218]<br> [Slugma]<br> 20%   | ![][056]<br> [Mankey]<br> 20%   | ![][240]<br> [Magby]<br> 10%    | ![][325]<br> [Spoink]<br> 10%   | ![][322]<br> [Numel]<br> 10%    
+&nbsp;                         | ![][207]<br> [Gligar]<br> 10%   
+🌙<br>Night                     | ![][434]<br> [Stunky]<br> 20%   | ![][218]<br> [Slugma]<br> 20%   | ![][056]<br> [Mankey]<br> 20%   | ![][240]<br> [Magby]<br> 10%    | ![][325]<br> [Spoink]<br> 10%   | ![][322]<br> [Numel]<br> 10%    
+&nbsp;                         | ![][207]<br> [Gligar]<br> 10%   
+![][poke-radar]<br> Poké Radar | ![][324]<br> [Torkoal]<br> 22%  
+![][honey]<br> Honey Tree      | ![][415]<br> [Combee]<br> 30%   | ![][412]<br> [Burmy]<br> 20%    | ![][204]<br> [Pineco]<br> 20%   | ![][266]<br> [Silcoon]<br> 10%  | ![][268]<br> [Cascoon]<br> 10%  | ![][214]<br> [Heracross]<br> 10%
 
 
 [Mankey]: /pokemon_changes/056/
@@ -28,6 +31,8 @@ Honey Tree | ![][415]  [Combee] (30%) ![][412]  [Burmy] (20%) ![][204]  [Pineco]
 [Burmy]: /pokemon_changes/412/
 [Combee]: /pokemon_changes/415/
 [Stunky]: /pokemon_changes/434/
+[honey]: /img/items/honey.png
+[poke-radar]: /img/items/poke-radar.png
 [056]: /img/pokemon/056.png
 [204]: /img/pokemon/204.png
 [207]: /img/pokemon/207.png

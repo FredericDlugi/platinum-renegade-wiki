@@ -5,17 +5,20 @@
 
 Levels: 15 - 17 (Walking) 20 - 40 (Surfing) 16 (Honey Tree)
 
-Area       | Pokémon
----        | ---
-Morning    | ![][399]  [Bidoof] (20%) ![][079]  [Slowpoke] (20%) ![][183]  [Marill] (20%)  ![][453]  [Croagunk] (10%) ![][102]  [Exeggcute] (10%) ![][313]  [Volbeat] (10%)  ![][314]  [Illumise] (10%)
-Day        | ![][399]  [Bidoof] (20%) ![][079]  [Slowpoke] (20%) ![][183]  [Marill] (20%)  ![][453]  [Croagunk] (10%) ![][102]  [Exeggcute] (10%) ![][313]  [Volbeat] (10%)  ![][314]  [Illumise] (10%)
-Night      | ![][399]  [Bidoof] (20%) ![][079]  [Slowpoke] (20%) ![][183]  [Marill] (20%)  ![][453]  [Croagunk] (10%) ![][102]  [Exeggcute] (10%) ![][313]  [Volbeat] (10%)  ![][314]  [Illumise] (10%)
-Poké Radar | ![][193]  [Yanma] (22%)
-Surf       | ![][183]  [Marill] (90%) ![][184]  [Azumarill] (10%)
-Old Rod    | ![][129]  [Magikarp] (65%) ![][341]  [Corphish] (35%)
-Good Rod   | ![][129]  [Magikarp] (65%) ![][341]  [Corphish] (35%)
-Super Rod  | ![][130]  [Gyarados] (65%) ![][342]  [Crawdaunt] (35%)
-Honey Tree | ![][396]  [Starly] (30%) ![][016]  [Pidgey] (20%) ![][163]  [Hoothoot] (20%)  ![][276]  [Taillow] (20%) ![][083]  [Farfetch'd] (10%)
+Area                           | Pokémon                           | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            
+---                            | ---                               | ---                               | ---                               | ---                               | ---                               | ---                               
+🌅<br>Morning                   | ![][399]<br> [Bidoof]<br> 20%    | ![][079]<br> [Slowpoke]<br> 20%  | ![][183]<br> [Marill]<br> 20%    | ![][453]<br> [Croagunk]<br> 10%  | ![][102]<br> [Exeggcute]<br> 10% | ![][313]<br> [Volbeat]<br> 10%   
+&nbsp;                         | ![][314]<br> [Illumise]<br> 10%  
+🌞<br>Day                       | ![][399]<br> [Bidoof]<br> 20%    | ![][079]<br> [Slowpoke]<br> 20%  | ![][183]<br> [Marill]<br> 20%    | ![][453]<br> [Croagunk]<br> 10%  | ![][102]<br> [Exeggcute]<br> 10% | ![][313]<br> [Volbeat]<br> 10%   
+&nbsp;                         | ![][314]<br> [Illumise]<br> 10%  
+🌙<br>Night                     | ![][399]<br> [Bidoof]<br> 20%    | ![][079]<br> [Slowpoke]<br> 20%  | ![][183]<br> [Marill]<br> 20%    | ![][453]<br> [Croagunk]<br> 10%  | ![][102]<br> [Exeggcute]<br> 10% | ![][313]<br> [Volbeat]<br> 10%   
+&nbsp;                         | ![][314]<br> [Illumise]<br> 10%  
+![][poke-radar]<br> Poké Radar | ![][193]<br> [Yanma]<br> 22%     
+🌊<br> Surf                     | ![][183]<br> [Marill]<br> 90%    | ![][184]<br> [Azumarill]<br> 10% 
+![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 65%  | ![][341]<br> [Corphish]<br> 35%  
+![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 65%  | ![][341]<br> [Corphish]<br> 35%  
+![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 65%  | ![][342]<br> [Crawdaunt]<br> 35% 
+![][honey]<br> Honey Tree      | ![][396]<br> [Starly]<br> 30%    | ![][016]<br> [Pidgey]<br> 20%    | ![][163]<br> [Hoothoot]<br> 20%  | ![][276]<br> [Taillow]<br> 20%   | ![][083]<br> [Farfetch'd]<br> 10%
 
 
 [Pidgey]: /pokemon_changes/016/
@@ -36,6 +39,11 @@ Honey Tree | ![][396]  [Starly] (30%) ![][016]  [Pidgey] (20%) ![][163]  [Hootho
 [Starly]: /pokemon_changes/396/
 [Bidoof]: /pokemon_changes/399/
 [Croagunk]: /pokemon_changes/453/
+[good-rod]: /img/items/good-rod.png
+[honey]: /img/items/honey.png
+[old-rod]: /img/items/old-rod.png
+[poke-radar]: /img/items/poke-radar.png
+[super-rod]: /img/items/super-rod.png
 [016]: /img/pokemon/016.png
 [079]: /img/pokemon/079.png
 [083]: /img/pokemon/083.png

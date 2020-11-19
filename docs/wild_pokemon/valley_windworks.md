@@ -5,17 +5,17 @@
 
 Levels: 11 - 13 (Walking) 20 - 40 (Surfing) 12 (Honey Tree)
 
-Area       | Pokémon
----        | ---
-Morning    | ![][081]  [Magnemite] (20%) ![][239]  [Elekid] (20%) ![][309]  [Electrike] (20%)  ![][100]  [Voltorb] (20%) ![][425]  [Drifloon] (10%) ![][417]  [Pachirisu] (10%)<br>
-Day        | ![][081]  [Magnemite] (20%) ![][239]  [Elekid] (20%) ![][309]  [Electrike] (20%)  ![][100]  [Voltorb] (20%) ![][425]  [Drifloon] (10%) ![][417]  [Pachirisu] (10%)<br>
-Night      | ![][081]  [Magnemite] (20%) ![][239]  [Elekid] (20%) ![][309]  [Electrike] (20%)  ![][100]  [Voltorb] (20%) ![][425]  [Drifloon] (10%) ![][417]  [Pachirisu] (10%)<br>
-Poké Radar | ![][311]  [Plusle] (11%) ![][312]  [Minun] (11%)
-Surf       | ![][422]  [Shellos] (60%) ![][072]  [Tentacool] (30%) ![][423]  [Gastrodon] (5%)  ![][073]  [Tentacruel] (5%)
-Old Rod    | ![][129]  [Magikarp] (60%) ![][090]  [Shellder] (30%) ![][170]  [Chinchou] (10%)
-Good Rod   | ![][129]  [Magikarp] (60%) ![][090]  [Shellder] (30%) ![][170]  [Chinchou] (10%)
-Super Rod  | ![][130]  [Gyarados] (60%) ![][091]  [Cloyster] (30%) ![][171]  [Lanturn] (10%)
-Honey Tree | ![][190]  [Aipom] (30%) ![][287]  [Slakoth] (20%) ![][010]  [Caterpie] (20%)  ![][013]  [Weedle] (20%) ![][446]  [Munchlax] (10%)
+Area                           | Pokémon                          | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;                           
+---                            | ---                              | ---                              | ---                              | ---                              | ---                              | ---                              
+🌅<br>Morning                   | ![][081]<br> [Magnemite]<br> 20%| ![][239]<br> [Elekid]<br> 20%   | ![][309]<br> [Electrike]<br> 20%| ![][100]<br> [Voltorb]<br> 20%  | ![][425]<br> [Drifloon]<br> 10% | ![][417]<br> [Pachirisu]<br> 10%
+🌞<br>Day                       | ![][081]<br> [Magnemite]<br> 20%| ![][239]<br> [Elekid]<br> 20%   | ![][309]<br> [Electrike]<br> 20%| ![][100]<br> [Voltorb]<br> 20%  | ![][425]<br> [Drifloon]<br> 10% | ![][417]<br> [Pachirisu]<br> 10%
+🌙<br>Night                     | ![][081]<br> [Magnemite]<br> 20%| ![][239]<br> [Elekid]<br> 20%   | ![][309]<br> [Electrike]<br> 20%| ![][100]<br> [Voltorb]<br> 20%  | ![][425]<br> [Drifloon]<br> 10% | ![][417]<br> [Pachirisu]<br> 10%
+![][poke-radar]<br> Poké Radar | ![][311]<br> [Plusle]<br> 11%   | ![][312]<br> [Minun]<br> 11%    
+🌊<br> Surf                     | ![][422]<br> [Shellos]<br> 60%  | ![][072]<br> [Tentacool]<br> 30%| ![][423]<br> [Gastrodon]<br> 5% | ![][073]<br> [Tentacruel]<br> 5%
+![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 60% | ![][090]<br> [Shellder]<br> 30% | ![][170]<br> [Chinchou]<br> 10% 
+![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 60% | ![][090]<br> [Shellder]<br> 30% | ![][170]<br> [Chinchou]<br> 10% 
+![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60% | ![][091]<br> [Cloyster]<br> 30% | ![][171]<br> [Lanturn]<br> 10%  
+![][honey]<br> Honey Tree      | ![][190]<br> [Aipom]<br> 30%    | ![][287]<br> [Slakoth]<br> 20%  | ![][010]<br> [Caterpie]<br> 20% | ![][013]<br> [Weedle]<br> 20%   | ![][446]<br> [Munchlax]<br> 10% 
 
 
 [Caterpie]: /pokemon_changes/010/
@@ -41,6 +41,11 @@ Honey Tree | ![][190]  [Aipom] (30%) ![][287]  [Slakoth] (20%) ![][010]  [Caterp
 [Gastrodon]: /pokemon_changes/423/
 [Drifloon]: /pokemon_changes/425/
 [Munchlax]: /pokemon_changes/446/
+[good-rod]: /img/items/good-rod.png
+[honey]: /img/items/honey.png
+[old-rod]: /img/items/old-rod.png
+[poke-radar]: /img/items/poke-radar.png
+[super-rod]: /img/items/super-rod.png
 [010]: /img/pokemon/010.png
 [013]: /img/pokemon/013.png
 [072]: /img/pokemon/072.png

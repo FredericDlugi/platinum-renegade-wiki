@@ -5,17 +5,17 @@
 
 Levels: 11 - 13 (Walking) 20 - 40 (Surfing) 12 (Honey Tree)
 
-Area       | Pokémon
----        | ---
-Morning    | ![][422]  [Shellos] (30%) ![][179]  [Mareep] (20%) ![][418]  [Buizel] (20%)  ![][187]  [Hoppip] (20%) ![][417]  [Pachirisu] (10%)
-Day        | ![][422]  [Shellos] (30%) ![][179]  [Mareep] (20%) ![][418]  [Buizel] (20%)  ![][187]  [Hoppip] (20%) ![][417]  [Pachirisu] (10%)
-Night      | ![][422]  [Shellos] (30%) ![][179]  [Mareep] (20%) ![][418]  [Buizel] (20%)  ![][048]  [Venonat] (20%) ![][417]  [Pachirisu] (10%)
-Poké Radar | ![][311]  [Plusle] (11%) ![][312]  [Minun] (11%)
-Surf       | ![][422]  [Shellos] (60%) ![][072]  [Tentacool] (30%) ![][423]  [Gastrodon] (5%)  ![][073]  [Tentacruel] (5%)
-Old Rod    | ![][129]  [Magikarp] (60%) ![][090]  [Shellder] (30%) ![][170]  [Chinchou] (10%)
-Good Rod   | ![][129]  [Magikarp] (60%) ![][090]  [Shellder] (30%) ![][170]  [Chinchou] (10%)
-Super Rod  | ![][130]  [Gyarados] (60%) ![][091]  [Cloyster] (30%) ![][171]  [Lanturn] (10%)
-Honey Tree | ![][415]  [Combee] (30%) ![][412]  [Burmy] (20%) ![][204]  [Pineco] (20%)  ![][265]  [Wurmple] (20%) ![][214]  [Heracross] (10%)
+Area                           | Pokémon                          | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;                           
+---                            | ---                              | ---                              | ---                              | ---                              | ---                              
+🌅<br>Morning                   | ![][422]<br> [Shellos]<br> 30%  | ![][179]<br> [Mareep]<br> 20%   | ![][418]<br> [Buizel]<br> 20%   | ![][187]<br> [Hoppip]<br> 20%   | ![][417]<br> [Pachirisu]<br> 10%
+🌞<br>Day                       | ![][422]<br> [Shellos]<br> 30%  | ![][179]<br> [Mareep]<br> 20%   | ![][418]<br> [Buizel]<br> 20%   | ![][187]<br> [Hoppip]<br> 20%   | ![][417]<br> [Pachirisu]<br> 10%
+🌙<br>Night                     | ![][422]<br> [Shellos]<br> 30%  | ![][179]<br> [Mareep]<br> 20%   | ![][418]<br> [Buizel]<br> 20%   | ![][048]<br> [Venonat]<br> 20%  | ![][417]<br> [Pachirisu]<br> 10%
+![][poke-radar]<br> Poké Radar | ![][311]<br> [Plusle]<br> 11%   | ![][312]<br> [Minun]<br> 11%    
+🌊<br> Surf                     | ![][422]<br> [Shellos]<br> 60%  | ![][072]<br> [Tentacool]<br> 30%| ![][423]<br> [Gastrodon]<br> 5% | ![][073]<br> [Tentacruel]<br> 5%
+![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 60% | ![][090]<br> [Shellder]<br> 30% | ![][170]<br> [Chinchou]<br> 10% 
+![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 60% | ![][090]<br> [Shellder]<br> 30% | ![][170]<br> [Chinchou]<br> 10% 
+![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60% | ![][091]<br> [Cloyster]<br> 30% | ![][171]<br> [Lanturn]<br> 10%  
+![][honey]<br> Honey Tree      | ![][415]<br> [Combee]<br> 30%   | ![][412]<br> [Burmy]<br> 20%    | ![][204]<br> [Pineco]<br> 20%   | ![][265]<br> [Wurmple]<br> 20%  | ![][214]<br> [Heracross]<br> 10%
 
 
 [Venonat]: /pokemon_changes/048/
@@ -40,6 +40,11 @@ Honey Tree | ![][415]  [Combee] (30%) ![][412]  [Burmy] (20%) ![][204]  [Pineco]
 [Buizel]: /pokemon_changes/418/
 [Shellos]: /pokemon_changes/422/
 [Gastrodon]: /pokemon_changes/423/
+[good-rod]: /img/items/good-rod.png
+[honey]: /img/items/honey.png
+[old-rod]: /img/items/old-rod.png
+[poke-radar]: /img/items/poke-radar.png
+[super-rod]: /img/items/super-rod.png
 [048]: /img/pokemon/048.png
 [072]: /img/pokemon/072.png
 [073]: /img/pokemon/073.png

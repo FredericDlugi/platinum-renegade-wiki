@@ -5,12 +5,12 @@
 
 Levels: 50 - 60 (Surfing)
 
-Area       | Pokémon
----        | ---
-Surf       | ![][073]  [Tentacruel] (60%) ![][279]  [Pelipper] (30%) ![][226]  [Mantine] (10%)
-Old Rod    | ![][129]  [Magikarp] (60%) ![][098]  [Krabby] (30%) ![][120]  [Staryu] (10%)
-Good Rod   | ![][129]  [Magikarp] (60%) ![][098]  [Krabby] (30%) ![][120]  [Staryu] (10%)
-Super Rod  | ![][130]  [Gyarados] (60%) ![][099]  [Kingler] (30%) ![][121]  [Starmie] (10%)
+Area                         | Pokémon                           | &nbsp;                            | &nbsp;                            
+---                          | ---                               | ---                               | ---                               
+🌊<br> Surf                   | ![][073]<br> [Tentacruel]<br> 60%| ![][279]<br> [Pelipper]<br> 30%  | ![][226]<br> [Mantine]<br> 10%   
+![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 60%  | ![][098]<br> [Krabby]<br> 30%    | ![][120]<br> [Staryu]<br> 10%    
+![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60%  | ![][098]<br> [Krabby]<br> 30%    | ![][120]<br> [Staryu]<br> 10%    
+![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60%  | ![][099]<br> [Kingler]<br> 30%   | ![][121]<br> [Starmie]<br> 10%   
 
 
 [Tentacruel]: /pokemon_changes/073/
@@ -22,6 +22,9 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][099]  [Kingler] (30%) ![][121]  [Sta
 [Gyarados]: /pokemon_changes/130/
 [Mantine]: /pokemon_changes/226/
 [Pelipper]: /pokemon_changes/279/
+[good-rod]: /img/items/good-rod.png
+[old-rod]: /img/items/old-rod.png
+[super-rod]: /img/items/super-rod.png
 [073]: /img/pokemon/073.png
 [098]: /img/pokemon/098.png
 [099]: /img/pokemon/099.png

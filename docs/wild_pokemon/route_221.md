@@ -5,17 +5,20 @@
 
 Levels: 38 - 40 (Walking) 30 - 45 (Surf) 39 (Honey Tree)
 
-Area       | Pokémon
----        | ---
-Morning    | ![][185]  [Sudowoodo] (20%) ![][435]  [Skuntank] (20%) ![][030]  [Nidorina] (15%)  ![][033]  [Nidorino] (15%) ![][083]  [Farfetch'd] (10%) ![][203]  [Girafarig] (10%)  ![][085]  [Dodrio] (10%)
-Day        | ![][185]  [Sudowoodo] (20%) ![][435]  [Skuntank] (20%) ![][030]  [Nidorina] (15%)  ![][033]  [Nidorino] (15%) ![][083]  [Farfetch'd] (10%) ![][203]  [Girafarig] (10%)  ![][085]  [Dodrio] (10%)
-Night      | ![][185]  [Sudowoodo] (20%) ![][435]  [Skuntank] (20%) ![][030]  [Nidorina] (15%)  ![][033]  [Nidorino] (15%) ![][083]  [Farfetch'd] (10%) ![][203]  [Girafarig] (10%)  ![][085]  [Dodrio] (10%)
-Poké Radar | -
-Surf       | ![][278]  [Wingull] (60%) ![][072]  [Tentacool] (30%) ![][279]  [Pelipper] (5%)  ![][073]  [Tentacruel] (5%)
-Old Rod    | ![][098]  [Krabby] (60%) ![][116]  [Horsea] (30%) ![][366]  [Clamperl] (10%)
-Good Rod   | ![][098]  [Krabby] (60%) ![][116]  [Horsea] (30%) ![][366]  [Clamperl] (10%)
-Super Rod  | ![][099]  [Kingler] (60%) ![][116]  [Horsea] (30%) ![][367]  [Huntail] (5%)  ![][368]  [Gorebyss] (5%)
-Honey Tree | ![][421]  [Cherrim] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Exeggcute] (20%)  ![][274]  [Nuzleaf] (20%) ![][114]  [Tangela] (10%)
+Area                           | Pokémon                           | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            
+---                            | ---                               | ---                               | ---                               | ---                               | ---                               | ---                               
+🌅<br>Morning                   | ![][185]<br> [Sudowoodo]<br> 20% | ![][435]<br> [Skuntank]<br> 20%  | ![][030]<br> [Nidorina]<br> 15%  | ![][033]<br> [Nidorino]<br> 15%  | ![][083]<br> [Farfetch'd]<br> 10%| ![][203]<br> [Girafarig]<br> 10% 
+&nbsp;                         | ![][085]<br> [Dodrio]<br> 10%    
+🌞<br>Day                       | ![][185]<br> [Sudowoodo]<br> 20% | ![][435]<br> [Skuntank]<br> 20%  | ![][030]<br> [Nidorina]<br> 15%  | ![][033]<br> [Nidorino]<br> 15%  | ![][083]<br> [Farfetch'd]<br> 10%| ![][203]<br> [Girafarig]<br> 10% 
+&nbsp;                         | ![][085]<br> [Dodrio]<br> 10%    
+🌙<br>Night                     | ![][185]<br> [Sudowoodo]<br> 20% | ![][435]<br> [Skuntank]<br> 20%  | ![][030]<br> [Nidorina]<br> 15%  | ![][033]<br> [Nidorino]<br> 15%  | ![][083]<br> [Farfetch'd]<br> 10%| ![][203]<br> [Girafarig]<br> 10% 
+&nbsp;                         | ![][085]<br> [Dodrio]<br> 10%    
+![][poke-radar]<br> Poké Radar 
+🌊<br> Surf                     | ![][278]<br> [Wingull]<br> 60%   | ![][072]<br> [Tentacool]<br> 30% | ![][279]<br> [Pelipper]<br> 5%   | ![][073]<br> [Tentacruel]<br> 5% 
+![][old-rod]<br> Old Rod       | ![][098]<br> [Krabby]<br> 60%    | ![][116]<br> [Horsea]<br> 30%    | ![][366]<br> [Clamperl]<br> 10%  
+![][good-rod]<br> Good Rod     | ![][098]<br> [Krabby]<br> 60%    | ![][116]<br> [Horsea]<br> 30%    | ![][366]<br> [Clamperl]<br> 10%  
+![][super-rod]<br> Super Rod   | ![][099]<br> [Kingler]<br> 60%   | ![][116]<br> [Horsea]<br> 30%    | ![][367]<br> [Huntail]<br> 5%    | ![][368]<br> [Gorebyss]<br> 5%   
+![][honey]<br> Honey Tree      | ![][421]<br> [Cherrim]<br> 30%   | ![][285]<br> [Shroomish]<br> 20% | ![][102]<br> [Exeggcute]<br> 20% | ![][274]<br> [Nuzleaf]<br> 20%   | ![][114]<br> [Tangela]<br> 10%   
 
 
 [Nidorina]: /pokemon_changes/030/
@@ -40,6 +43,11 @@ Honey Tree | ![][421]  [Cherrim] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Ex
 [Gorebyss]: /pokemon_changes/368/
 [Cherrim]: /pokemon_changes/421/
 [Skuntank]: /pokemon_changes/435/
+[good-rod]: /img/items/good-rod.png
+[honey]: /img/items/honey.png
+[old-rod]: /img/items/old-rod.png
+[poke-radar]: /img/items/poke-radar.png
+[super-rod]: /img/items/super-rod.png
 [030]: /img/pokemon/030.png
 [033]: /img/pokemon/033.png
 [072]: /img/pokemon/072.png

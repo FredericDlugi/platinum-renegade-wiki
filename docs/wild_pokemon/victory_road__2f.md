@@ -1,11 +1,14 @@
 # Victory Road ~ 2F
 Level: 59 (Walking)
 
-Area       | Pokémon
----        | ---
-Morning    | ![][208]  [Steelix] (20%) ![][082]  [Magneton] (20%) ![][075]  [Graveler] (10%)  ![][064]  [Kadabra] (10%) ![][108]  [Lickitung] (10%) ![][042]  [Golbat] (10%)  ![][105]  [Marowak] (10%) ![][444]  [Gabite] (10%)
-Day        | ![][208]  [Steelix] (20%) ![][082]  [Magneton] (20%) ![][075]  [Graveler] (10%)  ![][064]  [Kadabra] (10%) ![][108]  [Lickitung] (10%) ![][042]  [Golbat] (10%)  ![][105]  [Marowak] (10%) ![][444]  [Gabite] (10%)
-Night      | ![][208]  [Steelix] (20%) ![][082]  [Magneton] (20%) ![][075]  [Graveler] (10%)  ![][064]  [Kadabra] (10%) ![][108]  [Lickitung] (10%) ![][042]  [Golbat] (10%)  ![][105]  [Marowak] (10%) ![][444]  [Gabite] (10%)
+Area         | Pokémon                          | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;                           
+---          | ---                              | ---                              | ---                              | ---                              | ---                              | ---                              
+🌅<br>Morning | ![][208]<br> [Steelix]<br> 20%  | ![][082]<br> [Magneton]<br> 20% | ![][075]<br> [Graveler]<br> 10% | ![][064]<br> [Kadabra]<br> 10%  | ![][108]<br> [Lickitung]<br> 10%| ![][042]<br> [Golbat]<br> 10%   
+&nbsp;       | ![][105]<br> [Marowak]<br> 10%  | ![][444]<br> [Gabite]<br> 10%   
+🌞<br>Day     | ![][208]<br> [Steelix]<br> 20%  | ![][082]<br> [Magneton]<br> 20% | ![][075]<br> [Graveler]<br> 10% | ![][064]<br> [Kadabra]<br> 10%  | ![][108]<br> [Lickitung]<br> 10%| ![][042]<br> [Golbat]<br> 10%   
+&nbsp;       | ![][105]<br> [Marowak]<br> 10%  | ![][444]<br> [Gabite]<br> 10%   
+🌙<br>Night   | ![][208]<br> [Steelix]<br> 20%  | ![][082]<br> [Magneton]<br> 20% | ![][075]<br> [Graveler]<br> 10% | ![][064]<br> [Kadabra]<br> 10%  | ![][108]<br> [Lickitung]<br> 10%| ![][042]<br> [Golbat]<br> 10%   
+&nbsp;       | ![][105]<br> [Marowak]<br> 10%  | ![][444]<br> [Gabite]<br> 10%   
 
 
 [Golbat]: /pokemon_changes/042/

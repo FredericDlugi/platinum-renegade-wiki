@@ -1,15 +1,15 @@
 # Oreburgh Gate ~ B1F
 Levels: 8 - 10 (Walking) 20 - 40 (Surfing)
 
-Area       | Pokémon
----        | ---
-Morning    | ![][041]  [Zubat] (35%) ![][074]  [Geodude] (35%) ![][050]  [Diglett] (20%)  ![][447]  [Riolu] (10%)
-Day        | ![][041]  [Zubat] (35%) ![][074]  [Geodude] (35%) ![][050]  [Diglett] (20%)  ![][447]  [Riolu] (10%)
-Night      | ![][041]  [Zubat] (35%) ![][074]  [Geodude] (35%) ![][050]  [Diglett] (20%)  ![][447]  [Riolu] (10%)
-Surf       | ![][041]  [Zubat] (90%) ![][042]  [Golbat] (10%)
-Old Rod    | ![][129]  [Magikarp] (65%) ![][339]  [Barboach] (35%)
-Good Rod   | ![][129]  [Magikarp] (65%) ![][339]  [Barboach] (35%)
-Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
+Area                         | Pokémon                         | &nbsp;                          | &nbsp;                          | &nbsp;                          
+---                          | ---                             | ---                             | ---                             | ---                             
+🌅<br>Morning                 | ![][041]<br> [Zubat]<br> 35%   | ![][074]<br> [Geodude]<br> 35% | ![][050]<br> [Diglett]<br> 20% | ![][447]<br> [Riolu]<br> 10%   
+🌞<br>Day                     | ![][041]<br> [Zubat]<br> 35%   | ![][074]<br> [Geodude]<br> 35% | ![][050]<br> [Diglett]<br> 20% | ![][447]<br> [Riolu]<br> 10%   
+🌙<br>Night                   | ![][041]<br> [Zubat]<br> 35%   | ![][074]<br> [Geodude]<br> 35% | ![][050]<br> [Diglett]<br> 20% | ![][447]<br> [Riolu]<br> 10%   
+🌊<br> Surf                   | ![][041]<br> [Zubat]<br> 90%   | ![][042]<br> [Golbat]<br> 10%  
+![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 65%| ![][339]<br> [Barboach]<br> 35%
+![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 65%| ![][339]<br> [Barboach]<br> 35%
+![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 65%| ![][340]<br> [Whiscash]<br> 35%
 
 
 [Zubat]: /pokemon_changes/041/
@@ -21,6 +21,9 @@ Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
 [Barboach]: /pokemon_changes/339/
 [Whiscash]: /pokemon_changes/340/
 [Riolu]: /pokemon_changes/447/
+[good-rod]: /img/items/good-rod.png
+[old-rod]: /img/items/old-rod.png
+[super-rod]: /img/items/super-rod.png
 [041]: /img/pokemon/041.png
 [042]: /img/pokemon/042.png
 [050]: /img/pokemon/050.png

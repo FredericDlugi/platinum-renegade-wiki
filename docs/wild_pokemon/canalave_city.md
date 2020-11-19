@@ -5,12 +5,12 @@
 
 Levels: 30 - 45 (Surfing)
 
-Area       | Pokémon
----        | ---
-Surf       | ![][072]  [Tentacool] (60%) ![][422]  [Shellos] (30%) ![][073]  [Tentacruel] (5%)  ![][423]  [Gastrodon] (5%)
-Old Rod    | ![][129]  [Magikarp] (60%) ![][456]  [Finneon] (30%) ![][120]  [Staryu] (10%)
-Good Rod   | ![][129]  [Magikarp] (60%) ![][456]  [Finneon] (30%) ![][120]  [Staryu] (10%)
-Super Rod  | ![][130]  [Gyarados] (60%) ![][457]  [Lumineon] (30%) ![][121]  [Starmie] (10%)
+Area                         | Pokémon                          | &nbsp;                           | &nbsp;                           | &nbsp;                           
+---                          | ---                              | ---                              | ---                              | ---                              
+🌊<br> Surf                   | ![][072]<br> [Tentacool]<br> 60%| ![][422]<br> [Shellos]<br> 30%  | ![][073]<br> [Tentacruel]<br> 5%| ![][423]<br> [Gastrodon]<br> 5% 
+![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 60% | ![][456]<br> [Finneon]<br> 30%  | ![][120]<br> [Staryu]<br> 10%   
+![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60% | ![][456]<br> [Finneon]<br> 30%  | ![][120]<br> [Staryu]<br> 10%   
+![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60% | ![][457]<br> [Lumineon]<br> 30% | ![][121]<br> [Starmie]<br> 10%  
 
 
 [Tentacool]: /pokemon_changes/072/
@@ -23,6 +23,9 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][457]  [Lumineon] (30%) ![][121]  [St
 [Gastrodon]: /pokemon_changes/423/
 [Finneon]: /pokemon_changes/456/
 [Lumineon]: /pokemon_changes/457/
+[good-rod]: /img/items/good-rod.png
+[old-rod]: /img/items/old-rod.png
+[super-rod]: /img/items/super-rod.png
 [072]: /img/pokemon/072.png
 [073]: /img/pokemon/073.png
 [120]: /img/pokemon/120.png

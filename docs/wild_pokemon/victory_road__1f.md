@@ -1,11 +1,14 @@
 # Victory Road ~ 1F
 Level: 59 (Walking)
 
-Area       | Pokémon
----        | ---
-Morning    | ![][067]  [Machoke] (20%) ![][042]  [Golbat] (20%) ![][075]  [Graveler] (10%)  ![][308]  [Medicham] (10%) ![][297]  [Hariyama] (10%) ![][444]  [Gabite] (10%)  ![][112]  [Rhydon] (10%) ![][208]  [Steelix] (10%)
-Day        | ![][067]  [Machoke] (20%) ![][042]  [Golbat] (20%) ![][075]  [Graveler] (10%)  ![][308]  [Medicham] (10%) ![][297]  [Hariyama] (10%) ![][444]  [Gabite] (10%)  ![][112]  [Rhydon] (10%) ![][208]  [Steelix] (10%)
-Night      | ![][067]  [Machoke] (20%) ![][042]  [Golbat] (20%) ![][075]  [Graveler] (10%)  ![][308]  [Medicham] (10%) ![][297]  [Hariyama] (10%) ![][444]  [Gabite] (10%)  ![][112]  [Rhydon] (10%) ![][208]  [Steelix] (10%)
+Area         | Pokémon                         | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                          
+---          | ---                             | ---                             | ---                             | ---                             | ---                             | ---                             
+🌅<br>Morning | ![][067]<br> [Machoke]<br> 20% | ![][042]<br> [Golbat]<br> 20%  | ![][075]<br> [Graveler]<br> 10%| ![][308]<br> [Medicham]<br> 10%| ![][297]<br> [Hariyama]<br> 10%| ![][444]<br> [Gabite]<br> 10%  
+&nbsp;       | ![][112]<br> [Rhydon]<br> 10%  | ![][208]<br> [Steelix]<br> 10% 
+🌞<br>Day     | ![][067]<br> [Machoke]<br> 20% | ![][042]<br> [Golbat]<br> 20%  | ![][075]<br> [Graveler]<br> 10%| ![][308]<br> [Medicham]<br> 10%| ![][297]<br> [Hariyama]<br> 10%| ![][444]<br> [Gabite]<br> 10%  
+&nbsp;       | ![][112]<br> [Rhydon]<br> 10%  | ![][208]<br> [Steelix]<br> 10% 
+🌙<br>Night   | ![][067]<br> [Machoke]<br> 20% | ![][042]<br> [Golbat]<br> 20%  | ![][075]<br> [Graveler]<br> 10%| ![][308]<br> [Medicham]<br> 10%| ![][297]<br> [Hariyama]<br> 10%| ![][444]<br> [Gabite]<br> 10%  
+&nbsp;       | ![][112]<br> [Rhydon]<br> 10%  | ![][208]<br> [Steelix]<br> 10% 
 
 
 [Golbat]: /pokemon_changes/042/

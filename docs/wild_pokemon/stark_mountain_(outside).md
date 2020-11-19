@@ -1,11 +1,14 @@
 # Stark Mountain (Outside)
 Levels: 66 - 68 (Walking)
 
-Area       | Pokémon
----        | ---
-Morning    | ![][022]  [Fearow] (20%) ![][112]  [Rhydon] (20%) ![][323]  [Camerupt] (10%)  ![][067]  [Machoke] (10%) ![][227]  [Skarmory] (10%) ![][207]  [Gligar] (10%)  ![][126]  [Magmar] (10%) ![][324]  [Torkoal] (10%)
-Day        | ![][022]  [Fearow] (20%) ![][112]  [Rhydon] (20%) ![][323]  [Camerupt] (10%)  ![][067]  [Machoke] (10%) ![][227]  [Skarmory] (10%) ![][207]  [Gligar] (10%)  ![][126]  [Magmar] (10%) ![][324]  [Torkoal] (10%)
-Night      | ![][022]  [Fearow] (20%) ![][112]  [Rhydon] (20%) ![][323]  [Camerupt] (10%)  ![][067]  [Machoke] (10%) ![][227]  [Skarmory] (10%) ![][207]  [Gligar] (10%)  ![][126]  [Magmar] (10%) ![][324]  [Torkoal] (10%)
+Area         | Pokémon                         | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;
+---          | ---                             | ---                             | ---                             | ---                             | ---                             | ---
+🌅<br>Morning | ![][022]<br> [Fearow]<br> 20%  | ![][112]<br> [Rhydon]<br> 20%  | ![][323]<br> [Camerupt]<br> 10%| ![][067]<br> [Machoke]<br> 10% | ![][227]<br> [Skarmory]<br> 10%| ![][207]<br> [Gligar]<br> 10%
+&nbsp;       | ![][126]<br> [Magmar]<br> 10%  | ![][324]<br> [Torkoal]<br> 10%
+🌞<br>Day     | ![][022]<br> [Fearow]<br> 20%  | ![][112]<br> [Rhydon]<br> 20%  | ![][323]<br> [Camerupt]<br> 10%| ![][067]<br> [Machoke]<br> 10% | ![][227]<br> [Skarmory]<br> 10%| ![][207]<br> [Gligar]<br> 10%
+&nbsp;       | ![][126]<br> [Magmar]<br> 10%  | ![][324]<br> [Torkoal]<br> 10%
+🌙<br>Night   | ![][022]<br> [Fearow]<br> 20%  | ![][112]<br> [Rhydon]<br> 20%  | ![][323]<br> [Camerupt]<br> 10%| ![][067]<br> [Machoke]<br> 10% | ![][227]<br> [Skarmory]<br> 10%| ![][207]<br> [Gligar]<br> 10%
+&nbsp;       | ![][126]<br> [Magmar]<br> 10%  | ![][324]<br> [Torkoal]<br> 10%
 
 
 [Fearow]: /pokemon_changes/022/
