@@ -9,6 +9,7 @@ theme:
     name: material
 
 nav:
+    - Home: index.md
     - Pokémon Changes:
         - General Changes: pokemon_changes/general_changes.md
         - Specific Changes:
@@ -717,4 +718,4 @@ copyright: Maintained by Frederic Dlugi.
 
 plugins:
     - search:
-        prebuild_index: python
+        lang: en

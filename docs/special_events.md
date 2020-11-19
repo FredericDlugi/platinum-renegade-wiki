@@ -3,7 +3,6 @@
 ## General Notes
 - All Pokémon here have the normal chance to be shiny. There are no shiny locks.
 
----
 ## Gift Pokémon
 
 ### Baby Pokémon Egg Gift
@@ -24,14 +23,12 @@
 ![][440]
 ![][446]
 ![][447]
-![][438]
 
 Location: Jubilife City Trainer School
 Level: 1
 
 - Talk to the Cowgirl in the Jubilife School to receive an Egg.
-- The Egg will hatch into one of the following Pokémon at random:
-  [Pichu], [Cleffa], [Igglybuff], [Togepi], [Tyrogue], [Smoochum], [Elekid], [Magby], [Azurill], [Wynaut], [Budew], [Chingling], [Bonsly], [Mime Jr.], [Happiny], [Munchlax], [Riolu], [Mantyke].
+- The Egg will hatch into one of the following Pokémon at random: [Pichu], [Cleffa], [Igglybuff], [Togepi], [Tyrogue], [Smoochum], [Elekid], [Magby], [Azurill], [Wynaut], [Budew], [Chingling], [Bonsly], [Mime Jr.], [Happiny], [Munchlax], [Riolu], [Mantyke].
 - You can save before collecting the Egg and soft reset if you don't like the result.
 
 ### Kanto-Starter

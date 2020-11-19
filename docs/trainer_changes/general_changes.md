@@ -1,9 +1,5 @@
 ## General Changes
 
-!!! note
-    There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/general_changes/).
-
-
 - Trainer rosters in every area has been modified. They are all listed below with species and levels.
 - Important trainers have their entire roster listed including species, levels, items, moves and natures.
 - Natures have not been set for all Trainers - if a '?' is listed where the nature should be then it hasn't been specifically set.
