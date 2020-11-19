@@ -30,89 +30,111 @@ Volt Tackle  | Wild Charge
 Some moves have had changes to their numerical values.
 There are also some cases where moves have lost effects because it can't be replicated in the Gen IV engine.
 
-**Aurora Beam**
-<span style="color:green">**Power: 65 >> 75**</span>
-<span style="color:red">**PP: 20 >> 15**</span>
+Aurora Beam | &nbsp;
+---         | ---
+Power       | <span style="color:green">65 >> 75</span>
+PP          | <span style="color:red">20 >> 15</span>
 
-**Blaze Kick**
-<span style="color:green">**Power: 85 >> 90**</span>
-<span style="color:green">**Accuracy: 90 >> 100**</span>
+Blaze Kick | &nbsp;
+---        | ---
+Power      | <span style="color:green">85 >> 90</span>
+Accuracy   | <span style="color:green">90 >> 100</span>
 
-**Bubble Beam**
-<span style="color:green">**Power: 65 >> 75**</span>
-<span style="color:red">**PP: 20 >> 15**</span>
+Bubble Beam | &nbsp;
+---         | ---
+Power       | <span style="color:green">65 >> 75</span>
+PP          | <span style="color:red">20 >> 15</span>
 
-**Chatter**
-<span style="color:green">**Power: 65 >> 90**</span>
-<span style="color:red">**PP: 20 >> 15**</span>
+Chatter | &nbsp;
+---     | ---
+Power   | <span style="color:green">65 >> 90</span>
+PP      | <span style="color:red">20 >> 15</span>
 
-**Cross Poison**
-<span style="color:green">**Power: 70 >> 90**</span>
-<span style="color:red">**PP: 20 >> 15**</span>
+Cross Poison | &nbsp;
+---          | ---
+Power        | <span style="color:green">70 >> 90</span>
+PP           | <span style="color:red">20 >> 15</span>
 
-**Cut**
-<span style="color:green">**Power: 50 >> 60**</span>
-<span style="color:green">**Accuracy: 95% >> 100%**</span>
-<span style="color:red">**PP: 30 >> 25**</span>
-**Type: Normal >> Grass**
-<span style="color:green">**Effect: No Effect >> High Critical Ratio**</span>
+Cut      | &nbsp;
+---      | ---
+Power    | <span style="color:green">50 >> 60</span>
+Accuracy | <span style="color:green">95% >> 100%</span>
+PP       | <span style="color:red">30 >> 25</span>
+Type     |  Normal >> Grass
+Effect   | <span style="color:green">No Effect >> High Critical Ratio</span>
 
-**Disarming Voice**
-<span style="color:green">**Power: 40 >> 50**</span>
+Disarming Voice | &nbsp;
+---             | ---
+Power           | <span style="color:green">40 >> 50</span>
 
-**Draining Kiss**
-<span style="color:green">**Power: 50 >> 75**</span>
-<span style="color:red">**Recovery: 75% >> 50% (Engine limitation)**</span>
+Draining Kiss | &nbsp;
+---           | ---
+Power         | <span style="color:green">50 >> 75</span>
+<span style="color:red">Recovery: 75% >> 50% (Engine limitation)</span>
 
-**Flame Wheel**
-<span style="color:green">**Power: 60 >> 75**</span>
-<span style="color:red">**PP: 25 >> 15**</span>
+Flame Wheel | &nbsp;
+---         | ---
+Power       | <span style="color:green">60 >> 75</span>
+PP          | <span style="color:red">25 >> 15</span>
 
-**Fly**
-<span style="color:green">**Power: 90 >> 100**</span>
-<span style="color:green">**Accuracy: 95% >> 100%**</span>
+Fly      | &nbsp;
+---      | ---
+Power    | <span style="color:green">90 >> 100</span>
+Accuracy | <span style="color:green">95% >> 100%</span>
 
-**Hurricane**
-<span style="color:red">**Effect: Confusion (30%) >> No Effect (Engine limitation)**</span>
+Hurricane | &nbsp;
+---       | ---
+Effect    | <span style="color:red">Confusion (30%) >> No Effect (Engine limitation)</span>
 
-**Needle Arm**
-<span style="color:green">**Power: 60 >> 90**</span>
+Needle Arm | &nbsp;
+---        | ---
+Power      | <span style="color:green">60 >> 90</span>
 
-**Poison Fang**
-<span style="color:green">**Power: 50 >> 65**</span>
-<span style="color:red">**Accuracy: 100 > 95**</span>
+Poison Fang | &nbsp;
+---         | ---
+Power       | <span style="color:green">50 >> 65</span>
+Accuracy    | <span style="color:red">100 > 95</span>
 
-**Poison Tail**
-<span style="color:green">**Power: 50 >> 90**</span>
-<span style="color:red">**PP: 25 >> 15**</span>
+Poison Tail | &nbsp;
+---         | ---
+Power       | <span style="color:green">50 >> 90</span>
+PP          | <span style="color:red">25 >> 15</span>
 
-**Rock Climb**
-<span style="color:red">**Power: 90 >> 80**</span>
-<span style="color:green">**Accuracy: 85% >> 95%**</span>
-<span style="color:red">**PP: 20 >> 10**</span>
-**Type: Normal >> Rock**
+Rock Climb | &nbsp;
+---        | ---
+Power      | <span style="color:red">90 >> 80</span>
+Accuracy   | <span style="color:green">85% >> 95%</span>
+PP         | <span style="color:red">20 >> 10</span>
+Type       | Normal >> Rock
 
-**Rock Smash**
-<span style="color:green">**Power: 40 >> 60**</span>
+Rock Smash | &nbsp;
+---        | ---
+Power      | <span style="color:green">40 >> 60</span>
 
-**Scald**
-<span style="color:green">**Effect: Burn (30%) + Self thaw + Thaw enemy frozen Pokémon >> Burn (30%) + Self thaw (Engine limitation)**</span>
+Scald   | &nbsp;
+---     | ---
+Effect  | <span style="color:green">Burn (30%) + Self thaw + Thaw enemy frozen Pokémon >> Burn (30%) + Self thaw (Engine limitation)</span>
 
-**Shadow Claw**
-<span style="color:green">**Power: 65 >> 80**</span>
-**PP: 15 >> 15**
+Shadow Claw | &nbsp;
+---         | ---
+Power       | <span style="color:green">65 >> 80</span>
+PP          | 15 >> 15
 
-**Shadow Punch**
-<span style="color:green">**Power: 60 >> 80**</span>
-<span style="color:red">**PP: 20 >> 15**</span>
+Shadow Punch | &nbsp;
+---          | ---
+Power        | <span style="color:green">60 >> 80</span>
+PP           | <span style="color:red">20 >> 15</span>
 
-**Sludge**
-<span style="color:green">**Power: 65 >> 75**</span>
-<span style="color:red">**PP: 20 >> 15**</span>
+Sludge  | &nbsp;
+---     | ---
+Power   | <span style="color:green">65 >> 75</span>
+PP      | <span style="color:red">20 >> 15</span>
 
-**Strength**
-<span style="color:green">**Power: 80 >> 100**</span>
-<span style="color:green">**Effect: No Effect >> May Raise Attack (10%)**</span>
+Strength | &nbsp;
+---      | ---
+Power    | <span style="color:green">80 >> 100</span>
+Effect   | <span style="color:green">No Effect >> May Raise Attack (10%)</span>
 
-**Wild Charge**
-<span style="color:green">**Power: 90 >> 100**</span>
+Wild Charge | &nbsp;
+---         | ---
+Power       | <span style="color:green">90 >> 100</span>
