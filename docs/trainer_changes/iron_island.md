@@ -1,7 +1,7 @@
 # Iron Island
 
-Trainer                          | 1                                    | 2                                    | 3
----                              | ---                                  | ---                                  | ---
+Trainer                          | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6
+---                              | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---
 PKMN Trainer Riley<br>![][riley] | ![][359]<br> [Absol]<br> Lv. 49      | ![][217]<br> [Ursaring]<br> Lv. 49   | ![][376]<br> [Metagross]<br> Lv. 49  | ![][373]<br> [Salamence]<br> Lv. 49  | ![][289]<br> [Slaking]<br> Lv. 49    | ![][448]<br> [Lucario]<br> Lv. 50
 Camper Lawrence                  | ![][005]<br> [Charmeleon]<br> Lv. 46 | ![][424]<br> [Ambipom]<br> Lv. 46    | ![][419]<br> [Floatzel]<br> Lv. 46
 Picnicker Summer                 | ![][253]<br> [Grovyle]<br> Lv. 46    | ![][022]<br> [Fearow]<br> Lv. 46     | ![][026]<br> [Raichu]<br> Lv. 46
