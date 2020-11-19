@@ -21,8 +21,8 @@ Pokémon Ranger Jeffrey     | ![][126]<br> [Magmar]<br> Lv. 39     | ![][310]<br
 
 #### Rematches
 
-Trainer                    | 1                                    | 2
----                        | ---                                  | ---
+Trainer                    | 1                                    | 2                                    | 3
+---                        | ---                                  | ---                                  | ---
 Scientist Shaun (5)        | ![][082]<br> [Magneton]<br> Lv. 38   | ![][101]<br> [Electrode]<br> Lv. 38  | ![][233]<br> [Porygon2]<br> Lv. 38
 Scientist Shaun (8)        | ![][082]<br> [Magneton]<br> Lv. 59   | ![][101]<br> [Electrode]<br> Lv. 59  | ![][233]<br> [Porygon2]<br> Lv. 59
 Scientist Shaun (C)        | ![][462]<br> [Magnezone]<br> Lv. 70  | ![][101]<br> [Electrode]<br> Lv. 70  | ![][474]<br> [Porygon-Z]<br> Lv. 70
@@ -35,8 +35,6 @@ Pokémon Ranger Allison (C) | ![][350]<br> [Milotic]<br> Lv. 71    | ![][470]<br
 Parasol Lady Alexa (5)     | ![][117]<br> [Seadra]<br> Lv. 39     | ![][055]<br> [Golduck]<br> Lv. 39
 Parasol Lady Alexa (8)     | ![][230]<br> [Kingdra]<br> Lv. 60    | ![][055]<br> [Golduck]<br> Lv. 60
 Parasol Lady Alexa (C)     | ![][230]<br> [Kingdra]<br> Lv. 71    | ![][055]<br> [Golduck]<br> Lv. 71
-
-
 
 [Nidoking]: ../../pokemon_changes/034/
 [Golduck]: ../../pokemon_changes/055/
@@ -108,4 +106,3 @@ Parasol Lady Alexa (C)     | ![][230]<br> [Kingdra]<br> Lv. 71    | ![][055]<br>
 [470]: ../img/pokemon/470.png
 [471]: ../img/pokemon/471.png
 [474]: ../img/pokemon/474.png
-

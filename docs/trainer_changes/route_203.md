@@ -4,8 +4,8 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_203/).
 
 
-Trainer              | 1                                   | 2
----                  | ---                                 | ---
+Trainer              | 1                                   | 2                                   | 3
+---                  | ---                                 | ---                                 | ---
 PKMN Trainer Barry   | ![][396]<br> [Starly]<br> Lv. 10    | ![][446]<br> [Munchlax]<br> Lv. 10  | ![][387]<br> [Turtwig]<br> Lv. 11
 PKMN Trainer Barry   | ![][396]<br> [Starly]<br> Lv. 10    | ![][446]<br> [Munchlax]<br> Lv. 10  | ![][390]<br> [Chimchar]<br> Lv. 11
 PKMN Trainer Barry   | ![][396]<br> [Starly]<br> Lv. 10    | ![][446]<br> [Munchlax]<br> Lv. 10  | ![][393]<br> [Piplup]<br> Lv. 11
@@ -17,16 +17,14 @@ Lass Madeline (!)    | ![][054]<br> [Psyduck]<br> Lv. 10   | ![][191]<br> [Sunke
 
 #### Rematches
 
-Trainer              | 1                                   | 2                                   | 3
----                  | ---                                 | ---                                 | ---
+Trainer              | 1                                   | 2                                   | 3                                   | 4
+---                  | ---                                 | ---                                 | ---                                 | ---
 Youngster Dallas (3) | ![][404]<br> [Luxio]<br> Lv. 27     | ![][028]<br> [Sandslash]<br> Lv. 27
 Youngster Dallas (5) | ![][404]<br> [Luxio]<br> Lv. 38     | ![][028]<br> [Sandslash]<br> Lv. 38 | ![][400]<br> [Bibarel]<br> Lv. 38
 Youngster Dallas (C) | ![][405]<br> [Luxray]<br> Lv. 69    | ![][028]<br> [Sandslash]<br> Lv. 69 | ![][400]<br> [Bibarel]<br> Lv. 69   | ![][076]<br> [Golem]<br> Lv. 69
 Lass Madeline (3)    | ![][054]<br> [Psyduck]<br> Lv. 26   | ![][191]<br> [Sunkern]<br> Lv. 26   | ![][427]<br> [Buneary]<br> Lv. 26
 Lass Madeline (5)    | ![][055]<br> [Golduck]<br> Lv. 38   | ![][192]<br> [Sunflora]<br> Lv. 38  | ![][428]<br> [Lopunny]<br> Lv. 38
 Lass Madeline (8)    | ![][055]<br> [Golduck]<br> Lv. 59   | ![][192]<br> [Sunflora]<br> Lv. 59  | ![][428]<br> [Lopunny]<br> Lv. 59
-
-
 
 [Rattata]: ../../pokemon_changes/019/
 [Spearow]: ../../pokemon_changes/021/
@@ -80,4 +78,3 @@ Lass Madeline (8)    | ![][055]<br> [Golduck]<br> Lv. 59   | ![][192]<br> [Sunfl
 [427]: ../img/pokemon/427.png
 [428]: ../img/pokemon/428.png
 [446]: ../img/pokemon/446.png
-

@@ -4,22 +4,20 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/lake_valor/).
 
 
-Trainer          | 1                                   | 2                                   | 3                                   | 4                                   | 5
----              | ---                                 | ---                                 | ---                                 | ---                                 | ---
-Galactic Grunt   | ![][432]<br> [Purugly]<br> Lv. 50
-Galactic Grunt   | ![][229]<br> [Houndoom]<br> Lv. 50
-Galactic Grunt   | ![][435]<br> [Skuntank]<br> Lv. 50
-Commander Saturn | ![][065]<br> [Alakazam]<br> Lv. 52  | ![][224]<br> [Octillery]<br> Lv. 52 | ![][437]<br> [Bronzong]<br> Lv. 52  | ![][112]<br> [Rhydon]<br> Lv. 52    | ![][454]<br> [Toxicroak]<br> Lv. 53
+Trainer                         | 1                                   | 2                                   | 3                                   | 4                                   | 5
+---                             | ---                                 | ---                                 | ---                                 | ---                                 | ---
+Galactic Grunt                  | ![][432]<br> [Purugly]<br> Lv. 50
+Galactic Grunt                  | ![][229]<br> [Houndoom]<br> Lv. 50
+Galactic Grunt                  | ![][435]<br> [Skuntank]<br> Lv. 50
+Commander Saturn<br>![][saturn] | ![][065]<br> [Alakazam]<br> Lv. 52  | ![][224]<br> [Octillery]<br> Lv. 52 | ![][437]<br> [Bronzong]<br> Lv. 52  | ![][112]<br> [Rhydon]<br> Lv. 52    | ![][454]<br> [Toxicroak]<br> Lv. 53
 
-Commander Saturn                    | Item                                 | Nature | Ability      | Moves
+Commander Saturn<br>![][saturn]     | Item                                 | Nature | Ability      | Moves
 ---                                 | ---                                  | --- | ---          | ---
 ![][065]<br> [Alakazam]<br> Lv. 52  | ![][wise-glasses]<br> Wise Glasses   | ? | Magic Guard  | Psychic, Calm Mind, Recover, Focus Blast
 ![][224]<br> [Octillery]<br> Lv. 52 | ![][expert-belt]<br> Expert Belt     | ? | Suction Cups | Hydro Pump, Seed Bomb, Flamethrower, Flash Cannon
 ![][437]<br> [Bronzong]<br> Lv. 52  | ![][bright-powder]<br> Bright Powder | ? | Levitate     | Iron Head, Zen Headbutt, Shadow Ball, Explosion
 ![][112]<br> [Rhydon]<br> Lv. 52    | ![][muscle-band]<br> Muscle Band     | ? | Rock Head    | Stone Edge, Earthquake, Hammer Arm, Megahorn
 ![][454]<br> [Toxicroak]<br> Lv. 53 | ![][life-orb]<br> Life Orb           | ? | Dry Skin     | Gunk Shot, Cross Chop, Fake Out, Sucker Punch
-
-
 
 [Alakazam]: ../../pokemon_changes/065/
 [Rhydon]: ../../pokemon_changes/112/
@@ -42,4 +40,4 @@ Commander Saturn                    | Item                                 | Nat
 [435]: ../img/pokemon/435.png
 [437]: ../img/pokemon/437.png
 [454]: ../img/pokemon/454.png
-
+[saturn]: ../img/trainer/saturn.png

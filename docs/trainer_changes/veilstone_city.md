@@ -1,12 +1,10 @@
 # Veilstone City
 
-Trainer             | 1                                   | 2                                   | 3                                   
----                 | ---                                 | ---                                 | ---                                 
-Dragon Tamer Nils   | ![][148]<br> [Dragonair]<br> Lv. 35 | ![][372]<br> [Shelgon]<br> Lv. 35   | ![][329]<br> [Vibrava]<br> Lv. 35   | ![][230]<br> [Kingdra]<br> Lv. 36   
-Team Galactic Grunt | ![][110]<br> [Weezing]<br> Lv. 35   | ![][042]<br> [Golbat]<br> Lv. 35    | ![][049]<br> [Venomoth]<br> Lv. 35  
-Team Galactic Grunt | ![][435]<br> [Skuntank]<br> Lv. 35  | ![][269]<br> [Dustox]<br> Lv. 35    | ![][413]<br> [Wormadam]<br> Lv. 35  
-
-
+Trainer             | 1                                   | 2                                   | 3                                   | 4
+---                 | ---                                 | ---                                 | ---                                 | ---
+Dragon Tamer Nils   | ![][148]<br> [Dragonair]<br> Lv. 35 | ![][372]<br> [Shelgon]<br> Lv. 35   | ![][329]<br> [Vibrava]<br> Lv. 35   | ![][230]<br> [Kingdra]<br> Lv. 36
+Team Galactic Grunt | ![][110]<br> [Weezing]<br> Lv. 35   | ![][042]<br> [Golbat]<br> Lv. 35    | ![][049]<br> [Venomoth]<br> Lv. 35
+Team Galactic Grunt | ![][435]<br> [Skuntank]<br> Lv. 35  | ![][269]<br> [Dustox]<br> Lv. 35    | ![][413]<br> [Wormadam]<br> Lv. 35
 
 [Golbat]: ../../pokemon_changes/042/
 [Venomoth]: ../../pokemon_changes/049/
@@ -28,4 +26,3 @@ Team Galactic Grunt | ![][435]<br> [Skuntank]<br> Lv. 35  | ![][269]<br> [Dustox
 [372]: ../img/pokemon/372.png
 [413]: ../img/pokemon/413.png
 [435]: ../img/pokemon/435.png
-

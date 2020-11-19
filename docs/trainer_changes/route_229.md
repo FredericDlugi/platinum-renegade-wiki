@@ -4,15 +4,15 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_229/).
 
 
-Trainer             | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6
----                 | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---
-PKMN Ranger Deshawn | ![][327]<br> [Spinda]<br> Lv. 74     | ![][352]<br> [Kecleon]<br> Lv. 74    | ![][210]<br> [Granbull]<br> Lv. 74
-Ace Trainer Felix   | ![][477]<br> [Dusknoir]<br> Lv. 76   | ![][373]<br> [Salamence]<br> Lv. 76
-Ace Trainer Dana    | ![][262]<br> [Mightyena]<br> Lv. 75  | ![][282]<br> [Gardevoir]<br> Lv. 75  | ![][012]<br> [Butterfree]<br> Lv. 75
-Ace Trainer Sandra  | ![][051]<br> [Dugtrio]<br> Lv. 74    | ![][026]<br> [Raichu]<br> Lv. 74     | ![][059]<br> [Arcanine]<br> Lv. 74   | ![][045]<br> [Vileplume]<br> Lv. 74
-Ace Trainer Gene *  | ![][234]<br> [Stantler]<br> Lv. 76   | ![][085]<br> [Dodrio]<br> Lv. 76     | ![][203]<br> [Girafarig]<br> Lv. 76  | ![][400]<br> [Bibarel]<br> Lv. 76    | ![][474]<br> [Porygon-Z]<br> Lv. 76  | ![][143]<br> [Snorlax]<br> Lv. 77
+Trainer                            | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6
+---                                | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---
+PKMN Ranger Deshawn                | ![][327]<br> [Spinda]<br> Lv. 74     | ![][352]<br> [Kecleon]<br> Lv. 74    | ![][210]<br> [Granbull]<br> Lv. 74
+Ace Trainer Felix                  | ![][477]<br> [Dusknoir]<br> Lv. 76   | ![][373]<br> [Salamence]<br> Lv. 76
+Ace Trainer Dana                   | ![][262]<br> [Mightyena]<br> Lv. 75  | ![][282]<br> [Gardevoir]<br> Lv. 75  | ![][012]<br> [Butterfree]<br> Lv. 75
+Ace Trainer Sandra                 | ![][051]<br> [Dugtrio]<br> Lv. 74    | ![][026]<br> [Raichu]<br> Lv. 74     | ![][059]<br> [Arcanine]<br> Lv. 74   | ![][045]<br> [Vileplume]<br> Lv. 74
+Ace Trainer Gene *<br>![][ace_f_2] | ![][234]<br> [Stantler]<br> Lv. 76   | ![][085]<br> [Dodrio]<br> Lv. 76     | ![][203]<br> [Girafarig]<br> Lv. 76  | ![][400]<br> [Bibarel]<br> Lv. 76    | ![][474]<br> [Porygon-Z]<br> Lv. 76  | ![][143]<br> [Snorlax]<br> Lv. 77
 
-Ace Trainer Gene                    | Item                               | Nature | Ability      | Moves
+Ace Trainer Gene<br>![][ace_m_2]    | Item                               | Nature | Ability      | Moves
 ---                                 | ---                                | --- | ---          | ---
 ![][234]<br> [Stantler]<br> Lv. 76  | ![][choice-scarf]<br> Choice Scarf | ? | Intimidate   | Double-Edge, Jump Kick, Megahorn, Zen Headbutt
 ![][085]<br> [Dodrio]<br> Lv. 76    | ![][muscle-band]<br> Muscle Band   | ? | Tangled Feet | Double-Edge, Brave Bird, High Jump Kick, Drill Run
@@ -20,8 +20,6 @@ Ace Trainer Gene                    | Item                               | Natur
 ![][400]<br> [Bibarel]<br> Lv. 76   | ![][chople-berry]<br> Chople Berry | ? | Simple       | Double-Edge, Aqua Tail, Crunch, Curse
 ![][474]<br> [Porygon-Z]<br> Lv. 76 | ![][life-orb]<br> Life Orb         | ? | Adaptability | Hyper Beam, Thunderbolt, Ice Beam, Psychic
 ![][143]<br> [Snorlax]<br> Lv. 77   | ![][leftovers]<br> Leftovers       | ? | Thick Fat    | Body Slam, Earthquake, Curse, Slack Off
-
-
 
 [Butterfree]: ../../pokemon_changes/012/
 [Raichu]: ../../pokemon_changes/026/
@@ -65,4 +63,5 @@ Ace Trainer Gene                    | Item                               | Natur
 [400]: ../img/pokemon/400.png
 [474]: ../img/pokemon/474.png
 [477]: ../img/pokemon/477.png
-
+[ace_f_2]: ../img/trainer/ace_f_2.png
+[ace_m_2]: ../img/trainer/ace_m_2.png

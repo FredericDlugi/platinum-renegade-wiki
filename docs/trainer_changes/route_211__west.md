@@ -18,8 +18,6 @@ Ninja Boy Zach (5) | ![][042]<br> [Golbat]<br> Lv. 38  | ![][451]<br> [Skorupi]<
 Ninja Boy Zach (8) | ![][169]<br> [Crobat]<br> Lv. 59  | ![][452]<br> [Drapion]<br> Lv. 59 | ![][169]<br> [Crobat]<br> Lv. 59
 Ninja Boy Zach (C) | ![][169]<br> [Crobat]<br> Lv. 70  | ![][452]<br> [Drapion]<br> Lv. 70 | ![][169]<br> [Crobat]<br> Lv. 70
 
-
-
 [Zubat]: ../../pokemon_changes/041/
 [Golbat]: ../../pokemon_changes/042/
 [Geodude]: ../../pokemon_changes/074/
@@ -42,4 +40,3 @@ Ninja Boy Zach (C) | ![][169]<br> [Crobat]<br> Lv. 70  | ![][452]<br> [Drapion]<
 [397]: ../img/pokemon/397.png
 [451]: ../img/pokemon/451.png
 [452]: ../img/pokemon/452.png
-

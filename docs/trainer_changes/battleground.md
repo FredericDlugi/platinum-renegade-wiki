@@ -25,8 +25,6 @@ PKMN Trainer Lucas  | ![][065]<br> [Alakazam]<br> Lv. 83   | ![][473]<br> [Mamos
 PKMN Trainer Lucas  | ![][065]<br> [Alakazam]<br> Lv. 83   | ![][473]<br> [Mamoswine]<br> Lv. 83  | ![][210]<br> [Granbull]<br> Lv. 83   | ![][463]<br> [Lickilicky]<br> Lv. 83 | ![][135]<br> [Jolteon]<br> Lv. 83    | ![][392]<br> [Infernape]<br> Lv. 84
 PKMN Trainer Lucas  | ![][065]<br> [Alakazam]<br> Lv. 83   | ![][473]<br> [Mamoswine]<br> Lv. 83  | ![][210]<br> [Granbull]<br> Lv. 83   | ![][463]<br> [Lickilicky]<br> Lv. 83 | ![][136]<br> [Flareon]<br> Lv. 83    | ![][395]<br> [Empoleon]<br> Lv. 84
 
-
-
 [Raichu]: ../../pokemon_changes/026/
 [Clefable]: ../../pokemon_changes/036/
 [Arcanine]: ../../pokemon_changes/059/
@@ -189,4 +187,3 @@ PKMN Trainer Lucas  | ![][065]<br> [Alakazam]<br> Lv. 83   | ![][473]<br> [Mamos
 [477]: ../img/pokemon/477.png
 [478]: ../img/pokemon/478.png
 [479]: ../img/pokemon/479.png
-

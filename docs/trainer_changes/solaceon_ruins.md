@@ -7,12 +7,9 @@ Trainer          | 1                                   | 2                      
 ---              | ---                                 | ---                                 | ---
 Ruin Maniac Karl | ![][436]<br> [Bronzor]<br> Lv. 31   | ![][075]<br> [Graveler]<br> Lv. 31  | ![][028]<br> [Sandslash]<br> Lv. 31
 
-
-
 [Sandslash]: ../../pokemon_changes/028/
 [Graveler]: ../../pokemon_changes/075/
 [Bronzor]: ../../pokemon_changes/436/
 [028]: ../img/pokemon/028.png
 [075]: ../img/pokemon/075.png
 [436]: ../img/pokemon/436.png
-

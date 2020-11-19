@@ -4,8 +4,8 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_210__south/).
 
 
-Trainer               | 1
----                   | ---
+Trainer               | 1                                   | 2                                   | 3
+---                   | ---                                 | ---                                 | ---
 Twins Teri & Tia      | ![][162]<br> [Furret]<br> Lv. 32    | ![][264]<br> [Linoone]<br> Lv. 32
 Jogger Wyatt          | ![][101]<br> [Electrode]<br> Lv. 33
 PKMN Breeder Kahlil   | ![][447]<br> [Riolu]<br> Lv. 31     | ![][433]<br> [Chingling]<br> Lv. 31 | ![][446]<br> [Munchlax]<br> Lv. 31
@@ -22,8 +22,6 @@ Trainer           | 1                                  | 2                      
 ---               | ---                                | ---                                | ---
 Rancher Marco (8) | ![][078]<br> [Rapidash]<br> Lv. 59 | ![][128]<br> [Tauros]<br> Lv. 59   | ![][241]<br> [Miltank]<br> Lv. 59
 Rancher Marco (C) | ![][078]<br> [Rapidash]<br> Lv. 70 | ![][128]<br> [Tauros]<br> Lv. 70   | ![][241]<br> [Miltank]<br> Lv. 70
-
-
 
 [Clefable]: ../../pokemon_changes/036/
 [Rapidash]: ../../pokemon_changes/078/
@@ -59,4 +57,3 @@ Rancher Marco (C) | ![][078]<br> [Rapidash]<br> Lv. 70 | ![][128]<br> [Tauros]<b
 [446]: ../img/pokemon/446.png
 [447]: ../img/pokemon/447.png
 [458]: ../img/pokemon/458.png
-

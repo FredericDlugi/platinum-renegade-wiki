@@ -4,8 +4,8 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_204__north/).
 
 
-Trainer                 | 1                                    | 2
----                     | ---                                  | ---
+Trainer                 | 1                                    | 2                                    | 3
+---                     | ---                                  | ---                                  | ---
 Aroma Lady Taylor       | ![][420]<br> [Cherubi]<br> Lv. 13    | ![][187]<br> [Hoppip]<br> Lv. 13     | ![][285]<br> [Shroomish]<br> Lv. 13
 Bug Catcher Brandon (!) | ![][265]<br> [Wurmple]<br> Lv. 14    | ![][402]<br> [Kricketune]<br> Lv. 14
 Twins Liv & Liz         | ![][311]<br> [Plusle]<br> Lv. 15     | ![][312]<br> [Minun]<br> Lv. 15
@@ -17,8 +17,6 @@ Trainer                 | 1                                    | 2              
 Bug Catcher Brandon (3) | ![][269]<br> [Dustox]<br> Lv. 27     | ![][402]<br> [Kricketune]<br> Lv. 27
 Bug Catcher Brandon (5) | ![][269]<br> [Dustox]<br> Lv. 38     | ![][402]<br> [Kricketune]<br> Lv. 38 | ![][123]<br> [Scyther]<br> Lv. 38
 Bug Catcher Brandon (C) | ![][269]<br> [Dustox]<br> Lv. 70     | ![][402]<br> [Kricketune]<br> Lv. 70 | ![][212]<br> [Scizor]<br> Lv. 70
-
-
 
 [Scyther]: ../../pokemon_changes/123/
 [Hoppip]: ../../pokemon_changes/187/
@@ -40,4 +38,3 @@ Bug Catcher Brandon (C) | ![][269]<br> [Dustox]<br> Lv. 70     | ![][402]<br> [K
 [312]: ../img/pokemon/312.png
 [402]: ../img/pokemon/402.png
 [420]: ../img/pokemon/420.png
-

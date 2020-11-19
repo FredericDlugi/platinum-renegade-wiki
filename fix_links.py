@@ -10,6 +10,7 @@ def fix_links(file_name, links):
     for link in links:
         link_id = link.split("]:")[0].replace("[","")
         data = re.sub(r"\[{}\]\:.*\n".format(link_id), "", data)
+    data=data.strip()+"\n\n"
     # add neccasery links
     for link in links:
         link_id = link.split(":")[0]
@@ -28,6 +29,16 @@ parser.add_argument('paths', nargs='+', help='the paths to all files where the l
 args = parser.parse_args()
 
 links = open(args.l).readlines()
+for link in links:
+    link_id = link.split(":")[0]
+    count = 0
+    for other in links:
+        if other.startswith(link_id):
+            count += 1
+    if count > 1:
+        print("ERROR: the link with id {} is duplicated.".format(link_id))
+        exit()
+
 print("Found {} file with {:d} links".format(args.l, len(links)))
 
 for path in args.paths:

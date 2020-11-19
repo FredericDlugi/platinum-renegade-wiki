@@ -1,18 +1,16 @@
 # Jubilife City
 
-Trainer            | 1                                   | 2                                   
----                | ---                                 | ---                                 
-Reporter Kayla     | ![][001]<br> [Bulbasaur]<br> Lv. 5  | ![][004]<br> [Charmander]<br> Lv. 5 | ![][007]<br> [Squirtle]<br> Lv. 5   
-Galactic Grunt     | ![][434]<br> [Stunky]<br> Lv. 13    | ![][266]<br> [Silcoon]<br> Lv. 13   
-Galactic Grunt     | ![][431]<br> [Glameow]<br> Lv. 13   | ![][268]<br> [Cascoon]<br> Lv. 13   
-PKMN Trainer Dawn  | ![][035]<br> [Clefairy]<br> Lv. 13  | ![][393]<br> [Piplup]<br> Lv. 14    
-PKMN Trainer Dawn  | ![][035]<br> [Clefairy]<br> Lv. 13  | ![][387]<br> [Turtwig]<br> Lv. 14   
-PKMN Trainer Dawn  | ![][035]<br> [Clefairy]<br> Lv. 13  | ![][390]<br> [Chimchar]<br> Lv. 14  
-PKMN Trainer Lucas | ![][209]<br> [Snubbull]<br> Lv. 13  | ![][393]<br> [Piplup]<br> Lv. 14    
-PKMN Trainer Lucas | ![][209]<br> [Snubbull]<br> Lv. 13  | ![][387]<br> [Turtwig]<br> Lv. 14   
-PKMN Trainer Lucas | ![][209]<br> [Snubbull]<br> Lv. 13  | ![][390]<br> [Chimchar]<br> Lv. 14  
-
-
+Trainer            | 1                                   | 2                                   | 3
+---                | ---                                 | ---                                 | ---
+Reporter Kayla     | ![][001]<br> [Bulbasaur]<br> Lv. 5  | ![][004]<br> [Charmander]<br> Lv. 5 | ![][007]<br> [Squirtle]<br> Lv. 5
+Galactic Grunt     | ![][434]<br> [Stunky]<br> Lv. 13    | ![][266]<br> [Silcoon]<br> Lv. 13
+Galactic Grunt     | ![][431]<br> [Glameow]<br> Lv. 13   | ![][268]<br> [Cascoon]<br> Lv. 13
+PKMN Trainer Dawn  | ![][035]<br> [Clefairy]<br> Lv. 13  | ![][393]<br> [Piplup]<br> Lv. 14
+PKMN Trainer Dawn  | ![][035]<br> [Clefairy]<br> Lv. 13  | ![][387]<br> [Turtwig]<br> Lv. 14
+PKMN Trainer Dawn  | ![][035]<br> [Clefairy]<br> Lv. 13  | ![][390]<br> [Chimchar]<br> Lv. 14
+PKMN Trainer Lucas | ![][209]<br> [Snubbull]<br> Lv. 13  | ![][393]<br> [Piplup]<br> Lv. 14
+PKMN Trainer Lucas | ![][209]<br> [Snubbull]<br> Lv. 13  | ![][387]<br> [Turtwig]<br> Lv. 14
+PKMN Trainer Lucas | ![][209]<br> [Snubbull]<br> Lv. 13  | ![][390]<br> [Chimchar]<br> Lv. 14
 
 [Bulbasaur]: ../../pokemon_changes/001/
 [Charmander]: ../../pokemon_changes/004/
@@ -38,4 +36,3 @@ PKMN Trainer Lucas | ![][209]<br> [Snubbull]<br> Lv. 13  | ![][390]<br> [Chimcha
 [393]: ../img/pokemon/393.png
 [431]: ../img/pokemon/431.png
 [434]: ../img/pokemon/434.png
-

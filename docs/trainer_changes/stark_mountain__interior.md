@@ -17,9 +17,7 @@ Dragon Tamer Kenny    | ![][373]<br> [Salamence]<br> Lv. 78                 | ![
 Ace Trainer Skylar    | ![][295]<br> [Exploud]<br> Lv. 78                   | ![][409]<br> [Rampardos]<br> Lv. 78                 | ![][279]<br> [Pelipper]<br> Lv. 78                  
 Ace Trainer Natasha   | ![][040]<br> [Wigglytuff]<br> Lv. 78                | ![][065]<br> [Alakazam]<br> Lv. 78                  | ![][308]<br> [Medicham]<br> Lv. 78                  
 Dragon Tamer Drake    | ![][445]<br> [Garchomp]<br> Lv. 78                  | ![][149]<br> [Dragonite]<br> Lv. 78                 | ![][230]<br> [Kingdra]<br> Lv. 78                   
-Black Belt Jarrett    | ![][068]<br> [Machamp]<br> Lv. 78                   | ![][257]<br> [Blaziken]<br> Lv. 78                  | ![][062]<br> [Poliwrath]<br> Lv. 78                 
-
-
+Black Belt Jarrett    | ![][068]<br> [Machamp]<br> Lv. 78                   | ![][257]<br> [Blaziken]<br> Lv. 78                  | ![][062]<br> [Poliwrath]<br> Lv. 78
 
 [Raticate]: ../../pokemon_changes/020/
 [Fearow]: ../../pokemon_changes/022/
@@ -115,4 +113,3 @@ Black Belt Jarrett    | ![][068]<br> [Machamp]<br> Lv. 78                   | ![
 [467]: ../img/pokemon/467.png
 [472]: ../img/pokemon/472.png
 [475]: ../img/pokemon/475.png
-

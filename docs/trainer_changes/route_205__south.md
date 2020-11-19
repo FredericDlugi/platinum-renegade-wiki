@@ -17,8 +17,8 @@ Camper Zackary (!)       | ![][190]<br> [Aipom]<br> Lv. 15     | ![][287]<br> [S
 
 #### Rematches
 
-Trainer                  | 1                                   | 2
----                      | ---                                 | ---
+Trainer                  | 1                                   | 2                                   | 3
+---                      | ---                                 | ---                                 | ---
 Aroma Lady Elizabeth (3) | ![][153]<br> [Bayleef]<br> Lv. 27   | ![][002]<br> [Ivysaur]<br> Lv. 27
 Aroma Lady Elizabeth (5) | ![][154]<br> [Meganium]<br> Lv. 39  | ![][003]<br> [Venusaur]<br> Lv. 39
 Aroma Lady Elizabeth (C) | ![][154]<br> [Meganium]<br> Lv. 71  | ![][003]<br> [Venusaur]<br> Lv. 71
@@ -28,8 +28,6 @@ Camper Zackary (C)       | ![][424]<br> [Ambipom]<br> Lv. 70   | ![][289]<br> [S
 Picnicker Karina (3)     | ![][394]<br> [Prinplup]<br> Lv. 27  | ![][391]<br> [Monferno]<br> Lv. 27
 Picnicker Karina (5)     | ![][395]<br> [Empoleon]<br> Lv. 39  | ![][392]<br> [Infernape]<br> Lv. 39
 Picnicker Karina (C)     | ![][395]<br> [Empoleon]<br> Lv. 71  | ![][392]<br> [Infernape]<br> Lv. 71
-
-
 
 [Bulbasaur]: ../../pokemon_changes/001/
 [Ivysaur]: ../../pokemon_changes/002/
@@ -93,4 +91,3 @@ Picnicker Karina (C)     | ![][395]<br> [Empoleon]<br> Lv. 71  | ![][392]<br> [I
 [418]: ../img/pokemon/418.png
 [422]: ../img/pokemon/422.png
 [424]: ../img/pokemon/424.png
-

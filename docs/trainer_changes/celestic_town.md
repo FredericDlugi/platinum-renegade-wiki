@@ -16,8 +16,6 @@ Galactic Boss Cyrus<br>![][cyrus]   | Item                               | Natur
 ![][462]<br> [Magnezone]<br> Lv. 45 | ![][life-orb]<br> Life Orb         | ? | Magnet Pull    | Thunderbolt, Flash Cannon, Thunder Wave, Mirror Coat
 ![][461]<br> [Weavile]<br> Lv. 46   | ![][expert-belt]<br> Expert Belt   | ? | Technician (!) | Feint Attack, Icicle Crash, Ice Shard, Swords Dance
 
-
-
 [Beedrill]: ../../pokemon_changes/015/
 [Golbat]: ../../pokemon_changes/042/
 [Crobat]: ../../pokemon_changes/169/
@@ -37,4 +35,3 @@ Galactic Boss Cyrus<br>![][cyrus]   | Item                               | Natur
 [461]: ../img/pokemon/461.png
 [462]: ../img/pokemon/462.png
 [cyrus]: ../img/trainer/cyrus.png
-

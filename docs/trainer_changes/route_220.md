@@ -14,8 +14,6 @@ Swimmer Claire  | ![][121]<br> [Starmie]<br> Lv. 44    | ![][009]<br> [Blastoise
 Swimmer Erik    | ![][186]<br> [Politoed]<br> Lv. 44   | ![][171]<br> [Lanturn]<br> Lv. 44
 Swimmer Katelyn | ![][419]<br> [Floatzel]<br> Lv. 43   | ![][308]<br> [Medicham]<br> Lv. 43   | ![][119]<br> [Seaking]<br> Lv. 43
 
-
-
 [Blastoise]: ../../pokemon_changes/009/
 [Tentacruel]: ../../pokemon_changes/073/
 [Seadra]: ../../pokemon_changes/117/
@@ -46,4 +44,3 @@ Swimmer Katelyn | ![][419]<br> [Floatzel]<br> Lv. 43   | ![][308]<br> [Medicham]
 [370]: ../img/pokemon/370.png
 [419]: ../img/pokemon/419.png
 [457]: ../img/pokemon/457.png
-

@@ -1,27 +1,25 @@
 # Wayward Cave
 
-Trainer            | 1                                   | 2                                   
----                | ---                                 | ---                                 
-PKMN Trainer Mira  | ![][176]<br> [Togetic]<br> Lv. 27   | ![][093]<br> [Haunter]<br> Lv. 27   | ![][233]<br> [Porygon2]<br> Lv. 27  | ![][064]<br> [Kadabra]<br> Lv. 28   
-Hiker Reginald     | ![][051]<br> [Dugtrio]<br> Lv. 26   
-Hiker Lorenzo      | ![][111]<br> [Rhyhorn]<br> Lv. 25   | ![][185]<br> [Sudowoodo]<br> Lv. 25 
-Lass Cassidy       | ![][300]<br> [Skitty]<br> Lv. 24    | ![][052]<br> [Meowth]<br> Lv. 24    | ![][133]<br> [Eevee]<br> Lv. 24     
-Youngster Wayne    | ![][294]<br> [Loudred]<br> Lv. 25   | ![][020]<br> [Raticate]<br> Lv. 25  
-Picnicker Tori     | ![][054]<br> [Psyduck]<br> Lv. 25   | ![][030]<br> [Nidorina]<br> Lv. 25  
-Camper Diego       | ![][190]<br> [Aipom]<br> Lv. 25     | ![][033]<br> [Nidorino]<br> Lv. 25  
-Picnicker Ana      | ![][314]<br> [Illumise]<br> Lv. 25  | ![][162]<br> [Furret]<br> Lv. 25    
-Camper Parker      | ![][313]<br> [Volbeat]<br> Lv. 25   | ![][264]<br> [Linoone]<br> Lv. 25   
-Collector Terry    | ![][443]<br> [Gible]<br> Lv. 24     | ![][371]<br> [Bagon]<br> Lv. 24     | ![][444]<br> [Gabite]<br> Lv. 24    
-Ruin Maniac Gerald | ![][104]<br> [Cubone]<br> Lv. 25    | ![][476]<br> [Probopass]<br> Lv. 25 
+Trainer                        | 1                                   | 2                                   | 3                                   | 4
+---                            | ---                                 | ---                                 | ---                                 | ---
+PKMN Trainer Mira<br>![][mira] | ![][176]<br> [Togetic]<br> Lv. 27   | ![][093]<br> [Haunter]<br> Lv. 27   | ![][233]<br> [Porygon2]<br> Lv. 27  | ![][064]<br> [Kadabra]<br> Lv. 28
+Hiker Reginald                 | ![][051]<br> [Dugtrio]<br> Lv. 26
+Hiker Lorenzo                  | ![][111]<br> [Rhyhorn]<br> Lv. 25   | ![][185]<br> [Sudowoodo]<br> Lv. 25
+Lass Cassidy                   | ![][300]<br> [Skitty]<br> Lv. 24    | ![][052]<br> [Meowth]<br> Lv. 24    | ![][133]<br> [Eevee]<br> Lv. 24
+Youngster Wayne                | ![][294]<br> [Loudred]<br> Lv. 25   | ![][020]<br> [Raticate]<br> Lv. 25
+Picnicker Tori                 | ![][054]<br> [Psyduck]<br> Lv. 25   | ![][030]<br> [Nidorina]<br> Lv. 25
+Camper Diego                   | ![][190]<br> [Aipom]<br> Lv. 25     | ![][033]<br> [Nidorino]<br> Lv. 25
+Picnicker Ana                  | ![][314]<br> [Illumise]<br> Lv. 25  | ![][162]<br> [Furret]<br> Lv. 25
+Camper Parker                  | ![][313]<br> [Volbeat]<br> Lv. 25   | ![][264]<br> [Linoone]<br> Lv. 25
+Collector Terry                | ![][443]<br> [Gible]<br> Lv. 24     | ![][371]<br> [Bagon]<br> Lv. 24     | ![][444]<br> [Gabite]<br> Lv. 24
+Ruin Maniac Gerald             | ![][104]<br> [Cubone]<br> Lv. 25    | ![][476]<br> [Probopass]<br> Lv. 25
 
-PKMN Trainer Mira                  | Item                               | Nature | Ability      | Moves                                              
----                                | ---                                | ---    | ---          | ---                                                
+PKMN Trainer Mira<br>![][mira]     | Item                               | Nature | Ability      | Moves
+---                                | ---                                | ---    | ---          | ---
 ![][176]<br> [Togetic]<br> Lv. 27  | ![][sitrus-berry]<br> Sitrus Berry | Modest | Serene Grace | Dazzling Gleam, Air Cutter, Soft-Boiled, Sweet Kiss
-![][093]<br> [Haunter]<br> Lv. 27  | ![][spell-tag]<br> Spell Tag       | Hasty  | Levitate     | Shadow Ball, Double Team, Hypnosis, Curse          
-![][233]<br> [Porygon2]<br> Lv. 27 | ![][expert-belt]<br> Expert Belt   | Calm   | Trace        | Tri Attack, Charge Beam, Signal Beam, Recover      
-![][064]<br> [Kadabra]<br> Lv. 28  | ![][life-orb]<br> Life Orb         | Modest | Magic Guard  | Psybeam, Grass Knot, Dazzling Gleam, Recover       
-
-
+![][093]<br> [Haunter]<br> Lv. 27  | ![][spell-tag]<br> Spell Tag       | Hasty  | Levitate     | Shadow Ball, Double Team, Hypnosis, Curse
+![][233]<br> [Porygon2]<br> Lv. 27 | ![][expert-belt]<br> Expert Belt   | Calm   | Trace        | Tri Attack, Charge Beam, Signal Beam, Recover
+![][064]<br> [Kadabra]<br> Lv. 28  | ![][life-orb]<br> Life Orb         | Modest | Magic Guard  | Psybeam, Grass Knot, Dazzling Gleam, Recover
 
 [Raticate]: ../../pokemon_changes/020/
 [Nidorina]: ../../pokemon_changes/030/
@@ -77,4 +75,4 @@ PKMN Trainer Mira                  | Item                               | Nature
 [443]: ../img/pokemon/443.png
 [444]: ../img/pokemon/444.png
 [476]: ../img/pokemon/476.png
-
+[mira]: ../img/trainer/mira.png

@@ -26,8 +26,6 @@ Ace Trainer Dennis (S) | ![][472]<br> [Gliscor]<br> Lv. 77    | ![][130]<br> [Gy
 Ace Trainer Maya (7)   | ![][463]<br> [Lickilicky]<br> Lv. 62 | ![][282]<br> [Gardevoir]<br> Lv. 62  | ![][407]<br> [Roserade]<br> Lv. 62
 Ace Trainer Maya (S)   | ![][463]<br> [Lickilicky]<br> Lv. 77 | ![][282]<br> [Gardevoir]<br> Lv. 77  | ![][407]<br> [Roserade]<br> Lv. 77
 
-
-
 [Primeape]: ../../pokemon_changes/057/
 [Machoke]: ../../pokemon_changes/067/
 [Marowak]: ../../pokemon_changes/105/
@@ -64,4 +62,3 @@ Ace Trainer Maya (S)   | ![][463]<br> [Lickilicky]<br> Lv. 77 | ![][282]<br> [Ga
 [426]: ../img/pokemon/426.png
 [463]: ../img/pokemon/463.png
 [472]: ../img/pokemon/472.png
-

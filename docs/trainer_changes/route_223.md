@@ -30,8 +30,6 @@ Swimmer Miranda (S)   | ![][091]<br> [Cloyster]<br> Lv. 75  | ![][457]<br> [Lumi
 Swimmer Crystal (S)   | ![][321]<br> [Wailord]<br> Lv. 75   | ![][119]<br> [Seaking]<br> Lv. 75   | ![][222]<br> [Corsola]<br> Lv. 75
 Sailor Zachariah (S)  | ![][099]<br> [Kingler]<br> Lv. 74   | ![][068]<br> [Machamp]<br> Lv. 74   | ![][423]<br> [Gastrodon]<br> Lv. 74 | ![][199]<br> [Slowking]<br> Lv. 74
 
-
-
 [Blastoise]: ../../pokemon_changes/009/
 [Golduck]: ../../pokemon_changes/055/
 [Poliwrath]: ../../pokemon_changes/062/
@@ -96,4 +94,3 @@ Sailor Zachariah (S)  | ![][099]<br> [Kingler]<br> Lv. 74   | ![][068]<br> [Mach
 [419]: ../img/pokemon/419.png
 [423]: ../img/pokemon/423.png
 [457]: ../img/pokemon/457.png
-

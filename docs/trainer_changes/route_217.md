@@ -27,8 +27,6 @@ Skier Bjorn (8)        | ![][221]<br> [Piloswine]<br> Lv. 59 | ![][221]<br> [Pil
 Skier Bjorn (C)        | ![][473]<br> [Mamoswine]<br> Lv. 72 | ![][473]<br> [Mamoswine]<br> Lv. 72 | ![][473]<br> [Mamoswine]<br> Lv. 72
 Ace Trainer Olivia (C) | ![][275]<br> [Shiftry]<br> Lv. 72   | ![][334]<br> [Altaria]<br> Lv. 72   | ![][242]<br> [Blissey]<br> Lv. 72
 
-
-
 [Venusaur]: ../../pokemon_changes/003/
 [Machamp]: ../../pokemon_changes/068/
 [Dewgong]: ../../pokemon_changes/087/
@@ -73,4 +71,3 @@ Ace Trainer Olivia (C) | ![][275]<br> [Shiftry]<br> Lv. 72   | ![][334]<br> [Alt
 [471]: ../img/pokemon/471.png
 [473]: ../img/pokemon/473.png
 [478]: ../img/pokemon/478.png
-

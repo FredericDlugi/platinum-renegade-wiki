@@ -4,8 +4,8 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_218/).
 
 
-Trainer              | 1                                    | 2
----                  | ---                                  | ---
+Trainer              | 1                                    | 2                                    | 3
+---                  | ---                                  | ---                                  | ---
 Fisherman Miguel (!) | ![][367]<br> [Huntail]<br> Lv. 44    | ![][368]<br> [Gorebyss]<br> Lv. 44
 Fisherman Luc        | ![][342]<br> [Crawdaunt]<br> Lv. 45
 Sailor Skyler        | ![][139]<br> [Omastar]<br> Lv. 43    | ![][141]<br> [Kabutops]<br> Lv. 43   | ![][369]<br> [Relicanth]<br> Lv. 43
@@ -13,12 +13,10 @@ Guitarist Tony (!)   | ![][402]<br> [Kricketune]<br> Lv. 44 | ![][295]<br> [Expl
 
 #### Rematches
 
-Trainer              | 1                                    | 2
----                  | ---                                  | ---
+Trainer              | 1                                    | 2                                    | 3
+---                  | ---                                  | ---                                  | ---
 Fisherman Miguel (C) | ![][366]<br> [Clamperl]<br> Lv. 70   | ![][367]<br> [Huntail]<br> Lv. 70    | ![][368]<br> [Gorebyss]<br> Lv. 70
 Guitarist Tony (C)   | ![][402]<br> [Kricketune]<br> Lv. 71 | ![][295]<br> [Exploud]<br> Lv. 71
-
-
 
 [Omastar]: ../../pokemon_changes/139/
 [Kabutops]: ../../pokemon_changes/141/
@@ -38,4 +36,3 @@ Guitarist Tony (C)   | ![][402]<br> [Kricketune]<br> Lv. 71 | ![][295]<br> [Expl
 [368]: ../img/pokemon/368.png
 [369]: ../img/pokemon/369.png
 [402]: ../img/pokemon/402.png
-

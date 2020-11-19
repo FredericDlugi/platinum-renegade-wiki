@@ -22,8 +22,6 @@ PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 41 | ![][214]<br> [Heracro
 ![][392]<br> [Infernape]<br> Lv. 42 | ![][sitrus-berry]<br> Sitrus Berry | ? | Iron Fist  | Flamethrower, Close Combat, Fake Out, Thunder Punch (!)
 ![][395]<br> [Empoleon]<br> Lv. 42  | ![][sitrus-berry]<br> Sitrus Berry | ? | Torrent    | Scald, Flash Cannon, Agility, Swagger               (!)
 
-
-
 [Arcanine]: ../../pokemon_changes/059/
 [Snorlax]: ../../pokemon_changes/143/
 [Azumarill]: ../../pokemon_changes/184/
@@ -50,4 +48,3 @@ PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 41 | ![][214]<br> [Heracro
 [395]: ../img/pokemon/395.png
 [398]: ../img/pokemon/398.png
 [barry]: ../img/trainer/barry.png
-

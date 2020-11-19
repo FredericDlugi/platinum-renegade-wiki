@@ -4,8 +4,8 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/eterna_forest/).
 
 
-Trainer                            | 1                                   | 2
----                                | ---                                 | ---
+Trainer                            | 1                                   | 2                                   | 3                                   | 4
+---                                | ---                                 | ---                                 | ---                                 | ---
 PKMN Trainer Cheryl<br>![][cheryl] | ![][425]<br> [Drifloon]<br> Lv. 19  | ![][296]<br> [Makuhita]<br> Lv. 19  | ![][320]<br> [Wailmer]<br> Lv. 19   | ![][113]<br> [Chansey]<br> Lv. 20
 Bug Catcher Jack                   | ![][283]<br> [Surskit]<br> Lv. 16   | ![][046]<br> [Paras]<br> Lv. 16     | ![][048]<br> [Venonat]<br> Lv. 16
 Lass Briana                        | ![][427]<br> [Buneary]<br> Lv. 17   | ![][183]<br> [Marill]<br> Lv. 17
@@ -22,8 +22,6 @@ PKMN Trainer Cheryl<br>![][cheryl] | Item                               | Nature
 ![][296]<br> [Makuhita]<br> Lv. 19 | None                               | Relaxed | Thick Fat    | Knock Off, Fake Out, Brick Break, Bullet Punch
 ![][320]<br> [Wailmer]<br> Lv. 19  | None                               | Relaxed | Water Veil   | Water Pulse, Rock Tomb, Mist, Rollout
 ![][113]<br> [Chansey]<br> Lv. 20  | ![][sitrus-berry]<br> Sitrus Berry | Quiet   | Serene Grace | Hyper Voice, Soft-Boiled, Ice Beam, Thunderbolt
-
-
 
 [Beedrill]: ../../pokemon_changes/015/
 [Paras]: ../../pokemon_changes/046/
@@ -73,4 +71,3 @@ PKMN Trainer Cheryl<br>![][cheryl] | Item                               | Nature
 [433]: ../img/pokemon/433.png
 [439]: ../img/pokemon/439.png
 [cheryl]: ../img/trainer/cheryl.png
-

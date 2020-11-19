@@ -14,8 +14,8 @@ Ace Trainer Garrett | ![][122]<br> [Mr. Mime]<br> Lv. 22  | ![][274]<br> [Nuzlea
 
 #### With Rock Climb
 
-Trainer               | 1
----                   | ---
+Trainer               | 1                                   | 2
+---                   | ---                                 | ---
 Black Belt Philip (!) | ![][297]<br> [Hariyama]<br> Lv. 56  | ![][068]<br> [Machamp]<br> Lv. 56
 Skier Bradley         | ![][221]<br> [Piloswine]<br> Lv. 54 | ![][362]<br> [Glalie]<br> Lv. 54
 Skier Kaitlyn         | ![][131]<br> [Lapras]<br> Lv. 55
@@ -23,15 +23,13 @@ Skier Andrea (!)      | ![][460]<br> [Abomasnow]<br> Lv. 55
 
 #### Rematches
 
-Trainer               | 1
----                   | ---
+Trainer               | 1                                   | 2                                   | 3
+---                   | ---                                 | ---                                 | ---
 Skier Edward (8)      | ![][460]<br> [Abomasnow]<br> Lv. 59 | ![][362]<br> [Glalie]<br> Lv. 59    | ![][221]<br> [Piloswine]<br> Lv. 59
 Skier Edward (C)      | ![][460]<br> [Abomasnow]<br> Lv. 70 | ![][362]<br> [Glalie]<br> Lv. 70    | ![][473]<br> [Mamoswine]<br> Lv. 70
 Black Belt Philip (C) | ![][297]<br> [Hariyama]<br> Lv. 70  | ![][068]<br> [Machamp]<br> Lv. 70   | ![][062]<br> [Poliwrath]<br> Lv. 70
 Skier Andrea (8)      | ![][460]<br> [Abomasnow]<br> Lv. 61
 Skier Andrea (C)      | ![][460]<br> [Abomasnow]<br> Lv. 72
-
-
 
 [Poliwrath]: ../../pokemon_changes/062/
 [Machamp]: ../../pokemon_changes/068/
@@ -75,4 +73,3 @@ Skier Andrea (C)      | ![][460]<br> [Abomasnow]<br> Lv. 72
 [459]: ../img/pokemon/459.png
 [460]: ../img/pokemon/460.png
 [473]: ../img/pokemon/473.png
-

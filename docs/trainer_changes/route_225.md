@@ -4,17 +4,17 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_225/).
 
 
-Trainer                   | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6
----                       | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---
-Ace Trainer Rodolfo (!)   | ![][121]<br> [Starmie]<br> Lv. 73    | ![][212]<br> [Scizor]<br> Lv. 73     | ![][254]<br> [Sceptile]<br> Lv. 73   | ![][038]<br> [Ninetales]<br> Lv. 73
-PKMN Ranger Ashlee (!)    | ![][264]<br> [Linoone]<br> Lv. 73    | ![][024]<br> [Arbok]<br> Lv. 73      | ![][012]<br> [Butterfree]<br> Lv. 73
-Bird Keeper Audrey (!)    | ![][083]<br> [Farfetch'd]<br> Lv. 73 | ![][277]<br> [Swellow]<br> Lv. 73    | ![][018]<br> [Pidgeot]<br> Lv. 73
-Psychic Daisy (!)         | ![][080]<br> [Slowbro]<br> Lv. 74    | ![][199]<br> [Slowking]<br> Lv. 74
-Dragon Tamer Geoffrey (!) | ![][334]<br> [Altaria]<br> Lv. 75
-Ace Trainer Deanna (!)    | ![][181]<br> [Ampharos]<br> Lv. 73   | ![][357]<br> [Tropius]<br> Lv. 73    | ![][131]<br> [Lapras]<br> Lv. 73     | ![][241]<br> [Miltank]<br> Lv. 73
-PKMN Ranger Dwayne        | ![][227]<br> [Skarmory]<br> Lv. 73   | ![][055]<br> [Golduck]<br> Lv. 73    | ![][232]<br> [Donphan]<br> Lv. 73
-Ace Trainer Quinn         | ![][127]<br> [Pinsir]<br> Lv. 73     | ![][171]<br> [Lanturn]<br> Lv. 73    | ![][076]<br> [Golem]<br> Lv. 73      | ![][295]<br> [Exploud]<br> Lv. 73
-Ace Trainer Heather *     | ![][279]<br> [Pelipper]<br> Lv. 76   | ![][468]<br> [Togekiss]<br> Lv. 76   | ![][142]<br> [Aerodactyl]<br> Lv. 76 | ![][018]<br> [Pidgeot]<br> Lv. 76    | ![][357]<br> [Tropius]<br> Lv. 76    | ![][149]<br> [Dragonite]<br> Lv. 77
+Trainer                               | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6
+---                                   | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---
+Ace Trainer Rodolfo (!)               | ![][121]<br> [Starmie]<br> Lv. 73    | ![][212]<br> [Scizor]<br> Lv. 73     | ![][254]<br> [Sceptile]<br> Lv. 73   | ![][038]<br> [Ninetales]<br> Lv. 73
+PKMN Ranger Ashlee (!)                | ![][264]<br> [Linoone]<br> Lv. 73    | ![][024]<br> [Arbok]<br> Lv. 73      | ![][012]<br> [Butterfree]<br> Lv. 73
+Bird Keeper Audrey (!)                | ![][083]<br> [Farfetch'd]<br> Lv. 73 | ![][277]<br> [Swellow]<br> Lv. 73    | ![][018]<br> [Pidgeot]<br> Lv. 73
+Psychic Daisy (!)                     | ![][080]<br> [Slowbro]<br> Lv. 74    | ![][199]<br> [Slowking]<br> Lv. 74
+Dragon Tamer Geoffrey (!)             | ![][334]<br> [Altaria]<br> Lv. 75
+Ace Trainer Deanna (!)                | ![][181]<br> [Ampharos]<br> Lv. 73   | ![][357]<br> [Tropius]<br> Lv. 73    | ![][131]<br> [Lapras]<br> Lv. 73     | ![][241]<br> [Miltank]<br> Lv. 73
+PKMN Ranger Dwayne                    | ![][227]<br> [Skarmory]<br> Lv. 73   | ![][055]<br> [Golduck]<br> Lv. 73    | ![][232]<br> [Donphan]<br> Lv. 73
+Ace Trainer Quinn                     | ![][127]<br> [Pinsir]<br> Lv. 73     | ![][171]<br> [Lanturn]<br> Lv. 73    | ![][076]<br> [Golem]<br> Lv. 73      | ![][295]<br> [Exploud]<br> Lv. 73
+Ace Trainer Heather *<br>![][ace_f_2] | ![][279]<br> [Pelipper]<br> Lv. 76   | ![][468]<br> [Togekiss]<br> Lv. 76   | ![][142]<br> [Aerodactyl]<br> Lv. 76 | ![][018]<br> [Pidgeot]<br> Lv. 76    | ![][357]<br> [Tropius]<br> Lv. 76    | ![][149]<br> [Dragonite]<br> Lv. 77
 
 #### Rematches
 
@@ -27,7 +27,7 @@ Psychic Daisy (S)         | ![][080]<br> [Slowbro]<br> Lv. 79    | ![][199]<br> 
 Dragon Tamer Geoffrey (S) | ![][334]<br> [Altaria]<br> Lv. 79    | ![][445]<br> [Garchomp]<br> Lv. 79
 Ace Trainer Deanna (S)    | ![][181]<br> [Ampharos]<br> Lv. 79   | ![][357]<br> [Tropius]<br> Lv. 79    | ![][131]<br> [Lapras]<br> Lv. 79     | ![][241]<br> [Miltank]<br> Lv. 79
 
-Ace Trainer Heather                  | Item                               | Nature | Ability          | Moves
+Ace Trainer Heather<br>![][ace_f_2]  | Item                               | Nature | Ability          | Moves
 ---                                  | ---                                | --- | ---              | ---
 ![][279]<br> [Pelipper]<br> Lv. 76   | ![][focus-sash]<br> Focus Sash     | ? | Drizzle          | Hydro Pump, Hurricane, Ice Beam, Tailwind
 ![][468]<br> [Togekiss]<br> Lv. 76   | ![][expert-belt]<br> Expert Belt   | ? | Serene Grace     | Hurricane, Moonblast, Shadow Ball, Roost
@@ -35,8 +35,6 @@ Ace Trainer Heather                  | Item                               | Natu
 ![][018]<br> [Pidgeot]<br> Lv. 76    | ![][wise-glasses]<br> Wise Glasses | ? | No Guard (!)     | Hurricane, Hyper Beam, Heat Wave, Tailwind
 ![][357]<br> [Tropius]<br> Lv. 76    | ![][leftovers]<br> Leftovers       | ? | Chlorophyll      | Hurricane, Energy Ball, Dragon Pulse, Roost
 ![][149]<br> [Dragonite]<br> Lv. 77  | ![][white-herb]<br> White Herb     | ? | Marvel Scale (!) | Hurricane, Draco Meteor, Thunder, Ice Beam
-
-
 
 [Butterfree]: ../../pokemon_changes/012/
 [Pidgeot]: ../../pokemon_changes/018/
@@ -102,4 +100,4 @@ Ace Trainer Heather                  | Item                               | Natu
 [357]: ../img/pokemon/357.png
 [445]: ../img/pokemon/445.png
 [468]: ../img/pokemon/468.png
-
+[ace_f_2]: ../img/trainer/ace_f_2.png

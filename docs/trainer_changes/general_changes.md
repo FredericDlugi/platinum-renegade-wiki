@@ -9,5 +9,3 @@
 - Instead of a number, you may see a (C) for Champion or (S) for Stark Mountain, which means after completing these they'll gain those teams.
 - Please note that the number of badges may not always be correct. Feel free to report any incorrect information!
 
-
-

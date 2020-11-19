@@ -4,8 +4,8 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_221/).
 
 
-Trainer                 | 1                                   | 2
----                     | ---                                 | ---
+Trainer                 | 1                                   | 2                                   | 3                                   | 4
+---                     | ---                                 | ---                                 | ---                                 | ---
 Swimmer Dillon          | ![][260]<br> [Swampert]<br> Lv. 46
 Swimmer Vanessa         | ![][350]<br> [Milotic]<br> Lv. 46
 Fisherman Cory          | ![][340]<br> [Whiscash]<br> Lv. 44  | ![][099]<br> [Kingler]<br> Lv. 44   | ![][130]<br> [Gyarados]<br> Lv. 44
@@ -15,13 +15,11 @@ Collector Ivan (!)      | ![][468]<br> [Togekiss]<br> Lv. 45  | ![][242]<br> [Bl
 
 #### Rematches
 
-Trainer                 | 1                                   | 2
----                     | ---                                 | ---
+Trainer                 | 1                                   | 2                                   | 3                                   | 4
+---                     | ---                                 | ---                                 | ---                                 | ---
 Ace Trainer Shannon (C) | ![][045]<br> [Vileplume]<br> Lv. 72 | ![][282]<br> [Gardevoir]<br> Lv. 72 | ![][428]<br> [Lopunny]<br> Lv. 72   | ![][031]<br> [Nidoqueen]<br> Lv. 72
 Ace Trainer Jake (C)    | ![][344]<br> [Claydol]<br> Lv. 72   | ![][006]<br> [Charizard]<br> Lv. 72 | ![][103]<br> [Exeggutor]<br> Lv. 72 | ![][359]<br> [Absol]<br> Lv. 72
 Collector Ivan (C)      | ![][468]<br> [Togekiss]<br> Lv. 72  | ![][242]<br> [Blissey]<br> Lv. 72
-
-
 
 [Charizard]: ../../pokemon_changes/006/
 [Nidoqueen]: ../../pokemon_changes/031/
@@ -53,4 +51,3 @@ Collector Ivan (C)      | ![][468]<br> [Togekiss]<br> Lv. 72  | ![][242]<br> [Bl
 [359]: ../img/pokemon/359.png
 [428]: ../img/pokemon/428.png
 [468]: ../img/pokemon/468.png
-

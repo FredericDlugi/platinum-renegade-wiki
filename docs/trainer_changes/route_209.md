@@ -4,8 +4,8 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_209/).
 
 
-Trainer                   | 1                                   | 2
----                       | ---                                 | ---
+Trainer                   | 1                                   | 2                                   | 3                                   | 4                                   | 5                                   | 6
+---                       | ---                                 | ---                                 | ---                                 | ---                                 | ---                                 | ---
 PKMN Breeder Albert (!)   | ![][236]<br> [Tyrogue]<br> Lv. 26   | ![][433]<br> [Chingling]<br> Lv. 26 | ![][438]<br> [Bonsly]<br> Lv. 26    | ![][240]<br> [Magby]<br> Lv. 26     | ![][239]<br> [Elekid]<br> Lv. 26    | ![][439]<br> [Mime Jr.]<br> Lv. 26
 Twins Emma & Lil          | ![][134]<br> [Vaporeon]<br> Lv. 30  | ![][136]<br> [Flareon]<br> Lv. 30
 Poké Kid Danielle (!)     | ![][172]<br> [Pichu]<br> Lv. 28     | ![][025]<br> [Pikachu]<br> Lv. 29   | ![][026]<br> [Raichu]<br> Lv. 30
@@ -28,8 +28,6 @@ Poké Kid Danielle (C)     | ![][026]<br> [Raichu]<br> Lv. 69     | ![][026]<br>
 PKMN Breeder Jennifer (5) | ![][183]<br> [Marill]<br> Lv. 37     | ![][176]<br> [Togetic]<br> Lv. 37    | ![][035]<br> [Clefairy]<br> Lv. 37   | ![][039]<br> [Jigglypuff]<br> Lv. 37 | ![][124]<br> [Jynx]<br> Lv. 37       | ![][315]<br> [Roselia]<br> Lv. 37
 PKMN Breeder Jennifer (8) | ![][184]<br> [Azumarill]<br> Lv. 57  | ![][468]<br> [Togekiss]<br> Lv. 57   | ![][036]<br> [Clefable]<br> Lv. 57   | ![][040]<br> [Wigglytuff]<br> Lv. 57 | ![][124]<br> [Jynx]<br> Lv. 57       | ![][407]<br> [Roserade]<br> Lv. 57
 PKMN Breeder Jennifer (C) | ![][184]<br> [Azumarill]<br> Lv. 68  | ![][468]<br> [Togekiss]<br> Lv. 68   | ![][036]<br> [Clefable]<br> Lv. 68   | ![][040]<br> [Wigglytuff]<br> Lv. 68 | ![][124]<br> [Jynx]<br> Lv. 68       | ![][407]<br> [Roserade]<br> Lv. 68
-
-
 
 [Fearow]: ../../pokemon_changes/022/
 [Pikachu]: ../../pokemon_changes/025/
@@ -111,4 +109,3 @@ PKMN Breeder Jennifer (C) | ![][184]<br> [Azumarill]<br> Lv. 68  | ![][468]<br> 
 [438]: ../img/pokemon/438.png
 [439]: ../img/pokemon/439.png
 [468]: ../img/pokemon/468.png
-

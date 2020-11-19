@@ -10,8 +10,6 @@ Worker Dillan | ![][066]<br> [Machop]<br> Lv. 42    | ![][067]<br> [Machoke]<br>
 Worker Holden | ![][081]<br> [Magnemite]<br> Lv. 42 | ![][081]<br> [Magnemite]<br> Lv. 42 | ![][208]<br> [Steelix]<br> Lv. 45
 Worker Conrad | ![][126]<br> [Magmar]<br> Lv. 43    | ![][219]<br> [Magcargo]<br> Lv. 43  | ![][078]<br> [Rapidash]<br> Lv. 43
 
-
-
 [Machop]: ../../pokemon_changes/066/
 [Machoke]: ../../pokemon_changes/067/
 [Machamp]: ../../pokemon_changes/068/
@@ -28,4 +26,3 @@ Worker Conrad | ![][126]<br> [Magmar]<br> Lv. 43    | ![][219]<br> [Magcargo]<br
 [126]: ../img/pokemon/126.png
 [208]: ../img/pokemon/208.png
 [219]: ../img/pokemon/219.png
-

@@ -4,8 +4,8 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_222/).
 
 
-Trainer            | 1                                   | 2
----                | ---                                 | ---
+Trainer            | 1                                   | 2                                   | 3                                   | 4
+---                | ---                                 | ---                                 | ---                                 | ---
 Rich Boy Trey (!)  | ![][405]<br> [Luxray]<br> Lv. 57    | ![][254]<br> [Sceptile]<br> Lv. 57  | ![][264]<br> [Linoone]<br> Lv. 57
 Beauty Nicola      | ![][428]<br> [Lopunny]<br> Lv. 57   | ![][136]<br> [Flareon]<br> Lv. 57   | ![][154]<br> [Meganium]<br> Lv. 57
 Policeman Thomas   | ![][164]<br> [Noctowl]<br> Lv. 59
@@ -28,8 +28,6 @@ Rich Boy Trey (S)  | ![][405]<br> [Luxray]<br> Lv. 75   | ![][254]<br> [Sceptile
 Sailor Marc (C)    | ![][171]<br> [Lanturn]<br> Lv. 70  | ![][068]<br> [Machamp]<br> Lv. 70  | ![][226]<br> [Mantine]<br> Lv. 70
 Sailor Marc (S)    | ![][171]<br> [Lanturn]<br> Lv. 75  | ![][068]<br> [Machamp]<br> Lv. 75  | ![][226]<br> [Mantine]<br> Lv. 75
 Fisherman Alec (C) | ![][130]<br> [Gyarados]<br> Lv. 70 | ![][130]<br> [Gyarados]<br> Lv. 70 | ![][130]<br> [Gyarados]<br> Lv. 70
-
-
 
 [Pikachu]: ../../pokemon_changes/025/
 [Poliwrath]: ../../pokemon_changes/062/
@@ -79,4 +77,3 @@ Fisherman Alec (C) | ![][130]<br> [Gyarados]<br> Lv. 70 | ![][130]<br> [Gyarados
 [423]: ../img/pokemon/423.png
 [428]: ../img/pokemon/428.png
 [457]: ../img/pokemon/457.png
-

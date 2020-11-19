@@ -4,9 +4,7 @@ Trainer         | 1                                   | 2                       
 ---             | ---                                 | ---                                 | ---                                 
 Camper Curtis   | ![][273]<br> [Seedot]<br> Lv. 10    | ![][050]<br> [Diglett]<br> Lv. 10   
 Picnicker Diana | ![][293]<br> [Whismur]<br> Lv. 10   | ![][194]<br> [Wooper]<br> Lv. 10    
-Veteran Grant   | ![][448]<br> [Lucario]<br> Lv. 45   | ![][076]<br> [Golem]<br> Lv. 45     | ![][398]<br> [Staraptor]<br> Lv. 45 
-
-
+Veteran Grant   | ![][448]<br> [Lucario]<br> Lv. 45   | ![][076]<br> [Golem]<br> Lv. 45     | ![][398]<br> [Staraptor]<br> Lv. 45
 
 [Diglett]: ../../pokemon_changes/050/
 [Golem]: ../../pokemon_changes/076/
@@ -22,4 +20,3 @@ Veteran Grant   | ![][448]<br> [Lucario]<br> Lv. 45   | ![][076]<br> [Golem]<br>
 [293]: ../img/pokemon/293.png
 [398]: ../img/pokemon/398.png
 [448]: ../img/pokemon/448.png
-

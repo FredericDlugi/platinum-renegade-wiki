@@ -9,8 +9,6 @@ Trainer       | 1                                   | 2                         
 Tuber Mariel  | ![][184]<br> [Azumarill]<br> Lv. 43 | ![][134]<br> [Vaporeon]<br> Lv. 43
 Tuber Trenton | ![][061]<br> [Poliwhirl]<br> Lv. 42 | ![][423]<br> [Gastrodon]<br> Lv. 42 | ![][400]<br> [Bibarel]<br> Lv. 42
 
-
-
 [Poliwhirl]: ../../pokemon_changes/061/
 [Vaporeon]: ../../pokemon_changes/134/
 [Azumarill]: ../../pokemon_changes/184/
@@ -21,4 +19,3 @@ Tuber Trenton | ![][061]<br> [Poliwhirl]<br> Lv. 42 | ![][423]<br> [Gastrodon]<b
 [184]: ../img/pokemon/184.png
 [400]: ../img/pokemon/400.png
 [423]: ../img/pokemon/423.png
-

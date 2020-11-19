@@ -9,8 +9,6 @@ Trainer        | 1                                    | 2                       
 Galactic Grunt | ![][030]<br> [Nidorina]<br> Lv. 54   | ![][317]<br> [Swalot]<br> Lv. 54     | ![][053]<br> [Persian]<br> Lv. 54
 Galactic Grunt | ![][033]<br> [Nidorino]<br> Lv. 54   | ![][452]<br> [Drapion]<br> Lv. 54    | ![][402]<br> [Kricketune]<br> Lv. 54
 
-
-
 [Nidorina]: ../../pokemon_changes/030/
 [Nidorino]: ../../pokemon_changes/033/
 [Persian]: ../../pokemon_changes/053/
@@ -23,4 +21,3 @@ Galactic Grunt | ![][033]<br> [Nidorino]<br> Lv. 54   | ![][452]<br> [Drapion]<b
 [317]: ../img/pokemon/317.png
 [402]: ../img/pokemon/402.png
 [452]: ../img/pokemon/452.png
-

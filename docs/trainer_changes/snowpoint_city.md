@@ -3,9 +3,7 @@
 Trainer              | 1                                    | 2                                    | 3                                    
 ---                  | ---                                  | ---                                  | ---                                  
 Ace Trainer Aran     | ![][214]<br> [Heracross]<br> Lv. 54  | ![][157]<br> [Typhlosion]<br> Lv. 54 | ![][248]<br> [Tyranitar]<br> Lv. 54  
-Ace Trainer Nephenee | ![][242]<br> [Blissey]<br> Lv. 54    | ![][154]<br> [Meganium]<br> Lv. 54   | ![][160]<br> [Feraligatr]<br> Lv. 54 
-
-
+Ace Trainer Nephenee | ![][242]<br> [Blissey]<br> Lv. 54    | ![][154]<br> [Meganium]<br> Lv. 54   | ![][160]<br> [Feraligatr]<br> Lv. 54
 
 [Meganium]: ../../pokemon_changes/154/
 [Typhlosion]: ../../pokemon_changes/157/
@@ -19,4 +17,3 @@ Ace Trainer Nephenee | ![][242]<br> [Blissey]<br> Lv. 54    | ![][154]<br> [Mega
 [214]: ../img/pokemon/214.png
 [242]: ../img/pokemon/242.png
 [248]: ../img/pokemon/248.png
-

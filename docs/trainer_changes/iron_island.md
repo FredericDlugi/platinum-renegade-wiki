@@ -1,33 +1,31 @@
 # Iron Island
 
-Trainer            | 1                                    | 2                                    | 3                                    
----                | ---                                  | ---                                  | ---                                  
-PKMN Trainer Riley | ![][359]<br> [Absol]<br> Lv. 49      | ![][217]<br> [Ursaring]<br> Lv. 49   | ![][376]<br> [Metagross]<br> Lv. 49  | ![][373]<br> [Salamence]<br> Lv. 49  | ![][289]<br> [Slaking]<br> Lv. 49    | ![][448]<br> [Lucario]<br> Lv. 50    
-Camper Lawrence    | ![][005]<br> [Charmeleon]<br> Lv. 46 | ![][424]<br> [Ambipom]<br> Lv. 46    | ![][419]<br> [Floatzel]<br> Lv. 46   
-Picnicker Summer   | ![][253]<br> [Grovyle]<br> Lv. 46    | ![][022]<br> [Fearow]<br> Lv. 46     | ![][026]<br> [Raichu]<br> Lv. 46     
-Worker Noel        | ![][232]<br> [Donphan]<br> Lv. 48    
-Worker Braden      | ![][323]<br> [Camerupt]<br> Lv. 48   
-Hiker Damon        | ![][247]<br> [Pupitar]<br> Lv. 46    | ![][476]<br> [Probopass]<br> Lv. 46  | ![][208]<br> [Steelix]<br> Lv. 46    
-Hiker Maurice      | ![][112]<br> [Rhydon]<br> Lv. 47     | ![][076]<br> [Golem]<br> Lv. 47      
-Black Belt Kendal  | ![][062]<br> [Poliwrath]<br> Lv. 48  | ![][297]<br> [Hariyama]<br> Lv. 48   
-Battle Girl Tyler  | ![][237]<br> [Hitmontop]<br> Lv. 48  | ![][057]<br> [Primeape]<br> Lv. 48   
-Worker Brendon     | ![][082]<br> [Magneton]<br> Lv. 47   | ![][067]<br> [Machoke]<br> Lv. 47    
-Worker Quentin     | ![][305]<br> [Lairon]<br> Lv. 47     | ![][075]<br> [Graveler]<br> Lv. 47   
-Ace Trainer Jonah  | ![][284]<br> [Masquerain]<br> Lv. 48 | ![][346]<br> [Cradily]<br> Lv. 48    | ![][450]<br> [Hippowdon]<br> Lv. 48  
-Ace Trainer Brenda | ![][282]<br> [Gardevoir]<br> Lv. 48  | ![][428]<br> [Lopunny]<br> Lv. 48    | ![][308]<br> [Medicham]<br> Lv. 48   
-Galactic Grunt     | ![][042]<br> [Golbat]<br> Lv. 46     | ![][229]<br> [Houndoom]<br> Lv. 46   | ![][089]<br> [Muk]<br> Lv. 46        
-Galactic Grunt     | ![][432]<br> [Purugly]<br> Lv. 46    | ![][454]<br> [Toxicroak]<br> Lv. 46  | ![][435]<br> [Skuntank]<br> Lv. 46   
+Trainer                          | 1                                    | 2                                    | 3
+---                              | ---                                  | ---                                  | ---
+PKMN Trainer Riley<br>![][riley] | ![][359]<br> [Absol]<br> Lv. 49      | ![][217]<br> [Ursaring]<br> Lv. 49   | ![][376]<br> [Metagross]<br> Lv. 49  | ![][373]<br> [Salamence]<br> Lv. 49  | ![][289]<br> [Slaking]<br> Lv. 49    | ![][448]<br> [Lucario]<br> Lv. 50
+Camper Lawrence                  | ![][005]<br> [Charmeleon]<br> Lv. 46 | ![][424]<br> [Ambipom]<br> Lv. 46    | ![][419]<br> [Floatzel]<br> Lv. 46
+Picnicker Summer                 | ![][253]<br> [Grovyle]<br> Lv. 46    | ![][022]<br> [Fearow]<br> Lv. 46     | ![][026]<br> [Raichu]<br> Lv. 46
+Worker Noel                      | ![][232]<br> [Donphan]<br> Lv. 48
+Worker Braden                    | ![][323]<br> [Camerupt]<br> Lv. 48
+Hiker Damon                      | ![][247]<br> [Pupitar]<br> Lv. 46    | ![][476]<br> [Probopass]<br> Lv. 46  | ![][208]<br> [Steelix]<br> Lv. 46
+Hiker Maurice                    | ![][112]<br> [Rhydon]<br> Lv. 47     | ![][076]<br> [Golem]<br> Lv. 47
+Black Belt Kendal                | ![][062]<br> [Poliwrath]<br> Lv. 48  | ![][297]<br> [Hariyama]<br> Lv. 48
+Battle Girl Tyler                | ![][237]<br> [Hitmontop]<br> Lv. 48  | ![][057]<br> [Primeape]<br> Lv. 48
+Worker Brendon                   | ![][082]<br> [Magneton]<br> Lv. 47   | ![][067]<br> [Machoke]<br> Lv. 47
+Worker Quentin                   | ![][305]<br> [Lairon]<br> Lv. 47     | ![][075]<br> [Graveler]<br> Lv. 47
+Ace Trainer Jonah                | ![][284]<br> [Masquerain]<br> Lv. 48 | ![][346]<br> [Cradily]<br> Lv. 48    | ![][450]<br> [Hippowdon]<br> Lv. 48
+Ace Trainer Brenda               | ![][282]<br> [Gardevoir]<br> Lv. 48  | ![][428]<br> [Lopunny]<br> Lv. 48    | ![][308]<br> [Medicham]<br> Lv. 48
+Galactic Grunt                   | ![][042]<br> [Golbat]<br> Lv. 46     | ![][229]<br> [Houndoom]<br> Lv. 46   | ![][089]<br> [Muk]<br> Lv. 46
+Galactic Grunt                   | ![][432]<br> [Purugly]<br> Lv. 46    | ![][454]<br> [Toxicroak]<br> Lv. 46  | ![][435]<br> [Skuntank]<br> Lv. 46
 
-PKMN Trainer Riley                  | Item                               | Nature | Ability      | Moves                                                
----                                 | ---                                | --- | ---          | ---                                                  
-![][359]<br> [Absol]<br> Lv. 49     | ![][scope-lens]<br> Scope Lens     | ? | Super Luck   | Night Slash, Psycho Cut, Megahorn, Play Rough        
-![][217]<br> [Ursaring]<br> Lv. 49  | ![][flame-orb]<br> Flame Orb       | ? | Guts         | Strength, Close Combat, Play Rough, Protect          
-![][376]<br> [Metagross]<br> Lv. 49 | ![][liechi-berry]<br> Liechi Berry | ? | Clear Body   | Meteor Mash, Earthquake, Zen Headbutt, Agility       
-![][373]<br> [Salamence]<br> Lv. 49 | ![][power-herb]<br> Power Herb     | ? | Intimidate   | Dragon Rush, Fly, Crunch, Dragon Dance               
-![][289]<br> [Slaking]<br> Lv. 49   | ![][sitrus-berry]<br> Sitrus Berry | ? | Truant       | Body Slam, Hammer Arm, Play Rough, Slack Off         
+PKMN Trainer Riley<br>![][riley]    | Item                               | Nature | Ability      | Moves
+---                                 | ---                                | --- | ---          | ---
+![][359]<br> [Absol]<br> Lv. 49     | ![][scope-lens]<br> Scope Lens     | ? | Super Luck   | Night Slash, Psycho Cut, Megahorn, Play Rough
+![][217]<br> [Ursaring]<br> Lv. 49  | ![][flame-orb]<br> Flame Orb       | ? | Guts         | Strength, Close Combat, Play Rough, Protect
+![][376]<br> [Metagross]<br> Lv. 49 | ![][liechi-berry]<br> Liechi Berry | ? | Clear Body   | Meteor Mash, Earthquake, Zen Headbutt, Agility
+![][373]<br> [Salamence]<br> Lv. 49 | ![][power-herb]<br> Power Herb     | ? | Intimidate   | Dragon Rush, Fly, Crunch, Dragon Dance
+![][289]<br> [Slaking]<br> Lv. 49   | ![][sitrus-berry]<br> Sitrus Berry | ? | Truant       | Body Slam, Hammer Arm, Play Rough, Slack Off
 ![][448]<br> [Lucario]<br> Lv. 50   | ![][life-orb]<br> Life Orb         | ? | Adaptability | High Jump Kick, Meteor Mash, Blaze Kick, Bullet Punch
-
-
 
 [Charmeleon]: ../../pokemon_changes/005/
 [Fearow]: ../../pokemon_changes/022/
@@ -113,4 +111,4 @@ PKMN Trainer Riley                  | Item                               | Natur
 [450]: ../img/pokemon/450.png
 [454]: ../img/pokemon/454.png
 [476]: ../img/pokemon/476.png
-
+[riley]: ../img/trainer/riley.png

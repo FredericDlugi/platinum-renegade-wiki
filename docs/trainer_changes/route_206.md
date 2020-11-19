@@ -4,8 +4,8 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_206/).
 
 
-Trainer           | 1
----               | ---
+Trainer           | 1                                    | 2                                    | 3
+---               | ---                                  | ---                                  | ---
 Cyclist Axel      | ![][172]<br> [Pichu]<br> Lv. 19      | ![][172]<br> [Pichu]<br> Lv. 19      | ![][025]<br> [Pikachu]<br> Lv. 19
 Cyclist Megan     | ![][017]<br> [Pidgeotto]<br> Lv. 21
 Cyclist James     | ![][077]<br> [Ponyta]<br> Lv. 20     | ![][180]<br> [Flaaffy]<br> Lv. 20
@@ -26,8 +26,6 @@ Cyclist John (C)  | ![][083]<br> [Farfetch'd]<br> Lv. 72
 Cyclist Kayla (5) | ![][101]<br> [Electrode]<br> Lv. 38  | ![][082]<br> [Magneton]<br> Lv. 38   | ![][310]<br> [Manectric]<br> Lv. 38
 Cyclist Kayla (8) | ![][101]<br> [Electrode]<br> Lv. 59  | ![][082]<br> [Magneton]<br> Lv. 59   | ![][310]<br> [Manectric]<br> Lv. 59
 Cyclist Kayla (C) | ![][101]<br> [Electrode]<br> Lv. 70  | ![][462]<br> [Magnezone]<br> Lv. 70  | ![][310]<br> [Manectric]<br> Lv. 70
-
-
 
 [Pidgeotto]: ../../pokemon_changes/017/
 [Pikachu]: ../../pokemon_changes/025/
@@ -67,4 +65,3 @@ Cyclist Kayla (C) | ![][101]<br> [Electrode]<br> Lv. 70  | ![][462]<br> [Magnezo
 [324]: ../img/pokemon/324.png
 [404]: ../img/pokemon/404.png
 [462]: ../img/pokemon/462.png
-

@@ -19,9 +19,7 @@ Reporter Valerie       | ![][294]<br> [Loudred]<br> Lv. 37
 PI Kendrick            | ![][112]<br> [Rhydon]<br> Lv. 37    
 Beauty Gabriella       | ![][457]<br> [Lumineon]<br> Lv. 37  
 Scientist Emilio       | ![][065]<br> [Alakazam]<br> Lv. 37  
-Pokémon Breeder Kaylee | ![][184]<br> [Azumarill]<br> Lv. 37 
-
-
+Pokémon Breeder Kaylee | ![][184]<br> [Azumarill]<br> Lv. 37
 
 [Vileplume]: ../../pokemon_changes/045/
 [Persian]: ../../pokemon_changes/053/
@@ -59,4 +57,3 @@ Pokémon Breeder Kaylee | ![][184]<br> [Azumarill]<br> Lv. 37
 [428]: ../img/pokemon/428.png
 [441]: ../img/pokemon/441.png
 [457]: ../img/pokemon/457.png
-

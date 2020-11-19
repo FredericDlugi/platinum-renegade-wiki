@@ -9,8 +9,6 @@ Trainer        | 1                                    | 2                       
 Galactic Grunt | ![][042]<br> [Golbat]<br> Lv. 55     | ![][229]<br> [Houndoom]<br> Lv. 55   | ![][469]<br> [Yanmega]<br> Lv. 55
 Galactic Grunt | ![][168]<br> [Ariados]<br> Lv. 55    | ![][053]<br> [Persian]<br> Lv. 55    | ![][205]<br> [Forretress]<br> Lv. 55
 
-
-
 [Golbat]: ../../pokemon_changes/042/
 [Persian]: ../../pokemon_changes/053/
 [Ariados]: ../../pokemon_changes/168/
@@ -23,4 +21,3 @@ Galactic Grunt | ![][168]<br> [Ariados]<br> Lv. 55    | ![][053]<br> [Persian]<b
 [205]: ../img/pokemon/205.png
 [229]: ../img/pokemon/229.png
 [469]: ../img/pokemon/469.png
-

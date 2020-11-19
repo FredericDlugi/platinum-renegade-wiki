@@ -4,8 +4,8 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_213/).
 
 
-Trainer           | 1
----               | ---
+Trainer           | 1                                   | 2                                   | 3
+---               | ---                                 | ---                                 | ---
 Beauty Cyndy (!)  | ![][301]<br> [Delcatty]<br> Lv. 37  | ![][053]<br> [Persian]<br> Lv. 37
 Fisherman Kenneth | ![][318]<br> [Carvanha]<br> Lv. 36  | ![][223]<br> [Remoraid]<br> Lv. 36  | ![][116]<br> [Horsea]<br> Lv. 36
 Tuber Jared (!)   | ![][423]<br> [Gastrodon]<br> Lv. 37
@@ -19,16 +19,14 @@ Galactic Grunt    | ![][454]<br> [Toxicroak]<br> Lv. 41
 
 #### Rematches
 
-Trainer           | 1
----               | ---
+Trainer           | 1                                   | 2                                   | 3
+---               | ---                                 | ---                                 | ---
 Beauty Cyndy (8)  | ![][301]<br> [Delcatty]<br> Lv. 59  | ![][053]<br> [Persian]<br> Lv. 59   | ![][432]<br> [Purugly]<br> Lv. 59
 Beauty Cyndy (C)  | ![][301]<br> [Delcatty]<br> Lv. 70  | ![][053]<br> [Persian]<br> Lv. 70   | ![][432]<br> [Purugly]<br> Lv. 70
 Tuber Jared (5)   | ![][423]<br> [Gastrodon]<br> Lv. 39
 Tuber Jared (C)   | ![][423]<br> [Gastrodon]<br> Lv. 69
 Tuber Chelsea (8) | ![][184]<br> [Azumarill]<br> Lv. 59
 Tuber Chelsea (C) | ![][184]<br> [Azumarill]<br> Lv. 69
-
-
 
 [Persian]: ../../pokemon_changes/053/
 [Golduck]: ../../pokemon_changes/055/
@@ -66,4 +64,3 @@ Tuber Chelsea (C) | ![][184]<br> [Azumarill]<br> Lv. 69
 [432]: ../img/pokemon/432.png
 [454]: ../img/pokemon/454.png
 [457]: ../img/pokemon/457.png
-

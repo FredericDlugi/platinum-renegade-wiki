@@ -4,8 +4,8 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_204__south/).
 
 
-Trainer           | 1
----               | ---
+Trainer           | 1                                    | 2                                    | 3
+---               | ---                                  | ---                                  | ---
 Lass Sarah        | ![][403]<br> [Shinx]<br> Lv. 8      | ![][029]<br> [Nidoran♀]<br> Lv. 8   | ![][016]<br> [Pidgey]<br> Lv. 8
 Lass Samantha (!) | ![][043]<br> [Oddish]<br> Lv. 8     | ![][406]<br> [Budew]<br> Lv. 8      | ![][069]<br> [Bellsprout]<br> Lv. 8
 Youngster Tyler   | ![][129]<br> [Magikarp]<br> Lv. 11
@@ -17,8 +17,6 @@ Trainer           | 1                                    | 2                    
 Lass Samantha (3) | ![][404]<br> [Luxio]<br> Lv. 26      | ![][315]<br> [Roselia]<br> Lv. 26    | ![][070]<br> [Weepinbell]<br> Lv. 26
 Lass Samantha (5) | ![][404]<br> [Luxio]<br> Lv. 38      | ![][315]<br> [Roselia]<br> Lv. 38    | ![][070]<br> [Weepinbell]<br> Lv. 38
 Lass Samantha (C) | ![][405]<br> [Luxray]<br> Lv. 70     | ![][407]<br> [Roserade]<br> Lv. 70   | ![][071]<br> [Victreebel]<br> Lv. 70
-
-
 
 [Pidgey]: ../../pokemon_changes/016/
 [Nidoran♀]: ../../pokemon_changes/029/
@@ -46,4 +44,3 @@ Lass Samantha (C) | ![][405]<br> [Luxray]<br> Lv. 70     | ![][407]<br> [Roserad
 [405]: ../img/pokemon/405.png
 [406]: ../img/pokemon/406.png
 [407]: ../img/pokemon/407.png
-

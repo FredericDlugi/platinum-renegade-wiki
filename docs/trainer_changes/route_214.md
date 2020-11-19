@@ -27,8 +27,6 @@ Psychic Mitchell (C) | ![][065]<br> [Alakazam]<br> Lv. 72  | ![][326]<br> [Grump
 Psychic Abigail (8)  | ![][282]<br> [Gardevoir]<br> Lv. 60 | ![][358]<br> [Chimecho]<br> Lv. 60  | ![][203]<br> [Girafarig]<br> Lv. 60
 Psychic Abigail (C)  | ![][282]<br> [Gardevoir]<br> Lv. 72 | ![][358]<br> [Chimecho]<br> Lv. 72  | ![][203]<br> [Girafarig]<br> Lv. 72
 
-
-
 [Dugtrio]: ../../pokemon_changes/051/
 [Kadabra]: ../../pokemon_changes/064/
 [Alakazam]: ../../pokemon_changes/065/
@@ -73,4 +71,3 @@ Psychic Abigail (C)  | ![][282]<br> [Gardevoir]<br> Lv. 72 | ![][358]<br> [Chime
 [358]: ../img/pokemon/358.png
 [369]: ../img/pokemon/369.png
 [413]: ../img/pokemon/413.png
-

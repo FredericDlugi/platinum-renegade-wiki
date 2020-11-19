@@ -1,27 +1,25 @@
 # Sunyshore Gym
 
-Trainer             | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6                                    
----                 | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  
-School Kid Tiera    | ![][311]<br> [Plusle]<br> Lv. 56     | ![][312]<br> [Minun]<br> Lv. 56      | ![][417]<br> [Pachirisu]<br> Lv. 59  
-School Kid Forrest  | ![][239]<br> [Elekid]<br> Lv. 56     | ![][239]<br> [Elekid]<br> Lv. 56     | ![][125]<br> [Electabuzz]<br> Lv. 59 
-Guitarist Jerry     | ![][125]<br> [Electabuzz]<br> Lv. 60 | ![][405]<br> [Luxray]<br> Lv. 60     
-Poké Kid Meghan     | ![][172]<br> [Pichu]<br> Lv. 56      | ![][172]<br> [Pichu]<br> Lv. 56      | ![][025]<br> [Pikachu]<br> Lv. 59    
-Ace Trainer Destiny | ![][026]<br> [Raichu]<br> Lv. 60     | ![][171]<br> [Lanturn]<br> Lv. 60    | ![][135]<br> [Jolteon]<br> Lv. 60    | ![][405]<br> [Luxray]<br> Lv. 60     
-Guitarist Preston   | ![][125]<br> [Electabuzz]<br> Lv. 60 | ![][462]<br> [Magnezone]<br> Lv. 60  
-Guitarist Lonnie    | ![][125]<br> [Electabuzz]<br> Lv. 60 | ![][101]<br> [Electrode]<br> Lv. 60  
-Ace Trainer Zachery | ![][181]<br> [Ampharos]<br> Lv. 60   | ![][462]<br> [Magnezone]<br> Lv. 60  | ![][310]<br> [Manectric]<br> Lv. 60  | ![][101]<br> [Electrode]<br> Lv. 60  
-Leader Volkner      | ![][135]<br> [Jolteon]<br> Lv. 61    | ![][026]<br> [Raichu]<br> Lv. 61     | ![][479]<br> [Rotom]<br> Lv. 61      | ![][479]<br> [Rotom]<br> Lv. 61      | ![][405]<br> [Luxray]<br> Lv. 61     | ![][466]<br> [Electivire]<br> Lv. 62 
+Trainer                        | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6
+---                            | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---
+School Kid Tiera               | ![][311]<br> [Plusle]<br> Lv. 56     | ![][312]<br> [Minun]<br> Lv. 56      | ![][417]<br> [Pachirisu]<br> Lv. 59
+School Kid Forrest             | ![][239]<br> [Elekid]<br> Lv. 56     | ![][239]<br> [Elekid]<br> Lv. 56     | ![][125]<br> [Electabuzz]<br> Lv. 59
+Guitarist Jerry                | ![][125]<br> [Electabuzz]<br> Lv. 60 | ![][405]<br> [Luxray]<br> Lv. 60
+Poké Kid Meghan                | ![][172]<br> [Pichu]<br> Lv. 56      | ![][172]<br> [Pichu]<br> Lv. 56      | ![][025]<br> [Pikachu]<br> Lv. 59
+Ace Trainer Destiny            | ![][026]<br> [Raichu]<br> Lv. 60     | ![][171]<br> [Lanturn]<br> Lv. 60    | ![][135]<br> [Jolteon]<br> Lv. 60    | ![][405]<br> [Luxray]<br> Lv. 60
+Guitarist Preston              | ![][125]<br> [Electabuzz]<br> Lv. 60 | ![][462]<br> [Magnezone]<br> Lv. 60
+Guitarist Lonnie               | ![][125]<br> [Electabuzz]<br> Lv. 60 | ![][101]<br> [Electrode]<br> Lv. 60
+Ace Trainer Zachery            | ![][181]<br> [Ampharos]<br> Lv. 60   | ![][462]<br> [Magnezone]<br> Lv. 60  | ![][310]<br> [Manectric]<br> Lv. 60  | ![][101]<br> [Electrode]<br> Lv. 60
+Leader Volkner<br>![][volkner] | ![][135]<br> [Jolteon]<br> Lv. 61    | ![][026]<br> [Raichu]<br> Lv. 61     | ![][479]<br> [Rotom]<br> Lv. 61      | ![][479]<br> [Rotom]<br> Lv. 61      | ![][405]<br> [Luxray]<br> Lv. 61     | ![][466]<br> [Electivire]<br> Lv. 62
 
-Leader Volkner                       | Item                               | Nature  | Ability     | Moves                                             
----                                  | ---                                | ---     | ---         | ---                                               
+Leader Volkner<br>![][volkner]       | Item                               | Nature  | Ability     | Moves
+---                                  | ---                                | ---     | ---         | ---
 ![][135]<br> [Jolteon]<br> Lv. 61    | ![][focus-sash]<br> Focus Sash     | Naive   | Static      | Thunderbolt, Shadow Ball, Grass Knot, Thunder Wave
-![][026]<br> [Raichu]<br> Lv. 61     | ![][expert-belt]<br> Expert Belt   | Timid   | Static      | Thunderbolt, Grass Knot, Focus Blast, Surf        
+![][026]<br> [Raichu]<br> Lv. 61     | ![][expert-belt]<br> Expert Belt   | Timid   | Static      | Thunderbolt, Grass Knot, Focus Blast, Surf
 ![][479]<br> [Rotom]<br> Lv. 61      | ![][sitrus-berry]<br> Sitrus Berry | Modest  | Levitate    | Thunderbolt, Hydro Pump, Shadow Ball, Thunder Wave
-![][479]<br> [Rotom]<br> Lv. 61      | ![][white-herb]<br> White Herb     | Modest  | Levitate    | Thunderbolt, Overheat, Shadow Ball, Will-O-Wisp   
-![][405]<br> [Luxray]<br> Lv. 61     | ![][choice-band]<br> Choice Band   | Naughty | Intimidate  | Wild Charge, Crunch, Ice Fang, Fire Fang          
-![][466]<br> [Electivire]<br> Lv. 62 | ![][life-orb]<br> Life Orb         | Jolly   | Motor Drive | Wild Charge, Close Combat, Ice Punch, Earthquake  
-
-
+![][479]<br> [Rotom]<br> Lv. 61      | ![][white-herb]<br> White Herb     | Modest  | Levitate    | Thunderbolt, Overheat, Shadow Ball, Will-O-Wisp
+![][405]<br> [Luxray]<br> Lv. 61     | ![][choice-band]<br> Choice Band   | Naughty | Intimidate  | Wild Charge, Crunch, Ice Fang, Fire Fang
+![][466]<br> [Electivire]<br> Lv. 62 | ![][life-orb]<br> Life Orb         | Jolly   | Motor Drive | Wild Charge, Close Combat, Ice Punch, Earthquake
 
 [Pikachu]: ../../pokemon_changes/025/
 [Raichu]: ../../pokemon_changes/026/
@@ -63,4 +61,4 @@ Leader Volkner                       | Item                               | Natu
 [462]: ../img/pokemon/462.png
 [466]: ../img/pokemon/466.png
 [479]: ../img/pokemon/479.png
-
+[volkner]: ../img/trainer/volkner.png
