@@ -4,31 +4,31 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_223/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Swimmer Wesley (!)         | ![][419]  [Floatzel] Lv. 59  ![][319]  [Sharpedo] Lv. 59  ![][211]  [Qwilfish] Lv. 59
-Swimmer Ricardo            | ![][073]  [Tentacruel] Lv. 61
-Swimmer Francisco (!)      | ![][272]  [Ludicolo] Lv. 59  ![][369]  [Relicanth] Lv. 59  ![][062]  [Poliwrath] Lv. 59
-Swimmer Colton             | ![][279]  [Pelipper] Lv. 59  ![][224]  [Octillery] Lv. 59  ![][160]  [Feraligatr] Lv. 59
-Swimmer Troy               | ![][130]  [Gyarados] Lv. 61
-Swimmer Oscar              | ![][226]  [Mantine] Lv. 59  ![][009]  [Blastoise] Lv. 59  ![][340]  [Whiscash] Lv. 59
-Swimmer Miranda (!)        | ![][091]  [Cloyster] Lv. 60  ![][457]  [Lumineon] Lv. 60
-Swimmer Aubree             | ![][400]  [Bibarel] Lv. 60  ![][195]  [Quagsire] Lv. 60
-Swimmer Paige              | ![][184]  [Azumarill] Lv. 59  ![][080]  [Slowbro] Lv. 59  ![][368]  [Gorebyss] Lv. 59
-Swimmer Crystal (!)        | ![][321]  [Wailord] Lv. 59  ![][119]  [Seaking] Lv. 59  ![][222]  [Corsola] Lv. 59
-Swimmer Cassandra          | ![][134]  [Vaporeon] Lv. 61
-Swimmer Gabrielle          | ![][055]  [Golduck] Lv. 59  ![][131]  [Lapras] Lv. 59  ![][121]  [Starmie] Lv. 59
-Sailor Zachariah (!)       | ![][099]  [Kingler] Lv. 58  ![][068]  [Machamp] Lv. 58  ![][423]  [Gastrodon] Lv. 58 <br> ![][199]  [Slowking] Lv. 58
+Trainer               | 1                                    | 2                                    | 3                                    | 4                                    
+---                   | ---                                  | ---                                  | ---                                  | ---                                  
+Swimmer Wesley (!)    | ![][419]<br> [Floatzel]<br> Lv. 59   | ![][319]<br> [Sharpedo]<br> Lv. 59   | ![][211]<br> [Qwilfish]<br> Lv. 59   
+Swimmer Ricardo       | ![][073]<br> [Tentacruel]<br> Lv. 61 
+Swimmer Francisco (!) | ![][272]<br> [Ludicolo]<br> Lv. 59   | ![][369]<br> [Relicanth]<br> Lv. 59  | ![][062]<br> [Poliwrath]<br> Lv. 59  
+Swimmer Colton        | ![][279]<br> [Pelipper]<br> Lv. 59   | ![][224]<br> [Octillery]<br> Lv. 59  | ![][160]<br> [Feraligatr]<br> Lv. 59 
+Swimmer Troy          | ![][130]<br> [Gyarados]<br> Lv. 61   
+Swimmer Oscar         | ![][226]<br> [Mantine]<br> Lv. 59    | ![][009]<br> [Blastoise]<br> Lv. 59  | ![][340]<br> [Whiscash]<br> Lv. 59   
+Swimmer Miranda (!)   | ![][091]<br> [Cloyster]<br> Lv. 60   | ![][457]<br> [Lumineon]<br> Lv. 60   
+Swimmer Aubree        | ![][400]<br> [Bibarel]<br> Lv. 60    | ![][195]<br> [Quagsire]<br> Lv. 60   
+Swimmer Paige         | ![][184]<br> [Azumarill]<br> Lv. 59  | ![][080]<br> [Slowbro]<br> Lv. 59    | ![][368]<br> [Gorebyss]<br> Lv. 59   
+Swimmer Crystal (!)   | ![][321]<br> [Wailord]<br> Lv. 59    | ![][119]<br> [Seaking]<br> Lv. 59    | ![][222]<br> [Corsola]<br> Lv. 59    
+Swimmer Cassandra     | ![][134]<br> [Vaporeon]<br> Lv. 61   
+Swimmer Gabrielle     | ![][055]<br> [Golduck]<br> Lv. 59    | ![][131]<br> [Lapras]<br> Lv. 59     | ![][121]<br> [Starmie]<br> Lv. 59    
+Sailor Zachariah (!)  | ![][099]<br> [Kingler]<br> Lv. 58    | ![][068]<br> [Machamp]<br> Lv. 58    | ![][423]<br> [Gastrodon]<br> Lv. 58  | ![][199]<br> [Slowking]<br> Lv. 58   
 
 #### Rematches
 
-Trainer                    | Pokémons
----                        | ---
-Swimmer Wesley (S)         | ![][419]  [Floatzel] Lv. 75  ![][319]  [Sharpedo] Lv. 75  ![][211]  [Qwilfish] Lv. 75
-Swimmer Francisco (S)      | ![][272]  [Ludicolo] Lv. 75  ![][369]  [Relicanth] Lv. 75  ![][062]  [Poliwrath] Lv. 75
-Swimmer Miranda (S)        | ![][091]  [Cloyster] Lv. 75  ![][457]  [Lumineon] Lv. 75  ![][121]  [Starmie] Lv. 75
-Swimmer Crystal (S)        | ![][321]  [Wailord] Lv. 75  ![][119]  [Seaking] Lv. 75  ![][222]  [Corsola] Lv. 75
-Sailor Zachariah (S)       | ![][099]  [Kingler] Lv. 74  ![][068]  [Machamp] Lv. 74  ![][423]  [Gastrodon] Lv. 74 <br> ![][199]  [Slowking] Lv. 74
+Trainer               | 1                                   | 2                                   | 3                                   | 4                                   
+---                   | ---                                 | ---                                 | ---                                 | ---                                 
+Swimmer Wesley (S)    | ![][419]<br> [Floatzel]<br> Lv. 75  | ![][319]<br> [Sharpedo]<br> Lv. 75  | ![][211]<br> [Qwilfish]<br> Lv. 75  
+Swimmer Francisco (S) | ![][272]<br> [Ludicolo]<br> Lv. 75  | ![][369]<br> [Relicanth]<br> Lv. 75 | ![][062]<br> [Poliwrath]<br> Lv. 75 
+Swimmer Miranda (S)   | ![][091]<br> [Cloyster]<br> Lv. 75  | ![][457]<br> [Lumineon]<br> Lv. 75  | ![][121]<br> [Starmie]<br> Lv. 75   
+Swimmer Crystal (S)   | ![][321]<br> [Wailord]<br> Lv. 75   | ![][119]<br> [Seaking]<br> Lv. 75   | ![][222]<br> [Corsola]<br> Lv. 75   
+Sailor Zachariah (S)  | ![][099]<br> [Kingler]<br> Lv. 74   | ![][068]<br> [Machamp]<br> Lv. 74   | ![][423]<br> [Gastrodon]<br> Lv. 74 | ![][199]<br> [Slowking]<br> Lv. 74  
 
 
 [Blastoise]: /pokemon_changes/009/

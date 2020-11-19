@@ -4,32 +4,32 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_216/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Ace Trainer Blake          | ![][137]  [Porygon] Lv. 23  ![][288]  [Vigoroth] Lv. 23
-Ace Trainer Maria          | ![][195]  [Quagsire] Lv. 22  ![][156]  [Quilava] Lv. 22  ![][185]  [Sudowoodo] Lv. 22
-Ace Trainer Laura          | ![][176]  [Togetic] Lv. 23  ![][277]  [Swellow] Lv. 23
-Skier Edward (!)           | ![][459]  [Snover] Lv. 20  ![][361]  [Snorunt] Lv. 20  ![][220]  [Swinub] Lv. 20
-Ace Trainer Garrett        | ![][122]  [Mr. Mime] Lv. 22  ![][274]  [Nuzleaf] Lv. 22  ![][123]  [Scyther] Lv. 22
+Trainer             | 1                                   | 2                                   | 3                                   
+---                 | ---                                 | ---                                 | ---                                 
+Ace Trainer Blake   | ![][137]<br> [Porygon]<br> Lv. 23   | ![][288]<br> [Vigoroth]<br> Lv. 23  
+Ace Trainer Maria   | ![][195]<br> [Quagsire]<br> Lv. 22  | ![][156]<br> [Quilava]<br> Lv. 22   | ![][185]<br> [Sudowoodo]<br> Lv. 22 
+Ace Trainer Laura   | ![][176]<br> [Togetic]<br> Lv. 23   | ![][277]<br> [Swellow]<br> Lv. 23   
+Skier Edward (!)    | ![][459]<br> [Snover]<br> Lv. 20    | ![][361]<br> [Snorunt]<br> Lv. 20   | ![][220]<br> [Swinub]<br> Lv. 20    
+Ace Trainer Garrett | ![][122]<br> [Mr. Mime]<br> Lv. 22  | ![][274]<br> [Nuzleaf]<br> Lv. 22   | ![][123]<br> [Scyther]<br> Lv. 22   
 
 #### With Rock Climb
 
-Trainer                    | Pokémons
----                        | ---
-Black Belt Philip (!)      | ![][297]  [Hariyama] Lv. 56  ![][068]  [Machamp] Lv. 56
-Skier Bradley              | ![][221]  [Piloswine] Lv. 54  ![][362]  [Glalie] Lv. 54
-Skier Kaitlyn              | ![][131]  [Lapras] Lv. 55
-Skier Andrea (!)           | ![][460]  [Abomasnow] Lv. 55
+Trainer               | 1                                   
+---                   | ---                                 
+Black Belt Philip (!) | ![][297]<br> [Hariyama]<br> Lv. 56  | ![][068]<br> [Machamp]<br> Lv. 56   
+Skier Bradley         | ![][221]<br> [Piloswine]<br> Lv. 54 | ![][362]<br> [Glalie]<br> Lv. 54    
+Skier Kaitlyn         | ![][131]<br> [Lapras]<br> Lv. 55    
+Skier Andrea (!)      | ![][460]<br> [Abomasnow]<br> Lv. 55 
 
 #### Rematches
 
-Trainer                    | Pokémons
----                        | ---
-Skier Edward (8)           | ![][460]  [Abomasnow] Lv. 59  ![][362]  [Glalie] Lv. 59  ![][221]  [Piloswine] Lv. 59
-Skier Edward (C)           | ![][460]  [Abomasnow] Lv. 70  ![][362]  [Glalie] Lv. 70  ![][473]  [Mamoswine] Lv. 70
-Black Belt Philip (C)      | ![][297]  [Hariyama] Lv. 70  ![][068]  [Machamp] Lv. 70  ![][062]  [Poliwrath] Lv. 70
-Skier Andrea (8)           | ![][460]  [Abomasnow] Lv. 61
-Skier Andrea (C)           | ![][460]  [Abomasnow] Lv. 72
+Trainer               | 1                                   
+---                   | ---                                 
+Skier Edward (8)      | ![][460]<br> [Abomasnow]<br> Lv. 59 | ![][362]<br> [Glalie]<br> Lv. 59    | ![][221]<br> [Piloswine]<br> Lv. 59 
+Skier Edward (C)      | ![][460]<br> [Abomasnow]<br> Lv. 70 | ![][362]<br> [Glalie]<br> Lv. 70    | ![][473]<br> [Mamoswine]<br> Lv. 70 
+Black Belt Philip (C) | ![][297]<br> [Hariyama]<br> Lv. 70  | ![][068]<br> [Machamp]<br> Lv. 70   | ![][062]<br> [Poliwrath]<br> Lv. 70 
+Skier Andrea (8)      | ![][460]<br> [Abomasnow]<br> Lv. 61 
+Skier Andrea (C)      | ![][460]<br> [Abomasnow]<br> Lv. 72 
 
 
 [Poliwrath]: /pokemon_changes/062/

@@ -4,10 +4,10 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/mt_coronet__3f/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Galactic Grunt             | ![][030]  [Nidorina] Lv. 54  ![][317]  [Swalot] Lv. 54  ![][053]  [Persian] Lv. 54
-Galactic Grunt             | ![][033]  [Nidorino] Lv. 54  ![][452]  [Drapion] Lv. 54  ![][402]  [Kricketune] Lv. 54
+Trainer        | 1                                    | 2                                    | 3                                    
+---            | ---                                  | ---                                  | ---                                  
+Galactic Grunt | ![][030]<br> [Nidorina]<br> Lv. 54   | ![][317]<br> [Swalot]<br> Lv. 54     | ![][053]<br> [Persian]<br> Lv. 54    
+Galactic Grunt | ![][033]<br> [Nidorino]<br> Lv. 54   | ![][452]<br> [Drapion]<br> Lv. 54    | ![][402]<br> [Kricketune]<br> Lv. 54 
 
 
 [Nidorina]: /pokemon_changes/030/

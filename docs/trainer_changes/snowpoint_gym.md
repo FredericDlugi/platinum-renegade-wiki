@@ -1,14 +1,14 @@
 # Snowpoint Gym
 
-Trainer                    | Pokémons
----                        | ---
-Ace Trainer Anton          | ![][361]  [Snorunt] Lv. 51  ![][362]  [Glalie] Lv. 54  ![][362]  [Glalie] Lv. 54
-Ace Trainer Savannah       | ![][086]  [Seel] Lv. 51  ![][124]  [Jynx] Lv. 54  ![][087]  [Dewgong] Lv. 54
-Ace Trainer Alicia         | ![][363]  [Spheal] Lv. 51  ![][364]  [Sealeo] Lv. 53  ![][365]  [Walrein] Lv. 55
-Ace Trainer Isaiah         | ![][460]  [Abomasnow] Lv. 54  ![][225]  [Delibird] Lv. 54
-Ace Trainer Brenna         | ![][087]  [Dewgong] Lv. 53  ![][091]  [Cloyster] Lv. 53  ![][131]  [Lapras] Lv. 53
-Ace Trainer Sergio         | ![][220]  [Swinub] Lv. 51  ![][221]  [Piloswine] Lv. 53  ![][473]  [Mamoswine] Lv. 55
-Leader Candice             | ![][460]  [Abomasnow] Lv. 55  ![][461]  [Weavile] Lv. 55  ![][471]  [Glaceon] Lv. 55 <br> ![][365]  [Walrein] Lv. 55  ![][473]  [Mamoswine] Lv. 55  ![][478]  [Froslass] Lv. 56
+Trainer              | 1                                   | 2                                   | 3                                   | 4                                   | 5                                   | 6                                   
+---                  | ---                                 | ---                                 | ---                                 | ---                                 | ---                                 | ---                                 
+Ace Trainer Anton    | ![][361]<br> [Snorunt]<br> Lv. 51   | ![][362]<br> [Glalie]<br> Lv. 54    | ![][362]<br> [Glalie]<br> Lv. 54    
+Ace Trainer Savannah | ![][086]<br> [Seel]<br> Lv. 51      | ![][124]<br> [Jynx]<br> Lv. 54      | ![][087]<br> [Dewgong]<br> Lv. 54   
+Ace Trainer Alicia   | ![][363]<br> [Spheal]<br> Lv. 51    | ![][364]<br> [Sealeo]<br> Lv. 53    | ![][365]<br> [Walrein]<br> Lv. 55   
+Ace Trainer Isaiah   | ![][460]<br> [Abomasnow]<br> Lv. 54 | ![][225]<br> [Delibird]<br> Lv. 54  
+Ace Trainer Brenna   | ![][087]<br> [Dewgong]<br> Lv. 53   | ![][091]<br> [Cloyster]<br> Lv. 53  | ![][131]<br> [Lapras]<br> Lv. 53    
+Ace Trainer Sergio   | ![][220]<br> [Swinub]<br> Lv. 51    | ![][221]<br> [Piloswine]<br> Lv. 53 | ![][473]<br> [Mamoswine]<br> Lv. 55 
+Leader Candice       | ![][460]<br> [Abomasnow]<br> Lv. 55 | ![][461]<br> [Weavile]<br> Lv. 55   | ![][471]<br> [Glaceon]<br> Lv. 55   | ![][365]<br> [Walrein]<br> Lv. 55   | ![][473]<br> [Mamoswine]<br> Lv. 55 | ![][478]<br> [Froslass]<br> Lv. 56  
 
 Leader Candice     | Item             | Nature  | Ability       | Moves
 ---                | ---              | ---     | ---           | ---

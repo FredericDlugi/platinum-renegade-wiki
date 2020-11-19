@@ -4,12 +4,12 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/lake_valor/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Galactic Grunt             | ![][432]  [Purugly] Lv. 50
-Galactic Grunt             | ![][229]  [Houndoom] Lv. 50
-Galactic Grunt             | ![][435]  [Skuntank] Lv. 50
-Commander Saturn           | ![][065]  [Alakazam] Lv. 52  ![][224]  [Octillery] Lv. 52  ![][437]  [Bronzong] Lv. 52 <br> ![][112]  [Rhydon] Lv. 52  ![][454]  [Toxicroak] Lv. 53
+Trainer          | 1                                   | 2                                   | 3                                   | 4                                   | 5                                   
+---              | ---                                 | ---                                 | ---                                 | ---                                 | ---                                 
+Galactic Grunt   | ![][432]<br> [Purugly]<br> Lv. 50   
+Galactic Grunt   | ![][229]<br> [Houndoom]<br> Lv. 50  
+Galactic Grunt   | ![][435]<br> [Skuntank]<br> Lv. 50  
+Commander Saturn | ![][065]<br> [Alakazam]<br> Lv. 52  | ![][224]<br> [Octillery]<br> Lv. 52 | ![][437]<br> [Bronzong]<br> Lv. 52  | ![][112]<br> [Rhydon]<br> Lv. 52    | ![][454]<br> [Toxicroak]<br> Lv. 53 
 
 Commander Saturn   | Item         | Nature  | Ability       | Moves
 ---                | ---          | ---     | ---           | ---

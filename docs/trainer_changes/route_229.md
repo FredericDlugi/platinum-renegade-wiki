@@ -4,13 +4,13 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_229/).
 
 
-Trainer             | Pokémons
----                 | ---
-PKMN Ranger Deshawn | ![][327]  [Spinda] Lv. 74  ![][352]  [Kecleon] Lv. 74  ![][210]  [Granbull] Lv. 74
-Ace Trainer Felix   | ![][477]  [Dusknoir] Lv. 76  ![][373]  [Salamence] Lv. 76
-Ace Trainer Dana    | ![][262]  [Mightyena] Lv. 75  ![][282]  [Gardevoir] Lv. 75  ![][012]  [Butterfree] Lv. 75
-Ace Trainer Sandra  | ![][051]  [Dugtrio] Lv. 74  ![][026]  [Raichu] Lv. 74  ![][059]  [Arcanine] Lv. 74 <br> ![][045]  [Vileplume] Lv. 74
-Ace Trainer Gene *  | ![][234]  [Stantler] Lv. 76  ![][085]  [Dodrio] Lv. 76  ![][203]  [Girafarig] Lv. 76 <br> ![][400]  [Bibarel] Lv. 76  ![][474]  [Porygon-Z] Lv. 76  ![][143]  [Snorlax] Lv. 77
+Trainer             | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6                                    
+---                 | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  
+PKMN Ranger Deshawn | ![][327]<br> [Spinda]<br> Lv. 74     | ![][352]<br> [Kecleon]<br> Lv. 74    | ![][210]<br> [Granbull]<br> Lv. 74   
+Ace Trainer Felix   | ![][477]<br> [Dusknoir]<br> Lv. 76   | ![][373]<br> [Salamence]<br> Lv. 76  
+Ace Trainer Dana    | ![][262]<br> [Mightyena]<br> Lv. 75  | ![][282]<br> [Gardevoir]<br> Lv. 75  | ![][012]<br> [Butterfree]<br> Lv. 75 
+Ace Trainer Sandra  | ![][051]<br> [Dugtrio]<br> Lv. 74    | ![][026]<br> [Raichu]<br> Lv. 74     | ![][059]<br> [Arcanine]<br> Lv. 74   | ![][045]<br> [Vileplume]<br> Lv. 74  
+Ace Trainer Gene *  | ![][234]<br> [Stantler]<br> Lv. 76   | ![][085]<br> [Dodrio]<br> Lv. 76     | ![][203]<br> [Girafarig]<br> Lv. 76  | ![][400]<br> [Bibarel]<br> Lv. 76    | ![][474]<br> [Porygon-Z]<br> Lv. 76  | ![][143]<br> [Snorlax]<br> Lv. 77    
 
 Ace Trainer Gene   | Item         | Nature | Ability      | Moves
 ---                | ---          | ---    | ---          | ---

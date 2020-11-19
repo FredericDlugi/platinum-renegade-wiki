@@ -1,9 +1,9 @@
 # Snowpoint City
 
-Trainer                    | Pokémons
----                        | ---
-Ace Trainer Aran           | ![][214]  [Heracross] Lv. 54  ![][157]  [Typhlosion] Lv. 54  ![][248]  [Tyranitar] Lv. 54
-Ace Trainer Nephenee       | ![][242]  [Blissey] Lv. 54  ![][154]  [Meganium] Lv. 54  ![][160]  [Feraligatr] Lv. 54
+Trainer              | 1                                    | 2                                    | 3                                    
+---                  | ---                                  | ---                                  | ---                                  
+Ace Trainer Aran     | ![][214]<br> [Heracross]<br> Lv. 54  | ![][157]<br> [Typhlosion]<br> Lv. 54 | ![][248]<br> [Tyranitar]<br> Lv. 54  
+Ace Trainer Nephenee | ![][242]<br> [Blissey]<br> Lv. 54    | ![][154]<br> [Meganium]<br> Lv. 54   | ![][160]<br> [Feraligatr]<br> Lv. 54 
 
 
 [Meganium]: /pokemon_changes/154/

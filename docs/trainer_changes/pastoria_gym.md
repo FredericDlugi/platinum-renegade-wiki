@@ -1,14 +1,14 @@
 # Pastoria Gym
 
-Trainer                    | Pokémons
----                        | ---
-Tuber Jacky                | ![][400]  [Bibarel] Lv. 39  ![][008]  [Wartortle] Lv. 39  ![][364]  [Sealeo] Lv. 39
-Fisherman Walter           | ![][340]  [Whiscash] Lv. 39  ![][171]  [Lanturn] Lv. 39  ![][119]  [Seaking] Lv. 39
-Sailor Damian              | ![][279]  [Pelipper] Lv. 39  ![][159]  [Croconaw] Lv. 39  ![][055]  [Golduck] Lv. 39
-Tuber Caitlyn              | ![][184]  [Azumarill] Lv. 39  ![][259]  [Marshtomp] Lv. 39  ![][087]  [Dewgong] Lv. 39
-Fisherman Erick            | ![][457]  [Lumineon] Lv. 39  ![][073]  [Tentacruel] Lv. 39  ![][099]  [Kingler] Lv. 39
-Sailor Samson              | ![][080]  [Slowbro] Lv. 39  ![][423]  [Gastrodon] Lv. 39  ![][226]  [Mantine] Lv. 39
-Leader Wake                | ![][195]  [Quagsire] Lv. 43  ![][130]  [Gyarados] Lv. 43  ![][062]  [Poliwrath] Lv. 43 <br> ![][272]  [Ludicolo] Lv. 43  ![][319]  [Sharpedo] Lv. 43  ![][419]  [Floatzel] Lv. 44
+Trainer          | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6                                    
+---              | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  
+Tuber Jacky      | ![][400]<br> [Bibarel]<br> Lv. 39    | ![][008]<br> [Wartortle]<br> Lv. 39  | ![][364]<br> [Sealeo]<br> Lv. 39     
+Fisherman Walter | ![][340]<br> [Whiscash]<br> Lv. 39   | ![][171]<br> [Lanturn]<br> Lv. 39    | ![][119]<br> [Seaking]<br> Lv. 39    
+Sailor Damian    | ![][279]<br> [Pelipper]<br> Lv. 39   | ![][159]<br> [Croconaw]<br> Lv. 39   | ![][055]<br> [Golduck]<br> Lv. 39    
+Tuber Caitlyn    | ![][184]<br> [Azumarill]<br> Lv. 39  | ![][259]<br> [Marshtomp]<br> Lv. 39  | ![][087]<br> [Dewgong]<br> Lv. 39    
+Fisherman Erick  | ![][457]<br> [Lumineon]<br> Lv. 39   | ![][073]<br> [Tentacruel]<br> Lv. 39 | ![][099]<br> [Kingler]<br> Lv. 39    
+Sailor Samson    | ![][080]<br> [Slowbro]<br> Lv. 39    | ![][423]<br> [Gastrodon]<br> Lv. 39  | ![][226]<br> [Mantine]<br> Lv. 39    
+Leader Wake      | ![][195]<br> [Quagsire]<br> Lv. 43   | ![][130]<br> [Gyarados]<br> Lv. 43   | ![][062]<br> [Poliwrath]<br> Lv. 43  | ![][272]<br> [Ludicolo]<br> Lv. 43   | ![][319]<br> [Sharpedo]<br> Lv. 43   | ![][419]<br> [Floatzel]<br> Lv. 44   
 
 Leader Wake        | Item         | Nature  | Ability       | Moves
 ---                | ---          | ---     | ---           | ---

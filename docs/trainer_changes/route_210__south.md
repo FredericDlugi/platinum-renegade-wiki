@@ -4,24 +4,24 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_210__south/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Twins Teri & Tia           | ![][162]  [Furret] Lv. 32  ![][264]  [Linoone] Lv. 32
-Jogger Wyatt               | ![][101]  [Electrode] Lv. 33
-PKMN Breeder Kahlil        | ![][447]  [Riolu] Lv. 31  ![][433]  [Chingling] Lv. 31  ![][446]  [Munchlax] Lv. 31
-PKMN Breeder Amber         | ![][458]  [Mantyke] Lv. 31  ![][440]  [Happiny] Lv. 31  ![][360]  [Wynaut] Lv. 31
-Belle & Pa Ava & Matt      | ![][128]  [Tauros] Lv. 33  ![][241]  [Miltank] Lv. 33
-Rancher Marco (!)          | ![][078]  [Rapidash] Lv. 33
-Collector Fernando         | ![][147]  [Dratini] Lv. 31  ![][148]  [Dragonair] Lv. 33
-Collector Edwin            | ![][371]  [Bagon] Lv. 31  ![][372]  [Shelgon] Lv. 33
-Waitress Kati              | ![][036]  [Clefable] Lv. 33
+Trainer               | 1                                   
+---                   | ---                                 
+Twins Teri & Tia      | ![][162]<br> [Furret]<br> Lv. 32    | ![][264]<br> [Linoone]<br> Lv. 32   
+Jogger Wyatt          | ![][101]<br> [Electrode]<br> Lv. 33 
+PKMN Breeder Kahlil   | ![][447]<br> [Riolu]<br> Lv. 31     | ![][433]<br> [Chingling]<br> Lv. 31 | ![][446]<br> [Munchlax]<br> Lv. 31  
+PKMN Breeder Amber    | ![][458]<br> [Mantyke]<br> Lv. 31   | ![][440]<br> [Happiny]<br> Lv. 31   | ![][360]<br> [Wynaut]<br> Lv. 31    
+Belle & Pa Ava & Matt | ![][128]<br> [Tauros]<br> Lv. 33    | ![][241]<br> [Miltank]<br> Lv. 33   
+Rancher Marco (!)     | ![][078]<br> [Rapidash]<br> Lv. 33  
+Collector Fernando    | ![][147]<br> [Dratini]<br> Lv. 31   | ![][148]<br> [Dragonair]<br> Lv. 33 
+Collector Edwin       | ![][371]<br> [Bagon]<br> Lv. 31     | ![][372]<br> [Shelgon]<br> Lv. 33   
+Waitress Kati         | ![][036]<br> [Clefable]<br> Lv. 33  
 
 #### Rematches
 
-Trainer                    | Pokémons
----                        | ---
-Rancher Marco (8)          | ![][078]  [Rapidash] Lv. 59  ![][128]  [Tauros] Lv. 59  ![][241]  [Miltank] Lv. 59
-Rancher Marco (C)          | ![][078]  [Rapidash] Lv. 70  ![][128]  [Tauros] Lv. 70  ![][241]  [Miltank] Lv. 70
+Trainer           | 1                                  | 2                                  | 3                                  
+---               | ---                                | ---                                | ---                                
+Rancher Marco (8) | ![][078]<br> [Rapidash]<br> Lv. 59 | ![][128]<br> [Tauros]<br> Lv. 59   | ![][241]<br> [Miltank]<br> Lv. 59  
+Rancher Marco (C) | ![][078]<br> [Rapidash]<br> Lv. 70 | ![][128]<br> [Tauros]<br> Lv. 70   | ![][241]<br> [Miltank]<br> Lv. 70  
 
 
 [Clefable]: /pokemon_changes/036/

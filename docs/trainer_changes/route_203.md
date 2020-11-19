@@ -4,27 +4,27 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_203/).
 
 
-Trainer                    | Pokémons
----                        | ---
-PKMN Trainer Barry         | ![][396]  [Starly] Lv. 10  ![][446]  [Munchlax] Lv. 10  ![][387]  [Turtwig] Lv. 11
-PKMN Trainer Barry         | ![][396]  [Starly] Lv. 10  ![][446]  [Munchlax] Lv. 10  ![][390]  [Chimchar] Lv. 11
-PKMN Trainer Barry         | ![][396]  [Starly] Lv. 10  ![][446]  [Munchlax] Lv. 10  ![][393]  [Piplup] Lv. 11
-Youngster Michael          | ![][401]  [Kricketot] Lv. 9  ![][041]  [Zubat] Lv. 9  ![][019]  [Rattata] Lv. 9
-Youngster Dallas (!)       | ![][403]  [Shinx] Lv. 10  ![][027]  [Sandshrew] Lv. 10
-Youngster Sebastian        | ![][296]  [Makuhita] Lv. 10  ![][066]  [Machop] Lv. 10
-Lass Kaitlin               | ![][021]  [Spearow] Lv. 9  ![][104]  [Cubone] Lv. 9  ![][298]  [Azurill] Lv. 9
-Lass Madeline (!)          | ![][054]  [Psyduck] Lv. 10  ![][191]  [Sunkern] Lv. 10
+Trainer              | 1                                   | 2                                   
+---                  | ---                                 | ---                                 
+PKMN Trainer Barry   | ![][396]<br> [Starly]<br> Lv. 10    | ![][446]<br> [Munchlax]<br> Lv. 10  | ![][387]<br> [Turtwig]<br> Lv. 11   
+PKMN Trainer Barry   | ![][396]<br> [Starly]<br> Lv. 10    | ![][446]<br> [Munchlax]<br> Lv. 10  | ![][390]<br> [Chimchar]<br> Lv. 11  
+PKMN Trainer Barry   | ![][396]<br> [Starly]<br> Lv. 10    | ![][446]<br> [Munchlax]<br> Lv. 10  | ![][393]<br> [Piplup]<br> Lv. 11    
+Youngster Michael    | ![][401]<br> [Kricketot]<br> Lv. 9  | ![][041]<br> [Zubat]<br> Lv. 9      | ![][019]<br> [Rattata]<br> Lv. 9    
+Youngster Dallas (!) | ![][403]<br> [Shinx]<br> Lv. 10     | ![][027]<br> [Sandshrew]<br> Lv. 10 
+Youngster Sebastian  | ![][296]<br> [Makuhita]<br> Lv. 10  | ![][066]<br> [Machop]<br> Lv. 10    
+Lass Kaitlin         | ![][021]<br> [Spearow]<br> Lv. 9    | ![][104]<br> [Cubone]<br> Lv. 9     | ![][298]<br> [Azurill]<br> Lv. 9    
+Lass Madeline (!)    | ![][054]<br> [Psyduck]<br> Lv. 10   | ![][191]<br> [Sunkern]<br> Lv. 10   
 
 #### Rematches
 
-Trainer                    | Pokémons
----                        | ---
-Youngster Dallas (3)       | ![][404]  [Luxio] Lv. 27  ![][028]  [Sandslash] Lv. 27
-Youngster Dallas (5)       | ![][404]  [Luxio] Lv. 38  ![][028]  [Sandslash] Lv. 38  ![][400]  [Bibarel] Lv. 38
-Youngster Dallas (C)       | ![][405]  [Luxray] Lv. 69  ![][028]  [Sandslash] Lv. 69  ![][400]  [Bibarel] Lv. 69 <br> ![][076]  [Golem] Lv. 69
-Lass Madeline (3)          | ![][054]  [Psyduck] Lv. 26  ![][191]  [Sunkern] Lv. 26  ![][427]  [Buneary] Lv. 26
-Lass Madeline (5)          | ![][055]  [Golduck] Lv. 38  ![][192]  [Sunflora] Lv. 38  ![][428]  [Lopunny] Lv. 38
-Lass Madeline (8)          | ![][055]  [Golduck] Lv. 59  ![][192]  [Sunflora] Lv. 59  ![][428]  [Lopunny] Lv. 59
+Trainer              | 1                                   | 2                                   | 3                                   
+---                  | ---                                 | ---                                 | ---                                 
+Youngster Dallas (3) | ![][404]<br> [Luxio]<br> Lv. 27     | ![][028]<br> [Sandslash]<br> Lv. 27 
+Youngster Dallas (5) | ![][404]<br> [Luxio]<br> Lv. 38     | ![][028]<br> [Sandslash]<br> Lv. 38 | ![][400]<br> [Bibarel]<br> Lv. 38   
+Youngster Dallas (C) | ![][405]<br> [Luxray]<br> Lv. 69    | ![][028]<br> [Sandslash]<br> Lv. 69 | ![][400]<br> [Bibarel]<br> Lv. 69   | ![][076]<br> [Golem]<br> Lv. 69     
+Lass Madeline (3)    | ![][054]<br> [Psyduck]<br> Lv. 26   | ![][191]<br> [Sunkern]<br> Lv. 26   | ![][427]<br> [Buneary]<br> Lv. 26   
+Lass Madeline (5)    | ![][055]<br> [Golduck]<br> Lv. 38   | ![][192]<br> [Sunflora]<br> Lv. 38  | ![][428]<br> [Lopunny]<br> Lv. 38   
+Lass Madeline (8)    | ![][055]<br> [Golduck]<br> Lv. 59   | ![][192]<br> [Sunflora]<br> Lv. 59  | ![][428]<br> [Lopunny]<br> Lv. 59   
 
 
 [Rattata]: /pokemon_changes/019/

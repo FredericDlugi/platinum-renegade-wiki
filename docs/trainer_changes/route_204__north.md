@@ -4,19 +4,19 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_204__north/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Aroma Lady Taylor          | ![][420]  [Cherubi] Lv. 13  ![][187]  [Hoppip] Lv. 13  ![][285]  [Shroomish] Lv. 13
-Bug Catcher Brandon (!)    | ![][265]  [Wurmple] Lv. 14  ![][402]  [Kricketune] Lv. 14
-Twins Liv & Liz            | ![][311]  [Plusle] Lv. 15  ![][312]  [Minun] Lv. 15
+Trainer                 | 1                                    | 2                                    
+---                     | ---                                  | ---                                  
+Aroma Lady Taylor       | ![][420]<br> [Cherubi]<br> Lv. 13    | ![][187]<br> [Hoppip]<br> Lv. 13     | ![][285]<br> [Shroomish]<br> Lv. 13  
+Bug Catcher Brandon (!) | ![][265]<br> [Wurmple]<br> Lv. 14    | ![][402]<br> [Kricketune]<br> Lv. 14 
+Twins Liv & Liz         | ![][311]<br> [Plusle]<br> Lv. 15     | ![][312]<br> [Minun]<br> Lv. 15      
 
 #### Rematches
 
-Trainer                    | Pokémons
----                        | ---
-Bug Catcher Brandon (3)    | ![][269]  [Dustox] Lv. 27  ![][402]  [Kricketune] Lv. 27
-Bug Catcher Brandon (5)    | ![][269]  [Dustox] Lv. 38  ![][402]  [Kricketune] Lv. 38  ![][123]  [Scyther] Lv. 38
-Bug Catcher Brandon (C)    | ![][269]  [Dustox] Lv. 70  ![][402]  [Kricketune] Lv. 70  ![][212]  [Scizor] Lv. 70
+Trainer                 | 1                                    | 2                                    | 3                                    
+---                     | ---                                  | ---                                  | ---                                  
+Bug Catcher Brandon (3) | ![][269]<br> [Dustox]<br> Lv. 27     | ![][402]<br> [Kricketune]<br> Lv. 27 
+Bug Catcher Brandon (5) | ![][269]<br> [Dustox]<br> Lv. 38     | ![][402]<br> [Kricketune]<br> Lv. 38 | ![][123]<br> [Scyther]<br> Lv. 38    
+Bug Catcher Brandon (C) | ![][269]<br> [Dustox]<br> Lv. 70     | ![][402]<br> [Kricketune]<br> Lv. 70 | ![][212]<br> [Scizor]<br> Lv. 70     
 
 
 [Scyther]: /pokemon_changes/123/

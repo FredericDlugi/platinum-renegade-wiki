@@ -1,16 +1,16 @@
 # Sunyshore Gym
 
-Trainer                    | Pokémons
----                        | ---
-School Kid Tiera           | ![][311]  [Plusle] Lv. 56  ![][312]  [Minun] Lv. 56  ![][417]  [Pachirisu] Lv. 59
-School Kid Forrest         | ![][239]  [Elekid] Lv. 56  ![][239]  [Elekid] Lv. 56  ![][125]  [Electabuzz] Lv. 59
-Guitarist Jerry            | ![][125]  [Electabuzz] Lv. 60  ![][405]  [Luxray] Lv. 60
-Poké Kid Meghan            | ![][172]  [Pichu] Lv. 56  ![][172]  [Pichu] Lv. 56  ![][025]  [Pikachu] Lv. 59
-Ace Trainer Destiny        | ![][026]  [Raichu] Lv. 60  ![][171]  [Lanturn] Lv. 60  ![][135]  [Jolteon] Lv. 60 <br> ![][405]  [Luxray] Lv. 60
-Guitarist Preston          | ![][125]  [Electabuzz] Lv. 60  ![][462]  [Magnezone] Lv. 60
-Guitarist Lonnie           | ![][125]  [Electabuzz] Lv. 60  ![][101]  [Electrode] Lv. 60
-Ace Trainer Zachery        | ![][181]  [Ampharos] Lv. 60  ![][462]  [Magnezone] Lv. 60  ![][310]  [Manectric] Lv. 60 <br> ![][101]  [Electrode] Lv. 60
-Leader Volkner             | ![][135]  [Jolteon] Lv. 61  ![][026]  [Raichu] Lv. 61  ![][479]  [Rotom] Lv. 61 <br> ![][479]  [Rotom] Lv. 61  ![][405]  [Luxray] Lv. 61  ![][466]  [Electivire] Lv. 62
+Trainer             | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6                                    
+---                 | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  
+School Kid Tiera    | ![][311]<br> [Plusle]<br> Lv. 56     | ![][312]<br> [Minun]<br> Lv. 56      | ![][417]<br> [Pachirisu]<br> Lv. 59  
+School Kid Forrest  | ![][239]<br> [Elekid]<br> Lv. 56     | ![][239]<br> [Elekid]<br> Lv. 56     | ![][125]<br> [Electabuzz]<br> Lv. 59 
+Guitarist Jerry     | ![][125]<br> [Electabuzz]<br> Lv. 60 | ![][405]<br> [Luxray]<br> Lv. 60     
+Poké Kid Meghan     | ![][172]<br> [Pichu]<br> Lv. 56      | ![][172]<br> [Pichu]<br> Lv. 56      | ![][025]<br> [Pikachu]<br> Lv. 59    
+Ace Trainer Destiny | ![][026]<br> [Raichu]<br> Lv. 60     | ![][171]<br> [Lanturn]<br> Lv. 60    | ![][135]<br> [Jolteon]<br> Lv. 60    | ![][405]<br> [Luxray]<br> Lv. 60     
+Guitarist Preston   | ![][125]<br> [Electabuzz]<br> Lv. 60 | ![][462]<br> [Magnezone]<br> Lv. 60  
+Guitarist Lonnie    | ![][125]<br> [Electabuzz]<br> Lv. 60 | ![][101]<br> [Electrode]<br> Lv. 60  
+Ace Trainer Zachery | ![][181]<br> [Ampharos]<br> Lv. 60   | ![][462]<br> [Magnezone]<br> Lv. 60  | ![][310]<br> [Manectric]<br> Lv. 60  | ![][101]<br> [Electrode]<br> Lv. 60  
+Leader Volkner      | ![][135]<br> [Jolteon]<br> Lv. 61    | ![][026]<br> [Raichu]<br> Lv. 61     | ![][479]<br> [Rotom]<br> Lv. 61      | ![][479]<br> [Rotom]<br> Lv. 61      | ![][405]<br> [Luxray]<br> Lv. 61     | ![][466]<br> [Electivire]<br> Lv. 62 
 
 Leader Volkner      | Item         | Nature  | Ability       | Moves
 ---                 | ---          | ---     | ---           | ---

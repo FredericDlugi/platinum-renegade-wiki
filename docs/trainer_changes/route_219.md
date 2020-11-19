@@ -4,10 +4,10 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_219/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Tuber Mariel               | ![][184]  [Azumarill] Lv. 43  ![][134]  [Vaporeon] Lv. 43
-Tuber Trenton              | ![][061]  [Poliwhirl] Lv. 42  ![][423]  [Gastrodon] Lv. 42  ![][400]  [Bibarel] Lv. 42
+Trainer       | 1                                   | 2                                   | 3                                   
+---           | ---                                 | ---                                 | ---                                 
+Tuber Mariel  | ![][184]<br> [Azumarill]<br> Lv. 43 | ![][134]<br> [Vaporeon]<br> Lv. 43  
+Tuber Trenton | ![][061]<br> [Poliwhirl]<br> Lv. 42 | ![][423]<br> [Gastrodon]<br> Lv. 42 | ![][400]<br> [Bibarel]<br> Lv. 42   
 
 
 [Poliwhirl]: /pokemon_changes/061/

@@ -4,15 +4,15 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_220/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Swimmer Jessica            | ![][117]  [Seadra] Lv. 43  ![][370]  [Luvdisc] Lv. 43  ![][119]  [Seaking] Lv. 43
-Swimmer Erica              | ![][457]  [Lumineon] Lv. 44  ![][222]  [Corsola] Lv. 44
-Swimmer Adrian             | ![][224]  [Octillery] Lv. 43  ![][073]  [Tentacruel] Lv. 43  ![][199]  [Slowking] Lv. 43
-Swimmer Vincent            | ![][321]  [Wailord] Lv. 45
-Swimmer Claire             | ![][121]  [Starmie] Lv. 44  ![][009]  [Blastoise] Lv. 44
-Swimmer Erik               | ![][186]  [Politoed] Lv. 44  ![][171]  [Lanturn] Lv. 44
-Swimmer Katelyn            | ![][419]  [Floatzel] Lv. 43  ![][308]  [Medicham] Lv. 43  ![][119]  [Seaking] Lv. 43
+Trainer         | 1                                    | 2                                    | 3                                    
+---             | ---                                  | ---                                  | ---                                  
+Swimmer Jessica | ![][117]<br> [Seadra]<br> Lv. 43     | ![][370]<br> [Luvdisc]<br> Lv. 43    | ![][119]<br> [Seaking]<br> Lv. 43    
+Swimmer Erica   | ![][457]<br> [Lumineon]<br> Lv. 44   | ![][222]<br> [Corsola]<br> Lv. 44    
+Swimmer Adrian  | ![][224]<br> [Octillery]<br> Lv. 43  | ![][073]<br> [Tentacruel]<br> Lv. 43 | ![][199]<br> [Slowking]<br> Lv. 43   
+Swimmer Vincent | ![][321]<br> [Wailord]<br> Lv. 45    
+Swimmer Claire  | ![][121]<br> [Starmie]<br> Lv. 44    | ![][009]<br> [Blastoise]<br> Lv. 44  
+Swimmer Erik    | ![][186]<br> [Politoed]<br> Lv. 44   | ![][171]<br> [Lanturn]<br> Lv. 44    
+Swimmer Katelyn | ![][419]<br> [Floatzel]<br> Lv. 43   | ![][308]<br> [Medicham]<br> Lv. 43   | ![][119]<br> [Seaking]<br> Lv. 43    
 
 
 [Blastoise]: /pokemon_changes/009/

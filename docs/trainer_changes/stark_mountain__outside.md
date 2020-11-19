@@ -1,8 +1,8 @@
 # Stark Mountain ~ Outside
 
-Trainer             | Pokémons
----                 | ---
-Dragon Tamer Darien | ![][149]  [Dragonite] Lv. 78
+Trainer             | 1                                   
+---                 | ---                                 
+Dragon Tamer Darien | ![][149]<br> [Dragonite]<br> Lv. 78 
 
 
 [Dragonite]: /pokemon_changes/149/

@@ -4,38 +4,38 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_210__north/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Ninja Boy Fabian           | ![][454]  [Toxicroak] Lv. 41
-Ninja Boy Brennan          | ![][291]  [Ninjask] Lv. 41
-Ninja Boy Bruce            | ![][435]  [Skuntank] Lv. 41
-Ninja Boy Joel             | ![][123]  [Scyther] Lv. 39  ![][327]  [Spinda] Lv. 39  ![][042]  [Golbat] Lv. 39
-Ace Trainer Alyssa         | ![][424]  [Ambipom] Lv. 42  ![][121]  [Starmie] Lv. 42  ![][389]  [Torterra] Lv. 42
-Double Team Zac & Jen      | ![][130]  [Gyarados] Lv. 42  ![][472]  [Gliscor] Lv. 42  ![][071]  [Victreebel] Lv. 42 <br> ![][157]  [Typhlosion] Lv. 42  ![][217]  [Ursaring] Lv. 42  ![][181]  [Ampharos] Lv. 42
-Ace Trainer Ernest         | ![][186]  [Politoed] Lv. 41  ![][127]  [Pinsir] Lv. 41  ![][476]  [Probopass] Lv. 41 <br> ![][178]  [Xatu] Lv. 41
-Ninja Boy Davido           | ![][038]  [Ninetales] Lv. 41
-Black Belt Adam            | ![][068]  [Machamp] Lv. 42  ![][257]  [Blaziken] Lv. 42  ![][214]  [Heracross] Lv. 42
-Ninja Boy Nathan           | ![][317]  [Swalot] Lv. 39  ![][269]  [Dustox] Lv. 39  ![][414]  [Mothim] Lv. 39
-Bird Keeper Brianna (!)    | ![][085]  [Dodrio] Lv. 42  ![][018]  [Pidgeot] Lv. 42  ![][227]  [Skarmory] Lv. 42
-Veteran Brian (!)          | ![][465]  [Tangrowth] Lv. 43  ![][078]  [Rapidash] Lv. 43  ![][160]  [Feraligatr] Lv. 43
-Dragon Tamer Patrick (!)   | ![][444]  [Gabite] Lv. 41  ![][372]  [Shelgon] Lv. 41  ![][329]  [Vibrava] Lv. 41 <br> ![][148]  [Dragonair] Lv. 41
-PKMN Trainer Dawn          | ![][065]  [Alakazam] Lv. 44  ![][473]  [Mamoswine] Lv. 44  ![][036]  [Clefable] Lv. 44 <br> ![][428]  [Lopunny] Lv. 44  ![][134]  [Vaporeon] Lv. 44  ![][389]  [Torterra] Lv. 45
-PKMN Trainer Dawn          | ![][065]  [Alakazam] Lv. 44  ![][473]  [Mamoswine] Lv. 44  ![][036]  [Clefable] Lv. 44 <br> ![][428]  [Lopunny] Lv. 44  ![][135]  [Jolteon] Lv. 44  ![][392]  [Infernape] Lv. 45
-PKMN Trainer Dawn          | ![][065]  [Alakazam] Lv. 44  ![][473]  [Mamoswine] Lv. 44  ![][036]  [Clefable] Lv. 44 <br> ![][428]  [Lopunny] Lv. 44  ![][136]  [Flareon] Lv. 44  ![][395]  [Empoleon] Lv. 45
-PKMN Trainer Lucas         | ![][065]  [Alakazam] Lv. 44  ![][473]  [Mamoswine] Lv. 44  ![][210]  [Granbull] Lv. 44 <br> ![][463]  [Lickilicky] Lv. 44  ![][134]  [Vaporeon] Lv. 44  ![][389]  [Torterra] Lv. 45
-PKMN Trainer Lucas         | ![][065]  [Alakazam] Lv. 44  ![][473]  [Mamoswine] Lv. 44  ![][210]  [Granbull] Lv. 44 <br> ![][463]  [Lickilicky] Lv. 44  ![][135]  [Jolteon] Lv. 44  ![][392]  [Infernape] Lv. 45
-PKMN Trainer Lucas         | ![][065]  [Alakazam] Lv. 44  ![][473]  [Mamoswine] Lv. 44  ![][210]  [Granbull] Lv. 44 <br> ![][463]  [Lickilicky] Lv. 44  ![][136]  [Flareon] Lv. 44  ![][395]  [Empoleon] Lv. 45
+Trainer                  | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6                                    
+---                      | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  
+Ninja Boy Fabian         | ![][454]<br> [Toxicroak]<br> Lv. 41  
+Ninja Boy Brennan        | ![][291]<br> [Ninjask]<br> Lv. 41    
+Ninja Boy Bruce          | ![][435]<br> [Skuntank]<br> Lv. 41   
+Ninja Boy Joel           | ![][123]<br> [Scyther]<br> Lv. 39    | ![][327]<br> [Spinda]<br> Lv. 39     | ![][042]<br> [Golbat]<br> Lv. 39     
+Ace Trainer Alyssa       | ![][424]<br> [Ambipom]<br> Lv. 42    | ![][121]<br> [Starmie]<br> Lv. 42    | ![][389]<br> [Torterra]<br> Lv. 42   
+Double Team Zac & Jen    | ![][130]<br> [Gyarados]<br> Lv. 42   | ![][472]<br> [Gliscor]<br> Lv. 42    | ![][071]<br> [Victreebel]<br> Lv. 42 | ![][157]<br> [Typhlosion]<br> Lv. 42 | ![][217]<br> [Ursaring]<br> Lv. 42   | ![][181]<br> [Ampharos]<br> Lv. 42   
+Ace Trainer Ernest       | ![][186]<br> [Politoed]<br> Lv. 41   | ![][127]<br> [Pinsir]<br> Lv. 41     | ![][476]<br> [Probopass]<br> Lv. 41  | ![][178]<br> [Xatu]<br> Lv. 41       
+Ninja Boy Davido         | ![][038]<br> [Ninetales]<br> Lv. 41  
+Black Belt Adam          | ![][068]<br> [Machamp]<br> Lv. 42    | ![][257]<br> [Blaziken]<br> Lv. 42   | ![][214]<br> [Heracross]<br> Lv. 42  
+Ninja Boy Nathan         | ![][317]<br> [Swalot]<br> Lv. 39     | ![][269]<br> [Dustox]<br> Lv. 39     | ![][414]<br> [Mothim]<br> Lv. 39     
+Bird Keeper Brianna (!)  | ![][085]<br> [Dodrio]<br> Lv. 42     | ![][018]<br> [Pidgeot]<br> Lv. 42    | ![][227]<br> [Skarmory]<br> Lv. 42   
+Veteran Brian (!)        | ![][465]<br> [Tangrowth]<br> Lv. 43  | ![][078]<br> [Rapidash]<br> Lv. 43   | ![][160]<br> [Feraligatr]<br> Lv. 43 
+Dragon Tamer Patrick (!) | ![][444]<br> [Gabite]<br> Lv. 41     | ![][372]<br> [Shelgon]<br> Lv. 41    | ![][329]<br> [Vibrava]<br> Lv. 41    | ![][148]<br> [Dragonair]<br> Lv. 41  
+PKMN Trainer Dawn        | ![][065]<br> [Alakazam]<br> Lv. 44   | ![][473]<br> [Mamoswine]<br> Lv. 44  | ![][036]<br> [Clefable]<br> Lv. 44   | ![][428]<br> [Lopunny]<br> Lv. 44    | ![][134]<br> [Vaporeon]<br> Lv. 44   | ![][389]<br> [Torterra]<br> Lv. 45   
+PKMN Trainer Dawn        | ![][065]<br> [Alakazam]<br> Lv. 44   | ![][473]<br> [Mamoswine]<br> Lv. 44  | ![][036]<br> [Clefable]<br> Lv. 44   | ![][428]<br> [Lopunny]<br> Lv. 44    | ![][135]<br> [Jolteon]<br> Lv. 44    | ![][392]<br> [Infernape]<br> Lv. 45  
+PKMN Trainer Dawn        | ![][065]<br> [Alakazam]<br> Lv. 44   | ![][473]<br> [Mamoswine]<br> Lv. 44  | ![][036]<br> [Clefable]<br> Lv. 44   | ![][428]<br> [Lopunny]<br> Lv. 44    | ![][136]<br> [Flareon]<br> Lv. 44    | ![][395]<br> [Empoleon]<br> Lv. 45   
+PKMN Trainer Lucas       | ![][065]<br> [Alakazam]<br> Lv. 44   | ![][473]<br> [Mamoswine]<br> Lv. 44  | ![][210]<br> [Granbull]<br> Lv. 44   | ![][463]<br> [Lickilicky]<br> Lv. 44 | ![][134]<br> [Vaporeon]<br> Lv. 44   | ![][389]<br> [Torterra]<br> Lv. 45   
+PKMN Trainer Lucas       | ![][065]<br> [Alakazam]<br> Lv. 44   | ![][473]<br> [Mamoswine]<br> Lv. 44  | ![][210]<br> [Granbull]<br> Lv. 44   | ![][463]<br> [Lickilicky]<br> Lv. 44 | ![][135]<br> [Jolteon]<br> Lv. 44    | ![][392]<br> [Infernape]<br> Lv. 45  
+PKMN Trainer Lucas       | ![][065]<br> [Alakazam]<br> Lv. 44   | ![][473]<br> [Mamoswine]<br> Lv. 44  | ![][210]<br> [Granbull]<br> Lv. 44   | ![][463]<br> [Lickilicky]<br> Lv. 44 | ![][136]<br> [Flareon]<br> Lv. 44    | ![][395]<br> [Empoleon]<br> Lv. 45   
 
 #### Rematches
 
-Trainer                    | Pokémons
----                        | ---
-Bird Keeper Brianna (8)    | ![][085]  [Dodrio] Lv. 60  ![][018]  [Pidgeot] Lv. 60  ![][227]  [Skarmory] Lv. 60
-Bird Keeper Brianna (C)    | ![][085]  [Dodrio] Lv. 71  ![][018]  [Pidgeot] Lv. 71  ![][227]  [Skarmory] Lv. 71
-Veteran Brian (8)          | ![][465]  [Tangrowth] Lv. 61  ![][078]  [Rapidash] Lv. 61  ![][160]  [Feraligatr] Lv. 61
-Veteran Brian (C)          | ![][465]  [Tangrowth] Lv. 75  ![][078]  [Rapidash] Lv. 75  ![][160]  [Feraligatr] Lv. 75
-Dragon Tamer Patrick (8)   | ![][444]  [Gabite] Lv. 58  ![][372]  [Shelgon] Lv. 58  ![][329]  [Vibrava] Lv. 58 <br> ![][148]  [Dragonair] Lv. 58
-Dragon Tamer Patrick (C)   | ![][445]  [Garchomp] Lv. 70  ![][373]  [Salamence] Lv. 70  ![][330]  [Flygon] Lv. 70 <br> ![][149]  [Dragonite] Lv. 70
+Trainer                  | 1                                    | 2                                    | 3                                    | 4                                    
+---                      | ---                                  | ---                                  | ---                                  | ---                                  
+Bird Keeper Brianna (8)  | ![][085]<br> [Dodrio]<br> Lv. 60     | ![][018]<br> [Pidgeot]<br> Lv. 60    | ![][227]<br> [Skarmory]<br> Lv. 60   
+Bird Keeper Brianna (C)  | ![][085]<br> [Dodrio]<br> Lv. 71     | ![][018]<br> [Pidgeot]<br> Lv. 71    | ![][227]<br> [Skarmory]<br> Lv. 71   
+Veteran Brian (8)        | ![][465]<br> [Tangrowth]<br> Lv. 61  | ![][078]<br> [Rapidash]<br> Lv. 61   | ![][160]<br> [Feraligatr]<br> Lv. 61 
+Veteran Brian (C)        | ![][465]<br> [Tangrowth]<br> Lv. 75  | ![][078]<br> [Rapidash]<br> Lv. 75   | ![][160]<br> [Feraligatr]<br> Lv. 75 
+Dragon Tamer Patrick (8) | ![][444]<br> [Gabite]<br> Lv. 58     | ![][372]<br> [Shelgon]<br> Lv. 58    | ![][329]<br> [Vibrava]<br> Lv. 58    | ![][148]<br> [Dragonair]<br> Lv. 58  
+Dragon Tamer Patrick (C) | ![][445]<br> [Garchomp]<br> Lv. 70   | ![][373]<br> [Salamence]<br> Lv. 70  | ![][330]<br> [Flygon]<br> Lv. 70     | ![][149]<br> [Dragonite]<br> Lv. 70  
 
 PKMN Trainer Dawn  | Item         | Nature  | Ability       | Moves
 ---                | ---          | ---     | ---           | ---

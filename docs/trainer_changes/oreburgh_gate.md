@@ -1,10 +1,10 @@
 # Oreburgh Gate
 
-Trainer                    | Pokémons
----                        | ---
-Camper Curtis              | ![][273]  [Seedot] Lv. 10  ![][050]  [Diglett] Lv. 10
-Picnicker Diana            | ![][293]  [Whismur] Lv. 10  ![][194]  [Wooper] Lv. 10
-Veteran Grant              | ![][448]  [Lucario] Lv. 45  ![][076]  [Golem] Lv. 45  ![][398]  [Staraptor] Lv. 45
+Trainer         | 1                                   | 2                                   | 3                                   
+---             | ---                                 | ---                                 | ---                                 
+Camper Curtis   | ![][273]<br> [Seedot]<br> Lv. 10    | ![][050]<br> [Diglett]<br> Lv. 10   
+Picnicker Diana | ![][293]<br> [Whismur]<br> Lv. 10   | ![][194]<br> [Wooper]<br> Lv. 10    
+Veteran Grant   | ![][448]<br> [Lucario]<br> Lv. 45   | ![][076]<br> [Golem]<br> Lv. 45     | ![][398]<br> [Staraptor]<br> Lv. 45 
 
 
 [Diglett]: /pokemon_changes/050/

@@ -4,11 +4,11 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/canalave_city/).
 
 
-Trainer                    | Pokémons
----                        | ---
-PKMN Trainer Barry         | ![][398]  [Staraptor] Lv. 48  ![][214]  [Heracross] Lv. 48  ![][143]  [Snorlax] Lv. 48 <br> ![][184]  [Azumarill] Lv. 48  ![][059]  [Arcanine] Lv. 48  ![][389]  [Torterra] Lv. 49
-PKMN Trainer Barry         | ![][398]  [Staraptor] Lv. 48  ![][214]  [Heracross] Lv. 48  ![][143]  [Snorlax] Lv. 48 <br> ![][184]  [Azumarill] Lv. 48  ![][286]  [Breloom] Lv. 48  ![][392]  [Infernape] Lv. 49
-PKMN Trainer Barry         | ![][398]  [Staraptor] Lv. 48  ![][214]  [Heracross] Lv. 48  ![][143]  [Snorlax] Lv. 48 <br> ![][286]  [Breloom] Lv. 48  ![][059]  [Arcanine] Lv. 48  ![][395]  [Empoleon] Lv. 49
+Trainer            | 1                                   | 2                                   | 3                                   | 4                                   | 5                                   | 6                                   
+---                | ---                                 | ---                                 | ---                                 | ---                                 | ---                                 | ---                                 
+PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 48 | ![][214]<br> [Heracross]<br> Lv. 48 | ![][143]<br> [Snorlax]<br> Lv. 48   | ![][184]<br> [Azumarill]<br> Lv. 48 | ![][059]<br> [Arcanine]<br> Lv. 48  | ![][389]<br> [Torterra]<br> Lv. 49  
+PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 48 | ![][214]<br> [Heracross]<br> Lv. 48 | ![][143]<br> [Snorlax]<br> Lv. 48   | ![][184]<br> [Azumarill]<br> Lv. 48 | ![][286]<br> [Breloom]<br> Lv. 48   | ![][392]<br> [Infernape]<br> Lv. 49 
+PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 48 | ![][214]<br> [Heracross]<br> Lv. 48 | ![][143]<br> [Snorlax]<br> Lv. 48   | ![][286]<br> [Breloom]<br> Lv. 48   | ![][059]<br> [Arcanine]<br> Lv. 48  | ![][395]<br> [Empoleon]<br> Lv. 49  
 
 PKMN Trainer Barry | Item         | Nature  | Ability       | Moves
 ---                | ---          | ---     | ---           | ---

@@ -4,17 +4,17 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/eterna_forest/).
 
 
-Trainer                    | Pokémons
----                        | ---
-PKMN Trainer Cheryl        | ![][425]  [Drifloon] Lv. 19  ![][296]  [Makuhita] Lv. 19  ![][320]  [Wailmer] Lv. 19 <br> ![][113]  [Chansey] Lv. 20
-Bug Catcher Jack           | ![][283]  [Surskit] Lv. 16  ![][046]  [Paras] Lv. 16  ![][048]  [Venonat] Lv. 16
-Lass Briana                | ![][427]  [Buneary] Lv. 17  ![][183]  [Marill] Lv. 17
-Psychic Lindsey            | ![][079]  [Slowpoke] Lv. 17  ![][102]  [Exeggcute] Lv. 17  ![][177]  [Natu] Lv. 17
-Psychic Elijah             | ![][325]  [Spoink] Lv. 17  ![][096]  [Drowzee] Lv. 17  ![][343]  [Baltoy] Lv. 17
-Bug Catcher Philip         | ![][415]  [Combee] Lv. 17  ![][015]  [Beedrill] Lv. 19
-Bug Catcher Donald         | ![][290]  [Nincada] Lv. 17  ![][269]  [Dustox] Lv. 19
-Psychic Kody               | ![][439]  [Mime Jr.] Lv. 18  ![][122]  [Mr. Mime] Lv. 20
-Psychic Rachael            | ![][433]  [Chingling] Lv. 18  ![][358]  [Chimecho] Lv. 20
+Trainer             | 1                                   | 2                                   
+---                 | ---                                 | ---                                 
+PKMN Trainer Cheryl | ![][425]<br> [Drifloon]<br> Lv. 19  | ![][296]<br> [Makuhita]<br> Lv. 19  | ![][320]<br> [Wailmer]<br> Lv. 19   | ![][113]<br> [Chansey]<br> Lv. 20   
+Bug Catcher Jack    | ![][283]<br> [Surskit]<br> Lv. 16   | ![][046]<br> [Paras]<br> Lv. 16     | ![][048]<br> [Venonat]<br> Lv. 16   
+Lass Briana         | ![][427]<br> [Buneary]<br> Lv. 17   | ![][183]<br> [Marill]<br> Lv. 17    
+Psychic Lindsey     | ![][079]<br> [Slowpoke]<br> Lv. 17  | ![][102]<br> [Exeggcute]<br> Lv. 17 | ![][177]<br> [Natu]<br> Lv. 17      
+Psychic Elijah      | ![][325]<br> [Spoink]<br> Lv. 17    | ![][096]<br> [Drowzee]<br> Lv. 17   | ![][343]<br> [Baltoy]<br> Lv. 17    
+Bug Catcher Philip  | ![][415]<br> [Combee]<br> Lv. 17    | ![][015]<br> [Beedrill]<br> Lv. 19  
+Bug Catcher Donald  | ![][290]<br> [Nincada]<br> Lv. 17   | ![][269]<br> [Dustox]<br> Lv. 19    
+Psychic Kody        | ![][439]<br> [Mime Jr.]<br> Lv. 18  | ![][122]<br> [Mr. Mime]<br> Lv. 20  
+Psychic Rachael     | ![][433]<br> [Chingling]<br> Lv. 18 | ![][358]<br> [Chimecho]<br> Lv. 20  
 
 PKMN Trainer Cheryl | Item          | Nature  | Ability       | Moves
 ---                 | ---           | ---     | ---           | ---

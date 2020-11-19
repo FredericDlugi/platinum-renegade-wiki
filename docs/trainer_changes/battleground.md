@@ -1,29 +1,29 @@
 # Battleground
 
-Trainer             | Pokémons
----                 | ---
-Leader Roark        | ![][185]  [Sudowoodo] Lv. 81  ![][476]  [Probopass] Lv. 81  ![][076]  [Golem] Lv. 81 <br> ![][142]  [Aerodactyl] Lv. 81  ![][248]  [Tyranitar] Lv. 81  ![][409]  [Rampardos] Lv. 82
-Leader Gardenia     | ![][421]  [Cherrim] Lv. 81  ![][465]  [Tangrowth] Lv. 81  ![][182]  [Bellossom] Lv. 81 <br> ![][389]  [Torterra] Lv. 81  ![][286]  [Breloom] Lv. 81  ![][407]  [Roserade] Lv. 82
-Leader Fantina      | ![][426]  [Drifblim] Lv. 81  ![][477]  [Dusknoir] Lv. 81  ![][354]  [Banette] Lv. 81 <br> ![][442]  [Spiritomb] Lv. 81  ![][094]  [Gengar] Lv. 81  ![][429]  [Mismagius] Lv. 82
-Leader Maylene      | ![][308]  [Medicham] Lv. 82  ![][068]  [Machamp] Lv. 82  ![][392]  [Infernape] Lv. 82 <br> ![][454]  [Toxicroak] Lv. 82  ![][475]  [Gallade] Lv. 82  ![][448]  [Lucario] Lv. 83
-Leader Wake         | ![][195]  [Quagsire] Lv. 81  ![][130]  [Gyarados] Lv. 81  ![][062]  [Poliwrath] Lv. 81 <br> ![][272]  [Ludicolo] Lv. 81  ![][319]  [Sharpedo] Lv. 81  ![][419]  [Floatzel] Lv. 82
-Leader Byron        | ![][437]  [Bronzong] Lv. 81  ![][462]  [Magnezone] Lv. 81  ![][208]  [Steelix] Lv. 81 <br> ![][205]  [Forretress] Lv. 81  ![][306]  [Aggron] Lv. 81  ![][411]  [Bastiodon] Lv. 82
-Leader Candice      | ![][460]  [Abomasnow] Lv. 81  ![][461]  [Weavile] Lv. 81  ![][471]  [Glaceon] Lv. 81 <br> ![][365]  [Walrein] Lv. 81  ![][473]  [Mamoswine] Lv. 81  ![][478]  [Froslass] Lv. 82
-Leader Volkner      | ![][135]  [Jolteon] Lv. 81  ![][026]  [Raichu] Lv. 81  ![][479]  [Rotom] Lv. 81 <br> ![][479]  [Rotom] Lv. 81  ![][405]  [Luxray] Lv. 81  ![][466]  [Electivire] Lv. 82
-PKMN Trainer Cheryl | ![][202]  [Wobbuffet] Lv. 81  ![][143]  [Snorlax] Lv. 81  ![][426]  [Drifblim] Lv. 81 <br> ![][297]  [Hariyama] Lv. 81  ![][321]  [Wailord] Lv. 81  ![][242]  [Blissey] Lv. 82
-PKMN Trainer Mira   | ![][468]  [Togekiss] Lv. 81  ![][094]  [Gengar] Lv. 81  ![][103]  [Exeggutor] Lv. 81 <br> ![][462]  [Magnezone] Lv. 81  ![][474]  [Porygon-Z] Lv. 81  ![][065]  [Alakazam] Lv. 82
-PKMN Trainer Riley  | ![][359]  [Absol] Lv. 81  ![][217]  [Ursaring] Lv. 81  ![][376]  [Metagross] Lv. 81 <br> ![][373]  [Salamence] Lv. 81  ![][289]  [Slaking] Lv. 81  ![][448]  [Lucario] Lv. 82
-PKMN Trainer Marley | ![][121]  [Starmie] Lv. 81  ![][101]  [Electrode] Lv. 81  ![][254]  [Sceptile] Lv. 81 <br> ![][169]  [Crobat] Lv. 81  ![][461]  [Weavile] Lv. 81  ![][059]  [Arcanine] Lv. 82
-PKMN Trainer Buck   | ![][324]  [Torkoal] Lv. 81  ![][213]  [Shuckle] Lv. 81  ![][197]  [Umbreon] Lv. 81 <br> ![][477]  [Dusknoir] Lv. 81  ![][091]  [Cloyster] Lv. 81  ![][344]  [Claydol] Lv. 82
-PKMN Trainer Barry  | ![][398]  [Staraptor] Lv. 84  ![][214]  [Heracross] Lv. 84  ![][143]  [Snorlax] Lv. 84 <br> ![][184]  [Azumarill] Lv. 84  ![][059]  [Arcanine] Lv. 84  ![][389]  [Torterra] Lv. 85
-PKMN Trainer Barry  | ![][398]  [Staraptor] Lv. 84  ![][214]  [Heracross] Lv. 84  ![][143]  [Snorlax] Lv. 84 <br> ![][184]  [Azumarill] Lv. 84  ![][286]  [Breloom] Lv. 84  ![][392]  [Infernape] Lv. 85
-PKMN Trainer Barry  | ![][398]  [Staraptor] Lv. 84  ![][214]  [Heracross] Lv. 84  ![][143]  [Snorlax] Lv. 84 <br> ![][286]  [Breloom] Lv. 84  ![][059]  [Arcanine] Lv. 84  ![][395]  [Empoleon] Lv. 85
-PKMN Trainer Dawn   | ![][065]  [Alakazam] Lv. 83  ![][473]  [Mamoswine] Lv. 83  ![][036]  [Clefable] Lv. 83 <br> ![][428]  [Lopunny] Lv. 83  ![][134]  [Vaporeon] Lv. 83  ![][389]  [Torterra] Lv. 84
-PKMN Trainer Dawn   | ![][065]  [Alakazam] Lv. 83  ![][473]  [Mamoswine] Lv. 83  ![][036]  [Clefable] Lv. 83 <br> ![][428]  [Lopunny] Lv. 83  ![][135]  [Jolteon] Lv. 83  ![][392]  [Infernape] Lv. 84
-PKMN Trainer Dawn   | ![][065]  [Alakazam] Lv. 83  ![][473]  [Mamoswine] Lv. 83  ![][036]  [Clefable] Lv. 83 <br> ![][428]  [Lopunny] Lv. 83  ![][136]  [Flareon] Lv. 83  ![][395]  [Empoleon] Lv. 84
-PKMN Trainer Lucas  | ![][065]  [Alakazam] Lv. 83  ![][473]  [Mamoswine] Lv. 83  ![][210]  [Granbull] Lv. 83 <br> ![][463]  [Lickilicky] Lv. 83  ![][134]  [Vaporeon] Lv. 83  ![][389]  [Torterra] Lv. 84
-PKMN Trainer Lucas  | ![][065]  [Alakazam] Lv. 83  ![][473]  [Mamoswine] Lv. 83  ![][210]  [Granbull] Lv. 83 <br> ![][463]  [Lickilicky] Lv. 83  ![][135]  [Jolteon] Lv. 83  ![][392]  [Infernape] Lv. 84
-PKMN Trainer Lucas  | ![][065]  [Alakazam] Lv. 83  ![][473]  [Mamoswine] Lv. 83  ![][210]  [Granbull] Lv. 83 <br> ![][463]  [Lickilicky] Lv. 83  ![][136]  [Flareon] Lv. 83  ![][395]  [Empoleon] Lv. 84
+Trainer             | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6
+---                 | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---
+Leader Roark        | ![][185]<br> [Sudowoodo]<br> Lv. 81  | ![][476]<br> [Probopass]<br> Lv. 81  | ![][076]<br> [Golem]<br> Lv. 81      | ![][142]<br> [Aerodactyl]<br> Lv. 81 | ![][248]<br> [Tyranitar]<br> Lv. 81  | ![][409]<br> [Rampardos]<br> Lv. 82
+Leader Gardenia     | ![][421]<br> [Cherrim]<br> Lv. 81    | ![][465]<br> [Tangrowth]<br> Lv. 81  | ![][182]<br> [Bellossom]<br> Lv. 81  | ![][389]<br> [Torterra]<br> Lv. 81   | ![][286]<br> [Breloom]<br> Lv. 81    | ![][407]<br> [Roserade]<br> Lv. 82
+Leader Fantina      | ![][426]<br> [Drifblim]<br> Lv. 81   | ![][477]<br> [Dusknoir]<br> Lv. 81   | ![][354]<br> [Banette]<br> Lv. 81    | ![][442]<br> [Spiritomb]<br> Lv. 81  | ![][094]<br> [Gengar]<br> Lv. 81     | ![][429]<br> [Mismagius]<br> Lv. 82
+Leader Maylene      | ![][308]<br> [Medicham]<br> Lv. 82   | ![][068]<br> [Machamp]<br> Lv. 82    | ![][392]<br> [Infernape]<br> Lv. 82  | ![][454]<br> [Toxicroak]<br> Lv. 82  | ![][475]<br> [Gallade]<br> Lv. 82    | ![][448]<br> [Lucario]<br> Lv. 83
+Leader Wake         | ![][195]<br> [Quagsire]<br> Lv. 81   | ![][130]<br> [Gyarados]<br> Lv. 81   | ![][062]<br> [Poliwrath]<br> Lv. 81  | ![][272]<br> [Ludicolo]<br> Lv. 81   | ![][319]<br> [Sharpedo]<br> Lv. 81   | ![][419]<br> [Floatzel]<br> Lv. 82
+Leader Byron        | ![][437]<br> [Bronzong]<br> Lv. 81   | ![][462]<br> [Magnezone]<br> Lv. 81  | ![][208]<br> [Steelix]<br> Lv. 81    | ![][205]<br> [Forretress]<br> Lv. 81 | ![][306]<br> [Aggron]<br> Lv. 81     | ![][411]<br> [Bastiodon]<br> Lv. 82
+Leader Candice      | ![][460]<br> [Abomasnow]<br> Lv. 81  | ![][461]<br> [Weavile]<br> Lv. 81    | ![][471]<br> [Glaceon]<br> Lv. 81    | ![][365]<br> [Walrein]<br> Lv. 81    | ![][473]<br> [Mamoswine]<br> Lv. 81  | ![][478]<br> [Froslass]<br> Lv. 82
+Leader Volkner      | ![][135]<br> [Jolteon]<br> Lv. 81    | ![][026]<br> [Raichu]<br> Lv. 81     | ![][479]<br> [Rotom]<br> Lv. 81      | ![][479]<br> [Rotom]<br> Lv. 81      | ![][405]<br> [Luxray]<br> Lv. 81     | ![][466]<br> [Electivire]<br> Lv. 82
+PKMN Trainer Cheryl | ![][202]<br> [Wobbuffet]<br> Lv. 81  | ![][143]<br> [Snorlax]<br> Lv. 81    | ![][426]<br> [Drifblim]<br> Lv. 81   | ![][297]<br> [Hariyama]<br> Lv. 81   | ![][321]<br> [Wailord]<br> Lv. 81    | ![][242]<br> [Blissey]<br> Lv. 82
+PKMN Trainer Mira   | ![][468]<br> [Togekiss]<br> Lv. 81   | ![][094]<br> [Gengar]<br> Lv. 81     | ![][103]<br> [Exeggutor]<br> Lv. 81  | ![][462]<br> [Magnezone]<br> Lv. 81  | ![][474]<br> [Porygon-Z]<br> Lv. 81  | ![][065]<br> [Alakazam]<br> Lv. 82
+PKMN Trainer Riley  | ![][359]<br> [Absol]<br> Lv. 81      | ![][217]<br> [Ursaring]<br> Lv. 81   | ![][376]<br> [Metagross]<br> Lv. 81  | ![][373]<br> [Salamence]<br> Lv. 81  | ![][289]<br> [Slaking]<br> Lv. 81    | ![][448]<br> [Lucario]<br> Lv. 82
+PKMN Trainer Marley | ![][121]<br> [Starmie]<br> Lv. 81    | ![][101]<br> [Electrode]<br> Lv. 81  | ![][254]<br> [Sceptile]<br> Lv. 81   | ![][169]<br> [Crobat]<br> Lv. 81     | ![][461]<br> [Weavile]<br> Lv. 81    | ![][059]<br> [Arcanine]<br> Lv. 82
+PKMN Trainer Buck   | ![][324]<br> [Torkoal]<br> Lv. 81    | ![][213]<br> [Shuckle]<br> Lv. 81    | ![][197]<br> [Umbreon]<br> Lv. 81    | ![][477]<br> [Dusknoir]<br> Lv. 81   | ![][091]<br> [Cloyster]<br> Lv. 81   | ![][344]<br> [Claydol]<br> Lv. 82
+PKMN Trainer Barry  | ![][398]<br> [Staraptor]<br> Lv. 84  | ![][214]<br> [Heracross]<br> Lv. 84  | ![][143]<br> [Snorlax]<br> Lv. 84    | ![][184]<br> [Azumarill]<br> Lv. 84  | ![][059]<br> [Arcanine]<br> Lv. 84   | ![][389]<br> [Torterra]<br> Lv. 85
+PKMN Trainer Barry  | ![][398]<br> [Staraptor]<br> Lv. 84  | ![][214]<br> [Heracross]<br> Lv. 84  | ![][143]<br> [Snorlax]<br> Lv. 84    | ![][184]<br> [Azumarill]<br> Lv. 84  | ![][286]<br> [Breloom]<br> Lv. 84    | ![][392]<br> [Infernape]<br> Lv. 85
+PKMN Trainer Barry  | ![][398]<br> [Staraptor]<br> Lv. 84  | ![][214]<br> [Heracross]<br> Lv. 84  | ![][143]<br> [Snorlax]<br> Lv. 84    | ![][286]<br> [Breloom]<br> Lv. 84    | ![][059]<br> [Arcanine]<br> Lv. 84   | ![][395]<br> [Empoleon]<br> Lv. 85
+PKMN Trainer Dawn   | ![][065]<br> [Alakazam]<br> Lv. 83   | ![][473]<br> [Mamoswine]<br> Lv. 83  | ![][036]<br> [Clefable]<br> Lv. 83   | ![][428]<br> [Lopunny]<br> Lv. 83    | ![][134]<br> [Vaporeon]<br> Lv. 83   | ![][389]<br> [Torterra]<br> Lv. 84
+PKMN Trainer Dawn   | ![][065]<br> [Alakazam]<br> Lv. 83   | ![][473]<br> [Mamoswine]<br> Lv. 83  | ![][036]<br> [Clefable]<br> Lv. 83   | ![][428]<br> [Lopunny]<br> Lv. 83    | ![][135]<br> [Jolteon]<br> Lv. 83    | ![][392]<br> [Infernape]<br> Lv. 84
+PKMN Trainer Dawn   | ![][065]<br> [Alakazam]<br> Lv. 83   | ![][473]<br> [Mamoswine]<br> Lv. 83  | ![][036]<br> [Clefable]<br> Lv. 83   | ![][428]<br> [Lopunny]<br> Lv. 83    | ![][136]<br> [Flareon]<br> Lv. 83    | ![][395]<br> [Empoleon]<br> Lv. 84
+PKMN Trainer Lucas  | ![][065]<br> [Alakazam]<br> Lv. 83   | ![][473]<br> [Mamoswine]<br> Lv. 83  | ![][210]<br> [Granbull]<br> Lv. 83   | ![][463]<br> [Lickilicky]<br> Lv. 83 | ![][134]<br> [Vaporeon]<br> Lv. 83   | ![][389]<br> [Torterra]<br> Lv. 84
+PKMN Trainer Lucas  | ![][065]<br> [Alakazam]<br> Lv. 83   | ![][473]<br> [Mamoswine]<br> Lv. 83  | ![][210]<br> [Granbull]<br> Lv. 83   | ![][463]<br> [Lickilicky]<br> Lv. 83 | ![][135]<br> [Jolteon]<br> Lv. 83    | ![][392]<br> [Infernape]<br> Lv. 84
+PKMN Trainer Lucas  | ![][065]<br> [Alakazam]<br> Lv. 83   | ![][473]<br> [Mamoswine]<br> Lv. 83  | ![][210]<br> [Granbull]<br> Lv. 83   | ![][463]<br> [Lickilicky]<br> Lv. 83 | ![][136]<br> [Flareon]<br> Lv. 83    | ![][395]<br> [Empoleon]<br> Lv. 84
 
 
 [Raichu]: /pokemon_changes/026/

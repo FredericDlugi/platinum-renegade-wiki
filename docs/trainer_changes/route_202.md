@@ -4,25 +4,25 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_202/).
 
 
-Trainer                    | Pokémons
----                        | ---
-PKMN Trainer Dawn          | ![][393]  [Piplup] Lv. 9
-PKMN Trainer Dawn          | ![][387]  [Turtwig] Lv. 9
-PKMN Trainer Dawn          | ![][390]  [Chimchar] Lv. 9
-PKMN Trainer Lucas         | ![][393]  [Piplup] Lv. 9
-PKMN Trainer Lucas         | ![][387]  [Turtwig] Lv. 9
-PKMN Trainer Lucas         | ![][390]  [Chimchar] Lv. 9
-Lass Natalie               | ![][161]  [Sentret] Lv. 7  ![][399]  [Bidoof] Lv. 7
-Youngster Tristan (!)      | ![][163]  [Hoothoot] Lv. 7  ![][396]  [Starly] Lv. 7
-Youngster Logan            | ![][058]  [Growlithe] Lv. 7  ![][412]  [Burmy] Lv. 7  ![][263]  [Zigzagoon] Lv. 7
+Trainer               | 1                                  | 2                                  | 3                                  
+---                   | ---                                | ---                                | ---                                
+PKMN Trainer Dawn     | ![][393]<br> [Piplup]<br> Lv. 9    
+PKMN Trainer Dawn     | ![][387]<br> [Turtwig]<br> Lv. 9   
+PKMN Trainer Dawn     | ![][390]<br> [Chimchar]<br> Lv. 9  
+PKMN Trainer Lucas    | ![][393]<br> [Piplup]<br> Lv. 9    
+PKMN Trainer Lucas    | ![][387]<br> [Turtwig]<br> Lv. 9   
+PKMN Trainer Lucas    | ![][390]<br> [Chimchar]<br> Lv. 9  
+Lass Natalie          | ![][161]<br> [Sentret]<br> Lv. 7   | ![][399]<br> [Bidoof]<br> Lv. 7    
+Youngster Tristan (!) | ![][163]<br> [Hoothoot]<br> Lv. 7  | ![][396]<br> [Starly]<br> Lv. 7    
+Youngster Logan       | ![][058]<br> [Growlithe]<br> Lv. 7 | ![][412]<br> [Burmy]<br> Lv. 7     | ![][263]<br> [Zigzagoon]<br> Lv. 7 
 
 #### Rematches
 
-Trainer                    | Pokémons
----                        | ---
-Youngster Tristan (3)      | ![][164]  [Noctowl] Lv. 27  ![][397]  [Staravia] Lv. 27
-Youngster Tristan (5)      | ![][164]  [Noctowl] Lv. 39  ![][398]  [Staraptor] Lv. 39
-Youngster Tristan (8)      | ![][164]  [Noctowl] Lv. 59  ![][398]  [Staraptor] Lv. 59  ![][018]  [Pidgeot] Lv. 59
+Trainer               | 1                                   | 2                                   | 3                                   
+---                   | ---                                 | ---                                 | ---                                 
+Youngster Tristan (3) | ![][164]<br> [Noctowl]<br> Lv. 27   | ![][397]<br> [Staravia]<br> Lv. 27  
+Youngster Tristan (5) | ![][164]<br> [Noctowl]<br> Lv. 39   | ![][398]<br> [Staraptor]<br> Lv. 39 
+Youngster Tristan (8) | ![][164]<br> [Noctowl]<br> Lv. 59   | ![][398]<br> [Staraptor]<br> Lv. 59 | ![][018]<br> [Pidgeot]<br> Lv. 59   
 
 
 [Pidgeot]: /pokemon_changes/018/

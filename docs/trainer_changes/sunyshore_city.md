@@ -4,9 +4,9 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/sunyshore_city/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Arcade Star Dahlia         | ![][257]  [Blaziken] Lv. 63  ![][477]  [Dusknoir] Lv. 63  ![][308]  [Medicham] Lv. 63 <br> ![][468]  [Togekiss] Lv. 63  ![][272]  [Ludicolo] Lv. 63  ![][145]  [Zapdos] Lv. 63
+Trainer            | 1                                  | 2                                  | 3                                  | 4                                  | 5                                  | 6                                  
+---                | ---                                | ---                                | ---                                | ---                                | ---                                | ---                                
+Arcade Star Dahlia | ![][257]<br> [Blaziken]<br> Lv. 63 | ![][477]<br> [Dusknoir]<br> Lv. 63 | ![][308]<br> [Medicham]<br> Lv. 63 | ![][468]<br> [Togekiss]<br> Lv. 63 | ![][272]<br> [Ludicolo]<br> Lv. 63 | ![][145]<br> [Zapdos]<br> Lv. 63   
 
 Arcade Star Dahlia | Item         | Nature  | Ability       | Moves
 ---                | ---          | ---     | ---           | ---

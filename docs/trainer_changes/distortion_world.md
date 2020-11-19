@@ -1,9 +1,9 @@
 # Distortion World
 
-Trainer                    | Pokémons
----                        | ---
-Galactic Boss Cyrus        | ![][484]  [Palkia] Lv. 70  ![][483]  [Dialga] Lv. 70
-Galactic Boss Cyrus        | ![][169]  [Crobat] Lv. 59  ![][430]  [Honchkrow] Lv. 59  ![][229]  [Houndoom] Lv. 59 <br> ![][130]  [Gyarados] Lv. 59  ![][462]  [Magnezone] Lv. 59  ![][461]  [Weavile] Lv. 60
+Trainer             | 1                                   | 2                                   | 3                                   | 4                                   | 5                                   | 6                                   
+---                 | ---                                 | ---                                 | ---                                 | ---                                 | ---                                 | ---                                 
+Galactic Boss Cyrus | ![][484]<br> [Palkia]<br> Lv. 70    | ![][483]<br> [Dialga]<br> Lv. 70    
+Galactic Boss Cyrus | ![][169]<br> [Crobat]<br> Lv. 59    | ![][430]<br> [Honchkrow]<br> Lv. 59 | ![][229]<br> [Houndoom]<br> Lv. 59  | ![][130]<br> [Gyarados]<br> Lv. 59  | ![][462]<br> [Magnezone]<br> Lv. 59 | ![][461]<br> [Weavile]<br> Lv. 60   
 
 Galactic Boss Cyrus   | Item         | Nature  | Ability       | Moves
 ---                   | ---          | ---     | ---           | ---

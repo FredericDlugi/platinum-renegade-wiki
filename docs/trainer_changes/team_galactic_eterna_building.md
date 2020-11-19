@@ -1,15 +1,15 @@
 # Team Galactic Eterna Building
 
-Trainer                    | Pokémons
----                        | ---
-Galactic Grunt             | ![][166]  [Ledian] Lv. 24  ![][168]  [Ariados] Lv. 24
-Galactic Grunt             | ![][023]  [Ekans] Lv. 23  ![][431]  [Glameow] Lv. 23  ![][029]  [Nidoran♀] Lv. 23
-Galactic Grunt             | ![][109]  [Koffing] Lv. 23  ![][434]  [Stunky] Lv. 23  ![][032]  [Nidoran♂] Lv. 23
-Galactic Grunt             | ![][453]  [Croagunk] Lv. 24  ![][042]  [Golbat] Lv. 24
-Galactic Grunt             | ![][173]  [Cleffa] Lv. 23
-Galactic Grunt             | ![][228]  [Houndour] Lv. 23  ![][451]  [Skorupi] Lv. 23  ![][267]  [Beautifly] Lv. 23
-Scientist Travon           | ![][096]  [Drowzee] Lv. 24  ![][375]  [Metang] Lv. 24  ![][064]  [Kadabra] Lv. 24
-Commander Jupiter          | ![][042]  [Golbat] Lv. 26  ![][302]  [Sableye] Lv. 26  ![][114]  [Tangela] Lv. 26 <br> ![][435]  [Skuntank] Lv. 27
+Trainer           | 1                                   | 2                                   | 3                                   | 4                                   
+---               | ---                                 | ---                                 | ---                                 | ---                                 
+Galactic Grunt    | ![][166]<br> [Ledian]<br> Lv. 24    | ![][168]<br> [Ariados]<br> Lv. 24   
+Galactic Grunt    | ![][023]<br> [Ekans]<br> Lv. 23     | ![][431]<br> [Glameow]<br> Lv. 23   | ![][029]<br> [Nidoran♀]<br> Lv. 23  
+Galactic Grunt    | ![][109]<br> [Koffing]<br> Lv. 23   | ![][434]<br> [Stunky]<br> Lv. 23    | ![][032]<br> [Nidoran♂]<br> Lv. 23  
+Galactic Grunt    | ![][453]<br> [Croagunk]<br> Lv. 24  | ![][042]<br> [Golbat]<br> Lv. 24    
+Galactic Grunt    | ![][173]<br> [Cleffa]<br> Lv. 23    
+Galactic Grunt    | ![][228]<br> [Houndour]<br> Lv. 23  | ![][451]<br> [Skorupi]<br> Lv. 23   | ![][267]<br> [Beautifly]<br> Lv. 23 
+Scientist Travon  | ![][096]<br> [Drowzee]<br> Lv. 24   | ![][375]<br> [Metang]<br> Lv. 24    | ![][064]<br> [Kadabra]<br> Lv. 24   
+Commander Jupiter | ![][042]<br> [Golbat]<br> Lv. 26    | ![][302]<br> [Sableye]<br> Lv. 26   | ![][114]<br> [Tangela]<br> Lv. 26   | ![][435]<br> [Skuntank]<br> Lv. 27  
 
 Commander Jupiter | Item         | Nature  | Ability       | Moves
 ---               | ---          | ---     | ---           | ---

@@ -1,8 +1,8 @@
 # Floaroma Town
 
-Trainer                    | Pokémons
----                        | ---
-Reporter Jenny             | ![][152]  [Chikorita] Lv. 15  ![][155]  [Cyndaquil] Lv. 15  ![][158]  [Totodile] Lv. 15
+Trainer        | 1                                   | 2                                   | 3                                   
+---            | ---                                 | ---                                 | ---                                 
+Reporter Jenny | ![][152]<br> [Chikorita]<br> Lv. 15 | ![][155]<br> [Cyndaquil]<br> Lv. 15 | ![][158]<br> [Totodile]<br> Lv. 15  
 
 
 [Chikorita]: /pokemon_changes/152/

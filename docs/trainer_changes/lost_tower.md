@@ -4,14 +4,14 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/lost_tower/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Youngster Oliver           | ![][422]  [Shellos] Lv. 31  ![][339]  [Barboach] Lv. 31  ![][414]  [Mothim] Lv. 31
-Pokéfan Leonard            | ![][311]  [Plusle] Lv. 31  ![][312]  [Minun] Lv. 31  ![][417]  [Pachirisu] Lv. 31
-Roughneck Kirby            | ![][173]  [Cleffa] Lv. 33
-Pokéfan Rebekah            | ![][035]  [Clefairy] Lv. 30  ![][320]  [Wailmer] Lv. 30  ![][438]  [Bonsly] Lv. 30 <br> ![][300]  [Skitty] Lv. 30
-Young Couple Mike & Nat    | ![][198]  [Murkrow] Lv. 33  ![][200]  [Misdreavus] Lv. 33
-Belle & Pa Beth & Bob      | ![][077]  [Ponyta] Lv. 33  ![][180]  [Flaaffy] Lv. 33
+Trainer                 | 1                                    | 2                                    
+---                     | ---                                  | ---                                  
+Youngster Oliver        | ![][422]<br> [Shellos]<br> Lv. 31    | ![][339]<br> [Barboach]<br> Lv. 31   | ![][414]<br> [Mothim]<br> Lv. 31     
+Pokéfan Leonard         | ![][311]<br> [Plusle]<br> Lv. 31     | ![][312]<br> [Minun]<br> Lv. 31      | ![][417]<br> [Pachirisu]<br> Lv. 31  
+Roughneck Kirby         | ![][173]<br> [Cleffa]<br> Lv. 33     
+Pokéfan Rebekah         | ![][035]<br> [Clefairy]<br> Lv. 30   | ![][320]<br> [Wailmer]<br> Lv. 30    | ![][438]<br> [Bonsly]<br> Lv. 30     | ![][300]<br> [Skitty]<br> Lv. 30     
+Young Couple Mike & Nat | ![][198]<br> [Murkrow]<br> Lv. 33    | ![][200]<br> [Misdreavus]<br> Lv. 33 
+Belle & Pa Beth & Bob   | ![][077]<br> [Ponyta]<br> Lv. 33     | ![][180]<br> [Flaaffy]<br> Lv. 33    
 
 
 [Clefairy]: /pokemon_changes/035/

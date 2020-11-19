@@ -3,9 +3,9 @@
 !!! note
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/solaceon_ruins/).
 
-Trainer                    | Pokémons
----                        | ---
-Ruin Maniac Karl           | ![][436]  [Bronzor] Lv. 31  ![][075]  [Graveler] Lv. 31  ![][028]  [Sandslash] Lv. 31
+Trainer          | 1                                   | 2                                   | 3                                   
+---              | ---                                 | ---                                 | ---                                 
+Ruin Maniac Karl | ![][436]<br> [Bronzor]<br> Lv. 31   | ![][075]<br> [Graveler]<br> Lv. 31  | ![][028]<br> [Sandslash]<br> Lv. 31 
 
 
 [Sandslash]: /pokemon_changes/028/

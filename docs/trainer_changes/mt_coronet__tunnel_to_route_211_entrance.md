@@ -4,11 +4,11 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/mt_coronet__tunnel_to_route_211_entrance/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Galactic Grunt             | ![][042]  [Golbat] Lv. 56
-Galactic Grunt             | ![][198]  [Murkrow] Lv. 54  ![][262]  [Mightyena] Lv. 54  ![][215]  [Sneasel] Lv. 54
-Galactic Grunt             | ![][284]  [Masquerain] Lv. 55  ![][089]  [Muk] Lv. 55
+Trainer        | 1                                    | 2                                    
+---            | ---                                  | ---                                  
+Galactic Grunt | ![][042]<br> [Golbat]<br> Lv. 56     
+Galactic Grunt | ![][198]<br> [Murkrow]<br> Lv. 54    | ![][262]<br> [Mightyena]<br> Lv. 54  | ![][215]<br> [Sneasel]<br> Lv. 54    
+Galactic Grunt | ![][284]<br> [Masquerain]<br> Lv. 55 | ![][089]<br> [Muk]<br> Lv. 55        
 
 
 [Golbat]: /pokemon_changes/042/

@@ -1,9 +1,9 @@
 # Oreburgh City
 
-Trainer                    | Pokémons
----                        | ---
-Reporter Helen             | ![][252]  [Treecko] Lv. 10  ![][255]  [Torchic] Lv. 10  ![][258]  [Mudkip] Lv. 10
-PKMN Trainer Steven        | ![][227]  [Skarmory] Lv. 88  ![][306]  [Aggron] Lv. 88  ![][142]  [Aerodactyl] Lv. 88 <br> ![][346]  [Cradily] Lv. 88  ![][348]  [Armaldo] Lv. 88  ![][376]  [Metagross] Lv. 89
+Trainer             | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6                                    
+---                 | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  
+Reporter Helen      | ![][252]<br> [Treecko]<br> Lv. 10    | ![][255]<br> [Torchic]<br> Lv. 10    | ![][258]<br> [Mudkip]<br> Lv. 10     
+PKMN Trainer Steven | ![][227]<br> [Skarmory]<br> Lv. 88   | ![][306]<br> [Aggron]<br> Lv. 88     | ![][142]<br> [Aerodactyl]<br> Lv. 88 | ![][346]<br> [Cradily]<br> Lv. 88    | ![][348]<br> [Armaldo]<br> Lv. 88    | ![][376]<br> [Metagross]<br> Lv. 89  
 
 
 PKMN Trainer Steven  | Item          | Nature | Ability      | Moves

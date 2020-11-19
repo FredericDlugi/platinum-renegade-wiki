@@ -4,26 +4,26 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_228/).
 
 
-Trainer               | Pokémons
----                   | ---
-Ace Trainer Jose      | ![][419]  [Floatzel] Lv. 76  ![][028]  [Sandslash] Lv. 76  ![][310]  [Manectric] Lv. 76
-Ace Trainer Moira (!) | ![][332]  [Cacturne] Lv. 76  ![][423]  [Gastrodon] Lv. 76  ![][344]  [Claydol] Lv. 76
-PKMN Ranger Kyler (!) | ![][103]  [Exeggutor] Lv. 75  ![][335]  [Zangoose] Lv. 75  ![][395]  [Empoleon] Lv. 75
-PKMN Ranger Krista    | ![][105]  [Marowak] Lv. 76  ![][306]  [Aggron] Lv. 76
-Dragon Tamer Keegan   | ![][330]  [Flygon] Lv. 76
-Psychic Corbin (!)    | ![][097]  [Hypno] Lv. 76  ![][475]  [Gallade] Lv. 76
-Ace Trainer Meagan    | ![][301]  [Delcatty] Lv. 77  ![][460]  [Abomasnow] Lv. 77
-Black Belt Davon (!)  | ![][297]  [Hariyama] Lv. 75  ![][068]  [Machamp] Lv. 75  ![][057]  [Primeape] Lv. 75
-Ace Trainer Shade *   | ![][229]  [Houndoom] Lv. 76  ![][461]  [Weavile] Lv. 76  ![][275]  [Shiftry] Lv. 76 <br> ![][319]  [Sharpedo] Lv. 76  ![][442]  [Spiritomb] Lv. 76  ![][248]  [Tyranitar] Lv. 77
+Trainer               | 1                                   | 2                                   | 3                                   | 4                                   | 5                                   | 6                                   
+---                   | ---                                 | ---                                 | ---                                 | ---                                 | ---                                 | ---                                 
+Ace Trainer Jose      | ![][419]<br> [Floatzel]<br> Lv. 76  | ![][028]<br> [Sandslash]<br> Lv. 76 | ![][310]<br> [Manectric]<br> Lv. 76 
+Ace Trainer Moira (!) | ![][332]<br> [Cacturne]<br> Lv. 76  | ![][423]<br> [Gastrodon]<br> Lv. 76 | ![][344]<br> [Claydol]<br> Lv. 76   
+PKMN Ranger Kyler (!) | ![][103]<br> [Exeggutor]<br> Lv. 75 | ![][335]<br> [Zangoose]<br> Lv. 75  | ![][395]<br> [Empoleon]<br> Lv. 75  
+PKMN Ranger Krista    | ![][105]<br> [Marowak]<br> Lv. 76   | ![][306]<br> [Aggron]<br> Lv. 76    
+Dragon Tamer Keegan   | ![][330]<br> [Flygon]<br> Lv. 76    
+Psychic Corbin (!)    | ![][097]<br> [Hypno]<br> Lv. 76     | ![][475]<br> [Gallade]<br> Lv. 76   
+Ace Trainer Meagan    | ![][301]<br> [Delcatty]<br> Lv. 77  | ![][460]<br> [Abomasnow]<br> Lv. 77 
+Black Belt Davon (!)  | ![][297]<br> [Hariyama]<br> Lv. 75  | ![][068]<br> [Machamp]<br> Lv. 75   | ![][057]<br> [Primeape]<br> Lv. 75  
+Ace Trainer Shade *   | ![][229]<br> [Houndoom]<br> Lv. 76  | ![][461]<br> [Weavile]<br> Lv. 76   | ![][275]<br> [Shiftry]<br> Lv. 76   | ![][319]<br> [Sharpedo]<br> Lv. 76  | ![][442]<br> [Spiritomb]<br> Lv. 76 | ![][248]<br> [Tyranitar]<br> Lv. 77 
 
 #### Rematches
 
-Trainer               | Pokémons
----                   | ---
-Ace Trainer Moira (S) | ![][332]  [Cacturne] Lv. 79  ![][423]  [Gastrodon] Lv. 79  ![][344]  [Claydol] Lv. 79
-PKMN Ranger Kyler (S) | ![][103]  [Exeggutor] Lv. 78  ![][335]  [Zangoose] Lv. 78  ![][395]  [Empoleon] Lv. 78
-Psychic Corbin (S)    | ![][097]  [Hypno] Lv. 78  ![][475]  [Gallade] Lv. 78  ![][178]  [Xatu] Lv. 78
-Black Belt Davon (S)  | ![][297]  [Hariyama] Lv. 78  ![][068]  [Machamp] Lv. 78  ![][057]  [Primeape] Lv. 78
+Trainer               | 1                                   | 2                                   | 3                                   
+---                   | ---                                 | ---                                 | ---                                 
+Ace Trainer Moira (S) | ![][332]<br> [Cacturne]<br> Lv. 79  | ![][423]<br> [Gastrodon]<br> Lv. 79 | ![][344]<br> [Claydol]<br> Lv. 79   
+PKMN Ranger Kyler (S) | ![][103]<br> [Exeggutor]<br> Lv. 78 | ![][335]<br> [Zangoose]<br> Lv. 78  | ![][395]<br> [Empoleon]<br> Lv. 78  
+Psychic Corbin (S)    | ![][097]<br> [Hypno]<br> Lv. 78     | ![][475]<br> [Gallade]<br> Lv. 78   | ![][178]<br> [Xatu]<br> Lv. 78      
+Black Belt Davon (S)  | ![][297]<br> [Hariyama]<br> Lv. 78  | ![][068]<br> [Machamp]<br> Lv. 78   | ![][057]<br> [Primeape]<br> Lv. 78  
 
 Ace Trainer Shade  | Item           | Nature | Ability        | Moves
 ---                | ---            | ---    | ---            | ---

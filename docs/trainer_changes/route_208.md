@@ -4,24 +4,24 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_208/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Hiker Robert               | ![][105]  [Marowak] Lv. 28
-Hiker Jonathan             | ![][449]  [Hippopotas] Lv. 26  ![][213]  [Shuckle] Lv. 26  ![][436]  [Bronzor] Lv. 26
-Black Belt Kyle            | ![][067]  [Machoke] Lv. 29
-Aroma Lady Hannah          | ![][315]  [Roselia] Lv. 27  ![][192]  [Sunflora] Lv. 27
-Artist William (!)         | ![][235]  [Smeargle] Lv. 26  ![][235]  [Smeargle] Lv. 26  ![][235]  [Smeargle] Lv. 26
-Fisherman Cody             | ![][340]  [Whiscash] Lv. 44  ![][130]  [Gyarados] Lv. 44
-Hiker Alexander            | ![][075]  [Graveler] Lv. 28
-Elite Four Aaron           | ![][269]  [Dustox] Lv. 31  ![][267]  [Beautifly] Lv. 31  ![][049]  [Venomoth] Lv. 31  ![][212]  [Scizor] Lv. 31 <br> ![][452]  [Drapion] Lv. 32
+Trainer            | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    
+---                | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  
+Hiker Robert       | ![][105]<br> [Marowak]<br> Lv. 28    
+Hiker Jonathan     | ![][449]<br> [Hippopotas]<br> Lv. 26 | ![][213]<br> [Shuckle]<br> Lv. 26    | ![][436]<br> [Bronzor]<br> Lv. 26    
+Black Belt Kyle    | ![][067]<br> [Machoke]<br> Lv. 29    
+Aroma Lady Hannah  | ![][315]<br> [Roselia]<br> Lv. 27    | ![][192]<br> [Sunflora]<br> Lv. 27   
+Artist William (!) | ![][235]<br> [Smeargle]<br> Lv. 26   | ![][235]<br> [Smeargle]<br> Lv. 26   | ![][235]<br> [Smeargle]<br> Lv. 26   
+Fisherman Cody     | ![][340]<br> [Whiscash]<br> Lv. 44   | ![][130]<br> [Gyarados]<br> Lv. 44   
+Hiker Alexander    | ![][075]<br> [Graveler]<br> Lv. 28   
+Elite Four Aaron   | ![][269]<br> [Dustox]<br> Lv. 31     | ![][267]<br> [Beautifly]<br> Lv. 31  | ![][049]<br> [Venomoth]<br> Lv. 31   | ![][212]<br> [Scizor]<br> Lv. 31     | ![][452]<br> [Drapion]<br> Lv. 32    
 
 #### Rematches
 
-Trainer                    | Pokémons
----                        | ---
-Artist William (5)         | ![][235]  [Smeargle] Lv. 38  ![][235]  [Smeargle] Lv. 38  ![][235]  [Smeargle] Lv. 38
-Artist William (8)         | ![][235]  [Smeargle] Lv. 53  ![][235]  [Smeargle] Lv. 53  ![][235]  [Smeargle] Lv. 53
-Artist William (C)         | ![][235]  [Smeargle] Lv. 70  ![][235]  [Smeargle] Lv. 70  ![][235]  [Smeargle] Lv. 70
+Trainer            | 1                                  | 2                                  | 3                                  
+---                | ---                                | ---                                | ---                                
+Artist William (5) | ![][235]<br> [Smeargle]<br> Lv. 38 | ![][235]<br> [Smeargle]<br> Lv. 38 | ![][235]<br> [Smeargle]<br> Lv. 38 
+Artist William (8) | ![][235]<br> [Smeargle]<br> Lv. 53 | ![][235]<br> [Smeargle]<br> Lv. 53 | ![][235]<br> [Smeargle]<br> Lv. 53 
+Artist William (C) | ![][235]<br> [Smeargle]<br> Lv. 70 | ![][235]<br> [Smeargle]<br> Lv. 70 | ![][235]<br> [Smeargle]<br> Lv. 70 
 
 Elite Four Aaron | Item         | Nature  | Ability       | Moves
 ---              | ---          | ---     | ---           | ---

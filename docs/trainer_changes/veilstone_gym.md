@@ -1,12 +1,12 @@
 # Veilstone Gym
 
-Trainer                    | Pokémons
----                        | ---
-Black Belt Colby           | ![][066]  [Machop] Lv. 33  ![][307]  [Meditite] Lv. 33  ![][453]  [Croagunk] Lv. 33 <br> ![][056]  [Mankey] Lv. 33  ![][296]  [Makuhita] Lv. 33
-Black Belt Darren          | ![][057]  [Primeape] Lv. 35  ![][297]  [Hariyama] Lv. 35  ![][286]  [Breloom] Lv. 35
-Black Belt Jeffery         | ![][214]  [Heracross] Lv. 36  ![][062]  [Poliwrath] Lv. 36
-Black Belt Rafael          | ![][107]  [Hitmonchan] Lv. 35  ![][106]  [Hitmonlee] Lv. 35  ![][237]  [Hitmontop] Lv. 35
-Leader Maylene             | ![][308]  [Medicham] Lv. 38  ![][068]  [Machamp] Lv. 38  ![][392]  [Infernape] Lv. 38 <br> ![][454]  [Toxicroak] Lv. 38  ![][475]  [Gallade] Lv. 38  ![][448]  [Lucario] Lv. 39
+Trainer            | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6                                    
+---                | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  
+Black Belt Colby   | ![][066]<br> [Machop]<br> Lv. 33     | ![][307]<br> [Meditite]<br> Lv. 33   | ![][453]<br> [Croagunk]<br> Lv. 33   | ![][056]<br> [Mankey]<br> Lv. 33     | ![][296]<br> [Makuhita]<br> Lv. 33   
+Black Belt Darren  | ![][057]<br> [Primeape]<br> Lv. 35   | ![][297]<br> [Hariyama]<br> Lv. 35   | ![][286]<br> [Breloom]<br> Lv. 35    
+Black Belt Jeffery | ![][214]<br> [Heracross]<br> Lv. 36  | ![][062]<br> [Poliwrath]<br> Lv. 36  
+Black Belt Rafael  | ![][107]<br> [Hitmonchan]<br> Lv. 35 | ![][106]<br> [Hitmonlee]<br> Lv. 35  | ![][237]<br> [Hitmontop]<br> Lv. 35  
+Leader Maylene     | ![][308]<br> [Medicham]<br> Lv. 38   | ![][068]<br> [Machamp]<br> Lv. 38    | ![][392]<br> [Infernape]<br> Lv. 38  | ![][454]<br> [Toxicroak]<br> Lv. 38  | ![][475]<br> [Gallade]<br> Lv. 38    | ![][448]<br> [Lucario]<br> Lv. 39    
 
 Leader Maylene     | Item         | Nature  | Ability       | Moves
 ---                | ---          | ---     | ---           | ---

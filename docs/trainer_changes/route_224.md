@@ -4,29 +4,29 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_224/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Ace Trainer Ruben          | ![][275]  [Shiftry] Lv. 67  ![][130]  [Gyarados] Lv. 67  ![][186]  [Politoed] Lv. 67 <br> ![][470]  [Leafeon] Lv. 67
-Psychic Brittney           | ![][097]  [Hypno] Lv. 66  ![][065]  [Alakazam] Lv. 66  ![][308]  [Medicham] Lv. 66 <br> ![][337]  [Lunatone] Lv. 66
-Psychic Maxwell            | ![][429]  [Mismagius] Lv. 66  ![][094]  [Gengar] Lv. 66  ![][080]  [Slowbro] Lv. 66 <br> ![][338]  [Solrock] Lv. 66
-Veteran Armando (!)        | ![][089]  [Muk] Lv. 68  ![][262]  [Mightyena] Lv. 68  ![][463]  [Lickilicky] Lv. 68 <br> ![][279]  [Pelipper] Lv. 68
-Black Belt Carl            | ![][297]  [Hariyama] Lv. 66  ![][106]  [Hitmonlee] Lv. 66  ![][107]  [Hitmonchan] Lv. 66 <br> ![][237]  [Hitmontop] Lv. 66
-Ruin Maniac Larry          | ![][142]  [Aerodactyl] Lv. 66  ![][348]  [Armaldo] Lv. 66  ![][346]  [Cradily] Lv. 66 <br> ![][369]  [Relicanth] Lv. 66
-Ace Trainer Jamie          | ![][134]  [Vaporeon] Lv. 67  ![][376]  [Metagross] Lv. 67  ![][407]  [Roserade] Lv. 67 <br> ![][051]  [Dugtrio] Lv. 67
-Dragon Tamer Hayden (!)    | ![][334]  [Altaria] Lv. 67  ![][373]  [Salamence] Lv. 67  ![][230]  [Kingdra] Lv. 67 <br> ![][149]  [Dragonite] Lv. 67
-PKMN Trainer Dawn          | ![][065]  [Alakazam] Lv. 69  ![][473]  [Mamoswine] Lv. 69  ![][036]  [Clefable] Lv. 69 <br> ![][428]  [Lopunny] Lv. 69  ![][134]  [Vaporeon] Lv. 69  ![][389]  [Torterra] Lv. 70
-PKMN Trainer Dawn          | ![][065]  [Alakazam] Lv. 69  ![][473]  [Mamoswine] Lv. 69  ![][036]  [Clefable] Lv. 69 <br> ![][428]  [Lopunny] Lv. 69  ![][135]  [Jolteon] Lv. 69  ![][392]  [Infernape] Lv. 70
-PKMN Trainer Dawn          | ![][065]  [Alakazam] Lv. 69  ![][473]  [Mamoswine] Lv. 69  ![][036]  [Clefable] Lv. 69 <br> ![][428]  [Lopunny] Lv. 69  ![][136]  [Flareon] Lv. 69  ![][395]  [Empoleon] Lv. 70
-PKMN Trainer Lucas         | ![][065]  [Alakazam] Lv. 69  ![][473]  [Mamoswine] Lv. 69  ![][210]  [Granbull] Lv. 69 <br> ![][463]  [Lickilicky] Lv. 69  ![][134]  [Vaporeon] Lv. 69  ![][389]  [Torterra] Lv. 70
-PKMN Trainer Lucas         | ![][065]  [Alakazam] Lv. 69  ![][473]  [Mamoswine] Lv. 69  ![][210]  [Granbull] Lv. 69 <br> ![][463]  [Lickilicky] Lv. 69  ![][135]  [Jolteon] Lv. 69  ![][392]  [Infernape] Lv. 70
-PKMN Trainer Lucas         | ![][065]  [Alakazam] Lv. 69  ![][473]  [Mamoswine] Lv. 69  ![][210]  [Granbull] Lv. 69 <br> ![][463]  [Lickilicky] Lv. 69  ![][136]  [Flareon] Lv. 69  ![][395]  [Empoleon] Lv. 70
+Trainer                 | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6                                    
+---                     | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  
+Ace Trainer Ruben       | ![][275]<br> [Shiftry]<br> Lv. 67    | ![][130]<br> [Gyarados]<br> Lv. 67   | ![][186]<br> [Politoed]<br> Lv. 67   | ![][470]<br> [Leafeon]<br> Lv. 67    
+Psychic Brittney        | ![][097]<br> [Hypno]<br> Lv. 66      | ![][065]<br> [Alakazam]<br> Lv. 66   | ![][308]<br> [Medicham]<br> Lv. 66   | ![][337]<br> [Lunatone]<br> Lv. 66   
+Psychic Maxwell         | ![][429]<br> [Mismagius]<br> Lv. 66  | ![][094]<br> [Gengar]<br> Lv. 66     | ![][080]<br> [Slowbro]<br> Lv. 66    | ![][338]<br> [Solrock]<br> Lv. 66    
+Veteran Armando (!)     | ![][089]<br> [Muk]<br> Lv. 68        | ![][262]<br> [Mightyena]<br> Lv. 68  | ![][463]<br> [Lickilicky]<br> Lv. 68 | ![][279]<br> [Pelipper]<br> Lv. 68   
+Black Belt Carl         | ![][297]<br> [Hariyama]<br> Lv. 66   | ![][106]<br> [Hitmonlee]<br> Lv. 66  | ![][107]<br> [Hitmonchan]<br> Lv. 66 | ![][237]<br> [Hitmontop]<br> Lv. 66  
+Ruin Maniac Larry       | ![][142]<br> [Aerodactyl]<br> Lv. 66 | ![][348]<br> [Armaldo]<br> Lv. 66    | ![][346]<br> [Cradily]<br> Lv. 66    | ![][369]<br> [Relicanth]<br> Lv. 66  
+Ace Trainer Jamie       | ![][134]<br> [Vaporeon]<br> Lv. 67   | ![][376]<br> [Metagross]<br> Lv. 67  | ![][407]<br> [Roserade]<br> Lv. 67   | ![][051]<br> [Dugtrio]<br> Lv. 67    
+Dragon Tamer Hayden (!) | ![][334]<br> [Altaria]<br> Lv. 67    | ![][373]<br> [Salamence]<br> Lv. 67  | ![][230]<br> [Kingdra]<br> Lv. 67    | ![][149]<br> [Dragonite]<br> Lv. 67  
+PKMN Trainer Dawn       | ![][065]<br> [Alakazam]<br> Lv. 69   | ![][473]<br> [Mamoswine]<br> Lv. 69  | ![][036]<br> [Clefable]<br> Lv. 69   | ![][428]<br> [Lopunny]<br> Lv. 69    | ![][134]<br> [Vaporeon]<br> Lv. 69   | ![][389]<br> [Torterra]<br> Lv. 70   
+PKMN Trainer Dawn       | ![][065]<br> [Alakazam]<br> Lv. 69   | ![][473]<br> [Mamoswine]<br> Lv. 69  | ![][036]<br> [Clefable]<br> Lv. 69   | ![][428]<br> [Lopunny]<br> Lv. 69    | ![][135]<br> [Jolteon]<br> Lv. 69    | ![][392]<br> [Infernape]<br> Lv. 70  
+PKMN Trainer Dawn       | ![][065]<br> [Alakazam]<br> Lv. 69   | ![][473]<br> [Mamoswine]<br> Lv. 69  | ![][036]<br> [Clefable]<br> Lv. 69   | ![][428]<br> [Lopunny]<br> Lv. 69    | ![][136]<br> [Flareon]<br> Lv. 69    | ![][395]<br> [Empoleon]<br> Lv. 70   
+PKMN Trainer Lucas      | ![][065]<br> [Alakazam]<br> Lv. 69   | ![][473]<br> [Mamoswine]<br> Lv. 69  | ![][210]<br> [Granbull]<br> Lv. 69   | ![][463]<br> [Lickilicky]<br> Lv. 69 | ![][134]<br> [Vaporeon]<br> Lv. 69   | ![][389]<br> [Torterra]<br> Lv. 70   
+PKMN Trainer Lucas      | ![][065]<br> [Alakazam]<br> Lv. 69   | ![][473]<br> [Mamoswine]<br> Lv. 69  | ![][210]<br> [Granbull]<br> Lv. 69   | ![][463]<br> [Lickilicky]<br> Lv. 69 | ![][135]<br> [Jolteon]<br> Lv. 69    | ![][392]<br> [Infernape]<br> Lv. 70  
+PKMN Trainer Lucas      | ![][065]<br> [Alakazam]<br> Lv. 69   | ![][473]<br> [Mamoswine]<br> Lv. 69  | ![][210]<br> [Granbull]<br> Lv. 69   | ![][463]<br> [Lickilicky]<br> Lv. 69 | ![][136]<br> [Flareon]<br> Lv. 69    | ![][395]<br> [Empoleon]<br> Lv. 70   
 
 #### Rematches
 
-Trainer                    | Pokémons
----                        | ---
-Veteran Armando (S)        | ![][089]  [Muk] Lv. 77  ![][262]  [Mightyena] Lv. 77  ![][463]  [Lickilicky] Lv. 77 <br> ![][279]  [Pelipper] Lv. 77
-Dragon Tamer Hayden (S)    | ![][334]  [Altaria] Lv. 77  ![][373]  [Salamence] Lv. 77  ![][230]  [Kingdra] Lv. 77 <br> ![][149]  [Dragonite] Lv. 77
+Trainer                 | 1                                    | 2                                    | 3                                    | 4                                    
+---                     | ---                                  | ---                                  | ---                                  | ---                                  
+Veteran Armando (S)     | ![][089]<br> [Muk]<br> Lv. 77        | ![][262]<br> [Mightyena]<br> Lv. 77  | ![][463]<br> [Lickilicky]<br> Lv. 77 | ![][279]<br> [Pelipper]<br> Lv. 77   
+Dragon Tamer Hayden (S) | ![][334]<br> [Altaria]<br> Lv. 77    | ![][373]<br> [Salamence]<br> Lv. 77  | ![][230]<br> [Kingdra]<br> Lv. 77    | ![][149]<br> [Dragonite]<br> Lv. 77  
 
 PKMN Trainer Dawn  | Item         | Nature  | Ability       | Moves
 ---                | ---          | ---     | ---           | ---

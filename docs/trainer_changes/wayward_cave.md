@@ -1,18 +1,18 @@
 # Wayward Cave
 
-Trainer                    | Pokémons
----                        | ---
-PKMN Trainer Mira          | ![][176]  [Togetic] Lv. 27  ![][093]  [Haunter] Lv. 27  ![][233]  [Porygon2] Lv. 27 <br> ![][064]  [Kadabra] Lv. 28
-Hiker Reginald             | ![][051]  [Dugtrio] Lv. 26
-Hiker Lorenzo              | ![][111]  [Rhyhorn] Lv. 25  ![][185]  [Sudowoodo] Lv. 25
-Lass Cassidy               | ![][300]  [Skitty] Lv. 24  ![][052]  [Meowth] Lv. 24  ![][133]  [Eevee] Lv. 24
-Youngster Wayne            | ![][294]  [Loudred] Lv. 25  ![][020]  [Raticate] Lv. 25
-Picnicker Tori             | ![][054]  [Psyduck] Lv. 25  ![][030]  [Nidorina] Lv. 25
-Camper Diego               | ![][190]  [Aipom] Lv. 25  ![][033]  [Nidorino] Lv. 25
-Picnicker Ana              | ![][314]  [Illumise] Lv. 25  ![][162]  [Furret] Lv. 25
-Camper Parker              | ![][313]  [Volbeat] Lv. 25  ![][264]  [Linoone] Lv. 25
-Collector Terry            | ![][443]  [Gible] Lv. 24  ![][371]  [Bagon] Lv. 24  ![][444]  [Gabite] Lv. 24
-Ruin Maniac Gerald         | ![][104]  [Cubone] Lv. 25  ![][476]  [Probopass] Lv. 25
+Trainer            | 1                                   | 2                                   
+---                | ---                                 | ---                                 
+PKMN Trainer Mira  | ![][176]<br> [Togetic]<br> Lv. 27   | ![][093]<br> [Haunter]<br> Lv. 27   | ![][233]<br> [Porygon2]<br> Lv. 27  | ![][064]<br> [Kadabra]<br> Lv. 28   
+Hiker Reginald     | ![][051]<br> [Dugtrio]<br> Lv. 26   
+Hiker Lorenzo      | ![][111]<br> [Rhyhorn]<br> Lv. 25   | ![][185]<br> [Sudowoodo]<br> Lv. 25 
+Lass Cassidy       | ![][300]<br> [Skitty]<br> Lv. 24    | ![][052]<br> [Meowth]<br> Lv. 24    | ![][133]<br> [Eevee]<br> Lv. 24     
+Youngster Wayne    | ![][294]<br> [Loudred]<br> Lv. 25   | ![][020]<br> [Raticate]<br> Lv. 25  
+Picnicker Tori     | ![][054]<br> [Psyduck]<br> Lv. 25   | ![][030]<br> [Nidorina]<br> Lv. 25  
+Camper Diego       | ![][190]<br> [Aipom]<br> Lv. 25     | ![][033]<br> [Nidorino]<br> Lv. 25  
+Picnicker Ana      | ![][314]<br> [Illumise]<br> Lv. 25  | ![][162]<br> [Furret]<br> Lv. 25    
+Camper Parker      | ![][313]<br> [Volbeat]<br> Lv. 25   | ![][264]<br> [Linoone]<br> Lv. 25   
+Collector Terry    | ![][443]<br> [Gible]<br> Lv. 24     | ![][371]<br> [Bagon]<br> Lv. 24     | ![][444]<br> [Gabite]<br> Lv. 24    
+Ruin Maniac Gerald | ![][104]<br> [Cubone]<br> Lv. 25    | ![][476]<br> [Probopass]<br> Lv. 25 
 
 PKMN Trainer Mira | Item         | Nature  | Ability       | Moves
 ---               | ---          | ---     | ---           | ---

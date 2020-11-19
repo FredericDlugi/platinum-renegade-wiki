@@ -1,22 +1,22 @@
 # Iron Island
 
-Trainer                    | Pokémons
----                        | ---
-PKMN Trainer Riley         | ![][359]  [Absol] Lv. 49  ![][217]  [Ursaring] Lv. 49  ![][376]  [Metagross] Lv. 49 <br> ![][373]  [Salamence] Lv. 49  ![][289]  [Slaking] Lv. 49  ![][448]  [Lucario] Lv. 50
-Camper Lawrence            | ![][005]  [Charmeleon] Lv. 46  ![][424]  [Ambipom] Lv. 46  ![][419]  [Floatzel] Lv. 46
-Picnicker Summer           | ![][253]  [Grovyle] Lv. 46  ![][022]  [Fearow] Lv. 46  ![][026]  [Raichu] Lv. 46
-Worker Noel                | ![][232]  [Donphan] Lv. 48
-Worker Braden              | ![][323]  [Camerupt] Lv. 48
-Hiker Damon                | ![][247]  [Pupitar] Lv. 46  ![][476]  [Probopass] Lv. 46  ![][208]  [Steelix] Lv. 46
-Hiker Maurice              | ![][112]  [Rhydon] Lv. 47  ![][076]  [Golem] Lv. 47
-Black Belt Kendal          | ![][062]  [Poliwrath] Lv. 48  ![][297]  [Hariyama] Lv. 48
-Battle Girl Tyler          | ![][237]  [Hitmontop] Lv. 48  ![][057]  [Primeape] Lv. 48
-Worker Brendon             | ![][082]  [Magneton] Lv. 47  ![][067]  [Machoke] Lv. 47
-Worker Quentin             | ![][305]  [Lairon] Lv. 47  ![][075]  [Graveler] Lv. 47
-Ace Trainer Jonah          | ![][284]  [Masquerain] Lv. 48  ![][346]  [Cradily] Lv. 48  ![][450]  [Hippowdon] Lv. 48
-Ace Trainer Brenda         | ![][282]  [Gardevoir] Lv. 48  ![][428]  [Lopunny] Lv. 48  ![][308]  [Medicham] Lv. 48
-Galactic Grunt             | ![][042]  [Golbat] Lv. 46  ![][229]  [Houndoom] Lv. 46  ![][089]  [Muk] Lv. 46
-Galactic Grunt             | ![][432]  [Purugly] Lv. 46  ![][454]  [Toxicroak] Lv. 46  ![][435]  [Skuntank] Lv. 46
+Trainer            | 1                                    | 2                                    | 3                                    
+---                | ---                                  | ---                                  | ---                                  
+PKMN Trainer Riley | ![][359]<br> [Absol]<br> Lv. 49      | ![][217]<br> [Ursaring]<br> Lv. 49   | ![][376]<br> [Metagross]<br> Lv. 49  | ![][373]<br> [Salamence]<br> Lv. 49  | ![][289]<br> [Slaking]<br> Lv. 49    | ![][448]<br> [Lucario]<br> Lv. 50    
+Camper Lawrence    | ![][005]<br> [Charmeleon]<br> Lv. 46 | ![][424]<br> [Ambipom]<br> Lv. 46    | ![][419]<br> [Floatzel]<br> Lv. 46   
+Picnicker Summer   | ![][253]<br> [Grovyle]<br> Lv. 46    | ![][022]<br> [Fearow]<br> Lv. 46     | ![][026]<br> [Raichu]<br> Lv. 46     
+Worker Noel        | ![][232]<br> [Donphan]<br> Lv. 48    
+Worker Braden      | ![][323]<br> [Camerupt]<br> Lv. 48   
+Hiker Damon        | ![][247]<br> [Pupitar]<br> Lv. 46    | ![][476]<br> [Probopass]<br> Lv. 46  | ![][208]<br> [Steelix]<br> Lv. 46    
+Hiker Maurice      | ![][112]<br> [Rhydon]<br> Lv. 47     | ![][076]<br> [Golem]<br> Lv. 47      
+Black Belt Kendal  | ![][062]<br> [Poliwrath]<br> Lv. 48  | ![][297]<br> [Hariyama]<br> Lv. 48   
+Battle Girl Tyler  | ![][237]<br> [Hitmontop]<br> Lv. 48  | ![][057]<br> [Primeape]<br> Lv. 48   
+Worker Brendon     | ![][082]<br> [Magneton]<br> Lv. 47   | ![][067]<br> [Machoke]<br> Lv. 47    
+Worker Quentin     | ![][305]<br> [Lairon]<br> Lv. 47     | ![][075]<br> [Graveler]<br> Lv. 47   
+Ace Trainer Jonah  | ![][284]<br> [Masquerain]<br> Lv. 48 | ![][346]<br> [Cradily]<br> Lv. 48    | ![][450]<br> [Hippowdon]<br> Lv. 48  
+Ace Trainer Brenda | ![][282]<br> [Gardevoir]<br> Lv. 48  | ![][428]<br> [Lopunny]<br> Lv. 48    | ![][308]<br> [Medicham]<br> Lv. 48   
+Galactic Grunt     | ![][042]<br> [Golbat]<br> Lv. 46     | ![][229]<br> [Houndoom]<br> Lv. 46   | ![][089]<br> [Muk]<br> Lv. 46        
+Galactic Grunt     | ![][432]<br> [Purugly]<br> Lv. 46    | ![][454]<br> [Toxicroak]<br> Lv. 46  | ![][435]<br> [Skuntank]<br> Lv. 46   
 
 PKMN Trainer Riley | Item         | Nature  | Ability       | Moves
 ---                | ---          | ---     | ---           | ---

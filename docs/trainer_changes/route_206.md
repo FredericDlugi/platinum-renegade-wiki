@@ -4,28 +4,28 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_206/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Cyclist Axel               | ![][172]  [Pichu] Lv. 19  ![][172]  [Pichu] Lv. 19  ![][025]  [Pikachu] Lv. 19
-Cyclist Megan              | ![][017]  [Pidgeotto] Lv. 21
-Cyclist James              | ![][077]  [Ponyta] Lv. 20  ![][180]  [Flaaffy] Lv. 20
-Cyclist Nicole             | ![][276]  [Taillow] Lv. 19  ![][084]  [Doduo] Lv. 19  ![][278]  [Wingull] Lv. 19
-Cyclist John (!)           | ![][083]  [Farfetch'd] Lv. 21
-Cyclist Kayla (!)          | ![][100]  [Voltorb] Lv. 19  ![][081]  [Magnemite] Lv. 19  ![][309]  [Electrike] Lv. 19
-Cyclist Ryan               | ![][404]  [Luxio] Lv. 21
-Cyclist Rachel             | ![][135]  [Jolteon] Lv. 21
-Hiker Theodore             | ![][324]  [Torkoal] Lv. 26
+Trainer           | 1                                    
+---               | ---                                  
+Cyclist Axel      | ![][172]<br> [Pichu]<br> Lv. 19      | ![][172]<br> [Pichu]<br> Lv. 19      | ![][025]<br> [Pikachu]<br> Lv. 19    
+Cyclist Megan     | ![][017]<br> [Pidgeotto]<br> Lv. 21  
+Cyclist James     | ![][077]<br> [Ponyta]<br> Lv. 20     | ![][180]<br> [Flaaffy]<br> Lv. 20    
+Cyclist Nicole    | ![][276]<br> [Taillow]<br> Lv. 19    | ![][084]<br> [Doduo]<br> Lv. 19      | ![][278]<br> [Wingull]<br> Lv. 19    
+Cyclist John (!)  | ![][083]<br> [Farfetch'd]<br> Lv. 21 
+Cyclist Kayla (!) | ![][100]<br> [Voltorb]<br> Lv. 19    | ![][081]<br> [Magnemite]<br> Lv. 19  | ![][309]<br> [Electrike]<br> Lv. 19  
+Cyclist Ryan      | ![][404]<br> [Luxio]<br> Lv. 21      
+Cyclist Rachel    | ![][135]<br> [Jolteon]<br> Lv. 21    
+Hiker Theodore    | ![][324]<br> [Torkoal]<br> Lv. 26    
 
 #### Rematches
 
-Trainer                    | Pokémons
----                        | ---
-Cyclist John (5)           | ![][083]  [Farfetch'd] Lv. 40
-Cyclist John (8)           | ![][083]  [Farfetch'd] Lv. 61
-Cyclist John (C)           | ![][083]  [Farfetch'd] Lv. 72
-Cyclist Kayla (5)          | ![][101]  [Electrode] Lv. 38  ![][082]  [Magneton] Lv. 38  ![][310]  [Manectric] Lv. 38
-Cyclist Kayla (8)          | ![][101]  [Electrode] Lv. 59  ![][082]  [Magneton] Lv. 59  ![][310]  [Manectric] Lv. 59
-Cyclist Kayla (C)          | ![][101]  [Electrode] Lv. 70  ![][462]  [Magnezone] Lv. 70  ![][310]  [Manectric] Lv. 70
+Trainer           | 1                                    | 2                                    | 3                                    
+---               | ---                                  | ---                                  | ---                                  
+Cyclist John (5)  | ![][083]<br> [Farfetch'd]<br> Lv. 40 
+Cyclist John (8)  | ![][083]<br> [Farfetch'd]<br> Lv. 61 
+Cyclist John (C)  | ![][083]<br> [Farfetch'd]<br> Lv. 72 
+Cyclist Kayla (5) | ![][101]<br> [Electrode]<br> Lv. 38  | ![][082]<br> [Magneton]<br> Lv. 38   | ![][310]<br> [Manectric]<br> Lv. 38  
+Cyclist Kayla (8) | ![][101]<br> [Electrode]<br> Lv. 59  | ![][082]<br> [Magneton]<br> Lv. 59   | ![][310]<br> [Manectric]<br> Lv. 59  
+Cyclist Kayla (C) | ![][101]<br> [Electrode]<br> Lv. 70  | ![][462]<br> [Magnezone]<br> Lv. 70  | ![][310]<br> [Manectric]<br> Lv. 70  
 
 
 [Pidgeotto]: /pokemon_changes/017/

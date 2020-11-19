@@ -1,17 +1,17 @@
 # Hearthome Gym
 
-Trainer                    | Pokémons
----                        | ---
-Youngster Donny            | ![][092]  [Gastly] Lv. 27  ![][092]  [Gastly] Lv. 27  ![][092]  [Gastly] Lv. 27
-Lass Molly                 | ![][200]  [Misdreavus] Lv. 29
-School Kid Chance          | ![][355]  [Duskull] Lv. 26  ![][353]  [Shuppet] Lv. 26  ![][355]  [Duskull] Lv. 26
-School Kid Mackenzie       | ![][353]  [Shuppet] Lv. 26  ![][355]  [Duskull] Lv. 26  ![][353]  [Shuppet] Lv. 26
-Ace Trainer Allen          | ![][093]  [Haunter] Lv. 29  ![][292]  [Shedinja] Lv. 29  ![][302]  [Sableye] Lv. 29
-Ace Trainer Catherine      | ![][093]  [Haunter] Lv. 29  ![][479]  [Rotom] Lv. 29  ![][478]  [Froslass] Lv. 29
-Leader Fantina             | ![][426]  [Drifblim] Lv. 32  ![][356]  [Dusclops] Lv. 32  ![][354]  [Banette] Lv. 32  ![][442]  [Spiritomb] Lv. 32 <br> ![][094]  [Gengar] Lv. 32  ![][429]  [Mismagius] Lv. 33
-PKMN Trainer Barry         | ![][397]  [Staravia] Lv. 32  ![][214]  [Heracross] Lv. 32  ![][143]  [Snorlax] Lv. 32 <br> ![][388]  [Grotle] Lv. 33
-PKMN Trainer Barry         | ![][397]  [Staravia] Lv. 32  ![][214]  [Heracross] Lv. 32  ![][143]  [Snorlax] Lv. 32 <br> ![][391]  [Monferno] Lv. 33
-PKMN Trainer Barry         | ![][397]  [Staravia] Lv. 32  ![][214]  [Heracross] Lv. 32  ![][143]  [Snorlax] Lv. 32 <br> ![][394]  [Prinplup] Lv. 33
+Trainer               | 1                                    | 2                                    | 3                                    | 4                                    
+---                   | ---                                  | ---                                  | ---                                  | ---                                  
+Youngster Donny       | ![][092]<br> [Gastly]<br> Lv. 27     | ![][092]<br> [Gastly]<br> Lv. 27     | ![][092]<br> [Gastly]<br> Lv. 27     
+Lass Molly            | ![][200]<br> [Misdreavus]<br> Lv. 29 
+School Kid Chance     | ![][355]<br> [Duskull]<br> Lv. 26    | ![][353]<br> [Shuppet]<br> Lv. 26    | ![][355]<br> [Duskull]<br> Lv. 26    
+School Kid Mackenzie  | ![][353]<br> [Shuppet]<br> Lv. 26    | ![][355]<br> [Duskull]<br> Lv. 26    | ![][353]<br> [Shuppet]<br> Lv. 26    
+Ace Trainer Allen     | ![][093]<br> [Haunter]<br> Lv. 29    | ![][292]<br> [Shedinja]<br> Lv. 29   | ![][302]<br> [Sableye]<br> Lv. 29    
+Ace Trainer Catherine | ![][093]<br> [Haunter]<br> Lv. 29    | ![][479]<br> [Rotom]<br> Lv. 29      | ![][478]<br> [Froslass]<br> Lv. 29   
+Leader Fantina        | ![][426]<br> [Drifblim]<br> Lv. 32   | ![][356]<br> [Dusclops]<br> Lv. 32   | ![][354]<br> [Banette]<br> Lv. 32    | ![][442]<br> [Spiritomb]<br> Lv. 32  | ![][094]<br> [Gengar]<br> Lv. 32     | ![][429]<br> [Mismagius]<br> Lv. 33  
+PKMN Trainer Barry    | ![][397]<br> [Staravia]<br> Lv. 32   | ![][214]<br> [Heracross]<br> Lv. 32  | ![][143]<br> [Snorlax]<br> Lv. 32    | ![][388]<br> [Grotle]<br> Lv. 33     
+PKMN Trainer Barry    | ![][397]<br> [Staravia]<br> Lv. 32   | ![][214]<br> [Heracross]<br> Lv. 32  | ![][143]<br> [Snorlax]<br> Lv. 32    | ![][391]<br> [Monferno]<br> Lv. 33   
+PKMN Trainer Barry    | ![][397]<br> [Staravia]<br> Lv. 32   | ![][214]<br> [Heracross]<br> Lv. 32  | ![][143]<br> [Snorlax]<br> Lv. 32    | ![][394]<br> [Prinplup]<br> Lv. 33   
 
 Leader Fantina     | Item         | Nature  | Ability       | Moves
 ---                | ---          | ---     | ---           | ---

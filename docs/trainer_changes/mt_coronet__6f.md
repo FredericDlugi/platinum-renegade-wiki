@@ -4,10 +4,10 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/mt_coronet__6f/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Galactic Grunt             | ![][042]  [Golbat] Lv. 55  ![][229]  [Houndoom] Lv. 55  ![][469]  [Yanmega] Lv. 55
-Galactic Grunt             | ![][168]  [Ariados] Lv. 55  ![][053]  [Persian] Lv. 55  ![][205]  [Forretress] Lv. 55
+Trainer        | 1                                    | 2                                    | 3                                    
+---            | ---                                  | ---                                  | ---                                  
+Galactic Grunt | ![][042]<br> [Golbat]<br> Lv. 55     | ![][229]<br> [Houndoom]<br> Lv. 55   | ![][469]<br> [Yanmega]<br> Lv. 55    
+Galactic Grunt | ![][168]<br> [Ariados]<br> Lv. 55    | ![][053]<br> [Persian]<br> Lv. 55    | ![][205]<br> [Forretress]<br> Lv. 55 
 
 
 [Golbat]: /pokemon_changes/042/

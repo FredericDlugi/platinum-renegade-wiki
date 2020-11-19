@@ -4,20 +4,20 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_227/).
 
 
-Trainer              | Pokémons
----                  | ---
-Ace Trainer Saul (!) | ![][128]  [Tauros] Lv. 78
-PKMN Ranger Felicia  | ![][189]  [Jumpluff] Lv. 76  ![][428]  [Lopunny] Lv. 76
-Black Belt Griffin   | ![][286]  [Breloom] Lv. 75  ![][308]  [Medicham] Lv. 75  ![][448]  [Lucario] Lv. 75
-Ace Trainer Mikayla  | ![][336]  [Seviper] Lv. 76  ![][053]  [Persian] Lv. 76  ![][359]  [Absol] Lv. 76
-Ace Trainer Slythe * | ![][094]  [Gengar] Lv. 76  ![][073]  [Tentacruel] Lv. 76  ![][031]  [Nidoqueen] Lv. 76 <br> ![][169]  [Crobat] Lv. 76  ![][454]  [Toxicroak] Lv. 76  ![][045]  [Vileplume] Lv. 77
-PKMN Trainer Buck    | ![][324]  [Torkoal] Lv. 77  ![][213]  [Shuckle] Lv. 77  ![][197]  [Umbreon] Lv. 77 <br> ![][477]  [Dusknoir] Lv. 77  ![][091]  [Cloyster] Lv. 77  ![][344]  [Claydol] Lv. 78
+Trainer              | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6                                    
+---                  | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  
+Ace Trainer Saul (!) | ![][128]<br> [Tauros]<br> Lv. 78     
+PKMN Ranger Felicia  | ![][189]<br> [Jumpluff]<br> Lv. 76   | ![][428]<br> [Lopunny]<br> Lv. 76    
+Black Belt Griffin   | ![][286]<br> [Breloom]<br> Lv. 75    | ![][308]<br> [Medicham]<br> Lv. 75   | ![][448]<br> [Lucario]<br> Lv. 75    
+Ace Trainer Mikayla  | ![][336]<br> [Seviper]<br> Lv. 76    | ![][053]<br> [Persian]<br> Lv. 76    | ![][359]<br> [Absol]<br> Lv. 76      
+Ace Trainer Slythe * | ![][094]<br> [Gengar]<br> Lv. 76     | ![][073]<br> [Tentacruel]<br> Lv. 76 | ![][031]<br> [Nidoqueen]<br> Lv. 76  | ![][169]<br> [Crobat]<br> Lv. 76     | ![][454]<br> [Toxicroak]<br> Lv. 76  | ![][045]<br> [Vileplume]<br> Lv. 77  
+PKMN Trainer Buck    | ![][324]<br> [Torkoal]<br> Lv. 77    | ![][213]<br> [Shuckle]<br> Lv. 77    | ![][197]<br> [Umbreon]<br> Lv. 77    | ![][477]<br> [Dusknoir]<br> Lv. 77   | ![][091]<br> [Cloyster]<br> Lv. 77   | ![][344]<br> [Claydol]<br> Lv. 78    
 
 #### Rematches
 
-Trainer              | Pokémons
----                  | ---
-Ace Trainer Saul (S) | ![][128]  [Tauros] Lv. 80
+Trainer              | 1                                
+---                  | ---                              
+Ace Trainer Saul (S) | ![][128]<br> [Tauros]<br> Lv. 80 
 
 Ace Trainer Slythe  | Item         | Nature | Ability        | Moves
 ---                 | ---          | ---    | ---            | ---

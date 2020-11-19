@@ -1,17 +1,17 @@
 # Spear Pillar
 
-Trainer                    | Pokémons
----                        | ---
-Galactic Grunt             | ![][454]  [Toxicroak] Lv. 56  ![][049]  [Venomoth] Lv. 56  ![][042]  [Golbat] Lv. 56
-Galactic Grunt             | ![][053]  [Persian] Lv. 56  ![][267]  [Beautifly] Lv. 56  ![][097]  [Hypno] Lv. 56
-Commander Mars             | ![][169]  [Crobat] Lv. 57  ![][469]  [Yanmega] Lv. 57  ![][437]  [Bronzong] Lv. 57 <br> ![][466]  [Electivire] Lv. 57  ![][115]  [Kangaskhan] Lv. 57  ![][432]  [Purugly] Lv. 58
-Commander Jupiter          | ![][169]  [Crobat] Lv. 57  ![][302]  [Sableye] Lv. 57  ![][437]  [Bronzong] Lv. 57 <br> ![][465]  [Tangrowth] Lv. 57  ![][423]  [Gastrodon] Lv. 57  ![][435]  [Skuntank] Lv. 58
+Trainer           | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6                                    
+---               | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  
+Galactic Grunt    | ![][454]<br> [Toxicroak]<br> Lv. 56  | ![][049]<br> [Venomoth]<br> Lv. 56   | ![][042]<br> [Golbat]<br> Lv. 56     
+Galactic Grunt    | ![][053]<br> [Persian]<br> Lv. 56    | ![][267]<br> [Beautifly]<br> Lv. 56  | ![][097]<br> [Hypno]<br> Lv. 56      
+Commander Mars    | ![][169]<br> [Crobat]<br> Lv. 57     | ![][469]<br> [Yanmega]<br> Lv. 57    | ![][437]<br> [Bronzong]<br> Lv. 57   | ![][466]<br> [Electivire]<br> Lv. 57 | ![][115]<br> [Kangaskhan]<br> Lv. 57 | ![][432]<br> [Purugly]<br> Lv. 58    
+Commander Jupiter | ![][169]<br> [Crobat]<br> Lv. 57     | ![][302]<br> [Sableye]<br> Lv. 57    | ![][437]<br> [Bronzong]<br> Lv. 57   | ![][465]<br> [Tangrowth]<br> Lv. 57  | ![][423]<br> [Gastrodon]<br> Lv. 57  | ![][435]<br> [Skuntank]<br> Lv. 58   
 
-Trainer                    | Pokémons
----                        | ---
-PKMN Trainer Barry         | ![][398]  [Staraptor] Lv. 58  ![][214]  [Heracross] Lv. 58  ![][143]  [Snorlax] Lv. 58 <br> ![][184]  [Azumarill] Lv. 58  ![][059]  [Arcanine] Lv. 58  ![][389]  [Torterra] Lv. 59
-PKMN Trainer Barry         | ![][398]  [Staraptor] Lv. 58  ![][214]  [Heracross] Lv. 58  ![][143]  [Snorlax] Lv. 58 <br> ![][184]  [Azumarill] Lv. 58  ![][286]  [Breloom] Lv. 58  ![][392]  [Infernape] Lv. 59
-PKMN Trainer Barry         | ![][398]  [Staraptor] Lv. 58  ![][214]  [Heracross] Lv. 58  ![][143]  [Snorlax] Lv. 58 <br> ![][286]  [Breloom] Lv. 58  ![][059]  [Arcanine] Lv. 58  ![][395]  [Empoleon] Lv. 59
+Trainer            | 1                                   | 2                                   | 3                                   | 4                                   | 5                                   | 6                                   
+---                | ---                                 | ---                                 | ---                                 | ---                                 | ---                                 | ---                                 
+PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 58 | ![][214]<br> [Heracross]<br> Lv. 58 | ![][143]<br> [Snorlax]<br> Lv. 58   | ![][184]<br> [Azumarill]<br> Lv. 58 | ![][059]<br> [Arcanine]<br> Lv. 58  | ![][389]<br> [Torterra]<br> Lv. 59  
+PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 58 | ![][214]<br> [Heracross]<br> Lv. 58 | ![][143]<br> [Snorlax]<br> Lv. 58   | ![][184]<br> [Azumarill]<br> Lv. 58 | ![][286]<br> [Breloom]<br> Lv. 58   | ![][392]<br> [Infernape]<br> Lv. 59 
+PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 58 | ![][214]<br> [Heracross]<br> Lv. 58 | ![][143]<br> [Snorlax]<br> Lv. 58   | ![][286]<br> [Breloom]<br> Lv. 58   | ![][059]<br> [Arcanine]<br> Lv. 58  | ![][395]<br> [Empoleon]<br> Lv. 59  
 
 Commander Mars      | Item         | Nature  | Ability       | Moves
 ---                 | ---          | ---     | ---           | ---

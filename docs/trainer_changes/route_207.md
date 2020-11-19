@@ -4,28 +4,28 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_207/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Camper Anthony             | ![][240]  [Magby] Lv. 24  ![][328]  [Trapinch] Lv. 24  ![][004]  [Charmander] Lv. 24
-Picnicker Lauren           | ![][238]  [Smoochum] Lv. 24  ![][209]  [Snubbull] Lv. 24  ![][252]  [Treecko] Lv. 24
-Youngster Austin           | ![][271]  [Lombre] Lv. 25  ![][207]  [Gligar] Lv. 25
-Hiker Justin               | ![][075]  [Graveler] Lv. 25  ![][028]  [Sandslash] Lv. 25
-Hiker Kevin                | ![][206]  [Dunsparce] Lv. 25  ![][206]  [Dunsparce] Lv. 25
-Battle Girl Helen (!)      | ![][236]  [Tyrogue] Lv. 26  ![][307]  [Meditite] Lv. 26  ![][297]  [Hariyama] Lv. 26
-PKMN Trainer Dawn          | ![][221]  [Piloswine] Lv. 29  ![][036]  [Clefable] Lv. 29  ![][428]  [Lopunny] Lv. 29 <br> ![][388]  [Grotle] Lv. 30
-PKMN Trainer Dawn          | ![][221]  [Piloswine] Lv. 29  ![][036]  [Clefable] Lv. 29  ![][428]  [Lopunny] Lv. 29 <br> ![][391]  [Monferno] Lv. 30
-PKMN Trainer Dawn          | ![][221]  [Piloswine] Lv. 29  ![][036]  [Clefable] Lv. 29  ![][428]  [Lopunny] Lv. 29 <br> ![][394]  [Prinplup] Lv. 30
-PKMN Trainer Lucas         | ![][221]  [Piloswine] Lv. 29  ![][210]  [Granbull] Lv. 29  ![][463]  [Lickilicky] Lv. 29 <br> ![][388]  [Grotle] Lv. 30
-PKMN Trainer Lucas         | ![][221]  [Piloswine] Lv. 29  ![][210]  [Granbull] Lv. 29  ![][463]  [Lickilicky] Lv. 29 <br> ![][391]  [Monferno] Lv. 30
-PKMN Trainer Lucas         | ![][221]  [Piloswine] Lv. 29  ![][210]  [Granbull] Lv. 29  ![][463]  [Lickilicky] Lv. 29 <br> ![][394]  [Prinplup] Lv. 30
+Trainer               | 1                                    | 2                                    | 3                                    | 4                                    
+---                   | ---                                  | ---                                  | ---                                  | ---                                  
+Camper Anthony        | ![][240]<br> [Magby]<br> Lv. 24      | ![][328]<br> [Trapinch]<br> Lv. 24   | ![][004]<br> [Charmander]<br> Lv. 24 
+Picnicker Lauren      | ![][238]<br> [Smoochum]<br> Lv. 24   | ![][209]<br> [Snubbull]<br> Lv. 24   | ![][252]<br> [Treecko]<br> Lv. 24    
+Youngster Austin      | ![][271]<br> [Lombre]<br> Lv. 25     | ![][207]<br> [Gligar]<br> Lv. 25     
+Hiker Justin          | ![][075]<br> [Graveler]<br> Lv. 25   | ![][028]<br> [Sandslash]<br> Lv. 25  
+Hiker Kevin           | ![][206]<br> [Dunsparce]<br> Lv. 25  | ![][206]<br> [Dunsparce]<br> Lv. 25  
+Battle Girl Helen (!) | ![][236]<br> [Tyrogue]<br> Lv. 26    | ![][307]<br> [Meditite]<br> Lv. 26   | ![][297]<br> [Hariyama]<br> Lv. 26   
+PKMN Trainer Dawn     | ![][221]<br> [Piloswine]<br> Lv. 29  | ![][036]<br> [Clefable]<br> Lv. 29   | ![][428]<br> [Lopunny]<br> Lv. 29    | ![][388]<br> [Grotle]<br> Lv. 30     
+PKMN Trainer Dawn     | ![][221]<br> [Piloswine]<br> Lv. 29  | ![][036]<br> [Clefable]<br> Lv. 29   | ![][428]<br> [Lopunny]<br> Lv. 29    | ![][391]<br> [Monferno]<br> Lv. 30   
+PKMN Trainer Dawn     | ![][221]<br> [Piloswine]<br> Lv. 29  | ![][036]<br> [Clefable]<br> Lv. 29   | ![][428]<br> [Lopunny]<br> Lv. 29    | ![][394]<br> [Prinplup]<br> Lv. 30   
+PKMN Trainer Lucas    | ![][221]<br> [Piloswine]<br> Lv. 29  | ![][210]<br> [Granbull]<br> Lv. 29   | ![][463]<br> [Lickilicky]<br> Lv. 29 | ![][388]<br> [Grotle]<br> Lv. 30     
+PKMN Trainer Lucas    | ![][221]<br> [Piloswine]<br> Lv. 29  | ![][210]<br> [Granbull]<br> Lv. 29   | ![][463]<br> [Lickilicky]<br> Lv. 29 | ![][391]<br> [Monferno]<br> Lv. 30   
+PKMN Trainer Lucas    | ![][221]<br> [Piloswine]<br> Lv. 29  | ![][210]<br> [Granbull]<br> Lv. 29   | ![][463]<br> [Lickilicky]<br> Lv. 29 | ![][394]<br> [Prinplup]<br> Lv. 30   
 
 #### Rematches
 
-Trainer                    | Pokémons
----                        | ---
-Battle Girl Helen (3)      | ![][236]  [Tyrogue] Lv. 28  ![][307]  [Meditite] Lv. 28  ![][297]  [Hariyama] Lv. 28
-Battle Girl Helen (7)      | ![][237]  [Hitmontop] Lv. 54  ![][308]  [Medicham] Lv. 54  ![][297]  [Hariyama] Lv. 54
-Battle Girl Helen (C)      | ![][237]  [Hitmontop] Lv. 72  ![][308]  [Medicham] Lv. 72  ![][297]  [Hariyama] Lv. 72
+Trainer               | 1                                   | 2                                   | 3                                   
+---                   | ---                                 | ---                                 | ---                                 
+Battle Girl Helen (3) | ![][236]<br> [Tyrogue]<br> Lv. 28   | ![][307]<br> [Meditite]<br> Lv. 28  | ![][297]<br> [Hariyama]<br> Lv. 28  
+Battle Girl Helen (7) | ![][237]<br> [Hitmontop]<br> Lv. 54 | ![][308]<br> [Medicham]<br> Lv. 54  | ![][297]<br> [Hariyama]<br> Lv. 54  
+Battle Girl Helen (C) | ![][237]<br> [Hitmontop]<br> Lv. 72 | ![][308]<br> [Medicham]<br> Lv. 72  | ![][297]<br> [Hariyama]<br> Lv. 72  
 
 PKMN Trainer Dawn | Item         | Nature  | Ability       | Moves
 ---               | ---          | ---     | ---           | ---

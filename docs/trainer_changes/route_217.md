@@ -4,28 +4,28 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_217/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Ace Trainer Dalton (!)     | ![][467]  [Magmortar] Lv. 52  ![][003]  [Venusaur] Lv. 52  ![][230]  [Kingdra] Lv. 52
-Skier Shawn                | ![][459]  [Snover] Lv. 49  ![][459]  [Snover] Lv. 49  ![][460]  [Abomasnow] Lv. 52
-Ninja Boy Matthew          | ![][169]  [Crobat] Lv. 51
-Skier Madison (!)          | ![][238]  [Smoochum] Lv. 49  ![][361]  [Snorunt] Lv. 49  ![][124]  [Jynx] Lv. 52
-Ninja Boy Ethan            | ![][452]  [Drapion] Lv. 51
-Skier Bjorn (!)            | ![][220]  [Swinub] Lv. 49  ![][220]  [Swinub] Lv. 49  ![][221]  [Piloswine] Lv. 52
-Skier Lexie                | ![][087]  [Dewgong] Lv. 51  ![][471]  [Glaceon] Lv. 51
-Black Belt Luke            | ![][068]  [Machamp] Lv. 51  ![][454]  [Toxicroak] Lv. 51  ![][448]  [Lucario] Lv. 51
-Ace Trainer Olivia (!)     | ![][275]  [Shiftry] Lv. 52  ![][334]  [Altaria] Lv. 52  ![][242]  [Blissey] Lv. 52
+Trainer                | 1                                   | 2                                   | 3                                   
+---                    | ---                                 | ---                                 | ---                                 
+Ace Trainer Dalton (!) | ![][467]<br> [Magmortar]<br> Lv. 52 | ![][003]<br> [Venusaur]<br> Lv. 52  | ![][230]<br> [Kingdra]<br> Lv. 52   
+Skier Shawn            | ![][459]<br> [Snover]<br> Lv. 49    | ![][459]<br> [Snover]<br> Lv. 49    | ![][460]<br> [Abomasnow]<br> Lv. 52 
+Ninja Boy Matthew      | ![][169]<br> [Crobat]<br> Lv. 51    
+Skier Madison (!)      | ![][238]<br> [Smoochum]<br> Lv. 49  | ![][361]<br> [Snorunt]<br> Lv. 49   | ![][124]<br> [Jynx]<br> Lv. 52      
+Ninja Boy Ethan        | ![][452]<br> [Drapion]<br> Lv. 51   
+Skier Bjorn (!)        | ![][220]<br> [Swinub]<br> Lv. 49    | ![][220]<br> [Swinub]<br> Lv. 49    | ![][221]<br> [Piloswine]<br> Lv. 52 
+Skier Lexie            | ![][087]<br> [Dewgong]<br> Lv. 51   | ![][471]<br> [Glaceon]<br> Lv. 51   
+Black Belt Luke        | ![][068]<br> [Machamp]<br> Lv. 51   | ![][454]<br> [Toxicroak]<br> Lv. 51 | ![][448]<br> [Lucario]<br> Lv. 51   
+Ace Trainer Olivia (!) | ![][275]<br> [Shiftry]<br> Lv. 52   | ![][334]<br> [Altaria]<br> Lv. 52   | ![][242]<br> [Blissey]<br> Lv. 52   
 
 #### Rematches
 
-Trainer                    | Pokémons
----                        | ---
-Ace Trainer Dalton (C)     | ![][467]  [Magmortar] Lv. 72  ![][003]  [Venusaur] Lv. 72  ![][230]  [Kingdra] Lv. 72
-Skier Madison (8)          | ![][124]  [Jynx] Lv. 59  ![][478]  [Froslass] Lv. 59  ![][124]  [Jynx] Lv. 59
-Skier Madison (C)          | ![][124]  [Jynx] Lv. 70  ![][478]  [Froslass] Lv. 70  ![][124]  [Jynx] Lv. 70
-Skier Bjorn (8)            | ![][221]  [Piloswine] Lv. 59  ![][221]  [Piloswine] Lv. 59  ![][473]  [Mamoswine] Lv. 59
-Skier Bjorn (C)            | ![][473]  [Mamoswine] Lv. 72  ![][473]  [Mamoswine] Lv. 72  ![][473]  [Mamoswine] Lv. 72
-Ace Trainer Olivia (C)     | ![][275]  [Shiftry] Lv. 72  ![][334]  [Altaria] Lv. 72  ![][242]  [Blissey] Lv. 72
+Trainer                | 1                                   | 2                                   | 3                                   
+---                    | ---                                 | ---                                 | ---                                 
+Ace Trainer Dalton (C) | ![][467]<br> [Magmortar]<br> Lv. 72 | ![][003]<br> [Venusaur]<br> Lv. 72  | ![][230]<br> [Kingdra]<br> Lv. 72   
+Skier Madison (8)      | ![][124]<br> [Jynx]<br> Lv. 59      | ![][478]<br> [Froslass]<br> Lv. 59  | ![][124]<br> [Jynx]<br> Lv. 59      
+Skier Madison (C)      | ![][124]<br> [Jynx]<br> Lv. 70      | ![][478]<br> [Froslass]<br> Lv. 70  | ![][124]<br> [Jynx]<br> Lv. 70      
+Skier Bjorn (8)        | ![][221]<br> [Piloswine]<br> Lv. 59 | ![][221]<br> [Piloswine]<br> Lv. 59 | ![][473]<br> [Mamoswine]<br> Lv. 59 
+Skier Bjorn (C)        | ![][473]<br> [Mamoswine]<br> Lv. 72 | ![][473]<br> [Mamoswine]<br> Lv. 72 | ![][473]<br> [Mamoswine]<br> Lv. 72 
+Ace Trainer Olivia (C) | ![][275]<br> [Shiftry]<br> Lv. 72   | ![][334]<br> [Altaria]<br> Lv. 72   | ![][242]<br> [Blissey]<br> Lv. 72   
 
 
 [Venusaur]: /pokemon_changes/003/

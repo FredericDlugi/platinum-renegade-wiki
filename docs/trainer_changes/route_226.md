@@ -4,14 +4,14 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_226/).
 
 
-Trainer              | Pokémons
----                  | ---
-Swimmer Lydia        | ![][184]  [Azumarill] Lv. 73  ![][087]  [Dewgong] Lv. 73  ![][321]  [Wailord] Lv. 73
-Ace Trainer Graham   | ![][236]  [Tyrogue] Lv. 74  ![][107]  [Hitmonchan] Lv. 74  ![][106]  [Hitmonlee] Lv. 74  ![][237]  [Hitmontop] Lv. 74
-Bird Keeper Geneva   | ![][022]  [Fearow] Lv. 74  ![][178]  [Xatu] Lv. 74  ![][277]  [Swellow] Lv. 74
-Dragon Tamer Stanley | ![][230]  [Kingdra] Lv. 76
-Swimmer Wade         | ![][319]  [Sharpedo] Lv. 74  ![][340]  [Whiscash] Lv. 74
-Ace Trainer Wyver *  | ![][230]  [Kingdra] Lv. 76  ![][330]  [Flygon] Lv. 76  ![][334]  [Altaria] Lv. 76 <br> ![][149]  [Dragonite] Lv. 76  ![][445]  [Garchomp] Lv. 76  ![][373]  [Salamence] Lv. 77
+Trainer              | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6                                    
+---                  | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  
+Swimmer Lydia        | ![][184]<br> [Azumarill]<br> Lv. 73  | ![][087]<br> [Dewgong]<br> Lv. 73    | ![][321]<br> [Wailord]<br> Lv. 73    
+Ace Trainer Graham   | ![][236]<br> [Tyrogue]<br> Lv. 74    | ![][107]<br> [Hitmonchan]<br> Lv. 74 | ![][106]<br> [Hitmonlee]<br> Lv. 74  | ![][237]<br> [Hitmontop]<br> Lv. 74  
+Bird Keeper Geneva   | ![][022]<br> [Fearow]<br> Lv. 74     | ![][178]<br> [Xatu]<br> Lv. 74       | ![][277]<br> [Swellow]<br> Lv. 74    
+Dragon Tamer Stanley | ![][230]<br> [Kingdra]<br> Lv. 76    
+Swimmer Wade         | ![][319]<br> [Sharpedo]<br> Lv. 74   | ![][340]<br> [Whiscash]<br> Lv. 74   
+Ace Trainer Wyver *  | ![][230]<br> [Kingdra]<br> Lv. 76    | ![][330]<br> [Flygon]<br> Lv. 76     | ![][334]<br> [Altaria]<br> Lv. 76    | ![][149]<br> [Dragonite]<br> Lv. 76  | ![][445]<br> [Garchomp]<br> Lv. 76   | ![][373]<br> [Salamence]<br> Lv. 77  
 
 Ace Trainer Wyver  | Item         | Nature | Ability           | Moves
 ---                | ---          | ---    | ---               | ---

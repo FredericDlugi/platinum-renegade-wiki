@@ -4,22 +4,22 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_221/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Swimmer Dillon             | ![][260]  [Swampert] Lv. 46
-Swimmer Vanessa            | ![][350]  [Milotic] Lv. 46
-Fisherman Cory             | ![][340]  [Whiscash] Lv. 44  ![][099]  [Kingler] Lv. 44  ![][130]  [Gyarados] Lv. 44
-Ace Trainer Shannon (!)    | ![][045]  [Vileplume] Lv. 45  ![][282]  [Gardevoir] Lv. 45  ![][428]  [Lopunny] Lv. 45 <br> ![][031]  [Nidoqueen] Lv. 45
-Ace Trainer Jake (!)       | ![][344]  [Claydol] Lv. 45  ![][006]  [Charizard] Lv. 45  ![][103]  [Exeggutor] Lv. 45 <br> ![][359]  [Absol] Lv. 45
-Collector Ivan (!)         | ![][468]  [Togekiss] Lv. 45  ![][242]  [Blissey] Lv. 45
+Trainer                 | 1                                   | 2                                   
+---                     | ---                                 | ---                                 
+Swimmer Dillon          | ![][260]<br> [Swampert]<br> Lv. 46  
+Swimmer Vanessa         | ![][350]<br> [Milotic]<br> Lv. 46   
+Fisherman Cory          | ![][340]<br> [Whiscash]<br> Lv. 44  | ![][099]<br> [Kingler]<br> Lv. 44   | ![][130]<br> [Gyarados]<br> Lv. 44  
+Ace Trainer Shannon (!) | ![][045]<br> [Vileplume]<br> Lv. 45 | ![][282]<br> [Gardevoir]<br> Lv. 45 | ![][428]<br> [Lopunny]<br> Lv. 45   | ![][031]<br> [Nidoqueen]<br> Lv. 45 
+Ace Trainer Jake (!)    | ![][344]<br> [Claydol]<br> Lv. 45   | ![][006]<br> [Charizard]<br> Lv. 45 | ![][103]<br> [Exeggutor]<br> Lv. 45 | ![][359]<br> [Absol]<br> Lv. 45     
+Collector Ivan (!)      | ![][468]<br> [Togekiss]<br> Lv. 45  | ![][242]<br> [Blissey]<br> Lv. 45   
 
 #### Rematches
 
-Trainer                    | Pokémons
----                        | ---
-Ace Trainer Shannon (C)    | ![][045]  [Vileplume] Lv. 72  ![][282]  [Gardevoir] Lv. 72  ![][428]  [Lopunny] Lv. 72 <br> ![][031]  [Nidoqueen] Lv. 72
-Ace Trainer Jake (C)       | ![][344]  [Claydol] Lv. 72  ![][006]  [Charizard] Lv. 72  ![][103]  [Exeggutor] Lv. 72 <br> ![][359]  [Absol] Lv. 72
-Collector Ivan (C)         | ![][468]  [Togekiss] Lv. 72  ![][242]  [Blissey] Lv. 72
+Trainer                 | 1                                   | 2                                   
+---                     | ---                                 | ---                                 
+Ace Trainer Shannon (C) | ![][045]<br> [Vileplume]<br> Lv. 72 | ![][282]<br> [Gardevoir]<br> Lv. 72 | ![][428]<br> [Lopunny]<br> Lv. 72   | ![][031]<br> [Nidoqueen]<br> Lv. 72 
+Ace Trainer Jake (C)    | ![][344]<br> [Claydol]<br> Lv. 72   | ![][006]<br> [Charizard]<br> Lv. 72 | ![][103]<br> [Exeggutor]<br> Lv. 72 | ![][359]<br> [Absol]<br> Lv. 72     
+Collector Ivan (C)      | ![][468]<br> [Togekiss]<br> Lv. 72  | ![][242]<br> [Blissey]<br> Lv. 72   
 
 
 [Charizard]: /pokemon_changes/006/

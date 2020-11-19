@@ -1,11 +1,11 @@
 # Battle Marathon Only
 
-Trainer             | Pokémons
----                 | ---
-Commander Mars      | ![][169]  [Crobat] Lv. 81  ![][469]  [Yanmega] Lv. 81  ![][437]  [Bronzong] Lv. 81 <br> ![][466]  [Electivire] Lv. 81  ![][115]  [Kangaskhan] Lv. 81  ![][432]  [Purugly] Lv. 82
-Commander Jupiter   | ![][437]  [Bronzong] Lv. 81  ![][302]  [Sableye] Lv. 81  ![][169]  [Crobat] Lv. 81 <br> ![][465]  [Tangrowth] Lv. 81  ![][423]  [Gastrodon] Lv. 81  ![][435]  [Skuntank] Lv. 82
-Commander Saturn    | ![][437]  [Bronzong] Lv. 81  ![][224]  [Octillery] Lv. 81  ![][065]  [Alakazam] Lv. 81 <br> ![][464]  [Rhyperior] Lv. 81  ![][467]  [Magmortar] Lv. 81  ![][454]  [Toxicroak] Lv. 82
-Galactic Boss Cyrus | ![][169]  [Crobat] Lv. 83  ![][430]  [Honchkrow] Lv. 83  ![][229]  [Houndoom] Lv. 83 <br> ![][130]  [Gyarados] Lv. 83  ![][462]  [Magnezone] Lv. 83  ![][461]  [Weavile] Lv. 84
+Trainer             | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6                                    
+---                 | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  
+Commander Mars      | ![][169]<br> [Crobat]<br> Lv. 81     | ![][469]<br> [Yanmega]<br> Lv. 81    | ![][437]<br> [Bronzong]<br> Lv. 81   | ![][466]<br> [Electivire]<br> Lv. 81 | ![][115]<br> [Kangaskhan]<br> Lv. 81 | ![][432]<br> [Purugly]<br> Lv. 82    
+Commander Jupiter   | ![][437]<br> [Bronzong]<br> Lv. 81   | ![][302]<br> [Sableye]<br> Lv. 81    | ![][169]<br> [Crobat]<br> Lv. 81     | ![][465]<br> [Tangrowth]<br> Lv. 81  | ![][423]<br> [Gastrodon]<br> Lv. 81  | ![][435]<br> [Skuntank]<br> Lv. 82   
+Commander Saturn    | ![][437]<br> [Bronzong]<br> Lv. 81   | ![][224]<br> [Octillery]<br> Lv. 81  | ![][065]<br> [Alakazam]<br> Lv. 81   | ![][464]<br> [Rhyperior]<br> Lv. 81  | ![][467]<br> [Magmortar]<br> Lv. 81  | ![][454]<br> [Toxicroak]<br> Lv. 82  
+Galactic Boss Cyrus | ![][169]<br> [Crobat]<br> Lv. 83     | ![][430]<br> [Honchkrow]<br> Lv. 83  | ![][229]<br> [Houndoom]<br> Lv. 83   | ![][130]<br> [Gyarados]<br> Lv. 83   | ![][462]<br> [Magnezone]<br> Lv. 83  | ![][461]<br> [Weavile]<br> Lv. 84    
 
 
 [Alakazam]: /pokemon_changes/065/

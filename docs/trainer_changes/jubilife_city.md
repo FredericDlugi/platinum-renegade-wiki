@@ -1,16 +1,16 @@
 # Jubilife City
 
-Trainer                    | Pokémons
----                        | ---
-Reporter Kayla             | ![][001]  [Bulbasaur] Lv. 5  ![][004]  [Charmander] Lv. 5  ![][007]  [Squirtle] Lv. 5
-Galactic Grunt             | ![][434]  [Stunky] Lv. 13  ![][266]  [Silcoon] Lv. 13
-Galactic Grunt             | ![][431]  [Glameow] Lv. 13  ![][268]  [Cascoon] Lv. 13
-PKMN Trainer Dawn          | ![][035]  [Clefairy] Lv. 13  ![][393]  [Piplup] Lv. 14
-PKMN Trainer Dawn          | ![][035]  [Clefairy] Lv. 13  ![][387]  [Turtwig] Lv. 14
-PKMN Trainer Dawn          | ![][035]  [Clefairy] Lv. 13  ![][390]  [Chimchar] Lv. 14
-PKMN Trainer Lucas         | ![][209]  [Snubbull] Lv. 13  ![][393]  [Piplup] Lv. 14
-PKMN Trainer Lucas         | ![][209]  [Snubbull] Lv. 13  ![][387]  [Turtwig] Lv. 14
-PKMN Trainer Lucas         | ![][209]  [Snubbull] Lv. 13  ![][390]  [Chimchar] Lv. 14
+Trainer            | 1                                   | 2                                   
+---                | ---                                 | ---                                 
+Reporter Kayla     | ![][001]<br> [Bulbasaur]<br> Lv. 5  | ![][004]<br> [Charmander]<br> Lv. 5 | ![][007]<br> [Squirtle]<br> Lv. 5   
+Galactic Grunt     | ![][434]<br> [Stunky]<br> Lv. 13    | ![][266]<br> [Silcoon]<br> Lv. 13   
+Galactic Grunt     | ![][431]<br> [Glameow]<br> Lv. 13   | ![][268]<br> [Cascoon]<br> Lv. 13   
+PKMN Trainer Dawn  | ![][035]<br> [Clefairy]<br> Lv. 13  | ![][393]<br> [Piplup]<br> Lv. 14    
+PKMN Trainer Dawn  | ![][035]<br> [Clefairy]<br> Lv. 13  | ![][387]<br> [Turtwig]<br> Lv. 14   
+PKMN Trainer Dawn  | ![][035]<br> [Clefairy]<br> Lv. 13  | ![][390]<br> [Chimchar]<br> Lv. 14  
+PKMN Trainer Lucas | ![][209]<br> [Snubbull]<br> Lv. 13  | ![][393]<br> [Piplup]<br> Lv. 14    
+PKMN Trainer Lucas | ![][209]<br> [Snubbull]<br> Lv. 13  | ![][387]<br> [Turtwig]<br> Lv. 14   
+PKMN Trainer Lucas | ![][209]<br> [Snubbull]<br> Lv. 13  | ![][390]<br> [Chimchar]<br> Lv. 14  
 
 
 [Bulbasaur]: /pokemon_changes/001/

@@ -4,37 +4,37 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_212__south/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Parasol Lady Sabrina       | ![][351]  [Castform] Lv. 39
-Scientist Shaun (!)        | ![][082]  [Magneton] Lv. 37  ![][101]  [Electrode] Lv. 37  ![][233]  [Porygon2] Lv. 37
-Pokémon Ranger Taylor (!)  | ![][455]  [Carnivine] Lv. 39  ![][352]  [Kecleon] Lv. 39  ![][125]  [Electabuzz] Lv. 39
-Parasol Lady Alexa (!)     | ![][117]  [Seadra] Lv. 38  ![][055]  [Golduck] Lv. 38
-Fisherman Juan             | ![][090]  [Shellder] Lv. 36  ![][366]  [Clamperl] Lv. 36  ![][091]  [Cloyster] Lv. 39
-Fisherman Josh             | ![][223]  [Remoraid] Lv. 36  ![][118]  [Goldeen] Lv. 36  ![][224]  [Octillery] Lv. 39
-Fisherman Travis           | ![][339]  [Barboach] Lv. 38  ![][211]  [Qwilfish] Lv. 38
-Collector Dean             | ![][196]  [Espeon] Lv. 37  ![][197]  [Umbreon] Lv. 37  ![][471]  [Glaceon] Lv. 37
-Policeman Danny            | ![][058]  [Growlithe] Lv. 37  ![][067]  [Machoke] Lv. 37  ![][164]  [Noctowl] Lv. 37
-Scientist Stefano          | ![][110]  [Weezing] Lv. 38  ![][089]  [Muk] Lv. 38
-Pokémon Ranger Allison (!) | ![][350]  [Milotic] Lv. 39  ![][470]  [Leafeon] Lv. 39  ![][124]  [Jynx] Lv. 39
-Pokémon Ranger Jeffrey     | ![][126]  [Magmar] Lv. 39  ![][310]  [Manectric] Lv. 39  ![][034]  [Nidoking] Lv. 39
+Trainer                    | 1                                    | 2                                    | 3                                    
+---                        | ---                                  | ---                                  | ---                                  
+Parasol Lady Sabrina       | ![][351]<br> [Castform]<br> Lv. 39   
+Scientist Shaun (!)        | ![][082]<br> [Magneton]<br> Lv. 37   | ![][101]<br> [Electrode]<br> Lv. 37  | ![][233]<br> [Porygon2]<br> Lv. 37   
+Pokémon Ranger Taylor (!)  | ![][455]<br> [Carnivine]<br> Lv. 39  | ![][352]<br> [Kecleon]<br> Lv. 39    | ![][125]<br> [Electabuzz]<br> Lv. 39 
+Parasol Lady Alexa (!)     | ![][117]<br> [Seadra]<br> Lv. 38     | ![][055]<br> [Golduck]<br> Lv. 38    
+Fisherman Juan             | ![][090]<br> [Shellder]<br> Lv. 36   | ![][366]<br> [Clamperl]<br> Lv. 36   | ![][091]<br> [Cloyster]<br> Lv. 39   
+Fisherman Josh             | ![][223]<br> [Remoraid]<br> Lv. 36   | ![][118]<br> [Goldeen]<br> Lv. 36    | ![][224]<br> [Octillery]<br> Lv. 39  
+Fisherman Travis           | ![][339]<br> [Barboach]<br> Lv. 38   | ![][211]<br> [Qwilfish]<br> Lv. 38   
+Collector Dean             | ![][196]<br> [Espeon]<br> Lv. 37     | ![][197]<br> [Umbreon]<br> Lv. 37    | ![][471]<br> [Glaceon]<br> Lv. 37    
+Policeman Danny            | ![][058]<br> [Growlithe]<br> Lv. 37  | ![][067]<br> [Machoke]<br> Lv. 37    | ![][164]<br> [Noctowl]<br> Lv. 37    
+Scientist Stefano          | ![][110]<br> [Weezing]<br> Lv. 38    | ![][089]<br> [Muk]<br> Lv. 38        
+Pokémon Ranger Allison (!) | ![][350]<br> [Milotic]<br> Lv. 39    | ![][470]<br> [Leafeon]<br> Lv. 39    | ![][124]<br> [Jynx]<br> Lv. 39       
+Pokémon Ranger Jeffrey     | ![][126]<br> [Magmar]<br> Lv. 39     | ![][310]<br> [Manectric]<br> Lv. 39  | ![][034]<br> [Nidoking]<br> Lv. 39   
 
 #### Rematches
 
-Trainer                    | Pokémons
----                        | ---
-Scientist Shaun (5)        | ![][082]  [Magneton] Lv. 38  ![][101]  [Electrode] Lv. 38  ![][233]  [Porygon2] Lv. 38
-Scientist Shaun (8)        | ![][082]  [Magneton] Lv. 59  ![][101]  [Electrode] Lv. 59  ![][233]  [Porygon2] Lv. 59
-Scientist Shaun (C)        | ![][462]  [Magnezone] Lv. 70  ![][101]  [Electrode] Lv. 70  ![][474]  [Porygon-Z] Lv. 70
-Pokémon Ranger Taylor (5)  | ![][455]  [Carnivine] Lv. 40  ![][352]  [Kecleon] Lv. 40  ![][125]  [Electabuzz] Lv. 40
-Pokémon Ranger Taylor (8)  | ![][455]  [Carnivine] Lv. 60  ![][352]  [Kecleon] Lv. 60  ![][466]  [Electivire] Lv. 60
-Pokémon Ranger Taylor (C)  | ![][455]  [Carnivine] Lv. 71  ![][352]  [Kecleon] Lv. 71  ![][466]  [Electivire] Lv. 71
-Pokémon Ranger Allison (5) | ![][350]  [Milotic] Lv. 40  ![][470]  [Leafeon] Lv. 40  ![][124]  [Jynx] Lv. 40
-Pokémon Ranger Allison (8) | ![][350]  [Milotic] Lv. 60  ![][470]  [Leafeon] Lv. 60  ![][124]  [Jynx] Lv. 60
-Pokémon Ranger Allison (C) | ![][350]  [Milotic] Lv. 71  ![][470]  [Leafeon] Lv. 71  ![][124]  [Jynx] Lv. 71
-Parasol Lady Alexa (5)     | ![][117]  [Seadra] Lv. 39  ![][055]  [Golduck] Lv. 39
-Parasol Lady Alexa (8)     | ![][230]  [Kingdra] Lv. 60  ![][055]  [Golduck] Lv. 60
-Parasol Lady Alexa (C)     | ![][230]  [Kingdra] Lv. 71  ![][055]  [Golduck] Lv. 71
+Trainer                    | 1                                    | 2                                    
+---                        | ---                                  | ---                                  
+Scientist Shaun (5)        | ![][082]<br> [Magneton]<br> Lv. 38   | ![][101]<br> [Electrode]<br> Lv. 38  | ![][233]<br> [Porygon2]<br> Lv. 38   
+Scientist Shaun (8)        | ![][082]<br> [Magneton]<br> Lv. 59   | ![][101]<br> [Electrode]<br> Lv. 59  | ![][233]<br> [Porygon2]<br> Lv. 59   
+Scientist Shaun (C)        | ![][462]<br> [Magnezone]<br> Lv. 70  | ![][101]<br> [Electrode]<br> Lv. 70  | ![][474]<br> [Porygon-Z]<br> Lv. 70  
+Pokémon Ranger Taylor (5)  | ![][455]<br> [Carnivine]<br> Lv. 40  | ![][352]<br> [Kecleon]<br> Lv. 40    | ![][125]<br> [Electabuzz]<br> Lv. 40 
+Pokémon Ranger Taylor (8)  | ![][455]<br> [Carnivine]<br> Lv. 60  | ![][352]<br> [Kecleon]<br> Lv. 60    | ![][466]<br> [Electivire]<br> Lv. 60 
+Pokémon Ranger Taylor (C)  | ![][455]<br> [Carnivine]<br> Lv. 71  | ![][352]<br> [Kecleon]<br> Lv. 71    | ![][466]<br> [Electivire]<br> Lv. 71 
+Pokémon Ranger Allison (5) | ![][350]<br> [Milotic]<br> Lv. 40    | ![][470]<br> [Leafeon]<br> Lv. 40    | ![][124]<br> [Jynx]<br> Lv. 40       
+Pokémon Ranger Allison (8) | ![][350]<br> [Milotic]<br> Lv. 60    | ![][470]<br> [Leafeon]<br> Lv. 60    | ![][124]<br> [Jynx]<br> Lv. 60       
+Pokémon Ranger Allison (C) | ![][350]<br> [Milotic]<br> Lv. 71    | ![][470]<br> [Leafeon]<br> Lv. 71    | ![][124]<br> [Jynx]<br> Lv. 71       
+Parasol Lady Alexa (5)     | ![][117]<br> [Seadra]<br> Lv. 39     | ![][055]<br> [Golduck]<br> Lv. 39    
+Parasol Lady Alexa (8)     | ![][230]<br> [Kingdra]<br> Lv. 60    | ![][055]<br> [Golduck]<br> Lv. 60    
+Parasol Lady Alexa (C)     | ![][230]<br> [Kingdra]<br> Lv. 71    | ![][055]<br> [Golduck]<br> Lv. 71    
 
 
 [Nidoking]: /pokemon_changes/034/

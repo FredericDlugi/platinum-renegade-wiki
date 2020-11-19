@@ -4,28 +4,28 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_225/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Ace Trainer Rodolfo (!)    | ![][121]  [Starmie] Lv. 73  ![][212]  [Scizor] Lv. 73  ![][254]  [Sceptile] Lv. 73 <br> ![][038]  [Ninetales] Lv. 73
-PKMN Ranger Ashlee (!)     | ![][264]  [Linoone] Lv. 73  ![][024]  [Arbok] Lv. 73  ![][012]  [Butterfree] Lv. 73
-Bird Keeper Audrey (!)     | ![][083]  [Farfetch'd] Lv. 73  ![][277]  [Swellow] Lv. 73  ![][018]  [Pidgeot] Lv. 73
-Psychic Daisy (!)          | ![][080]  [Slowbro] Lv. 74  ![][199]  [Slowking] Lv. 74
-Dragon Tamer Geoffrey (!)  | ![][334]  [Altaria] Lv. 75
-Ace Trainer Deanna (!)     | ![][181]  [Ampharos] Lv. 73  ![][357]  [Tropius] Lv. 73  ![][131]  [Lapras] Lv. 73 <br> ![][241]  [Miltank] Lv. 73
-PKMN Ranger Dwayne         | ![][227]  [Skarmory] Lv. 73  ![][055]  [Golduck] Lv. 73  ![][232]  [Donphan] Lv. 73
-Ace Trainer Quinn          | ![][127]  [Pinsir] Lv. 73  ![][171]  [Lanturn] Lv. 73  ![][076]  [Golem] Lv. 73 <br> ![][295]  [Exploud] Lv. 73
-Ace Trainer Heather *      | ![][279]  [Pelipper] Lv. 76  ![][468]  [Togekiss] Lv. 76  ![][142]  [Aerodactyl] Lv. 76 <br> ![][018]  [Pidgeot] Lv. 76  ![][357]  [Tropius] Lv. 76  ![][149]  [Dragonite] Lv. 77
+Trainer                   | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6                                    
+---                       | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  
+Ace Trainer Rodolfo (!)   | ![][121]<br> [Starmie]<br> Lv. 73    | ![][212]<br> [Scizor]<br> Lv. 73     | ![][254]<br> [Sceptile]<br> Lv. 73   | ![][038]<br> [Ninetales]<br> Lv. 73  
+PKMN Ranger Ashlee (!)    | ![][264]<br> [Linoone]<br> Lv. 73    | ![][024]<br> [Arbok]<br> Lv. 73      | ![][012]<br> [Butterfree]<br> Lv. 73 
+Bird Keeper Audrey (!)    | ![][083]<br> [Farfetch'd]<br> Lv. 73 | ![][277]<br> [Swellow]<br> Lv. 73    | ![][018]<br> [Pidgeot]<br> Lv. 73    
+Psychic Daisy (!)         | ![][080]<br> [Slowbro]<br> Lv. 74    | ![][199]<br> [Slowking]<br> Lv. 74   
+Dragon Tamer Geoffrey (!) | ![][334]<br> [Altaria]<br> Lv. 75    
+Ace Trainer Deanna (!)    | ![][181]<br> [Ampharos]<br> Lv. 73   | ![][357]<br> [Tropius]<br> Lv. 73    | ![][131]<br> [Lapras]<br> Lv. 73     | ![][241]<br> [Miltank]<br> Lv. 73    
+PKMN Ranger Dwayne        | ![][227]<br> [Skarmory]<br> Lv. 73   | ![][055]<br> [Golduck]<br> Lv. 73    | ![][232]<br> [Donphan]<br> Lv. 73    
+Ace Trainer Quinn         | ![][127]<br> [Pinsir]<br> Lv. 73     | ![][171]<br> [Lanturn]<br> Lv. 73    | ![][076]<br> [Golem]<br> Lv. 73      | ![][295]<br> [Exploud]<br> Lv. 73    
+Ace Trainer Heather *     | ![][279]<br> [Pelipper]<br> Lv. 76   | ![][468]<br> [Togekiss]<br> Lv. 76   | ![][142]<br> [Aerodactyl]<br> Lv. 76 | ![][018]<br> [Pidgeot]<br> Lv. 76    | ![][357]<br> [Tropius]<br> Lv. 76    | ![][149]<br> [Dragonite]<br> Lv. 77  
 
 #### Rematches
 
-Trainer                    | Pokémons
----                        | ---
-Ace Trainer Rodolfo (S)    | ![][121]  [Starmie] Lv. 79  ![][212]  [Scizor] Lv. 79  ![][254]  [Sceptile] Lv. 79 <br> ![][038]  [Ninetales] Lv. 79
-PKMN Ranger Ashlee (S)     | ![][264]  [Linoone] Lv. 78  ![][024]  [Arbok] Lv. 78  ![][012]  [Butterfree] Lv. 78
-Bird Keeper Audrey (S)     | ![][083]  [Farfetch'd] Lv. 78  ![][277]  [Swellow] Lv. 78  ![][018]  [Pidgeot] Lv. 78
-Psychic Daisy (S)          | ![][080]  [Slowbro] Lv. 79  ![][199]  [Slowking] Lv. 79
-Dragon Tamer Geoffrey (S)  | ![][334]  [Altaria] Lv. 79  ![][445]  [Garchomp] Lv. 79
-Ace Trainer Deanna (S)     | ![][181]  [Ampharos] Lv. 79  ![][357]  [Tropius] Lv. 79  ![][131]  [Lapras] Lv. 79 <br> ![][241]  [Miltank] Lv. 79
+Trainer                   | 1                                    | 2                                    | 3                                    | 4                                    
+---                       | ---                                  | ---                                  | ---                                  | ---                                  
+Ace Trainer Rodolfo (S)   | ![][121]<br> [Starmie]<br> Lv. 79    | ![][212]<br> [Scizor]<br> Lv. 79     | ![][254]<br> [Sceptile]<br> Lv. 79   | ![][038]<br> [Ninetales]<br> Lv. 79  
+PKMN Ranger Ashlee (S)    | ![][264]<br> [Linoone]<br> Lv. 78    | ![][024]<br> [Arbok]<br> Lv. 78      | ![][012]<br> [Butterfree]<br> Lv. 78 
+Bird Keeper Audrey (S)    | ![][083]<br> [Farfetch'd]<br> Lv. 78 | ![][277]<br> [Swellow]<br> Lv. 78    | ![][018]<br> [Pidgeot]<br> Lv. 78    
+Psychic Daisy (S)         | ![][080]<br> [Slowbro]<br> Lv. 79    | ![][199]<br> [Slowking]<br> Lv. 79   
+Dragon Tamer Geoffrey (S) | ![][334]<br> [Altaria]<br> Lv. 79    | ![][445]<br> [Garchomp]<br> Lv. 79   
+Ace Trainer Deanna (S)    | ![][181]<br> [Ampharos]<br> Lv. 79   | ![][357]<br> [Tropius]<br> Lv. 79    | ![][131]<br> [Lapras]<br> Lv. 79     | ![][241]<br> [Miltank]<br> Lv. 79    
 
 Ace Trainer Heather | Item         | Nature  | Ability       | Moves
 ---                 | ---          | ---     | ---           | ---

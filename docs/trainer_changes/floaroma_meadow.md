@@ -4,10 +4,10 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/floaroma_meadow/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Galactic Grunt             | ![][041]  [Zubat] Lv. 15  ![][167]  [Spinarak] Lv. 15
-Galactic Grunt             | ![][453]  [Croagunk] Lv. 15  ![][165]  [Ledyba] Lv. 15
+Trainer        | 1                                  | 2                                  
+---            | ---                                | ---                                
+Galactic Grunt | ![][041]<br> [Zubat]<br> Lv. 15    | ![][167]<br> [Spinarak]<br> Lv. 15 
+Galactic Grunt | ![][453]<br> [Croagunk]<br> Lv. 15 | ![][165]<br> [Ledyba]<br> Lv. 15   
 
 
 [Zubat]: /pokemon_changes/041/

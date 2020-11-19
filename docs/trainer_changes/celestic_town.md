@@ -4,10 +4,10 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/celestic_town/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Galactic Grunt             | ![][229]  [Houndoom] Lv. 43  ![][042]  [Golbat] Lv. 43  ![][015]  [Beedrill] Lv. 43
-Galactic Boss Cyrus        | ![][169]  [Crobat] Lv. 45  ![][430]  [Honchkrow] Lv. 45  ![][462]  [Magnezone] Lv. 45 <br> ![][461]  [Weavile] Lv. 46
+Trainer             | 1                                   | 2                                   | 3                                   | 4                                   
+---                 | ---                                 | ---                                 | ---                                 | ---                                 
+Galactic Grunt      | ![][229]<br> [Houndoom]<br> Lv. 43  | ![][042]<br> [Golbat]<br> Lv. 43    | ![][015]<br> [Beedrill]<br> Lv. 43  
+Galactic Boss Cyrus | ![][169]<br> [Crobat]<br> Lv. 45    | ![][430]<br> [Honchkrow]<br> Lv. 45 | ![][462]<br> [Magnezone]<br> Lv. 45 | ![][461]<br> [Weavile]<br> Lv. 46   
 
 Galactic Boss Cyrus | Item         | Nature  | Ability       | Moves
 ---                 | ---          | ---     | ---           | ---

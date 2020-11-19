@@ -4,27 +4,27 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_215/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Black Belt Derek           | ![][256]  [Combusken] Lv. 34  ![][106]  [Hitmonlee] Lv. 34
-Black Belt Gregory         | ![][057]  [Primeape] Lv. 34  ![][107]  [Hitmonchan] Lv. 34
-Black Belt Nathaniel       | ![][067]  [Machoke] Lv. 34  ![][237]  [Hitmontop] Lv. 34
-Jogger Scott               | ![][398]  [Staraptor] Lv. 34
-Ruin Maniac Calvin         | ![][105]  [Marowak] Lv. 33  ![][409]  [Rampardos] Lv. 33
-Jogger Craig (!)           | ![][405]  [Luxray] Lv. 34
-Ace Trainer Dennis (!)     | ![][207]  [Gligar] Lv. 35  ![][130]  [Gyarados] Lv. 35  ![][426]  [Drifblim] Lv. 35
-Ace Trainer Maya (!)       | ![][108]  [Lickitung] Lv. 35  ![][282]  [Gardevoir] Lv. 35  ![][407]  [Roserade] Lv. 35
+Trainer                | 1                                    | 2                                    | 3                                    
+---                    | ---                                  | ---                                  | ---                                  
+Black Belt Derek       | ![][256]<br> [Combusken]<br> Lv. 34  | ![][106]<br> [Hitmonlee]<br> Lv. 34  
+Black Belt Gregory     | ![][057]<br> [Primeape]<br> Lv. 34   | ![][107]<br> [Hitmonchan]<br> Lv. 34 
+Black Belt Nathaniel   | ![][067]<br> [Machoke]<br> Lv. 34    | ![][237]<br> [Hitmontop]<br> Lv. 34  
+Jogger Scott           | ![][398]<br> [Staraptor]<br> Lv. 34  
+Ruin Maniac Calvin     | ![][105]<br> [Marowak]<br> Lv. 33    | ![][409]<br> [Rampardos]<br> Lv. 33  
+Jogger Craig (!)       | ![][405]<br> [Luxray]<br> Lv. 34     
+Ace Trainer Dennis (!) | ![][207]<br> [Gligar]<br> Lv. 35     | ![][130]<br> [Gyarados]<br> Lv. 35   | ![][426]<br> [Drifblim]<br> Lv. 35   
+Ace Trainer Maya (!)   | ![][108]<br> [Lickitung]<br> Lv. 35  | ![][282]<br> [Gardevoir]<br> Lv. 35  | ![][407]<br> [Roserade]<br> Lv. 35   
 
 #### Rematches
 
-Trainer                    | Pokémons
----                        | ---
-Jogger Craig (8)           | ![][405]  [Luxray] Lv. 60  ![][405]  [Luxray] Lv. 60
-Jogger Craig (C)           | ![][405]  [Luxray] Lv. 72  ![][405]  [Luxray] Lv. 72
-Ace Trainer Dennis (7)     | ![][472]  [Gliscor] Lv. 62  ![][130]  [Gyarados] Lv. 62  ![][426]  [Drifblim] Lv. 62
-Ace Trainer Dennis (S)     | ![][472]  [Gliscor] Lv. 77  ![][130]  [Gyarados] Lv. 77  ![][426]  [Drifblim] Lv. 77
-Ace Trainer Maya (7)       | ![][463]  [Lickilicky] Lv. 62  ![][282]  [Gardevoir] Lv. 62  ![][407]  [Roserade] Lv. 62
-Ace Trainer Maya (S)       | ![][463]  [Lickilicky] Lv. 77  ![][282]  [Gardevoir] Lv. 77  ![][407]  [Roserade] Lv. 77
+Trainer                | 1                                    | 2                                    | 3                                    
+---                    | ---                                  | ---                                  | ---                                  
+Jogger Craig (8)       | ![][405]<br> [Luxray]<br> Lv. 60     | ![][405]<br> [Luxray]<br> Lv. 60     
+Jogger Craig (C)       | ![][405]<br> [Luxray]<br> Lv. 72     | ![][405]<br> [Luxray]<br> Lv. 72     
+Ace Trainer Dennis (7) | ![][472]<br> [Gliscor]<br> Lv. 62    | ![][130]<br> [Gyarados]<br> Lv. 62   | ![][426]<br> [Drifblim]<br> Lv. 62   
+Ace Trainer Dennis (S) | ![][472]<br> [Gliscor]<br> Lv. 77    | ![][130]<br> [Gyarados]<br> Lv. 77   | ![][426]<br> [Drifblim]<br> Lv. 77   
+Ace Trainer Maya (7)   | ![][463]<br> [Lickilicky]<br> Lv. 62 | ![][282]<br> [Gardevoir]<br> Lv. 62  | ![][407]<br> [Roserade]<br> Lv. 62   
+Ace Trainer Maya (S)   | ![][463]<br> [Lickilicky]<br> Lv. 77 | ![][282]<br> [Gardevoir]<br> Lv. 77  | ![][407]<br> [Roserade]<br> Lv. 77   
 
 
 [Primeape]: /pokemon_changes/057/

@@ -4,13 +4,13 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/lake_verity/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Galactic Grunt             | ![][267]  [Beautifly] Lv. 50  ![][012]  [Butterfree] Lv. 50
-Galactic Grunt             | ![][269]  [Dustox] Lv. 50  ![][015]  [Beedrill] Lv. 50
-Galactic Grunt             | ![][033]  [Nidorino] Lv. 49  ![][042]  [Golbat] Lv. 49  ![][413]  [Wormadam] Lv. 49
-Galactic Grunt             | ![][030]  [Nidorina] Lv. 49  ![][042]  [Golbat] Lv. 49  ![][414]  [Mothim] Lv. 49
-Commander Mars             | ![][169]  [Crobat] Lv. 52  ![][469]  [Yanmega] Lv. 52  ![][437]  [Bronzong] Lv. 52 <br> ![][115]  [Kangaskhan] Lv. 52  ![][432]  [Purugly] Lv. 53
+Trainer        | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    
+---            | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  
+Galactic Grunt | ![][267]<br> [Beautifly]<br> Lv. 50  | ![][012]<br> [Butterfree]<br> Lv. 50 
+Galactic Grunt | ![][269]<br> [Dustox]<br> Lv. 50     | ![][015]<br> [Beedrill]<br> Lv. 50   
+Galactic Grunt | ![][033]<br> [Nidorino]<br> Lv. 49   | ![][042]<br> [Golbat]<br> Lv. 49     | ![][413]<br> [Wormadam]<br> Lv. 49   
+Galactic Grunt | ![][030]<br> [Nidorina]<br> Lv. 49   | ![][042]<br> [Golbat]<br> Lv. 49     | ![][414]<br> [Mothim]<br> Lv. 49     
+Commander Mars | ![][169]<br> [Crobat]<br> Lv. 52     | ![][469]<br> [Yanmega]<br> Lv. 52    | ![][437]<br> [Bronzong]<br> Lv. 52   | ![][115]<br> [Kangaskhan]<br> Lv. 52 | ![][432]<br> [Purugly]<br> Lv. 53    
 
 Commander Mars      | Item         | Nature  | Ability       | Moves
 ---                 | ---          | ---     | ---           | ---

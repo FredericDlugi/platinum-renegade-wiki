@@ -4,12 +4,12 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/valley_windworks/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Galactic Grunt             | ![][261]  [Poochyena] Lv. 14  ![][316]  [Gulpin] Lv. 14  ![][228]  [Houndour] Lv. 14
-Galactic Grunt             | ![][088]  [Grimer] Lv. 15  ![][109]  [Koffing] Lv. 15
-Galactic Grunt             | ![][014]  [Kakuna] Lv. 14  ![][204]  [Pineco] Lv. 14  ![][011]  [Metapod] Lv. 14
-Commander Mars             | ![][041]  [Zubat] Lv. 18  ![][436]  [Bronzor] Lv. 18  ![][193]  [Yanma] Lv. 18 <br> ![][432]  [Purugly] Lv. 19
+Trainer        | 1                                   | 2                                   | 3                                   | 4                                   
+---            | ---                                 | ---                                 | ---                                 | ---                                 
+Galactic Grunt | ![][261]<br> [Poochyena]<br> Lv. 14 | ![][316]<br> [Gulpin]<br> Lv. 14    | ![][228]<br> [Houndour]<br> Lv. 14  
+Galactic Grunt | ![][088]<br> [Grimer]<br> Lv. 15    | ![][109]<br> [Koffing]<br> Lv. 15   
+Galactic Grunt | ![][014]<br> [Kakuna]<br> Lv. 14    | ![][204]<br> [Pineco]<br> Lv. 14    | ![][011]<br> [Metapod]<br> Lv. 14   
+Commander Mars | ![][041]<br> [Zubat]<br> Lv. 18     | ![][436]<br> [Bronzor]<br> Lv. 18   | ![][193]<br> [Yanma]<br> Lv. 18     | ![][432]<br> [Purugly]<br> Lv. 19   
 
 Commander Mars   | Item          | Nature  | Ability       | Moves
 ---              | ---           | ---     | ---           | ---

@@ -1,10 +1,10 @@
 # Oreburgh Gym
 
-Trainer                    | Pokémons
----                        | ---
-Youngster Jonathon         | ![][111]  [Rhyhorn] Lv. 13  ![][138]  [Omanyte] Lv. 13  ![][140]  [Kabuto] Lv. 13
-Youngster Darius           | ![][304]  [Aron] Lv. 13  ![][347]  [Anorith] Lv. 13  ![][345]  [Lileep] Lv. 13
-Leader Roark               | ![][299]  [Nosepass] Lv. 15  ![][438]  [Bonsly] Lv. 15  ![][074]  [Geodude] Lv. 15 <br> ![][095]  [Onix] Lv. 15  ![][246]  [Larvitar] Lv. 15  ![][408]  [Cranidos] Lv. 16
+Trainer            | 1                                  | 2                                  | 3                                  | 4                                  | 5                                  | 6                                  
+---                | ---                                | ---                                | ---                                | ---                                | ---                                | ---                                
+Youngster Jonathon | ![][111]<br> [Rhyhorn]<br> Lv. 13  | ![][138]<br> [Omanyte]<br> Lv. 13  | ![][140]<br> [Kabuto]<br> Lv. 13   
+Youngster Darius   | ![][304]<br> [Aron]<br> Lv. 13     | ![][347]<br> [Anorith]<br> Lv. 13  | ![][345]<br> [Lileep]<br> Lv. 13   
+Leader Roark       | ![][299]<br> [Nosepass]<br> Lv. 15 | ![][438]<br> [Bonsly]<br> Lv. 15   | ![][074]<br> [Geodude]<br> Lv. 15  | ![][095]<br> [Onix]<br> Lv. 15     | ![][246]<br> [Larvitar]<br> Lv. 15 | ![][408]<br> [Cranidos]<br> Lv. 16 
 
 Leader Roark         | Item          | Nature  | Ability       | Moves
 ---                  | ---           | ---     | ---           | ---

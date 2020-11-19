@@ -4,19 +4,19 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_211__west/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Ninja Boy Zach (!)         | ![][041]  [Zubat] Lv. 19  ![][451]  [Skorupi] Lv. 19  ![][041]  [Zubat] Lv. 19
-Hiker Louis                | ![][074]  [Geodude] Lv. 19  ![][218]  [Slugma] Lv. 19  ![][374]  [Beldum] Lv. 19
-Bird Keeper Alexandra      | ![][177]  [Natu] Lv. 20  ![][333]  [Swablu] Lv. 20  ![][397]  [Staravia] Lv. 20
+Trainer               | 1                                  | 2                                  | 3                                  
+---                   | ---                                | ---                                | ---                                
+Ninja Boy Zach (!)    | ![][041]<br> [Zubat]<br> Lv. 19    | ![][451]<br> [Skorupi]<br> Lv. 19  | ![][041]<br> [Zubat]<br> Lv. 19    
+Hiker Louis           | ![][074]<br> [Geodude]<br> Lv. 19  | ![][218]<br> [Slugma]<br> Lv. 19   | ![][374]<br> [Beldum]<br> Lv. 19   
+Bird Keeper Alexandra | ![][177]<br> [Natu]<br> Lv. 20     | ![][333]<br> [Swablu]<br> Lv. 20   | ![][397]<br> [Staravia]<br> Lv. 20 
 
 #### Rematches
 
-Trainer                    | Pokémons
----                        | ---
-Ninja Boy Zach (5)         | ![][042]  [Golbat] Lv. 38  ![][451]  [Skorupi] Lv. 38  ![][042]  [Golbat] Lv. 38
-Ninja Boy Zach (8)         | ![][169]  [Crobat] Lv. 59  ![][452]  [Drapion] Lv. 59  ![][169]  [Crobat] Lv. 59
-Ninja Boy Zach (C)         | ![][169]  [Crobat] Lv. 70  ![][452]  [Drapion] Lv. 70  ![][169]  [Crobat] Lv. 70
+Trainer            | 1                                 | 2                                 | 3                                 
+---                | ---                               | ---                               | ---                               
+Ninja Boy Zach (5) | ![][042]<br> [Golbat]<br> Lv. 38  | ![][451]<br> [Skorupi]<br> Lv. 38 | ![][042]<br> [Golbat]<br> Lv. 38  
+Ninja Boy Zach (8) | ![][169]<br> [Crobat]<br> Lv. 59  | ![][452]<br> [Drapion]<br> Lv. 59 | ![][169]<br> [Crobat]<br> Lv. 59  
+Ninja Boy Zach (C) | ![][169]<br> [Crobat]<br> Lv. 70  | ![][452]<br> [Drapion]<br> Lv. 70 | ![][169]<br> [Crobat]<br> Lv. 70  
 
 
 [Zubat]: /pokemon_changes/041/

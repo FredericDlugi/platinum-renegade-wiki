@@ -1,15 +1,15 @@
 # Canalave Gym
 
-Trainer                    | Pokémons
----                        | ---
-Black Belt Ricky           | ![][208]  [Steelix] Lv. 51
-Worker Gary                | ![][081]  [Magnemite] Lv. 46  ![][304]  [Aron] Lv. 46  ![][436]  [Bronzor] Lv. 46 <br> ![][374]  [Beldum] Lv. 46  ![][410]  [Shieldon] Lv. 46
-Worker Jackson             | ![][082]  [Magneton] Lv. 48  ![][305]  [Lairon] Lv. 48  ![][375]  [Metang] Lv. 48
-Ace Trainer Cesar          | ![][395]  [Empoleon] Lv. 50  ![][212]  [Scizor] Lv. 50  ![][376]  [Metagross] Lv. 50
-Worker Gerardo             | ![][476]  [Probopass] Lv. 49  ![][205]  [Forretress] Lv. 49
-Black Belt David           | ![][448]  [Lucario] Lv. 51
-Ace Trainer Breanna        | ![][227]  [Skarmory] Lv. 50  ![][303]  [Mawile] Lv. 50  ![][413]  [Wormadam] Lv. 50
-Leader Bryon               | ![][437]  [Bronzong] Lv. 52  ![][462]  [Magnezone] Lv. 52  ![][208]  [Steelix] Lv. 52 <br> ![][205]  [Forretress] Lv. 52  ![][306]  [Aggron] Lv. 52  ![][411]  [Bastiodon] Lv. 53
+Trainer             | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6                                    
+---                 | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  
+Black Belt Ricky    | ![][208]<br> [Steelix]<br> Lv. 51    
+Worker Gary         | ![][081]<br> [Magnemite]<br> Lv. 46  | ![][304]<br> [Aron]<br> Lv. 46       | ![][436]<br> [Bronzor]<br> Lv. 46    | ![][374]<br> [Beldum]<br> Lv. 46     | ![][410]<br> [Shieldon]<br> Lv. 46   
+Worker Jackson      | ![][082]<br> [Magneton]<br> Lv. 48   | ![][305]<br> [Lairon]<br> Lv. 48     | ![][375]<br> [Metang]<br> Lv. 48     
+Ace Trainer Cesar   | ![][395]<br> [Empoleon]<br> Lv. 50   | ![][212]<br> [Scizor]<br> Lv. 50     | ![][376]<br> [Metagross]<br> Lv. 50  
+Worker Gerardo      | ![][476]<br> [Probopass]<br> Lv. 49  | ![][205]<br> [Forretress]<br> Lv. 49 
+Black Belt David    | ![][448]<br> [Lucario]<br> Lv. 51    
+Ace Trainer Breanna | ![][227]<br> [Skarmory]<br> Lv. 50   | ![][303]<br> [Mawile]<br> Lv. 50     | ![][413]<br> [Wormadam]<br> Lv. 50   
+Leader Bryon        | ![][437]<br> [Bronzong]<br> Lv. 52   | ![][462]<br> [Magnezone]<br> Lv. 52  | ![][208]<br> [Steelix]<br> Lv. 52    | ![][205]<br> [Forretress]<br> Lv. 52 | ![][306]<br> [Aggron]<br> Lv. 52     | ![][411]<br> [Bastiodon]<br> Lv. 53  
 
 Leader Byron        | Item         | Nature  | Ability       | Moves
 ---                 | ---          | ---     | ---           | ---

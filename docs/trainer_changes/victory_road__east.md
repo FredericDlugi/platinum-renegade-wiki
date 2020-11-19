@@ -1,22 +1,22 @@
 # Victory Road ~ East
 
-Trainer                    | Pokémons
----                        | ---
-PKMN Trainer Marley        | ![][121]  [Starmie] Lv. 65  ![][101]  [Electrode] Lv. 65  ![][254]  [Sceptile] Lv. 65 <br> ![][169]  [Crobat] Lv. 65  ![][461]  [Weavile] Lv. 65  ![][059]  [Arcanine] Lv. 66
-Ace Trainer Micah          | ![][376]  [Metagross] Lv. 65  ![][272]  [Ludicolo] Lv. 65  ![][257]  [Blaziken] Lv. 65
-Ace Trainer Brandi         | ![][031]  [Nidoqueen] Lv. 65  ![][115]  [Kangaskhan] Lv. 65  ![][124]  [Jynx] Lv. 65
-Psychic Desiree            | ![][122]  [Mr. Mime] Lv. 64  ![][426]  [Drifblim] Lv. 64  ![][097]  [Hypno] Lv. 64
-Psychic Landon             | ![][354]  [Banette] Lv. 64  ![][065]  [Alakazam] Lv. 64  ![][203]  [Girafarig] Lv. 64
-Black Belt Eddie           | ![][057]  [Primeape] Lv. 64  ![][286]  [Breloom] Lv. 64  ![][392]  [Infernape] Lv. 64
-Veteran Terrell            | ![][047]  [Parasect] Lv. 66  ![][195]  [Quagsire] Lv. 66  ![][229]  [Houndoom] Lv. 66
-Dragon Tamer Joe           | ![][148]  [Dragonair] Lv. 65  ![][373]  [Salamence] Lv. 65  ![][230]  [Kingdra] Lv. 65
-Bird Keeper Autumn         | ![][178]  [Xatu] Lv. 64  ![][279]  [Pelipper] Lv. 64  ![][225]  [Delibird] Lv. 64
-Psychic Deandre            | ![][356]  [Dusclops] Lv. 64  ![][302]  [Sableye] Lv. 64  ![][477]  [Dusknoir] Lv. 64
-Psychic Kendra             | ![][358]  [Chimecho] Lv. 64  ![][478]  [Froslass] Lv. 64  ![][202]  [Wobbuffet] Lv. 64
-Black Belt Willie          | ![][214]  [Heracross] Lv. 64  ![][068]  [Machamp] Lv. 64  ![][454]  [Toxicroak] Lv. 64
-Veteran Brenden            | ![][205]  [Forretress] Lv. 66  ![][141]  [Kabutops] Lv. 66  ![][232]  [Donphan] Lv. 66
-Ace Trainer Arthur         | ![][423]  [Gastrodon] Lv. 64  ![][015]  [Beedrill] Lv. 64  ![][181]  [Ampharos] Lv. 64
-Ace Trainer Clarice        | ![][317]  [Swalot] Lv. 64  ![][038]  [Ninetales] Lv. 64  ![][212]  [Scizor] Lv. 64
+Trainer             | 1                                    | 2                                    | 3                                    
+---                 | ---                                  | ---                                  | ---                                  
+PKMN Trainer Marley | ![][121]<br> [Starmie]<br> Lv. 65    | ![][101]<br> [Electrode]<br> Lv. 65  | ![][254]<br> [Sceptile]<br> Lv. 65   | ![][169]<br> [Crobat]<br> Lv. 65     | ![][461]<br> [Weavile]<br> Lv. 65    | ![][059]<br> [Arcanine]<br> Lv. 66   
+Ace Trainer Micah   | ![][376]<br> [Metagross]<br> Lv. 65  | ![][272]<br> [Ludicolo]<br> Lv. 65   | ![][257]<br> [Blaziken]<br> Lv. 65   
+Ace Trainer Brandi  | ![][031]<br> [Nidoqueen]<br> Lv. 65  | ![][115]<br> [Kangaskhan]<br> Lv. 65 | ![][124]<br> [Jynx]<br> Lv. 65       
+Psychic Desiree     | ![][122]<br> [Mr. Mime]<br> Lv. 64   | ![][426]<br> [Drifblim]<br> Lv. 64   | ![][097]<br> [Hypno]<br> Lv. 64      
+Psychic Landon      | ![][354]<br> [Banette]<br> Lv. 64    | ![][065]<br> [Alakazam]<br> Lv. 64   | ![][203]<br> [Girafarig]<br> Lv. 64  
+Black Belt Eddie    | ![][057]<br> [Primeape]<br> Lv. 64   | ![][286]<br> [Breloom]<br> Lv. 64    | ![][392]<br> [Infernape]<br> Lv. 64  
+Veteran Terrell     | ![][047]<br> [Parasect]<br> Lv. 66   | ![][195]<br> [Quagsire]<br> Lv. 66   | ![][229]<br> [Houndoom]<br> Lv. 66   
+Dragon Tamer Joe    | ![][148]<br> [Dragonair]<br> Lv. 65  | ![][373]<br> [Salamence]<br> Lv. 65  | ![][230]<br> [Kingdra]<br> Lv. 65    
+Bird Keeper Autumn  | ![][178]<br> [Xatu]<br> Lv. 64       | ![][279]<br> [Pelipper]<br> Lv. 64   | ![][225]<br> [Delibird]<br> Lv. 64   
+Psychic Deandre     | ![][356]<br> [Dusclops]<br> Lv. 64   | ![][302]<br> [Sableye]<br> Lv. 64    | ![][477]<br> [Dusknoir]<br> Lv. 64   
+Psychic Kendra      | ![][358]<br> [Chimecho]<br> Lv. 64   | ![][478]<br> [Froslass]<br> Lv. 64   | ![][202]<br> [Wobbuffet]<br> Lv. 64  
+Black Belt Willie   | ![][214]<br> [Heracross]<br> Lv. 64  | ![][068]<br> [Machamp]<br> Lv. 64    | ![][454]<br> [Toxicroak]<br> Lv. 64  
+Veteran Brenden     | ![][205]<br> [Forretress]<br> Lv. 66 | ![][141]<br> [Kabutops]<br> Lv. 66   | ![][232]<br> [Donphan]<br> Lv. 66    
+Ace Trainer Arthur  | ![][423]<br> [Gastrodon]<br> Lv. 64  | ![][015]<br> [Beedrill]<br> Lv. 64   | ![][181]<br> [Ampharos]<br> Lv. 64   
+Ace Trainer Clarice | ![][317]<br> [Swalot]<br> Lv. 64     | ![][038]<br> [Ninetales]<br> Lv. 64  | ![][212]<br> [Scizor]<br> Lv. 64     
 
 PKMN Trainer Marley  | Item         | Nature  | Ability       | Moves
 ---                  | ---          | ---     | ---           | ---

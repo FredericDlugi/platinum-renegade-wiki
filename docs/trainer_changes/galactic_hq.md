@@ -1,21 +1,21 @@
 # Galactic HQ
 
-Trainer                    | Pokémons
----                        | ---
-Galactic Grunt             | ![][042]  [Golbat] Lv. 53  ![][269]  [Dustox] Lv. 53  ![][047]  [Parasect] Lv. 53
-Galactic Grunt             | ![][198]  [Murkrow] Lv. 54  ![][229]  [Houndoom] Lv. 54
-Galactic Grunt             | ![][267]  [Beautifly] Lv. 53  ![][432]  [Purugly] Lv. 53  ![][416]  [Vespiquen] Lv. 53
-Galactic Grunt             | ![][454]  [Toxicroak] Lv. 54  ![][435]  [Skuntank] Lv. 54
-Scientist Fredrick         | ![][281]  [Kirlia] Lv. 53  ![][064]  [Kadabra] Lv. 53  ![][082]  [Magneton] Lv. 53
-Galactic Grunt             | ![][123]  [Scyther] Lv. 54  ![][435]  [Skuntank] Lv. 54
-Galactic Grunt             | ![][127]  [Pinsir] Lv. 54  ![][454]  [Toxicroak] Lv. 54
-Galactic Grunt             | ![][042]  [Golbat] Lv. 53  ![][262]  [Mightyena] Lv. 53  ![][168]  [Ariados] Lv. 53
-Galactic Grunt             | ![][042]  [Golbat] Lv. 53  ![][049]  [Venomoth] Lv. 53  ![][332]  [Cacturne] Lv. 53
-Scientist Darrius          | ![][474]  [Porygon-Z] Lv. 55
-Galactic Grunt             | ![][089]  [Muk] Lv. 54  ![][024]  [Arbok] Lv. 54
-Galactic Grunt             | ![][205]  [Forretress] Lv. 53  ![][336]  [Seviper] Lv. 53  ![][469]  [Yanmega] Lv. 53
-Galactic Boss Cyrus        | ![][169]  [Crobat] Lv. 57  ![][430]  [Honchkrow] Lv. 57  ![][229]  [Houndoom] Lv. 57 <br> ![][462]  [Magnezone] Lv. 57  ![][461]  [Weavile] Lv. 58
-Commander Saturn           | ![][437]  [Bronzong] Lv. 56  ![][224]  [Octillery] Lv. 56  ![][065]  [Alakazam] Lv. 56 <br> ![][464]  [Rhyperior] Lv. 56  ![][467]  [Magmortar] Lv. 56  ![][454]  [Toxicroak] Lv. 57
+Trainer             | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6                                    
+---                 | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  
+Galactic Grunt      | ![][042]<br> [Golbat]<br> Lv. 53     | ![][269]<br> [Dustox]<br> Lv. 53     | ![][047]<br> [Parasect]<br> Lv. 53   
+Galactic Grunt      | ![][198]<br> [Murkrow]<br> Lv. 54    | ![][229]<br> [Houndoom]<br> Lv. 54   
+Galactic Grunt      | ![][267]<br> [Beautifly]<br> Lv. 53  | ![][432]<br> [Purugly]<br> Lv. 53    | ![][416]<br> [Vespiquen]<br> Lv. 53  
+Galactic Grunt      | ![][454]<br> [Toxicroak]<br> Lv. 54  | ![][435]<br> [Skuntank]<br> Lv. 54   
+Scientist Fredrick  | ![][281]<br> [Kirlia]<br> Lv. 53     | ![][064]<br> [Kadabra]<br> Lv. 53    | ![][082]<br> [Magneton]<br> Lv. 53   
+Galactic Grunt      | ![][123]<br> [Scyther]<br> Lv. 54    | ![][435]<br> [Skuntank]<br> Lv. 54   
+Galactic Grunt      | ![][127]<br> [Pinsir]<br> Lv. 54     | ![][454]<br> [Toxicroak]<br> Lv. 54  
+Galactic Grunt      | ![][042]<br> [Golbat]<br> Lv. 53     | ![][262]<br> [Mightyena]<br> Lv. 53  | ![][168]<br> [Ariados]<br> Lv. 53    
+Galactic Grunt      | ![][042]<br> [Golbat]<br> Lv. 53     | ![][049]<br> [Venomoth]<br> Lv. 53   | ![][332]<br> [Cacturne]<br> Lv. 53   
+Scientist Darrius   | ![][474]<br> [Porygon-Z]<br> Lv. 55  
+Galactic Grunt      | ![][089]<br> [Muk]<br> Lv. 54        | ![][024]<br> [Arbok]<br> Lv. 54      
+Galactic Grunt      | ![][205]<br> [Forretress]<br> Lv. 53 | ![][336]<br> [Seviper]<br> Lv. 53    | ![][469]<br> [Yanmega]<br> Lv. 53    
+Galactic Boss Cyrus | ![][169]<br> [Crobat]<br> Lv. 57     | ![][430]<br> [Honchkrow]<br> Lv. 57  | ![][229]<br> [Houndoom]<br> Lv. 57   | ![][462]<br> [Magnezone]<br> Lv. 57  | ![][461]<br> [Weavile]<br> Lv. 58    
+Commander Saturn    | ![][437]<br> [Bronzong]<br> Lv. 56   | ![][224]<br> [Octillery]<br> Lv. 56  | ![][065]<br> [Alakazam]<br> Lv. 56   | ![][464]<br> [Rhyperior]<br> Lv. 56  | ![][467]<br> [Magmortar]<br> Lv. 56  | ![][454]<br> [Toxicroak]<br> Lv. 57  
 
 Galactic Boss Cyrus | Item         | Nature  | Ability       | Moves
 ---                 | ---          | ---     | ---           | ---

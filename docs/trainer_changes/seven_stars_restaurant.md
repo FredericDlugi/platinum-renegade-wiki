@@ -1,25 +1,25 @@
 # Seven Stars Restaurant
 
-Trainer                    | Pokémons
----                        | ---
-Artist Ismael              | ![][235]  [Smeargle] Lv. 37
-Beauty Harley              | ![][055]  [Golduck] Lv. 37
-Rich Boy Roman             | ![][059]  [Arcanine] Lv. 37
-Lady Kylie                 | ![][045]  [Vileplume] Lv. 37
-Gentleman Leonardo         | ![][441]  [Chatot] Lv. 37
-Socialite Rebecca          | ![][053]  [Persian] Lv. 37
-Collector Eugene           | ![][350]  [Milotic] Lv. 37
-Aroma Lady Alison          | ![][154]  [Meganium] Lv. 37
-School Kid Esteban         | ![][195]  [Quagsire] Lv. 37
-Pokéfan Meredith           | ![][417]  [Pachirisu] Lv. 37
-Veteran Emanuel            | ![][257]  [Blaziken] Lv. 37
-Lass Blythe                | ![][428]  [Lopunny] Lv. 37
-Cameraman Darryl           | ![][082]  [Magneton] Lv. 37
-Reporter Valerie           | ![][294]  [Loudred] Lv. 37
-PI Kendrick                | ![][112]  [Rhydon] Lv. 37
-Beauty Gabriella           | ![][457]  [Lumineon] Lv. 37
-Scientist Emilio           | ![][065]  [Alakazam] Lv. 37
-Pokémon Breeder Kaylee     | ![][184]  [Azumarill] Lv. 37
+Trainer                | 1                                   
+---                    | ---                                 
+Artist Ismael          | ![][235]<br> [Smeargle]<br> Lv. 37  
+Beauty Harley          | ![][055]<br> [Golduck]<br> Lv. 37   
+Rich Boy Roman         | ![][059]<br> [Arcanine]<br> Lv. 37  
+Lady Kylie             | ![][045]<br> [Vileplume]<br> Lv. 37 
+Gentleman Leonardo     | ![][441]<br> [Chatot]<br> Lv. 37    
+Socialite Rebecca      | ![][053]<br> [Persian]<br> Lv. 37   
+Collector Eugene       | ![][350]<br> [Milotic]<br> Lv. 37   
+Aroma Lady Alison      | ![][154]<br> [Meganium]<br> Lv. 37  
+School Kid Esteban     | ![][195]<br> [Quagsire]<br> Lv. 37  
+Pokéfan Meredith       | ![][417]<br> [Pachirisu]<br> Lv. 37 
+Veteran Emanuel        | ![][257]<br> [Blaziken]<br> Lv. 37  
+Lass Blythe            | ![][428]<br> [Lopunny]<br> Lv. 37   
+Cameraman Darryl       | ![][082]<br> [Magneton]<br> Lv. 37  
+Reporter Valerie       | ![][294]<br> [Loudred]<br> Lv. 37   
+PI Kendrick            | ![][112]<br> [Rhydon]<br> Lv. 37    
+Beauty Gabriella       | ![][457]<br> [Lumineon]<br> Lv. 37  
+Scientist Emilio       | ![][065]<br> [Alakazam]<br> Lv. 37  
+Pokémon Breeder Kaylee | ![][184]<br> [Azumarill]<br> Lv. 37 
 
 
 [Vileplume]: /pokemon_changes/045/

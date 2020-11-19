@@ -1,10 +1,10 @@
 # Veilstone City
 
-Trainer                    | Pokémons
----                        | ---
-Dragon Tamer Nils          | ![][148]  [Dragonair] Lv. 35  ![][372]  [Shelgon] Lv. 35  ![][329]  [Vibrava] Lv. 35 <br> ![][230]  [Kingdra] Lv. 36
-Team Galactic Grunt        | ![][110]  [Weezing] Lv. 35  ![][042]  [Golbat] Lv. 35  ![][049]  [Venomoth] Lv. 35
-Team Galactic Grunt        | ![][435]  [Skuntank] Lv. 35  ![][269]  [Dustox] Lv. 35  ![][413]  [Wormadam] Lv. 35
+Trainer             | 1                                   | 2                                   | 3                                   
+---                 | ---                                 | ---                                 | ---                                 
+Dragon Tamer Nils   | ![][148]<br> [Dragonair]<br> Lv. 35 | ![][372]<br> [Shelgon]<br> Lv. 35   | ![][329]<br> [Vibrava]<br> Lv. 35   | ![][230]<br> [Kingdra]<br> Lv. 36   
+Team Galactic Grunt | ![][110]<br> [Weezing]<br> Lv. 35   | ![][042]<br> [Golbat]<br> Lv. 35    | ![][049]<br> [Venomoth]<br> Lv. 35  
+Team Galactic Grunt | ![][435]<br> [Skuntank]<br> Lv. 35  | ![][269]<br> [Dustox]<br> Lv. 35    | ![][413]<br> [Wormadam]<br> Lv. 35  
 
 
 [Golbat]: /pokemon_changes/042/

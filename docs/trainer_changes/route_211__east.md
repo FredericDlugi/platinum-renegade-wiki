@@ -4,19 +4,19 @@
     There are wild Pokémon on this route. You can find out more [here](/wild_pokemon/route_211__east/).
 
 
-Trainer                    | Pokémons
----                        | ---
-Bird Keeper Katherine      | ![][164]  [Noctowl] Lv. 22
-Ninja Boy Nick             | ![][291]  [Ninjask] Lv. 20
-Black Belt Sean            | ![][214]  [Heracross] Lv. 22
-Ruin Maniac Harry (!)      | ![][142]  [Aerodactyl] Lv. 21
+Trainer               | 1                                    
+---                   | ---                                  
+Bird Keeper Katherine | ![][164]<br> [Noctowl]<br> Lv. 22    
+Ninja Boy Nick        | ![][291]<br> [Ninjask]<br> Lv. 20    
+Black Belt Sean       | ![][214]<br> [Heracross]<br> Lv. 22  
+Ruin Maniac Harry (!) | ![][142]<br> [Aerodactyl]<br> Lv. 21 
 
 #### Rematches
 
-Trainer                    | Pokémons
----                        | ---
-Ruin Maniac Harry (8)      | ![][142]  [Aerodactyl] Lv. 61
-Ruin Maniac Harry (C)      | ![][142]  [Aerodactyl] Lv. 72
+Trainer               | 1                                    
+---                   | ---                                  
+Ruin Maniac Harry (8) | ![][142]<br> [Aerodactyl]<br> Lv. 61 
+Ruin Maniac Harry (C) | ![][142]<br> [Aerodactyl]<br> Lv. 72 
 
 
 [Aerodactyl]: /pokemon_changes/142/
