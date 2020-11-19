@@ -58,23 +58,44 @@ Base-Pokémon            | Evolution-Level | Evolved-Pokemon
 
 Some Pokémon now evolve through a different method.
 
-Base-Pokémon            | Evolution-Method                  | Evolved-Pokemon
----                     | ---                               | ---
-![][064] Kadabra        | 36                                | ![][065]    Alakazam
-![][067] Machoke        | 36                                | ![][068]    Machamp
-![][075] Graveler       | 36                                | ![][076]    Golem
-![][093] Haunter        | 36                                | ![][094]    Gengar
-![][133] Eevee          | ![][sun-stone]      Sun Stone     | ![][196]    Espeon
-![][133] Eevee          | ![][moon-stone]      Moon Stone   | ![][197]    Umbreon
-![][133] Eevee          | ![][leaf-stone]      Leaf Stone   | ![][470]    Leafeon
-![][133] Eevee          |                    - Ice Stone    | ![][471]    Glaceon
-![][349] Feebas         | ![][prism-scale]     Prism Scale  | ![][350]    Milotic
-![][406] Budew          | when happy regardless of the time | ![][315]    Roselia
-![][433] Chingling      | when happy regardless of the time | ![][358]    Chimecho
-![][447] Riolu          | when happy regardless of the time | ![][448]    Lucario
+Base-Pokémon             | Evolution-Method                  | Evolved-Pokemon
+---                      | ---                               | ---
+![][064]<br> [Kadabra]   | 36                                | ![][065]<br> [Alakazam]
+![][067]<br> [Machoke]   | 36                                | ![][068]<br> [Machamp]
+![][075]<br> [Graveler]  | 36                                | ![][076]<br> [Golem]
+![][093]<br> [Haunter]   | 36                                | ![][094]<br> [Gengar]
+![][133]<br> [Eevee]     | ![][sun-stone]  <br> Sun Stone    | ![][196]<br> [Espeon]
+![][133]<br> [Eevee]     | ![][moon-stone] <br> Moon Stone   | ![][197]<br> [Umbreon]
+![][133]<br> [Eevee]     | ![][leaf-stone] <br> Leaf Stone   | ![][470]<br> [Leafeon]
+![][133]<br> [Eevee]     | -               <br> Ice Stone    | ![][471]<br> [Glaceon]
+![][349]<br> [Feebas]    | ![][prism-scale]<br> Prism Scale  | ![][350]<br> [Milotic]
+![][406]<br> [Budew]     | when happy regardless of the time | ![][315]<br> [Roselia]
+![][433]<br> [Chingling] | when happy regardless of the time | ![][358]<br> [Chimecho]
+![][447]<br> [Riolu]     | when happy regardless of the time | ![][448]<br> [Lucario]
 
 
 
+[Kadabra]: /pokemon_changes/064/
+[Alakazam]: /pokemon_changes/065/
+[Machoke]: /pokemon_changes/067/
+[Machamp]: /pokemon_changes/068/
+[Graveler]: /pokemon_changes/075/
+[Golem]: /pokemon_changes/076/
+[Haunter]: /pokemon_changes/093/
+[Gengar]: /pokemon_changes/094/
+[Eevee]: /pokemon_changes/133/
+[Espeon]: /pokemon_changes/196/
+[Umbreon]: /pokemon_changes/197/
+[Roselia]: /pokemon_changes/315/
+[Feebas]: /pokemon_changes/349/
+[Milotic]: /pokemon_changes/350/
+[Chimecho]: /pokemon_changes/358/
+[Budew]: /pokemon_changes/406/
+[Chingling]: /pokemon_changes/433/
+[Riolu]: /pokemon_changes/447/
+[Lucario]: /pokemon_changes/448/
+[Leafeon]: /pokemon_changes/470/
+[Glaceon]: /pokemon_changes/471/
 [deep-sea-scale]: /img/items/deep-sea-scale.png
 [deep-sea-tooth]: /img/items/deep-sea-tooth.png
 [dragon-scale]: /img/items/dragon-scale.png

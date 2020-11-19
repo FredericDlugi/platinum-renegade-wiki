@@ -27,12 +27,12 @@ Location: Floaroma Town
 
 - The house to the right of the Pokémon Center contains the "Item Fanatic".
 - Talk to him and he'll mention that he can give you items only particular Pokémon can use.
-- Talk to him with a Pikachu in your party to get a Light Ball.
-- Talk to him with a Farfetch'd in your party to get a Stick.
-- Talk to him with a Cubone or Marowak in your party to get a Thick Club.
-- Talk to him with a Chansey in your party to get a Lucky Punch.
-- Talk to him with a Ditto in your party to get a Quick Powder and Metal Powder.
-- Talk to him with a Clamperl in your party to get a Deep Sea Tooth and Deep Sea Scale.
+- Talk to him with a [Pikachu] in your party to get a Light Ball.
+- Talk to him with a [Farfetch'd] in your party to get a Stick.
+- Talk to him with a [Cubone] or Marowak in your party to get a Thick Club.
+- Talk to him with a [Chansey] in your party to get a Lucky Punch.
+- Talk to him with a [Ditto] in your party to get a Quick Powder and Metal Powder.
+- Talk to him with a [Clamperl] in your party to get a Deep Sea Tooth and Deep Sea Scale.
 
 ## Move Deleter
 Location: Oreburgh City
@@ -73,6 +73,7 @@ Location: Solaceon Town
 - The Farmer on the left will sell you a bundle with 15 of each EV reducing berry for $5,000.
 
 ### Experience:
+
 - Choosing experience will pit you against a team of Chansey or Blissey at the chosen level.
 - The Chansey or Blissey all only know Healing Wish and hold a Toxic Orb.
 - You gain access to higher levels of experience training as you progress.
@@ -83,8 +84,14 @@ Location: Solaceon Town
 - Lv. 75 is unlocked after becoming Champion.
 - Lv. 85 is unlocked after completing the Stark Mountain events.
 
-Stats:
+### Stats:
+
 - Choosing a stat will ask you to select Low, Medium or High.
 - Choosing Low will pit you against a team of Level 10 Pokémon who give 1 EV of that stat each.
 - Choosing Medium will pit you against a team of Level 10 Pokémon who give 2 EV of that stat each.
-- Choosing High will pit you against a team of Level 10 Pokémon who give 3 EV of that stat each.
+- Choosing High will pit you against a team of Level 10 Pokémon who give 3 EV of that stat each.[Pikachu]: /pokemon_changes/025/
+[Farfetch'd]: /pokemon_changes/083/
+[Cubone]: /pokemon_changes/104/
+[Chansey]: /pokemon_changes/113/
+[Ditto]: /pokemon_changes/132/
+[Clamperl]: /pokemon_changes/366/

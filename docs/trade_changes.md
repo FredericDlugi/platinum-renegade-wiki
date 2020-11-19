@@ -8,7 +8,7 @@
 ## Oreburgh City
 ![][077] ![][363]
 
-You will be asked for a Ponyta in exchange for a Spheal.
+You will be asked for a [Ponyta] in exchange for a [Spheal].
 
 Gaia the Spheal   | Stats
 ---               | ---
@@ -20,7 +20,7 @@ Nature            | Quiet
 ## Floaroma Town
 ![][420] ![][451]
 
-You will be asked for a Cherubi in exchange for a Skorupi.
+You will be asked for a [Cherubi] in exchange for a [Skorupi].
 
 Spike the Skorupi | Stats
 ---               | ---
@@ -31,7 +31,7 @@ Nature            | Jolly
 ## Eterna City
 ![][361] ![][441]
 
-You will be asked for a Snorunt in exchange for a Chatot.
+You will be asked for a [Snorunt] in exchange for a [Chatot].
 
 Macaw the Chatot | Stats
 ---              | ---
@@ -42,7 +42,7 @@ Nature           | Modest
 ## Route 226
 ![][129] ![][129]
 
-You will be asked for a Magikarp in exchange for a (German) Magikarp.
+You will be asked for a [Magikarp] in exchange for a (German) [Magikarp].
 
 Foppa the Magikarp | Stats
 ---                | ---
@@ -51,6 +51,13 @@ IVs                | 31 HP / 31 Atk / 31 Def / 31 SAtk / 31 SDef / 31 Spd
 Nature             | Adamant
 
 
+[Ponyta]: /pokemon_changes/077/
+[Magikarp]: /pokemon_changes/129/
+[Snorunt]: /pokemon_changes/361/
+[Spheal]: /pokemon_changes/363/
+[Cherubi]: /pokemon_changes/420/
+[Chatot]: /pokemon_changes/441/
+[Skorupi]: /pokemon_changes/451/
 [never-melt-ice]: /img/items/never-melt-ice.png
 [poison-barb]: /img/items/poison-barb.png
 [sharp-beak]: /img/items/sharp-beak.png

@@ -3,9 +3,9 @@ Levels: 33 - 36 (Walking) 20 - 40 (Surfing)
 
 Area       | Pokémon
 ---        | ---
-Morning    | ![][046] ![][047]  [Parasect] (30%) ![][102]  [Exeggcute] (20%) ![][453]  [Croagunk] (20%)  ![][454]  [Toxicroak] (10%) ![][115]  [Kangaskhan] (10%) ![][193]  [Yanma] (10%)<br>
-Day        | ![][046] ![][047]  [Parasect] (30%) ![][102]  [Exeggcute] (20%) ![][453]  [Croagunk] (20%)  ![][454]  [Toxicroak] (10%) ![][115]  [Kangaskhan] (10%) ![][193]  [Yanma] (10%)<br>
-Night      | ![][046] ![][047]  [Parasect] (30%) ![][102]  [Exeggcute] (20%) ![][453]  [Croagunk] (20%)  ![][454]  [Toxicroak] (10%) ![][115]  [Kangaskhan] (10%) ![][193]  [Yanma] (10%)<br>
+Morning    | ![][047]  [Parasect] (30%) ![][102]  [Exeggcute] (20%) ![][453]  [Croagunk] (20%)  ![][454]  [Toxicroak] (10%) ![][115]  [Kangaskhan] (10%) ![][193]  [Yanma] (10%)<br>
+Day        | ![][047]  [Parasect] (30%) ![][102]  [Exeggcute] (20%) ![][453]  [Croagunk] (20%)  ![][454]  [Toxicroak] (10%) ![][115]  [Kangaskhan] (10%) ![][193]  [Yanma] (10%)<br>
+Night      | ![][047]  [Parasect] (30%) ![][102]  [Exeggcute] (20%) ![][453]  [Croagunk] (20%)  ![][454]  [Toxicroak] (10%) ![][115]  [Kangaskhan] (10%) ![][193]  [Yanma] (10%)<br>
 Surf       | ![][194]  [Wooper] (90%) ![][195]  [Quagsire] (10%)
 Old Rod    | ![][129]  [Magikarp] (60%) ![][339]  [Barboach] (30%) ![][318]  [Carvanha] (10%)
 Good Rod   | ![][129]  [Magikarp] (60%) ![][339]  [Barboach] (30%) ![][318]  [Carvanha] (10%)
