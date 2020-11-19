@@ -15,9 +15,9 @@ Poké Radar | ![][225]  [Delibird] (22%)
 [238]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png "Smoochum"
 [361]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png "Snorunt"
 [459]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/459.png "Snover"
-[Sneasel]: /pokemon_changes/215.md
-[Swinub]: /pokemon_changes/220.md
-[Delibird]: /pokemon_changes/225.md
-[Smoochum]: /pokemon_changes/238.md
-[Snorunt]: /pokemon_changes/361.md
-[Snover]: /pokemon_changes/459.md
+[Sneasel]: pokemon_changes/215/
+[Swinub]: pokemon_changes/220/
+[Delibird]: pokemon_changes/225/
+[Smoochum]: pokemon_changes/238/
+[Snorunt]: pokemon_changes/361/
+[Snover]: pokemon_changes/459/

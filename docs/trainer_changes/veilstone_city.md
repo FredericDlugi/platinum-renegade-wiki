@@ -17,13 +17,13 @@ Team Galactic Grunt        | ![][435]  [Skuntank] Lv. 35  ![][269]  [Dustox] Lv.
 [372]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/372.png "Shelgon"
 [413]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/413.png "Wormadam"
 [435]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png "Skuntank"
-[Golbat]: /pokemon_changes/042.md
-[Venomoth]: /pokemon_changes/049.md
-[Weezing]: /pokemon_changes/110.md
-[Dragonair]: /pokemon_changes/148.md
-[Kingdra]: /pokemon_changes/230.md
-[Dustox]: /pokemon_changes/269.md
-[Vibrava]: /pokemon_changes/329.md
-[Shelgon]: /pokemon_changes/372.md
-[Wormadam]: /pokemon_changes/413.md
-[Skuntank]: /pokemon_changes/435.md
+[Golbat]: pokemon_changes/042/
+[Venomoth]: pokemon_changes/049/
+[Weezing]: pokemon_changes/110/
+[Dragonair]: pokemon_changes/148/
+[Kingdra]: pokemon_changes/230/
+[Dustox]: pokemon_changes/269/
+[Vibrava]: pokemon_changes/329/
+[Shelgon]: pokemon_changes/372/
+[Wormadam]: pokemon_changes/413/
+[Skuntank]: pokemon_changes/435/

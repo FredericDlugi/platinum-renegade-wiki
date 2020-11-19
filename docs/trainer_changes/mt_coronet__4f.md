@@ -11,8 +11,8 @@ Galactic Grunt             | ![][166]  [Ledian] Lv. 55  ![][110]  [Weezing] Lv. 
 [110]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png "Weezing"
 [166]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png "Ledian"
 [229]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png "Houndoom"
-[Beedrill]: /pokemon_changes/015.md
-[Golbat]: /pokemon_changes/042.md
-[Weezing]: /pokemon_changes/110.md
-[Ledian]: /pokemon_changes/166.md
-[Houndoom]: /pokemon_changes/229.md
+[Beedrill]: pokemon_changes/015/
+[Golbat]: pokemon_changes/042/
+[Weezing]: pokemon_changes/110/
+[Ledian]: pokemon_changes/166/
+[Houndoom]: pokemon_changes/229/

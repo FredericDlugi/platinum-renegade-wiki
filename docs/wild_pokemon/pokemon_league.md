@@ -16,10 +16,10 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][370]  [Luvdisc] (30%) ![][222]  [Cor
 [226]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png "Mantine"
 [279]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png "Pelipper"
 [370]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/370.png "Luvdisc"
-[Tentacruel]: /pokemon_changes/073.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Corsola]: /pokemon_changes/222.md
-[Mantine]: /pokemon_changes/226.md
-[Pelipper]: /pokemon_changes/279.md
-[Luvdisc]: /pokemon_changes/370.md
+[Tentacruel]: pokemon_changes/073/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Corsola]: pokemon_changes/222/
+[Mantine]: pokemon_changes/226/
+[Pelipper]: pokemon_changes/279/
+[Luvdisc]: pokemon_changes/370/

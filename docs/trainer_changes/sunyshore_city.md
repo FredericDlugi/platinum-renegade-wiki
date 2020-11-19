@@ -20,12 +20,12 @@ Arcade Star Dahlia | Item         | Nature  | Ability       | Moves
 [308]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png "Medicham"
 [468]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/468.png "Togekiss"
 [477]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/477.png "Dusknoir"
-[Zapdos]: /pokemon_changes/145.md
-[Blaziken]: /pokemon_changes/257.md
-[Ludicolo]: /pokemon_changes/272.md
-[Medicham]: /pokemon_changes/308.md
-[Togekiss]: /pokemon_changes/468.md
-[Dusknoir]: /pokemon_changes/477.md
+[Zapdos]: pokemon_changes/145/
+[Blaziken]: pokemon_changes/257/
+[Ludicolo]: pokemon_changes/272/
+[Medicham]: pokemon_changes/308/
+[Togekiss]: pokemon_changes/468/
+[Dusknoir]: pokemon_changes/477/
 [choice-scarf]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-scarf.png
 [focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
 [wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png

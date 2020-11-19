@@ -27,17 +27,17 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][340]  [Whiscash] (30%) ![][319]  [Sh
 [340]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png "Whiscash"
 [453]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png "Croagunk"
 [454]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png "Toxicroak"
-[Parasect]: /pokemon_changes/047.md
-[Exeggcute]: /pokemon_changes/102.md
-[Kangaskhan]: /pokemon_changes/115.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Yanma]: /pokemon_changes/193.md
-[Wooper]: /pokemon_changes/194.md
-[Quagsire]: /pokemon_changes/195.md
-[Carvanha]: /pokemon_changes/318.md
-[Sharpedo]: /pokemon_changes/319.md
-[Barboach]: /pokemon_changes/339.md
-[Whiscash]: /pokemon_changes/340.md
-[Croagunk]: /pokemon_changes/453.md
-[Toxicroak]: /pokemon_changes/454.md
+[Parasect]: pokemon_changes/047/
+[Exeggcute]: pokemon_changes/102/
+[Kangaskhan]: pokemon_changes/115/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Yanma]: pokemon_changes/193/
+[Wooper]: pokemon_changes/194/
+[Quagsire]: pokemon_changes/195/
+[Carvanha]: pokemon_changes/318/
+[Sharpedo]: pokemon_changes/319/
+[Barboach]: pokemon_changes/339/
+[Whiscash]: pokemon_changes/340/
+[Croagunk]: pokemon_changes/453/
+[Toxicroak]: pokemon_changes/454/

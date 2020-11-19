@@ -25,16 +25,16 @@ Super Rod  | ![][349]  [Feebas] (100%)
 [364]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/364.png "Sealeo"
 [375]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png "Metang"
 [436]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/436.png "Bronzor"
-[Clefairy]: /pokemon_changes/035.md
-[Zubat]: /pokemon_changes/041.md
-[Geodude]: /pokemon_changes/074.md
-[Seel]: /pokemon_changes/086.md
-[Nosepass]: /pokemon_changes/299.md
-[Lunatone]: /pokemon_changes/337.md
-[Solrock]: /pokemon_changes/338.md
-[Feebas]: /pokemon_changes/349.md
-[Chimecho]: /pokemon_changes/358.md
-[Spheal]: /pokemon_changes/363.md
-[Sealeo]: /pokemon_changes/364.md
-[Metang]: /pokemon_changes/375.md
-[Bronzor]: /pokemon_changes/436.md
+[Clefairy]: pokemon_changes/035/
+[Zubat]: pokemon_changes/041/
+[Geodude]: pokemon_changes/074/
+[Seel]: pokemon_changes/086/
+[Nosepass]: pokemon_changes/299/
+[Lunatone]: pokemon_changes/337/
+[Solrock]: pokemon_changes/338/
+[Feebas]: pokemon_changes/349/
+[Chimecho]: pokemon_changes/358/
+[Spheal]: pokemon_changes/363/
+[Sealeo]: pokemon_changes/364/
+[Metang]: pokemon_changes/375/
+[Bronzor]: pokemon_changes/436/

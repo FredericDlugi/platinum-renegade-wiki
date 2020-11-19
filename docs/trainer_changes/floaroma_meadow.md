@@ -10,7 +10,7 @@ Galactic Grunt             | ![][453]  [Croagunk] Lv. 15  ![][165]  [Ledyba] Lv.
 [165]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/165.png "Ledyba"
 [167]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png "Spinarak"
 [453]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png "Croagunk"
-[Zubat]: /pokemon_changes/041.md
-[Ledyba]: /pokemon_changes/165.md
-[Spinarak]: /pokemon_changes/167.md
-[Croagunk]: /pokemon_changes/453.md
+[Zubat]: pokemon_changes/041/
+[Ledyba]: pokemon_changes/165/
+[Spinarak]: pokemon_changes/167/
+[Croagunk]: pokemon_changes/453/

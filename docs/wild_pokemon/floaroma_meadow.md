@@ -11,8 +11,8 @@ Honey Tree | ![][420]  [Cherubi] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Ex
 [273]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/273.png "Seedot"
 [285]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/285.png "Shroomish"
 [420]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/420.png "Cherubi"
-[Exeggcute]: /pokemon_changes/102.md
-[Tangela]: /pokemon_changes/114.md
-[Seedot]: /pokemon_changes/273.md
-[Shroomish]: /pokemon_changes/285.md
-[Cherubi]: /pokemon_changes/420.md
+[Exeggcute]: pokemon_changes/102/
+[Tangela]: pokemon_changes/114/
+[Seedot]: pokemon_changes/273/
+[Shroomish]: pokemon_changes/285/
+[Cherubi]: pokemon_changes/420/

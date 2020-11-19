@@ -9,7 +9,7 @@ Galactic Grunt             | ![][198]  [Murkrow] Lv. 55  ![][042]  [Golbat] Lv. 
 [127]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png "Pinsir"
 [198]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/198.png "Murkrow"
 [454]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png "Toxicroak"
-[Golbat]: /pokemon_changes/042.md
-[Pinsir]: /pokemon_changes/127.md
-[Murkrow]: /pokemon_changes/198.md
-[Toxicroak]: /pokemon_changes/454.md
+[Golbat]: pokemon_changes/042/
+[Pinsir]: pokemon_changes/127/
+[Murkrow]: pokemon_changes/198/
+[Toxicroak]: pokemon_changes/454/

@@ -31,20 +31,20 @@ Commander Mars      | Item         | Nature  | Ability       | Moves
 [432]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png "Purugly"
 [437]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png "Bronzong"
 [469]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/469.png "Yanmega"
-[Butterfree]: /pokemon_changes/012.md
-[Beedrill]: /pokemon_changes/015.md
-[Nidorina]: /pokemon_changes/030.md
-[Nidorino]: /pokemon_changes/033.md
-[Golbat]: /pokemon_changes/042.md
-[Kangaskhan]: /pokemon_changes/115.md
-[Crobat]: /pokemon_changes/169.md
-[Beautifly]: /pokemon_changes/267.md
-[Dustox]: /pokemon_changes/269.md
-[Wormadam]: /pokemon_changes/413.md
-[Mothim]: /pokemon_changes/414.md
-[Purugly]: /pokemon_changes/432.md
-[Bronzong]: /pokemon_changes/437.md
-[Yanmega]: /pokemon_changes/469.md
+[Butterfree]: pokemon_changes/012/
+[Beedrill]: pokemon_changes/015/
+[Nidorina]: pokemon_changes/030/
+[Nidorino]: pokemon_changes/033/
+[Golbat]: pokemon_changes/042/
+[Kangaskhan]: pokemon_changes/115/
+[Crobat]: pokemon_changes/169/
+[Beautifly]: pokemon_changes/267/
+[Dustox]: pokemon_changes/269/
+[Wormadam]: pokemon_changes/413/
+[Mothim]: pokemon_changes/414/
+[Purugly]: pokemon_changes/432/
+[Bronzong]: pokemon_changes/437/
+[Yanmega]: pokemon_changes/469/
 [bright-powder]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bright-powder.png
 [wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png
 [leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png

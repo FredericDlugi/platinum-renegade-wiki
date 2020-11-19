@@ -34,23 +34,23 @@ Honey Tree | ![][397]  [Staravia] (30%) ![][017]  [Pidgeotto] (20%) ![][164]  [N
 [419]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png "Floatzel"
 [423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
 [441]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png "Chatot"
-[Pidgeotto]: /pokemon_changes/017.md
-[Tentacool]: /pokemon_changes/072.md
-[Tentacruel]: /pokemon_changes/073.md
-[Farfetch'd]: /pokemon_changes/083.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Noctowl]: /pokemon_changes/164.md
-[Shuckle]: /pokemon_changes/213.md
-[Remoraid]: /pokemon_changes/223.md
-[Octillery]: /pokemon_changes/224.md
-[Swellow]: /pokemon_changes/277.md
-[Wingull]: /pokemon_changes/278.md
-[Pelipper]: /pokemon_changes/279.md
-[Wailmer]: /pokemon_changes/320.md
-[Wailord]: /pokemon_changes/321.md
-[Absol]: /pokemon_changes/359.md
-[Staravia]: /pokemon_changes/397.md
-[Floatzel]: /pokemon_changes/419.md
-[Gastrodon]: /pokemon_changes/423.md
-[Chatot]: /pokemon_changes/441.md
+[Pidgeotto]: pokemon_changes/017/
+[Tentacool]: pokemon_changes/072/
+[Tentacruel]: pokemon_changes/073/
+[Farfetch'd]: pokemon_changes/083/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Noctowl]: pokemon_changes/164/
+[Shuckle]: pokemon_changes/213/
+[Remoraid]: pokemon_changes/223/
+[Octillery]: pokemon_changes/224/
+[Swellow]: pokemon_changes/277/
+[Wingull]: pokemon_changes/278/
+[Pelipper]: pokemon_changes/279/
+[Wailmer]: pokemon_changes/320/
+[Wailord]: pokemon_changes/321/
+[Absol]: pokemon_changes/359/
+[Staravia]: pokemon_changes/397/
+[Floatzel]: pokemon_changes/419/
+[Gastrodon]: pokemon_changes/423/
+[Chatot]: pokemon_changes/441/

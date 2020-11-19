@@ -34,16 +34,16 @@ Commander Jupiter  | Item          | Nature | Ability         | Moves
 [465]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/465.png "Tangrowth"
 [466]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png "Electivire"
 [469]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/469.png "Yanmega"
-[Kangaskhan]: /pokemon_changes/115.md
-[Crobat]: /pokemon_changes/169.md
-[Sableye]: /pokemon_changes/302.md
-[Gastrodon]: /pokemon_changes/423.md
-[Purugly]: /pokemon_changes/432.md
-[Skuntank]: /pokemon_changes/435.md
-[Bronzong]: /pokemon_changes/437.md
-[Tangrowth]: /pokemon_changes/465.md
-[Electivire]: /pokemon_changes/466.md
-[Yanmega]: /pokemon_changes/469.md
+[Kangaskhan]: pokemon_changes/115/
+[Crobat]: pokemon_changes/169/
+[Sableye]: pokemon_changes/302/
+[Gastrodon]: pokemon_changes/423/
+[Purugly]: pokemon_changes/432/
+[Skuntank]: pokemon_changes/435/
+[Bronzong]: pokemon_changes/437/
+[Tangrowth]: pokemon_changes/465/
+[Electivire]: pokemon_changes/466/
+[Yanmega]: pokemon_changes/469/
 [bright-powder]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bright-powder.png
 [expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
 [white-herb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-herb.png

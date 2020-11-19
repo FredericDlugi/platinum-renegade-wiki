@@ -46,25 +46,25 @@ Psychic Abigail (C)        | ![][282]  [Gardevoir] Lv. 72  ![][358]  [Chimecho] 
 [358]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png "Chimecho"
 [369]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/369.png "Relicanth"
 [413]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/413.png "Wormadam"
-[Dugtrio]: /pokemon_changes/051.md
-[Kadabra]: /pokemon_changes/064.md
-[Alakazam]: /pokemon_changes/065.md
-[Hypno]: /pokemon_changes/097.md
-[Kingler]: /pokemon_changes/099.md
-[Kangaskhan]: /pokemon_changes/115.md
-[Lapras]: /pokemon_changes/131.md
-[Vaporeon]: /pokemon_changes/134.md
-[Jolteon]: /pokemon_changes/135.md
-[Flareon]: /pokemon_changes/136.md
-[Aerodactyl]: /pokemon_changes/142.md
-[Girafarig]: /pokemon_changes/203.md
-[Kirlia]: /pokemon_changes/281.md
-[Gardevoir]: /pokemon_changes/282.md
-[Swalot]: /pokemon_changes/317.md
-[Grumpig]: /pokemon_changes/326.md
-[Lileep]: /pokemon_changes/345.md
-[Anorith]: /pokemon_changes/347.md
-[Tropius]: /pokemon_changes/357.md
-[Chimecho]: /pokemon_changes/358.md
-[Relicanth]: /pokemon_changes/369.md
-[Wormadam]: /pokemon_changes/413.md
+[Dugtrio]: pokemon_changes/051/
+[Kadabra]: pokemon_changes/064/
+[Alakazam]: pokemon_changes/065/
+[Hypno]: pokemon_changes/097/
+[Kingler]: pokemon_changes/099/
+[Kangaskhan]: pokemon_changes/115/
+[Lapras]: pokemon_changes/131/
+[Vaporeon]: pokemon_changes/134/
+[Jolteon]: pokemon_changes/135/
+[Flareon]: pokemon_changes/136/
+[Aerodactyl]: pokemon_changes/142/
+[Girafarig]: pokemon_changes/203/
+[Kirlia]: pokemon_changes/281/
+[Gardevoir]: pokemon_changes/282/
+[Swalot]: pokemon_changes/317/
+[Grumpig]: pokemon_changes/326/
+[Lileep]: pokemon_changes/345/
+[Anorith]: pokemon_changes/347/
+[Tropius]: pokemon_changes/357/
+[Chimecho]: pokemon_changes/358/
+[Relicanth]: pokemon_changes/369/
+[Wormadam]: pokemon_changes/413/

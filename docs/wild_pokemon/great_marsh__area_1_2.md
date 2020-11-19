@@ -24,15 +24,15 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][340]  [Whiscash] (30%) ![][319]  [Sh
 [357]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/357.png "Tropius"
 [400]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png "Bibarel"
 [455]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/455.png "Carnivine"
-[Tangela]: /pokemon_changes/114.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Wooper]: /pokemon_changes/194.md
-[Quagsire]: /pokemon_changes/195.md
-[Carvanha]: /pokemon_changes/318.md
-[Sharpedo]: /pokemon_changes/319.md
-[Barboach]: /pokemon_changes/339.md
-[Whiscash]: /pokemon_changes/340.md
-[Tropius]: /pokemon_changes/357.md
-[Bibarel]: /pokemon_changes/400.md
-[Carnivine]: /pokemon_changes/455.md
+[Tangela]: pokemon_changes/114/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Wooper]: pokemon_changes/194/
+[Quagsire]: pokemon_changes/195/
+[Carvanha]: pokemon_changes/318/
+[Sharpedo]: pokemon_changes/319/
+[Barboach]: pokemon_changes/339/
+[Whiscash]: pokemon_changes/340/
+[Tropius]: pokemon_changes/357/
+[Bibarel]: pokemon_changes/400/
+[Carnivine]: pokemon_changes/455/

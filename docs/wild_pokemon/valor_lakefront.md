@@ -15,9 +15,9 @@ Poké Radar | ![][049]  [Venomoth] (22%)
 [203]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png "Girafarig"
 [400]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png "Bibarel"
 [402]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/402.png "Kricketune"
-[Nidorina]: /pokemon_changes/030.md
-[Nidorino]: /pokemon_changes/033.md
-[Venomoth]: /pokemon_changes/049.md
-[Girafarig]: /pokemon_changes/203.md
-[Bibarel]: /pokemon_changes/400.md
-[Kricketune]: /pokemon_changes/402.md
+[Nidorina]: pokemon_changes/030/
+[Nidorino]: pokemon_changes/033/
+[Venomoth]: pokemon_changes/049/
+[Girafarig]: pokemon_changes/203/
+[Bibarel]: pokemon_changes/400/
+[Kricketune]: pokemon_changes/402/

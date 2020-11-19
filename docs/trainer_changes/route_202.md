@@ -35,17 +35,17 @@ Youngster Tristan (8)      | ![][164]  [Noctowl] Lv. 59  ![][398]  [Staraptor] L
 [398]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png "Staraptor"
 [399]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png "Bidoof"
 [412]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/412.png "Burmy"
-[Pidgeot]: /pokemon_changes/018.md
-[Growlithe]: /pokemon_changes/058.md
-[Sentret]: /pokemon_changes/161.md
-[Hoothoot]: /pokemon_changes/163.md
-[Noctowl]: /pokemon_changes/164.md
-[Zigzagoon]: /pokemon_changes/263.md
-[Turtwig]: /pokemon_changes/387.md
-[Chimchar]: /pokemon_changes/390.md
-[Piplup]: /pokemon_changes/393.md
-[Starly]: /pokemon_changes/396.md
-[Staravia]: /pokemon_changes/397.md
-[Staraptor]: /pokemon_changes/398.md
-[Bidoof]: /pokemon_changes/399.md
-[Burmy]: /pokemon_changes/412.md
+[Pidgeot]: pokemon_changes/018/
+[Growlithe]: pokemon_changes/058/
+[Sentret]: pokemon_changes/161/
+[Hoothoot]: pokemon_changes/163/
+[Noctowl]: pokemon_changes/164/
+[Zigzagoon]: pokemon_changes/263/
+[Turtwig]: pokemon_changes/387/
+[Chimchar]: pokemon_changes/390/
+[Piplup]: pokemon_changes/393/
+[Starly]: pokemon_changes/396/
+[Staravia]: pokemon_changes/397/
+[Staraptor]: pokemon_changes/398/
+[Bidoof]: pokemon_changes/399/
+[Burmy]: pokemon_changes/412/

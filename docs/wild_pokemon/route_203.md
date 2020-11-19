@@ -27,17 +27,17 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][342]  [Crawdaunt] (35%)
 [342]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png "Crawdaunt"
 [396]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png "Starly"
 [399]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png "Bidoof"
-[Spearow]: /pokemon_changes/021.md
-[Psyduck]: /pokemon_changes/054.md
-[Golduck]: /pokemon_changes/055.md
-[Abra]: /pokemon_changes/063.md
-[Cubone]: /pokemon_changes/104.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Pineco]: /pokemon_changes/204.md
-[Lotad]: /pokemon_changes/270.md
-[Seedot]: /pokemon_changes/273.md
-[Corphish]: /pokemon_changes/341.md
-[Crawdaunt]: /pokemon_changes/342.md
-[Starly]: /pokemon_changes/396.md
-[Bidoof]: /pokemon_changes/399.md
+[Spearow]: pokemon_changes/021/
+[Psyduck]: pokemon_changes/054/
+[Golduck]: pokemon_changes/055/
+[Abra]: pokemon_changes/063/
+[Cubone]: pokemon_changes/104/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Pineco]: pokemon_changes/204/
+[Lotad]: pokemon_changes/270/
+[Seedot]: pokemon_changes/273/
+[Corphish]: pokemon_changes/341/
+[Crawdaunt]: pokemon_changes/342/
+[Starly]: pokemon_changes/396/
+[Bidoof]: pokemon_changes/399/

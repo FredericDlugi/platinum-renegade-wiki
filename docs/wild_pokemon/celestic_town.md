@@ -14,8 +14,8 @@ Super Rod  | ![][130]  [Gyarados] (90%) ![][369]  [Relicanth] (10%)
 [129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
 [130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
 [369]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/369.png "Relicanth"
-[Psyduck]: /pokemon_changes/054.md
-[Golduck]: /pokemon_changes/055.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Relicanth]: /pokemon_changes/369.md
+[Psyduck]: pokemon_changes/054/
+[Golduck]: pokemon_changes/055/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Relicanth]: pokemon_changes/369/

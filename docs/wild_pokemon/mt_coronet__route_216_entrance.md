@@ -17,12 +17,12 @@ Night      | ![][074]  [Geodude] (20%) ![][436]  [Bronzor] (20%) ![][035]  [Clef
 [358]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png "Chimecho"
 [374]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/374.png "Beldum"
 [436]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/436.png "Bronzor"
-[Clefairy]: /pokemon_changes/035.md
-[Zubat]: /pokemon_changes/041.md
-[Geodude]: /pokemon_changes/074.md
-[Nosepass]: /pokemon_changes/299.md
-[Lunatone]: /pokemon_changes/337.md
-[Solrock]: /pokemon_changes/338.md
-[Chimecho]: /pokemon_changes/358.md
-[Beldum]: /pokemon_changes/374.md
-[Bronzor]: /pokemon_changes/436.md
+[Clefairy]: pokemon_changes/035/
+[Zubat]: pokemon_changes/041/
+[Geodude]: pokemon_changes/074/
+[Nosepass]: pokemon_changes/299/
+[Lunatone]: pokemon_changes/337/
+[Solrock]: pokemon_changes/338/
+[Chimecho]: pokemon_changes/358/
+[Beldum]: pokemon_changes/374/
+[Bronzor]: pokemon_changes/436/

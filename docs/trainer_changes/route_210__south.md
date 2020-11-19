@@ -37,20 +37,20 @@ Rancher Marco (C)          | ![][078]  [Rapidash] Lv. 70  ![][128]  [Tauros] Lv.
 [446]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png "Munchlax"
 [447]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/447.png "Riolu"
 [458]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/458.png "Mantyke"
-[Clefable]: /pokemon_changes/036.md
-[Rapidash]: /pokemon_changes/078.md
-[Electrode]: /pokemon_changes/101.md
-[Tauros]: /pokemon_changes/128.md
-[Dratini]: /pokemon_changes/147.md
-[Dragonair]: /pokemon_changes/148.md
-[Furret]: /pokemon_changes/162.md
-[Miltank]: /pokemon_changes/241.md
-[Linoone]: /pokemon_changes/264.md
-[Wynaut]: /pokemon_changes/360.md
-[Bagon]: /pokemon_changes/371.md
-[Shelgon]: /pokemon_changes/372.md
-[Chingling]: /pokemon_changes/433.md
-[Happiny]: /pokemon_changes/440.md
-[Munchlax]: /pokemon_changes/446.md
-[Riolu]: /pokemon_changes/447.md
-[Mantyke]: /pokemon_changes/458.md
+[Clefable]: pokemon_changes/036/
+[Rapidash]: pokemon_changes/078/
+[Electrode]: pokemon_changes/101/
+[Tauros]: pokemon_changes/128/
+[Dratini]: pokemon_changes/147/
+[Dragonair]: pokemon_changes/148/
+[Furret]: pokemon_changes/162/
+[Miltank]: pokemon_changes/241/
+[Linoone]: pokemon_changes/264/
+[Wynaut]: pokemon_changes/360/
+[Bagon]: pokemon_changes/371/
+[Shelgon]: pokemon_changes/372/
+[Chingling]: pokemon_changes/433/
+[Happiny]: pokemon_changes/440/
+[Munchlax]: pokemon_changes/446/
+[Riolu]: pokemon_changes/447/
+[Mantyke]: pokemon_changes/458/

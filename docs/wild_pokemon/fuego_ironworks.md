@@ -36,25 +36,25 @@ Honey Tree | ![][415]  [Combee] (30%) ![][205]  [Forretress] (10%) ![][413]  [Wo
 [423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
 [456]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/456.png "Finneon"
 [457]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png "Lumineon"
-[Tentacool]: /pokemon_changes/072.md
-[Tentacruel]: /pokemon_changes/073.md
-[Magnemite]: /pokemon_changes/081.md
-[Magneton]: /pokemon_changes/082.md
-[Shellder]: /pokemon_changes/090.md
-[Weezing]: /pokemon_changes/110.md
-[Magmar]: /pokemon_changes/126.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Forretress]: /pokemon_changes/205.md
-[Heracross]: /pokemon_changes/214.md
-[Beautifly]: /pokemon_changes/267.md
-[Dustox]: /pokemon_changes/269.md
-[Manectric]: /pokemon_changes/310.md
-[Wormadam]: /pokemon_changes/413.md
-[Mothim]: /pokemon_changes/414.md
-[Combee]: /pokemon_changes/415.md
-[Vespiquen]: /pokemon_changes/416.md
-[Shellos]: /pokemon_changes/422.md
-[Gastrodon]: /pokemon_changes/423.md
-[Finneon]: /pokemon_changes/456.md
-[Lumineon]: /pokemon_changes/457.md
+[Tentacool]: pokemon_changes/072/
+[Tentacruel]: pokemon_changes/073/
+[Magnemite]: pokemon_changes/081/
+[Magneton]: pokemon_changes/082/
+[Shellder]: pokemon_changes/090/
+[Weezing]: pokemon_changes/110/
+[Magmar]: pokemon_changes/126/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Forretress]: pokemon_changes/205/
+[Heracross]: pokemon_changes/214/
+[Beautifly]: pokemon_changes/267/
+[Dustox]: pokemon_changes/269/
+[Manectric]: pokemon_changes/310/
+[Wormadam]: pokemon_changes/413/
+[Mothim]: pokemon_changes/414/
+[Combee]: pokemon_changes/415/
+[Vespiquen]: pokemon_changes/416/
+[Shellos]: pokemon_changes/422/
+[Gastrodon]: pokemon_changes/423/
+[Finneon]: pokemon_changes/456/
+[Lumineon]: pokemon_changes/457/

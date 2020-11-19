@@ -28,23 +28,23 @@ Galactic Boss Cyrus | ![][169]  [Crobat] Lv. 83  ![][430]  [Honchkrow] Lv. 83  !
 [466]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png "Electivire"
 [467]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/467.png "Magmortar"
 [469]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/469.png "Yanmega"
-[Alakazam]: /pokemon_changes/065.md
-[Kangaskhan]: /pokemon_changes/115.md
-[Gyarados]: /pokemon_changes/130.md
-[Crobat]: /pokemon_changes/169.md
-[Octillery]: /pokemon_changes/224.md
-[Houndoom]: /pokemon_changes/229.md
-[Sableye]: /pokemon_changes/302.md
-[Gastrodon]: /pokemon_changes/423.md
-[Honchkrow]: /pokemon_changes/430.md
-[Purugly]: /pokemon_changes/432.md
-[Skuntank]: /pokemon_changes/435.md
-[Bronzong]: /pokemon_changes/437.md
-[Toxicroak]: /pokemon_changes/454.md
-[Weavile]: /pokemon_changes/461.md
-[Magnezone]: /pokemon_changes/462.md
-[Rhyperior]: /pokemon_changes/464.md
-[Tangrowth]: /pokemon_changes/465.md
-[Electivire]: /pokemon_changes/466.md
-[Magmortar]: /pokemon_changes/467.md
-[Yanmega]: /pokemon_changes/469.md
+[Alakazam]: pokemon_changes/065/
+[Kangaskhan]: pokemon_changes/115/
+[Gyarados]: pokemon_changes/130/
+[Crobat]: pokemon_changes/169/
+[Octillery]: pokemon_changes/224/
+[Houndoom]: pokemon_changes/229/
+[Sableye]: pokemon_changes/302/
+[Gastrodon]: pokemon_changes/423/
+[Honchkrow]: pokemon_changes/430/
+[Purugly]: pokemon_changes/432/
+[Skuntank]: pokemon_changes/435/
+[Bronzong]: pokemon_changes/437/
+[Toxicroak]: pokemon_changes/454/
+[Weavile]: pokemon_changes/461/
+[Magnezone]: pokemon_changes/462/
+[Rhyperior]: pokemon_changes/464/
+[Tangrowth]: pokemon_changes/465/
+[Electivire]: pokemon_changes/466/
+[Magmortar]: pokemon_changes/467/
+[Yanmega]: pokemon_changes/469/

@@ -32,21 +32,21 @@ Honey Tree | ![][420]  [Cherubi] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Ex
 [315]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/315.png "Roselia"
 [397]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/397.png "Staravia"
 [420]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/420.png "Cherubi"
-[Gloom]: /pokemon_changes/044.md
-[Weepinbell]: /pokemon_changes/070.md
-[Farfetch'd]: /pokemon_changes/083.md
-[Exeggcute]: /pokemon_changes/102.md
-[Tangela]: /pokemon_changes/114.md
-[Goldeen]: /pokemon_changes/118.md
-[Seaking]: /pokemon_changes/119.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Marill]: /pokemon_changes/183.md
-[Azumarill]: /pokemon_changes/184.md
-[Smeargle]: /pokemon_changes/235.md
-[Nuzleaf]: /pokemon_changes/274.md
-[Kirlia]: /pokemon_changes/281.md
-[Shroomish]: /pokemon_changes/285.md
-[Roselia]: /pokemon_changes/315.md
-[Staravia]: /pokemon_changes/397.md
-[Cherubi]: /pokemon_changes/420.md
+[Gloom]: pokemon_changes/044/
+[Weepinbell]: pokemon_changes/070/
+[Farfetch'd]: pokemon_changes/083/
+[Exeggcute]: pokemon_changes/102/
+[Tangela]: pokemon_changes/114/
+[Goldeen]: pokemon_changes/118/
+[Seaking]: pokemon_changes/119/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Marill]: pokemon_changes/183/
+[Azumarill]: pokemon_changes/184/
+[Smeargle]: pokemon_changes/235/
+[Nuzleaf]: pokemon_changes/274/
+[Kirlia]: pokemon_changes/281/
+[Shroomish]: pokemon_changes/285/
+[Roselia]: pokemon_changes/315/
+[Staravia]: pokemon_changes/397/
+[Cherubi]: pokemon_changes/420/

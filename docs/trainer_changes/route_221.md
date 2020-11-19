@@ -33,18 +33,18 @@ Collector Ivan (C)         | ![][468]  [Togekiss] Lv. 72  ![][242]  [Blissey] Lv
 [359]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359.png "Absol"
 [428]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428.png "Lopunny"
 [468]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/468.png "Togekiss"
-[Charizard]: /pokemon_changes/006.md
-[Nidoqueen]: /pokemon_changes/031.md
-[Vileplume]: /pokemon_changes/045.md
-[Kingler]: /pokemon_changes/099.md
-[Exeggutor]: /pokemon_changes/103.md
-[Gyarados]: /pokemon_changes/130.md
-[Blissey]: /pokemon_changes/242.md
-[Swampert]: /pokemon_changes/260.md
-[Gardevoir]: /pokemon_changes/282.md
-[Whiscash]: /pokemon_changes/340.md
-[Claydol]: /pokemon_changes/344.md
-[Milotic]: /pokemon_changes/350.md
-[Absol]: /pokemon_changes/359.md
-[Lopunny]: /pokemon_changes/428.md
-[Togekiss]: /pokemon_changes/468.md
+[Charizard]: pokemon_changes/006/
+[Nidoqueen]: pokemon_changes/031/
+[Vileplume]: pokemon_changes/045/
+[Kingler]: pokemon_changes/099/
+[Exeggutor]: pokemon_changes/103/
+[Gyarados]: pokemon_changes/130/
+[Blissey]: pokemon_changes/242/
+[Swampert]: pokemon_changes/260/
+[Gardevoir]: pokemon_changes/282/
+[Whiscash]: pokemon_changes/340/
+[Claydol]: pokemon_changes/344/
+[Milotic]: pokemon_changes/350/
+[Absol]: pokemon_changes/359/
+[Lopunny]: pokemon_changes/428/
+[Togekiss]: pokemon_changes/468/

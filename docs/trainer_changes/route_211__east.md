@@ -19,7 +19,7 @@ Ruin Maniac Harry (C)      | ![][142]  [Aerodactyl] Lv. 72
 [164]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png "Noctowl"
 [214]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png "Heracross"
 [291]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png "Ninjask"
-[Aerodactyl]: /pokemon_changes/142.md
-[Noctowl]: /pokemon_changes/164.md
-[Heracross]: /pokemon_changes/214.md
-[Ninjask]: /pokemon_changes/291.md
+[Aerodactyl]: pokemon_changes/142/
+[Noctowl]: pokemon_changes/164/
+[Heracross]: pokemon_changes/214/
+[Ninjask]: pokemon_changes/291/

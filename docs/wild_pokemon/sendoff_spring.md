@@ -23,13 +23,13 @@ Super Rod  | ![][130]  [Gyarados] (100%)
 [358]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png "Chimecho"
 [397]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/397.png "Staravia"
 [400]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png "Bibarel"
-[Golduck]: /pokemon_changes/055.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Wobbuffet]: /pokemon_changes/202.md
-[Lunatone]: /pokemon_changes/337.md
-[Solrock]: /pokemon_changes/338.md
-[Dusclops]: /pokemon_changes/356.md
-[Chimecho]: /pokemon_changes/358.md
-[Staravia]: /pokemon_changes/397.md
-[Bibarel]: /pokemon_changes/400.md
+[Golduck]: pokemon_changes/055/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Wobbuffet]: pokemon_changes/202/
+[Lunatone]: pokemon_changes/337/
+[Solrock]: pokemon_changes/338/
+[Dusclops]: pokemon_changes/356/
+[Chimecho]: pokemon_changes/358/
+[Staravia]: pokemon_changes/397/
+[Bibarel]: pokemon_changes/400/

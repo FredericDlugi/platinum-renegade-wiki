@@ -21,14 +21,14 @@ Honey Tree | ![][190]  [Aipom] (30%) ![][287]  [Slakoth] (20%) ![][011]  [Metapo
 [246]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/246.png "Larvitar"
 [287]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/287.png "Slakoth"
 [446]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png "Munchlax"
-[Metapod]: /pokemon_changes/011.md
-[Kakuna]: /pokemon_changes/014.md
-[Machop]: /pokemon_changes/066.md
-[Ponyta]: /pokemon_changes/077.md
-[Rhyhorn]: /pokemon_changes/111.md
-[Aipom]: /pokemon_changes/190.md
-[Phanpy]: /pokemon_changes/231.md
-[Stantler]: /pokemon_changes/234.md
-[Larvitar]: /pokemon_changes/246.md
-[Slakoth]: /pokemon_changes/287.md
-[Munchlax]: /pokemon_changes/446.md
+[Metapod]: pokemon_changes/011/
+[Kakuna]: pokemon_changes/014/
+[Machop]: pokemon_changes/066/
+[Ponyta]: pokemon_changes/077/
+[Rhyhorn]: pokemon_changes/111/
+[Aipom]: pokemon_changes/190/
+[Phanpy]: pokemon_changes/231/
+[Stantler]: pokemon_changes/234/
+[Larvitar]: pokemon_changes/246/
+[Slakoth]: pokemon_changes/287/
+[Munchlax]: pokemon_changes/446/

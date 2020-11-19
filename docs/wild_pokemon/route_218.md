@@ -38,28 +38,28 @@ Honey Tree | ![][415]  [Combee] (30%) ![][205]  [Forretress] (10%) ![][413]  [Wo
 [441]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png "Chatot"
 [456]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/456.png "Finneon"
 [457]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png "Lumineon"
-[Tentacool]: /pokemon_changes/072.md
-[Tentacruel]: /pokemon_changes/073.md
-[Electrode]: /pokemon_changes/101.md
-[Staryu]: /pokemon_changes/120.md
-[Starmie]: /pokemon_changes/121.md
-[Mr. Mime]: /pokemon_changes/122.md
-[Electabuzz]: /pokemon_changes/125.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Ditto]: /pokemon_changes/132.md
-[Forretress]: /pokemon_changes/205.md
-[Heracross]: /pokemon_changes/214.md
-[Beautifly]: /pokemon_changes/267.md
-[Dustox]: /pokemon_changes/269.md
-[Wormadam]: /pokemon_changes/413.md
-[Mothim]: /pokemon_changes/414.md
-[Combee]: /pokemon_changes/415.md
-[Vespiquen]: /pokemon_changes/416.md
-[Floatzel]: /pokemon_changes/419.md
-[Shellos]: /pokemon_changes/422.md
-[Gastrodon]: /pokemon_changes/423.md
-[Purugly]: /pokemon_changes/432.md
-[Chatot]: /pokemon_changes/441.md
-[Finneon]: /pokemon_changes/456.md
-[Lumineon]: /pokemon_changes/457.md
+[Tentacool]: pokemon_changes/072/
+[Tentacruel]: pokemon_changes/073/
+[Electrode]: pokemon_changes/101/
+[Staryu]: pokemon_changes/120/
+[Starmie]: pokemon_changes/121/
+[Mr. Mime]: pokemon_changes/122/
+[Electabuzz]: pokemon_changes/125/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Ditto]: pokemon_changes/132/
+[Forretress]: pokemon_changes/205/
+[Heracross]: pokemon_changes/214/
+[Beautifly]: pokemon_changes/267/
+[Dustox]: pokemon_changes/269/
+[Wormadam]: pokemon_changes/413/
+[Mothim]: pokemon_changes/414/
+[Combee]: pokemon_changes/415/
+[Vespiquen]: pokemon_changes/416/
+[Floatzel]: pokemon_changes/419/
+[Shellos]: pokemon_changes/422/
+[Gastrodon]: pokemon_changes/423/
+[Purugly]: pokemon_changes/432/
+[Chatot]: pokemon_changes/441/
+[Finneon]: pokemon_changes/456/
+[Lumineon]: pokemon_changes/457/

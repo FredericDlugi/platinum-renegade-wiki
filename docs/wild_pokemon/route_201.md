@@ -17,11 +17,11 @@ Poké Radar | ![][084]  [Doduo] (22%)
 [396]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png "Starly"
 [399]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png "Bidoof"
 [401]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/401.png "Kricketot"
-[Pidgey]: /pokemon_changes/016.md
-[Nidoran♀]: /pokemon_changes/029.md
-[Nidoran♂]: /pokemon_changes/032.md
-[Doduo]: /pokemon_changes/084.md
-[Hoothoot]: /pokemon_changes/163.md
-[Starly]: /pokemon_changes/396.md
-[Bidoof]: /pokemon_changes/399.md
-[Kricketot]: /pokemon_changes/401.md
+[Pidgey]: pokemon_changes/016/
+[Nidoran♀]: pokemon_changes/029/
+[Nidoran♂]: pokemon_changes/032/
+[Doduo]: pokemon_changes/084/
+[Hoothoot]: pokemon_changes/163/
+[Starly]: pokemon_changes/396/
+[Bidoof]: pokemon_changes/399/
+[Kricketot]: pokemon_changes/401/

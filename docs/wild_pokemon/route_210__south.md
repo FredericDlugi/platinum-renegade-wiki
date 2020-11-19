@@ -27,20 +27,20 @@ Honey Tree | ![][415]  [Combee] (30%) ![][204]  [Pineco] (20%) ![][266]  [Silcoo
 [413]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/413.png "Wormadam"
 [414]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/414.png "Mothim"
 [415]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/415.png "Combee"
-[Pidgeotto]: /pokemon_changes/017.md
-[Rapidash]: /pokemon_changes/078.md
-[Scyther]: /pokemon_changes/123.md
-[Pinsir]: /pokemon_changes/127.md
-[Tauros]: /pokemon_changes/128.md
-[Noctowl]: /pokemon_changes/164.md
-[Pineco]: /pokemon_changes/204.md
-[Heracross]: /pokemon_changes/214.md
-[Miltank]: /pokemon_changes/241.md
-[Silcoon]: /pokemon_changes/266.md
-[Cascoon]: /pokemon_changes/268.md
-[Nuzleaf]: /pokemon_changes/274.md
-[Kecleon]: /pokemon_changes/352.md
-[Kricketune]: /pokemon_changes/402.md
-[Wormadam]: /pokemon_changes/413.md
-[Mothim]: /pokemon_changes/414.md
-[Combee]: /pokemon_changes/415.md
+[Pidgeotto]: pokemon_changes/017/
+[Rapidash]: pokemon_changes/078/
+[Scyther]: pokemon_changes/123/
+[Pinsir]: pokemon_changes/127/
+[Tauros]: pokemon_changes/128/
+[Noctowl]: pokemon_changes/164/
+[Pineco]: pokemon_changes/204/
+[Heracross]: pokemon_changes/214/
+[Miltank]: pokemon_changes/241/
+[Silcoon]: pokemon_changes/266/
+[Cascoon]: pokemon_changes/268/
+[Nuzleaf]: pokemon_changes/274/
+[Kecleon]: pokemon_changes/352/
+[Kricketune]: pokemon_changes/402/
+[Wormadam]: pokemon_changes/413/
+[Mothim]: pokemon_changes/414/
+[Combee]: pokemon_changes/415/

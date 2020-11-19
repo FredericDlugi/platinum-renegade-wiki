@@ -23,12 +23,12 @@ Super Rod  | ![][130]  [Gyarados] (100%)
 [284]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png "Masquerain"
 [397]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/397.png "Staravia"
 [400]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png "Bibarel"
-[Golduck]: /pokemon_changes/055.md
-[Lickitung]: /pokemon_changes/108.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Wobbuffet]: /pokemon_changes/202.md
-[Surskit]: /pokemon_changes/283.md
-[Masquerain]: /pokemon_changes/284.md
-[Staravia]: /pokemon_changes/397.md
-[Bibarel]: /pokemon_changes/400.md
+[Golduck]: pokemon_changes/055/
+[Lickitung]: pokemon_changes/108/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Wobbuffet]: pokemon_changes/202/
+[Surskit]: pokemon_changes/283/
+[Masquerain]: pokemon_changes/284/
+[Staravia]: pokemon_changes/397/
+[Bibarel]: pokemon_changes/400/

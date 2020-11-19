@@ -33,22 +33,22 @@ Honey Tree | ![][397]  [Staravia] (30%) ![][017]  [Pidgeotto] (20%) ![][164]  [N
 [432]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png "Purugly"
 [438]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/438.png "Bonsly"
 [439]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png "Mime Jr."
-[Pidgeotto]: /pokemon_changes/017.md
-[Vulpix]: /pokemon_changes/037.md
-[Meowth]: /pokemon_changes/052.md
-[Psyduck]: /pokemon_changes/054.md
-[Golduck]: /pokemon_changes/055.md
-[Farfetch'd]: /pokemon_changes/083.md
-[Chansey]: /pokemon_changes/113.md
-[Goldeen]: /pokemon_changes/118.md
-[Seaking]: /pokemon_changes/119.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Noctowl]: /pokemon_changes/164.md
-[Snubbull]: /pokemon_changes/209.md
-[Swellow]: /pokemon_changes/277.md
-[Staravia]: /pokemon_changes/397.md
-[Glameow]: /pokemon_changes/431.md
-[Purugly]: /pokemon_changes/432.md
-[Bonsly]: /pokemon_changes/438.md
-[Mime Jr.]: /pokemon_changes/439.md
+[Pidgeotto]: pokemon_changes/017/
+[Vulpix]: pokemon_changes/037/
+[Meowth]: pokemon_changes/052/
+[Psyduck]: pokemon_changes/054/
+[Golduck]: pokemon_changes/055/
+[Farfetch'd]: pokemon_changes/083/
+[Chansey]: pokemon_changes/113/
+[Goldeen]: pokemon_changes/118/
+[Seaking]: pokemon_changes/119/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Noctowl]: pokemon_changes/164/
+[Snubbull]: pokemon_changes/209/
+[Swellow]: pokemon_changes/277/
+[Staravia]: pokemon_changes/397/
+[Glameow]: pokemon_changes/431/
+[Purugly]: pokemon_changes/432/
+[Bonsly]: pokemon_changes/438/
+[Mime Jr.]: pokemon_changes/439/

@@ -22,13 +22,13 @@ Super Rod  | ![][130]  [Gyarados] (100%)
 [303]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/303.png "Mawile"
 [419]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png "Floatzel"
 [444]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/444.png "Gabite"
-[Golbat]: /pokemon_changes/042.md
-[Graveler]: /pokemon_changes/075.md
-[Dewgong]: /pokemon_changes/087.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Azumarill]: /pokemon_changes/184.md
-[Sableye]: /pokemon_changes/302.md
-[Mawile]: /pokemon_changes/303.md
-[Floatzel]: /pokemon_changes/419.md
-[Gabite]: /pokemon_changes/444.md
+[Golbat]: pokemon_changes/042/
+[Graveler]: pokemon_changes/075/
+[Dewgong]: pokemon_changes/087/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Azumarill]: pokemon_changes/184/
+[Sableye]: pokemon_changes/302/
+[Mawile]: pokemon_changes/303/
+[Floatzel]: pokemon_changes/419/
+[Gabite]: pokemon_changes/444/

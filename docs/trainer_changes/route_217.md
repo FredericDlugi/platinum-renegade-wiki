@@ -46,25 +46,25 @@ Ace Trainer Olivia (C)     | ![][275]  [Shiftry] Lv. 72  ![][334]  [Altaria] Lv.
 [471]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png "Glaceon"
 [473]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png "Mamoswine"
 [478]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/478.png "Froslass"
-[Venusaur]: /pokemon_changes/003.md
-[Machamp]: /pokemon_changes/068.md
-[Dewgong]: /pokemon_changes/087.md
-[Jynx]: /pokemon_changes/124.md
-[Crobat]: /pokemon_changes/169.md
-[Swinub]: /pokemon_changes/220.md
-[Piloswine]: /pokemon_changes/221.md
-[Kingdra]: /pokemon_changes/230.md
-[Smoochum]: /pokemon_changes/238.md
-[Blissey]: /pokemon_changes/242.md
-[Shiftry]: /pokemon_changes/275.md
-[Altaria]: /pokemon_changes/334.md
-[Snorunt]: /pokemon_changes/361.md
-[Lucario]: /pokemon_changes/448.md
-[Drapion]: /pokemon_changes/452.md
-[Toxicroak]: /pokemon_changes/454.md
-[Snover]: /pokemon_changes/459.md
-[Abomasnow]: /pokemon_changes/460.md
-[Magmortar]: /pokemon_changes/467.md
-[Glaceon]: /pokemon_changes/471.md
-[Mamoswine]: /pokemon_changes/473.md
-[Froslass]: /pokemon_changes/478.md
+[Venusaur]: pokemon_changes/003/
+[Machamp]: pokemon_changes/068/
+[Dewgong]: pokemon_changes/087/
+[Jynx]: pokemon_changes/124/
+[Crobat]: pokemon_changes/169/
+[Swinub]: pokemon_changes/220/
+[Piloswine]: pokemon_changes/221/
+[Kingdra]: pokemon_changes/230/
+[Smoochum]: pokemon_changes/238/
+[Blissey]: pokemon_changes/242/
+[Shiftry]: pokemon_changes/275/
+[Altaria]: pokemon_changes/334/
+[Snorunt]: pokemon_changes/361/
+[Lucario]: pokemon_changes/448/
+[Drapion]: pokemon_changes/452/
+[Toxicroak]: pokemon_changes/454/
+[Snover]: pokemon_changes/459/
+[Abomasnow]: pokemon_changes/460/
+[Magmortar]: pokemon_changes/467/
+[Glaceon]: pokemon_changes/471/
+[Mamoswine]: pokemon_changes/473/
+[Froslass]: pokemon_changes/478/

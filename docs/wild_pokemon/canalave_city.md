@@ -19,13 +19,13 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][457]  [Lumineon] (30%) ![][121]  [St
 [423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
 [456]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/456.png "Finneon"
 [457]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png "Lumineon"
-[Tentacool]: /pokemon_changes/072.md
-[Tentacruel]: /pokemon_changes/073.md
-[Staryu]: /pokemon_changes/120.md
-[Starmie]: /pokemon_changes/121.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Shellos]: /pokemon_changes/422.md
-[Gastrodon]: /pokemon_changes/423.md
-[Finneon]: /pokemon_changes/456.md
-[Lumineon]: /pokemon_changes/457.md
+[Tentacool]: pokemon_changes/072/
+[Tentacruel]: pokemon_changes/073/
+[Staryu]: pokemon_changes/120/
+[Starmie]: pokemon_changes/121/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Shellos]: pokemon_changes/422/
+[Gastrodon]: pokemon_changes/423/
+[Finneon]: pokemon_changes/456/
+[Lumineon]: pokemon_changes/457/

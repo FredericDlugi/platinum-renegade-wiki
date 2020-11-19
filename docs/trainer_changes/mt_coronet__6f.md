@@ -12,9 +12,9 @@ Galactic Grunt             | ![][168]  [Ariados] Lv. 55  ![][053]  [Persian] Lv.
 [205]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png "Forretress"
 [229]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png "Houndoom"
 [469]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/469.png "Yanmega"
-[Golbat]: /pokemon_changes/042.md
-[Persian]: /pokemon_changes/053.md
-[Ariados]: /pokemon_changes/168.md
-[Forretress]: /pokemon_changes/205.md
-[Houndoom]: /pokemon_changes/229.md
-[Yanmega]: /pokemon_changes/469.md
+[Golbat]: pokemon_changes/042/
+[Persian]: pokemon_changes/053/
+[Ariados]: pokemon_changes/168/
+[Forretress]: pokemon_changes/205/
+[Houndoom]: pokemon_changes/229/
+[Yanmega]: pokemon_changes/469/

@@ -28,18 +28,18 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][370]  [Luvdisc] (30%) ![][222]  [Cor
 [370]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/370.png "Luvdisc"
 [423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
 [441]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png "Chatot"
-[Gloom]: /pokemon_changes/044.md
-[Weepinbell]: /pokemon_changes/070.md
-[Tentacruel]: /pokemon_changes/073.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Xatu]: /pokemon_changes/178.md
-[Shuckle]: /pokemon_changes/213.md
-[Corsola]: /pokemon_changes/222.md
-[Beautifly]: /pokemon_changes/267.md
-[Dustox]: /pokemon_changes/269.md
-[Pelipper]: /pokemon_changes/279.md
-[Roselia]: /pokemon_changes/315.md
-[Luvdisc]: /pokemon_changes/370.md
-[Gastrodon]: /pokemon_changes/423.md
-[Chatot]: /pokemon_changes/441.md
+[Gloom]: pokemon_changes/044/
+[Weepinbell]: pokemon_changes/070/
+[Tentacruel]: pokemon_changes/073/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Xatu]: pokemon_changes/178/
+[Shuckle]: pokemon_changes/213/
+[Corsola]: pokemon_changes/222/
+[Beautifly]: pokemon_changes/267/
+[Dustox]: pokemon_changes/269/
+[Pelipper]: pokemon_changes/279/
+[Roselia]: pokemon_changes/315/
+[Luvdisc]: pokemon_changes/370/
+[Gastrodon]: pokemon_changes/423/
+[Chatot]: pokemon_changes/441/

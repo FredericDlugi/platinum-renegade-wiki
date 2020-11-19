@@ -43,21 +43,21 @@ Tuber Chelsea (C)          | ![][184]  [Azumarill] Lv. 69
 [432]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png "Purugly"
 [454]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png "Toxicroak"
 [457]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png "Lumineon"
-[Persian]: /pokemon_changes/053.md
-[Golduck]: /pokemon_changes/055.md
-[Horsea]: /pokemon_changes/116.md
-[Gyarados]: /pokemon_changes/130.md
-[Azumarill]: /pokemon_changes/184.md
-[Politoed]: /pokemon_changes/186.md
-[Quagsire]: /pokemon_changes/195.md
-[Corsola]: /pokemon_changes/222.md
-[Remoraid]: /pokemon_changes/223.md
-[Mantine]: /pokemon_changes/226.md
-[Pelipper]: /pokemon_changes/279.md
-[Delcatty]: /pokemon_changes/301.md
-[Carvanha]: /pokemon_changes/318.md
-[Sharpedo]: /pokemon_changes/319.md
-[Gastrodon]: /pokemon_changes/423.md
-[Purugly]: /pokemon_changes/432.md
-[Toxicroak]: /pokemon_changes/454.md
-[Lumineon]: /pokemon_changes/457.md
+[Persian]: pokemon_changes/053/
+[Golduck]: pokemon_changes/055/
+[Horsea]: pokemon_changes/116/
+[Gyarados]: pokemon_changes/130/
+[Azumarill]: pokemon_changes/184/
+[Politoed]: pokemon_changes/186/
+[Quagsire]: pokemon_changes/195/
+[Corsola]: pokemon_changes/222/
+[Remoraid]: pokemon_changes/223/
+[Mantine]: pokemon_changes/226/
+[Pelipper]: pokemon_changes/279/
+[Delcatty]: pokemon_changes/301/
+[Carvanha]: pokemon_changes/318/
+[Sharpedo]: pokemon_changes/319/
+[Gastrodon]: pokemon_changes/423/
+[Purugly]: pokemon_changes/432/
+[Toxicroak]: pokemon_changes/454/
+[Lumineon]: pokemon_changes/457/

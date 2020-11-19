@@ -24,14 +24,14 @@ Commander Saturn   | Item         | Nature  | Ability       | Moves
 [435]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png "Skuntank"
 [437]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png "Bronzong"
 [454]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png "Toxicroak"
-[Alakazam]: /pokemon_changes/065.md
-[Rhydon]: /pokemon_changes/112.md
-[Octillery]: /pokemon_changes/224.md
-[Houndoom]: /pokemon_changes/229.md
-[Purugly]: /pokemon_changes/432.md
-[Skuntank]: /pokemon_changes/435.md
-[Bronzong]: /pokemon_changes/437.md
-[Toxicroak]: /pokemon_changes/454.md
+[Alakazam]: pokemon_changes/065/
+[Rhydon]: pokemon_changes/112/
+[Octillery]: pokemon_changes/224/
+[Houndoom]: pokemon_changes/229/
+[Purugly]: pokemon_changes/432/
+[Skuntank]: pokemon_changes/435/
+[Bronzong]: pokemon_changes/437/
+[Toxicroak]: pokemon_changes/454/
 [bright-powder]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bright-powder.png
 [expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
 [wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png

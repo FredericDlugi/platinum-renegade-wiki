@@ -49,24 +49,24 @@ Skier Andrea (C)           | ![][460]  [Abomasnow] Lv. 72
 [459]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/459.png "Snover"
 [460]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460.png "Abomasnow"
 [473]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png "Mamoswine"
-[Poliwrath]: /pokemon_changes/062.md
-[Machamp]: /pokemon_changes/068.md
-[Mr. Mime]: /pokemon_changes/122.md
-[Scyther]: /pokemon_changes/123.md
-[Lapras]: /pokemon_changes/131.md
-[Porygon]: /pokemon_changes/137.md
-[Quilava]: /pokemon_changes/156.md
-[Togetic]: /pokemon_changes/176.md
-[Sudowoodo]: /pokemon_changes/185.md
-[Quagsire]: /pokemon_changes/195.md
-[Swinub]: /pokemon_changes/220.md
-[Piloswine]: /pokemon_changes/221.md
-[Nuzleaf]: /pokemon_changes/274.md
-[Swellow]: /pokemon_changes/277.md
-[Vigoroth]: /pokemon_changes/288.md
-[Hariyama]: /pokemon_changes/297.md
-[Snorunt]: /pokemon_changes/361.md
-[Glalie]: /pokemon_changes/362.md
-[Snover]: /pokemon_changes/459.md
-[Abomasnow]: /pokemon_changes/460.md
-[Mamoswine]: /pokemon_changes/473.md
+[Poliwrath]: pokemon_changes/062/
+[Machamp]: pokemon_changes/068/
+[Mr. Mime]: pokemon_changes/122/
+[Scyther]: pokemon_changes/123/
+[Lapras]: pokemon_changes/131/
+[Porygon]: pokemon_changes/137/
+[Quilava]: pokemon_changes/156/
+[Togetic]: pokemon_changes/176/
+[Sudowoodo]: pokemon_changes/185/
+[Quagsire]: pokemon_changes/195/
+[Swinub]: pokemon_changes/220/
+[Piloswine]: pokemon_changes/221/
+[Nuzleaf]: pokemon_changes/274/
+[Swellow]: pokemon_changes/277/
+[Vigoroth]: pokemon_changes/288/
+[Hariyama]: pokemon_changes/297/
+[Snorunt]: pokemon_changes/361/
+[Glalie]: pokemon_changes/362/
+[Snover]: pokemon_changes/459/
+[Abomasnow]: pokemon_changes/460/
+[Mamoswine]: pokemon_changes/473/

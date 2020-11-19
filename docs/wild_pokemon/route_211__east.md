@@ -22,15 +22,15 @@ Honey Tree | ![][190]  [Aipom] (30%) ![][287]  [Slakoth] (20%) ![][011]  [Metapo
 [333]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png "Swablu"
 [371]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/371.png "Bagon"
 [446]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png "Munchlax"
-[Metapod]: /pokemon_changes/011.md
-[Kakuna]: /pokemon_changes/014.md
-[Machop]: /pokemon_changes/066.md
-[Natu]: /pokemon_changes/177.md
-[Aipom]: /pokemon_changes/190.md
-[Teddiursa]: /pokemon_changes/216.md
-[Tyrogue]: /pokemon_changes/236.md
-[Slakoth]: /pokemon_changes/287.md
-[Meditite]: /pokemon_changes/307.md
-[Swablu]: /pokemon_changes/333.md
-[Bagon]: /pokemon_changes/371.md
-[Munchlax]: /pokemon_changes/446.md
+[Metapod]: pokemon_changes/011/
+[Kakuna]: pokemon_changes/014/
+[Machop]: pokemon_changes/066/
+[Natu]: pokemon_changes/177/
+[Aipom]: pokemon_changes/190/
+[Teddiursa]: pokemon_changes/216/
+[Tyrogue]: pokemon_changes/236/
+[Slakoth]: pokemon_changes/287/
+[Meditite]: pokemon_changes/307/
+[Swablu]: pokemon_changes/333/
+[Bagon]: pokemon_changes/371/
+[Munchlax]: pokemon_changes/446/

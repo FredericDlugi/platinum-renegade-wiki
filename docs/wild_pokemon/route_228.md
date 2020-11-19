@@ -25,16 +25,16 @@ Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
 [375]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png "Metang"
 [444]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/444.png "Gabite"
 [450]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/450.png "Hippowdon"
-[Sandslash]: /pokemon_changes/028.md
-[Dugtrio]: /pokemon_changes/051.md
-[Poliwhirl]: /pokemon_changes/061.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Vibrava]: /pokemon_changes/329.md
-[Cacturne]: /pokemon_changes/332.md
-[Barboach]: /pokemon_changes/339.md
-[Whiscash]: /pokemon_changes/340.md
-[Claydol]: /pokemon_changes/344.md
-[Metang]: /pokemon_changes/375.md
-[Gabite]: /pokemon_changes/444.md
-[Hippowdon]: /pokemon_changes/450.md
+[Sandslash]: pokemon_changes/028/
+[Dugtrio]: pokemon_changes/051/
+[Poliwhirl]: pokemon_changes/061/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Vibrava]: pokemon_changes/329/
+[Cacturne]: pokemon_changes/332/
+[Barboach]: pokemon_changes/339/
+[Whiscash]: pokemon_changes/340/
+[Claydol]: pokemon_changes/344/
+[Metang]: pokemon_changes/375/
+[Gabite]: pokemon_changes/444/
+[Hippowdon]: pokemon_changes/450/

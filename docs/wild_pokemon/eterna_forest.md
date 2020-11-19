@@ -19,13 +19,13 @@ Poké Radar | ![][267]  [Beautifly] (11%) ![][269]  [Dustox] (11%)
 [287]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/287.png "Slakoth"
 [290]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/290.png "Nincada"
 [427]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/427.png "Buneary"
-[Paras]: /pokemon_changes/046.md
-[Murkrow]: /pokemon_changes/198.md
-[Misdreavus]: /pokemon_changes/200.md
-[Beautifly]: /pokemon_changes/267.md
-[Dustox]: /pokemon_changes/269.md
-[Taillow]: /pokemon_changes/276.md
-[Shroomish]: /pokemon_changes/285.md
-[Slakoth]: /pokemon_changes/287.md
-[Nincada]: /pokemon_changes/290.md
-[Buneary]: /pokemon_changes/427.md
+[Paras]: pokemon_changes/046/
+[Murkrow]: pokemon_changes/198/
+[Misdreavus]: pokemon_changes/200/
+[Beautifly]: pokemon_changes/267/
+[Dustox]: pokemon_changes/269/
+[Taillow]: pokemon_changes/276/
+[Shroomish]: pokemon_changes/285/
+[Slakoth]: pokemon_changes/287/
+[Nincada]: pokemon_changes/290/
+[Buneary]: pokemon_changes/427/

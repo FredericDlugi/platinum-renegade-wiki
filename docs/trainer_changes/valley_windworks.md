@@ -27,15 +27,15 @@ Commander Mars   | Item          | Nature  | Ability       | Moves
 [316]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/316.png "Gulpin"
 [432]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png "Purugly"
 [436]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/436.png "Bronzor"
-[Metapod]: /pokemon_changes/011.md
-[Kakuna]: /pokemon_changes/014.md
-[Zubat]: /pokemon_changes/041.md
-[Grimer]: /pokemon_changes/088.md
-[Koffing]: /pokemon_changes/109.md
-[Yanma]: /pokemon_changes/193.md
-[Pineco]: /pokemon_changes/204.md
-[Houndour]: /pokemon_changes/228.md
-[Poochyena]: /pokemon_changes/261.md
-[Gulpin]: /pokemon_changes/316.md
-[Purugly]: /pokemon_changes/432.md
-[Bronzor]: /pokemon_changes/436.md
+[Metapod]: pokemon_changes/011/
+[Kakuna]: pokemon_changes/014/
+[Zubat]: pokemon_changes/041/
+[Grimer]: pokemon_changes/088/
+[Koffing]: pokemon_changes/109/
+[Yanma]: pokemon_changes/193/
+[Pineco]: pokemon_changes/204/
+[Houndour]: pokemon_changes/228/
+[Poochyena]: pokemon_changes/261/
+[Gulpin]: pokemon_changes/316/
+[Purugly]: pokemon_changes/432/
+[Bronzor]: pokemon_changes/436/

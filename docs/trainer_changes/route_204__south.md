@@ -28,16 +28,16 @@ Lass Samantha (C)          | ![][405]  [Luxray] Lv. 70  ![][407]  [Roserade] Lv.
 [405]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png "Luxray"
 [406]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/406.png "Budew"
 [407]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/407.png "Roserade"
-[Pidgey]: /pokemon_changes/016.md
-[Nidoran♀]: /pokemon_changes/029.md
-[Oddish]: /pokemon_changes/043.md
-[Bellsprout]: /pokemon_changes/069.md
-[Weepinbell]: /pokemon_changes/070.md
-[Victreebel]: /pokemon_changes/071.md
-[Magikarp]: /pokemon_changes/129.md
-[Roselia]: /pokemon_changes/315.md
-[Shinx]: /pokemon_changes/403.md
-[Luxio]: /pokemon_changes/404.md
-[Luxray]: /pokemon_changes/405.md
-[Budew]: /pokemon_changes/406.md
-[Roserade]: /pokemon_changes/407.md
+[Pidgey]: pokemon_changes/016/
+[Nidoran♀]: pokemon_changes/029/
+[Oddish]: pokemon_changes/043/
+[Bellsprout]: pokemon_changes/069/
+[Weepinbell]: pokemon_changes/070/
+[Victreebel]: pokemon_changes/071/
+[Magikarp]: pokemon_changes/129/
+[Roselia]: pokemon_changes/315/
+[Shinx]: pokemon_changes/403/
+[Luxio]: pokemon_changes/404/
+[Luxray]: pokemon_changes/405/
+[Budew]: pokemon_changes/406/
+[Roserade]: pokemon_changes/407/

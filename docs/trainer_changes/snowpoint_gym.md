@@ -38,24 +38,24 @@ Leader Candice     | Item             | Nature  | Ability       | Moves
 [471]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png "Glaceon"
 [473]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png "Mamoswine"
 [478]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/478.png "Froslass"
-[Seel]: /pokemon_changes/086.md
-[Dewgong]: /pokemon_changes/087.md
-[Cloyster]: /pokemon_changes/091.md
-[Jynx]: /pokemon_changes/124.md
-[Lapras]: /pokemon_changes/131.md
-[Swinub]: /pokemon_changes/220.md
-[Piloswine]: /pokemon_changes/221.md
-[Delibird]: /pokemon_changes/225.md
-[Snorunt]: /pokemon_changes/361.md
-[Glalie]: /pokemon_changes/362.md
-[Spheal]: /pokemon_changes/363.md
-[Sealeo]: /pokemon_changes/364.md
-[Walrein]: /pokemon_changes/365.md
-[Abomasnow]: /pokemon_changes/460.md
-[Weavile]: /pokemon_changes/461.md
-[Glaceon]: /pokemon_changes/471.md
-[Mamoswine]: /pokemon_changes/473.md
-[Froslass]: /pokemon_changes/478.md
+[Seel]: pokemon_changes/086/
+[Dewgong]: pokemon_changes/087/
+[Cloyster]: pokemon_changes/091/
+[Jynx]: pokemon_changes/124/
+[Lapras]: pokemon_changes/131/
+[Swinub]: pokemon_changes/220/
+[Piloswine]: pokemon_changes/221/
+[Delibird]: pokemon_changes/225/
+[Snorunt]: pokemon_changes/361/
+[Glalie]: pokemon_changes/362/
+[Spheal]: pokemon_changes/363/
+[Sealeo]: pokemon_changes/364/
+[Walrein]: pokemon_changes/365/
+[Abomasnow]: pokemon_changes/460/
+[Weavile]: pokemon_changes/461/
+[Glaceon]: pokemon_changes/471/
+[Mamoswine]: pokemon_changes/473/
+[Froslass]: pokemon_changes/478/
 [bright-powder]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bright-powder.png
 [expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
 [focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png

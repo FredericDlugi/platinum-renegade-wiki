@@ -17,11 +17,11 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][061]  [Poliwhirl] (30%) ![][148]  [D
 [130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
 [147]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png "Dratini"
 [148]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png "Dragonair"
-[Psyduck]: /pokemon_changes/054.md
-[Golduck]: /pokemon_changes/055.md
-[Poliwag]: /pokemon_changes/060.md
-[Poliwhirl]: /pokemon_changes/061.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Dratini]: /pokemon_changes/147.md
-[Dragonair]: /pokemon_changes/148.md
+[Psyduck]: pokemon_changes/054/
+[Golduck]: pokemon_changes/055/
+[Poliwag]: pokemon_changes/060/
+[Poliwhirl]: pokemon_changes/061/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Dratini]: pokemon_changes/147/
+[Dragonair]: pokemon_changes/148/

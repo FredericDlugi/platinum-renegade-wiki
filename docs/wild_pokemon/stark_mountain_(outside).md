@@ -16,11 +16,11 @@ Night      | ![][022]  [Fearow] (20%) ![][112]  [Rhydon] (20%) ![][323]  [Cameru
 [227]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png "Skarmory"
 [323]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/323.png "Camerupt"
 [324]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png "Torkoal"
-[Fearow]: /pokemon_changes/022.md
-[Machoke]: /pokemon_changes/067.md
-[Rhydon]: /pokemon_changes/112.md
-[Magmar]: /pokemon_changes/126.md
-[Gligar]: /pokemon_changes/207.md
-[Skarmory]: /pokemon_changes/227.md
-[Camerupt]: /pokemon_changes/323.md
-[Torkoal]: /pokemon_changes/324.md
+[Fearow]: pokemon_changes/022/
+[Machoke]: pokemon_changes/067/
+[Rhydon]: pokemon_changes/112/
+[Magmar]: pokemon_changes/126/
+[Gligar]: pokemon_changes/207/
+[Skarmory]: pokemon_changes/227/
+[Camerupt]: pokemon_changes/323/
+[Torkoal]: pokemon_changes/324/

@@ -41,21 +41,21 @@ Ace Trainer Maya (S)       | ![][463]  [Lickilicky] Lv. 77  ![][282]  [Gardevoir
 [426]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/426.png "Drifblim"
 [463]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/463.png "Lickilicky"
 [472]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/472.png "Gliscor"
-[Primeape]: /pokemon_changes/057.md
-[Machoke]: /pokemon_changes/067.md
-[Marowak]: /pokemon_changes/105.md
-[Hitmonlee]: /pokemon_changes/106.md
-[Hitmonchan]: /pokemon_changes/107.md
-[Lickitung]: /pokemon_changes/108.md
-[Gyarados]: /pokemon_changes/130.md
-[Gligar]: /pokemon_changes/207.md
-[Hitmontop]: /pokemon_changes/237.md
-[Combusken]: /pokemon_changes/256.md
-[Gardevoir]: /pokemon_changes/282.md
-[Staraptor]: /pokemon_changes/398.md
-[Luxray]: /pokemon_changes/405.md
-[Roserade]: /pokemon_changes/407.md
-[Rampardos]: /pokemon_changes/409.md
-[Drifblim]: /pokemon_changes/426.md
-[Lickilicky]: /pokemon_changes/463.md
-[Gliscor]: /pokemon_changes/472.md
+[Primeape]: pokemon_changes/057/
+[Machoke]: pokemon_changes/067/
+[Marowak]: pokemon_changes/105/
+[Hitmonlee]: pokemon_changes/106/
+[Hitmonchan]: pokemon_changes/107/
+[Lickitung]: pokemon_changes/108/
+[Gyarados]: pokemon_changes/130/
+[Gligar]: pokemon_changes/207/
+[Hitmontop]: pokemon_changes/237/
+[Combusken]: pokemon_changes/256/
+[Gardevoir]: pokemon_changes/282/
+[Staraptor]: pokemon_changes/398/
+[Luxray]: pokemon_changes/405/
+[Roserade]: pokemon_changes/407/
+[Rampardos]: pokemon_changes/409/
+[Drifblim]: pokemon_changes/426/
+[Lickilicky]: pokemon_changes/463/
+[Gliscor]: pokemon_changes/472/

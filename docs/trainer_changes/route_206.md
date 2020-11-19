@@ -43,22 +43,22 @@ Cyclist Kayla (C)          | ![][101]  [Electrode] Lv. 70  ![][462]  [Magnezone]
 [324]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png "Torkoal"
 [404]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/404.png "Luxio"
 [462]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png "Magnezone"
-[Pidgeotto]: /pokemon_changes/017.md
-[Pikachu]: /pokemon_changes/025.md
-[Ponyta]: /pokemon_changes/077.md
-[Magnemite]: /pokemon_changes/081.md
-[Magneton]: /pokemon_changes/082.md
-[Farfetch'd]: /pokemon_changes/083.md
-[Doduo]: /pokemon_changes/084.md
-[Voltorb]: /pokemon_changes/100.md
-[Electrode]: /pokemon_changes/101.md
-[Jolteon]: /pokemon_changes/135.md
-[Pichu]: /pokemon_changes/172.md
-[Flaaffy]: /pokemon_changes/180.md
-[Taillow]: /pokemon_changes/276.md
-[Wingull]: /pokemon_changes/278.md
-[Electrike]: /pokemon_changes/309.md
-[Manectric]: /pokemon_changes/310.md
-[Torkoal]: /pokemon_changes/324.md
-[Luxio]: /pokemon_changes/404.md
-[Magnezone]: /pokemon_changes/462.md
+[Pidgeotto]: pokemon_changes/017/
+[Pikachu]: pokemon_changes/025/
+[Ponyta]: pokemon_changes/077/
+[Magnemite]: pokemon_changes/081/
+[Magneton]: pokemon_changes/082/
+[Farfetch'd]: pokemon_changes/083/
+[Doduo]: pokemon_changes/084/
+[Voltorb]: pokemon_changes/100/
+[Electrode]: pokemon_changes/101/
+[Jolteon]: pokemon_changes/135/
+[Pichu]: pokemon_changes/172/
+[Flaaffy]: pokemon_changes/180/
+[Taillow]: pokemon_changes/276/
+[Wingull]: pokemon_changes/278/
+[Electrike]: pokemon_changes/309/
+[Manectric]: pokemon_changes/310/
+[Torkoal]: pokemon_changes/324/
+[Luxio]: pokemon_changes/404/
+[Magnezone]: pokemon_changes/462/

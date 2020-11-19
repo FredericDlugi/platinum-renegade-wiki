@@ -23,16 +23,16 @@ Honey Tree | ![][190]  [Aipom] (30%) ![][288]  [Vigoroth] (20%) ![][011]  [Metap
 [288]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png "Vigoroth"
 [359]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359.png "Absol"
 [446]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png "Munchlax"
-[Metapod]: /pokemon_changes/011.md
-[Kakuna]: /pokemon_changes/014.md
-[Kadabra]: /pokemon_changes/064.md
-[Drowzee]: /pokemon_changes/096.md
-[Hypno]: /pokemon_changes/097.md
-[Lickitung]: /pokemon_changes/108.md
-[Marill]: /pokemon_changes/183.md
-[Aipom]: /pokemon_changes/190.md
-[Mightyena]: /pokemon_changes/262.md
-[Linoone]: /pokemon_changes/264.md
-[Vigoroth]: /pokemon_changes/288.md
-[Absol]: /pokemon_changes/359.md
-[Munchlax]: /pokemon_changes/446.md
+[Metapod]: pokemon_changes/011/
+[Kakuna]: pokemon_changes/014/
+[Kadabra]: pokemon_changes/064/
+[Drowzee]: pokemon_changes/096/
+[Hypno]: pokemon_changes/097/
+[Lickitung]: pokemon_changes/108/
+[Marill]: pokemon_changes/183/
+[Aipom]: pokemon_changes/190/
+[Mightyena]: pokemon_changes/262/
+[Linoone]: pokemon_changes/264/
+[Vigoroth]: pokemon_changes/288/
+[Absol]: pokemon_changes/359/
+[Munchlax]: pokemon_changes/446/

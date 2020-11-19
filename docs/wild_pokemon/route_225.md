@@ -25,16 +25,16 @@ Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
 [326]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/326.png "Grumpig"
 [339]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png "Barboach"
 [340]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png "Whiscash"
-[Raticate]: /pokemon_changes/020.md
-[Fearow]: /pokemon_changes/022.md
-[Golduck]: /pokemon_changes/055.md
-[Primeape]: /pokemon_changes/057.md
-[Poliwhirl]: /pokemon_changes/061.md
-[Machoke]: /pokemon_changes/067.md
-[Graveler]: /pokemon_changes/075.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Hariyama]: /pokemon_changes/297.md
-[Grumpig]: /pokemon_changes/326.md
-[Barboach]: /pokemon_changes/339.md
-[Whiscash]: /pokemon_changes/340.md
+[Raticate]: pokemon_changes/020/
+[Fearow]: pokemon_changes/022/
+[Golduck]: pokemon_changes/055/
+[Primeape]: pokemon_changes/057/
+[Poliwhirl]: pokemon_changes/061/
+[Machoke]: pokemon_changes/067/
+[Graveler]: pokemon_changes/075/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Hariyama]: pokemon_changes/297/
+[Grumpig]: pokemon_changes/326/
+[Barboach]: pokemon_changes/339/
+[Whiscash]: pokemon_changes/340/

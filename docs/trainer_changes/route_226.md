@@ -37,24 +37,24 @@ Ace Trainer Wyver  | Item         | Nature | Ability           | Moves
 [340]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png "Whiscash"
 [373]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png "Salamence"
 [445]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png "Garchomp"
-[Fearow]: /pokemon_changes/022.md
-[Dewgong]: /pokemon_changes/087.md
-[Hitmonlee]: /pokemon_changes/106.md
-[Hitmonchan]: /pokemon_changes/107.md
-[Dragonite]: /pokemon_changes/149.md
-[Xatu]: /pokemon_changes/178.md
-[Azumarill]: /pokemon_changes/184.md
-[Kingdra]: /pokemon_changes/230.md
-[Tyrogue]: /pokemon_changes/236.md
-[Hitmontop]: /pokemon_changes/237.md
-[Swellow]: /pokemon_changes/277.md
-[Sharpedo]: /pokemon_changes/319.md
-[Wailord]: /pokemon_changes/321.md
-[Flygon]: /pokemon_changes/330.md
-[Altaria]: /pokemon_changes/334.md
-[Whiscash]: /pokemon_changes/340.md
-[Salamence]: /pokemon_changes/373.md
-[Garchomp]: /pokemon_changes/445.md
+[Fearow]: pokemon_changes/022/
+[Dewgong]: pokemon_changes/087/
+[Hitmonlee]: pokemon_changes/106/
+[Hitmonchan]: pokemon_changes/107/
+[Dragonite]: pokemon_changes/149/
+[Xatu]: pokemon_changes/178/
+[Azumarill]: pokemon_changes/184/
+[Kingdra]: pokemon_changes/230/
+[Tyrogue]: pokemon_changes/236/
+[Hitmontop]: pokemon_changes/237/
+[Swellow]: pokemon_changes/277/
+[Sharpedo]: pokemon_changes/319/
+[Wailord]: pokemon_changes/321/
+[Flygon]: pokemon_changes/330/
+[Altaria]: pokemon_changes/334/
+[Whiscash]: pokemon_changes/340/
+[Salamence]: pokemon_changes/373/
+[Garchomp]: pokemon_changes/445/
 [choice-scarf]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-scarf.png
 [focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
 [white-herb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-herb.png

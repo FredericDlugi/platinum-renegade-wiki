@@ -20,12 +20,12 @@ Castle Valet Darach | Item         | Nature  | Ability       | Moves
 [395]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png "Empoleon"
 [398]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png "Staraptor"
 [475]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475.png "Gallade"
-[Alakazam]: /pokemon_changes/065.md
-[Entei]: /pokemon_changes/244.md
-[Metagross]: /pokemon_changes/376.md
-[Empoleon]: /pokemon_changes/395.md
-[Staraptor]: /pokemon_changes/398.md
-[Gallade]: /pokemon_changes/475.md
+[Alakazam]: pokemon_changes/065/
+[Entei]: pokemon_changes/244/
+[Metagross]: pokemon_changes/376/
+[Empoleon]: pokemon_changes/395/
+[Staraptor]: pokemon_changes/398/
+[Gallade]: pokemon_changes/475/
 [expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
 [scope-lens]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/scope-lens.png
 [kings-rock]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kings-rock.png

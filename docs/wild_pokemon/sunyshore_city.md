@@ -18,12 +18,12 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][099]  [Kingler] (30%) ![][121]  [Sta
 [130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
 [226]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png "Mantine"
 [279]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png "Pelipper"
-[Tentacruel]: /pokemon_changes/073.md
-[Krabby]: /pokemon_changes/098.md
-[Kingler]: /pokemon_changes/099.md
-[Staryu]: /pokemon_changes/120.md
-[Starmie]: /pokemon_changes/121.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Mantine]: /pokemon_changes/226.md
-[Pelipper]: /pokemon_changes/279.md
+[Tentacruel]: pokemon_changes/073/
+[Krabby]: pokemon_changes/098/
+[Kingler]: pokemon_changes/099/
+[Staryu]: pokemon_changes/120/
+[Starmie]: pokemon_changes/121/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Mantine]: pokemon_changes/226/
+[Pelipper]: pokemon_changes/279/

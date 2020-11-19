@@ -14,9 +14,9 @@ Night      | ![][074]  [Geodude] (25%) ![][041]  [Zubat] (25%) ![][293]  [Whismu
 [293]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/293.png "Whismur"
 [304]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/304.png "Aron"
 [328]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/328.png "Trapinch"
-[Zubat]: /pokemon_changes/041.md
-[Geodude]: /pokemon_changes/074.md
-[Onix]: /pokemon_changes/095.md
-[Whismur]: /pokemon_changes/293.md
-[Aron]: /pokemon_changes/304.md
-[Trapinch]: /pokemon_changes/328.md
+[Zubat]: pokemon_changes/041/
+[Geodude]: pokemon_changes/074/
+[Onix]: pokemon_changes/095/
+[Whismur]: pokemon_changes/293/
+[Aron]: pokemon_changes/304/
+[Trapinch]: pokemon_changes/328/

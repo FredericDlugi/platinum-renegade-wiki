@@ -28,14 +28,14 @@ Galactic Boss Cyrus | Item         | Nature  | Ability       | Moves
 [462]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png "Magnezone"
 [483]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/483.png "Dialga"
 [484]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/484.png "Palkia"
-[Gyarados]: /pokemon_changes/130.md
-[Crobat]: /pokemon_changes/169.md
-[Houndoom]: /pokemon_changes/229.md
-[Honchkrow]: /pokemon_changes/430.md
-[Weavile]: /pokemon_changes/461.md
-[Magnezone]: /pokemon_changes/462.md
-[Dialga]: /pokemon_changes/483.md
-[Palkia]: /pokemon_changes/484.md
+[Gyarados]: pokemon_changes/130/
+[Crobat]: pokemon_changes/169/
+[Houndoom]: pokemon_changes/229/
+[Honchkrow]: pokemon_changes/430/
+[Weavile]: pokemon_changes/461/
+[Magnezone]: pokemon_changes/462/
+[Dialga]: pokemon_changes/483/
+[Palkia]: pokemon_changes/484/
 [choice-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-band.png
 [focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
 [white-herb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-herb.png

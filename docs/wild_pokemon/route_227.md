@@ -24,15 +24,15 @@ Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
 [327]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/327.png "Spinda"
 [339]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png "Barboach"
 [340]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png "Whiscash"
-[Poliwhirl]: /pokemon_changes/061.md
-[Weezing]: /pokemon_changes/110.md
-[Rhydon]: /pokemon_changes/112.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Gligar]: /pokemon_changes/207.md
-[Skarmory]: /pokemon_changes/227.md
-[Camerupt]: /pokemon_changes/323.md
-[Torkoal]: /pokemon_changes/324.md
-[Spinda]: /pokemon_changes/327.md
-[Barboach]: /pokemon_changes/339.md
-[Whiscash]: /pokemon_changes/340.md
+[Poliwhirl]: pokemon_changes/061/
+[Weezing]: pokemon_changes/110/
+[Rhydon]: pokemon_changes/112/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Gligar]: pokemon_changes/207/
+[Skarmory]: pokemon_changes/227/
+[Camerupt]: pokemon_changes/323/
+[Torkoal]: pokemon_changes/324/
+[Spinda]: pokemon_changes/327/
+[Barboach]: pokemon_changes/339/
+[Whiscash]: pokemon_changes/340/

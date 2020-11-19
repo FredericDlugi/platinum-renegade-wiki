@@ -28,15 +28,15 @@ PKMN Trainer Barry| Item         | Nature  | Ability       | Moves
 [392]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png "Infernape"
 [395]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png "Empoleon"
 [398]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png "Staraptor"
-[Arcanine]: /pokemon_changes/059.md
-[Snorlax]: /pokemon_changes/143.md
-[Azumarill]: /pokemon_changes/184.md
-[Heracross]: /pokemon_changes/214.md
-[Breloom]: /pokemon_changes/286.md
-[Torterra]: /pokemon_changes/389.md
-[Infernape]: /pokemon_changes/392.md
-[Empoleon]: /pokemon_changes/395.md
-[Staraptor]: /pokemon_changes/398.md
+[Arcanine]: pokemon_changes/059/
+[Snorlax]: pokemon_changes/143/
+[Azumarill]: pokemon_changes/184/
+[Heracross]: pokemon_changes/214/
+[Breloom]: pokemon_changes/286/
+[Torterra]: pokemon_changes/389/
+[Infernape]: pokemon_changes/392/
+[Empoleon]: pokemon_changes/395/
+[Staraptor]: pokemon_changes/398/
 [expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
 [focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
 [leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png

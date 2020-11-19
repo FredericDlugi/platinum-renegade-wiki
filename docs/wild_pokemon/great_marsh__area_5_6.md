@@ -26,17 +26,17 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][340]  [Whiscash] (30%) ![][319]  [Sh
 [340]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png "Whiscash"
 [451]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/451.png "Skorupi"
 [452]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/452.png "Drapion"
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Wooper]: /pokemon_changes/194.md
-[Quagsire]: /pokemon_changes/195.md
-[Shroomish]: /pokemon_changes/285.md
-[Breloom]: /pokemon_changes/286.md
-[Gulpin]: /pokemon_changes/316.md
-[Swalot]: /pokemon_changes/317.md
-[Carvanha]: /pokemon_changes/318.md
-[Sharpedo]: /pokemon_changes/319.md
-[Barboach]: /pokemon_changes/339.md
-[Whiscash]: /pokemon_changes/340.md
-[Skorupi]: /pokemon_changes/451.md
-[Drapion]: /pokemon_changes/452.md
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Wooper]: pokemon_changes/194/
+[Quagsire]: pokemon_changes/195/
+[Shroomish]: pokemon_changes/285/
+[Breloom]: pokemon_changes/286/
+[Gulpin]: pokemon_changes/316/
+[Swalot]: pokemon_changes/317/
+[Carvanha]: pokemon_changes/318/
+[Sharpedo]: pokemon_changes/319/
+[Barboach]: pokemon_changes/339/
+[Whiscash]: pokemon_changes/340/
+[Skorupi]: pokemon_changes/451/
+[Drapion]: pokemon_changes/452/

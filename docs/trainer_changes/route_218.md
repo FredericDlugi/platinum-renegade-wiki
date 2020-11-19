@@ -24,12 +24,12 @@ Guitarist Tony (C)         | ![][402]  [Kricketune] Lv. 71  ![][295]  [Exploud] 
 [368]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/368.png "Gorebyss"
 [369]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/369.png "Relicanth"
 [402]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/402.png "Kricketune"
-[Omastar]: /pokemon_changes/139.md
-[Kabutops]: /pokemon_changes/141.md
-[Exploud]: /pokemon_changes/295.md
-[Crawdaunt]: /pokemon_changes/342.md
-[Clamperl]: /pokemon_changes/366.md
-[Huntail]: /pokemon_changes/367.md
-[Gorebyss]: /pokemon_changes/368.md
-[Relicanth]: /pokemon_changes/369.md
-[Kricketune]: /pokemon_changes/402.md
+[Omastar]: pokemon_changes/139/
+[Kabutops]: pokemon_changes/141/
+[Exploud]: pokemon_changes/295/
+[Crawdaunt]: pokemon_changes/342/
+[Clamperl]: pokemon_changes/366/
+[Huntail]: pokemon_changes/367/
+[Gorebyss]: pokemon_changes/368/
+[Relicanth]: pokemon_changes/369/
+[Kricketune]: pokemon_changes/402/

@@ -12,9 +12,9 @@ Ace Trainer Nephenee       | ![][242]  [Blissey] Lv. 54  ![][154]  [Meganium] Lv
 [214]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png "Heracross"
 [242]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png "Blissey"
 [248]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png "Tyranitar"
-[Meganium]: /pokemon_changes/154.md
-[Typhlosion]: /pokemon_changes/157.md
-[Feraligatr]: /pokemon_changes/160.md
-[Heracross]: /pokemon_changes/214.md
-[Blissey]: /pokemon_changes/242.md
-[Tyranitar]: /pokemon_changes/248.md
+[Meganium]: pokemon_changes/154/
+[Typhlosion]: pokemon_changes/157/
+[Feraligatr]: pokemon_changes/160/
+[Heracross]: pokemon_changes/214/
+[Blissey]: pokemon_changes/242/
+[Tyranitar]: pokemon_changes/248/

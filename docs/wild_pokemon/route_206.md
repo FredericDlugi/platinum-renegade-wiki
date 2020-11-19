@@ -24,17 +24,17 @@ Honey Tree | ![][415]  [Combee] (30%) ![][412]  [Burmy] (20%) ![][204]  [Pineco]
 [412]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/412.png "Burmy"
 [415]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/415.png "Combee"
 [434]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/434.png "Stunky"
-[Mankey]: /pokemon_changes/056.md
-[Pineco]: /pokemon_changes/204.md
-[Gligar]: /pokemon_changes/207.md
-[Heracross]: /pokemon_changes/214.md
-[Slugma]: /pokemon_changes/218.md
-[Magby]: /pokemon_changes/240.md
-[Silcoon]: /pokemon_changes/266.md
-[Cascoon]: /pokemon_changes/268.md
-[Numel]: /pokemon_changes/322.md
-[Torkoal]: /pokemon_changes/324.md
-[Spoink]: /pokemon_changes/325.md
-[Burmy]: /pokemon_changes/412.md
-[Combee]: /pokemon_changes/415.md
-[Stunky]: /pokemon_changes/434.md
+[Mankey]: pokemon_changes/056/
+[Pineco]: pokemon_changes/204/
+[Gligar]: pokemon_changes/207/
+[Heracross]: pokemon_changes/214/
+[Slugma]: pokemon_changes/218/
+[Magby]: pokemon_changes/240/
+[Silcoon]: pokemon_changes/266/
+[Cascoon]: pokemon_changes/268/
+[Numel]: pokemon_changes/322/
+[Torkoal]: pokemon_changes/324/
+[Spoink]: pokemon_changes/325/
+[Burmy]: pokemon_changes/412/
+[Combee]: pokemon_changes/415/
+[Stunky]: pokemon_changes/434/

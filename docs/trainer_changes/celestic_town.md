@@ -20,13 +20,13 @@ Galactic Boss Cyrus | Item         | Nature  | Ability       | Moves
 [430]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/430.png "Honchkrow"
 [461]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/461.png "Weavile"
 [462]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png "Magnezone"
-[Beedrill]: /pokemon_changes/015.md
-[Golbat]: /pokemon_changes/042.md
-[Crobat]: /pokemon_changes/169.md
-[Houndoom]: /pokemon_changes/229.md
-[Honchkrow]: /pokemon_changes/430.md
-[Weavile]: /pokemon_changes/461.md
-[Magnezone]: /pokemon_changes/462.md
+[Beedrill]: pokemon_changes/015/
+[Golbat]: pokemon_changes/042/
+[Crobat]: pokemon_changes/169/
+[Houndoom]: pokemon_changes/229/
+[Honchkrow]: pokemon_changes/430/
+[Weavile]: pokemon_changes/461/
+[Magnezone]: pokemon_changes/462/
 [expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
 [scope-lens]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/scope-lens.png
 [wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png

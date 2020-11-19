@@ -12,9 +12,9 @@ Galactic Grunt             | ![][033]  [Nidorino] Lv. 54  ![][452]  [Drapion] Lv
 [317]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/317.png "Swalot"
 [402]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/402.png "Kricketune"
 [452]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/452.png "Drapion"
-[Nidorina]: /pokemon_changes/030.md
-[Nidorino]: /pokemon_changes/033.md
-[Persian]: /pokemon_changes/053.md
-[Swalot]: /pokemon_changes/317.md
-[Kricketune]: /pokemon_changes/402.md
-[Drapion]: /pokemon_changes/452.md
+[Nidorina]: pokemon_changes/030/
+[Nidorino]: pokemon_changes/033/
+[Persian]: pokemon_changes/053/
+[Swalot]: pokemon_changes/317/
+[Kricketune]: pokemon_changes/402/
+[Drapion]: pokemon_changes/452/

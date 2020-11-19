@@ -36,24 +36,24 @@ Ace Trainer Gene   | Item         | Nature | Ability      | Moves
 [400]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png "Bibarel"
 [474]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/474.png "Porygon-Z"
 [477]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/477.png "Dusknoir"
-[Butterfree]: /pokemon_changes/012.md
-[Raichu]: /pokemon_changes/026.md
-[Vileplume]: /pokemon_changes/045.md
-[Dugtrio]: /pokemon_changes/051.md
-[Arcanine]: /pokemon_changes/059.md
-[Dodrio]: /pokemon_changes/085.md
-[Snorlax]: /pokemon_changes/143.md
-[Girafarig]: /pokemon_changes/203.md
-[Granbull]: /pokemon_changes/210.md
-[Stantler]: /pokemon_changes/234.md
-[Mightyena]: /pokemon_changes/262.md
-[Gardevoir]: /pokemon_changes/282.md
-[Spinda]: /pokemon_changes/327.md
-[Kecleon]: /pokemon_changes/352.md
-[Salamence]: /pokemon_changes/373.md
-[Bibarel]: /pokemon_changes/400.md
-[Porygon-Z]: /pokemon_changes/474.md
-[Dusknoir]: /pokemon_changes/477.md
+[Butterfree]: pokemon_changes/012/
+[Raichu]: pokemon_changes/026/
+[Vileplume]: pokemon_changes/045/
+[Dugtrio]: pokemon_changes/051/
+[Arcanine]: pokemon_changes/059/
+[Dodrio]: pokemon_changes/085/
+[Snorlax]: pokemon_changes/143/
+[Girafarig]: pokemon_changes/203/
+[Granbull]: pokemon_changes/210/
+[Stantler]: pokemon_changes/234/
+[Mightyena]: pokemon_changes/262/
+[Gardevoir]: pokemon_changes/282/
+[Spinda]: pokemon_changes/327/
+[Kecleon]: pokemon_changes/352/
+[Salamence]: pokemon_changes/373/
+[Bibarel]: pokemon_changes/400/
+[Porygon-Z]: pokemon_changes/474/
+[Dusknoir]: pokemon_changes/477/
 [choice-scarf]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-scarf.png
 [wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png
 [leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png

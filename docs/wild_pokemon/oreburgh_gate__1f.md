@@ -12,7 +12,7 @@ Night      | ![][041]  [Zubat] (35%) ![][074]  [Geodude] (35%) ![][050]  [Diglet
 [050]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png "Diglett"
 [074]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png "Geodude"
 [447]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/447.png "Riolu"
-[Zubat]: /pokemon_changes/041.md
-[Diglett]: /pokemon_changes/050.md
-[Geodude]: /pokemon_changes/074.md
-[Riolu]: /pokemon_changes/447.md
+[Zubat]: pokemon_changes/041/
+[Diglett]: pokemon_changes/050/
+[Geodude]: pokemon_changes/074/
+[Riolu]: pokemon_changes/447/

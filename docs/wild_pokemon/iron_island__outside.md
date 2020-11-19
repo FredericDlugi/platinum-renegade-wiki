@@ -18,12 +18,12 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][457]  [Lumineon] (30%) ![][211]  [Qw
 [279]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png "Pelipper"
 [456]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/456.png "Finneon"
 [457]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png "Lumineon"
-[Tentacool]: /pokemon_changes/072.md
-[Tentacruel]: /pokemon_changes/073.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Qwilfish]: /pokemon_changes/211.md
-[Wingull]: /pokemon_changes/278.md
-[Pelipper]: /pokemon_changes/279.md
-[Finneon]: /pokemon_changes/456.md
-[Lumineon]: /pokemon_changes/457.md
+[Tentacool]: pokemon_changes/072/
+[Tentacruel]: pokemon_changes/073/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Qwilfish]: pokemon_changes/211/
+[Wingull]: pokemon_changes/278/
+[Pelipper]: pokemon_changes/279/
+[Finneon]: pokemon_changes/456/
+[Lumineon]: pokemon_changes/457/

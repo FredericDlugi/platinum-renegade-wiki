@@ -26,18 +26,18 @@ Swimmer Katelyn            | ![][419]  [Floatzel] Lv. 43  ![][308]  [Medicham] L
 [370]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/370.png "Luvdisc"
 [419]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png "Floatzel"
 [457]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png "Lumineon"
-[Blastoise]: /pokemon_changes/009.md
-[Tentacruel]: /pokemon_changes/073.md
-[Seadra]: /pokemon_changes/117.md
-[Seaking]: /pokemon_changes/119.md
-[Starmie]: /pokemon_changes/121.md
-[Lanturn]: /pokemon_changes/171.md
-[Politoed]: /pokemon_changes/186.md
-[Slowking]: /pokemon_changes/199.md
-[Corsola]: /pokemon_changes/222.md
-[Octillery]: /pokemon_changes/224.md
-[Medicham]: /pokemon_changes/308.md
-[Wailord]: /pokemon_changes/321.md
-[Luvdisc]: /pokemon_changes/370.md
-[Floatzel]: /pokemon_changes/419.md
-[Lumineon]: /pokemon_changes/457.md
+[Blastoise]: pokemon_changes/009/
+[Tentacruel]: pokemon_changes/073/
+[Seadra]: pokemon_changes/117/
+[Seaking]: pokemon_changes/119/
+[Starmie]: pokemon_changes/121/
+[Lanturn]: pokemon_changes/171/
+[Politoed]: pokemon_changes/186/
+[Slowking]: pokemon_changes/199/
+[Corsola]: pokemon_changes/222/
+[Octillery]: pokemon_changes/224/
+[Medicham]: pokemon_changes/308/
+[Wailord]: pokemon_changes/321/
+[Luvdisc]: pokemon_changes/370/
+[Floatzel]: pokemon_changes/419/
+[Lumineon]: pokemon_changes/457/

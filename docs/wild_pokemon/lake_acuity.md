@@ -24,14 +24,14 @@ Super Rod  | ![][130]  [Gyarados] (100%)
 [362]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png "Glalie"
 [364]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/364.png "Sealeo"
 [460]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460.png "Abomasnow"
-[Dewgong]: /pokemon_changes/087.md
-[Jynx]: /pokemon_changes/124.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Lapras]: /pokemon_changes/131.md
-[Wobbuffet]: /pokemon_changes/202.md
-[Sneasel]: /pokemon_changes/215.md
-[Piloswine]: /pokemon_changes/221.md
-[Glalie]: /pokemon_changes/362.md
-[Sealeo]: /pokemon_changes/364.md
-[Abomasnow]: /pokemon_changes/460.md
+[Dewgong]: pokemon_changes/087/
+[Jynx]: pokemon_changes/124/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Lapras]: pokemon_changes/131/
+[Wobbuffet]: pokemon_changes/202/
+[Sneasel]: pokemon_changes/215/
+[Piloswine]: pokemon_changes/221/
+[Glalie]: pokemon_changes/362/
+[Sealeo]: pokemon_changes/364/
+[Abomasnow]: pokemon_changes/460/

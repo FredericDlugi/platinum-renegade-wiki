@@ -33,23 +33,23 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][119]  [Seaking] (30%) ![][342]  [Cra
 [342]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png "Crawdaunt"
 [396]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png "Starly"
 [406]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/406.png "Budew"
-[Caterpie]: /pokemon_changes/010.md
-[Weedle]: /pokemon_changes/013.md
-[Oddish]: /pokemon_changes/043.md
-[Bellsprout]: /pokemon_changes/069.md
-[Goldeen]: /pokemon_changes/118.md
-[Seaking]: /pokemon_changes/119.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Ledyba]: /pokemon_changes/165.md
-[Spinarak]: /pokemon_changes/167.md
-[Marill]: /pokemon_changes/183.md
-[Azumarill]: /pokemon_changes/184.md
-[Sunkern]: /pokemon_changes/191.md
-[Wurmple]: /pokemon_changes/265.md
-[Ralts]: /pokemon_changes/280.md
-[Roselia]: /pokemon_changes/315.md
-[Corphish]: /pokemon_changes/341.md
-[Crawdaunt]: /pokemon_changes/342.md
-[Starly]: /pokemon_changes/396.md
-[Budew]: /pokemon_changes/406.md
+[Caterpie]: pokemon_changes/010/
+[Weedle]: pokemon_changes/013/
+[Oddish]: pokemon_changes/043/
+[Bellsprout]: pokemon_changes/069/
+[Goldeen]: pokemon_changes/118/
+[Seaking]: pokemon_changes/119/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Ledyba]: pokemon_changes/165/
+[Spinarak]: pokemon_changes/167/
+[Marill]: pokemon_changes/183/
+[Azumarill]: pokemon_changes/184/
+[Sunkern]: pokemon_changes/191/
+[Wurmple]: pokemon_changes/265/
+[Ralts]: pokemon_changes/280/
+[Roselia]: pokemon_changes/315/
+[Corphish]: pokemon_changes/341/
+[Crawdaunt]: pokemon_changes/342/
+[Starly]: pokemon_changes/396/
+[Budew]: pokemon_changes/406/

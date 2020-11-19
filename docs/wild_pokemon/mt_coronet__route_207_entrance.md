@@ -26,17 +26,17 @@ Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
 [358]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png "Chimecho"
 [375]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png "Metang"
 [436]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/436.png "Bronzor"
-[Clefairy]: /pokemon_changes/035.md
-[Zubat]: /pokemon_changes/041.md
-[Golbat]: /pokemon_changes/042.md
-[Geodude]: /pokemon_changes/074.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Nosepass]: /pokemon_changes/299.md
-[Lunatone]: /pokemon_changes/337.md
-[Solrock]: /pokemon_changes/338.md
-[Barboach]: /pokemon_changes/339.md
-[Whiscash]: /pokemon_changes/340.md
-[Chimecho]: /pokemon_changes/358.md
-[Metang]: /pokemon_changes/375.md
-[Bronzor]: /pokemon_changes/436.md
+[Clefairy]: pokemon_changes/035/
+[Zubat]: pokemon_changes/041/
+[Golbat]: pokemon_changes/042/
+[Geodude]: pokemon_changes/074/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Nosepass]: pokemon_changes/299/
+[Lunatone]: pokemon_changes/337/
+[Solrock]: pokemon_changes/338/
+[Barboach]: pokemon_changes/339/
+[Whiscash]: pokemon_changes/340/
+[Chimecho]: pokemon_changes/358/
+[Metang]: pokemon_changes/375/
+[Bronzor]: pokemon_changes/436/

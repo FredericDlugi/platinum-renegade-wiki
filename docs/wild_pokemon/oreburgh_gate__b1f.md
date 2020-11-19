@@ -21,12 +21,12 @@ Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
 [339]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png "Barboach"
 [340]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png "Whiscash"
 [447]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/447.png "Riolu"
-[Zubat]: /pokemon_changes/041.md
-[Golbat]: /pokemon_changes/042.md
-[Diglett]: /pokemon_changes/050.md
-[Geodude]: /pokemon_changes/074.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Barboach]: /pokemon_changes/339.md
-[Whiscash]: /pokemon_changes/340.md
-[Riolu]: /pokemon_changes/447.md
+[Zubat]: pokemon_changes/041/
+[Golbat]: pokemon_changes/042/
+[Diglett]: pokemon_changes/050/
+[Geodude]: pokemon_changes/074/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Barboach]: pokemon_changes/339/
+[Whiscash]: pokemon_changes/340/
+[Riolu]: pokemon_changes/447/

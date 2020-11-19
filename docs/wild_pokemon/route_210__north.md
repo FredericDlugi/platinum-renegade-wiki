@@ -36,25 +36,25 @@ Honey Tree | ![][397]  [Staravia] (30%) ![][017]  [Pidgeotto] (20%) ![][164]  [N
 [372]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/372.png "Shelgon"
 [397]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/397.png "Staravia"
 [426]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/426.png "Drifblim"
-[Pidgeotto]: /pokemon_changes/017.md
-[Fearow]: /pokemon_changes/022.md
-[Psyduck]: /pokemon_changes/054.md
-[Golduck]: /pokemon_changes/055.md
-[Machoke]: /pokemon_changes/067.md
-[Farfetch'd]: /pokemon_changes/083.md
-[Horsea]: /pokemon_changes/116.md
-[Seadra]: /pokemon_changes/117.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Dratini]: /pokemon_changes/147.md
-[Dragonair]: /pokemon_changes/148.md
-[Noctowl]: /pokemon_changes/164.md
-[Skarmory]: /pokemon_changes/227.md
-[Swellow]: /pokemon_changes/277.md
-[Swablu]: /pokemon_changes/333.md
-[Altaria]: /pokemon_changes/334.md
-[Zangoose]: /pokemon_changes/335.md
-[Seviper]: /pokemon_changes/336.md
-[Shelgon]: /pokemon_changes/372.md
-[Staravia]: /pokemon_changes/397.md
-[Drifblim]: /pokemon_changes/426.md
+[Pidgeotto]: pokemon_changes/017/
+[Fearow]: pokemon_changes/022/
+[Psyduck]: pokemon_changes/054/
+[Golduck]: pokemon_changes/055/
+[Machoke]: pokemon_changes/067/
+[Farfetch'd]: pokemon_changes/083/
+[Horsea]: pokemon_changes/116/
+[Seadra]: pokemon_changes/117/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Dratini]: pokemon_changes/147/
+[Dragonair]: pokemon_changes/148/
+[Noctowl]: pokemon_changes/164/
+[Skarmory]: pokemon_changes/227/
+[Swellow]: pokemon_changes/277/
+[Swablu]: pokemon_changes/333/
+[Altaria]: pokemon_changes/334/
+[Zangoose]: pokemon_changes/335/
+[Seviper]: pokemon_changes/336/
+[Shelgon]: pokemon_changes/372/
+[Staravia]: pokemon_changes/397/
+[Drifblim]: pokemon_changes/426/

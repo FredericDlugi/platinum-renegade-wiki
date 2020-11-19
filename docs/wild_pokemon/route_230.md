@@ -27,18 +27,18 @@ Super Rod  | ![][130]  [Gyarados] (65%) ![][222]  [Corsola] (30%) ![][321]  [Wai
 [364]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/364.png "Sealeo"
 [419]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png "Floatzel"
 [423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
-[Golduck]: /pokemon_changes/055.md
-[Tentacruel]: /pokemon_changes/073.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Togetic]: /pokemon_changes/176.md
-[Corsola]: /pokemon_changes/222.md
-[Pelipper]: /pokemon_changes/279.md
-[Wailmer]: /pokemon_changes/320.md
-[Wailord]: /pokemon_changes/321.md
-[Zangoose]: /pokemon_changes/335.md
-[Seviper]: /pokemon_changes/336.md
-[Tropius]: /pokemon_changes/357.md
-[Sealeo]: /pokemon_changes/364.md
-[Floatzel]: /pokemon_changes/419.md
-[Gastrodon]: /pokemon_changes/423.md
+[Golduck]: pokemon_changes/055/
+[Tentacruel]: pokemon_changes/073/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Togetic]: pokemon_changes/176/
+[Corsola]: pokemon_changes/222/
+[Pelipper]: pokemon_changes/279/
+[Wailmer]: pokemon_changes/320/
+[Wailord]: pokemon_changes/321/
+[Zangoose]: pokemon_changes/335/
+[Seviper]: pokemon_changes/336/
+[Tropius]: pokemon_changes/357/
+[Sealeo]: pokemon_changes/364/
+[Floatzel]: pokemon_changes/419/
+[Gastrodon]: pokemon_changes/423/

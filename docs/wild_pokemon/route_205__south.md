@@ -36,25 +36,25 @@ Honey Tree | ![][415]  [Combee] (30%) ![][412]  [Burmy] (20%) ![][204]  [Pineco]
 [418]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/418.png "Buizel"
 [422]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png "Shellos"
 [423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
-[Venonat]: /pokemon_changes/048.md
-[Tentacool]: /pokemon_changes/072.md
-[Tentacruel]: /pokemon_changes/073.md
-[Shellder]: /pokemon_changes/090.md
-[Cloyster]: /pokemon_changes/091.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Chinchou]: /pokemon_changes/170.md
-[Lanturn]: /pokemon_changes/171.md
-[Mareep]: /pokemon_changes/179.md
-[Hoppip]: /pokemon_changes/187.md
-[Pineco]: /pokemon_changes/204.md
-[Heracross]: /pokemon_changes/214.md
-[Wurmple]: /pokemon_changes/265.md
-[Plusle]: /pokemon_changes/311.md
-[Minun]: /pokemon_changes/312.md
-[Burmy]: /pokemon_changes/412.md
-[Combee]: /pokemon_changes/415.md
-[Pachirisu]: /pokemon_changes/417.md
-[Buizel]: /pokemon_changes/418.md
-[Shellos]: /pokemon_changes/422.md
-[Gastrodon]: /pokemon_changes/423.md
+[Venonat]: pokemon_changes/048/
+[Tentacool]: pokemon_changes/072/
+[Tentacruel]: pokemon_changes/073/
+[Shellder]: pokemon_changes/090/
+[Cloyster]: pokemon_changes/091/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Chinchou]: pokemon_changes/170/
+[Lanturn]: pokemon_changes/171/
+[Mareep]: pokemon_changes/179/
+[Hoppip]: pokemon_changes/187/
+[Pineco]: pokemon_changes/204/
+[Heracross]: pokemon_changes/214/
+[Wurmple]: pokemon_changes/265/
+[Plusle]: pokemon_changes/311/
+[Minun]: pokemon_changes/312/
+[Burmy]: pokemon_changes/412/
+[Combee]: pokemon_changes/415/
+[Pachirisu]: pokemon_changes/417/
+[Buizel]: pokemon_changes/418/
+[Shellos]: pokemon_changes/422/
+[Gastrodon]: pokemon_changes/423/

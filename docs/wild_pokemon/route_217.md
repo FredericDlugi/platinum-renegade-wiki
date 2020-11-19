@@ -17,11 +17,11 @@ Poké Radar | ![][478]  [Froslass] (22%)
 [362]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png "Glalie"
 [460]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460.png "Abomasnow"
 [478]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/478.png "Froslass"
-[Jynx]: /pokemon_changes/124.md
-[Sneasel]: /pokemon_changes/215.md
-[Piloswine]: /pokemon_changes/221.md
-[Delibird]: /pokemon_changes/225.md
-[Snorunt]: /pokemon_changes/361.md
-[Glalie]: /pokemon_changes/362.md
-[Abomasnow]: /pokemon_changes/460.md
-[Froslass]: /pokemon_changes/478.md
+[Jynx]: pokemon_changes/124/
+[Sneasel]: pokemon_changes/215/
+[Piloswine]: pokemon_changes/221/
+[Delibird]: pokemon_changes/225/
+[Snorunt]: pokemon_changes/361/
+[Glalie]: pokemon_changes/362/
+[Abomasnow]: pokemon_changes/460/
+[Froslass]: pokemon_changes/478/

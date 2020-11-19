@@ -36,25 +36,25 @@ Honey Tree | ![][420]  [Cherubi] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Ex
 [336]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png "Seviper"
 [400]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png "Bibarel"
 [420]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/420.png "Cherubi"
-[Jigglypuff]: /pokemon_changes/039.md
-[Psyduck]: /pokemon_changes/054.md
-[Golduck]: /pokemon_changes/055.md
-[Exeggcute]: /pokemon_changes/102.md
-[Tangela]: /pokemon_changes/114.md
-[Goldeen]: /pokemon_changes/118.md
-[Seaking]: /pokemon_changes/119.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Dunsparce]: /pokemon_changes/206.md
-[Remoraid]: /pokemon_changes/223.md
-[Octillery]: /pokemon_changes/224.md
-[Smeargle]: /pokemon_changes/235.md
-[Seedot]: /pokemon_changes/273.md
-[Kirlia]: /pokemon_changes/281.md
-[Shroomish]: /pokemon_changes/285.md
-[Skitty]: /pokemon_changes/300.md
-[Roselia]: /pokemon_changes/315.md
-[Zangoose]: /pokemon_changes/335.md
-[Seviper]: /pokemon_changes/336.md
-[Bibarel]: /pokemon_changes/400.md
-[Cherubi]: /pokemon_changes/420.md
+[Jigglypuff]: pokemon_changes/039/
+[Psyduck]: pokemon_changes/054/
+[Golduck]: pokemon_changes/055/
+[Exeggcute]: pokemon_changes/102/
+[Tangela]: pokemon_changes/114/
+[Goldeen]: pokemon_changes/118/
+[Seaking]: pokemon_changes/119/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Dunsparce]: pokemon_changes/206/
+[Remoraid]: pokemon_changes/223/
+[Octillery]: pokemon_changes/224/
+[Smeargle]: pokemon_changes/235/
+[Seedot]: pokemon_changes/273/
+[Kirlia]: pokemon_changes/281/
+[Shroomish]: pokemon_changes/285/
+[Skitty]: pokemon_changes/300/
+[Roselia]: pokemon_changes/315/
+[Zangoose]: pokemon_changes/335/
+[Seviper]: pokemon_changes/336/
+[Bibarel]: pokemon_changes/400/
+[Cherubi]: pokemon_changes/420/

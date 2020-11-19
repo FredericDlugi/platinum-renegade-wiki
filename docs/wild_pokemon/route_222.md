@@ -36,25 +36,25 @@ Honey Tree | ![][114]  [Tangela] (30%) ![][214]  [Heracross] (30%) ![][083]  [Fa
 [419]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png "Floatzel"
 [432]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png "Purugly"
 [441]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png "Chatot"
-[Tentacool]: /pokemon_changes/072.md
-[Tentacruel]: /pokemon_changes/073.md
-[Farfetch'd]: /pokemon_changes/083.md
-[Tangela]: /pokemon_changes/114.md
-[Mr. Mime]: /pokemon_changes/122.md
-[Electabuzz]: /pokemon_changes/125.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Snorlax]: /pokemon_changes/143.md
-[Flaaffy]: /pokemon_changes/180.md
-[Heracross]: /pokemon_changes/214.md
-[Remoraid]: /pokemon_changes/223.md
-[Octillery]: /pokemon_changes/224.md
-[Wingull]: /pokemon_changes/278.md
-[Pelipper]: /pokemon_changes/279.md
-[Delcatty]: /pokemon_changes/301.md
-[Wailmer]: /pokemon_changes/320.md
-[Wailord]: /pokemon_changes/321.md
-[Luxio]: /pokemon_changes/404.md
-[Floatzel]: /pokemon_changes/419.md
-[Purugly]: /pokemon_changes/432.md
-[Chatot]: /pokemon_changes/441.md
+[Tentacool]: pokemon_changes/072/
+[Tentacruel]: pokemon_changes/073/
+[Farfetch'd]: pokemon_changes/083/
+[Tangela]: pokemon_changes/114/
+[Mr. Mime]: pokemon_changes/122/
+[Electabuzz]: pokemon_changes/125/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Snorlax]: pokemon_changes/143/
+[Flaaffy]: pokemon_changes/180/
+[Heracross]: pokemon_changes/214/
+[Remoraid]: pokemon_changes/223/
+[Octillery]: pokemon_changes/224/
+[Wingull]: pokemon_changes/278/
+[Pelipper]: pokemon_changes/279/
+[Delcatty]: pokemon_changes/301/
+[Wailmer]: pokemon_changes/320/
+[Wailord]: pokemon_changes/321/
+[Luxio]: pokemon_changes/404/
+[Floatzel]: pokemon_changes/419/
+[Purugly]: pokemon_changes/432/
+[Chatot]: pokemon_changes/441/

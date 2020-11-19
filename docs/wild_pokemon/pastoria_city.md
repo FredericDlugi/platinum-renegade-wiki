@@ -19,13 +19,13 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][061]  [Poliwhirl] (30%) ![][319]  [S
 [319]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png "Sharpedo"
 [422]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png "Shellos"
 [423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
-[Poliwag]: /pokemon_changes/060.md
-[Poliwhirl]: /pokemon_changes/061.md
-[Tentacool]: /pokemon_changes/072.md
-[Tentacruel]: /pokemon_changes/073.md
-[Magikarp]: /pokemon_changes/129.md
-[Gyarados]: /pokemon_changes/130.md
-[Carvanha]: /pokemon_changes/318.md
-[Sharpedo]: /pokemon_changes/319.md
-[Shellos]: /pokemon_changes/422.md
-[Gastrodon]: /pokemon_changes/423.md
+[Poliwag]: pokemon_changes/060/
+[Poliwhirl]: pokemon_changes/061/
+[Tentacool]: pokemon_changes/072/
+[Tentacruel]: pokemon_changes/073/
+[Magikarp]: pokemon_changes/129/
+[Gyarados]: pokemon_changes/130/
+[Carvanha]: pokemon_changes/318/
+[Sharpedo]: pokemon_changes/319/
+[Shellos]: pokemon_changes/422/
+[Gastrodon]: pokemon_changes/423/

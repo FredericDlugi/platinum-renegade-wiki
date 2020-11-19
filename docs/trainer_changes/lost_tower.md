@@ -25,18 +25,18 @@ Belle & Pa Beth & Bob      | ![][077]  [Ponyta] Lv. 33  ![][180]  [Flaaffy] Lv. 
 [417]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/417.png "Pachirisu"
 [422]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png "Shellos"
 [438]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/438.png "Bonsly"
-[Clefairy]: /pokemon_changes/035.md
-[Ponyta]: /pokemon_changes/077.md
-[Cleffa]: /pokemon_changes/173.md
-[Flaaffy]: /pokemon_changes/180.md
-[Murkrow]: /pokemon_changes/198.md
-[Misdreavus]: /pokemon_changes/200.md
-[Skitty]: /pokemon_changes/300.md
-[Plusle]: /pokemon_changes/311.md
-[Minun]: /pokemon_changes/312.md
-[Wailmer]: /pokemon_changes/320.md
-[Barboach]: /pokemon_changes/339.md
-[Mothim]: /pokemon_changes/414.md
-[Pachirisu]: /pokemon_changes/417.md
-[Shellos]: /pokemon_changes/422.md
-[Bonsly]: /pokemon_changes/438.md
+[Clefairy]: pokemon_changes/035/
+[Ponyta]: pokemon_changes/077/
+[Cleffa]: pokemon_changes/173/
+[Flaaffy]: pokemon_changes/180/
+[Murkrow]: pokemon_changes/198/
+[Misdreavus]: pokemon_changes/200/
+[Skitty]: pokemon_changes/300/
+[Plusle]: pokemon_changes/311/
+[Minun]: pokemon_changes/312/
+[Wailmer]: pokemon_changes/320/
+[Barboach]: pokemon_changes/339/
+[Mothim]: pokemon_changes/414/
+[Pachirisu]: pokemon_changes/417/
+[Shellos]: pokemon_changes/422/
+[Bonsly]: pokemon_changes/438/

@@ -36,25 +36,25 @@ Honey Tree | ![][421]  [Cherrim] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Ex
 [368]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/368.png "Gorebyss"
 [421]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/421.png "Cherrim"
 [435]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png "Skuntank"
-[Nidorina]: /pokemon_changes/030.md
-[Nidorino]: /pokemon_changes/033.md
-[Tentacool]: /pokemon_changes/072.md
-[Tentacruel]: /pokemon_changes/073.md
-[Farfetch'd]: /pokemon_changes/083.md
-[Dodrio]: /pokemon_changes/085.md
-[Krabby]: /pokemon_changes/098.md
-[Kingler]: /pokemon_changes/099.md
-[Exeggcute]: /pokemon_changes/102.md
-[Tangela]: /pokemon_changes/114.md
-[Horsea]: /pokemon_changes/116.md
-[Sudowoodo]: /pokemon_changes/185.md
-[Girafarig]: /pokemon_changes/203.md
-[Nuzleaf]: /pokemon_changes/274.md
-[Wingull]: /pokemon_changes/278.md
-[Pelipper]: /pokemon_changes/279.md
-[Shroomish]: /pokemon_changes/285.md
-[Clamperl]: /pokemon_changes/366.md
-[Huntail]: /pokemon_changes/367.md
-[Gorebyss]: /pokemon_changes/368.md
-[Cherrim]: /pokemon_changes/421.md
-[Skuntank]: /pokemon_changes/435.md
+[Nidorina]: pokemon_changes/030/
+[Nidorino]: pokemon_changes/033/
+[Tentacool]: pokemon_changes/072/
+[Tentacruel]: pokemon_changes/073/
+[Farfetch'd]: pokemon_changes/083/
+[Dodrio]: pokemon_changes/085/
+[Krabby]: pokemon_changes/098/
+[Kingler]: pokemon_changes/099/
+[Exeggcute]: pokemon_changes/102/
+[Tangela]: pokemon_changes/114/
+[Horsea]: pokemon_changes/116/
+[Sudowoodo]: pokemon_changes/185/
+[Girafarig]: pokemon_changes/203/
+[Nuzleaf]: pokemon_changes/274/
+[Wingull]: pokemon_changes/278/
+[Pelipper]: pokemon_changes/279/
+[Shroomish]: pokemon_changes/285/
+[Clamperl]: pokemon_changes/366/
+[Huntail]: pokemon_changes/367/
+[Gorebyss]: pokemon_changes/368/
+[Cherrim]: pokemon_changes/421/
+[Skuntank]: pokemon_changes/435/

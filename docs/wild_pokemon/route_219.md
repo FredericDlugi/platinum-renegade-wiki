@@ -19,13 +19,13 @@ Super Rod  | ![][099]  [Kingler] (60%) ![][116]  [Horsea] (30%) ![][367]  [Hunta
 [366]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/366.png "Clamperl"
 [367]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/367.png "Huntail"
 [368]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/368.png "Gorebyss"
-[Tentacool]: /pokemon_changes/072.md
-[Tentacruel]: /pokemon_changes/073.md
-[Krabby]: /pokemon_changes/098.md
-[Kingler]: /pokemon_changes/099.md
-[Horsea]: /pokemon_changes/116.md
-[Wingull]: /pokemon_changes/278.md
-[Pelipper]: /pokemon_changes/279.md
-[Clamperl]: /pokemon_changes/366.md
-[Huntail]: /pokemon_changes/367.md
-[Gorebyss]: /pokemon_changes/368.md
+[Tentacool]: pokemon_changes/072/
+[Tentacruel]: pokemon_changes/073/
+[Krabby]: pokemon_changes/098/
+[Kingler]: pokemon_changes/099/
+[Horsea]: pokemon_changes/116/
+[Wingull]: pokemon_changes/278/
+[Pelipper]: pokemon_changes/279/
+[Clamperl]: pokemon_changes/366/
+[Huntail]: pokemon_changes/367/
+[Gorebyss]: pokemon_changes/368/
