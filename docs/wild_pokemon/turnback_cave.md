@@ -9,14 +9,6 @@ Night      | ![][042]  [Golbat] (20%) ![][093]  [Haunter] (20%) ![][356]  [Duscl
 
 
 
-[042]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png "Golbat"
-[093]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png "Haunter"
-[337]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/337.png "Lunatone"
-[338]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/338.png "Solrock"
-[354]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/354.png "Banette"
-[356]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/356.png "Dusclops"
-[358]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png "Chimecho"
-[437]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png "Bronzong"
 [Golbat]: /pokemon_changes/042/
 [Haunter]: /pokemon_changes/093/
 [Lunatone]: /pokemon_changes/337/
@@ -25,3 +17,11 @@ Night      | ![][042]  [Golbat] (20%) ![][093]  [Haunter] (20%) ![][356]  [Duscl
 [Dusclops]: /pokemon_changes/356/
 [Chimecho]: /pokemon_changes/358/
 [Bronzong]: /pokemon_changes/437/
+[042]: /img/pokemon/042.png
+[093]: /img/pokemon/093.png
+[337]: /img/pokemon/337.png
+[338]: /img/pokemon/338.png
+[354]: /img/pokemon/354.png
+[356]: /img/pokemon/356.png
+[358]: /img/pokemon/358.png
+[437]: /img/pokemon/437.png

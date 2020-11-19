@@ -28,25 +28,6 @@ Cyclist Kayla (8)          | ![][101]  [Electrode] Lv. 59  ![][082]  [Magneton] 
 Cyclist Kayla (C)          | ![][101]  [Electrode] Lv. 70  ![][462]  [Magnezone] Lv. 70  ![][310]  [Manectric] Lv. 70
 
 
-[017]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png "Pidgeotto"
-[025]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png "Pikachu"
-[077]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png "Ponyta"
-[081]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png "Magnemite"
-[082]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png "Magneton"
-[083]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png "Farfetch'd"
-[084]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png "Doduo"
-[100]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png "Voltorb"
-[101]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png "Electrode"
-[135]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png "Jolteon"
-[172]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png "Pichu"
-[180]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png "Flaaffy"
-[276]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/276.png "Taillow"
-[278]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/278.png "Wingull"
-[309]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/309.png "Electrike"
-[310]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/310.png "Manectric"
-[324]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png "Torkoal"
-[404]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/404.png "Luxio"
-[462]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png "Magnezone"
 [Pidgeotto]: /pokemon_changes/017/
 [Pikachu]: /pokemon_changes/025/
 [Ponyta]: /pokemon_changes/077/
@@ -66,3 +47,22 @@ Cyclist Kayla (C)          | ![][101]  [Electrode] Lv. 70  ![][462]  [Magnezone]
 [Torkoal]: /pokemon_changes/324/
 [Luxio]: /pokemon_changes/404/
 [Magnezone]: /pokemon_changes/462/
+[017]: /img/pokemon/017.png
+[025]: /img/pokemon/025.png
+[077]: /img/pokemon/077.png
+[081]: /img/pokemon/081.png
+[082]: /img/pokemon/082.png
+[083]: /img/pokemon/083.png
+[084]: /img/pokemon/084.png
+[100]: /img/pokemon/100.png
+[101]: /img/pokemon/101.png
+[135]: /img/pokemon/135.png
+[172]: /img/pokemon/172.png
+[180]: /img/pokemon/180.png
+[276]: /img/pokemon/276.png
+[278]: /img/pokemon/278.png
+[309]: /img/pokemon/309.png
+[310]: /img/pokemon/310.png
+[324]: /img/pokemon/324.png
+[404]: /img/pokemon/404.png
+[462]: /img/pokemon/462.png

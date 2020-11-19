@@ -32,27 +32,6 @@ PKMN Trainer Barry | Item         | Nature  | Ability       | Moves
 ![][394]<br> [Prinplup] Lv. 33        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Torrent             | Scald, Icy Wind, Grass Knot, Aerial Ace         (!)
 
 
-[092]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png "Gastly"
-[093]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png "Haunter"
-[094]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png "Gengar"
-[143]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png "Snorlax"
-[200]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png "Misdreavus"
-[214]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png "Heracross"
-[292]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png "Shedinja"
-[302]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/302.png "Sableye"
-[353]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/353.png "Shuppet"
-[354]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/354.png "Banette"
-[355]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/355.png "Duskull"
-[356]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/356.png "Dusclops"
-[388]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/388.png "Grotle"
-[391]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/391.png "Monferno"
-[394]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/394.png "Prinplup"
-[397]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/397.png "Staravia"
-[426]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/426.png "Drifblim"
-[429]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/429.png "Mismagius"
-[442]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/442.png "Spiritomb"
-[478]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/478.png "Froslass"
-[479]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/479.png "Rotom"
 [Gastly]: /pokemon_changes/092/
 [Haunter]: /pokemon_changes/093/
 [Gengar]: /pokemon_changes/094/
@@ -74,7 +53,31 @@ PKMN Trainer Barry | Item         | Nature  | Ability       | Moves
 [Spiritomb]: /pokemon_changes/442/
 [Froslass]: /pokemon_changes/478/
 [Rotom]: /pokemon_changes/479/
-[wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png
-[zoom-lens]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/zoom-lens.png
-[leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png
-[muscle-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-band.png
+[coba-berry]: /img/items/coba-berry.png
+[leftovers]: /img/items/leftovers.png
+[muscle-band]: /img/items/muscle-band.png
+[sitrus-berry]: /img/items/sitrus-berry.png
+[starf-berry]: /img/items/starf-berry.png
+[wise-glasses]: /img/items/wise-glasses.png
+[zoom-lens]: /img/items/zoom-lens.png
+[092]: /img/pokemon/092.png
+[093]: /img/pokemon/093.png
+[094]: /img/pokemon/094.png
+[143]: /img/pokemon/143.png
+[200]: /img/pokemon/200.png
+[214]: /img/pokemon/214.png
+[292]: /img/pokemon/292.png
+[302]: /img/pokemon/302.png
+[353]: /img/pokemon/353.png
+[354]: /img/pokemon/354.png
+[355]: /img/pokemon/355.png
+[356]: /img/pokemon/356.png
+[388]: /img/pokemon/388.png
+[391]: /img/pokemon/391.png
+[394]: /img/pokemon/394.png
+[397]: /img/pokemon/397.png
+[426]: /img/pokemon/426.png
+[429]: /img/pokemon/429.png
+[442]: /img/pokemon/442.png
+[478]: /img/pokemon/478.png
+[479]: /img/pokemon/479.png

@@ -17,13 +17,6 @@ Galactic Boss Cyrus | Item         | Nature  | Ability       | Moves
 ![][461]<br> [Weavile] Lv. 46         | ![][expert-belt]<br> Expert Belt        | ?        | Technician (!)      | Feint Attack, Icicle Crash, Ice Shard, Swords Dance
 
 
-[015]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png "Beedrill"
-[042]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png "Golbat"
-[169]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png "Crobat"
-[229]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png "Houndoom"
-[430]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/430.png "Honchkrow"
-[461]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/461.png "Weavile"
-[462]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png "Magnezone"
 [Beedrill]: /pokemon_changes/015/
 [Golbat]: /pokemon_changes/042/
 [Crobat]: /pokemon_changes/169/
@@ -31,7 +24,14 @@ Galactic Boss Cyrus | Item         | Nature  | Ability       | Moves
 [Honchkrow]: /pokemon_changes/430/
 [Weavile]: /pokemon_changes/461/
 [Magnezone]: /pokemon_changes/462/
-[expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
-[scope-lens]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/scope-lens.png
-[wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png
-[life-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png
+[expert-belt]: /img/items/expert-belt.png
+[life-orb]: /img/items/life-orb.png
+[scope-lens]: /img/items/scope-lens.png
+[wise-glasses]: /img/items/wise-glasses.png
+[015]: /img/pokemon/015.png
+[042]: /img/pokemon/042.png
+[169]: /img/pokemon/169.png
+[229]: /img/pokemon/229.png
+[430]: /img/pokemon/430.png
+[461]: /img/pokemon/461.png
+[462]: /img/pokemon/462.png

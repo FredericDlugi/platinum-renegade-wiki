@@ -37,35 +37,6 @@ Ace Trainer Heather | Item         | Nature  | Ability       | Moves
 ![][149]<br> [Dragonite] Lv. 77       | ![][white-herb]<br> White Herb          | ?        | Marvel Scale (!)    | Hurricane, Draco Meteor, Thunder, Ice Beam
 
 
-[012]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png "Butterfree"
-[018]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png "Pidgeot"
-[024]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png "Arbok"
-[038]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png "Ninetales"
-[055]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png "Golduck"
-[076]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png "Golem"
-[080]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png "Slowbro"
-[083]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png "Farfetch'd"
-[121]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png "Starmie"
-[127]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png "Pinsir"
-[131]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png "Lapras"
-[142]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png "Aerodactyl"
-[149]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png "Dragonite"
-[171]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png "Lanturn"
-[181]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png "Ampharos"
-[199]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png "Slowking"
-[212]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png "Scizor"
-[227]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png "Skarmory"
-[232]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/232.png "Donphan"
-[241]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png "Miltank"
-[254]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png "Sceptile"
-[264]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/264.png "Linoone"
-[277]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png "Swellow"
-[279]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png "Pelipper"
-[295]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/295.png "Exploud"
-[334]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png "Altaria"
-[357]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/357.png "Tropius"
-[445]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png "Garchomp"
-[468]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/468.png "Togekiss"
 [Butterfree]: /pokemon_changes/012/
 [Pidgeot]: /pokemon_changes/018/
 [Arbok]: /pokemon_changes/024/
@@ -95,9 +66,38 @@ Ace Trainer Heather | Item         | Nature  | Ability       | Moves
 [Tropius]: /pokemon_changes/357/
 [Garchomp]: /pokemon_changes/445/
 [Togekiss]: /pokemon_changes/468/
-[expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
-[focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
-[white-herb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-herb.png
-[wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png
-[leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png
-[life-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png
+[expert-belt]: /img/items/expert-belt.png
+[focus-sash]: /img/items/focus-sash.png
+[leftovers]: /img/items/leftovers.png
+[life-orb]: /img/items/life-orb.png
+[white-herb]: /img/items/white-herb.png
+[wise-glasses]: /img/items/wise-glasses.png
+[012]: /img/pokemon/012.png
+[018]: /img/pokemon/018.png
+[024]: /img/pokemon/024.png
+[038]: /img/pokemon/038.png
+[055]: /img/pokemon/055.png
+[076]: /img/pokemon/076.png
+[080]: /img/pokemon/080.png
+[083]: /img/pokemon/083.png
+[121]: /img/pokemon/121.png
+[127]: /img/pokemon/127.png
+[131]: /img/pokemon/131.png
+[142]: /img/pokemon/142.png
+[149]: /img/pokemon/149.png
+[171]: /img/pokemon/171.png
+[181]: /img/pokemon/181.png
+[199]: /img/pokemon/199.png
+[212]: /img/pokemon/212.png
+[227]: /img/pokemon/227.png
+[232]: /img/pokemon/232.png
+[241]: /img/pokemon/241.png
+[254]: /img/pokemon/254.png
+[264]: /img/pokemon/264.png
+[277]: /img/pokemon/277.png
+[279]: /img/pokemon/279.png
+[295]: /img/pokemon/295.png
+[334]: /img/pokemon/334.png
+[357]: /img/pokemon/357.png
+[445]: /img/pokemon/445.png
+[468]: /img/pokemon/468.png

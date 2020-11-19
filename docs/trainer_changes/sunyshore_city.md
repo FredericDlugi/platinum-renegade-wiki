@@ -18,19 +18,21 @@ Arcade Star Dahlia | Item         | Nature  | Ability       | Moves
 ![][145]<br> [Zapdos] Lv. 63          | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Pressure            | Thunderbolt, Heat Wave, Drill Peck, Light Screen
 
 
-[145]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png "Zapdos"
-[257]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png "Blaziken"
-[272]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/272.png "Ludicolo"
-[308]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png "Medicham"
-[468]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/468.png "Togekiss"
-[477]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/477.png "Dusknoir"
 [Zapdos]: /pokemon_changes/145/
 [Blaziken]: /pokemon_changes/257/
 [Ludicolo]: /pokemon_changes/272/
 [Medicham]: /pokemon_changes/308/
 [Togekiss]: /pokemon_changes/468/
 [Dusknoir]: /pokemon_changes/477/
-[choice-scarf]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-scarf.png
-[focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
-[wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png
-[life-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png
+[choice-scarf]: /img/items/choice-scarf.png
+[focus-sash]: /img/items/focus-sash.png
+[life-orb]: /img/items/life-orb.png
+[lum-berry]: /img/items/lum-berry.png
+[sitrus-berry]: /img/items/sitrus-berry.png
+[wise-glasses]: /img/items/wise-glasses.png
+[145]: /img/pokemon/145.png
+[257]: /img/pokemon/257.png
+[272]: /img/pokemon/272.png
+[308]: /img/pokemon/308.png
+[468]: /img/pokemon/468.png
+[477]: /img/pokemon/477.png

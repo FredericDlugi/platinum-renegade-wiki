@@ -20,30 +20,6 @@ Leader Wake        | Item         | Nature  | Ability       | Moves
 ![][419]<br> [Floatzel] Lv. 44        | ![][life-orb]<br> Life Orb              | Naive    | Swift Swim          | Aqua Tail, Crunch, Ice Punch, Aqua Jet
 
 
-[008]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png "Wartortle"
-[055]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png "Golduck"
-[062]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png "Poliwrath"
-[073]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png "Tentacruel"
-[080]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png "Slowbro"
-[087]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png "Dewgong"
-[099]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png "Kingler"
-[119]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png "Seaking"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[159]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/159.png "Croconaw"
-[171]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png "Lanturn"
-[184]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png "Azumarill"
-[195]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png "Quagsire"
-[226]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png "Mantine"
-[259]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/259.png "Marshtomp"
-[272]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/272.png "Ludicolo"
-[279]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png "Pelipper"
-[319]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png "Sharpedo"
-[340]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png "Whiscash"
-[364]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/364.png "Sealeo"
-[400]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png "Bibarel"
-[419]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png "Floatzel"
-[423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
-[457]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png "Lumineon"
 [Wartortle]: /pokemon_changes/008/
 [Golduck]: /pokemon_changes/055/
 [Poliwrath]: /pokemon_changes/062/
@@ -68,5 +44,32 @@ Leader Wake        | Item         | Nature  | Ability       | Moves
 [Floatzel]: /pokemon_changes/419/
 [Gastrodon]: /pokemon_changes/423/
 [Lumineon]: /pokemon_changes/457/
-[focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
-[life-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png
+[focus-sash]: /img/items/focus-sash.png
+[life-orb]: /img/items/life-orb.png
+[rindo-berry]: /img/items/rindo-berry.png
+[sitrus-berry]: /img/items/sitrus-berry.png
+[wacan-berry]: /img/items/wacan-berry.png
+[008]: /img/pokemon/008.png
+[055]: /img/pokemon/055.png
+[062]: /img/pokemon/062.png
+[073]: /img/pokemon/073.png
+[080]: /img/pokemon/080.png
+[087]: /img/pokemon/087.png
+[099]: /img/pokemon/099.png
+[119]: /img/pokemon/119.png
+[130]: /img/pokemon/130.png
+[159]: /img/pokemon/159.png
+[171]: /img/pokemon/171.png
+[184]: /img/pokemon/184.png
+[195]: /img/pokemon/195.png
+[226]: /img/pokemon/226.png
+[259]: /img/pokemon/259.png
+[272]: /img/pokemon/272.png
+[279]: /img/pokemon/279.png
+[319]: /img/pokemon/319.png
+[340]: /img/pokemon/340.png
+[364]: /img/pokemon/364.png
+[400]: /img/pokemon/400.png
+[419]: /img/pokemon/419.png
+[423]: /img/pokemon/423.png
+[457]: /img/pokemon/457.png

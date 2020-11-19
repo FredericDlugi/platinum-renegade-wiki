@@ -50,15 +50,15 @@ Item               | ![][starf-berry] Starf Berry
 IVs                | 31 HP / 31 Atk / 31 Def / 31 SAtk / 31 SDef / 31 Spd
 Nature             | Adamant
 
-[starf-berry]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/starf-berry.png
 
-[077]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png "Ponyta"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[361]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png "Snorunt"
-[363]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/363.png "Spheal"
-[420]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/420.png "Cherubi"
-[441]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png "Chatot"
-[451]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/451.png "Skorupi"
-[sharp-beak]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sharp-beak.png
-[never-melt-ice]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/never-melt-ice.png
-[poison-barb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poison-barb.png
+[never-melt-ice]: /img/items/never-melt-ice.png
+[poison-barb]: /img/items/poison-barb.png
+[sharp-beak]: /img/items/sharp-beak.png
+[starf-berry]: /img/items/starf-berry.png
+[077]: /img/pokemon/077.png
+[129]: /img/pokemon/129.png
+[361]: /img/pokemon/361.png
+[363]: /img/pokemon/363.png
+[420]: /img/pokemon/420.png
+[441]: /img/pokemon/441.png
+[451]: /img/pokemon/451.png

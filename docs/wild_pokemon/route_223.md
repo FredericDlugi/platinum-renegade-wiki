@@ -13,15 +13,6 @@ Good Rod   | ![][129]  [Magikarp] (60%) ![][223]  [Remoraid] (30%) ![][320]  [Wa
 Super Rod  | ![][130]  [Gyarados] (60%) ![][320]  [Wailmer] (30%) ![][224]  [Octillery] (5%)  ![][321]  [Wailord] (5%)
 
 
-[073]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png "Tentacruel"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[223]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png "Remoraid"
-[224]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png "Octillery"
-[226]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png "Mantine"
-[279]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png "Pelipper"
-[320]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/320.png "Wailmer"
-[321]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png "Wailord"
 [Tentacruel]: /pokemon_changes/073/
 [Magikarp]: /pokemon_changes/129/
 [Gyarados]: /pokemon_changes/130/
@@ -31,3 +22,12 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][320]  [Wailmer] (30%) ![][224]  [Oct
 [Pelipper]: /pokemon_changes/279/
 [Wailmer]: /pokemon_changes/320/
 [Wailord]: /pokemon_changes/321/
+[073]: /img/pokemon/073.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[223]: /img/pokemon/223.png
+[224]: /img/pokemon/224.png
+[226]: /img/pokemon/226.png
+[279]: /img/pokemon/279.png
+[320]: /img/pokemon/320.png
+[321]: /img/pokemon/321.png

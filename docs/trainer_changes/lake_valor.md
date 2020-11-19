@@ -20,14 +20,6 @@ Commander Saturn   | Item         | Nature  | Ability       | Moves
 ![][454]<br> [Toxicroak] Lv. 53       | ![][life-orb]<br> Life Orb              | ?        | Dry Skin            | Gunk Shot, Cross Chop, Fake Out, Sucker Punch
 
 
-[065]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png "Alakazam"
-[112]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png "Rhydon"
-[224]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png "Octillery"
-[229]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png "Houndoom"
-[432]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png "Purugly"
-[435]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png "Skuntank"
-[437]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png "Bronzong"
-[454]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png "Toxicroak"
 [Alakazam]: /pokemon_changes/065/
 [Rhydon]: /pokemon_changes/112/
 [Octillery]: /pokemon_changes/224/
@@ -36,8 +28,16 @@ Commander Saturn   | Item         | Nature  | Ability       | Moves
 [Skuntank]: /pokemon_changes/435/
 [Bronzong]: /pokemon_changes/437/
 [Toxicroak]: /pokemon_changes/454/
-[bright-powder]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bright-powder.png
-[expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
-[wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png
-[life-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png
-[muscle-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-band.png
+[bright-powder]: /img/items/bright-powder.png
+[expert-belt]: /img/items/expert-belt.png
+[life-orb]: /img/items/life-orb.png
+[muscle-band]: /img/items/muscle-band.png
+[wise-glasses]: /img/items/wise-glasses.png
+[065]: /img/pokemon/065.png
+[112]: /img/pokemon/112.png
+[224]: /img/pokemon/224.png
+[229]: /img/pokemon/229.png
+[432]: /img/pokemon/432.png
+[435]: /img/pokemon/435.png
+[437]: /img/pokemon/437.png
+[454]: /img/pokemon/454.png

@@ -13,16 +13,6 @@ Good Rod   | ![][129]  [Magikarp] (60%) ![][456]  [Finneon] (30%) ![][120]  [Sta
 Super Rod  | ![][130]  [Gyarados] (60%) ![][457]  [Lumineon] (30%) ![][121]  [Starmie] (10%)
 
 
-[072]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png "Tentacool"
-[073]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png "Tentacruel"
-[120]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png "Staryu"
-[121]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png "Starmie"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[422]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png "Shellos"
-[423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
-[456]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/456.png "Finneon"
-[457]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png "Lumineon"
 [Tentacool]: /pokemon_changes/072/
 [Tentacruel]: /pokemon_changes/073/
 [Staryu]: /pokemon_changes/120/
@@ -33,3 +23,13 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][457]  [Lumineon] (30%) ![][121]  [St
 [Gastrodon]: /pokemon_changes/423/
 [Finneon]: /pokemon_changes/456/
 [Lumineon]: /pokemon_changes/457/
+[072]: /img/pokemon/072.png
+[073]: /img/pokemon/073.png
+[120]: /img/pokemon/120.png
+[121]: /img/pokemon/121.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[422]: /img/pokemon/422.png
+[423]: /img/pokemon/423.png
+[456]: /img/pokemon/456.png
+[457]: /img/pokemon/457.png

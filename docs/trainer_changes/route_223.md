@@ -31,38 +31,6 @@ Swimmer Crystal (S)        | ![][321]  [Wailord] Lv. 75  ![][119]  [Seaking] Lv.
 Sailor Zachariah (S)       | ![][099]  [Kingler] Lv. 74  ![][068]  [Machamp] Lv. 74  ![][423]  [Gastrodon] Lv. 74 <br> ![][199]  [Slowking] Lv. 74
 
 
-[009]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png "Blastoise"
-[055]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png "Golduck"
-[062]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png "Poliwrath"
-[068]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png "Machamp"
-[073]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png "Tentacruel"
-[080]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png "Slowbro"
-[091]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png "Cloyster"
-[099]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png "Kingler"
-[119]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png "Seaking"
-[121]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png "Starmie"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[131]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png "Lapras"
-[134]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png "Vaporeon"
-[160]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png "Feraligatr"
-[184]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png "Azumarill"
-[195]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png "Quagsire"
-[199]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png "Slowking"
-[211]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/211.png "Qwilfish"
-[222]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png "Corsola"
-[224]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png "Octillery"
-[226]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png "Mantine"
-[272]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/272.png "Ludicolo"
-[279]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png "Pelipper"
-[319]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png "Sharpedo"
-[321]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png "Wailord"
-[340]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png "Whiscash"
-[368]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/368.png "Gorebyss"
-[369]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/369.png "Relicanth"
-[400]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png "Bibarel"
-[419]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png "Floatzel"
-[423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
-[457]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png "Lumineon"
 [Blastoise]: /pokemon_changes/009/
 [Golduck]: /pokemon_changes/055/
 [Poliwrath]: /pokemon_changes/062/
@@ -95,3 +63,35 @@ Sailor Zachariah (S)       | ![][099]  [Kingler] Lv. 74  ![][068]  [Machamp] Lv.
 [Floatzel]: /pokemon_changes/419/
 [Gastrodon]: /pokemon_changes/423/
 [Lumineon]: /pokemon_changes/457/
+[009]: /img/pokemon/009.png
+[055]: /img/pokemon/055.png
+[062]: /img/pokemon/062.png
+[068]: /img/pokemon/068.png
+[073]: /img/pokemon/073.png
+[080]: /img/pokemon/080.png
+[091]: /img/pokemon/091.png
+[099]: /img/pokemon/099.png
+[119]: /img/pokemon/119.png
+[121]: /img/pokemon/121.png
+[130]: /img/pokemon/130.png
+[131]: /img/pokemon/131.png
+[134]: /img/pokemon/134.png
+[160]: /img/pokemon/160.png
+[184]: /img/pokemon/184.png
+[195]: /img/pokemon/195.png
+[199]: /img/pokemon/199.png
+[211]: /img/pokemon/211.png
+[222]: /img/pokemon/222.png
+[224]: /img/pokemon/224.png
+[226]: /img/pokemon/226.png
+[272]: /img/pokemon/272.png
+[279]: /img/pokemon/279.png
+[319]: /img/pokemon/319.png
+[321]: /img/pokemon/321.png
+[340]: /img/pokemon/340.png
+[368]: /img/pokemon/368.png
+[369]: /img/pokemon/369.png
+[400]: /img/pokemon/400.png
+[419]: /img/pokemon/419.png
+[423]: /img/pokemon/423.png
+[457]: /img/pokemon/457.png

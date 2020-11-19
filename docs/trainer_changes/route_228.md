@@ -35,32 +35,6 @@ Ace Trainer Shade  | Item           | Nature | Ability        | Moves
 ![][248]<br> [Tyranitar] Lv. 77       | ![][chople-berry]<br> Chople Berry      | ?        | Sand Stream         | Crunch, Stone Edge, Iron Tail, Fire Punch
 
 
-[028]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png "Sandslash"
-[057]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png "Primeape"
-[068]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png "Machamp"
-[097]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png "Hypno"
-[103]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png "Exeggutor"
-[105]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png "Marowak"
-[178]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png "Xatu"
-[229]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png "Houndoom"
-[248]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png "Tyranitar"
-[275]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/275.png "Shiftry"
-[297]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png "Hariyama"
-[301]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png "Delcatty"
-[306]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png "Aggron"
-[310]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/310.png "Manectric"
-[319]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png "Sharpedo"
-[330]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png "Flygon"
-[332]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/332.png "Cacturne"
-[335]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/335.png "Zangoose"
-[344]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/344.png "Claydol"
-[395]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png "Empoleon"
-[419]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png "Floatzel"
-[423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
-[442]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/442.png "Spiritomb"
-[460]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460.png "Abomasnow"
-[461]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/461.png "Weavile"
-[475]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475.png "Gallade"
 [Sandslash]: /pokemon_changes/028/
 [Primeape]: /pokemon_changes/057/
 [Machamp]: /pokemon_changes/068/
@@ -87,8 +61,35 @@ Ace Trainer Shade  | Item           | Nature | Ability        | Moves
 [Abomasnow]: /pokemon_changes/460/
 [Weavile]: /pokemon_changes/461/
 [Gallade]: /pokemon_changes/475/
-[expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
-[white-herb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-herb.png
-[wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png
-[leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png
-[muscle-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-band.png
+[chople-berry]: /img/items/chople-berry.png
+[expert-belt]: /img/items/expert-belt.png
+[leftovers]: /img/items/leftovers.png
+[muscle-band]: /img/items/muscle-band.png
+[white-herb]: /img/items/white-herb.png
+[wise-glasses]: /img/items/wise-glasses.png
+[028]: /img/pokemon/028.png
+[057]: /img/pokemon/057.png
+[068]: /img/pokemon/068.png
+[097]: /img/pokemon/097.png
+[103]: /img/pokemon/103.png
+[105]: /img/pokemon/105.png
+[178]: /img/pokemon/178.png
+[229]: /img/pokemon/229.png
+[248]: /img/pokemon/248.png
+[275]: /img/pokemon/275.png
+[297]: /img/pokemon/297.png
+[301]: /img/pokemon/301.png
+[306]: /img/pokemon/306.png
+[310]: /img/pokemon/310.png
+[319]: /img/pokemon/319.png
+[330]: /img/pokemon/330.png
+[332]: /img/pokemon/332.png
+[335]: /img/pokemon/335.png
+[344]: /img/pokemon/344.png
+[395]: /img/pokemon/395.png
+[419]: /img/pokemon/419.png
+[423]: /img/pokemon/423.png
+[442]: /img/pokemon/442.png
+[460]: /img/pokemon/460.png
+[461]: /img/pokemon/461.png
+[475]: /img/pokemon/475.png

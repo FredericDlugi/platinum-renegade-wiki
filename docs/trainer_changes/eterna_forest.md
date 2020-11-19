@@ -24,29 +24,6 @@ PKMN Trainer Cheryl | Item          | Nature  | Ability       | Moves
 ![][113]<br> [Chansey] Lv. 20         | ![][sitrus-berry]<br> Sitrus Berry      | Quiet    | Serene Grace        | Hyper Voice, Soft-Boiled, Ice Beam, Thunderbolt
 
 
-[015]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png "Beedrill"
-[046]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png "Paras"
-[048]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png "Venonat"
-[079]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png "Slowpoke"
-[096]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png "Drowzee"
-[102]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png "Exeggcute"
-[113]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png "Chansey"
-[122]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png "Mr. Mime"
-[177]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/177.png "Natu"
-[183]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/183.png "Marill"
-[269]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/269.png "Dustox"
-[283]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/283.png "Surskit"
-[290]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/290.png "Nincada"
-[296]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png "Makuhita"
-[320]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/320.png "Wailmer"
-[325]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/325.png "Spoink"
-[343]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/343.png "Baltoy"
-[358]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png "Chimecho"
-[415]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/415.png "Combee"
-[425]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/425.png "Drifloon"
-[427]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/427.png "Buneary"
-[433]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/433.png "Chingling"
-[439]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png "Mime Jr."
 [Beedrill]: /pokemon_changes/015/
 [Paras]: /pokemon_changes/046/
 [Venonat]: /pokemon_changes/048/
@@ -70,3 +47,27 @@ PKMN Trainer Cheryl | Item          | Nature  | Ability       | Moves
 [Buneary]: /pokemon_changes/427/
 [Chingling]: /pokemon_changes/433/
 [Mime Jr.]: /pokemon_changes/439/
+[sitrus-berry]: /img/items/sitrus-berry.png
+[015]: /img/pokemon/015.png
+[046]: /img/pokemon/046.png
+[048]: /img/pokemon/048.png
+[079]: /img/pokemon/079.png
+[096]: /img/pokemon/096.png
+[102]: /img/pokemon/102.png
+[113]: /img/pokemon/113.png
+[122]: /img/pokemon/122.png
+[177]: /img/pokemon/177.png
+[183]: /img/pokemon/183.png
+[269]: /img/pokemon/269.png
+[283]: /img/pokemon/283.png
+[290]: /img/pokemon/290.png
+[296]: /img/pokemon/296.png
+[320]: /img/pokemon/320.png
+[325]: /img/pokemon/325.png
+[343]: /img/pokemon/343.png
+[358]: /img/pokemon/358.png
+[415]: /img/pokemon/415.png
+[425]: /img/pokemon/425.png
+[427]: /img/pokemon/427.png
+[433]: /img/pokemon/433.png
+[439]: /img/pokemon/439.png

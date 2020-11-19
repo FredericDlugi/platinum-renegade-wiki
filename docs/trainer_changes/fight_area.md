@@ -9,20 +9,6 @@ PKMN Trainer Barry         | ![][398]  [Staraptor] Lv. 74  ![][214]  [Heracross]
 PKMN Trainer Barry         | ![][398]  [Staraptor] Lv. 74  ![][214]  [Heracross] Lv. 74  ![][143]  [Snorlax] Lv. 74 <br> ![][286]  [Breloom] Lv. 74  ![][059]  [Arcanine] Lv. 74  ![][395]  [Empoleon] Lv. 75
 
 
-[026]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png "Raichu"
-[059]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png "Arcanine"
-[135]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png "Jolteon"
-[136]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png "Flareon"
-[143]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png "Snorlax"
-[184]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png "Azumarill"
-[214]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png "Heracross"
-[286]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/286.png "Breloom"
-[389]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png "Torterra"
-[392]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png "Infernape"
-[395]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png "Empoleon"
-[398]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png "Staraptor"
-[466]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png "Electivire"
-[467]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/467.png "Magmortar"
 [Raichu]: /pokemon_changes/026/
 [Arcanine]: /pokemon_changes/059/
 [Jolteon]: /pokemon_changes/135/
@@ -37,3 +23,17 @@ PKMN Trainer Barry         | ![][398]  [Staraptor] Lv. 74  ![][214]  [Heracross]
 [Staraptor]: /pokemon_changes/398/
 [Electivire]: /pokemon_changes/466/
 [Magmortar]: /pokemon_changes/467/
+[026]: /img/pokemon/026.png
+[059]: /img/pokemon/059.png
+[135]: /img/pokemon/135.png
+[136]: /img/pokemon/136.png
+[143]: /img/pokemon/143.png
+[184]: /img/pokemon/184.png
+[214]: /img/pokemon/214.png
+[286]: /img/pokemon/286.png
+[389]: /img/pokemon/389.png
+[392]: /img/pokemon/392.png
+[395]: /img/pokemon/395.png
+[398]: /img/pokemon/398.png
+[466]: /img/pokemon/466.png
+[467]: /img/pokemon/467.png

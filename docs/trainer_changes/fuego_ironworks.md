@@ -11,14 +11,6 @@ Worker Holden              | ![][081]  [Magnemite] Lv. 42  ![][081]  [Magnemite]
 Worker Conrad              | ![][126]  [Magmar] Lv. 43  ![][219]  [Magcargo] Lv. 43  ![][078]  [Rapidash] Lv. 43
 
 
-[066]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png "Machop"
-[067]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png "Machoke"
-[068]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png "Machamp"
-[078]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png "Rapidash"
-[081]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png "Magnemite"
-[126]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png "Magmar"
-[208]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png "Steelix"
-[219]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/219.png "Magcargo"
 [Machop]: /pokemon_changes/066/
 [Machoke]: /pokemon_changes/067/
 [Machamp]: /pokemon_changes/068/
@@ -27,3 +19,11 @@ Worker Conrad              | ![][126]  [Magmar] Lv. 43  ![][219]  [Magcargo] Lv.
 [Magmar]: /pokemon_changes/126/
 [Steelix]: /pokemon_changes/208/
 [Magcargo]: /pokemon_changes/219/
+[066]: /img/pokemon/066.png
+[067]: /img/pokemon/067.png
+[068]: /img/pokemon/068.png
+[078]: /img/pokemon/078.png
+[081]: /img/pokemon/081.png
+[126]: /img/pokemon/126.png
+[208]: /img/pokemon/208.png
+[219]: /img/pokemon/219.png

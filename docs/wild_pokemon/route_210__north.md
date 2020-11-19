@@ -18,28 +18,6 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][117]  [Seadra] (30%) ![][148]  [Drag
 Honey Tree | ![][397]  [Staravia] (30%) ![][017]  [Pidgeotto] (20%) ![][164]  [Noctowl] (20%)  ![][277]  [Swellow] (20%) ![][083]  [Farfetch'd] (10%)
 
 
-[017]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png "Pidgeotto"
-[022]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png "Fearow"
-[054]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png "Psyduck"
-[055]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png "Golduck"
-[067]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png "Machoke"
-[083]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png "Farfetch'd"
-[116]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png "Horsea"
-[117]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png "Seadra"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[147]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png "Dratini"
-[148]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png "Dragonair"
-[164]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png "Noctowl"
-[227]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png "Skarmory"
-[277]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png "Swellow"
-[333]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png "Swablu"
-[334]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png "Altaria"
-[335]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/335.png "Zangoose"
-[336]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png "Seviper"
-[372]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/372.png "Shelgon"
-[397]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/397.png "Staravia"
-[426]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/426.png "Drifblim"
 [Pidgeotto]: /pokemon_changes/017/
 [Fearow]: /pokemon_changes/022/
 [Psyduck]: /pokemon_changes/054/
@@ -62,3 +40,25 @@ Honey Tree | ![][397]  [Staravia] (30%) ![][017]  [Pidgeotto] (20%) ![][164]  [N
 [Shelgon]: /pokemon_changes/372/
 [Staravia]: /pokemon_changes/397/
 [Drifblim]: /pokemon_changes/426/
+[017]: /img/pokemon/017.png
+[022]: /img/pokemon/022.png
+[054]: /img/pokemon/054.png
+[055]: /img/pokemon/055.png
+[067]: /img/pokemon/067.png
+[083]: /img/pokemon/083.png
+[116]: /img/pokemon/116.png
+[117]: /img/pokemon/117.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[147]: /img/pokemon/147.png
+[148]: /img/pokemon/148.png
+[164]: /img/pokemon/164.png
+[227]: /img/pokemon/227.png
+[277]: /img/pokemon/277.png
+[333]: /img/pokemon/333.png
+[334]: /img/pokemon/334.png
+[335]: /img/pokemon/335.png
+[336]: /img/pokemon/336.png
+[372]: /img/pokemon/372.png
+[397]: /img/pokemon/397.png
+[426]: /img/pokemon/426.png

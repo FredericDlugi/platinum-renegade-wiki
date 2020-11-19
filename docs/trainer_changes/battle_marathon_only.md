@@ -8,26 +8,6 @@ Commander Saturn    | ![][437]  [Bronzong] Lv. 81  ![][224]  [Octillery] Lv. 81 
 Galactic Boss Cyrus | ![][169]  [Crobat] Lv. 83  ![][430]  [Honchkrow] Lv. 83  ![][229]  [Houndoom] Lv. 83 <br> ![][130]  [Gyarados] Lv. 83  ![][462]  [Magnezone] Lv. 83  ![][461]  [Weavile] Lv. 84
 
 
-[065]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png "Alakazam"
-[115]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png "Kangaskhan"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[169]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png "Crobat"
-[224]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png "Octillery"
-[229]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png "Houndoom"
-[302]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/302.png "Sableye"
-[423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
-[430]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/430.png "Honchkrow"
-[432]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png "Purugly"
-[435]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png "Skuntank"
-[437]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png "Bronzong"
-[454]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png "Toxicroak"
-[461]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/461.png "Weavile"
-[462]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png "Magnezone"
-[464]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/464.png "Rhyperior"
-[465]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/465.png "Tangrowth"
-[466]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png "Electivire"
-[467]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/467.png "Magmortar"
-[469]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/469.png "Yanmega"
 [Alakazam]: /pokemon_changes/065/
 [Kangaskhan]: /pokemon_changes/115/
 [Gyarados]: /pokemon_changes/130/
@@ -48,3 +28,23 @@ Galactic Boss Cyrus | ![][169]  [Crobat] Lv. 83  ![][430]  [Honchkrow] Lv. 83  !
 [Electivire]: /pokemon_changes/466/
 [Magmortar]: /pokemon_changes/467/
 [Yanmega]: /pokemon_changes/469/
+[065]: /img/pokemon/065.png
+[115]: /img/pokemon/115.png
+[130]: /img/pokemon/130.png
+[169]: /img/pokemon/169.png
+[224]: /img/pokemon/224.png
+[229]: /img/pokemon/229.png
+[302]: /img/pokemon/302.png
+[423]: /img/pokemon/423.png
+[430]: /img/pokemon/430.png
+[432]: /img/pokemon/432.png
+[435]: /img/pokemon/435.png
+[437]: /img/pokemon/437.png
+[454]: /img/pokemon/454.png
+[461]: /img/pokemon/461.png
+[462]: /img/pokemon/462.png
+[464]: /img/pokemon/464.png
+[465]: /img/pokemon/465.png
+[466]: /img/pokemon/466.png
+[467]: /img/pokemon/467.png
+[469]: /img/pokemon/469.png

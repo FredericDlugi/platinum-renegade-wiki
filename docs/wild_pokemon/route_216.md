@@ -13,15 +13,15 @@ Night      | ![][459]  [Snover] (30%) ![][220]  [Swinub] (25%) ![][238]  [Smooch
 Poké Radar | ![][225]  [Delibird] (22%)
 
 
-[215]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png "Sneasel"
-[220]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png "Swinub"
-[225]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/225.png "Delibird"
-[238]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png "Smoochum"
-[361]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png "Snorunt"
-[459]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/459.png "Snover"
 [Sneasel]: /pokemon_changes/215/
 [Swinub]: /pokemon_changes/220/
 [Delibird]: /pokemon_changes/225/
 [Smoochum]: /pokemon_changes/238/
 [Snorunt]: /pokemon_changes/361/
 [Snover]: /pokemon_changes/459/
+[215]: /img/pokemon/215.png
+[220]: /img/pokemon/220.png
+[225]: /img/pokemon/225.png
+[238]: /img/pokemon/238.png
+[361]: /img/pokemon/361.png
+[459]: /img/pokemon/459.png

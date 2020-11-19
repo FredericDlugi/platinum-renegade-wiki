@@ -9,13 +9,6 @@ Night      | ![][460]  [Abomasnow] (30%) ![][308]  [Medicham] (20%) ![][294]  [L
 Poké Radar | ![][036]  [Clefable] (22%)
 
 
-[036]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png "Clefable"
-[217]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png "Ursaring"
-[232]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/232.png "Donphan"
-[294]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/294.png "Loudred"
-[308]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png "Medicham"
-[359]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359.png "Absol"
-[460]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460.png "Abomasnow"
 [Clefable]: /pokemon_changes/036/
 [Ursaring]: /pokemon_changes/217/
 [Donphan]: /pokemon_changes/232/
@@ -23,3 +16,10 @@ Poké Radar | ![][036]  [Clefable] (22%)
 [Medicham]: /pokemon_changes/308/
 [Absol]: /pokemon_changes/359/
 [Abomasnow]: /pokemon_changes/460/
+[036]: /img/pokemon/036.png
+[217]: /img/pokemon/217.png
+[232]: /img/pokemon/232.png
+[294]: /img/pokemon/294.png
+[308]: /img/pokemon/308.png
+[359]: /img/pokemon/359.png
+[460]: /img/pokemon/460.png

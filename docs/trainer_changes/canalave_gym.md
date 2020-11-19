@@ -21,28 +21,6 @@ Leader Byron        | Item         | Nature  | Ability       | Moves
 ![][411]<br> [Bastiodon] Lv. 53       | ![][leftovers]<br> Leftovers            | Sassy    | Soundproof          | Iron Head, Toxic, Protect, Metal Burst
 
 
-[081]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png "Magnemite"
-[082]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png "Magneton"
-[205]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png "Forretress"
-[208]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png "Steelix"
-[212]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png "Scizor"
-[227]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png "Skarmory"
-[303]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/303.png "Mawile"
-[304]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/304.png "Aron"
-[305]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/305.png "Lairon"
-[306]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png "Aggron"
-[374]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/374.png "Beldum"
-[375]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png "Metang"
-[376]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png "Metagross"
-[395]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png "Empoleon"
-[410]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/410.png "Shieldon"
-[411]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/411.png "Bastiodon"
-[413]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/413.png "Wormadam"
-[436]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/436.png "Bronzor"
-[437]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png "Bronzong"
-[448]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png "Lucario"
-[462]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png "Magnezone"
-[476]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png "Probopass"
 [Magnemite]: /pokemon_changes/081/
 [Magneton]: /pokemon_changes/082/
 [Forretress]: /pokemon_changes/205/
@@ -65,8 +43,31 @@ Leader Byron        | Item         | Nature  | Ability       | Moves
 [Lucario]: /pokemon_changes/448/
 [Magnezone]: /pokemon_changes/462/
 [Probopass]: /pokemon_changes/476/
-[focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
-[wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png
-[leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png
-[light-clay]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/light-clay.png
-[muscle-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-band.png
+[focus-sash]: /img/items/focus-sash.png
+[leftovers]: /img/items/leftovers.png
+[light-clay]: /img/items/light-clay.png
+[muscle-band]: /img/items/muscle-band.png
+[sitrus-berry]: /img/items/sitrus-berry.png
+[wise-glasses]: /img/items/wise-glasses.png
+[081]: /img/pokemon/081.png
+[082]: /img/pokemon/082.png
+[205]: /img/pokemon/205.png
+[208]: /img/pokemon/208.png
+[212]: /img/pokemon/212.png
+[227]: /img/pokemon/227.png
+[303]: /img/pokemon/303.png
+[304]: /img/pokemon/304.png
+[305]: /img/pokemon/305.png
+[306]: /img/pokemon/306.png
+[374]: /img/pokemon/374.png
+[375]: /img/pokemon/375.png
+[376]: /img/pokemon/376.png
+[395]: /img/pokemon/395.png
+[410]: /img/pokemon/410.png
+[411]: /img/pokemon/411.png
+[413]: /img/pokemon/413.png
+[436]: /img/pokemon/436.png
+[437]: /img/pokemon/437.png
+[448]: /img/pokemon/448.png
+[462]: /img/pokemon/462.png
+[476]: /img/pokemon/476.png

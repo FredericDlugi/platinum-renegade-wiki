@@ -12,21 +12,6 @@ Good Rod   | ![][129]  [Magikarp] (60%) ![][339]  [Barboach] (30%) ![][318]  [Ca
 Super Rod  | ![][130]  [Gyarados] (60%) ![][340]  [Whiscash] (30%) ![][319]  [Sharpedo] (10%)
 
 
-[046]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png "Paras"
-[047]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png "Parasect"
-[102]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png "Exeggcute"
-[115]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png "Kangaskhan"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[193]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/193.png "Yanma"
-[194]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png "Wooper"
-[195]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png "Quagsire"
-[318]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/318.png "Carvanha"
-[319]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png "Sharpedo"
-[339]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png "Barboach"
-[340]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png "Whiscash"
-[453]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png "Croagunk"
-[454]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png "Toxicroak"
 [Parasect]: /pokemon_changes/047/
 [Exeggcute]: /pokemon_changes/102/
 [Kangaskhan]: /pokemon_changes/115/
@@ -41,3 +26,18 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][340]  [Whiscash] (30%) ![][319]  [Sh
 [Whiscash]: /pokemon_changes/340/
 [Croagunk]: /pokemon_changes/453/
 [Toxicroak]: /pokemon_changes/454/
+[046]: /img/pokemon/046.png
+[047]: /img/pokemon/047.png
+[102]: /img/pokemon/102.png
+[115]: /img/pokemon/115.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[193]: /img/pokemon/193.png
+[194]: /img/pokemon/194.png
+[195]: /img/pokemon/195.png
+[318]: /img/pokemon/318.png
+[319]: /img/pokemon/319.png
+[339]: /img/pokemon/339.png
+[340]: /img/pokemon/340.png
+[453]: /img/pokemon/453.png
+[454]: /img/pokemon/454.png

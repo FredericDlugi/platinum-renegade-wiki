@@ -14,18 +14,6 @@ Poké Radar | ![][236]  [Tyrogue] (22%)
 Honey Tree | ![][190]  [Aipom] (30%) ![][287]  [Slakoth] (20%) ![][011]  [Metapod] (20%)  ![][014]  [Kakuna] (20%) ![][446]  [Munchlax] (10%)
 
 
-[011]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png "Metapod"
-[014]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png "Kakuna"
-[066]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png "Machop"
-[177]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/177.png "Natu"
-[190]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/190.png "Aipom"
-[216]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/216.png "Teddiursa"
-[236]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png "Tyrogue"
-[287]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/287.png "Slakoth"
-[307]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/307.png "Meditite"
-[333]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png "Swablu"
-[371]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/371.png "Bagon"
-[446]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png "Munchlax"
 [Metapod]: /pokemon_changes/011/
 [Kakuna]: /pokemon_changes/014/
 [Machop]: /pokemon_changes/066/
@@ -38,3 +26,15 @@ Honey Tree | ![][190]  [Aipom] (30%) ![][287]  [Slakoth] (20%) ![][011]  [Metapo
 [Swablu]: /pokemon_changes/333/
 [Bagon]: /pokemon_changes/371/
 [Munchlax]: /pokemon_changes/446/
+[011]: /img/pokemon/011.png
+[014]: /img/pokemon/014.png
+[066]: /img/pokemon/066.png
+[177]: /img/pokemon/177.png
+[190]: /img/pokemon/190.png
+[216]: /img/pokemon/216.png
+[236]: /img/pokemon/236.png
+[287]: /img/pokemon/287.png
+[307]: /img/pokemon/307.png
+[333]: /img/pokemon/333.png
+[371]: /img/pokemon/371.png
+[446]: /img/pokemon/446.png

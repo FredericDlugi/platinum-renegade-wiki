@@ -17,26 +17,6 @@ Good Rod   | ![][129]  [Magikarp] (60%) ![][118]  [Goldeen] (30%) ![][341]  [Cor
 Super Rod  | ![][130]  [Gyarados] (60%) ![][119]  [Seaking] (30%) ![][342]  [Crawdaunt] (10%)
 
 
-[010]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png "Caterpie"
-[013]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png "Weedle"
-[043]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png "Oddish"
-[069]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png "Bellsprout"
-[118]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png "Goldeen"
-[119]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png "Seaking"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[165]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/165.png "Ledyba"
-[167]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png "Spinarak"
-[183]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/183.png "Marill"
-[184]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png "Azumarill"
-[191]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/191.png "Sunkern"
-[265]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/265.png "Wurmple"
-[280]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png "Ralts"
-[315]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/315.png "Roselia"
-[341]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/341.png "Corphish"
-[342]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png "Crawdaunt"
-[396]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png "Starly"
-[406]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/406.png "Budew"
 [Caterpie]: /pokemon_changes/010/
 [Weedle]: /pokemon_changes/013/
 [Oddish]: /pokemon_changes/043/
@@ -57,3 +37,23 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][119]  [Seaking] (30%) ![][342]  [Cra
 [Crawdaunt]: /pokemon_changes/342/
 [Starly]: /pokemon_changes/396/
 [Budew]: /pokemon_changes/406/
+[010]: /img/pokemon/010.png
+[013]: /img/pokemon/013.png
+[043]: /img/pokemon/043.png
+[069]: /img/pokemon/069.png
+[118]: /img/pokemon/118.png
+[119]: /img/pokemon/119.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[165]: /img/pokemon/165.png
+[167]: /img/pokemon/167.png
+[183]: /img/pokemon/183.png
+[184]: /img/pokemon/184.png
+[191]: /img/pokemon/191.png
+[265]: /img/pokemon/265.png
+[280]: /img/pokemon/280.png
+[315]: /img/pokemon/315.png
+[341]: /img/pokemon/341.png
+[342]: /img/pokemon/342.png
+[396]: /img/pokemon/396.png
+[406]: /img/pokemon/406.png

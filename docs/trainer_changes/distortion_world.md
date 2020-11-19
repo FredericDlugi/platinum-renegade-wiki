@@ -20,14 +20,6 @@ Galactic Boss Cyrus | Item         | Nature  | Ability       | Moves
 ![][461]<br> [Weavile] Lv. 60         | ![][focus-sash]<br> Focus Sash          | Jolly    | Technician (!)      | Feint Attack, Icicle Crash, Aerial Ace, Swords Dance
 
 
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[169]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png "Crobat"
-[229]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png "Houndoom"
-[430]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/430.png "Honchkrow"
-[461]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/461.png "Weavile"
-[462]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png "Magnezone"
-[483]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/483.png "Dialga"
-[484]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/484.png "Palkia"
 [Gyarados]: /pokemon_changes/130/
 [Crobat]: /pokemon_changes/169/
 [Houndoom]: /pokemon_changes/229/
@@ -36,9 +28,17 @@ Galactic Boss Cyrus | Item         | Nature  | Ability       | Moves
 [Magnezone]: /pokemon_changes/462/
 [Dialga]: /pokemon_changes/483/
 [Palkia]: /pokemon_changes/484/
-[choice-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-band.png
-[focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
-[white-herb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-herb.png
-[wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png
-[life-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png
-[muscle-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-band.png
+[choice-band]: /img/items/choice-band.png
+[focus-sash]: /img/items/focus-sash.png
+[life-orb]: /img/items/life-orb.png
+[muscle-band]: /img/items/muscle-band.png
+[white-herb]: /img/items/white-herb.png
+[wise-glasses]: /img/items/wise-glasses.png
+[130]: /img/pokemon/130.png
+[169]: /img/pokemon/169.png
+[229]: /img/pokemon/229.png
+[430]: /img/pokemon/430.png
+[461]: /img/pokemon/461.png
+[462]: /img/pokemon/462.png
+[483]: /img/pokemon/483.png
+[484]: /img/pokemon/484.png

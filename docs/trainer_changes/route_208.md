@@ -32,22 +32,6 @@ Elite Four Aaron | Item         | Nature  | Ability       | Moves
 ![][452]<br> [Drapion] Lv. 32         | ![][scope-lens]<br> Scope Lens          | Jolly    | Sniper              | Cross Poison, X-Scissor, Night Slash, Swords Dance
 
 
-[049]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png "Venomoth"
-[067]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png "Machoke"
-[075]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png "Graveler"
-[105]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png "Marowak"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[192]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/192.png "Sunflora"
-[212]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png "Scizor"
-[213]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png "Shuckle"
-[235]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/235.png "Smeargle"
-[267]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/267.png "Beautifly"
-[269]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/269.png "Dustox"
-[315]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/315.png "Roselia"
-[340]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png "Whiscash"
-[436]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/436.png "Bronzor"
-[449]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/449.png "Hippopotas"
-[452]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/452.png "Drapion"
 [Venomoth]: /pokemon_changes/049/
 [Machoke]: /pokemon_changes/067/
 [Graveler]: /pokemon_changes/075/
@@ -64,8 +48,24 @@ Elite Four Aaron | Item         | Nature  | Ability       | Moves
 [Bronzor]: /pokemon_changes/436/
 [Hippopotas]: /pokemon_changes/449/
 [Drapion]: /pokemon_changes/452/
-[focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
-[scope-lens]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/scope-lens.png
-[wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png
-[leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png
-[muscle-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-band.png
+[focus-sash]: /img/items/focus-sash.png
+[leftovers]: /img/items/leftovers.png
+[muscle-band]: /img/items/muscle-band.png
+[scope-lens]: /img/items/scope-lens.png
+[wise-glasses]: /img/items/wise-glasses.png
+[049]: /img/pokemon/049.png
+[067]: /img/pokemon/067.png
+[075]: /img/pokemon/075.png
+[105]: /img/pokemon/105.png
+[130]: /img/pokemon/130.png
+[192]: /img/pokemon/192.png
+[212]: /img/pokemon/212.png
+[213]: /img/pokemon/213.png
+[235]: /img/pokemon/235.png
+[267]: /img/pokemon/267.png
+[269]: /img/pokemon/269.png
+[315]: /img/pokemon/315.png
+[340]: /img/pokemon/340.png
+[436]: /img/pokemon/436.png
+[449]: /img/pokemon/449.png
+[452]: /img/pokemon/452.png

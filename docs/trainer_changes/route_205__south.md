@@ -30,37 +30,6 @@ Picnicker Karina (5)       | ![][395]  [Empoleon] Lv. 39  ![][392]  [Infernape] 
 Picnicker Karina (C)       | ![][395]  [Empoleon] Lv. 71  ![][392]  [Infernape] Lv. 71
 
 
-[001]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png "Bulbasaur"
-[002]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png "Ivysaur"
-[003]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png "Venusaur"
-[050]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png "Diglett"
-[056]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png "Mankey"
-[066]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png "Machop"
-[077]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png "Ponyta"
-[095]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png "Onix"
-[152]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png "Chikorita"
-[153]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png "Bayleef"
-[154]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png "Meganium"
-[179]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png "Mareep"
-[190]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/190.png "Aipom"
-[276]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/276.png "Taillow"
-[277]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png "Swellow"
-[287]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/287.png "Slakoth"
-[288]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png "Vigoroth"
-[289]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png "Slaking"
-[307]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/307.png "Meditite"
-[322]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/322.png "Numel"
-[390]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/390.png "Chimchar"
-[391]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/391.png "Monferno"
-[392]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png "Infernape"
-[393]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png "Piplup"
-[394]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/394.png "Prinplup"
-[395]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png "Empoleon"
-[410]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/410.png "Shieldon"
-[417]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/417.png "Pachirisu"
-[418]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/418.png "Buizel"
-[422]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png "Shellos"
-[424]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/424.png "Ambipom"
 [Bulbasaur]: /pokemon_changes/001/
 [Ivysaur]: /pokemon_changes/002/
 [Venusaur]: /pokemon_changes/003/
@@ -92,3 +61,34 @@ Picnicker Karina (C)       | ![][395]  [Empoleon] Lv. 71  ![][392]  [Infernape] 
 [Buizel]: /pokemon_changes/418/
 [Shellos]: /pokemon_changes/422/
 [Ambipom]: /pokemon_changes/424/
+[001]: /img/pokemon/001.png
+[002]: /img/pokemon/002.png
+[003]: /img/pokemon/003.png
+[050]: /img/pokemon/050.png
+[056]: /img/pokemon/056.png
+[066]: /img/pokemon/066.png
+[077]: /img/pokemon/077.png
+[095]: /img/pokemon/095.png
+[152]: /img/pokemon/152.png
+[153]: /img/pokemon/153.png
+[154]: /img/pokemon/154.png
+[179]: /img/pokemon/179.png
+[190]: /img/pokemon/190.png
+[276]: /img/pokemon/276.png
+[277]: /img/pokemon/277.png
+[287]: /img/pokemon/287.png
+[288]: /img/pokemon/288.png
+[289]: /img/pokemon/289.png
+[307]: /img/pokemon/307.png
+[322]: /img/pokemon/322.png
+[390]: /img/pokemon/390.png
+[391]: /img/pokemon/391.png
+[392]: /img/pokemon/392.png
+[393]: /img/pokemon/393.png
+[394]: /img/pokemon/394.png
+[395]: /img/pokemon/395.png
+[410]: /img/pokemon/410.png
+[417]: /img/pokemon/417.png
+[418]: /img/pokemon/418.png
+[422]: /img/pokemon/422.png
+[424]: /img/pokemon/424.png

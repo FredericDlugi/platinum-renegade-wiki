@@ -13,17 +13,6 @@ Good Rod   | ![][129]  [Magikarp] (100%)
 Super Rod  | ![][130]  [Gyarados] (100%)
 
 
-[087]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png "Dewgong"
-[124]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png "Jynx"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[131]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png "Lapras"
-[202]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png "Wobbuffet"
-[215]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png "Sneasel"
-[221]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/221.png "Piloswine"
-[362]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png "Glalie"
-[364]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/364.png "Sealeo"
-[460]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460.png "Abomasnow"
 [Dewgong]: /pokemon_changes/087/
 [Jynx]: /pokemon_changes/124/
 [Magikarp]: /pokemon_changes/129/
@@ -35,3 +24,14 @@ Super Rod  | ![][130]  [Gyarados] (100%)
 [Glalie]: /pokemon_changes/362/
 [Sealeo]: /pokemon_changes/364/
 [Abomasnow]: /pokemon_changes/460/
+[087]: /img/pokemon/087.png
+[124]: /img/pokemon/124.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[131]: /img/pokemon/131.png
+[202]: /img/pokemon/202.png
+[215]: /img/pokemon/215.png
+[221]: /img/pokemon/221.png
+[362]: /img/pokemon/362.png
+[364]: /img/pokemon/364.png
+[460]: /img/pokemon/460.png

@@ -41,32 +41,32 @@ Pokémon  | Name              | Old Type           | New Type               | Ju
 ![][481] | Mesprit           | Psychic            | Psychic / Fairy        | Likely inspired by a sprite, a mythological creature.
 ![][482] | Azelf             | Psychic            | Psychic / Fairy        | Likely inspired by a pixie (possibly a gnome..?), a mythlogical creature.
 
-[006]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png "Charizard"
-[038]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png "Ninetales"
-[055]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png "Golduck"
-[083]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png "Farfetch'd"
-[154]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png "Meganium"
-[160]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png "Feraligatr"
-[164]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png "Noctowl"
-[181]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png "Ampharos"
-[200]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png "Misdreavus"
-[254]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png "Sceptile"
-[284]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png "Masquerain"
-[313]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/313.png "Volbeat"
-[314]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png "Illumise"
-[328]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/328.png "Trapinch"
-[329]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/329.png "Vibrava"
-[330]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png "Flygon"
-[333]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png "Swablu"
-[334]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png "Altaria"
-[336]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png "Seviper"
-[350]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png "Milotic"
-[362]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png "Glalie"
-[370]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/370.png "Luvdisc"
-[405]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png "Luxray"
-[428]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428.png "Lopunny"
-[429]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/429.png "Mismagius"
-[466]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png "Electivire"
-[480]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/480.png "Uxie"
-[481]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/481.png "Mesprit"
-[482]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/482.png "Azelf"
+[006]: /img/pokemon/006.png
+[038]: /img/pokemon/038.png
+[055]: /img/pokemon/055.png
+[083]: /img/pokemon/083.png
+[154]: /img/pokemon/154.png
+[160]: /img/pokemon/160.png
+[164]: /img/pokemon/164.png
+[181]: /img/pokemon/181.png
+[200]: /img/pokemon/200.png
+[254]: /img/pokemon/254.png
+[284]: /img/pokemon/284.png
+[313]: /img/pokemon/313.png
+[314]: /img/pokemon/314.png
+[328]: /img/pokemon/328.png
+[329]: /img/pokemon/329.png
+[330]: /img/pokemon/330.png
+[333]: /img/pokemon/333.png
+[334]: /img/pokemon/334.png
+[336]: /img/pokemon/336.png
+[350]: /img/pokemon/350.png
+[362]: /img/pokemon/362.png
+[370]: /img/pokemon/370.png
+[405]: /img/pokemon/405.png
+[428]: /img/pokemon/428.png
+[429]: /img/pokemon/429.png
+[466]: /img/pokemon/466.png
+[480]: /img/pokemon/480.png
+[481]: /img/pokemon/481.png
+[482]: /img/pokemon/482.png

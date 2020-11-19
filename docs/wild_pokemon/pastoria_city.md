@@ -13,16 +13,6 @@ Good Rod   | ![][129]  [Magikarp] (60%) ![][060]  [Poliwag] (30%) ![][318]  [Car
 Super Rod  | ![][130]  [Gyarados] (60%) ![][061]  [Poliwhirl] (30%) ![][319]  [Sharpedo] (10%)
 
 
-[060]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png "Poliwag"
-[061]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png "Poliwhirl"
-[072]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png "Tentacool"
-[073]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png "Tentacruel"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[318]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/318.png "Carvanha"
-[319]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png "Sharpedo"
-[422]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png "Shellos"
-[423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
 [Poliwag]: /pokemon_changes/060/
 [Poliwhirl]: /pokemon_changes/061/
 [Tentacool]: /pokemon_changes/072/
@@ -33,3 +23,13 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][061]  [Poliwhirl] (30%) ![][319]  [S
 [Sharpedo]: /pokemon_changes/319/
 [Shellos]: /pokemon_changes/422/
 [Gastrodon]: /pokemon_changes/423/
+[060]: /img/pokemon/060.png
+[061]: /img/pokemon/061.png
+[072]: /img/pokemon/072.png
+[073]: /img/pokemon/073.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[318]: /img/pokemon/318.png
+[319]: /img/pokemon/319.png
+[422]: /img/pokemon/422.png
+[423]: /img/pokemon/423.png

@@ -25,20 +25,6 @@ Youngster Tristan (5)      | ![][164]  [Noctowl] Lv. 39  ![][398]  [Staraptor] L
 Youngster Tristan (8)      | ![][164]  [Noctowl] Lv. 59  ![][398]  [Staraptor] Lv. 59  ![][018]  [Pidgeot] Lv. 59
 
 
-[018]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png "Pidgeot"
-[058]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png "Growlithe"
-[161]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png "Sentret"
-[163]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/163.png "Hoothoot"
-[164]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png "Noctowl"
-[263]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263.png "Zigzagoon"
-[387]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/387.png "Turtwig"
-[390]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/390.png "Chimchar"
-[393]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png "Piplup"
-[396]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png "Starly"
-[397]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/397.png "Staravia"
-[398]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png "Staraptor"
-[399]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png "Bidoof"
-[412]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/412.png "Burmy"
 [Pidgeot]: /pokemon_changes/018/
 [Growlithe]: /pokemon_changes/058/
 [Sentret]: /pokemon_changes/161/
@@ -53,3 +39,17 @@ Youngster Tristan (8)      | ![][164]  [Noctowl] Lv. 59  ![][398]  [Staraptor] L
 [Staraptor]: /pokemon_changes/398/
 [Bidoof]: /pokemon_changes/399/
 [Burmy]: /pokemon_changes/412/
+[018]: /img/pokemon/018.png
+[058]: /img/pokemon/058.png
+[161]: /img/pokemon/161.png
+[163]: /img/pokemon/163.png
+[164]: /img/pokemon/164.png
+[263]: /img/pokemon/263.png
+[387]: /img/pokemon/387.png
+[390]: /img/pokemon/390.png
+[393]: /img/pokemon/393.png
+[396]: /img/pokemon/396.png
+[397]: /img/pokemon/397.png
+[398]: /img/pokemon/398.png
+[399]: /img/pokemon/399.png
+[412]: /img/pokemon/412.png

@@ -11,14 +11,6 @@ Night      | ![][219]  [Magcargo] (20%) ![][112]  [Rhydon] (20%) ![][042]  [Golb
 
 
 
-[042]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png "Golbat"
-[067]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png "Machoke"
-[075]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png "Graveler"
-[089]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png "Muk"
-[110]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png "Weezing"
-[112]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png "Rhydon"
-[219]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/219.png "Magcargo"
-[324]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png "Torkoal"
 [Golbat]: /pokemon_changes/042/
 [Machoke]: /pokemon_changes/067/
 [Graveler]: /pokemon_changes/075/
@@ -27,3 +19,11 @@ Night      | ![][219]  [Magcargo] (20%) ![][112]  [Rhydon] (20%) ![][042]  [Golb
 [Rhydon]: /pokemon_changes/112/
 [Magcargo]: /pokemon_changes/219/
 [Torkoal]: /pokemon_changes/324/
+[042]: /img/pokemon/042.png
+[067]: /img/pokemon/067.png
+[075]: /img/pokemon/075.png
+[089]: /img/pokemon/089.png
+[110]: /img/pokemon/110.png
+[112]: /img/pokemon/112.png
+[219]: /img/pokemon/219.png
+[324]: /img/pokemon/324.png

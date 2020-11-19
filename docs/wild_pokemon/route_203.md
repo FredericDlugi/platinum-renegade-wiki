@@ -17,20 +17,6 @@ Good Rod   | ![][129]  [Magikarp] (60%) ![][341]  [Corphish] (35%)
 Super Rod  | ![][130]  [Gyarados] (60%) ![][342]  [Crawdaunt] (35%)
 
 
-[021]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png "Spearow"
-[054]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png "Psyduck"
-[055]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png "Golduck"
-[063]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png "Abra"
-[104]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png "Cubone"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[204]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png "Pineco"
-[270]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/270.png "Lotad"
-[273]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/273.png "Seedot"
-[341]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/341.png "Corphish"
-[342]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png "Crawdaunt"
-[396]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png "Starly"
-[399]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png "Bidoof"
 [Spearow]: /pokemon_changes/021/
 [Psyduck]: /pokemon_changes/054/
 [Golduck]: /pokemon_changes/055/
@@ -45,3 +31,17 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][342]  [Crawdaunt] (35%)
 [Crawdaunt]: /pokemon_changes/342/
 [Starly]: /pokemon_changes/396/
 [Bidoof]: /pokemon_changes/399/
+[021]: /img/pokemon/021.png
+[054]: /img/pokemon/054.png
+[055]: /img/pokemon/055.png
+[063]: /img/pokemon/063.png
+[104]: /img/pokemon/104.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[204]: /img/pokemon/204.png
+[270]: /img/pokemon/270.png
+[273]: /img/pokemon/273.png
+[341]: /img/pokemon/341.png
+[342]: /img/pokemon/342.png
+[396]: /img/pokemon/396.png
+[399]: /img/pokemon/399.png

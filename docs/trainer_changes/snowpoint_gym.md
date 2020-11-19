@@ -20,24 +20,6 @@ Leader Candice     | Item             | Nature  | Ability       | Moves
 ![][478]<br> [Froslass] Lv. 56        | ![][life-orb]<br> Life Orb              | Modest   | Levitate (!)        | Blizzard, Shadow Ball, Thunderbolt, Attract
 
 
-[086]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png "Seel"
-[087]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png "Dewgong"
-[091]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png "Cloyster"
-[124]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png "Jynx"
-[131]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png "Lapras"
-[220]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png "Swinub"
-[221]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/221.png "Piloswine"
-[225]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/225.png "Delibird"
-[361]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png "Snorunt"
-[362]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png "Glalie"
-[363]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/363.png "Spheal"
-[364]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/364.png "Sealeo"
-[365]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/365.png "Walrein"
-[460]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460.png "Abomasnow"
-[461]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/461.png "Weavile"
-[471]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png "Glaceon"
-[473]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png "Mamoswine"
-[478]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/478.png "Froslass"
 [Seel]: /pokemon_changes/086/
 [Dewgong]: /pokemon_changes/087/
 [Cloyster]: /pokemon_changes/091/
@@ -56,7 +38,27 @@ Leader Candice     | Item             | Nature  | Ability       | Moves
 [Glaceon]: /pokemon_changes/471/
 [Mamoswine]: /pokemon_changes/473/
 [Froslass]: /pokemon_changes/478/
-[bright-powder]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bright-powder.png
-[expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
-[focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
-[life-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png
+[bright-powder]: /img/items/bright-powder.png
+[chople-berry]: /img/items/chople-berry.png
+[expert-belt]: /img/items/expert-belt.png
+[focus-sash]: /img/items/focus-sash.png
+[life-orb]: /img/items/life-orb.png
+[passho-berry]: /img/items/passho-berry.png
+[086]: /img/pokemon/086.png
+[087]: /img/pokemon/087.png
+[091]: /img/pokemon/091.png
+[124]: /img/pokemon/124.png
+[131]: /img/pokemon/131.png
+[220]: /img/pokemon/220.png
+[221]: /img/pokemon/221.png
+[225]: /img/pokemon/225.png
+[361]: /img/pokemon/361.png
+[362]: /img/pokemon/362.png
+[363]: /img/pokemon/363.png
+[364]: /img/pokemon/364.png
+[365]: /img/pokemon/365.png
+[460]: /img/pokemon/460.png
+[461]: /img/pokemon/461.png
+[471]: /img/pokemon/471.png
+[473]: /img/pokemon/473.png
+[478]: /img/pokemon/478.png

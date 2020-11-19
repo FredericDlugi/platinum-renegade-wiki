@@ -38,27 +38,6 @@ PKMN Trainer Buck | Item         | Nature  | Ability       | Moves
 ![][344]<br> [Claydol] Lv. 78         | ![][leftovers]<br> Leftovers            | ?        | Levitate            | Earth Power, Psychic, Ice Beam, Calm Mind
 
 
-[031]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png "Nidoqueen"
-[045]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png "Vileplume"
-[053]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png "Persian"
-[073]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png "Tentacruel"
-[091]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png "Cloyster"
-[094]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png "Gengar"
-[128]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png "Tauros"
-[169]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png "Crobat"
-[189]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png "Jumpluff"
-[197]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png "Umbreon"
-[213]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png "Shuckle"
-[286]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/286.png "Breloom"
-[308]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png "Medicham"
-[324]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png "Torkoal"
-[336]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png "Seviper"
-[344]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/344.png "Claydol"
-[359]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359.png "Absol"
-[428]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428.png "Lopunny"
-[448]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png "Lucario"
-[454]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png "Toxicroak"
-[477]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/477.png "Dusknoir"
 [Nidoqueen]: /pokemon_changes/031/
 [Vileplume]: /pokemon_changes/045/
 [Persian]: /pokemon_changes/053/
@@ -80,9 +59,34 @@ PKMN Trainer Buck | Item         | Nature  | Ability       | Moves
 [Lucario]: /pokemon_changes/448/
 [Toxicroak]: /pokemon_changes/454/
 [Dusknoir]: /pokemon_changes/477/
-[black-sludge]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-sludge.png
-[expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
-[shell-bell]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shell-bell.png
-[wide-lens]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wide-lens.png
-[leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png
-[life-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png
+[black-sludge]: /img/items/black-sludge.png
+[chople-berry]: /img/items/chople-berry.png
+[expert-belt]: /img/items/expert-belt.png
+[leftovers]: /img/items/leftovers.png
+[life-orb]: /img/items/life-orb.png
+[lum-berry]: /img/items/lum-berry.png
+[shell-bell]: /img/items/shell-bell.png
+[shuca-berry]: /img/items/shuca-berry.png
+[sitrus-berry]: /img/items/sitrus-berry.png
+[wide-lens]: /img/items/wide-lens.png
+[031]: /img/pokemon/031.png
+[045]: /img/pokemon/045.png
+[053]: /img/pokemon/053.png
+[073]: /img/pokemon/073.png
+[091]: /img/pokemon/091.png
+[094]: /img/pokemon/094.png
+[128]: /img/pokemon/128.png
+[169]: /img/pokemon/169.png
+[189]: /img/pokemon/189.png
+[197]: /img/pokemon/197.png
+[213]: /img/pokemon/213.png
+[286]: /img/pokemon/286.png
+[308]: /img/pokemon/308.png
+[324]: /img/pokemon/324.png
+[336]: /img/pokemon/336.png
+[344]: /img/pokemon/344.png
+[359]: /img/pokemon/359.png
+[428]: /img/pokemon/428.png
+[448]: /img/pokemon/448.png
+[454]: /img/pokemon/454.png
+[477]: /img/pokemon/477.png

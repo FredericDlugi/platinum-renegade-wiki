@@ -18,28 +18,6 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][119]  [Seaking] (30%) ![][224]  [Oct
 Honey Tree | ![][420]  [Cherubi] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Exeggcute] (20%)  ![][273]  [Seedot] (20%) ![][114]  [Tangela] (10%)
 
 
-[039]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png "Jigglypuff"
-[054]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png "Psyduck"
-[055]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png "Golduck"
-[102]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png "Exeggcute"
-[114]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png "Tangela"
-[118]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png "Goldeen"
-[119]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png "Seaking"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[206]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/206.png "Dunsparce"
-[223]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png "Remoraid"
-[224]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png "Octillery"
-[235]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/235.png "Smeargle"
-[273]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/273.png "Seedot"
-[281]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png "Kirlia"
-[285]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/285.png "Shroomish"
-[300]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png "Skitty"
-[315]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/315.png "Roselia"
-[335]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/335.png "Zangoose"
-[336]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png "Seviper"
-[400]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png "Bibarel"
-[420]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/420.png "Cherubi"
 [Jigglypuff]: /pokemon_changes/039/
 [Psyduck]: /pokemon_changes/054/
 [Golduck]: /pokemon_changes/055/
@@ -62,3 +40,25 @@ Honey Tree | ![][420]  [Cherubi] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Ex
 [Seviper]: /pokemon_changes/336/
 [Bibarel]: /pokemon_changes/400/
 [Cherubi]: /pokemon_changes/420/
+[039]: /img/pokemon/039.png
+[054]: /img/pokemon/054.png
+[055]: /img/pokemon/055.png
+[102]: /img/pokemon/102.png
+[114]: /img/pokemon/114.png
+[118]: /img/pokemon/118.png
+[119]: /img/pokemon/119.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[206]: /img/pokemon/206.png
+[223]: /img/pokemon/223.png
+[224]: /img/pokemon/224.png
+[235]: /img/pokemon/235.png
+[273]: /img/pokemon/273.png
+[281]: /img/pokemon/281.png
+[285]: /img/pokemon/285.png
+[300]: /img/pokemon/300.png
+[315]: /img/pokemon/315.png
+[335]: /img/pokemon/335.png
+[336]: /img/pokemon/336.png
+[400]: /img/pokemon/400.png
+[420]: /img/pokemon/420.png

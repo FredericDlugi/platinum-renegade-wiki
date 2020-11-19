@@ -37,41 +37,6 @@ Parasol Lady Alexa (8)     | ![][230]  [Kingdra] Lv. 60  ![][055]  [Golduck] Lv.
 Parasol Lady Alexa (C)     | ![][230]  [Kingdra] Lv. 71  ![][055]  [Golduck] Lv. 71
 
 
-[034]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png "Nidoking"
-[055]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png "Golduck"
-[058]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png "Growlithe"
-[067]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png "Machoke"
-[082]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png "Magneton"
-[089]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png "Muk"
-[090]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png "Shellder"
-[091]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png "Cloyster"
-[101]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png "Electrode"
-[110]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png "Weezing"
-[117]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png "Seadra"
-[118]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png "Goldeen"
-[124]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png "Jynx"
-[125]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png "Electabuzz"
-[126]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png "Magmar"
-[164]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png "Noctowl"
-[196]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png "Espeon"
-[197]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png "Umbreon"
-[211]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/211.png "Qwilfish"
-[223]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png "Remoraid"
-[224]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png "Octillery"
-[230]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png "Kingdra"
-[233]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png "Porygon2"
-[310]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/310.png "Manectric"
-[339]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png "Barboach"
-[350]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png "Milotic"
-[351]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351.png "Castform"
-[352]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/352.png "Kecleon"
-[366]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/366.png "Clamperl"
-[455]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/455.png "Carnivine"
-[462]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png "Magnezone"
-[466]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png "Electivire"
-[470]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/470.png "Leafeon"
-[471]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png "Glaceon"
-[474]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/474.png "Porygon-Z"
 [Nidoking]: /pokemon_changes/034/
 [Golduck]: /pokemon_changes/055/
 [Growlithe]: /pokemon_changes/058/
@@ -107,3 +72,38 @@ Parasol Lady Alexa (C)     | ![][230]  [Kingdra] Lv. 71  ![][055]  [Golduck] Lv.
 [Leafeon]: /pokemon_changes/470/
 [Glaceon]: /pokemon_changes/471/
 [Porygon-Z]: /pokemon_changes/474/
+[034]: /img/pokemon/034.png
+[055]: /img/pokemon/055.png
+[058]: /img/pokemon/058.png
+[067]: /img/pokemon/067.png
+[082]: /img/pokemon/082.png
+[089]: /img/pokemon/089.png
+[090]: /img/pokemon/090.png
+[091]: /img/pokemon/091.png
+[101]: /img/pokemon/101.png
+[110]: /img/pokemon/110.png
+[117]: /img/pokemon/117.png
+[118]: /img/pokemon/118.png
+[124]: /img/pokemon/124.png
+[125]: /img/pokemon/125.png
+[126]: /img/pokemon/126.png
+[164]: /img/pokemon/164.png
+[196]: /img/pokemon/196.png
+[197]: /img/pokemon/197.png
+[211]: /img/pokemon/211.png
+[223]: /img/pokemon/223.png
+[224]: /img/pokemon/224.png
+[230]: /img/pokemon/230.png
+[233]: /img/pokemon/233.png
+[310]: /img/pokemon/310.png
+[339]: /img/pokemon/339.png
+[350]: /img/pokemon/350.png
+[351]: /img/pokemon/351.png
+[352]: /img/pokemon/352.png
+[366]: /img/pokemon/366.png
+[455]: /img/pokemon/455.png
+[462]: /img/pokemon/462.png
+[466]: /img/pokemon/466.png
+[470]: /img/pokemon/470.png
+[471]: /img/pokemon/471.png
+[474]: /img/pokemon/474.png

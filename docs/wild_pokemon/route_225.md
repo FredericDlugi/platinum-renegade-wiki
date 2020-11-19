@@ -16,19 +16,6 @@ Good Rod   | ![][129]  [Magikarp] (65%) ![][339]  [Barboach] (35%)
 Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
 
 
-[020]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png "Raticate"
-[022]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png "Fearow"
-[055]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png "Golduck"
-[057]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png "Primeape"
-[061]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png "Poliwhirl"
-[067]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png "Machoke"
-[075]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png "Graveler"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[297]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png "Hariyama"
-[326]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/326.png "Grumpig"
-[339]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png "Barboach"
-[340]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png "Whiscash"
 [Raticate]: /pokemon_changes/020/
 [Fearow]: /pokemon_changes/022/
 [Golduck]: /pokemon_changes/055/
@@ -42,3 +29,16 @@ Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
 [Grumpig]: /pokemon_changes/326/
 [Barboach]: /pokemon_changes/339/
 [Whiscash]: /pokemon_changes/340/
+[020]: /img/pokemon/020.png
+[022]: /img/pokemon/022.png
+[055]: /img/pokemon/055.png
+[057]: /img/pokemon/057.png
+[061]: /img/pokemon/061.png
+[067]: /img/pokemon/067.png
+[075]: /img/pokemon/075.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[297]: /img/pokemon/297.png
+[326]: /img/pokemon/326.png
+[339]: /img/pokemon/339.png
+[340]: /img/pokemon/340.png

@@ -12,17 +12,6 @@ Good Rod   | ![][129]  [Magikarp] (65%) ![][339]  [Barboach] (35%)
 Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
 
 
-[027]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png "Sandshrew"
-[041]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png "Zubat"
-[054]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png "Psyduck"
-[074]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png "Geodude"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[194]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png "Wooper"
-[195]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png "Quagsire"
-[296]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png "Makuhita"
-[339]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png "Barboach"
-[340]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png "Whiscash"
 [Sandshrew]: /pokemon_changes/027/
 [Zubat]: /pokemon_changes/041/
 [Psyduck]: /pokemon_changes/054/
@@ -34,3 +23,14 @@ Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
 [Makuhita]: /pokemon_changes/296/
 [Barboach]: /pokemon_changes/339/
 [Whiscash]: /pokemon_changes/340/
+[027]: /img/pokemon/027.png
+[041]: /img/pokemon/041.png
+[054]: /img/pokemon/054.png
+[074]: /img/pokemon/074.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[194]: /img/pokemon/194.png
+[195]: /img/pokemon/195.png
+[296]: /img/pokemon/296.png
+[339]: /img/pokemon/339.png
+[340]: /img/pokemon/340.png

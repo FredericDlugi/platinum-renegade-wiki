@@ -649,82 +649,82 @@ Level: 80
 - Head up the stairs to battle Arceus.
 - You can fight Arceus repeatedly by playing the Azure Flute on the symbol until you catch it.
 
-[001]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png "Bulbasaur"
-[004]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png "Charmander"
-[007]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png "Squirtle"
-[094]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png "Gengar"
-[131]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png "Lapras"
-[133]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png "Eevee"
-[137]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png "Porygon"
-[138]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png "Omanyte"
-[140]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png "Kabuto"
-[142]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png "Aerodactyl"
-[144]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png "Articuno"
-[145]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png "Zapdos"
-[146]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png "Moltres"
-[150]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png "Mewtwo"
-[151]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png "Mew"
-[152]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png "Chikorita"
-[155]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png "Cyndaquil"
-[158]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png "Totodile"
-[172]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png "Pichu"
-[173]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png "Cleffa"
-[174]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/174.png "Igglybuff"
-[175]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png "Togepi"
-[236]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png "Tyrogue"
-[238]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png "Smoochum"
-[239]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png "Elekid"
-[240]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png "Magby"
-[243]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png "Raikou"
-[244]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png "Entei"
-[245]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/245.png "Suicune"
-[249]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png "Lugia"
-[250]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png "Ho-Oh"
-[251]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png "Celebi"
-[252]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png "Treecko"
-[255]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/255.png "Torchic"
-[258]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png "Mudkip"
-[298]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png "Azurill"
-[345]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/345.png "Lileep"
-[347]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/347.png "Anorith"
-[360]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/360.png "Wynaut"
-[374]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/374.png "Beldum"
-[377]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png "Regirock"
-[378]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/378.png "Regice"
-[379]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/379.png "Registeel"
-[380]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/380.png "Latias"
-[381]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/381.png "Latios"
-[382]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/382.png "Kyogre"
-[383]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/383.png "Groudon"
-[384]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png "Rayquaza"
-[385]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/385.png "Jirachi"
-[386]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/386.png "Deoxys"
-[387]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/387.png "Turtwig"
-[390]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/390.png "Chimchar"
-[393]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png "Piplup"
-[406]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/406.png "Budew"
-[408]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/408.png "Cranidos"
-[410]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/410.png "Shieldon"
-[433]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/433.png "Chingling"
-[438]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/438.png "Bonsly"
-[439]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png "Mime Jr."
-[440]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/440.png "Happiny"
-[442]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/442.png "Spiritomb"
-[444]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/444.png "Gabite"
-[446]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png "Munchlax"
-[447]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/447.png "Riolu"
-[479]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/479.png "Rotom"
-[480]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/480.png "Uxie"
-[481]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/481.png "Mesprit"
-[482]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/482.png "Azelf"
-[483]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/483.png "Dialga"
-[484]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/484.png "Palkia"
-[485]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/485.png "Heatran"
-[486]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/486.png "Regigigas"
-[487]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487.png "Giratina"
-[488]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/488.png "Cresselia"
-[489]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/489.png "Phione"
-[490]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/490.png "Manaphy"
-[491]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/491.png "Darkrai"
-[492]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/492.png "Shaymin"
-[493]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493.png "Arceus"
+[001]: /img/pokemon/001.png
+[004]: /img/pokemon/004.png
+[007]: /img/pokemon/007.png
+[094]: /img/pokemon/094.png
+[131]: /img/pokemon/131.png
+[133]: /img/pokemon/133.png
+[137]: /img/pokemon/137.png
+[138]: /img/pokemon/138.png
+[140]: /img/pokemon/140.png
+[142]: /img/pokemon/142.png
+[144]: /img/pokemon/144.png
+[145]: /img/pokemon/145.png
+[146]: /img/pokemon/146.png
+[150]: /img/pokemon/150.png
+[151]: /img/pokemon/151.png
+[152]: /img/pokemon/152.png
+[155]: /img/pokemon/155.png
+[158]: /img/pokemon/158.png
+[172]: /img/pokemon/172.png
+[173]: /img/pokemon/173.png
+[174]: /img/pokemon/174.png
+[175]: /img/pokemon/175.png
+[236]: /img/pokemon/236.png
+[238]: /img/pokemon/238.png
+[239]: /img/pokemon/239.png
+[240]: /img/pokemon/240.png
+[243]: /img/pokemon/243.png
+[244]: /img/pokemon/244.png
+[245]: /img/pokemon/245.png
+[249]: /img/pokemon/249.png
+[250]: /img/pokemon/250.png
+[251]: /img/pokemon/251.png
+[252]: /img/pokemon/252.png
+[255]: /img/pokemon/255.png
+[258]: /img/pokemon/258.png
+[298]: /img/pokemon/298.png
+[345]: /img/pokemon/345.png
+[347]: /img/pokemon/347.png
+[360]: /img/pokemon/360.png
+[374]: /img/pokemon/374.png
+[377]: /img/pokemon/377.png
+[378]: /img/pokemon/378.png
+[379]: /img/pokemon/379.png
+[380]: /img/pokemon/380.png
+[381]: /img/pokemon/381.png
+[382]: /img/pokemon/382.png
+[383]: /img/pokemon/383.png
+[384]: /img/pokemon/384.png
+[385]: /img/pokemon/385.png
+[386]: /img/pokemon/386.png
+[387]: /img/pokemon/387.png
+[390]: /img/pokemon/390.png
+[393]: /img/pokemon/393.png
+[406]: /img/pokemon/406.png
+[408]: /img/pokemon/408.png
+[410]: /img/pokemon/410.png
+[433]: /img/pokemon/433.png
+[438]: /img/pokemon/438.png
+[439]: /img/pokemon/439.png
+[440]: /img/pokemon/440.png
+[442]: /img/pokemon/442.png
+[444]: /img/pokemon/444.png
+[446]: /img/pokemon/446.png
+[447]: /img/pokemon/447.png
+[479]: /img/pokemon/479.png
+[480]: /img/pokemon/480.png
+[481]: /img/pokemon/481.png
+[482]: /img/pokemon/482.png
+[483]: /img/pokemon/483.png
+[484]: /img/pokemon/484.png
+[485]: /img/pokemon/485.png
+[486]: /img/pokemon/486.png
+[487]: /img/pokemon/487.png
+[488]: /img/pokemon/488.png
+[489]: /img/pokemon/489.png
+[490]: /img/pokemon/490.png
+[491]: /img/pokemon/491.png
+[492]: /img/pokemon/492.png
+[493]: /img/pokemon/493.png

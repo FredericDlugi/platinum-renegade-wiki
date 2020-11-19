@@ -46,30 +46,6 @@ PKMN Trainer Lucas | Item         | Nature  | Ability       | Moves
 ![][394]<br> [Prinplup] Lv. 30        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Torrent             | Bubble Beam, Icy Wind, Brick Break, Shadow Claw (!)
 
 
-[004]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png "Charmander"
-[028]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png "Sandslash"
-[036]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png "Clefable"
-[075]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png "Graveler"
-[206]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/206.png "Dunsparce"
-[207]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png "Gligar"
-[209]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png "Snubbull"
-[210]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png "Granbull"
-[221]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/221.png "Piloswine"
-[236]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png "Tyrogue"
-[237]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png "Hitmontop"
-[238]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png "Smoochum"
-[240]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png "Magby"
-[252]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png "Treecko"
-[271]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/271.png "Lombre"
-[297]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png "Hariyama"
-[307]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/307.png "Meditite"
-[308]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png "Medicham"
-[328]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/328.png "Trapinch"
-[388]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/388.png "Grotle"
-[391]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/391.png "Monferno"
-[394]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/394.png "Prinplup"
-[428]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428.png "Lopunny"
-[463]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/463.png "Lickilicky"
 [Charmander]: /pokemon_changes/004/
 [Sandslash]: /pokemon_changes/028/
 [Clefable]: /pokemon_changes/036/
@@ -94,6 +70,31 @@ PKMN Trainer Lucas | Item         | Nature  | Ability       | Moves
 [Prinplup]: /pokemon_changes/394/
 [Lopunny]: /pokemon_changes/428/
 [Lickilicky]: /pokemon_changes/463/
-[focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
-[leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png
-[muscle-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-band.png
+[focus-sash]: /img/items/focus-sash.png
+[leftovers]: /img/items/leftovers.png
+[muscle-band]: /img/items/muscle-band.png
+[sitrus-berry]: /img/items/sitrus-berry.png
+[004]: /img/pokemon/004.png
+[028]: /img/pokemon/028.png
+[036]: /img/pokemon/036.png
+[075]: /img/pokemon/075.png
+[206]: /img/pokemon/206.png
+[207]: /img/pokemon/207.png
+[209]: /img/pokemon/209.png
+[210]: /img/pokemon/210.png
+[221]: /img/pokemon/221.png
+[236]: /img/pokemon/236.png
+[237]: /img/pokemon/237.png
+[238]: /img/pokemon/238.png
+[240]: /img/pokemon/240.png
+[252]: /img/pokemon/252.png
+[271]: /img/pokemon/271.png
+[297]: /img/pokemon/297.png
+[307]: /img/pokemon/307.png
+[308]: /img/pokemon/308.png
+[328]: /img/pokemon/328.png
+[388]: /img/pokemon/388.png
+[391]: /img/pokemon/391.png
+[394]: /img/pokemon/394.png
+[428]: /img/pokemon/428.png
+[463]: /img/pokemon/463.png

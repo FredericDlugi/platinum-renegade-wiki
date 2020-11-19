@@ -19,16 +19,6 @@ Bug Catcher Brandon (5)    | ![][269]  [Dustox] Lv. 38  ![][402]  [Kricketune] L
 Bug Catcher Brandon (C)    | ![][269]  [Dustox] Lv. 70  ![][402]  [Kricketune] Lv. 70  ![][212]  [Scizor] Lv. 70
 
 
-[123]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png "Scyther"
-[187]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png "Hoppip"
-[212]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png "Scizor"
-[265]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/265.png "Wurmple"
-[269]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/269.png "Dustox"
-[285]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/285.png "Shroomish"
-[311]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/311.png "Plusle"
-[312]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png "Minun"
-[402]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/402.png "Kricketune"
-[420]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/420.png "Cherubi"
 [Scyther]: /pokemon_changes/123/
 [Hoppip]: /pokemon_changes/187/
 [Scizor]: /pokemon_changes/212/
@@ -39,3 +29,13 @@ Bug Catcher Brandon (C)    | ![][269]  [Dustox] Lv. 70  ![][402]  [Kricketune] L
 [Minun]: /pokemon_changes/312/
 [Kricketune]: /pokemon_changes/402/
 [Cherubi]: /pokemon_changes/420/
+[123]: /img/pokemon/123.png
+[187]: /img/pokemon/187.png
+[212]: /img/pokemon/212.png
+[265]: /img/pokemon/265.png
+[269]: /img/pokemon/269.png
+[285]: /img/pokemon/285.png
+[311]: /img/pokemon/311.png
+[312]: /img/pokemon/312.png
+[402]: /img/pokemon/402.png
+[420]: /img/pokemon/420.png

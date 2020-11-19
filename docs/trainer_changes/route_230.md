@@ -31,28 +31,6 @@ Ace Trainer Luna    | Item         | Nature | Ability        | Moves
 ![][282]<br> [Gardevoir] Lv. 77       | ![][life-orb]<br> Life Orb              | ?        | Synchronize         | Moonblast, Psychic, Thunderbolt, Aura Sphere
 
 
-[036]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png "Clefable"
-[040]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png "Wigglytuff"
-[098]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png "Krabby"
-[099]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png "Kingler"
-[119]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png "Seaking"
-[134]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png "Vaporeon"
-[184]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png "Azumarill"
-[186]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/186.png "Politoed"
-[210]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png "Granbull"
-[222]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png "Corsola"
-[224]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png "Octillery"
-[225]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/225.png "Delibird"
-[226]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png "Mantine"
-[272]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/272.png "Ludicolo"
-[282]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png "Gardevoir"
-[284]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png "Masquerain"
-[303]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/303.png "Mawile"
-[341]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/341.png "Corphish"
-[342]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png "Crawdaunt"
-[365]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/365.png "Walrein"
-[370]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/370.png "Luvdisc"
-[423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
 [Clefable]: /pokemon_changes/036/
 [Wigglytuff]: /pokemon_changes/040/
 [Krabby]: /pokemon_changes/098/
@@ -75,9 +53,31 @@ Ace Trainer Luna    | Item         | Nature | Ability        | Moves
 [Walrein]: /pokemon_changes/365/
 [Luvdisc]: /pokemon_changes/370/
 [Gastrodon]: /pokemon_changes/423/
-[expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
-[focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
-[white-herb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-herb.png
-[leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png
-[life-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png
-[muscle-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-band.png
+[expert-belt]: /img/items/expert-belt.png
+[focus-sash]: /img/items/focus-sash.png
+[leftovers]: /img/items/leftovers.png
+[life-orb]: /img/items/life-orb.png
+[muscle-band]: /img/items/muscle-band.png
+[white-herb]: /img/items/white-herb.png
+[036]: /img/pokemon/036.png
+[040]: /img/pokemon/040.png
+[098]: /img/pokemon/098.png
+[099]: /img/pokemon/099.png
+[119]: /img/pokemon/119.png
+[134]: /img/pokemon/134.png
+[184]: /img/pokemon/184.png
+[186]: /img/pokemon/186.png
+[210]: /img/pokemon/210.png
+[222]: /img/pokemon/222.png
+[224]: /img/pokemon/224.png
+[225]: /img/pokemon/225.png
+[226]: /img/pokemon/226.png
+[272]: /img/pokemon/272.png
+[282]: /img/pokemon/282.png
+[284]: /img/pokemon/284.png
+[303]: /img/pokemon/303.png
+[341]: /img/pokemon/341.png
+[342]: /img/pokemon/342.png
+[365]: /img/pokemon/365.png
+[370]: /img/pokemon/370.png
+[423]: /img/pokemon/423.png

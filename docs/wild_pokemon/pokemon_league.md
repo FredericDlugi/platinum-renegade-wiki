@@ -13,13 +13,6 @@ Good Rod   | ![][129]  [Magikarp] (60%) ![][370]  [Luvdisc] (30%) ![][222]  [Cor
 Super Rod  | ![][130]  [Gyarados] (60%) ![][370]  [Luvdisc] (30%) ![][222]  [Corsola] (10%)
 
 
-[073]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png "Tentacruel"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[222]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png "Corsola"
-[226]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png "Mantine"
-[279]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png "Pelipper"
-[370]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/370.png "Luvdisc"
 [Tentacruel]: /pokemon_changes/073/
 [Magikarp]: /pokemon_changes/129/
 [Gyarados]: /pokemon_changes/130/
@@ -27,3 +20,10 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][370]  [Luvdisc] (30%) ![][222]  [Cor
 [Mantine]: /pokemon_changes/226/
 [Pelipper]: /pokemon_changes/279/
 [Luvdisc]: /pokemon_changes/370/
+[073]: /img/pokemon/073.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[222]: /img/pokemon/222.png
+[226]: /img/pokemon/226.png
+[279]: /img/pokemon/279.png
+[370]: /img/pokemon/370.png

@@ -64,57 +64,6 @@ PKMN Trainer Lucas  | Item         | Nature  | Ability       | Moves
 ![][395]<br> [Empoleon] Lv. 45        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Torrent             | Surf, Flash Cannon, Grass Knot, Featherdance            (!)
 
 
-[018]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png "Pidgeot"
-[036]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png "Clefable"
-[038]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png "Ninetales"
-[042]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png "Golbat"
-[065]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png "Alakazam"
-[068]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png "Machamp"
-[071]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png "Victreebel"
-[078]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png "Rapidash"
-[085]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png "Dodrio"
-[121]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png "Starmie"
-[123]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png "Scyther"
-[127]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png "Pinsir"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[134]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png "Vaporeon"
-[135]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png "Jolteon"
-[136]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png "Flareon"
-[148]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png "Dragonair"
-[149]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png "Dragonite"
-[157]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png "Typhlosion"
-[160]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png "Feraligatr"
-[178]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png "Xatu"
-[181]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png "Ampharos"
-[186]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/186.png "Politoed"
-[210]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png "Granbull"
-[214]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png "Heracross"
-[217]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png "Ursaring"
-[227]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png "Skarmory"
-[257]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png "Blaziken"
-[269]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/269.png "Dustox"
-[291]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png "Ninjask"
-[317]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/317.png "Swalot"
-[327]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/327.png "Spinda"
-[329]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/329.png "Vibrava"
-[330]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png "Flygon"
-[372]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/372.png "Shelgon"
-[373]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png "Salamence"
-[389]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png "Torterra"
-[392]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png "Infernape"
-[395]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png "Empoleon"
-[414]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/414.png "Mothim"
-[424]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/424.png "Ambipom"
-[428]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428.png "Lopunny"
-[435]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png "Skuntank"
-[444]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/444.png "Gabite"
-[445]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png "Garchomp"
-[454]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png "Toxicroak"
-[463]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/463.png "Lickilicky"
-[465]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/465.png "Tangrowth"
-[472]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/472.png "Gliscor"
-[473]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png "Mamoswine"
-[476]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png "Probopass"
 [Pidgeot]: /pokemon_changes/018/
 [Clefable]: /pokemon_changes/036/
 [Ninetales]: /pokemon_changes/038/
@@ -166,8 +115,61 @@ PKMN Trainer Lucas  | Item         | Nature  | Ability       | Moves
 [Gliscor]: /pokemon_changes/472/
 [Mamoswine]: /pokemon_changes/473/
 [Probopass]: /pokemon_changes/476/
-[choice-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-band.png
-[wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png
-[leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png
-[life-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png
-[muscle-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-band.png
+[choice-band]: /img/items/choice-band.png
+[leftovers]: /img/items/leftovers.png
+[life-orb]: /img/items/life-orb.png
+[muscle-band]: /img/items/muscle-band.png
+[passho-berry]: /img/items/passho-berry.png
+[sitrus-berry]: /img/items/sitrus-berry.png
+[wise-glasses]: /img/items/wise-glasses.png
+[018]: /img/pokemon/018.png
+[036]: /img/pokemon/036.png
+[038]: /img/pokemon/038.png
+[042]: /img/pokemon/042.png
+[065]: /img/pokemon/065.png
+[068]: /img/pokemon/068.png
+[071]: /img/pokemon/071.png
+[078]: /img/pokemon/078.png
+[085]: /img/pokemon/085.png
+[121]: /img/pokemon/121.png
+[123]: /img/pokemon/123.png
+[127]: /img/pokemon/127.png
+[130]: /img/pokemon/130.png
+[134]: /img/pokemon/134.png
+[135]: /img/pokemon/135.png
+[136]: /img/pokemon/136.png
+[148]: /img/pokemon/148.png
+[149]: /img/pokemon/149.png
+[157]: /img/pokemon/157.png
+[160]: /img/pokemon/160.png
+[178]: /img/pokemon/178.png
+[181]: /img/pokemon/181.png
+[186]: /img/pokemon/186.png
+[210]: /img/pokemon/210.png
+[214]: /img/pokemon/214.png
+[217]: /img/pokemon/217.png
+[227]: /img/pokemon/227.png
+[257]: /img/pokemon/257.png
+[269]: /img/pokemon/269.png
+[291]: /img/pokemon/291.png
+[317]: /img/pokemon/317.png
+[327]: /img/pokemon/327.png
+[329]: /img/pokemon/329.png
+[330]: /img/pokemon/330.png
+[372]: /img/pokemon/372.png
+[373]: /img/pokemon/373.png
+[389]: /img/pokemon/389.png
+[392]: /img/pokemon/392.png
+[395]: /img/pokemon/395.png
+[414]: /img/pokemon/414.png
+[424]: /img/pokemon/424.png
+[428]: /img/pokemon/428.png
+[435]: /img/pokemon/435.png
+[444]: /img/pokemon/444.png
+[445]: /img/pokemon/445.png
+[454]: /img/pokemon/454.png
+[463]: /img/pokemon/463.png
+[465]: /img/pokemon/465.png
+[472]: /img/pokemon/472.png
+[473]: /img/pokemon/473.png
+[476]: /img/pokemon/476.png

@@ -55,43 +55,6 @@ Gentleman Backlot   | Item         | Nature  | Ability       | Moves
 ![][196]<br> [Espeon] Lv. 33          | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Synchronize         | Psychic, Power Gem, Dazzling Gleam, Protect
 
 
-[012]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png "Butterfree"
-[015]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png "Beedrill"
-[024]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png "Arbok"
-[026]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png "Raichu"
-[040]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png "Wigglytuff"
-[042]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png "Golbat"
-[044]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png "Gloom"
-[048]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png "Venonat"
-[059]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png "Arcanine"
-[068]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png "Machamp"
-[109]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png "Koffing"
-[164]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png "Noctowl"
-[182]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png "Bellossom"
-[184]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png "Azumarill"
-[189]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png "Jumpluff"
-[196]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png "Espeon"
-[198]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/198.png "Murkrow"
-[210]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png "Granbull"
-[224]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png "Octillery"
-[262]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/262.png "Mightyena"
-[269]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/269.png "Dustox"
-[290]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/290.png "Nincada"
-[291]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/291.png "Ninjask"
-[292]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png "Shedinja"
-[301]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png "Delcatty"
-[336]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png "Seviper"
-[337]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/337.png "Lunatone"
-[338]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/338.png "Solrock"
-[394]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/394.png "Prinplup"
-[402]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/402.png "Kricketune"
-[421]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/421.png "Cherrim"
-[431]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/431.png "Glameow"
-[434]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/434.png "Stunky"
-[437]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png "Bronzong"
-[441]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png "Chatot"
-[453]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png "Croagunk"
-[454]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png "Toxicroak"
 [Butterfree]: /pokemon_changes/012/
 [Beedrill]: /pokemon_changes/015/
 [Arbok]: /pokemon_changes/024/
@@ -129,7 +92,45 @@ Gentleman Backlot   | Item         | Nature  | Ability       | Moves
 [Chatot]: /pokemon_changes/441/
 [Croagunk]: /pokemon_changes/453/
 [Toxicroak]: /pokemon_changes/454/
-[wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png
-[zoom-lens]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/zoom-lens.png
-[leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png
-[muscle-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-band.png
+[leftovers]: /img/items/leftovers.png
+[muscle-band]: /img/items/muscle-band.png
+[sitrus-berry]: /img/items/sitrus-berry.png
+[wise-glasses]: /img/items/wise-glasses.png
+[zoom-lens]: /img/items/zoom-lens.png
+[012]: /img/pokemon/012.png
+[015]: /img/pokemon/015.png
+[024]: /img/pokemon/024.png
+[026]: /img/pokemon/026.png
+[040]: /img/pokemon/040.png
+[042]: /img/pokemon/042.png
+[044]: /img/pokemon/044.png
+[048]: /img/pokemon/048.png
+[059]: /img/pokemon/059.png
+[068]: /img/pokemon/068.png
+[109]: /img/pokemon/109.png
+[164]: /img/pokemon/164.png
+[182]: /img/pokemon/182.png
+[184]: /img/pokemon/184.png
+[189]: /img/pokemon/189.png
+[196]: /img/pokemon/196.png
+[198]: /img/pokemon/198.png
+[210]: /img/pokemon/210.png
+[224]: /img/pokemon/224.png
+[262]: /img/pokemon/262.png
+[269]: /img/pokemon/269.png
+[290]: /img/pokemon/290.png
+[291]: /img/pokemon/291.png
+[292]: /img/pokemon/292.png
+[301]: /img/pokemon/301.png
+[336]: /img/pokemon/336.png
+[337]: /img/pokemon/337.png
+[338]: /img/pokemon/338.png
+[394]: /img/pokemon/394.png
+[402]: /img/pokemon/402.png
+[421]: /img/pokemon/421.png
+[431]: /img/pokemon/431.png
+[434]: /img/pokemon/434.png
+[437]: /img/pokemon/437.png
+[441]: /img/pokemon/441.png
+[453]: /img/pokemon/453.png
+[454]: /img/pokemon/454.png

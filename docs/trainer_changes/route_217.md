@@ -28,28 +28,6 @@ Skier Bjorn (C)            | ![][473]  [Mamoswine] Lv. 72  ![][473]  [Mamoswine]
 Ace Trainer Olivia (C)     | ![][275]  [Shiftry] Lv. 72  ![][334]  [Altaria] Lv. 72  ![][242]  [Blissey] Lv. 72
 
 
-[003]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png "Venusaur"
-[068]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png "Machamp"
-[087]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png "Dewgong"
-[124]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png "Jynx"
-[169]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png "Crobat"
-[220]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png "Swinub"
-[221]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/221.png "Piloswine"
-[230]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png "Kingdra"
-[238]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png "Smoochum"
-[242]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png "Blissey"
-[275]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/275.png "Shiftry"
-[334]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png "Altaria"
-[361]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png "Snorunt"
-[448]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png "Lucario"
-[452]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/452.png "Drapion"
-[454]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png "Toxicroak"
-[459]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/459.png "Snover"
-[460]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460.png "Abomasnow"
-[467]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/467.png "Magmortar"
-[471]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png "Glaceon"
-[473]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png "Mamoswine"
-[478]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/478.png "Froslass"
 [Venusaur]: /pokemon_changes/003/
 [Machamp]: /pokemon_changes/068/
 [Dewgong]: /pokemon_changes/087/
@@ -72,3 +50,25 @@ Ace Trainer Olivia (C)     | ![][275]  [Shiftry] Lv. 72  ![][334]  [Altaria] Lv.
 [Glaceon]: /pokemon_changes/471/
 [Mamoswine]: /pokemon_changes/473/
 [Froslass]: /pokemon_changes/478/
+[003]: /img/pokemon/003.png
+[068]: /img/pokemon/068.png
+[087]: /img/pokemon/087.png
+[124]: /img/pokemon/124.png
+[169]: /img/pokemon/169.png
+[220]: /img/pokemon/220.png
+[221]: /img/pokemon/221.png
+[230]: /img/pokemon/230.png
+[238]: /img/pokemon/238.png
+[242]: /img/pokemon/242.png
+[275]: /img/pokemon/275.png
+[334]: /img/pokemon/334.png
+[361]: /img/pokemon/361.png
+[448]: /img/pokemon/448.png
+[452]: /img/pokemon/452.png
+[454]: /img/pokemon/454.png
+[459]: /img/pokemon/459.png
+[460]: /img/pokemon/460.png
+[467]: /img/pokemon/467.png
+[471]: /img/pokemon/471.png
+[473]: /img/pokemon/473.png
+[478]: /img/pokemon/478.png

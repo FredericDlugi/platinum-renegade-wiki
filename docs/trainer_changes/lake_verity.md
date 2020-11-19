@@ -21,20 +21,6 @@ Commander Mars      | Item         | Nature  | Ability       | Moves
 ![][432]<br> [Purugly] Lv. 53         | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Thick Fat           | Body Slam, Play Rough, Hypnosis, Fake Out
 
 
-[012]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png "Butterfree"
-[015]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png "Beedrill"
-[030]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png "Nidorina"
-[033]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png "Nidorino"
-[042]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png "Golbat"
-[115]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png "Kangaskhan"
-[169]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png "Crobat"
-[267]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/267.png "Beautifly"
-[269]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/269.png "Dustox"
-[413]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/413.png "Wormadam"
-[414]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/414.png "Mothim"
-[432]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png "Purugly"
-[437]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png "Bronzong"
-[469]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/469.png "Yanmega"
 [Butterfree]: /pokemon_changes/012/
 [Beedrill]: /pokemon_changes/015/
 [Nidorina]: /pokemon_changes/030/
@@ -49,7 +35,22 @@ Commander Mars      | Item         | Nature  | Ability       | Moves
 [Purugly]: /pokemon_changes/432/
 [Bronzong]: /pokemon_changes/437/
 [Yanmega]: /pokemon_changes/469/
-[bright-powder]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bright-powder.png
-[wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png
-[leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png
-[muscle-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-band.png
+[bright-powder]: /img/items/bright-powder.png
+[leftovers]: /img/items/leftovers.png
+[muscle-band]: /img/items/muscle-band.png
+[sitrus-berry]: /img/items/sitrus-berry.png
+[wise-glasses]: /img/items/wise-glasses.png
+[012]: /img/pokemon/012.png
+[015]: /img/pokemon/015.png
+[030]: /img/pokemon/030.png
+[033]: /img/pokemon/033.png
+[042]: /img/pokemon/042.png
+[115]: /img/pokemon/115.png
+[169]: /img/pokemon/169.png
+[267]: /img/pokemon/267.png
+[269]: /img/pokemon/269.png
+[413]: /img/pokemon/413.png
+[414]: /img/pokemon/414.png
+[432]: /img/pokemon/432.png
+[437]: /img/pokemon/437.png
+[469]: /img/pokemon/469.png

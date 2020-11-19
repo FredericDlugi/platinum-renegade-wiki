@@ -17,16 +17,6 @@ Good Rod   | ![][129]  [Magikarp] (100%)
 Super Rod  | ![][130]  [Gyarados] (100%)
 
 
-[054]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png "Psyduck"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[278]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/278.png "Wingull"
-[283]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/283.png "Surskit"
-[284]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png "Masquerain"
-[298]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png "Azurill"
-[360]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/360.png "Wynaut"
-[396]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png "Starly"
-[399]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png "Bidoof"
 [Psyduck]: /pokemon_changes/054/
 [Magikarp]: /pokemon_changes/129/
 [Gyarados]: /pokemon_changes/130/
@@ -37,3 +27,13 @@ Super Rod  | ![][130]  [Gyarados] (100%)
 [Wynaut]: /pokemon_changes/360/
 [Starly]: /pokemon_changes/396/
 [Bidoof]: /pokemon_changes/399/
+[054]: /img/pokemon/054.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[278]: /img/pokemon/278.png
+[283]: /img/pokemon/283.png
+[284]: /img/pokemon/284.png
+[298]: /img/pokemon/298.png
+[360]: /img/pokemon/360.png
+[396]: /img/pokemon/396.png
+[399]: /img/pokemon/399.png

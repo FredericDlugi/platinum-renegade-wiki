@@ -14,21 +14,6 @@ Young Couple Mike & Nat    | ![][198]  [Murkrow] Lv. 33  ![][200]  [Misdreavus] 
 Belle & Pa Beth & Bob      | ![][077]  [Ponyta] Lv. 33  ![][180]  [Flaaffy] Lv. 33
 
 
-[035]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png "Clefairy"
-[077]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png "Ponyta"
-[173]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png "Cleffa"
-[180]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png "Flaaffy"
-[198]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/198.png "Murkrow"
-[200]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png "Misdreavus"
-[300]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png "Skitty"
-[311]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/311.png "Plusle"
-[312]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png "Minun"
-[320]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/320.png "Wailmer"
-[339]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png "Barboach"
-[414]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/414.png "Mothim"
-[417]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/417.png "Pachirisu"
-[422]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png "Shellos"
-[438]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/438.png "Bonsly"
 [Clefairy]: /pokemon_changes/035/
 [Ponyta]: /pokemon_changes/077/
 [Cleffa]: /pokemon_changes/173/
@@ -44,3 +29,18 @@ Belle & Pa Beth & Bob      | ![][077]  [Ponyta] Lv. 33  ![][180]  [Flaaffy] Lv. 
 [Pachirisu]: /pokemon_changes/417/
 [Shellos]: /pokemon_changes/422/
 [Bonsly]: /pokemon_changes/438/
+[035]: /img/pokemon/035.png
+[077]: /img/pokemon/077.png
+[173]: /img/pokemon/173.png
+[180]: /img/pokemon/180.png
+[198]: /img/pokemon/198.png
+[200]: /img/pokemon/200.png
+[300]: /img/pokemon/300.png
+[311]: /img/pokemon/311.png
+[312]: /img/pokemon/312.png
+[320]: /img/pokemon/320.png
+[339]: /img/pokemon/339.png
+[414]: /img/pokemon/414.png
+[417]: /img/pokemon/417.png
+[422]: /img/pokemon/422.png
+[438]: /img/pokemon/438.png

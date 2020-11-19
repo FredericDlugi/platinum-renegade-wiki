@@ -18,24 +18,6 @@ Super Rod  | ![][130]  [Gyarados] (65%) ![][119]  [Seaking] (35%)
 Honey Tree | ![][420]  [Cherubi] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Exeggcute] (20%)  ![][274]  [Nuzleaf] (20%) ![][114]  [Tangela] (10%)
 
 
-[044]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png "Gloom"
-[070]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png "Weepinbell"
-[083]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png "Farfetch'd"
-[102]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png "Exeggcute"
-[114]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png "Tangela"
-[118]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png "Goldeen"
-[119]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png "Seaking"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[183]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/183.png "Marill"
-[184]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png "Azumarill"
-[235]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/235.png "Smeargle"
-[274]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/274.png "Nuzleaf"
-[281]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png "Kirlia"
-[285]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/285.png "Shroomish"
-[315]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/315.png "Roselia"
-[397]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/397.png "Staravia"
-[420]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/420.png "Cherubi"
 [Gloom]: /pokemon_changes/044/
 [Weepinbell]: /pokemon_changes/070/
 [Farfetch'd]: /pokemon_changes/083/
@@ -54,3 +36,21 @@ Honey Tree | ![][420]  [Cherubi] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Ex
 [Roselia]: /pokemon_changes/315/
 [Staravia]: /pokemon_changes/397/
 [Cherubi]: /pokemon_changes/420/
+[044]: /img/pokemon/044.png
+[070]: /img/pokemon/070.png
+[083]: /img/pokemon/083.png
+[102]: /img/pokemon/102.png
+[114]: /img/pokemon/114.png
+[118]: /img/pokemon/118.png
+[119]: /img/pokemon/119.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[183]: /img/pokemon/183.png
+[184]: /img/pokemon/184.png
+[235]: /img/pokemon/235.png
+[274]: /img/pokemon/274.png
+[281]: /img/pokemon/281.png
+[285]: /img/pokemon/285.png
+[315]: /img/pokemon/315.png
+[397]: /img/pokemon/397.png
+[420]: /img/pokemon/420.png

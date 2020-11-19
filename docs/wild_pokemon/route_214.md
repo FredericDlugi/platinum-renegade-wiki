@@ -18,24 +18,6 @@ Super Rod  | ![][130]  [Gyarados] (65%) ![][119]  [Seaking] (35%)
 Honey Tree | ![][190]  [Aipom] (30%) ![][288]  [Vigoroth] (20%) ![][012]  [Butterfree] (20%)  ![][015]  [Beedrill] (20%) ![][446]  [Munchlax] (10%)
 
 
-[012]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png "Butterfree"
-[015]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png "Beedrill"
-[054]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png "Psyduck"
-[055]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png "Golduck"
-[075]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png "Graveler"
-[111]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png "Rhyhorn"
-[118]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png "Goldeen"
-[119]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png "Seaking"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[190]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/190.png "Aipom"
-[228]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/228.png "Houndour"
-[288]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png "Vigoroth"
-[322]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/322.png "Numel"
-[325]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/325.png "Spoink"
-[327]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/327.png "Spinda"
-[331]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/331.png "Cacnea"
-[446]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png "Munchlax"
 [Butterfree]: /pokemon_changes/012/
 [Beedrill]: /pokemon_changes/015/
 [Psyduck]: /pokemon_changes/054/
@@ -54,3 +36,21 @@ Honey Tree | ![][190]  [Aipom] (30%) ![][288]  [Vigoroth] (20%) ![][012]  [Butte
 [Spinda]: /pokemon_changes/327/
 [Cacnea]: /pokemon_changes/331/
 [Munchlax]: /pokemon_changes/446/
+[012]: /img/pokemon/012.png
+[015]: /img/pokemon/015.png
+[054]: /img/pokemon/054.png
+[055]: /img/pokemon/055.png
+[075]: /img/pokemon/075.png
+[111]: /img/pokemon/111.png
+[118]: /img/pokemon/118.png
+[119]: /img/pokemon/119.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[190]: /img/pokemon/190.png
+[228]: /img/pokemon/228.png
+[288]: /img/pokemon/288.png
+[322]: /img/pokemon/322.png
+[325]: /img/pokemon/325.png
+[327]: /img/pokemon/327.png
+[331]: /img/pokemon/331.png
+[446]: /img/pokemon/446.png

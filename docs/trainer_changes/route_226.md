@@ -23,24 +23,6 @@ Ace Trainer Wyver  | Item         | Nature | Ability           | Moves
 ![][373]<br> [Salamence] Lv. 77       | ![][focus-sash]<br> Focus Sash          | ?        | Intimidate          | Outrage, Aerial Ace, Dragon Dance, Earthquake
 
 
-[022]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png "Fearow"
-[087]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png "Dewgong"
-[106]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png "Hitmonlee"
-[107]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png "Hitmonchan"
-[149]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png "Dragonite"
-[178]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png "Xatu"
-[184]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png "Azumarill"
-[230]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png "Kingdra"
-[236]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png "Tyrogue"
-[237]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png "Hitmontop"
-[277]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png "Swellow"
-[319]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png "Sharpedo"
-[321]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png "Wailord"
-[330]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png "Flygon"
-[334]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png "Altaria"
-[340]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png "Whiscash"
-[373]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png "Salamence"
-[445]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png "Garchomp"
 [Fearow]: /pokemon_changes/022/
 [Dewgong]: /pokemon_changes/087/
 [Hitmonlee]: /pokemon_changes/106/
@@ -59,7 +41,27 @@ Ace Trainer Wyver  | Item         | Nature | Ability           | Moves
 [Whiscash]: /pokemon_changes/340/
 [Salamence]: /pokemon_changes/373/
 [Garchomp]: /pokemon_changes/445/
-[choice-scarf]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-scarf.png
-[focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
-[white-herb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-herb.png
-[leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png
+[choice-scarf]: /img/items/choice-scarf.png
+[focus-sash]: /img/items/focus-sash.png
+[haban-berry]: /img/items/haban-berry.png
+[leftovers]: /img/items/leftovers.png
+[sitrus-berry]: /img/items/sitrus-berry.png
+[white-herb]: /img/items/white-herb.png
+[022]: /img/pokemon/022.png
+[087]: /img/pokemon/087.png
+[106]: /img/pokemon/106.png
+[107]: /img/pokemon/107.png
+[149]: /img/pokemon/149.png
+[178]: /img/pokemon/178.png
+[184]: /img/pokemon/184.png
+[230]: /img/pokemon/230.png
+[236]: /img/pokemon/236.png
+[237]: /img/pokemon/237.png
+[277]: /img/pokemon/277.png
+[319]: /img/pokemon/319.png
+[321]: /img/pokemon/321.png
+[330]: /img/pokemon/330.png
+[334]: /img/pokemon/334.png
+[340]: /img/pokemon/340.png
+[373]: /img/pokemon/373.png
+[445]: /img/pokemon/445.png

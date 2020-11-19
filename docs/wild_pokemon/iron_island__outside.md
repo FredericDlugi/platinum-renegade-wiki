@@ -9,15 +9,6 @@ Good Rod   | ![][129]  [Magikarp] (60%) ![][456]  [Finneon] (30%) ![][211]  [Qwi
 Super Rod  | ![][130]  [Gyarados] (60%) ![][457]  [Lumineon] (30%) ![][211]  [Qwilfish] (10%)
 
 
-[072]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png "Tentacool"
-[073]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png "Tentacruel"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[211]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/211.png "Qwilfish"
-[278]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/278.png "Wingull"
-[279]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png "Pelipper"
-[456]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/456.png "Finneon"
-[457]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png "Lumineon"
 [Tentacool]: /pokemon_changes/072/
 [Tentacruel]: /pokemon_changes/073/
 [Magikarp]: /pokemon_changes/129/
@@ -27,3 +18,12 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][457]  [Lumineon] (30%) ![][211]  [Qw
 [Pelipper]: /pokemon_changes/279/
 [Finneon]: /pokemon_changes/456/
 [Lumineon]: /pokemon_changes/457/
+[072]: /img/pokemon/072.png
+[073]: /img/pokemon/073.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[211]: /img/pokemon/211.png
+[278]: /img/pokemon/278.png
+[279]: /img/pokemon/279.png
+[456]: /img/pokemon/456.png
+[457]: /img/pokemon/457.png

@@ -16,22 +16,6 @@ Good Rod   | ![][129]  [Magikarp] (60%) ![][116]  [Horsea] (30%) ![][147]  [Drat
 Super Rod  | ![][130]  [Gyarados] (60%) ![][117]  [Seadra] (30%) ![][148]  [Dragonair] (10%)
 
 
-[035]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png "Clefairy"
-[041]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png "Zubat"
-[042]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png "Golbat"
-[075]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png "Graveler"
-[116]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png "Horsea"
-[117]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png "Seadra"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[147]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png "Dratini"
-[148]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png "Dragonair"
-[299]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/299.png "Nosepass"
-[337]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/337.png "Lunatone"
-[338]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/338.png "Solrock"
-[358]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png "Chimecho"
-[375]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png "Metang"
-[437]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png "Bronzong"
 [Clefairy]: /pokemon_changes/035/
 [Zubat]: /pokemon_changes/041/
 [Golbat]: /pokemon_changes/042/
@@ -48,3 +32,19 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][117]  [Seadra] (30%) ![][148]  [Drag
 [Chimecho]: /pokemon_changes/358/
 [Metang]: /pokemon_changes/375/
 [Bronzong]: /pokemon_changes/437/
+[035]: /img/pokemon/035.png
+[041]: /img/pokemon/041.png
+[042]: /img/pokemon/042.png
+[075]: /img/pokemon/075.png
+[116]: /img/pokemon/116.png
+[117]: /img/pokemon/117.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[147]: /img/pokemon/147.png
+[148]: /img/pokemon/148.png
+[299]: /img/pokemon/299.png
+[337]: /img/pokemon/337.png
+[338]: /img/pokemon/338.png
+[358]: /img/pokemon/358.png
+[375]: /img/pokemon/375.png
+[437]: /img/pokemon/437.png

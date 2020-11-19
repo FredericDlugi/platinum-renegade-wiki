@@ -13,14 +13,6 @@ Night      | ![][221]  [Piloswine] (30%) ![][361]  [Snorunt] (20%) ![][215]  [Sn
 Poké Radar | ![][478]  [Froslass] (22%)
 
 
-[124]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png "Jynx"
-[215]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png "Sneasel"
-[221]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/221.png "Piloswine"
-[225]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/225.png "Delibird"
-[361]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png "Snorunt"
-[362]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png "Glalie"
-[460]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460.png "Abomasnow"
-[478]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/478.png "Froslass"
 [Jynx]: /pokemon_changes/124/
 [Sneasel]: /pokemon_changes/215/
 [Piloswine]: /pokemon_changes/221/
@@ -29,3 +21,11 @@ Poké Radar | ![][478]  [Froslass] (22%)
 [Glalie]: /pokemon_changes/362/
 [Abomasnow]: /pokemon_changes/460/
 [Froslass]: /pokemon_changes/478/
+[124]: /img/pokemon/124.png
+[215]: /img/pokemon/215.png
+[221]: /img/pokemon/221.png
+[225]: /img/pokemon/225.png
+[361]: /img/pokemon/361.png
+[362]: /img/pokemon/362.png
+[460]: /img/pokemon/460.png
+[478]: /img/pokemon/478.png

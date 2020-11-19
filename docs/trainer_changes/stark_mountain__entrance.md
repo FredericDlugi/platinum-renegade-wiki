@@ -24,16 +24,6 @@ Commander Jupiter  | Item          | Nature | Ability         | Moves
 ![][435]<br> [Skuntank] Lv. 78        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Aftermath           | Gunk Shot, Crunch, Play Rough, Toxic
 
 
-[115]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png "Kangaskhan"
-[169]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png "Crobat"
-[302]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/302.png "Sableye"
-[423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
-[432]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png "Purugly"
-[435]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png "Skuntank"
-[437]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png "Bronzong"
-[465]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/465.png "Tangrowth"
-[466]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png "Electivire"
-[469]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/469.png "Yanmega"
 [Kangaskhan]: /pokemon_changes/115/
 [Crobat]: /pokemon_changes/169/
 [Sableye]: /pokemon_changes/302/
@@ -44,10 +34,21 @@ Commander Jupiter  | Item          | Nature | Ability         | Moves
 [Tangrowth]: /pokemon_changes/465/
 [Electivire]: /pokemon_changes/466/
 [Yanmega]: /pokemon_changes/469/
-[bright-powder]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bright-powder.png
-[expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
-[white-herb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-herb.png
-[wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png
-[leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png
-[life-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png
-[muscle-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-band.png
+[bright-powder]: /img/items/bright-powder.png
+[expert-belt]: /img/items/expert-belt.png
+[leftovers]: /img/items/leftovers.png
+[life-orb]: /img/items/life-orb.png
+[muscle-band]: /img/items/muscle-band.png
+[sitrus-berry]: /img/items/sitrus-berry.png
+[white-herb]: /img/items/white-herb.png
+[wise-glasses]: /img/items/wise-glasses.png
+[115]: /img/pokemon/115.png
+[169]: /img/pokemon/169.png
+[302]: /img/pokemon/302.png
+[423]: /img/pokemon/423.png
+[432]: /img/pokemon/432.png
+[435]: /img/pokemon/435.png
+[437]: /img/pokemon/437.png
+[465]: /img/pokemon/465.png
+[466]: /img/pokemon/466.png
+[469]: /img/pokemon/469.png

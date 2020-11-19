@@ -11,15 +11,15 @@ Galactic Grunt             | ![][198]  [Murkrow] Lv. 54  ![][262]  [Mightyena] L
 Galactic Grunt             | ![][284]  [Masquerain] Lv. 55  ![][089]  [Muk] Lv. 55
 
 
-[042]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png "Golbat"
-[089]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png "Muk"
-[198]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/198.png "Murkrow"
-[215]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png "Sneasel"
-[262]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/262.png "Mightyena"
-[284]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png "Masquerain"
 [Golbat]: /pokemon_changes/042/
 [Muk]: /pokemon_changes/089/
 [Murkrow]: /pokemon_changes/198/
 [Sneasel]: /pokemon_changes/215/
 [Mightyena]: /pokemon_changes/262/
 [Masquerain]: /pokemon_changes/284/
+[042]: /img/pokemon/042.png
+[089]: /img/pokemon/089.png
+[198]: /img/pokemon/198.png
+[215]: /img/pokemon/215.png
+[262]: /img/pokemon/262.png
+[284]: /img/pokemon/284.png

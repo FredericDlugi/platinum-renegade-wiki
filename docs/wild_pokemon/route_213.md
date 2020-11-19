@@ -18,26 +18,6 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][224]  [Octillery] (30%) ![][321]  [W
 Honey Tree | ![][397]  [Staravia] (30%) ![][017]  [Pidgeotto] (20%) ![][164]  [Noctowl] (20%)  ![][277]  [Swellow] (20%) ![][083]  [Farfetch'd] (10%)
 
 
-[017]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png "Pidgeotto"
-[072]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png "Tentacool"
-[073]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png "Tentacruel"
-[083]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png "Farfetch'd"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[164]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png "Noctowl"
-[213]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png "Shuckle"
-[223]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png "Remoraid"
-[224]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png "Octillery"
-[277]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png "Swellow"
-[278]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/278.png "Wingull"
-[279]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png "Pelipper"
-[320]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/320.png "Wailmer"
-[321]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png "Wailord"
-[359]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359.png "Absol"
-[397]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/397.png "Staravia"
-[419]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png "Floatzel"
-[423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
-[441]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png "Chatot"
 [Pidgeotto]: /pokemon_changes/017/
 [Tentacool]: /pokemon_changes/072/
 [Tentacruel]: /pokemon_changes/073/
@@ -58,3 +38,23 @@ Honey Tree | ![][397]  [Staravia] (30%) ![][017]  [Pidgeotto] (20%) ![][164]  [N
 [Floatzel]: /pokemon_changes/419/
 [Gastrodon]: /pokemon_changes/423/
 [Chatot]: /pokemon_changes/441/
+[017]: /img/pokemon/017.png
+[072]: /img/pokemon/072.png
+[073]: /img/pokemon/073.png
+[083]: /img/pokemon/083.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[164]: /img/pokemon/164.png
+[213]: /img/pokemon/213.png
+[223]: /img/pokemon/223.png
+[224]: /img/pokemon/224.png
+[277]: /img/pokemon/277.png
+[278]: /img/pokemon/278.png
+[279]: /img/pokemon/279.png
+[320]: /img/pokemon/320.png
+[321]: /img/pokemon/321.png
+[359]: /img/pokemon/359.png
+[397]: /img/pokemon/397.png
+[419]: /img/pokemon/419.png
+[423]: /img/pokemon/423.png
+[441]: /img/pokemon/441.png

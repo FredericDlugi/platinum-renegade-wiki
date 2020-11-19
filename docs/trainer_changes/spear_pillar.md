@@ -32,31 +32,6 @@ Commander Jupiter  | Item         | Nature  | Ability       | Moves
 ![][435]<br> [Skuntank] Lv. 58        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Aftermath           | Gunk Shot, Crunch, Play Rough, Toxic
 
 
-[042]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png "Golbat"
-[049]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png "Venomoth"
-[053]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png "Persian"
-[059]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png "Arcanine"
-[097]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png "Hypno"
-[115]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png "Kangaskhan"
-[143]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png "Snorlax"
-[169]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png "Crobat"
-[184]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png "Azumarill"
-[214]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png "Heracross"
-[267]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/267.png "Beautifly"
-[286]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/286.png "Breloom"
-[302]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/302.png "Sableye"
-[389]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png "Torterra"
-[392]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png "Infernape"
-[395]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png "Empoleon"
-[398]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png "Staraptor"
-[423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
-[432]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png "Purugly"
-[435]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png "Skuntank"
-[437]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png "Bronzong"
-[454]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png "Toxicroak"
-[465]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/465.png "Tangrowth"
-[466]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png "Electivire"
-[469]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/469.png "Yanmega"
 [Golbat]: /pokemon_changes/042/
 [Venomoth]: /pokemon_changes/049/
 [Persian]: /pokemon_changes/053/
@@ -82,10 +57,36 @@ Commander Jupiter  | Item         | Nature  | Ability       | Moves
 [Tangrowth]: /pokemon_changes/465/
 [Electivire]: /pokemon_changes/466/
 [Yanmega]: /pokemon_changes/469/
-[big-root]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-root.png
-[bright-powder]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bright-powder.png
-[expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
-[wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png
-[leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png
-[life-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png
-[muscle-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-band.png
+[big-root]: /img/items/big-root.png
+[bright-powder]: /img/items/bright-powder.png
+[expert-belt]: /img/items/expert-belt.png
+[leftovers]: /img/items/leftovers.png
+[life-orb]: /img/items/life-orb.png
+[muscle-band]: /img/items/muscle-band.png
+[sitrus-berry]: /img/items/sitrus-berry.png
+[wise-glasses]: /img/items/wise-glasses.png
+[042]: /img/pokemon/042.png
+[049]: /img/pokemon/049.png
+[053]: /img/pokemon/053.png
+[059]: /img/pokemon/059.png
+[097]: /img/pokemon/097.png
+[115]: /img/pokemon/115.png
+[143]: /img/pokemon/143.png
+[169]: /img/pokemon/169.png
+[184]: /img/pokemon/184.png
+[214]: /img/pokemon/214.png
+[267]: /img/pokemon/267.png
+[286]: /img/pokemon/286.png
+[302]: /img/pokemon/302.png
+[389]: /img/pokemon/389.png
+[392]: /img/pokemon/392.png
+[395]: /img/pokemon/395.png
+[398]: /img/pokemon/398.png
+[423]: /img/pokemon/423.png
+[432]: /img/pokemon/432.png
+[435]: /img/pokemon/435.png
+[437]: /img/pokemon/437.png
+[454]: /img/pokemon/454.png
+[465]: /img/pokemon/465.png
+[466]: /img/pokemon/466.png
+[469]: /img/pokemon/469.png

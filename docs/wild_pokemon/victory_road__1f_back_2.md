@@ -12,18 +12,6 @@ Good Rod   | ![][129]  [Magikarp] (100%)
 Super Rod  | ![][130]  [Gyarados] (100%)
 
 
-[042]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png "Golbat"
-[067]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png "Machoke"
-[075]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png "Graveler"
-[087]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png "Dewgong"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[131]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png "Lapras"
-[184]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png "Azumarill"
-[308]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png "Medicham"
-[364]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/364.png "Sealeo"
-[419]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png "Floatzel"
-[444]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/444.png "Gabite"
 [Golbat]: /pokemon_changes/042/
 [Machoke]: /pokemon_changes/067/
 [Graveler]: /pokemon_changes/075/
@@ -36,3 +24,15 @@ Super Rod  | ![][130]  [Gyarados] (100%)
 [Sealeo]: /pokemon_changes/364/
 [Floatzel]: /pokemon_changes/419/
 [Gabite]: /pokemon_changes/444/
+[042]: /img/pokemon/042.png
+[067]: /img/pokemon/067.png
+[075]: /img/pokemon/075.png
+[087]: /img/pokemon/087.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[131]: /img/pokemon/131.png
+[184]: /img/pokemon/184.png
+[308]: /img/pokemon/308.png
+[364]: /img/pokemon/364.png
+[419]: /img/pokemon/419.png
+[444]: /img/pokemon/444.png

@@ -18,68 +18,6 @@ Veteran Edgar              | ![][474]  [Porygon-Z] Lv. 64  ![][465]  [Tangrowth]
 Dragon Tamer Clinton       | ![][330]  [Flygon] Lv. 64  ![][130]  [Gyarados] Lv. 64  ![][149]  [Dragonite] Lv. 64 <br> ![][142]  [Aerodactyl] Lv. 64
 
 
-[003]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png "Venusaur"
-[006]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png "Charizard"
-[018]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png "Pidgeot"
-[036]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png "Clefable"
-[038]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png "Ninetales"
-[062]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png "Poliwrath"
-[068]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png "Machamp"
-[071]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png "Victreebel"
-[076]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png "Golem"
-[078]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png "Rapidash"
-[083]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png "Farfetch'd"
-[085]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png "Dodrio"
-[094]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png "Gengar"
-[103]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png "Exeggutor"
-[105]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png "Marowak"
-[106]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png "Hitmonlee"
-[107]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png "Hitmonchan"
-[121]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png "Starmie"
-[127]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png "Pinsir"
-[128]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png "Tauros"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[142]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png "Aerodactyl"
-[149]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png "Dragonite"
-[157]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png "Typhlosion"
-[164]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png "Noctowl"
-[189]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png "Jumpluff"
-[196]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png "Espeon"
-[197]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png "Umbreon"
-[199]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png "Slowking"
-[214]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png "Heracross"
-[219]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/219.png "Magcargo"
-[230]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png "Kingdra"
-[242]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png "Blissey"
-[282]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png "Gardevoir"
-[306]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png "Aggron"
-[308]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png "Medicham"
-[310]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/310.png "Manectric"
-[326]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/326.png "Grumpig"
-[330]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png "Flygon"
-[334]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png "Altaria"
-[340]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png "Whiscash"
-[350]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png "Milotic"
-[357]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/357.png "Tropius"
-[358]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png "Chimecho"
-[359]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359.png "Absol"
-[365]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/365.png "Walrein"
-[373]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png "Salamence"
-[389]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png "Torterra"
-[395]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png "Empoleon"
-[398]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png "Staraptor"
-[409]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/409.png "Rampardos"
-[424]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/424.png "Ambipom"
-[429]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/429.png "Mismagius"
-[430]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/430.png "Honchkrow"
-[450]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/450.png "Hippowdon"
-[455]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/455.png "Carnivine"
-[463]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/463.png "Lickilicky"
-[465]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/465.png "Tangrowth"
-[466]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png "Electivire"
-[473]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png "Mamoswine"
-[474]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/474.png "Porygon-Z"
-[477]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/477.png "Dusknoir"
 [Venusaur]: /pokemon_changes/003/
 [Charizard]: /pokemon_changes/006/
 [Pidgeot]: /pokemon_changes/018/
@@ -142,3 +80,65 @@ Dragon Tamer Clinton       | ![][330]  [Flygon] Lv. 64  ![][130]  [Gyarados] Lv.
 [Mamoswine]: /pokemon_changes/473/
 [Porygon-Z]: /pokemon_changes/474/
 [Dusknoir]: /pokemon_changes/477/
+[003]: /img/pokemon/003.png
+[006]: /img/pokemon/006.png
+[018]: /img/pokemon/018.png
+[036]: /img/pokemon/036.png
+[038]: /img/pokemon/038.png
+[062]: /img/pokemon/062.png
+[068]: /img/pokemon/068.png
+[071]: /img/pokemon/071.png
+[076]: /img/pokemon/076.png
+[078]: /img/pokemon/078.png
+[083]: /img/pokemon/083.png
+[085]: /img/pokemon/085.png
+[094]: /img/pokemon/094.png
+[103]: /img/pokemon/103.png
+[105]: /img/pokemon/105.png
+[106]: /img/pokemon/106.png
+[107]: /img/pokemon/107.png
+[121]: /img/pokemon/121.png
+[127]: /img/pokemon/127.png
+[128]: /img/pokemon/128.png
+[130]: /img/pokemon/130.png
+[142]: /img/pokemon/142.png
+[149]: /img/pokemon/149.png
+[157]: /img/pokemon/157.png
+[164]: /img/pokemon/164.png
+[189]: /img/pokemon/189.png
+[196]: /img/pokemon/196.png
+[197]: /img/pokemon/197.png
+[199]: /img/pokemon/199.png
+[214]: /img/pokemon/214.png
+[219]: /img/pokemon/219.png
+[230]: /img/pokemon/230.png
+[242]: /img/pokemon/242.png
+[282]: /img/pokemon/282.png
+[306]: /img/pokemon/306.png
+[308]: /img/pokemon/308.png
+[310]: /img/pokemon/310.png
+[326]: /img/pokemon/326.png
+[330]: /img/pokemon/330.png
+[334]: /img/pokemon/334.png
+[340]: /img/pokemon/340.png
+[350]: /img/pokemon/350.png
+[357]: /img/pokemon/357.png
+[358]: /img/pokemon/358.png
+[359]: /img/pokemon/359.png
+[365]: /img/pokemon/365.png
+[373]: /img/pokemon/373.png
+[389]: /img/pokemon/389.png
+[395]: /img/pokemon/395.png
+[398]: /img/pokemon/398.png
+[409]: /img/pokemon/409.png
+[424]: /img/pokemon/424.png
+[429]: /img/pokemon/429.png
+[430]: /img/pokemon/430.png
+[450]: /img/pokemon/450.png
+[455]: /img/pokemon/455.png
+[463]: /img/pokemon/463.png
+[465]: /img/pokemon/465.png
+[466]: /img/pokemon/466.png
+[473]: /img/pokemon/473.png
+[474]: /img/pokemon/474.png
+[477]: /img/pokemon/477.png

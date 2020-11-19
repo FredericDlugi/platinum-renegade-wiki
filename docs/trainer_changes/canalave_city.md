@@ -23,15 +23,6 @@ PKMN Trainer Barry | Item         | Nature  | Ability       | Moves
 ![][395]<br> [Empoleon] Lv. 49        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Torrent             | Surf, Flash Cannon, Grass Knot, Agility             (!)
 
 
-[059]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png "Arcanine"
-[143]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png "Snorlax"
-[184]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png "Azumarill"
-[214]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png "Heracross"
-[286]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/286.png "Breloom"
-[389]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png "Torterra"
-[392]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png "Infernape"
-[395]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png "Empoleon"
-[398]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png "Staraptor"
 [Arcanine]: /pokemon_changes/059/
 [Snorlax]: /pokemon_changes/143/
 [Azumarill]: /pokemon_changes/184/
@@ -41,9 +32,19 @@ PKMN Trainer Barry | Item         | Nature  | Ability       | Moves
 [Infernape]: /pokemon_changes/392/
 [Empoleon]: /pokemon_changes/395/
 [Staraptor]: /pokemon_changes/398/
-[choice-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-band.png
-[expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
-[focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
-[leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png
-[life-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png
-[muscle-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-band.png
+[choice-band]: /img/items/choice-band.png
+[expert-belt]: /img/items/expert-belt.png
+[focus-sash]: /img/items/focus-sash.png
+[leftovers]: /img/items/leftovers.png
+[life-orb]: /img/items/life-orb.png
+[muscle-band]: /img/items/muscle-band.png
+[sitrus-berry]: /img/items/sitrus-berry.png
+[059]: /img/pokemon/059.png
+[143]: /img/pokemon/143.png
+[184]: /img/pokemon/184.png
+[214]: /img/pokemon/214.png
+[286]: /img/pokemon/286.png
+[389]: /img/pokemon/389.png
+[392]: /img/pokemon/392.png
+[395]: /img/pokemon/395.png
+[398]: /img/pokemon/398.png

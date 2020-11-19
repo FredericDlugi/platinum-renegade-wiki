@@ -22,23 +22,6 @@ Leader Volkner      | Item         | Nature  | Ability       | Moves
 ![][466]<br> [Electivire] Lv. 62      | ![][life-orb]<br> Life Orb              | Jolly    | Motor Drive         | Wild Charge, Close Combat, Ice Punch, Earthquake
 
 
-[025]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png "Pikachu"
-[026]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png "Raichu"
-[101]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png "Electrode"
-[125]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png "Electabuzz"
-[135]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png "Jolteon"
-[171]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png "Lanturn"
-[172]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png "Pichu"
-[181]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png "Ampharos"
-[239]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png "Elekid"
-[310]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/310.png "Manectric"
-[311]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/311.png "Plusle"
-[312]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png "Minun"
-[405]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png "Luxray"
-[417]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/417.png "Pachirisu"
-[462]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png "Magnezone"
-[466]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png "Electivire"
-[479]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/479.png "Rotom"
 [Pikachu]: /pokemon_changes/025/
 [Raichu]: /pokemon_changes/026/
 [Electrode]: /pokemon_changes/101/
@@ -56,8 +39,26 @@ Leader Volkner      | Item         | Nature  | Ability       | Moves
 [Magnezone]: /pokemon_changes/462/
 [Electivire]: /pokemon_changes/466/
 [Rotom]: /pokemon_changes/479/
-[choice-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-band.png
-[expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
-[focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
-[white-herb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-herb.png
-[life-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png
+[choice-band]: /img/items/choice-band.png
+[expert-belt]: /img/items/expert-belt.png
+[focus-sash]: /img/items/focus-sash.png
+[life-orb]: /img/items/life-orb.png
+[sitrus-berry]: /img/items/sitrus-berry.png
+[white-herb]: /img/items/white-herb.png
+[025]: /img/pokemon/025.png
+[026]: /img/pokemon/026.png
+[101]: /img/pokemon/101.png
+[125]: /img/pokemon/125.png
+[135]: /img/pokemon/135.png
+[171]: /img/pokemon/171.png
+[172]: /img/pokemon/172.png
+[181]: /img/pokemon/181.png
+[239]: /img/pokemon/239.png
+[310]: /img/pokemon/310.png
+[311]: /img/pokemon/311.png
+[312]: /img/pokemon/312.png
+[405]: /img/pokemon/405.png
+[417]: /img/pokemon/417.png
+[462]: /img/pokemon/462.png
+[466]: /img/pokemon/466.png
+[479]: /img/pokemon/479.png

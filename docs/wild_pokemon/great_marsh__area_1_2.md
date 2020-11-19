@@ -12,18 +12,6 @@ Good Rod   | ![][129]  [Magikarp] (60%) ![][339]  [Barboach] (30%) ![][318]  [Ca
 Super Rod  | ![][130]  [Gyarados] (60%) ![][340]  [Whiscash] (30%) ![][319]  [Sharpedo] (10%)
 
 
-[114]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png "Tangela"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[194]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png "Wooper"
-[195]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png "Quagsire"
-[318]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/318.png "Carvanha"
-[319]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png "Sharpedo"
-[339]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png "Barboach"
-[340]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png "Whiscash"
-[357]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/357.png "Tropius"
-[400]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png "Bibarel"
-[455]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/455.png "Carnivine"
 [Tangela]: /pokemon_changes/114/
 [Magikarp]: /pokemon_changes/129/
 [Gyarados]: /pokemon_changes/130/
@@ -36,3 +24,15 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][340]  [Whiscash] (30%) ![][319]  [Sh
 [Tropius]: /pokemon_changes/357/
 [Bibarel]: /pokemon_changes/400/
 [Carnivine]: /pokemon_changes/455/
+[114]: /img/pokemon/114.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[194]: /img/pokemon/194.png
+[195]: /img/pokemon/195.png
+[318]: /img/pokemon/318.png
+[319]: /img/pokemon/319.png
+[339]: /img/pokemon/339.png
+[340]: /img/pokemon/340.png
+[357]: /img/pokemon/357.png
+[400]: /img/pokemon/400.png
+[455]: /img/pokemon/455.png

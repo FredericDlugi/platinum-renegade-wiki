@@ -13,16 +13,6 @@ Good Rod   | ![][098]  [Krabby] (60%) ![][116]  [Horsea] (30%) ![][366]  [Clampe
 Super Rod  | ![][099]  [Kingler] (60%) ![][116]  [Horsea] (30%) ![][367]  [Huntail] (5%)  ![][368]  [Gorebyss] (5%)
 
 
-[072]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png "Tentacool"
-[073]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png "Tentacruel"
-[098]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png "Krabby"
-[099]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png "Kingler"
-[116]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png "Horsea"
-[278]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/278.png "Wingull"
-[279]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png "Pelipper"
-[366]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/366.png "Clamperl"
-[367]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/367.png "Huntail"
-[368]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/368.png "Gorebyss"
 [Tentacool]: /pokemon_changes/072/
 [Tentacruel]: /pokemon_changes/073/
 [Krabby]: /pokemon_changes/098/
@@ -33,3 +23,13 @@ Super Rod  | ![][099]  [Kingler] (60%) ![][116]  [Horsea] (30%) ![][367]  [Hunta
 [Clamperl]: /pokemon_changes/366/
 [Huntail]: /pokemon_changes/367/
 [Gorebyss]: /pokemon_changes/368/
+[072]: /img/pokemon/072.png
+[073]: /img/pokemon/073.png
+[098]: /img/pokemon/098.png
+[099]: /img/pokemon/099.png
+[116]: /img/pokemon/116.png
+[278]: /img/pokemon/278.png
+[279]: /img/pokemon/279.png
+[366]: /img/pokemon/366.png
+[367]: /img/pokemon/367.png
+[368]: /img/pokemon/368.png

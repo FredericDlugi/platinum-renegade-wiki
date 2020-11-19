@@ -30,46 +30,6 @@ PKMN Breeder Jennifer (8)  | ![][184]  [Azumarill] Lv. 57  ![][468]  [Togekiss] 
 PKMN Breeder Jennifer (C)  | ![][184]  [Azumarill] Lv. 68  ![][468]  [Togekiss] Lv. 68  ![][036]  [Clefable] Lv. 68 <br> ![][040]  [Wigglytuff] Lv. 68  ![][124]  [Jynx] Lv. 68  ![][407]  [Roserade] Lv. 68
 
 
-[022]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png "Fearow"
-[025]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png "Pikachu"
-[026]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png "Raichu"
-[035]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png "Clefairy"
-[036]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png "Clefable"
-[039]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png "Jigglypuff"
-[040]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png "Wigglytuff"
-[077]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png "Ponyta"
-[085]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png "Dodrio"
-[122]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png "Mr. Mime"
-[124]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png "Jynx"
-[125]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png "Electabuzz"
-[126]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png "Magmar"
-[134]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png "Vaporeon"
-[136]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png "Flareon"
-[172]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png "Pichu"
-[173]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png "Cleffa"
-[174]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/174.png "Igglybuff"
-[175]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png "Togepi"
-[176]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/176.png "Togetic"
-[183]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/183.png "Marill"
-[184]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png "Azumarill"
-[185]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png "Sudowoodo"
-[236]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png "Tyrogue"
-[237]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png "Hitmontop"
-[238]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png "Smoochum"
-[239]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png "Elekid"
-[240]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png "Magby"
-[298]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png "Azurill"
-[313]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/313.png "Volbeat"
-[314]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png "Illumise"
-[315]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/315.png "Roselia"
-[358]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png "Chimecho"
-[400]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png "Bibarel"
-[406]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/406.png "Budew"
-[407]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/407.png "Roserade"
-[433]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/433.png "Chingling"
-[438]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/438.png "Bonsly"
-[439]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png "Mime Jr."
-[468]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/468.png "Togekiss"
 [Fearow]: /pokemon_changes/022/
 [Pikachu]: /pokemon_changes/025/
 [Raichu]: /pokemon_changes/026/
@@ -110,3 +70,43 @@ PKMN Breeder Jennifer (C)  | ![][184]  [Azumarill] Lv. 68  ![][468]  [Togekiss] 
 [Bonsly]: /pokemon_changes/438/
 [Mime Jr.]: /pokemon_changes/439/
 [Togekiss]: /pokemon_changes/468/
+[022]: /img/pokemon/022.png
+[025]: /img/pokemon/025.png
+[026]: /img/pokemon/026.png
+[035]: /img/pokemon/035.png
+[036]: /img/pokemon/036.png
+[039]: /img/pokemon/039.png
+[040]: /img/pokemon/040.png
+[077]: /img/pokemon/077.png
+[085]: /img/pokemon/085.png
+[122]: /img/pokemon/122.png
+[124]: /img/pokemon/124.png
+[125]: /img/pokemon/125.png
+[126]: /img/pokemon/126.png
+[134]: /img/pokemon/134.png
+[136]: /img/pokemon/136.png
+[172]: /img/pokemon/172.png
+[173]: /img/pokemon/173.png
+[174]: /img/pokemon/174.png
+[175]: /img/pokemon/175.png
+[176]: /img/pokemon/176.png
+[183]: /img/pokemon/183.png
+[184]: /img/pokemon/184.png
+[185]: /img/pokemon/185.png
+[236]: /img/pokemon/236.png
+[237]: /img/pokemon/237.png
+[238]: /img/pokemon/238.png
+[239]: /img/pokemon/239.png
+[240]: /img/pokemon/240.png
+[298]: /img/pokemon/298.png
+[313]: /img/pokemon/313.png
+[314]: /img/pokemon/314.png
+[315]: /img/pokemon/315.png
+[358]: /img/pokemon/358.png
+[400]: /img/pokemon/400.png
+[406]: /img/pokemon/406.png
+[407]: /img/pokemon/407.png
+[433]: /img/pokemon/433.png
+[438]: /img/pokemon/438.png
+[439]: /img/pokemon/439.png
+[468]: /img/pokemon/468.png

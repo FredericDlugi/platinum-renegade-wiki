@@ -6,15 +6,15 @@ Worker Mason               | ![][304]  [Aron] Lv. 12  ![][231]  [Phanpy] Lv. 12 
 Worker Colin               | ![][074]  [Geodude] Lv. 12  ![][293]  [Whismur] Lv. 12  ![][066]  [Machop] Lv. 12
 
 
-[066]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png "Machop"
-[074]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png "Geodude"
-[231]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/231.png "Phanpy"
-[293]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/293.png "Whismur"
-[304]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/304.png "Aron"
-[447]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/447.png "Riolu"
 [Machop]: /pokemon_changes/066/
 [Geodude]: /pokemon_changes/074/
 [Phanpy]: /pokemon_changes/231/
 [Whismur]: /pokemon_changes/293/
 [Aron]: /pokemon_changes/304/
 [Riolu]: /pokemon_changes/447/
+[066]: /img/pokemon/066.png
+[074]: /img/pokemon/074.png
+[231]: /img/pokemon/231.png
+[293]: /img/pokemon/293.png
+[304]: /img/pokemon/304.png
+[447]: /img/pokemon/447.png

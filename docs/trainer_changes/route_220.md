@@ -15,21 +15,6 @@ Swimmer Erik               | ![][186]  [Politoed] Lv. 44  ![][171]  [Lanturn] Lv
 Swimmer Katelyn            | ![][419]  [Floatzel] Lv. 43  ![][308]  [Medicham] Lv. 43  ![][119]  [Seaking] Lv. 43
 
 
-[009]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png "Blastoise"
-[073]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png "Tentacruel"
-[117]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png "Seadra"
-[119]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png "Seaking"
-[121]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png "Starmie"
-[171]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png "Lanturn"
-[186]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/186.png "Politoed"
-[199]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png "Slowking"
-[222]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png "Corsola"
-[224]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png "Octillery"
-[308]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png "Medicham"
-[321]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png "Wailord"
-[370]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/370.png "Luvdisc"
-[419]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png "Floatzel"
-[457]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png "Lumineon"
 [Blastoise]: /pokemon_changes/009/
 [Tentacruel]: /pokemon_changes/073/
 [Seadra]: /pokemon_changes/117/
@@ -45,3 +30,18 @@ Swimmer Katelyn            | ![][419]  [Floatzel] Lv. 43  ![][308]  [Medicham] L
 [Luvdisc]: /pokemon_changes/370/
 [Floatzel]: /pokemon_changes/419/
 [Lumineon]: /pokemon_changes/457/
+[009]: /img/pokemon/009.png
+[073]: /img/pokemon/073.png
+[117]: /img/pokemon/117.png
+[119]: /img/pokemon/119.png
+[121]: /img/pokemon/121.png
+[171]: /img/pokemon/171.png
+[186]: /img/pokemon/186.png
+[199]: /img/pokemon/199.png
+[222]: /img/pokemon/222.png
+[224]: /img/pokemon/224.png
+[308]: /img/pokemon/308.png
+[321]: /img/pokemon/321.png
+[370]: /img/pokemon/370.png
+[419]: /img/pokemon/419.png
+[457]: /img/pokemon/457.png

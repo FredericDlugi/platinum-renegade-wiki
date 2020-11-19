@@ -32,27 +32,6 @@ Skier Andrea (8)           | ![][460]  [Abomasnow] Lv. 61
 Skier Andrea (C)           | ![][460]  [Abomasnow] Lv. 72
 
 
-[062]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png "Poliwrath"
-[068]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png "Machamp"
-[122]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png "Mr. Mime"
-[123]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png "Scyther"
-[131]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png "Lapras"
-[137]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png "Porygon"
-[156]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png "Quilava"
-[176]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/176.png "Togetic"
-[185]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png "Sudowoodo"
-[195]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png "Quagsire"
-[220]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png "Swinub"
-[221]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/221.png "Piloswine"
-[274]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/274.png "Nuzleaf"
-[277]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png "Swellow"
-[288]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png "Vigoroth"
-[297]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png "Hariyama"
-[361]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png "Snorunt"
-[362]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png "Glalie"
-[459]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/459.png "Snover"
-[460]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460.png "Abomasnow"
-[473]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png "Mamoswine"
 [Poliwrath]: /pokemon_changes/062/
 [Machamp]: /pokemon_changes/068/
 [Mr. Mime]: /pokemon_changes/122/
@@ -74,3 +53,24 @@ Skier Andrea (C)           | ![][460]  [Abomasnow] Lv. 72
 [Snover]: /pokemon_changes/459/
 [Abomasnow]: /pokemon_changes/460/
 [Mamoswine]: /pokemon_changes/473/
+[062]: /img/pokemon/062.png
+[068]: /img/pokemon/068.png
+[122]: /img/pokemon/122.png
+[123]: /img/pokemon/123.png
+[131]: /img/pokemon/131.png
+[137]: /img/pokemon/137.png
+[156]: /img/pokemon/156.png
+[176]: /img/pokemon/176.png
+[185]: /img/pokemon/185.png
+[195]: /img/pokemon/195.png
+[220]: /img/pokemon/220.png
+[221]: /img/pokemon/221.png
+[274]: /img/pokemon/274.png
+[277]: /img/pokemon/277.png
+[288]: /img/pokemon/288.png
+[297]: /img/pokemon/297.png
+[361]: /img/pokemon/361.png
+[362]: /img/pokemon/362.png
+[459]: /img/pokemon/459.png
+[460]: /img/pokemon/460.png
+[473]: /img/pokemon/473.png

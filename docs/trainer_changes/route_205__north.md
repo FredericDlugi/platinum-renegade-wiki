@@ -18,17 +18,6 @@ Fisherman Joseph (5)       | ![][119]  [Seaking] Lv. 38  ![][061]  [Poliwhirl] L
 Fisherman Joseph (C)       | ![][119]  [Seaking] Lv. 70  ![][186]  [Politoed] Lv. 70  ![][342]  [Crawdaunt] Lv. 70
 
 
-[060]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png "Poliwag"
-[061]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png "Poliwhirl"
-[098]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png "Krabby"
-[118]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png "Goldeen"
-[119]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png "Seaking"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[186]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/186.png "Politoed"
-[341]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/341.png "Corphish"
-[342]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png "Crawdaunt"
-[349]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/349.png "Feebas"
-[456]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/456.png "Finneon"
 [Poliwag]: /pokemon_changes/060/
 [Poliwhirl]: /pokemon_changes/061/
 [Krabby]: /pokemon_changes/098/
@@ -40,3 +29,14 @@ Fisherman Joseph (C)       | ![][119]  [Seaking] Lv. 70  ![][186]  [Politoed] Lv
 [Crawdaunt]: /pokemon_changes/342/
 [Feebas]: /pokemon_changes/349/
 [Finneon]: /pokemon_changes/456/
+[060]: /img/pokemon/060.png
+[061]: /img/pokemon/061.png
+[098]: /img/pokemon/098.png
+[118]: /img/pokemon/118.png
+[119]: /img/pokemon/119.png
+[129]: /img/pokemon/129.png
+[186]: /img/pokemon/186.png
+[341]: /img/pokemon/341.png
+[342]: /img/pokemon/342.png
+[349]: /img/pokemon/349.png
+[456]: /img/pokemon/456.png

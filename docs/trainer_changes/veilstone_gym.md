@@ -18,25 +18,6 @@ Leader Maylene     | Item         | Nature  | Ability       | Moves
 ![][448]<br> [Lucario] Lv. 39         | ![][focus-sash]<br> Focus Sash          | Timid    | Adaptability (!)    | Aura Sphere, Flash Cannon, Dark Pulse, Agility
 
 
-[056]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png "Mankey"
-[057]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png "Primeape"
-[062]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png "Poliwrath"
-[066]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png "Machop"
-[068]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png "Machamp"
-[106]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png "Hitmonlee"
-[107]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png "Hitmonchan"
-[214]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png "Heracross"
-[237]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png "Hitmontop"
-[286]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/286.png "Breloom"
-[296]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png "Makuhita"
-[297]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png "Hariyama"
-[307]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/307.png "Meditite"
-[308]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png "Medicham"
-[392]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png "Infernape"
-[448]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png "Lucario"
-[453]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png "Croagunk"
-[454]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png "Toxicroak"
-[475]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475.png "Gallade"
 [Mankey]: /pokemon_changes/056/
 [Primeape]: /pokemon_changes/057/
 [Poliwrath]: /pokemon_changes/062/
@@ -56,8 +37,28 @@ Leader Maylene     | Item         | Nature  | Ability       | Moves
 [Croagunk]: /pokemon_changes/453/
 [Toxicroak]: /pokemon_changes/454/
 [Gallade]: /pokemon_changes/475/
-[big-root]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-root.png
-[focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
-[toxic-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/toxic-orb.png
-[life-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png
-[light-clay]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/light-clay.png
+[big-root]: /img/items/big-root.png
+[focus-sash]: /img/items/focus-sash.png
+[life-orb]: /img/items/life-orb.png
+[light-clay]: /img/items/light-clay.png
+[sitrus-berry]: /img/items/sitrus-berry.png
+[toxic-orb]: /img/items/toxic-orb.png
+[056]: /img/pokemon/056.png
+[057]: /img/pokemon/057.png
+[062]: /img/pokemon/062.png
+[066]: /img/pokemon/066.png
+[068]: /img/pokemon/068.png
+[106]: /img/pokemon/106.png
+[107]: /img/pokemon/107.png
+[214]: /img/pokemon/214.png
+[237]: /img/pokemon/237.png
+[286]: /img/pokemon/286.png
+[296]: /img/pokemon/296.png
+[297]: /img/pokemon/297.png
+[307]: /img/pokemon/307.png
+[308]: /img/pokemon/308.png
+[392]: /img/pokemon/392.png
+[448]: /img/pokemon/448.png
+[453]: /img/pokemon/453.png
+[454]: /img/pokemon/454.png
+[475]: /img/pokemon/475.png

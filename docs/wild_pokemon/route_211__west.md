@@ -13,13 +13,6 @@ Night      | ![][307]  [Meditite] (30%) ![][066]  [Machop] (20%) ![][333]  [Swab
 Poké Radar | ![][236]  [Tyrogue] (22%)
 
 
-[066]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png "Machop"
-[177]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/177.png "Natu"
-[216]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/216.png "Teddiursa"
-[236]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png "Tyrogue"
-[307]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/307.png "Meditite"
-[333]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png "Swablu"
-[433]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/433.png "Chingling"
 [Machop]: /pokemon_changes/066/
 [Natu]: /pokemon_changes/177/
 [Teddiursa]: /pokemon_changes/216/
@@ -27,3 +20,10 @@ Poké Radar | ![][236]  [Tyrogue] (22%)
 [Meditite]: /pokemon_changes/307/
 [Swablu]: /pokemon_changes/333/
 [Chingling]: /pokemon_changes/433/
+[066]: /img/pokemon/066.png
+[177]: /img/pokemon/177.png
+[216]: /img/pokemon/216.png
+[236]: /img/pokemon/236.png
+[307]: /img/pokemon/307.png
+[333]: /img/pokemon/333.png
+[433]: /img/pokemon/433.png

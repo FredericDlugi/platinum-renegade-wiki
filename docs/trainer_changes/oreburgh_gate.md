@@ -7,13 +7,6 @@ Picnicker Diana            | ![][293]  [Whismur] Lv. 10  ![][194]  [Wooper] Lv. 
 Veteran Grant              | ![][448]  [Lucario] Lv. 45  ![][076]  [Golem] Lv. 45  ![][398]  [Staraptor] Lv. 45
 
 
-[050]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png "Diglett"
-[076]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png "Golem"
-[194]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png "Wooper"
-[273]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/273.png "Seedot"
-[293]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/293.png "Whismur"
-[398]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png "Staraptor"
-[448]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png "Lucario"
 [Diglett]: /pokemon_changes/050/
 [Golem]: /pokemon_changes/076/
 [Wooper]: /pokemon_changes/194/
@@ -21,3 +14,10 @@ Veteran Grant              | ![][448]  [Lucario] Lv. 45  ![][076]  [Golem] Lv. 4
 [Whismur]: /pokemon_changes/293/
 [Staraptor]: /pokemon_changes/398/
 [Lucario]: /pokemon_changes/448/
+[050]: /img/pokemon/050.png
+[076]: /img/pokemon/076.png
+[194]: /img/pokemon/194.png
+[273]: /img/pokemon/273.png
+[293]: /img/pokemon/293.png
+[398]: /img/pokemon/398.png
+[448]: /img/pokemon/448.png

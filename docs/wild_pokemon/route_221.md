@@ -18,28 +18,6 @@ Super Rod  | ![][099]  [Kingler] (60%) ![][116]  [Horsea] (30%) ![][367]  [Hunta
 Honey Tree | ![][421]  [Cherrim] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Exeggcute] (20%)  ![][274]  [Nuzleaf] (20%) ![][114]  [Tangela] (10%)
 
 
-[030]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png "Nidorina"
-[033]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png "Nidorino"
-[072]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png "Tentacool"
-[073]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png "Tentacruel"
-[083]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png "Farfetch'd"
-[085]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png "Dodrio"
-[098]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png "Krabby"
-[099]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png "Kingler"
-[102]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png "Exeggcute"
-[114]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png "Tangela"
-[116]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png "Horsea"
-[185]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png "Sudowoodo"
-[203]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png "Girafarig"
-[274]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/274.png "Nuzleaf"
-[278]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/278.png "Wingull"
-[279]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png "Pelipper"
-[285]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/285.png "Shroomish"
-[366]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/366.png "Clamperl"
-[367]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/367.png "Huntail"
-[368]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/368.png "Gorebyss"
-[421]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/421.png "Cherrim"
-[435]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png "Skuntank"
 [Nidorina]: /pokemon_changes/030/
 [Nidorino]: /pokemon_changes/033/
 [Tentacool]: /pokemon_changes/072/
@@ -62,3 +40,25 @@ Honey Tree | ![][421]  [Cherrim] (30%) ![][285]  [Shroomish] (20%) ![][102]  [Ex
 [Gorebyss]: /pokemon_changes/368/
 [Cherrim]: /pokemon_changes/421/
 [Skuntank]: /pokemon_changes/435/
+[030]: /img/pokemon/030.png
+[033]: /img/pokemon/033.png
+[072]: /img/pokemon/072.png
+[073]: /img/pokemon/073.png
+[083]: /img/pokemon/083.png
+[085]: /img/pokemon/085.png
+[098]: /img/pokemon/098.png
+[099]: /img/pokemon/099.png
+[102]: /img/pokemon/102.png
+[114]: /img/pokemon/114.png
+[116]: /img/pokemon/116.png
+[185]: /img/pokemon/185.png
+[203]: /img/pokemon/203.png
+[274]: /img/pokemon/274.png
+[278]: /img/pokemon/278.png
+[279]: /img/pokemon/279.png
+[285]: /img/pokemon/285.png
+[366]: /img/pokemon/366.png
+[367]: /img/pokemon/367.png
+[368]: /img/pokemon/368.png
+[421]: /img/pokemon/421.png
+[435]: /img/pokemon/435.png

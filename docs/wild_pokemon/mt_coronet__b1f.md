@@ -12,19 +12,6 @@ Good Rod   | ![][349]  [Feebas] (100%)
 Super Rod  | ![][349]  [Feebas] (100%)
 
 
-[035]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png "Clefairy"
-[041]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png "Zubat"
-[074]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png "Geodude"
-[086]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png "Seel"
-[299]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/299.png "Nosepass"
-[337]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/337.png "Lunatone"
-[338]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/338.png "Solrock"
-[349]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/349.png "Feebas"
-[358]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png "Chimecho"
-[363]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/363.png "Spheal"
-[364]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/364.png "Sealeo"
-[375]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png "Metang"
-[436]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/436.png "Bronzor"
 [Clefairy]: /pokemon_changes/035/
 [Zubat]: /pokemon_changes/041/
 [Geodude]: /pokemon_changes/074/
@@ -38,3 +25,16 @@ Super Rod  | ![][349]  [Feebas] (100%)
 [Sealeo]: /pokemon_changes/364/
 [Metang]: /pokemon_changes/375/
 [Bronzor]: /pokemon_changes/436/
+[035]: /img/pokemon/035.png
+[041]: /img/pokemon/041.png
+[074]: /img/pokemon/074.png
+[086]: /img/pokemon/086.png
+[299]: /img/pokemon/299.png
+[337]: /img/pokemon/337.png
+[338]: /img/pokemon/338.png
+[349]: /img/pokemon/349.png
+[358]: /img/pokemon/358.png
+[363]: /img/pokemon/363.png
+[364]: /img/pokemon/364.png
+[375]: /img/pokemon/375.png
+[436]: /img/pokemon/436.png

@@ -22,21 +22,6 @@ Ace Trainer Jake (C)       | ![][344]  [Claydol] Lv. 72  ![][006]  [Charizard] L
 Collector Ivan (C)         | ![][468]  [Togekiss] Lv. 72  ![][242]  [Blissey] Lv. 72
 
 
-[006]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png "Charizard"
-[031]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png "Nidoqueen"
-[045]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png "Vileplume"
-[099]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png "Kingler"
-[103]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png "Exeggutor"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[242]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png "Blissey"
-[260]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png "Swampert"
-[282]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png "Gardevoir"
-[340]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png "Whiscash"
-[344]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/344.png "Claydol"
-[350]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png "Milotic"
-[359]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359.png "Absol"
-[428]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428.png "Lopunny"
-[468]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/468.png "Togekiss"
 [Charizard]: /pokemon_changes/006/
 [Nidoqueen]: /pokemon_changes/031/
 [Vileplume]: /pokemon_changes/045/
@@ -52,3 +37,18 @@ Collector Ivan (C)         | ![][468]  [Togekiss] Lv. 72  ![][242]  [Blissey] Lv
 [Absol]: /pokemon_changes/359/
 [Lopunny]: /pokemon_changes/428/
 [Togekiss]: /pokemon_changes/468/
+[006]: /img/pokemon/006.png
+[031]: /img/pokemon/031.png
+[045]: /img/pokemon/045.png
+[099]: /img/pokemon/099.png
+[103]: /img/pokemon/103.png
+[130]: /img/pokemon/130.png
+[242]: /img/pokemon/242.png
+[260]: /img/pokemon/260.png
+[282]: /img/pokemon/282.png
+[340]: /img/pokemon/340.png
+[344]: /img/pokemon/344.png
+[350]: /img/pokemon/350.png
+[359]: /img/pokemon/359.png
+[428]: /img/pokemon/428.png
+[468]: /img/pokemon/468.png

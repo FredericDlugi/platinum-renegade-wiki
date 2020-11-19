@@ -30,30 +30,6 @@ Sailor Marc (S)            | ![][171]  [Lanturn] Lv. 75  ![][068]  [Machamp] Lv.
 Fisherman Alec (C)         | ![][130]  [Gyarados] Lv. 70  ![][130]  [Gyarados] Lv. 70  ![][130]  [Gyarados] Lv. 70
 
 
-[025]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png "Pikachu"
-[062]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png "Poliwrath"
-[068]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png "Machamp"
-[099]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png "Kingler"
-[119]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png "Seaking"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[136]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png "Flareon"
-[154]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png "Meganium"
-[164]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png "Noctowl"
-[171]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png "Lanturn"
-[184]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png "Azumarill"
-[211]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/211.png "Qwilfish"
-[223]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png "Remoraid"
-[224]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png "Octillery"
-[226]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png "Mantine"
-[230]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png "Kingdra"
-[254]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png "Sceptile"
-[264]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/264.png "Linoone"
-[279]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png "Pelipper"
-[319]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png "Sharpedo"
-[405]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png "Luxray"
-[423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
-[428]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428.png "Lopunny"
-[457]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png "Lumineon"
 [Pikachu]: /pokemon_changes/025/
 [Poliwrath]: /pokemon_changes/062/
 [Machamp]: /pokemon_changes/068/
@@ -78,3 +54,27 @@ Fisherman Alec (C)         | ![][130]  [Gyarados] Lv. 70  ![][130]  [Gyarados] L
 [Gastrodon]: /pokemon_changes/423/
 [Lopunny]: /pokemon_changes/428/
 [Lumineon]: /pokemon_changes/457/
+[025]: /img/pokemon/025.png
+[062]: /img/pokemon/062.png
+[068]: /img/pokemon/068.png
+[099]: /img/pokemon/099.png
+[119]: /img/pokemon/119.png
+[130]: /img/pokemon/130.png
+[136]: /img/pokemon/136.png
+[154]: /img/pokemon/154.png
+[164]: /img/pokemon/164.png
+[171]: /img/pokemon/171.png
+[184]: /img/pokemon/184.png
+[211]: /img/pokemon/211.png
+[223]: /img/pokemon/223.png
+[224]: /img/pokemon/224.png
+[226]: /img/pokemon/226.png
+[230]: /img/pokemon/230.png
+[254]: /img/pokemon/254.png
+[264]: /img/pokemon/264.png
+[279]: /img/pokemon/279.png
+[319]: /img/pokemon/319.png
+[405]: /img/pokemon/405.png
+[423]: /img/pokemon/423.png
+[428]: /img/pokemon/428.png
+[457]: /img/pokemon/457.png

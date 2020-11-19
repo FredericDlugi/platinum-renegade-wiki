@@ -16,19 +16,6 @@ Good Rod   | ![][129]  [Magikarp] (65%) ![][339]  [Barboach] (35%)
 Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
 
 
-[028]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png "Sandslash"
-[051]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png "Dugtrio"
-[061]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png "Poliwhirl"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[329]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/329.png "Vibrava"
-[332]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/332.png "Cacturne"
-[339]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png "Barboach"
-[340]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png "Whiscash"
-[344]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/344.png "Claydol"
-[375]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png "Metang"
-[444]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/444.png "Gabite"
-[450]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/450.png "Hippowdon"
 [Sandslash]: /pokemon_changes/028/
 [Dugtrio]: /pokemon_changes/051/
 [Poliwhirl]: /pokemon_changes/061/
@@ -42,3 +29,16 @@ Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
 [Metang]: /pokemon_changes/375/
 [Gabite]: /pokemon_changes/444/
 [Hippowdon]: /pokemon_changes/450/
+[028]: /img/pokemon/028.png
+[051]: /img/pokemon/051.png
+[061]: /img/pokemon/061.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[329]: /img/pokemon/329.png
+[332]: /img/pokemon/332.png
+[339]: /img/pokemon/339.png
+[340]: /img/pokemon/340.png
+[344]: /img/pokemon/344.png
+[375]: /img/pokemon/375.png
+[444]: /img/pokemon/444.png
+[450]: /img/pokemon/450.png

@@ -19,26 +19,6 @@ Commander Jupiter | Item         | Nature  | Ability       | Moves
 ![][435]<br> [Skuntank] Lv. 27        | ![][sitrus-berry]<br> Sitrus Berry      | Adamant  | Aftermath           | Poison Jab, Night Slash, Focus Energy, Torment
 
 
-[023]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png "Ekans"
-[029]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png "Nidoran♀"
-[032]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png "Nidoran♂"
-[042]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png "Golbat"
-[064]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png "Kadabra"
-[096]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png "Drowzee"
-[109]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png "Koffing"
-[114]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png "Tangela"
-[166]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png "Ledian"
-[168]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/168.png "Ariados"
-[173]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png "Cleffa"
-[228]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/228.png "Houndour"
-[267]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/267.png "Beautifly"
-[302]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/302.png "Sableye"
-[375]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/375.png "Metang"
-[431]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/431.png "Glameow"
-[434]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/434.png "Stunky"
-[435]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png "Skuntank"
-[451]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/451.png "Skorupi"
-[453]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png "Croagunk"
 [Ekans]: /pokemon_changes/023/
 [Nidoran♀]: /pokemon_changes/029/
 [Nidoran♂]: /pokemon_changes/032/
@@ -59,3 +39,24 @@ Commander Jupiter | Item         | Nature  | Ability       | Moves
 [Skuntank]: /pokemon_changes/435/
 [Skorupi]: /pokemon_changes/451/
 [Croagunk]: /pokemon_changes/453/
+[sitrus-berry]: /img/items/sitrus-berry.png
+[023]: /img/pokemon/023.png
+[029]: /img/pokemon/029.png
+[032]: /img/pokemon/032.png
+[042]: /img/pokemon/042.png
+[064]: /img/pokemon/064.png
+[096]: /img/pokemon/096.png
+[109]: /img/pokemon/109.png
+[114]: /img/pokemon/114.png
+[166]: /img/pokemon/166.png
+[168]: /img/pokemon/168.png
+[173]: /img/pokemon/173.png
+[228]: /img/pokemon/228.png
+[267]: /img/pokemon/267.png
+[302]: /img/pokemon/302.png
+[375]: /img/pokemon/375.png
+[431]: /img/pokemon/431.png
+[434]: /img/pokemon/434.png
+[435]: /img/pokemon/435.png
+[451]: /img/pokemon/451.png
+[453]: /img/pokemon/453.png

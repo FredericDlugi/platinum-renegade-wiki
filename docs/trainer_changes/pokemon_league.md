@@ -285,81 +285,6 @@ PKMN Trainer Barry  | Item         | Nature  | Ability       | Moves
 ![][384]<br> [Rayquaza] Lv. 89        | ![][focus-sash]<br> Focus Sash          | ?        | Air Lock            | Outrage, Earthquake, Overheat, Dragon Dance
 
 
-[006]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png "Charizard"
-[036]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png "Clefable"
-[038]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png "Ninetales"
-[049]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png "Venomoth"
-[051]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png "Dugtrio"
-[059]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png "Arcanine"
-[065]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png "Alakazam"
-[076]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png "Golem"
-[078]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png "Rapidash"
-[080]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png "Slowbro"
-[097]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png "Hypno"
-[103]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png "Exeggutor"
-[121]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png "Starmie"
-[122]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png "Mr. Mime"
-[123]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png "Scyther"
-[124]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png "Jynx"
-[127]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png "Pinsir"
-[136]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png "Flareon"
-[143]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png "Snorlax"
-[146]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png "Moltres"
-[157]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png "Typhlosion"
-[181]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png "Ampharos"
-[184]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png "Azumarill"
-[185]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png "Sudowoodo"
-[195]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png "Quagsire"
-[196]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png "Espeon"
-[203]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png "Girafarig"
-[205]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png "Forretress"
-[208]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png "Steelix"
-[212]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png "Scizor"
-[214]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png "Heracross"
-[219]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/219.png "Magcargo"
-[229]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png "Houndoom"
-[232]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/232.png "Donphan"
-[248]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png "Tyranitar"
-[260]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png "Swampert"
-[267]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/267.png "Beautifly"
-[269]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/269.png "Dustox"
-[282]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png "Gardevoir"
-[284]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png "Masquerain"
-[286]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/286.png "Breloom"
-[308]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png "Medicham"
-[323]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/323.png "Camerupt"
-[324]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png "Torkoal"
-[330]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png "Flygon"
-[340]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png "Whiscash"
-[344]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/344.png "Claydol"
-[348]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/348.png "Armaldo"
-[350]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png "Milotic"
-[376]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png "Metagross"
-[381]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/381.png "Latios"
-[384]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png "Rayquaza"
-[389]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png "Torterra"
-[392]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png "Infernape"
-[395]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png "Empoleon"
-[398]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png "Staraptor"
-[407]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/407.png "Roserade"
-[416]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/416.png "Vespiquen"
-[426]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/426.png "Drifblim"
-[428]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428.png "Lopunny"
-[429]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/429.png "Mismagius"
-[437]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png "Bronzong"
-[442]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/442.png "Spiritomb"
-[445]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png "Garchomp"
-[448]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png "Lucario"
-[450]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/450.png "Hippowdon"
-[452]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/452.png "Drapion"
-[464]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/464.png "Rhyperior"
-[467]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/467.png "Magmortar"
-[468]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/468.png "Togekiss"
-[469]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/469.png "Yanmega"
-[471]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png "Glaceon"
-[472]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/472.png "Gliscor"
-[473]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/473.png "Mamoswine"
-[475]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475.png "Gallade"
 [Charizard]: /pokemon_changes/006/
 [Clefable]: /pokemon_changes/036/
 [Ninetales]: /pokemon_changes/038/
@@ -435,20 +360,105 @@ PKMN Trainer Barry  | Item         | Nature  | Ability       | Moves
 [Gliscor]: /pokemon_changes/472/
 [Mamoswine]: /pokemon_changes/473/
 [Gallade]: /pokemon_changes/475/
-[choice-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-band.png
-[choice-scarf]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-scarf.png
-[choice-specs]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-specs.png
-[expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
-[flame-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flame-orb.png
-[focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
-[scope-lens]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/scope-lens.png
-[toxic-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/toxic-orb.png
-[white-herb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-herb.png
-[wide-lens]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wide-lens.png
-[wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png
-[heat-rock]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heat-rock.png
-[leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png
-[life-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png
-[light-clay]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/light-clay.png
-[muscle-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-band.png
-[power-herb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-herb.png
+[choice-band]: /img/items/choice-band.png
+[choice-scarf]: /img/items/choice-scarf.png
+[choice-specs]: /img/items/choice-specs.png
+[colbur-berry]: /img/items/colbur-berry.png
+[expert-belt]: /img/items/expert-belt.png
+[flame-orb]: /img/items/flame-orb.png
+[focus-sash]: /img/items/focus-sash.png
+[heat-rock]: /img/items/heat-rock.png
+[leftovers]: /img/items/leftovers.png
+[life-orb]: /img/items/life-orb.png
+[light-clay]: /img/items/light-clay.png
+[lum-berry]: /img/items/lum-berry.png
+[muscle-band]: /img/items/muscle-band.png
+[occa-berry]: /img/items/occa-berry.png
+[passho-berry]: /img/items/passho-berry.png
+[power-herb]: /img/items/power-herb.png
+[rindo-berry]: /img/items/rindo-berry.png
+[salac-berry]: /img/items/salac-berry.png
+[scope-lens]: /img/items/scope-lens.png
+[shuca-berry]: /img/items/shuca-berry.png
+[sitrus-berry]: /img/items/sitrus-berry.png
+[toxic-orb]: /img/items/toxic-orb.png
+[wacan-berry]: /img/items/wacan-berry.png
+[white-herb]: /img/items/white-herb.png
+[wide-lens]: /img/items/wide-lens.png
+[wise-glasses]: /img/items/wise-glasses.png
+[yache-berry]: /img/items/yache-berry.png
+[006]: /img/pokemon/006.png
+[036]: /img/pokemon/036.png
+[038]: /img/pokemon/038.png
+[049]: /img/pokemon/049.png
+[051]: /img/pokemon/051.png
+[059]: /img/pokemon/059.png
+[065]: /img/pokemon/065.png
+[076]: /img/pokemon/076.png
+[078]: /img/pokemon/078.png
+[080]: /img/pokemon/080.png
+[097]: /img/pokemon/097.png
+[103]: /img/pokemon/103.png
+[121]: /img/pokemon/121.png
+[122]: /img/pokemon/122.png
+[123]: /img/pokemon/123.png
+[124]: /img/pokemon/124.png
+[127]: /img/pokemon/127.png
+[136]: /img/pokemon/136.png
+[143]: /img/pokemon/143.png
+[146]: /img/pokemon/146.png
+[157]: /img/pokemon/157.png
+[181]: /img/pokemon/181.png
+[184]: /img/pokemon/184.png
+[185]: /img/pokemon/185.png
+[195]: /img/pokemon/195.png
+[196]: /img/pokemon/196.png
+[203]: /img/pokemon/203.png
+[205]: /img/pokemon/205.png
+[208]: /img/pokemon/208.png
+[212]: /img/pokemon/212.png
+[214]: /img/pokemon/214.png
+[219]: /img/pokemon/219.png
+[229]: /img/pokemon/229.png
+[232]: /img/pokemon/232.png
+[248]: /img/pokemon/248.png
+[260]: /img/pokemon/260.png
+[267]: /img/pokemon/267.png
+[269]: /img/pokemon/269.png
+[282]: /img/pokemon/282.png
+[284]: /img/pokemon/284.png
+[286]: /img/pokemon/286.png
+[308]: /img/pokemon/308.png
+[323]: /img/pokemon/323.png
+[324]: /img/pokemon/324.png
+[330]: /img/pokemon/330.png
+[340]: /img/pokemon/340.png
+[344]: /img/pokemon/344.png
+[348]: /img/pokemon/348.png
+[350]: /img/pokemon/350.png
+[376]: /img/pokemon/376.png
+[381]: /img/pokemon/381.png
+[384]: /img/pokemon/384.png
+[389]: /img/pokemon/389.png
+[392]: /img/pokemon/392.png
+[395]: /img/pokemon/395.png
+[398]: /img/pokemon/398.png
+[407]: /img/pokemon/407.png
+[416]: /img/pokemon/416.png
+[426]: /img/pokemon/426.png
+[428]: /img/pokemon/428.png
+[429]: /img/pokemon/429.png
+[437]: /img/pokemon/437.png
+[442]: /img/pokemon/442.png
+[445]: /img/pokemon/445.png
+[448]: /img/pokemon/448.png
+[450]: /img/pokemon/450.png
+[452]: /img/pokemon/452.png
+[464]: /img/pokemon/464.png
+[467]: /img/pokemon/467.png
+[468]: /img/pokemon/468.png
+[469]: /img/pokemon/469.png
+[471]: /img/pokemon/471.png
+[472]: /img/pokemon/472.png
+[473]: /img/pokemon/473.png
+[475]: /img/pokemon/475.png

@@ -29,24 +29,6 @@ Tuber Chelsea (8)          | ![][184]  [Azumarill] Lv. 59
 Tuber Chelsea (C)          | ![][184]  [Azumarill] Lv. 69
 
 
-[053]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png "Persian"
-[055]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png "Golduck"
-[116]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png "Horsea"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[184]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png "Azumarill"
-[186]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/186.png "Politoed"
-[195]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png "Quagsire"
-[222]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png "Corsola"
-[223]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png "Remoraid"
-[226]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png "Mantine"
-[279]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png "Pelipper"
-[301]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png "Delcatty"
-[318]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/318.png "Carvanha"
-[319]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319.png "Sharpedo"
-[423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
-[432]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png "Purugly"
-[454]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png "Toxicroak"
-[457]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png "Lumineon"
 [Persian]: /pokemon_changes/053/
 [Golduck]: /pokemon_changes/055/
 [Horsea]: /pokemon_changes/116/
@@ -65,3 +47,21 @@ Tuber Chelsea (C)          | ![][184]  [Azumarill] Lv. 69
 [Purugly]: /pokemon_changes/432/
 [Toxicroak]: /pokemon_changes/454/
 [Lumineon]: /pokemon_changes/457/
+[053]: /img/pokemon/053.png
+[055]: /img/pokemon/055.png
+[116]: /img/pokemon/116.png
+[130]: /img/pokemon/130.png
+[184]: /img/pokemon/184.png
+[186]: /img/pokemon/186.png
+[195]: /img/pokemon/195.png
+[222]: /img/pokemon/222.png
+[223]: /img/pokemon/223.png
+[226]: /img/pokemon/226.png
+[279]: /img/pokemon/279.png
+[301]: /img/pokemon/301.png
+[318]: /img/pokemon/318.png
+[319]: /img/pokemon/319.png
+[423]: /img/pokemon/423.png
+[432]: /img/pokemon/432.png
+[454]: /img/pokemon/454.png
+[457]: /img/pokemon/457.png

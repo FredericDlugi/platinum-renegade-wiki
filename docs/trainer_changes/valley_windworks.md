@@ -19,18 +19,6 @@ Commander Mars   | Item          | Nature  | Ability       | Moves
 ![][432]<br> [Purugly] Lv. 19         | ![][sitrus-berry]<br> Sitrus Berry      | Jolly    | Thick Fat           | Fake Out, Hypnosis, Facade, Feint Attack
 
 
-[011]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png "Metapod"
-[014]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png "Kakuna"
-[041]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png "Zubat"
-[088]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png "Grimer"
-[109]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png "Koffing"
-[193]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/193.png "Yanma"
-[204]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png "Pineco"
-[228]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/228.png "Houndour"
-[261]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/261.png "Poochyena"
-[316]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/316.png "Gulpin"
-[432]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png "Purugly"
-[436]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/436.png "Bronzor"
 [Metapod]: /pokemon_changes/011/
 [Kakuna]: /pokemon_changes/014/
 [Zubat]: /pokemon_changes/041/
@@ -43,3 +31,16 @@ Commander Mars   | Item          | Nature  | Ability       | Moves
 [Gulpin]: /pokemon_changes/316/
 [Purugly]: /pokemon_changes/432/
 [Bronzor]: /pokemon_changes/436/
+[sitrus-berry]: /img/items/sitrus-berry.png
+[011]: /img/pokemon/011.png
+[014]: /img/pokemon/014.png
+[041]: /img/pokemon/041.png
+[088]: /img/pokemon/088.png
+[109]: /img/pokemon/109.png
+[193]: /img/pokemon/193.png
+[204]: /img/pokemon/204.png
+[228]: /img/pokemon/228.png
+[261]: /img/pokemon/261.png
+[316]: /img/pokemon/316.png
+[432]: /img/pokemon/432.png
+[436]: /img/pokemon/436.png

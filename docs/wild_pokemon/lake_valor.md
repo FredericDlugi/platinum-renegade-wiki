@@ -18,15 +18,6 @@ Super Rod  | ![][130]  [Gyarados] (100%)
 
 
 
-[055]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png "Golduck"
-[108]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png "Lickitung"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[202]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png "Wobbuffet"
-[283]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/283.png "Surskit"
-[284]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png "Masquerain"
-[397]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/397.png "Staravia"
-[400]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png "Bibarel"
 [Golduck]: /pokemon_changes/055/
 [Lickitung]: /pokemon_changes/108/
 [Magikarp]: /pokemon_changes/129/
@@ -36,3 +27,12 @@ Super Rod  | ![][130]  [Gyarados] (100%)
 [Masquerain]: /pokemon_changes/284/
 [Staravia]: /pokemon_changes/397/
 [Bibarel]: /pokemon_changes/400/
+[055]: /img/pokemon/055.png
+[108]: /img/pokemon/108.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[202]: /img/pokemon/202.png
+[283]: /img/pokemon/283.png
+[284]: /img/pokemon/284.png
+[397]: /img/pokemon/397.png
+[400]: /img/pokemon/400.png

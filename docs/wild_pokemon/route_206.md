@@ -14,20 +14,6 @@ Poké Radar | ![][324]  [Torkoal] (22%)
 Honey Tree | ![][415]  [Combee] (30%) ![][412]  [Burmy] (20%) ![][204]  [Pineco] (20%)  ![][266]  [Silcoon] (10%) ![][268]  [Cascoon] (10%) ![][214]  [Heracross] (10%)<br>
 
 
-[056]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png "Mankey"
-[204]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png "Pineco"
-[207]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png "Gligar"
-[214]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png "Heracross"
-[218]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/218.png "Slugma"
-[240]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png "Magby"
-[266]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/266.png "Silcoon"
-[268]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/268.png "Cascoon"
-[322]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/322.png "Numel"
-[324]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png "Torkoal"
-[325]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/325.png "Spoink"
-[412]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/412.png "Burmy"
-[415]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/415.png "Combee"
-[434]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/434.png "Stunky"
 [Mankey]: /pokemon_changes/056/
 [Pineco]: /pokemon_changes/204/
 [Gligar]: /pokemon_changes/207/
@@ -42,3 +28,17 @@ Honey Tree | ![][415]  [Combee] (30%) ![][412]  [Burmy] (20%) ![][204]  [Pineco]
 [Burmy]: /pokemon_changes/412/
 [Combee]: /pokemon_changes/415/
 [Stunky]: /pokemon_changes/434/
+[056]: /img/pokemon/056.png
+[204]: /img/pokemon/204.png
+[207]: /img/pokemon/207.png
+[214]: /img/pokemon/214.png
+[218]: /img/pokemon/218.png
+[240]: /img/pokemon/240.png
+[266]: /img/pokemon/266.png
+[268]: /img/pokemon/268.png
+[322]: /img/pokemon/322.png
+[324]: /img/pokemon/324.png
+[325]: /img/pokemon/325.png
+[412]: /img/pokemon/412.png
+[415]: /img/pokemon/415.png
+[434]: /img/pokemon/434.png

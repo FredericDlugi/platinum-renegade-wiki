@@ -45,59 +45,9 @@ Clown Lee (8)               | ![][424]  [Ambipom] Lv. 60  ![][065]  [Alakazam] L
 Clown Lee (C)               | ![][424]  [Ambipom] Lv. 70  ![][065]  [Alakazam] Lv. 70
 Clown Lee (S)               | ![][424]  [Ambipom] Lv. 80  ![][065]  [Alakazam] Lv. 80
 
-[chople-berry]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/chople-berry.png
-[coba-berry]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coba-berry.png
-[colbur-berry]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/colbur-berry.png
-[rindo-berry]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rindo-berry.png
-[salac-berry]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/salac-berry.png
-[shuca-berry]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shuca-berry.png
-[sitrus-berry]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sitrus-berry.png
-[starf-berry]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/starf-berry.png
-[wacan-berry]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wacan-berry.png
-[yache-berry]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yache-berry.png
-[haban-berry]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/haban-berry.png
-[liechi-berry]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/liechi-berry.png
-[lum-berry]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lum-berry.png
-[occa-berry]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/occa-berry.png
-[passho-berry]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/passho-berry.png
-[petaya-berry]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/petaya-berry.png
 
 
 
-[025]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png "Pikachu"
-[026]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png "Raichu"
-[035]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png "Clefairy"
-[036]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png "Clefable"
-[039]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png "Jigglypuff"
-[040]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png "Wigglytuff"
-[063]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png "Abra"
-[064]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png "Kadabra"
-[065]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png "Alakazam"
-[066]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png "Machop"
-[067]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png "Machoke"
-[068]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png "Machamp"
-[081]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png "Magnemite"
-[082]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png "Magneton"
-[100]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png "Voltorb"
-[101]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png "Electrode"
-[122]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png "Mr. Mime"
-[172]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png "Pichu"
-[173]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png "Cleffa"
-[174]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/174.png "Igglybuff"
-[190]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/190.png "Aipom"
-[280]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png "Ralts"
-[281]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png "Kirlia"
-[282]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png "Gardevoir"
-[401]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/401.png "Kricketot"
-[402]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/402.png "Kricketune"
-[403]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/403.png "Shinx"
-[404]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/404.png "Luxio"
-[405]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png "Luxray"
-[424]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/424.png "Ambipom"
-[425]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/425.png "Drifloon"
-[426]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/426.png "Drifblim"
-[439]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png "Mime Jr."
-[462]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png "Magnezone"
 [Pikachu]: /pokemon_changes/025/
 [Raichu]: /pokemon_changes/026/
 [Clefairy]: /pokemon_changes/035/
@@ -132,3 +82,37 @@ Clown Lee (S)               | ![][424]  [Ambipom] Lv. 80  ![][065]  [Alakazam] L
 [Drifblim]: /pokemon_changes/426/
 [Mime Jr.]: /pokemon_changes/439/
 [Magnezone]: /pokemon_changes/462/
+[025]: /img/pokemon/025.png
+[026]: /img/pokemon/026.png
+[035]: /img/pokemon/035.png
+[036]: /img/pokemon/036.png
+[039]: /img/pokemon/039.png
+[040]: /img/pokemon/040.png
+[063]: /img/pokemon/063.png
+[064]: /img/pokemon/064.png
+[065]: /img/pokemon/065.png
+[066]: /img/pokemon/066.png
+[067]: /img/pokemon/067.png
+[068]: /img/pokemon/068.png
+[081]: /img/pokemon/081.png
+[082]: /img/pokemon/082.png
+[100]: /img/pokemon/100.png
+[101]: /img/pokemon/101.png
+[122]: /img/pokemon/122.png
+[172]: /img/pokemon/172.png
+[173]: /img/pokemon/173.png
+[174]: /img/pokemon/174.png
+[190]: /img/pokemon/190.png
+[280]: /img/pokemon/280.png
+[281]: /img/pokemon/281.png
+[282]: /img/pokemon/282.png
+[401]: /img/pokemon/401.png
+[402]: /img/pokemon/402.png
+[403]: /img/pokemon/403.png
+[404]: /img/pokemon/404.png
+[405]: /img/pokemon/405.png
+[424]: /img/pokemon/424.png
+[425]: /img/pokemon/425.png
+[426]: /img/pokemon/426.png
+[439]: /img/pokemon/439.png
+[462]: /img/pokemon/462.png

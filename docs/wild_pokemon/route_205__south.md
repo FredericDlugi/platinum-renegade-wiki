@@ -18,28 +18,6 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][091]  [Cloyster] (30%) ![][171]  [La
 Honey Tree | ![][415]  [Combee] (30%) ![][412]  [Burmy] (20%) ![][204]  [Pineco] (20%)  ![][265]  [Wurmple] (20%) ![][214]  [Heracross] (10%)
 
 
-[048]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png "Venonat"
-[072]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png "Tentacool"
-[073]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png "Tentacruel"
-[090]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png "Shellder"
-[091]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png "Cloyster"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[170]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/170.png "Chinchou"
-[171]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png "Lanturn"
-[179]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png "Mareep"
-[187]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png "Hoppip"
-[204]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png "Pineco"
-[214]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png "Heracross"
-[265]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/265.png "Wurmple"
-[311]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/311.png "Plusle"
-[312]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/312.png "Minun"
-[412]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/412.png "Burmy"
-[415]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/415.png "Combee"
-[417]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/417.png "Pachirisu"
-[418]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/418.png "Buizel"
-[422]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png "Shellos"
-[423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
 [Venonat]: /pokemon_changes/048/
 [Tentacool]: /pokemon_changes/072/
 [Tentacruel]: /pokemon_changes/073/
@@ -62,3 +40,25 @@ Honey Tree | ![][415]  [Combee] (30%) ![][412]  [Burmy] (20%) ![][204]  [Pineco]
 [Buizel]: /pokemon_changes/418/
 [Shellos]: /pokemon_changes/422/
 [Gastrodon]: /pokemon_changes/423/
+[048]: /img/pokemon/048.png
+[072]: /img/pokemon/072.png
+[073]: /img/pokemon/073.png
+[090]: /img/pokemon/090.png
+[091]: /img/pokemon/091.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[170]: /img/pokemon/170.png
+[171]: /img/pokemon/171.png
+[179]: /img/pokemon/179.png
+[187]: /img/pokemon/187.png
+[204]: /img/pokemon/204.png
+[214]: /img/pokemon/214.png
+[265]: /img/pokemon/265.png
+[311]: /img/pokemon/311.png
+[312]: /img/pokemon/312.png
+[412]: /img/pokemon/412.png
+[415]: /img/pokemon/415.png
+[417]: /img/pokemon/417.png
+[418]: /img/pokemon/418.png
+[422]: /img/pokemon/422.png
+[423]: /img/pokemon/423.png

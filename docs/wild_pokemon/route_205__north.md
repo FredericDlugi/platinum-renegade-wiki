@@ -18,24 +18,6 @@ Super Rod  | ![][130]  [Gyarados] (65%) ![][342]  [Crawdaunt] (35%)
 Honey Tree | ![][396]  [Starly] (30%) ![][016]  [Pidgey] (20%) ![][163]  [Hoothoot] (20%)  ![][276]  [Taillow] (20%) ![][083]  [Farfetch'd] (10%)
 
 
-[016]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png "Pidgey"
-[079]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png "Slowpoke"
-[083]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png "Farfetch'd"
-[102]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png "Exeggcute"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[163]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/163.png "Hoothoot"
-[183]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/183.png "Marill"
-[184]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png "Azumarill"
-[193]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/193.png "Yanma"
-[276]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/276.png "Taillow"
-[313]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/313.png "Volbeat"
-[314]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png "Illumise"
-[341]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/341.png "Corphish"
-[342]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png "Crawdaunt"
-[396]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png "Starly"
-[399]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png "Bidoof"
-[453]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/453.png "Croagunk"
 [Pidgey]: /pokemon_changes/016/
 [Slowpoke]: /pokemon_changes/079/
 [Farfetch'd]: /pokemon_changes/083/
@@ -54,3 +36,21 @@ Honey Tree | ![][396]  [Starly] (30%) ![][016]  [Pidgey] (20%) ![][163]  [Hootho
 [Starly]: /pokemon_changes/396/
 [Bidoof]: /pokemon_changes/399/
 [Croagunk]: /pokemon_changes/453/
+[016]: /img/pokemon/016.png
+[079]: /img/pokemon/079.png
+[083]: /img/pokemon/083.png
+[102]: /img/pokemon/102.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[163]: /img/pokemon/163.png
+[183]: /img/pokemon/183.png
+[184]: /img/pokemon/184.png
+[193]: /img/pokemon/193.png
+[276]: /img/pokemon/276.png
+[313]: /img/pokemon/313.png
+[314]: /img/pokemon/314.png
+[341]: /img/pokemon/341.png
+[342]: /img/pokemon/342.png
+[396]: /img/pokemon/396.png
+[399]: /img/pokemon/399.png
+[453]: /img/pokemon/453.png

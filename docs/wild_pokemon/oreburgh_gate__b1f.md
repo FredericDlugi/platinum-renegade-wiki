@@ -12,15 +12,6 @@ Good Rod   | ![][129]  [Magikarp] (65%) ![][339]  [Barboach] (35%)
 Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
 
 
-[041]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png "Zubat"
-[042]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png "Golbat"
-[050]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png "Diglett"
-[074]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png "Geodude"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[339]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png "Barboach"
-[340]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png "Whiscash"
-[447]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/447.png "Riolu"
 [Zubat]: /pokemon_changes/041/
 [Golbat]: /pokemon_changes/042/
 [Diglett]: /pokemon_changes/050/
@@ -30,3 +21,12 @@ Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
 [Barboach]: /pokemon_changes/339/
 [Whiscash]: /pokemon_changes/340/
 [Riolu]: /pokemon_changes/447/
+[041]: /img/pokemon/041.png
+[042]: /img/pokemon/042.png
+[050]: /img/pokemon/050.png
+[074]: /img/pokemon/074.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[339]: /img/pokemon/339.png
+[340]: /img/pokemon/340.png
+[447]: /img/pokemon/447.png

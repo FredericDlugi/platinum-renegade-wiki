@@ -16,21 +16,6 @@ Good Rod   | ![][129]  [Magikarp] (65%) ![][118]  [Goldeen] (35%)
 Super Rod  | ![][130]  [Gyarados] (65%) ![][119]  [Seaking] (35%)
 
 
-[049]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png "Venomoth"
-[070]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png "Weepinbell"
-[118]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png "Goldeen"
-[119]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png "Seaking"
-[123]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png "Scyther"
-[127]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png "Pinsir"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[166]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png "Ledian"
-[168]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/168.png "Ariados"
-[191]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/191.png "Sunkern"
-[284]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png "Masquerain"
-[313]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/313.png "Volbeat"
-[314]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png "Illumise"
-[315]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/315.png "Roselia"
 [Venomoth]: /pokemon_changes/049/
 [Weepinbell]: /pokemon_changes/070/
 [Goldeen]: /pokemon_changes/118/
@@ -46,3 +31,18 @@ Super Rod  | ![][130]  [Gyarados] (65%) ![][119]  [Seaking] (35%)
 [Volbeat]: /pokemon_changes/313/
 [Illumise]: /pokemon_changes/314/
 [Roselia]: /pokemon_changes/315/
+[049]: /img/pokemon/049.png
+[070]: /img/pokemon/070.png
+[118]: /img/pokemon/118.png
+[119]: /img/pokemon/119.png
+[123]: /img/pokemon/123.png
+[127]: /img/pokemon/127.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[166]: /img/pokemon/166.png
+[168]: /img/pokemon/168.png
+[191]: /img/pokemon/191.png
+[284]: /img/pokemon/284.png
+[313]: /img/pokemon/313.png
+[314]: /img/pokemon/314.png
+[315]: /img/pokemon/315.png

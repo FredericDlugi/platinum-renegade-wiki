@@ -22,24 +22,6 @@ Scientist Emilio           | ![][065]  [Alakazam] Lv. 37
 Pokémon Breeder Kaylee     | ![][184]  [Azumarill] Lv. 37
 
 
-[045]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png "Vileplume"
-[053]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png "Persian"
-[055]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png "Golduck"
-[059]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png "Arcanine"
-[065]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png "Alakazam"
-[082]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png "Magneton"
-[112]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png "Rhydon"
-[154]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png "Meganium"
-[184]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png "Azumarill"
-[195]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png "Quagsire"
-[235]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/235.png "Smeargle"
-[257]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png "Blaziken"
-[294]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/294.png "Loudred"
-[350]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png "Milotic"
-[417]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/417.png "Pachirisu"
-[428]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428.png "Lopunny"
-[441]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png "Chatot"
-[457]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/457.png "Lumineon"
 [Vileplume]: /pokemon_changes/045/
 [Persian]: /pokemon_changes/053/
 [Golduck]: /pokemon_changes/055/
@@ -58,3 +40,21 @@ Pokémon Breeder Kaylee     | ![][184]  [Azumarill] Lv. 37
 [Lopunny]: /pokemon_changes/428/
 [Chatot]: /pokemon_changes/441/
 [Lumineon]: /pokemon_changes/457/
+[045]: /img/pokemon/045.png
+[053]: /img/pokemon/053.png
+[055]: /img/pokemon/055.png
+[059]: /img/pokemon/059.png
+[065]: /img/pokemon/065.png
+[082]: /img/pokemon/082.png
+[112]: /img/pokemon/112.png
+[154]: /img/pokemon/154.png
+[184]: /img/pokemon/184.png
+[195]: /img/pokemon/195.png
+[235]: /img/pokemon/235.png
+[257]: /img/pokemon/257.png
+[294]: /img/pokemon/294.png
+[350]: /img/pokemon/350.png
+[417]: /img/pokemon/417.png
+[428]: /img/pokemon/428.png
+[441]: /img/pokemon/441.png
+[457]: /img/pokemon/457.png

@@ -35,40 +35,6 @@ Commander Saturn   | Item         | Nature  | Ability       | Moves
 ![][454]<br> [Toxicroak] Lv. 57       | ![][focus-sash]<br> Focus Sash          | ?        | Dry Skin            | Cross Chop, Gunk Shot, Ice Punch, Fake Out
 
 
-[024]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png "Arbok"
-[042]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png "Golbat"
-[047]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png "Parasect"
-[049]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png "Venomoth"
-[064]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png "Kadabra"
-[065]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png "Alakazam"
-[082]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png "Magneton"
-[089]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png "Muk"
-[123]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png "Scyther"
-[127]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png "Pinsir"
-[168]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/168.png "Ariados"
-[169]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png "Crobat"
-[198]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/198.png "Murkrow"
-[205]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png "Forretress"
-[224]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png "Octillery"
-[229]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png "Houndoom"
-[262]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/262.png "Mightyena"
-[267]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/267.png "Beautifly"
-[269]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/269.png "Dustox"
-[281]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png "Kirlia"
-[332]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/332.png "Cacturne"
-[336]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png "Seviper"
-[416]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/416.png "Vespiquen"
-[430]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/430.png "Honchkrow"
-[432]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png "Purugly"
-[435]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png "Skuntank"
-[437]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/437.png "Bronzong"
-[454]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png "Toxicroak"
-[461]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/461.png "Weavile"
-[462]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/462.png "Magnezone"
-[464]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/464.png "Rhyperior"
-[467]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/467.png "Magmortar"
-[469]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/469.png "Yanmega"
-[474]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/474.png "Porygon-Z"
 [Arbok]: /pokemon_changes/024/
 [Golbat]: /pokemon_changes/042/
 [Parasect]: /pokemon_changes/047/
@@ -103,11 +69,45 @@ Commander Saturn   | Item         | Nature  | Ability       | Moves
 [Magmortar]: /pokemon_changes/467/
 [Yanmega]: /pokemon_changes/469/
 [Porygon-Z]: /pokemon_changes/474/
-[choice-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-band.png
-[choice-specs]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-specs.png
-[expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
-[focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
-[scope-lens]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/scope-lens.png
-[wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png
-[life-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png
-[light-clay]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/light-clay.png
+[choice-band]: /img/items/choice-band.png
+[choice-specs]: /img/items/choice-specs.png
+[expert-belt]: /img/items/expert-belt.png
+[focus-sash]: /img/items/focus-sash.png
+[life-orb]: /img/items/life-orb.png
+[light-clay]: /img/items/light-clay.png
+[scope-lens]: /img/items/scope-lens.png
+[wise-glasses]: /img/items/wise-glasses.png
+[024]: /img/pokemon/024.png
+[042]: /img/pokemon/042.png
+[047]: /img/pokemon/047.png
+[049]: /img/pokemon/049.png
+[064]: /img/pokemon/064.png
+[065]: /img/pokemon/065.png
+[082]: /img/pokemon/082.png
+[089]: /img/pokemon/089.png
+[123]: /img/pokemon/123.png
+[127]: /img/pokemon/127.png
+[168]: /img/pokemon/168.png
+[169]: /img/pokemon/169.png
+[198]: /img/pokemon/198.png
+[205]: /img/pokemon/205.png
+[224]: /img/pokemon/224.png
+[229]: /img/pokemon/229.png
+[262]: /img/pokemon/262.png
+[267]: /img/pokemon/267.png
+[269]: /img/pokemon/269.png
+[281]: /img/pokemon/281.png
+[332]: /img/pokemon/332.png
+[336]: /img/pokemon/336.png
+[416]: /img/pokemon/416.png
+[430]: /img/pokemon/430.png
+[432]: /img/pokemon/432.png
+[435]: /img/pokemon/435.png
+[437]: /img/pokemon/437.png
+[454]: /img/pokemon/454.png
+[461]: /img/pokemon/461.png
+[462]: /img/pokemon/462.png
+[464]: /img/pokemon/464.png
+[467]: /img/pokemon/467.png
+[469]: /img/pokemon/469.png
+[474]: /img/pokemon/474.png

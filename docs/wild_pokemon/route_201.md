@@ -13,14 +13,6 @@ Night      | ![][396]  [Starly] (30%) ![][399]  [Bidoof] (30%) ![][163]  [Hootho
 Poké Radar | ![][084]  [Doduo] (22%)
 
 
-[016]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png "Pidgey"
-[029]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png "Nidoran♀"
-[032]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png "Nidoran♂"
-[084]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png "Doduo"
-[163]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/163.png "Hoothoot"
-[396]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png "Starly"
-[399]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/399.png "Bidoof"
-[401]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/401.png "Kricketot"
 [Pidgey]: /pokemon_changes/016/
 [Nidoran♀]: /pokemon_changes/029/
 [Nidoran♂]: /pokemon_changes/032/
@@ -29,3 +21,11 @@ Poké Radar | ![][084]  [Doduo] (22%)
 [Starly]: /pokemon_changes/396/
 [Bidoof]: /pokemon_changes/399/
 [Kricketot]: /pokemon_changes/401/
+[016]: /img/pokemon/016.png
+[029]: /img/pokemon/029.png
+[032]: /img/pokemon/032.png
+[084]: /img/pokemon/084.png
+[163]: /img/pokemon/163.png
+[396]: /img/pokemon/396.png
+[399]: /img/pokemon/399.png
+[401]: /img/pokemon/401.png

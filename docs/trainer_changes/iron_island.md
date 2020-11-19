@@ -28,45 +28,6 @@ PKMN Trainer Riley | Item         | Nature  | Ability       | Moves
 ![][448]<br> [Lucario] Lv. 50         | ![][life-orb]<br> Life Orb              | ?        | Adaptability        | High Jump Kick, Meteor Mash, Blaze Kick, Bullet Punch
 
 
-[005]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png "Charmeleon"
-[022]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png "Fearow"
-[026]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png "Raichu"
-[042]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png "Golbat"
-[057]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png "Primeape"
-[062]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png "Poliwrath"
-[067]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png "Machoke"
-[075]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png "Graveler"
-[076]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png "Golem"
-[082]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png "Magneton"
-[089]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png "Muk"
-[112]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png "Rhydon"
-[208]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png "Steelix"
-[217]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png "Ursaring"
-[229]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png "Houndoom"
-[232]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/232.png "Donphan"
-[237]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png "Hitmontop"
-[247]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/247.png "Pupitar"
-[253]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/253.png "Grovyle"
-[282]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png "Gardevoir"
-[284]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/284.png "Masquerain"
-[289]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/289.png "Slaking"
-[297]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png "Hariyama"
-[305]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/305.png "Lairon"
-[308]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png "Medicham"
-[323]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/323.png "Camerupt"
-[346]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/346.png "Cradily"
-[359]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359.png "Absol"
-[373]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png "Salamence"
-[376]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png "Metagross"
-[419]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png "Floatzel"
-[424]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/424.png "Ambipom"
-[428]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428.png "Lopunny"
-[432]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png "Purugly"
-[435]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/435.png "Skuntank"
-[448]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png "Lucario"
-[450]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/450.png "Hippowdon"
-[454]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png "Toxicroak"
-[476]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png "Probopass"
 [Charmeleon]: /pokemon_changes/005/
 [Fearow]: /pokemon_changes/022/
 [Raichu]: /pokemon_changes/026/
@@ -106,7 +67,48 @@ PKMN Trainer Riley | Item         | Nature  | Ability       | Moves
 [Hippowdon]: /pokemon_changes/450/
 [Toxicroak]: /pokemon_changes/454/
 [Probopass]: /pokemon_changes/476/
-[flame-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flame-orb.png
-[scope-lens]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/scope-lens.png
-[life-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png
-[power-herb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-herb.png
+[flame-orb]: /img/items/flame-orb.png
+[liechi-berry]: /img/items/liechi-berry.png
+[life-orb]: /img/items/life-orb.png
+[power-herb]: /img/items/power-herb.png
+[scope-lens]: /img/items/scope-lens.png
+[sitrus-berry]: /img/items/sitrus-berry.png
+[005]: /img/pokemon/005.png
+[022]: /img/pokemon/022.png
+[026]: /img/pokemon/026.png
+[042]: /img/pokemon/042.png
+[057]: /img/pokemon/057.png
+[062]: /img/pokemon/062.png
+[067]: /img/pokemon/067.png
+[075]: /img/pokemon/075.png
+[076]: /img/pokemon/076.png
+[082]: /img/pokemon/082.png
+[089]: /img/pokemon/089.png
+[112]: /img/pokemon/112.png
+[208]: /img/pokemon/208.png
+[217]: /img/pokemon/217.png
+[229]: /img/pokemon/229.png
+[232]: /img/pokemon/232.png
+[237]: /img/pokemon/237.png
+[247]: /img/pokemon/247.png
+[253]: /img/pokemon/253.png
+[282]: /img/pokemon/282.png
+[284]: /img/pokemon/284.png
+[289]: /img/pokemon/289.png
+[297]: /img/pokemon/297.png
+[305]: /img/pokemon/305.png
+[308]: /img/pokemon/308.png
+[323]: /img/pokemon/323.png
+[346]: /img/pokemon/346.png
+[359]: /img/pokemon/359.png
+[373]: /img/pokemon/373.png
+[376]: /img/pokemon/376.png
+[419]: /img/pokemon/419.png
+[424]: /img/pokemon/424.png
+[428]: /img/pokemon/428.png
+[432]: /img/pokemon/432.png
+[435]: /img/pokemon/435.png
+[448]: /img/pokemon/448.png
+[450]: /img/pokemon/450.png
+[454]: /img/pokemon/454.png
+[476]: /img/pokemon/476.png

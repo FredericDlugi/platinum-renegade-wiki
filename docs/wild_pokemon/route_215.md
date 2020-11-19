@@ -14,19 +14,6 @@ Poké Radar | ![][359]  [Absol] (22%)
 Honey Tree | ![][190]  [Aipom] (30%) ![][288]  [Vigoroth] (20%) ![][011]  [Metapod] (20%)  ![][014]  [Kakuna] (20%) ![][446]  [Munchlax] (10%)
 
 
-[011]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png "Metapod"
-[014]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png "Kakuna"
-[064]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png "Kadabra"
-[096]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png "Drowzee"
-[097]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png "Hypno"
-[108]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png "Lickitung"
-[183]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/183.png "Marill"
-[190]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/190.png "Aipom"
-[262]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/262.png "Mightyena"
-[264]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/264.png "Linoone"
-[288]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/288.png "Vigoroth"
-[359]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359.png "Absol"
-[446]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png "Munchlax"
 [Metapod]: /pokemon_changes/011/
 [Kakuna]: /pokemon_changes/014/
 [Kadabra]: /pokemon_changes/064/
@@ -40,3 +27,16 @@ Honey Tree | ![][190]  [Aipom] (30%) ![][288]  [Vigoroth] (20%) ![][011]  [Metap
 [Vigoroth]: /pokemon_changes/288/
 [Absol]: /pokemon_changes/359/
 [Munchlax]: /pokemon_changes/446/
+[011]: /img/pokemon/011.png
+[014]: /img/pokemon/014.png
+[064]: /img/pokemon/064.png
+[096]: /img/pokemon/096.png
+[097]: /img/pokemon/097.png
+[108]: /img/pokemon/108.png
+[183]: /img/pokemon/183.png
+[190]: /img/pokemon/190.png
+[262]: /img/pokemon/262.png
+[264]: /img/pokemon/264.png
+[288]: /img/pokemon/288.png
+[359]: /img/pokemon/359.png
+[446]: /img/pokemon/446.png

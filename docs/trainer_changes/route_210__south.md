@@ -24,23 +24,6 @@ Rancher Marco (8)          | ![][078]  [Rapidash] Lv. 59  ![][128]  [Tauros] Lv.
 Rancher Marco (C)          | ![][078]  [Rapidash] Lv. 70  ![][128]  [Tauros] Lv. 70  ![][241]  [Miltank] Lv. 70
 
 
-[036]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png "Clefable"
-[078]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png "Rapidash"
-[101]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png "Electrode"
-[128]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png "Tauros"
-[147]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png "Dratini"
-[148]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png "Dragonair"
-[162]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/162.png "Furret"
-[241]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png "Miltank"
-[264]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/264.png "Linoone"
-[360]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/360.png "Wynaut"
-[371]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/371.png "Bagon"
-[372]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/372.png "Shelgon"
-[433]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/433.png "Chingling"
-[440]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/440.png "Happiny"
-[446]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png "Munchlax"
-[447]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/447.png "Riolu"
-[458]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/458.png "Mantyke"
 [Clefable]: /pokemon_changes/036/
 [Rapidash]: /pokemon_changes/078/
 [Electrode]: /pokemon_changes/101/
@@ -58,3 +41,20 @@ Rancher Marco (C)          | ![][078]  [Rapidash] Lv. 70  ![][128]  [Tauros] Lv.
 [Munchlax]: /pokemon_changes/446/
 [Riolu]: /pokemon_changes/447/
 [Mantyke]: /pokemon_changes/458/
+[036]: /img/pokemon/036.png
+[078]: /img/pokemon/078.png
+[101]: /img/pokemon/101.png
+[128]: /img/pokemon/128.png
+[147]: /img/pokemon/147.png
+[148]: /img/pokemon/148.png
+[162]: /img/pokemon/162.png
+[241]: /img/pokemon/241.png
+[264]: /img/pokemon/264.png
+[360]: /img/pokemon/360.png
+[371]: /img/pokemon/371.png
+[372]: /img/pokemon/372.png
+[433]: /img/pokemon/433.png
+[440]: /img/pokemon/440.png
+[446]: /img/pokemon/446.png
+[447]: /img/pokemon/447.png
+[458]: /img/pokemon/458.png

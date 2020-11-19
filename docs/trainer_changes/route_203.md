@@ -27,32 +27,6 @@ Lass Madeline (5)          | ![][055]  [Golduck] Lv. 38  ![][192]  [Sunflora] Lv
 Lass Madeline (8)          | ![][055]  [Golduck] Lv. 59  ![][192]  [Sunflora] Lv. 59  ![][428]  [Lopunny] Lv. 59
 
 
-[019]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png "Rattata"
-[021]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png "Spearow"
-[027]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png "Sandshrew"
-[028]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png "Sandslash"
-[041]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png "Zubat"
-[054]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png "Psyduck"
-[055]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png "Golduck"
-[066]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png "Machop"
-[076]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png "Golem"
-[104]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png "Cubone"
-[191]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/191.png "Sunkern"
-[192]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/192.png "Sunflora"
-[296]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png "Makuhita"
-[298]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png "Azurill"
-[387]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/387.png "Turtwig"
-[390]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/390.png "Chimchar"
-[393]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png "Piplup"
-[396]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png "Starly"
-[400]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png "Bibarel"
-[401]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/401.png "Kricketot"
-[403]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/403.png "Shinx"
-[404]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/404.png "Luxio"
-[405]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png "Luxray"
-[427]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/427.png "Buneary"
-[428]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428.png "Lopunny"
-[446]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png "Munchlax"
 [Rattata]: /pokemon_changes/019/
 [Spearow]: /pokemon_changes/021/
 [Sandshrew]: /pokemon_changes/027/
@@ -79,3 +53,29 @@ Lass Madeline (8)          | ![][055]  [Golduck] Lv. 59  ![][192]  [Sunflora] Lv
 [Buneary]: /pokemon_changes/427/
 [Lopunny]: /pokemon_changes/428/
 [Munchlax]: /pokemon_changes/446/
+[019]: /img/pokemon/019.png
+[021]: /img/pokemon/021.png
+[027]: /img/pokemon/027.png
+[028]: /img/pokemon/028.png
+[041]: /img/pokemon/041.png
+[054]: /img/pokemon/054.png
+[055]: /img/pokemon/055.png
+[066]: /img/pokemon/066.png
+[076]: /img/pokemon/076.png
+[104]: /img/pokemon/104.png
+[191]: /img/pokemon/191.png
+[192]: /img/pokemon/192.png
+[296]: /img/pokemon/296.png
+[298]: /img/pokemon/298.png
+[387]: /img/pokemon/387.png
+[390]: /img/pokemon/390.png
+[393]: /img/pokemon/393.png
+[396]: /img/pokemon/396.png
+[400]: /img/pokemon/400.png
+[401]: /img/pokemon/401.png
+[403]: /img/pokemon/403.png
+[404]: /img/pokemon/404.png
+[405]: /img/pokemon/405.png
+[427]: /img/pokemon/427.png
+[428]: /img/pokemon/428.png
+[446]: /img/pokemon/446.png

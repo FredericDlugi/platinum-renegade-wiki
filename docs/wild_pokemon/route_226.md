@@ -16,20 +16,6 @@ Good Rod   | ![][129]  [Magikarp] (60%) ![][116]  [Horsea] (30%) ![][369]  [Reli
 Super Rod  | ![][130]  [Gyarados] (60%) ![][117]  [Seadra] (30%) ![][369]  [Relicanth] (10%)
 
 
-[020]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png "Raticate"
-[022]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png "Fearow"
-[024]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png "Arbok"
-[028]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png "Sandslash"
-[073]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png "Tentacruel"
-[078]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png "Rapidash"
-[085]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png "Dodrio"
-[099]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png "Kingler"
-[116]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png "Horsea"
-[117]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png "Seadra"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[279]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png "Pelipper"
-[369]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/369.png "Relicanth"
 [Raticate]: /pokemon_changes/020/
 [Fearow]: /pokemon_changes/022/
 [Arbok]: /pokemon_changes/024/
@@ -44,3 +30,17 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][117]  [Seadra] (30%) ![][369]  [Reli
 [Gyarados]: /pokemon_changes/130/
 [Pelipper]: /pokemon_changes/279/
 [Relicanth]: /pokemon_changes/369/
+[020]: /img/pokemon/020.png
+[022]: /img/pokemon/022.png
+[024]: /img/pokemon/024.png
+[028]: /img/pokemon/028.png
+[073]: /img/pokemon/073.png
+[078]: /img/pokemon/078.png
+[085]: /img/pokemon/085.png
+[099]: /img/pokemon/099.png
+[116]: /img/pokemon/116.png
+[117]: /img/pokemon/117.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[279]: /img/pokemon/279.png
+[369]: /img/pokemon/369.png

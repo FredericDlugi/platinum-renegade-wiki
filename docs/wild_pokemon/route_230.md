@@ -16,21 +16,6 @@ Good Rod   | ![][129]  [Magikarp] (65%) ![][222]  [Corsola] (30%) ![][320]  [Wai
 Super Rod  | ![][130]  [Gyarados] (65%) ![][222]  [Corsola] (30%) ![][321]  [Wailord] (10%)
 
 
-[055]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png "Golduck"
-[073]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png "Tentacruel"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[176]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/176.png "Togetic"
-[222]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png "Corsola"
-[279]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png "Pelipper"
-[320]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/320.png "Wailmer"
-[321]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png "Wailord"
-[335]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/335.png "Zangoose"
-[336]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png "Seviper"
-[357]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/357.png "Tropius"
-[364]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/364.png "Sealeo"
-[419]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png "Floatzel"
-[423]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423.png "Gastrodon"
 [Golduck]: /pokemon_changes/055/
 [Tentacruel]: /pokemon_changes/073/
 [Magikarp]: /pokemon_changes/129/
@@ -46,3 +31,18 @@ Super Rod  | ![][130]  [Gyarados] (65%) ![][222]  [Corsola] (30%) ![][321]  [Wai
 [Sealeo]: /pokemon_changes/364/
 [Floatzel]: /pokemon_changes/419/
 [Gastrodon]: /pokemon_changes/423/
+[055]: /img/pokemon/055.png
+[073]: /img/pokemon/073.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[176]: /img/pokemon/176.png
+[222]: /img/pokemon/222.png
+[279]: /img/pokemon/279.png
+[320]: /img/pokemon/320.png
+[321]: /img/pokemon/321.png
+[335]: /img/pokemon/335.png
+[336]: /img/pokemon/336.png
+[357]: /img/pokemon/357.png
+[364]: /img/pokemon/364.png
+[419]: /img/pokemon/419.png
+[423]: /img/pokemon/423.png

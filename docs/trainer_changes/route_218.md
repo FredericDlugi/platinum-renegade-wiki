@@ -19,15 +19,6 @@ Fisherman Miguel (C)       | ![][366]  [Clamperl] Lv. 70  ![][367]  [Huntail] Lv
 Guitarist Tony (C)         | ![][402]  [Kricketune] Lv. 71  ![][295]  [Exploud] Lv. 71
 
 
-[139]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png "Omastar"
-[141]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png "Kabutops"
-[295]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/295.png "Exploud"
-[342]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/342.png "Crawdaunt"
-[366]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/366.png "Clamperl"
-[367]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/367.png "Huntail"
-[368]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/368.png "Gorebyss"
-[369]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/369.png "Relicanth"
-[402]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/402.png "Kricketune"
 [Omastar]: /pokemon_changes/139/
 [Kabutops]: /pokemon_changes/141/
 [Exploud]: /pokemon_changes/295/
@@ -37,3 +28,12 @@ Guitarist Tony (C)         | ![][402]  [Kricketune] Lv. 71  ![][295]  [Exploud] 
 [Gorebyss]: /pokemon_changes/368/
 [Relicanth]: /pokemon_changes/369/
 [Kricketune]: /pokemon_changes/402/
+[139]: /img/pokemon/139.png
+[141]: /img/pokemon/141.png
+[295]: /img/pokemon/295.png
+[342]: /img/pokemon/342.png
+[366]: /img/pokemon/366.png
+[367]: /img/pokemon/367.png
+[368]: /img/pokemon/368.png
+[369]: /img/pokemon/369.png
+[402]: /img/pokemon/402.png

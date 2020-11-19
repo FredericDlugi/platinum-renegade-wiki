@@ -16,18 +16,6 @@ Good Rod   | ![][129]  [Magikarp] (65%) ![][339]  [Barboach] (35%)
 Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
 
 
-[061]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png "Poliwhirl"
-[110]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png "Weezing"
-[112]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png "Rhydon"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[207]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png "Gligar"
-[227]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png "Skarmory"
-[323]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/323.png "Camerupt"
-[324]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png "Torkoal"
-[327]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/327.png "Spinda"
-[339]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/339.png "Barboach"
-[340]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/340.png "Whiscash"
 [Poliwhirl]: /pokemon_changes/061/
 [Weezing]: /pokemon_changes/110/
 [Rhydon]: /pokemon_changes/112/
@@ -40,3 +28,15 @@ Super Rod  | ![][130]  [Gyarados] (65%) ![][340]  [Whiscash] (35%)
 [Spinda]: /pokemon_changes/327/
 [Barboach]: /pokemon_changes/339/
 [Whiscash]: /pokemon_changes/340/
+[061]: /img/pokemon/061.png
+[110]: /img/pokemon/110.png
+[112]: /img/pokemon/112.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[207]: /img/pokemon/207.png
+[227]: /img/pokemon/227.png
+[323]: /img/pokemon/323.png
+[324]: /img/pokemon/324.png
+[327]: /img/pokemon/327.png
+[339]: /img/pokemon/339.png
+[340]: /img/pokemon/340.png

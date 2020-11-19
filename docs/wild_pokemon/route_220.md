@@ -13,14 +13,6 @@ Good Rod   | ![][370]  [Luvdisc] (60%) ![][116]  [Horsea] (30%) ![][222]  [Corso
 Super Rod  | ![][370]  [Luvdisc] (60%) ![][117]  [Seadra] (30%) ![][222]  [Corsola] (10%)
 
 
-[116]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png "Horsea"
-[117]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png "Seadra"
-[222]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png "Corsola"
-[226]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png "Mantine"
-[278]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/278.png "Wingull"
-[279]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png "Pelipper"
-[370]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/370.png "Luvdisc"
-[458]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/458.png "Mantyke"
 [Horsea]: /pokemon_changes/116/
 [Seadra]: /pokemon_changes/117/
 [Corsola]: /pokemon_changes/222/
@@ -29,3 +21,11 @@ Super Rod  | ![][370]  [Luvdisc] (60%) ![][117]  [Seadra] (30%) ![][222]  [Corso
 [Pelipper]: /pokemon_changes/279/
 [Luvdisc]: /pokemon_changes/370/
 [Mantyke]: /pokemon_changes/458/
+[116]: /img/pokemon/116.png
+[117]: /img/pokemon/117.png
+[222]: /img/pokemon/222.png
+[226]: /img/pokemon/226.png
+[278]: /img/pokemon/278.png
+[279]: /img/pokemon/279.png
+[370]: /img/pokemon/370.png
+[458]: /img/pokemon/458.png

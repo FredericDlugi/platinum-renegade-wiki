@@ -13,18 +13,6 @@ PKMN Trainer Lucas         | ![][209]  [Snubbull] Lv. 13  ![][387]  [Turtwig] Lv
 PKMN Trainer Lucas         | ![][209]  [Snubbull] Lv. 13  ![][390]  [Chimchar] Lv. 14
 
 
-[001]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png "Bulbasaur"
-[004]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png "Charmander"
-[007]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png "Squirtle"
-[035]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png "Clefairy"
-[209]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png "Snubbull"
-[266]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/266.png "Silcoon"
-[268]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/268.png "Cascoon"
-[387]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/387.png "Turtwig"
-[390]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/390.png "Chimchar"
-[393]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png "Piplup"
-[431]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/431.png "Glameow"
-[434]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/434.png "Stunky"
 [Bulbasaur]: /pokemon_changes/001/
 [Charmander]: /pokemon_changes/004/
 [Squirtle]: /pokemon_changes/007/
@@ -37,3 +25,15 @@ PKMN Trainer Lucas         | ![][209]  [Snubbull] Lv. 13  ![][390]  [Chimchar] L
 [Piplup]: /pokemon_changes/393/
 [Glameow]: /pokemon_changes/431/
 [Stunky]: /pokemon_changes/434/
+[001]: /img/pokemon/001.png
+[004]: /img/pokemon/004.png
+[007]: /img/pokemon/007.png
+[035]: /img/pokemon/035.png
+[209]: /img/pokemon/209.png
+[266]: /img/pokemon/266.png
+[268]: /img/pokemon/268.png
+[387]: /img/pokemon/387.png
+[390]: /img/pokemon/390.png
+[393]: /img/pokemon/393.png
+[431]: /img/pokemon/431.png
+[434]: /img/pokemon/434.png

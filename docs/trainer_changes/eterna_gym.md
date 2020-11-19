@@ -1,11 +1,11 @@
 # Eterna Gym
 
-Trainer                    | Pokémons
----                        | ---
-Lass Caroline              | ![][270]  [Lotad] Lv. 22  ![][331]  [Cacnea] Lv. 22  ![][102]  [Exeggcute] Lv. 22 <br> ![][285]  [Shroomish] Lv. 22
-Aroma Lady Jenna           | ![][070]  [Weepinbell] Lv. 23  ![][002]  [Ivysaur] Lv. 23  ![][044]  [Gloom] Lv. 23
-Aroma Lady Angela          | ![][315]  [Roselia] Lv. 23  ![][153]  [Bayleef] Lv. 23  ![][188]  [Skiploom] Lv. 23
-Leader Gardenia            | ![][182]  [Bellossom] Lv. 25  ![][114]  [Tangela] Lv. 25  ![][421]  [Cherrim] Lv. 25 <br> ![][388]  [Grotle] Lv. 25  ![][286]  [Breloom] Lv. 25  ![][407]  [Roserade] Lv. 26
+Trainer                    | 1                               | 2                               | 3                            | 4                            | 5                           | 6
+---                        | -:-                             | -:-                             | -:-                          | -:-                          | -:-                         | -:-
+Lass Caroline              | ![][270]  [Lotad] <br> Lv. 22        |![][331]   [Cacnea] <br> Lv. 22  | ![][102]  [Exeggcute] <br> Lv. 22 | ![][285]  [Shroomish] <br> Lv. 22 |                               |
+Aroma Lady Jenna           | ![][070]  [Weepinbell] <br> Lv. 23   |![][002]  [Ivysaur] <br> Lv. 23  | ![][044]      [Gloom] <br> Lv. 23 |                                   |                               |
+Aroma Lady Angela          | ![][315]  [Roselia] <br> Lv. 23      |![][153]  [Bayleef] <br> Lv. 23  | ![][188]   [Skiploom] <br> Lv. 23 |                                   |                               |
+Leader Gardenia            | ![][182]  [Bellossom] <br> Lv. 25    |![][114]  [Tangela] <br> Lv. 25  | ![][421]    [Cherrim] <br> Lv. 25 | ![][388]     [Grotle] <br> Lv. 25 | ![][286]  [Breloom] <br> Lv. 25  |![][407]  [Roserade] <br> Lv. 26
 
 Leader Gardenia    | Item         | Nature  | Ability       | Moves
 ---                | ---          | ---     | ---           | ---
@@ -17,22 +17,6 @@ Leader Gardenia    | Item         | Nature  | Ability       | Moves
 ![][407]<br> [Roserade] Lv. 26        | ![][sitrus-berry]<br> Sitrus Berry      | Timid    | Technician          | Magical Leaf, Sludge, Dazzling Gleam, Extrasensory
 
 
-[002]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png "Ivysaur"
-[044]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png "Gloom"
-[070]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png "Weepinbell"
-[102]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png "Exeggcute"
-[114]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png "Tangela"
-[153]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png "Bayleef"
-[182]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png "Bellossom"
-[188]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/188.png "Skiploom"
-[270]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/270.png "Lotad"
-[285]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/285.png "Shroomish"
-[286]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/286.png "Breloom"
-[315]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/315.png "Roselia"
-[331]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/331.png "Cacnea"
-[388]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/388.png "Grotle"
-[407]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/407.png "Roserade"
-[421]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/421.png "Cherrim"
 [Ivysaur]: /pokemon_changes/002/
 [Gloom]: /pokemon_changes/044/
 [Weepinbell]: /pokemon_changes/070/
@@ -49,7 +33,25 @@ Leader Gardenia    | Item         | Nature  | Ability       | Moves
 [Grotle]: /pokemon_changes/388/
 [Roserade]: /pokemon_changes/407/
 [Cherrim]: /pokemon_changes/421/
-[focus-sash]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png
-[wide-lens]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wide-lens.png
-[leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png
-[muscle-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-band.png
+[coba-berry]: /img/items/coba-berry.png
+[focus-sash]: /img/items/focus-sash.png
+[leftovers]: /img/items/leftovers.png
+[muscle-band]: /img/items/muscle-band.png
+[sitrus-berry]: /img/items/sitrus-berry.png
+[wide-lens]: /img/items/wide-lens.png
+[002]: /img/pokemon/002.png
+[044]: /img/pokemon/044.png
+[070]: /img/pokemon/070.png
+[102]: /img/pokemon/102.png
+[114]: /img/pokemon/114.png
+[153]: /img/pokemon/153.png
+[182]: /img/pokemon/182.png
+[188]: /img/pokemon/188.png
+[270]: /img/pokemon/270.png
+[285]: /img/pokemon/285.png
+[286]: /img/pokemon/286.png
+[315]: /img/pokemon/315.png
+[331]: /img/pokemon/331.png
+[388]: /img/pokemon/388.png
+[407]: /img/pokemon/407.png
+[421]: /img/pokemon/421.png

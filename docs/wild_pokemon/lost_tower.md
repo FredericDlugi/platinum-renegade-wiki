@@ -12,14 +12,6 @@ Day        | ![][353]  [Shuppet] (20%) ![][355]  [Duskull] (20%) ![][042]  [Golb
 Night      | ![][353]  [Shuppet] (20%) ![][355]  [Duskull] (20%) ![][042]  [Golbat] (15%)  ![][093]  [Haunter] (15%) ![][198]  [Murkrow] (10%) ![][200]  [Misdreavus] (10%)  ![][356]  [Dusclops] (5%) ![][354]  [Banette] (5%)
 
 
-[042]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png "Golbat"
-[093]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png "Haunter"
-[198]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/198.png "Murkrow"
-[200]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png "Misdreavus"
-[353]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/353.png "Shuppet"
-[354]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/354.png "Banette"
-[355]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/355.png "Duskull"
-[356]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/356.png "Dusclops"
 [Golbat]: /pokemon_changes/042/
 [Haunter]: /pokemon_changes/093/
 [Murkrow]: /pokemon_changes/198/
@@ -28,3 +20,11 @@ Night      | ![][353]  [Shuppet] (20%) ![][355]  [Duskull] (20%) ![][042]  [Golb
 [Banette]: /pokemon_changes/354/
 [Duskull]: /pokemon_changes/355/
 [Dusclops]: /pokemon_changes/356/
+[042]: /img/pokemon/042.png
+[093]: /img/pokemon/093.png
+[198]: /img/pokemon/198.png
+[200]: /img/pokemon/200.png
+[353]: /img/pokemon/353.png
+[354]: /img/pokemon/354.png
+[355]: /img/pokemon/355.png
+[356]: /img/pokemon/356.png

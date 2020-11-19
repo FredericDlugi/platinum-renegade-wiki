@@ -28,28 +28,6 @@ Psychic Abigail (8)        | ![][282]  [Gardevoir] Lv. 60  ![][358]  [Chimecho] 
 Psychic Abigail (C)        | ![][282]  [Gardevoir] Lv. 72  ![][358]  [Chimecho] Lv. 72  ![][203]  [Girafarig] Lv. 72
 
 
-[051]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png "Dugtrio"
-[064]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png "Kadabra"
-[065]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png "Alakazam"
-[097]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png "Hypno"
-[099]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png "Kingler"
-[115]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png "Kangaskhan"
-[131]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png "Lapras"
-[134]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png "Vaporeon"
-[135]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png "Jolteon"
-[136]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png "Flareon"
-[142]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png "Aerodactyl"
-[203]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png "Girafarig"
-[281]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png "Kirlia"
-[282]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png "Gardevoir"
-[317]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/317.png "Swalot"
-[326]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/326.png "Grumpig"
-[345]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/345.png "Lileep"
-[347]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/347.png "Anorith"
-[357]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/357.png "Tropius"
-[358]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png "Chimecho"
-[369]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/369.png "Relicanth"
-[413]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/413.png "Wormadam"
 [Dugtrio]: /pokemon_changes/051/
 [Kadabra]: /pokemon_changes/064/
 [Alakazam]: /pokemon_changes/065/
@@ -72,3 +50,25 @@ Psychic Abigail (C)        | ![][282]  [Gardevoir] Lv. 72  ![][358]  [Chimecho] 
 [Chimecho]: /pokemon_changes/358/
 [Relicanth]: /pokemon_changes/369/
 [Wormadam]: /pokemon_changes/413/
+[051]: /img/pokemon/051.png
+[064]: /img/pokemon/064.png
+[065]: /img/pokemon/065.png
+[097]: /img/pokemon/097.png
+[099]: /img/pokemon/099.png
+[115]: /img/pokemon/115.png
+[131]: /img/pokemon/131.png
+[134]: /img/pokemon/134.png
+[135]: /img/pokemon/135.png
+[136]: /img/pokemon/136.png
+[142]: /img/pokemon/142.png
+[203]: /img/pokemon/203.png
+[281]: /img/pokemon/281.png
+[282]: /img/pokemon/282.png
+[317]: /img/pokemon/317.png
+[326]: /img/pokemon/326.png
+[345]: /img/pokemon/345.png
+[347]: /img/pokemon/347.png
+[357]: /img/pokemon/357.png
+[358]: /img/pokemon/358.png
+[369]: /img/pokemon/369.png
+[413]: /img/pokemon/413.png

@@ -13,16 +13,6 @@ Good Rod   | ![][129]  [Magikarp] (100%)
 Super Rod  | ![][130]  [Gyarados] (100%)
 
 
-[055]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png "Golduck"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[202]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png "Wobbuffet"
-[337]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/337.png "Lunatone"
-[338]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/338.png "Solrock"
-[356]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/356.png "Dusclops"
-[358]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png "Chimecho"
-[397]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/397.png "Staravia"
-[400]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png "Bibarel"
 [Golduck]: /pokemon_changes/055/
 [Magikarp]: /pokemon_changes/129/
 [Gyarados]: /pokemon_changes/130/
@@ -33,3 +23,13 @@ Super Rod  | ![][130]  [Gyarados] (100%)
 [Chimecho]: /pokemon_changes/358/
 [Staravia]: /pokemon_changes/397/
 [Bibarel]: /pokemon_changes/400/
+[055]: /img/pokemon/055.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[202]: /img/pokemon/202.png
+[337]: /img/pokemon/337.png
+[338]: /img/pokemon/338.png
+[356]: /img/pokemon/356.png
+[358]: /img/pokemon/358.png
+[397]: /img/pokemon/397.png
+[400]: /img/pokemon/400.png

@@ -16,18 +16,6 @@ Leader Roark         | Item          | Nature  | Ability       | Moves
 ![][408]<br> [Cranidos] Lv. 16        | ![][sitrus-berry]<br> Sitrus Berry      | Hasty    | Rock Head (!)       | Zen Headbutt, Rock Tomb, Thunder Punch, Scary Face
 
 
-[074]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png "Geodude"
-[095]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png "Onix"
-[111]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png "Rhyhorn"
-[138]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png "Omanyte"
-[140]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png "Kabuto"
-[246]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/246.png "Larvitar"
-[299]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/299.png "Nosepass"
-[304]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/304.png "Aron"
-[345]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/345.png "Lileep"
-[347]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/347.png "Anorith"
-[408]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/408.png "Cranidos"
-[438]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/438.png "Bonsly"
 [Geodude]: /pokemon_changes/074/
 [Onix]: /pokemon_changes/095/
 [Rhyhorn]: /pokemon_changes/111/
@@ -40,7 +28,21 @@ Leader Roark         | Item          | Nature  | Ability       | Moves
 [Anorith]: /pokemon_changes/347/
 [Cranidos]: /pokemon_changes/408/
 [Bonsly]: /pokemon_changes/438/
-[expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
-[flame-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flame-orb.png
-[smooth-rock]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/smooth-rock.png
-[muscle-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-band.png
+[expert-belt]: /img/items/expert-belt.png
+[flame-orb]: /img/items/flame-orb.png
+[muscle-band]: /img/items/muscle-band.png
+[rindo-berry]: /img/items/rindo-berry.png
+[sitrus-berry]: /img/items/sitrus-berry.png
+[smooth-rock]: /img/items/smooth-rock.png
+[074]: /img/pokemon/074.png
+[095]: /img/pokemon/095.png
+[111]: /img/pokemon/111.png
+[138]: /img/pokemon/138.png
+[140]: /img/pokemon/140.png
+[246]: /img/pokemon/246.png
+[299]: /img/pokemon/299.png
+[304]: /img/pokemon/304.png
+[345]: /img/pokemon/345.png
+[347]: /img/pokemon/347.png
+[408]: /img/pokemon/408.png
+[438]: /img/pokemon/438.png

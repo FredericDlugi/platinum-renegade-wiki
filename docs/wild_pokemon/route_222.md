@@ -18,28 +18,6 @@ Super Rod  | ![][130]  [Gyarados] (60%) ![][320]  [Wailmer] (30%) ![][224]  [Oct
 Honey Tree | ![][114]  [Tangela] (30%) ![][214]  [Heracross] (30%) ![][083]  [Farfetch'd] (30%)  ![][143]  [Snorlax] (10%)
 
 
-[072]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png "Tentacool"
-[073]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png "Tentacruel"
-[083]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png "Farfetch'd"
-[114]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png "Tangela"
-[122]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png "Mr. Mime"
-[125]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png "Electabuzz"
-[129]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png "Magikarp"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[143]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png "Snorlax"
-[180]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png "Flaaffy"
-[214]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png "Heracross"
-[223]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png "Remoraid"
-[224]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png "Octillery"
-[278]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/278.png "Wingull"
-[279]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png "Pelipper"
-[301]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/301.png "Delcatty"
-[320]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/320.png "Wailmer"
-[321]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png "Wailord"
-[404]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/404.png "Luxio"
-[419]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/419.png "Floatzel"
-[432]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/432.png "Purugly"
-[441]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/441.png "Chatot"
 [Tentacool]: /pokemon_changes/072/
 [Tentacruel]: /pokemon_changes/073/
 [Farfetch'd]: /pokemon_changes/083/
@@ -62,3 +40,25 @@ Honey Tree | ![][114]  [Tangela] (30%) ![][214]  [Heracross] (30%) ![][083]  [Fa
 [Floatzel]: /pokemon_changes/419/
 [Purugly]: /pokemon_changes/432/
 [Chatot]: /pokemon_changes/441/
+[072]: /img/pokemon/072.png
+[073]: /img/pokemon/073.png
+[083]: /img/pokemon/083.png
+[114]: /img/pokemon/114.png
+[122]: /img/pokemon/122.png
+[125]: /img/pokemon/125.png
+[129]: /img/pokemon/129.png
+[130]: /img/pokemon/130.png
+[143]: /img/pokemon/143.png
+[180]: /img/pokemon/180.png
+[214]: /img/pokemon/214.png
+[223]: /img/pokemon/223.png
+[224]: /img/pokemon/224.png
+[278]: /img/pokemon/278.png
+[279]: /img/pokemon/279.png
+[301]: /img/pokemon/301.png
+[320]: /img/pokemon/320.png
+[321]: /img/pokemon/321.png
+[404]: /img/pokemon/404.png
+[419]: /img/pokemon/419.png
+[432]: /img/pokemon/432.png
+[441]: /img/pokemon/441.png

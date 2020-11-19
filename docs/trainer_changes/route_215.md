@@ -27,24 +27,6 @@ Ace Trainer Maya (7)       | ![][463]  [Lickilicky] Lv. 62  ![][282]  [Gardevoir
 Ace Trainer Maya (S)       | ![][463]  [Lickilicky] Lv. 77  ![][282]  [Gardevoir] Lv. 77  ![][407]  [Roserade] Lv. 77
 
 
-[057]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png "Primeape"
-[067]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png "Machoke"
-[105]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png "Marowak"
-[106]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png "Hitmonlee"
-[107]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png "Hitmonchan"
-[108]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png "Lickitung"
-[130]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png "Gyarados"
-[207]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png "Gligar"
-[237]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png "Hitmontop"
-[256]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/256.png "Combusken"
-[282]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png "Gardevoir"
-[398]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png "Staraptor"
-[405]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png "Luxray"
-[407]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/407.png "Roserade"
-[409]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/409.png "Rampardos"
-[426]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/426.png "Drifblim"
-[463]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/463.png "Lickilicky"
-[472]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/472.png "Gliscor"
 [Primeape]: /pokemon_changes/057/
 [Machoke]: /pokemon_changes/067/
 [Marowak]: /pokemon_changes/105/
@@ -63,3 +45,21 @@ Ace Trainer Maya (S)       | ![][463]  [Lickilicky] Lv. 77  ![][282]  [Gardevoir
 [Drifblim]: /pokemon_changes/426/
 [Lickilicky]: /pokemon_changes/463/
 [Gliscor]: /pokemon_changes/472/
+[057]: /img/pokemon/057.png
+[067]: /img/pokemon/067.png
+[105]: /img/pokemon/105.png
+[106]: /img/pokemon/106.png
+[107]: /img/pokemon/107.png
+[108]: /img/pokemon/108.png
+[130]: /img/pokemon/130.png
+[207]: /img/pokemon/207.png
+[237]: /img/pokemon/237.png
+[256]: /img/pokemon/256.png
+[282]: /img/pokemon/282.png
+[398]: /img/pokemon/398.png
+[405]: /img/pokemon/405.png
+[407]: /img/pokemon/407.png
+[409]: /img/pokemon/409.png
+[426]: /img/pokemon/426.png
+[463]: /img/pokemon/463.png
+[472]: /img/pokemon/472.png

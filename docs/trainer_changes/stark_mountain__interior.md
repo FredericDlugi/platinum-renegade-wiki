@@ -20,53 +20,6 @@ Dragon Tamer Drake    | ![][445]  [Garchomp] Lv. 78  ![][149]  [Dragonite] Lv. 7
 Black Belt Jarrett    | ![][068]  [Machamp] Lv. 78  ![][257]  [Blaziken] Lv. 78  ![][062]  [Poliwrath] Lv. 78
 
 
-[020]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png "Raticate"
-[022]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png "Fearow"
-[038]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png "Ninetales"
-[040]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png "Wigglytuff"
-[057]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png "Primeape"
-[062]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png "Poliwrath"
-[065]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png "Alakazam"
-[068]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png "Machamp"
-[149]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png "Dragonite"
-[164]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png "Noctowl"
-[169]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png "Crobat"
-[178]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png "Xatu"
-[181]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png "Ampharos"
-[189]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png "Jumpluff"
-[208]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png "Steelix"
-[217]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png "Ursaring"
-[230]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png "Kingdra"
-[248]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png "Tyranitar"
-[257]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png "Blaziken"
-[275]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/275.png "Shiftry"
-[279]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/279.png "Pelipper"
-[282]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png "Gardevoir"
-[286]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/286.png "Breloom"
-[295]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/295.png "Exploud"
-[297]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/297.png "Hariyama"
-[306]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png "Aggron"
-[308]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308.png "Medicham"
-[330]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png "Flygon"
-[334]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334.png "Altaria"
-[337]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/337.png "Lunatone"
-[338]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/338.png "Solrock"
-[344]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/344.png "Claydol"
-[354]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/354.png "Banette"
-[362]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362.png "Glalie"
-[373]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png "Salamence"
-[389]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png "Torterra"
-[398]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png "Staraptor"
-[405]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png "Luxray"
-[409]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/409.png "Rampardos"
-[426]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/426.png "Drifblim"
-[445]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png "Garchomp"
-[452]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/452.png "Drapion"
-[454]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/454.png "Toxicroak"
-[466]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/466.png "Electivire"
-[467]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/467.png "Magmortar"
-[472]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/472.png "Gliscor"
-[475]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475.png "Gallade"
 [Raticate]: /pokemon_changes/020/
 [Fearow]: /pokemon_changes/022/
 [Ninetales]: /pokemon_changes/038/
@@ -114,3 +67,50 @@ Black Belt Jarrett    | ![][068]  [Machamp] Lv. 78  ![][257]  [Blaziken] Lv. 78 
 [Magmortar]: /pokemon_changes/467/
 [Gliscor]: /pokemon_changes/472/
 [Gallade]: /pokemon_changes/475/
+[020]: /img/pokemon/020.png
+[022]: /img/pokemon/022.png
+[038]: /img/pokemon/038.png
+[040]: /img/pokemon/040.png
+[057]: /img/pokemon/057.png
+[062]: /img/pokemon/062.png
+[065]: /img/pokemon/065.png
+[068]: /img/pokemon/068.png
+[149]: /img/pokemon/149.png
+[164]: /img/pokemon/164.png
+[169]: /img/pokemon/169.png
+[178]: /img/pokemon/178.png
+[181]: /img/pokemon/181.png
+[189]: /img/pokemon/189.png
+[208]: /img/pokemon/208.png
+[217]: /img/pokemon/217.png
+[230]: /img/pokemon/230.png
+[248]: /img/pokemon/248.png
+[257]: /img/pokemon/257.png
+[275]: /img/pokemon/275.png
+[279]: /img/pokemon/279.png
+[282]: /img/pokemon/282.png
+[286]: /img/pokemon/286.png
+[295]: /img/pokemon/295.png
+[297]: /img/pokemon/297.png
+[306]: /img/pokemon/306.png
+[308]: /img/pokemon/308.png
+[330]: /img/pokemon/330.png
+[334]: /img/pokemon/334.png
+[337]: /img/pokemon/337.png
+[338]: /img/pokemon/338.png
+[344]: /img/pokemon/344.png
+[354]: /img/pokemon/354.png
+[362]: /img/pokemon/362.png
+[373]: /img/pokemon/373.png
+[389]: /img/pokemon/389.png
+[398]: /img/pokemon/398.png
+[405]: /img/pokemon/405.png
+[409]: /img/pokemon/409.png
+[426]: /img/pokemon/426.png
+[445]: /img/pokemon/445.png
+[452]: /img/pokemon/452.png
+[454]: /img/pokemon/454.png
+[466]: /img/pokemon/466.png
+[467]: /img/pokemon/467.png
+[472]: /img/pokemon/472.png
+[475]: /img/pokemon/475.png

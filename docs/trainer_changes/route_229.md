@@ -22,24 +22,6 @@ Ace Trainer Gene   | Item         | Nature | Ability      | Moves
 ![][143]<br> [Snorlax] Lv. 77         | ![][leftovers]<br> Leftovers            | ?        | Thick Fat           | Body Slam, Earthquake, Curse, Slack Off
 
 
-[012]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png "Butterfree"
-[026]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png "Raichu"
-[045]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png "Vileplume"
-[051]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png "Dugtrio"
-[059]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png "Arcanine"
-[085]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png "Dodrio"
-[143]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png "Snorlax"
-[203]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png "Girafarig"
-[210]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png "Granbull"
-[234]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png "Stantler"
-[262]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/262.png "Mightyena"
-[282]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png "Gardevoir"
-[327]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/327.png "Spinda"
-[352]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/352.png "Kecleon"
-[373]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png "Salamence"
-[400]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/400.png "Bibarel"
-[474]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/474.png "Porygon-Z"
-[477]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/477.png "Dusknoir"
 [Butterfree]: /pokemon_changes/012/
 [Raichu]: /pokemon_changes/026/
 [Vileplume]: /pokemon_changes/045/
@@ -58,8 +40,27 @@ Ace Trainer Gene   | Item         | Nature | Ability      | Moves
 [Bibarel]: /pokemon_changes/400/
 [Porygon-Z]: /pokemon_changes/474/
 [Dusknoir]: /pokemon_changes/477/
-[choice-scarf]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-scarf.png
-[wise-glasses]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png
-[leftovers]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png
-[life-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png
-[muscle-band]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-band.png
+[choice-scarf]: /img/items/choice-scarf.png
+[chople-berry]: /img/items/chople-berry.png
+[leftovers]: /img/items/leftovers.png
+[life-orb]: /img/items/life-orb.png
+[muscle-band]: /img/items/muscle-band.png
+[wise-glasses]: /img/items/wise-glasses.png
+[012]: /img/pokemon/012.png
+[026]: /img/pokemon/026.png
+[045]: /img/pokemon/045.png
+[051]: /img/pokemon/051.png
+[059]: /img/pokemon/059.png
+[085]: /img/pokemon/085.png
+[143]: /img/pokemon/143.png
+[203]: /img/pokemon/203.png
+[210]: /img/pokemon/210.png
+[234]: /img/pokemon/234.png
+[262]: /img/pokemon/262.png
+[282]: /img/pokemon/282.png
+[327]: /img/pokemon/327.png
+[352]: /img/pokemon/352.png
+[373]: /img/pokemon/373.png
+[400]: /img/pokemon/400.png
+[474]: /img/pokemon/474.png
+[477]: /img/pokemon/477.png

@@ -22,31 +22,6 @@ PKMN Trainer Mira | Item         | Nature  | Ability       | Moves
 ![][064]<br> [Kadabra] Lv. 28         | ![][life-orb]<br> Life Orb              | Modest   | Magic Guard         | Psybeam, Grass Knot, Dazzling Gleam, Recover
 
 
-[020]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png "Raticate"
-[030]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png "Nidorina"
-[033]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png "Nidorino"
-[051]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png "Dugtrio"
-[052]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png "Meowth"
-[054]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png "Psyduck"
-[064]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png "Kadabra"
-[093]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png "Haunter"
-[104]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png "Cubone"
-[111]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png "Rhyhorn"
-[133]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png "Eevee"
-[162]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/162.png "Furret"
-[176]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/176.png "Togetic"
-[185]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png "Sudowoodo"
-[190]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/190.png "Aipom"
-[233]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png "Porygon2"
-[264]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/264.png "Linoone"
-[294]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/294.png "Loudred"
-[300]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/300.png "Skitty"
-[313]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/313.png "Volbeat"
-[314]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/314.png "Illumise"
-[371]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/371.png "Bagon"
-[443]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/443.png "Gible"
-[444]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/444.png "Gabite"
-[476]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png "Probopass"
 [Raticate]: /pokemon_changes/020/
 [Nidorina]: /pokemon_changes/030/
 [Nidorino]: /pokemon_changes/033/
@@ -72,6 +47,32 @@ PKMN Trainer Mira | Item         | Nature  | Ability       | Moves
 [Gible]: /pokemon_changes/443/
 [Gabite]: /pokemon_changes/444/
 [Probopass]: /pokemon_changes/476/
-[expert-belt]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png
-[spell-tag]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/spell-tag.png
-[life-orb]: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png
+[expert-belt]: /img/items/expert-belt.png
+[life-orb]: /img/items/life-orb.png
+[sitrus-berry]: /img/items/sitrus-berry.png
+[spell-tag]: /img/items/spell-tag.png
+[020]: /img/pokemon/020.png
+[030]: /img/pokemon/030.png
+[033]: /img/pokemon/033.png
+[051]: /img/pokemon/051.png
+[052]: /img/pokemon/052.png
+[054]: /img/pokemon/054.png
+[064]: /img/pokemon/064.png
+[093]: /img/pokemon/093.png
+[104]: /img/pokemon/104.png
+[111]: /img/pokemon/111.png
+[133]: /img/pokemon/133.png
+[162]: /img/pokemon/162.png
+[176]: /img/pokemon/176.png
+[185]: /img/pokemon/185.png
+[190]: /img/pokemon/190.png
+[233]: /img/pokemon/233.png
+[264]: /img/pokemon/264.png
+[294]: /img/pokemon/294.png
+[300]: /img/pokemon/300.png
+[313]: /img/pokemon/313.png
+[314]: /img/pokemon/314.png
+[371]: /img/pokemon/371.png
+[443]: /img/pokemon/443.png
+[444]: /img/pokemon/444.png
+[476]: /img/pokemon/476.png
