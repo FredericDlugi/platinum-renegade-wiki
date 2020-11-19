@@ -13,23 +13,23 @@ PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 58 | ![][214]<br> [Heracro
 PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 58 | ![][214]<br> [Heracross]<br> Lv. 58 | ![][143]<br> [Snorlax]<br> Lv. 58   | ![][184]<br> [Azumarill]<br> Lv. 58 | ![][286]<br> [Breloom]<br> Lv. 58   | ![][392]<br> [Infernape]<br> Lv. 59 
 PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 58 | ![][214]<br> [Heracross]<br> Lv. 58 | ![][143]<br> [Snorlax]<br> Lv. 58   | ![][286]<br> [Breloom]<br> Lv. 58   | ![][059]<br> [Arcanine]<br> Lv. 58  | ![][395]<br> [Empoleon]<br> Lv. 59  
 
-Commander Mars      | Item         | Nature  | Ability       | Moves
----                 | ---          | ---     | ---           | ---
-![][169]<br> [Crobat] Lv. 57          | ![][life-orb]<br> Life Orb              | ?        | Inner Focus         | Brave Bird, Sludge Bomb, Confuse Ray, Torment
-![][469]<br> [Yanmega] Lv. 57         | ![][wise-glasses]<br> Wise Glasses      | ?        | Speed Boost         | Bug Buzz, Hurricane, Shadow Ball, Detect
-![][437]<br> [Bronzong] Lv. 57        | ![][leftovers]<br> Leftovers            | ?        | Levitate            | Stealth Rock, Zen Headbutt, Gyro Ball, Earthquake
-![][466]<br> [Electivire] Lv. 57      | ![][expert-belt]<br> Expert Belt        | ?        | Motor Drive         | Thunder Punch, Ice Punch, Cross Chop, Fire Punch
-![][115]<br> [Kangaskhan] Lv. 57      | ![][muscle-band]<br> Muscle Band        | ?        | Scrappy             | Body Slam, Crunch, Hammer Arm, Fake Out
-![][432]<br> [Purugly] Lv. 58         | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Thick Fat           | Body Slam, Play Rough, Fake Out, Hypnosis
+Commander Mars                       | Item                               | Nature | Ability     | Moves                                            
+---                                  | ---                                | --- | ---         | ---                                              
+![][169]<br> [Crobat]<br> Lv. 57     | ![][life-orb]<br> Life Orb         | ? | Inner Focus | Brave Bird, Sludge Bomb, Confuse Ray, Torment    
+![][469]<br> [Yanmega]<br> Lv. 57    | ![][wise-glasses]<br> Wise Glasses | ? | Speed Boost | Bug Buzz, Hurricane, Shadow Ball, Detect         
+![][437]<br> [Bronzong]<br> Lv. 57   | ![][leftovers]<br> Leftovers       | ? | Levitate    | Stealth Rock, Zen Headbutt, Gyro Ball, Earthquake
+![][466]<br> [Electivire]<br> Lv. 57 | ![][expert-belt]<br> Expert Belt   | ? | Motor Drive | Thunder Punch, Ice Punch, Cross Chop, Fire Punch 
+![][115]<br> [Kangaskhan]<br> Lv. 57 | ![][muscle-band]<br> Muscle Band   | ? | Scrappy     | Body Slam, Crunch, Hammer Arm, Fake Out          
+![][432]<br> [Purugly]<br> Lv. 58    | ![][sitrus-berry]<br> Sitrus Berry | ? | Thick Fat   | Body Slam, Play Rough, Fake Out, Hypnosis        
 
-Commander Jupiter  | Item         | Nature  | Ability       | Moves
----                | ---          | ---     | ---           | ---
-![][169]<br> [Crobat] Lv. 57          | ![][bright-powder]<br> Bright Powder    | ?        | Inner Focus         | Brave Bird, Sludge Bomb, Double Team, Hypnosis
-![][302]<br> [Sableye] Lv. 57         | ![][muscle-band]<br> Muscle Band        | ?        | Magic Guard (!)     | Shadow Claw, Sucker Punch, Zen Headbutt, Fake Out
-![][437]<br> [Bronzong] Lv. 57        | ![][leftovers]<br> Leftovers            | ?        | Levitate            | Swagger, Psychic, Flash Cannon, Grass Knot
-![][465]<br> [Tangrowth] Lv. 57       | ![][big-root]<br> Big Root              | ?        | Chlorophyll         | Giga Drain, Leech Seed, Focus Blast, Sludge Bomb
-![][423]<br> [Gastrodon] Lv. 57       | ![][wise-glasses]<br> Wise Glasses      | ?        | Sticky Hold         | Muddy Water, Earth Power, Ice Beam, Recover
-![][435]<br> [Skuntank] Lv. 58        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Aftermath           | Gunk Shot, Crunch, Play Rough, Toxic
+Commander Jupiter                   | Item                                 | Nature | Ability         | Moves                                            
+---                                 | ---                                  | --- | ---             | ---                                              
+![][169]<br> [Crobat]<br> Lv. 57    | ![][bright-powder]<br> Bright Powder | ? | Inner Focus     | Brave Bird, Sludge Bomb, Double Team, Hypnosis   
+![][302]<br> [Sableye]<br> Lv. 57   | ![][muscle-band]<br> Muscle Band     | ? | Magic Guard (!) | Shadow Claw, Sucker Punch, Zen Headbutt, Fake Out
+![][437]<br> [Bronzong]<br> Lv. 57  | ![][leftovers]<br> Leftovers         | ? | Levitate        | Swagger, Psychic, Flash Cannon, Grass Knot       
+![][465]<br> [Tangrowth]<br> Lv. 57 | ![][big-root]<br> Big Root           | ? | Chlorophyll     | Giga Drain, Leech Seed, Focus Blast, Sludge Bomb 
+![][423]<br> [Gastrodon]<br> Lv. 57 | ![][wise-glasses]<br> Wise Glasses   | ? | Sticky Hold     | Muddy Water, Earth Power, Ice Beam, Recover      
+![][435]<br> [Skuntank]<br> Lv. 58  | ![][sitrus-berry]<br> Sitrus Berry   | ? | Aftermath       | Gunk Shot, Crunch, Play Rough, Toxic             
 
 
 [Golbat]: /pokemon_changes/042/

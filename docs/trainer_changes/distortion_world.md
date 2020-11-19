@@ -5,19 +5,19 @@ Trainer             | 1                                   | 2                   
 Galactic Boss Cyrus | ![][484]<br> [Palkia]<br> Lv. 70    | ![][483]<br> [Dialga]<br> Lv. 70    
 Galactic Boss Cyrus | ![][169]<br> [Crobat]<br> Lv. 59    | ![][430]<br> [Honchkrow]<br> Lv. 59 | ![][229]<br> [Houndoom]<br> Lv. 59  | ![][130]<br> [Gyarados]<br> Lv. 59  | ![][462]<br> [Magnezone]<br> Lv. 59 | ![][461]<br> [Weavile]<br> Lv. 60   
 
-Galactic Boss Cyrus   | Item         | Nature  | Ability       | Moves
----                   | ---          | ---     | ---           | ---
-![][484]<br> [Palkia] (Lv. 70  0 IV)  | None                                    | ?        | Pressure            | Hydro Pump, Spacial Rend, Earth Power, Aura Sphere
-![][483]<br> [Dialga] (Lv. 70  0 IV)  | None                                    | ?        | Pressure            | Flash Cannon, Roar of Time, Earth Power, Aura Sphere
+Galactic Boss Cyrus                      | Item | Nature | Ability  | Moves                                               
+---                                      | ---  | --- | ---      | ---                                                 
+![][484]<br> [Palkia]<br> (Lv. 70  0 IV) | None | ? | Pressure | Hydro Pump, Spacial Rend, Earth Power, Aura Sphere  
+![][483]<br> [Dialga]<br> (Lv. 70  0 IV) | None | ? | Pressure | Flash Cannon, Roar of Time, Earth Power, Aura Sphere
 
-Galactic Boss Cyrus | Item         | Nature  | Ability       | Moves
----                 | ---          | ---     | ---           | ---
-![][169]<br> [Crobat] Lv. 59          | ![][choice-band]<br> Choice Band        | Jolly    | Inner Focus         | Brave Bird, U-turn, Cross Poison, Zen Headbutt
-![][430]<br> [Honchkrow] Lv. 59       | ![][white-herb]<br> White Herb          | Naughty  | Super Luck          | Brave Bird, Sucker Punch, Thunder Wave, Superpower
-![][229]<br> [Houndoom] Lv. 59        | ![][life-orb]<br> Life Orb              | Hasty    | Intimidate (!)      | Dark Pulse, Flamethrower, Sludge Bomb, Nasty Plot
-![][130]<br> [Gyarados] Lv. 59        | ![][muscle-band]<br> Muscle Band        | Jolly    | Intimidate          | Aqua Tail, Stone Edge, Ice Fang, Dragon Dance
-![][462]<br> [Magnezone] Lv. 59       | ![][wise-glasses]<br> Wise Glasses      | Modest   | Magnet Pull         | Thunderbolt, Flash Cannon, Signal Beam, Mirror Coat
-![][461]<br> [Weavile] Lv. 60         | ![][focus-sash]<br> Focus Sash          | Jolly    | Technician (!)      | Feint Attack, Icicle Crash, Aerial Ace, Swords Dance
+Galactic Boss Cyrus                 | Item                               | Nature  | Ability        | Moves                                               
+---                                 | ---                                | ---     | ---            | ---                                                 
+![][169]<br> [Crobat]<br> Lv. 59    | ![][choice-band]<br> Choice Band   | Jolly   | Inner Focus    | Brave Bird, U-turn, Cross Poison, Zen Headbutt      
+![][430]<br> [Honchkrow]<br> Lv. 59 | ![][white-herb]<br> White Herb     | Naughty | Super Luck     | Brave Bird, Sucker Punch, Thunder Wave, Superpower  
+![][229]<br> [Houndoom]<br> Lv. 59  | ![][life-orb]<br> Life Orb         | Hasty   | Intimidate (!) | Dark Pulse, Flamethrower, Sludge Bomb, Nasty Plot   
+![][130]<br> [Gyarados]<br> Lv. 59  | ![][muscle-band]<br> Muscle Band   | Jolly   | Intimidate     | Aqua Tail, Stone Edge, Ice Fang, Dragon Dance       
+![][462]<br> [Magnezone]<br> Lv. 59 | ![][wise-glasses]<br> Wise Glasses | Modest  | Magnet Pull    | Thunderbolt, Flash Cannon, Signal Beam, Mirror Coat 
+![][461]<br> [Weavile]<br> Lv. 60   | ![][focus-sash]<br> Focus Sash     | Jolly   | Technician (!) | Feint Attack, Icicle Crash, Aerial Ace, Swords Dance
 
 
 [Gyarados]: /pokemon_changes/130/

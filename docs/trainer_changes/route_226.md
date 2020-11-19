@@ -13,14 +13,14 @@ Dragon Tamer Stanley | ![][230]<br> [Kingdra]<br> Lv. 76
 Swimmer Wade         | ![][319]<br> [Sharpedo]<br> Lv. 74   | ![][340]<br> [Whiscash]<br> Lv. 74   
 Ace Trainer Wyver *  | ![][230]<br> [Kingdra]<br> Lv. 76    | ![][330]<br> [Flygon]<br> Lv. 76     | ![][334]<br> [Altaria]<br> Lv. 76    | ![][149]<br> [Dragonite]<br> Lv. 76  | ![][445]<br> [Garchomp]<br> Lv. 76   | ![][373]<br> [Salamence]<br> Lv. 77  
 
-Ace Trainer Wyver  | Item         | Nature | Ability           | Moves
----                | ---          | ---    | ---               | ---
-![][230]<br> [Kingdra] Lv. 76         | ![][haban-berry]<br> Haban Berry        | ?        | Swift Swim          | Waterfall, Outrage, Yawn, Dragon Dance
-![][330]<br> [Flygon] Lv. 76          | ![][white-herb]<br> White Herb          | ?        | Compound Eyes (!)   | Draco Meteor, Earth Power, Bug Buzz, Fire Blast
-![][334]<br> [Altaria] Lv. 76         | ![][leftovers]<br> Leftovers            | ?        | Cloud Nine          | Dragon Claw, Toxic, Rest, Sleep Talk
-![][149]<br> [Dragonite] Lv. 76       | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Marvel Scale (!)    | Outrage, Earthquake, Extreme Speed, Iron Tail
-![][445]<br> [Garchomp] Lv. 76        | ![][choice-scarf]<br> Choice Scarf      | ?        | Rough Skin          | Outrage, Earthquake, Poison Jab, Fire Fang
-![][373]<br> [Salamence] Lv. 77       | ![][focus-sash]<br> Focus Sash          | ?        | Intimidate          | Outrage, Aerial Ace, Dragon Dance, Earthquake
+Ace Trainer Wyver                   | Item                               | Nature | Ability           | Moves                                          
+---                                 | ---                                | --- | ---               | ---                                            
+![][230]<br> [Kingdra]<br> Lv. 76   | ![][haban-berry]<br> Haban Berry   | ? | Swift Swim        | Waterfall, Outrage, Yawn, Dragon Dance         
+![][330]<br> [Flygon]<br> Lv. 76    | ![][white-herb]<br> White Herb     | ? | Compound Eyes (!) | Draco Meteor, Earth Power, Bug Buzz, Fire Blast
+![][334]<br> [Altaria]<br> Lv. 76   | ![][leftovers]<br> Leftovers       | ? | Cloud Nine        | Dragon Claw, Toxic, Rest, Sleep Talk           
+![][149]<br> [Dragonite]<br> Lv. 76 | ![][sitrus-berry]<br> Sitrus Berry | ? | Marvel Scale (!)  | Outrage, Earthquake, Extreme Speed, Iron Tail  
+![][445]<br> [Garchomp]<br> Lv. 76  | ![][choice-scarf]<br> Choice Scarf | ? | Rough Skin        | Outrage, Earthquake, Poison Jab, Fire Fang     
+![][373]<br> [Salamence]<br> Lv. 77 | ![][focus-sash]<br> Focus Sash     | ? | Intimidate        | Outrage, Aerial Ace, Dragon Dance, Earthquake  
 
 
 [Fearow]: /pokemon_changes/022/

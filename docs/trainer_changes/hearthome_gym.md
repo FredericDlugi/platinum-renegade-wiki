@@ -13,23 +13,23 @@ PKMN Trainer Barry    | ![][397]<br> [Staravia]<br> Lv. 32   | ![][214]<br> [Her
 PKMN Trainer Barry    | ![][397]<br> [Staravia]<br> Lv. 32   | ![][214]<br> [Heracross]<br> Lv. 32  | ![][143]<br> [Snorlax]<br> Lv. 32    | ![][391]<br> [Monferno]<br> Lv. 33   
 PKMN Trainer Barry    | ![][397]<br> [Staravia]<br> Lv. 32   | ![][214]<br> [Heracross]<br> Lv. 32  | ![][143]<br> [Snorlax]<br> Lv. 32    | ![][394]<br> [Prinplup]<br> Lv. 33   
 
-Leader Fantina     | Item         | Nature  | Ability       | Moves
----                | ---          | ---     | ---           | ---
-![][426]<br> [Drifblim] Lv. 32        | ![][starf-berry]<br> Starf Berry        | Naive    | Unburden            | Shadow Ball, Air Slash, Baton Pass, Calm Mind
-![][356]<br> [Dusclops] Lv. 32        | ![][leftovers]<br> Leftovers            | Impish   | Pressure            | Shadow Punch, Will-O-Wisp, Protect, Pain Split
-![][354]<br> [Banette] Lv. 32         | ![][muscle-band]<br> Muscle Band        | Adamant  | Insomnia            | Shadow Claw, Will-O-Wisp, Sucker Punch, Disable
-![][442]<br> [Spiritomb] Lv. 32       | ![][zoom-lens]<br> Zoom Lens            | Relaxed  | Pressure            | Shadow Ball, Will-O-Wisp, Dark Pulse, Disable
-![][094]<br> [Gengar] Lv. 32          | ![][wise-glasses]<br> Wise Glasses      | Naive    | Levitate            | Shadow Ball, Will-O-Wisp, Sludge Bomb, Dazzling Gleam
-![][429]<br> [Mismagius] Lv. 33       | ![][sitrus-berry]<br> Sitrus Berry      | Naive    | Levitate            | Shadow Ball, Power Gem, Calm Mind, Dazzling Gleam
+Leader Fantina                      | Item                               | Nature  | Ability  | Moves                                                
+---                                 | ---                                | ---     | ---      | ---                                                  
+![][426]<br> [Drifblim]<br> Lv. 32  | ![][starf-berry]<br> Starf Berry   | Naive   | Unburden | Shadow Ball, Air Slash, Baton Pass, Calm Mind        
+![][356]<br> [Dusclops]<br> Lv. 32  | ![][leftovers]<br> Leftovers       | Impish  | Pressure | Shadow Punch, Will-O-Wisp, Protect, Pain Split       
+![][354]<br> [Banette]<br> Lv. 32   | ![][muscle-band]<br> Muscle Band   | Adamant | Insomnia | Shadow Claw, Will-O-Wisp, Sucker Punch, Disable      
+![][442]<br> [Spiritomb]<br> Lv. 32 | ![][zoom-lens]<br> Zoom Lens       | Relaxed | Pressure | Shadow Ball, Will-O-Wisp, Dark Pulse, Disable        
+![][094]<br> [Gengar]<br> Lv. 32    | ![][wise-glasses]<br> Wise Glasses | Naive   | Levitate | Shadow Ball, Will-O-Wisp, Sludge Bomb, Dazzling Gleam
+![][429]<br> [Mismagius]<br> Lv. 33 | ![][sitrus-berry]<br> Sitrus Berry | Naive   | Levitate | Shadow Ball, Power Gem, Calm Mind, Dazzling Gleam    
 
-PKMN Trainer Barry | Item         | Nature  | Ability       | Moves
----                | ---          | ---     | ---           | ---
-![][397]<br> [Staravia] Lv. 32        | ![][muscle-band]<br> Muscle Band        | ?        | Reckless            | Facade, Aerial Ace, Double Team, Endeavor
-![][214]<br> [Heracross] Lv. 32       | ![][coba-berry]<br> Coba Berry          | ?        | Guts                | Bug Bite, Brick Break, Aerial Ace, Knock Off
-![][143]<br> [Snorlax] Lv. 32         | ![][leftovers]<br> Leftovers            | ?        | Thick Fat           | Body Slam, Yawn, Amnesia, Rock Slide
-![][388]<br> [Grotle] Lv. 33          | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Overgrow            | Seed Bomb, Crunch, Leech Seed, Protect          (!)
-![][391]<br> [Monferno] Lv. 33        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Iron Fist           | Flamethrower, Low Kick, Grass Knot, Fake Out    (!)
-![][394]<br> [Prinplup] Lv. 33        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Torrent             | Scald, Icy Wind, Grass Knot, Aerial Ace         (!)
+PKMN Trainer Barry                  | Item                               | Nature | Ability   | Moves                                              
+---                                 | ---                                | --- | ---       | ---                                                
+![][397]<br> [Staravia]<br> Lv. 32  | ![][muscle-band]<br> Muscle Band   | ? | Reckless  | Facade, Aerial Ace, Double Team, Endeavor          
+![][214]<br> [Heracross]<br> Lv. 32 | ![][coba-berry]<br> Coba Berry     | ? | Guts      | Bug Bite, Brick Break, Aerial Ace, Knock Off       
+![][143]<br> [Snorlax]<br> Lv. 32   | ![][leftovers]<br> Leftovers       | ? | Thick Fat | Body Slam, Yawn, Amnesia, Rock Slide               
+![][388]<br> [Grotle]<br> Lv. 33    | ![][sitrus-berry]<br> Sitrus Berry | ? | Overgrow  | Seed Bomb, Crunch, Leech Seed, Protect          (!)
+![][391]<br> [Monferno]<br> Lv. 33  | ![][sitrus-berry]<br> Sitrus Berry | ? | Iron Fist | Flamethrower, Low Kick, Grass Knot, Fake Out    (!)
+![][394]<br> [Prinplup]<br> Lv. 33  | ![][sitrus-berry]<br> Sitrus Berry | ? | Torrent   | Scald, Icy Wind, Grass Knot, Aerial Ace         (!)
 
 
 [Gastly]: /pokemon_changes/092/

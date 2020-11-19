@@ -18,14 +18,14 @@ Ace Trainer Brenda | ![][282]<br> [Gardevoir]<br> Lv. 48  | ![][428]<br> [Lopunn
 Galactic Grunt     | ![][042]<br> [Golbat]<br> Lv. 46     | ![][229]<br> [Houndoom]<br> Lv. 46   | ![][089]<br> [Muk]<br> Lv. 46        
 Galactic Grunt     | ![][432]<br> [Purugly]<br> Lv. 46    | ![][454]<br> [Toxicroak]<br> Lv. 46  | ![][435]<br> [Skuntank]<br> Lv. 46   
 
-PKMN Trainer Riley | Item         | Nature  | Ability       | Moves
----                | ---          | ---     | ---           | ---
-![][359]<br> [Absol] Lv. 49           | ![][scope-lens]<br> Scope Lens          | ?        | Super Luck          | Night Slash, Psycho Cut, Megahorn, Play Rough
-![][217]<br> [Ursaring] Lv. 49        | ![][flame-orb]<br> Flame Orb            | ?        | Guts                | Strength, Close Combat, Play Rough, Protect
-![][376]<br> [Metagross] Lv. 49       | ![][liechi-berry]<br> Liechi Berry      | ?        | Clear Body          | Meteor Mash, Earthquake, Zen Headbutt, Agility
-![][373]<br> [Salamence] Lv. 49       | ![][power-herb]<br> Power Herb          | ?        | Intimidate          | Dragon Rush, Fly, Crunch, Dragon Dance
-![][289]<br> [Slaking] Lv. 49         | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Truant              | Body Slam, Hammer Arm, Play Rough, Slack Off
-![][448]<br> [Lucario] Lv. 50         | ![][life-orb]<br> Life Orb              | ?        | Adaptability        | High Jump Kick, Meteor Mash, Blaze Kick, Bullet Punch
+PKMN Trainer Riley                  | Item                               | Nature | Ability      | Moves                                                
+---                                 | ---                                | --- | ---          | ---                                                  
+![][359]<br> [Absol]<br> Lv. 49     | ![][scope-lens]<br> Scope Lens     | ? | Super Luck   | Night Slash, Psycho Cut, Megahorn, Play Rough        
+![][217]<br> [Ursaring]<br> Lv. 49  | ![][flame-orb]<br> Flame Orb       | ? | Guts         | Strength, Close Combat, Play Rough, Protect          
+![][376]<br> [Metagross]<br> Lv. 49 | ![][liechi-berry]<br> Liechi Berry | ? | Clear Body   | Meteor Mash, Earthquake, Zen Headbutt, Agility       
+![][373]<br> [Salamence]<br> Lv. 49 | ![][power-herb]<br> Power Herb     | ? | Intimidate   | Dragon Rush, Fly, Crunch, Dragon Dance               
+![][289]<br> [Slaking]<br> Lv. 49   | ![][sitrus-berry]<br> Sitrus Berry | ? | Truant       | Body Slam, Hammer Arm, Play Rough, Slack Off         
+![][448]<br> [Lucario]<br> Lv. 50   | ![][life-orb]<br> Life Orb         | ? | Adaptability | High Jump Kick, Meteor Mash, Blaze Kick, Bullet Punch
 
 
 [Charmeleon]: /pokemon_changes/005/

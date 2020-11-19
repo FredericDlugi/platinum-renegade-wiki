@@ -10,17 +10,17 @@ PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 41 | ![][214]<br> [Heracro
 PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 41 | ![][214]<br> [Heracross]<br> Lv. 41 | ![][143]<br> [Snorlax]<br> Lv. 41   | ![][184]<br> [Azumarill]<br> Lv. 41 | ![][286]<br> [Breloom]<br> Lv. 41   | ![][392]<br> [Infernape]<br> Lv. 42 
 PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 41 | ![][214]<br> [Heracross]<br> Lv. 41 | ![][143]<br> [Snorlax]<br> Lv. 41   | ![][286]<br> [Breloom]<br> Lv. 41   | ![][059]<br> [Arcanine]<br> Lv. 41  | ![][395]<br> [Empoleon]<br> Lv. 42  
 
-PKMN Trainer Barry| Item         | Nature  | Ability       | Moves
----               | ---          | ---     | ---           | ---
-![][398]<br> [Staraptor] Lv. 41       | ![][muscle-band]<br> Muscle Band        | ?        | Reckless            | Double-Edge, Close Combat, Aerial Ace, Roost
-![][214]<br> [Heracross] Lv. 41       | ![][coba-berry]<br> Coba Berry          | ?        | Guts                | Megahorn, Brick Break, Bullet Seed, Night Slash
-![][143]<br> [Snorlax] Lv. 41         | ![][leftovers]<br> Leftovers            | ?        | Thick Fat           | Body Slam, Crunch, Rest, Sleep Talk
-![][184]<br> [Azumarill] Lv. 41       | ![][life-orb]<br> Life Orb              | ?        | Huge Power          | Aqua Tail, Play Rough, Body Slam, Aqua Jet          (!)
-![][059]<br> [Arcanine] Lv. 41        | ![][expert-belt]<br> Expert Belt        | ?        | Intimidate          | Heat Wave, Thunder Fang, Outrage, Crunch            (!)
-![][286]<br> [Breloom] Lv. 41         | ![][focus-sash]<br> Focus Sash          | ?        | Technician          | Bullet Seed, Force Palm, Spore, Rock Tomb           (!)
-![][389]<br> [Torterra] Lv. 42        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Overgrow            | Seed Bomb, Earthquake, Crunch, Iron Head            (!)
-![][392]<br> [Infernape] Lv. 42       | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Iron Fist           | Flamethrower, Close Combat, Fake Out, Thunder Punch (!)
-![][395]<br> [Empoleon] Lv. 42        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Torrent             | Scald, Flash Cannon, Agility, Swagger               (!)
+PKMN Trainer Barry                  | Item                               | Nature | Ability    | Moves                                                  
+---                                 | ---                                | --- | ---        | ---                                                    
+![][398]<br> [Staraptor]<br> Lv. 41 | ![][muscle-band]<br> Muscle Band   | ? | Reckless   | Double-Edge, Close Combat, Aerial Ace, Roost           
+![][214]<br> [Heracross]<br> Lv. 41 | ![][coba-berry]<br> Coba Berry     | ? | Guts       | Megahorn, Brick Break, Bullet Seed, Night Slash        
+![][143]<br> [Snorlax]<br> Lv. 41   | ![][leftovers]<br> Leftovers       | ? | Thick Fat  | Body Slam, Crunch, Rest, Sleep Talk                    
+![][184]<br> [Azumarill]<br> Lv. 41 | ![][life-orb]<br> Life Orb         | ? | Huge Power | Aqua Tail, Play Rough, Body Slam, Aqua Jet          (!)
+![][059]<br> [Arcanine]<br> Lv. 41  | ![][expert-belt]<br> Expert Belt   | ? | Intimidate | Heat Wave, Thunder Fang, Outrage, Crunch            (!)
+![][286]<br> [Breloom]<br> Lv. 41   | ![][focus-sash]<br> Focus Sash     | ? | Technician | Bullet Seed, Force Palm, Spore, Rock Tomb           (!)
+![][389]<br> [Torterra]<br> Lv. 42  | ![][sitrus-berry]<br> Sitrus Berry | ? | Overgrow   | Seed Bomb, Earthquake, Crunch, Iron Head            (!)
+![][392]<br> [Infernape]<br> Lv. 42 | ![][sitrus-berry]<br> Sitrus Berry | ? | Iron Fist  | Flamethrower, Close Combat, Fake Out, Thunder Punch (!)
+![][395]<br> [Empoleon]<br> Lv. 42  | ![][sitrus-berry]<br> Sitrus Berry | ? | Torrent    | Scald, Flash Cannon, Agility, Swagger               (!)
 
 
 [Arcanine]: /pokemon_changes/059/

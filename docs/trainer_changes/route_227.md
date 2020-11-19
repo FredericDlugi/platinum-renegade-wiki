@@ -19,23 +19,23 @@ Trainer              | 1
 ---                  | ---                              
 Ace Trainer Saul (S) | ![][128]<br> [Tauros]<br> Lv. 80 
 
-Ace Trainer Slythe  | Item         | Nature | Ability        | Moves
----                 | ---          | ---    | ---            | ---
-![][094]<br> [Gengar] Lv. 76          | ![][wide-lens]<br> Wide Lens            | ?        | Levitate            | Sludge Bomb, Shadow Ball, Focus Blast, Thunder
-![][073]<br> [Tentacruel] Lv. 76      | ![][black-sludge]<br> Black Sludge      | ?        | Clear Body          | Sludge Bomb, Muddy Water, Ice Beam, Toxic Spikes
-![][031]<br> [Nidoqueen] Lv. 76       | ![][life-orb]<br> Life Orb              | ?        | Poison Point        | Poison Jab, Earthquake, Fire Blast, Stone Edge
-![][169]<br> [Crobat] Lv. 76          | ![][shell-bell]<br> Shell Bell          | ?        | Inner Focus         | Cross Poison, Brave Bird, Hypnosis, Leech Life
-![][454]<br> [Toxicroak] Lv. 76       | ![][expert-belt]<br> Expert Belt        | ?        | Dry Skin            | Gunk Shot, Drain Punch, Sucker Punch, Fake Out
-![][045]<br> [Vileplume] Lv. 77       | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Chlorophyll         | Sludge Bomb, Petal Dance, Moonblast, Sleep Powder
+Ace Trainer Slythe                   | Item                               | Nature | Ability      | Moves                                            
+---                                  | ---                                | --- | ---          | ---                                              
+![][094]<br> [Gengar]<br> Lv. 76     | ![][wide-lens]<br> Wide Lens       | ? | Levitate     | Sludge Bomb, Shadow Ball, Focus Blast, Thunder   
+![][073]<br> [Tentacruel]<br> Lv. 76 | ![][black-sludge]<br> Black Sludge | ? | Clear Body   | Sludge Bomb, Muddy Water, Ice Beam, Toxic Spikes 
+![][031]<br> [Nidoqueen]<br> Lv. 76  | ![][life-orb]<br> Life Orb         | ? | Poison Point | Poison Jab, Earthquake, Fire Blast, Stone Edge   
+![][169]<br> [Crobat]<br> Lv. 76     | ![][shell-bell]<br> Shell Bell     | ? | Inner Focus  | Cross Poison, Brave Bird, Hypnosis, Leech Life   
+![][454]<br> [Toxicroak]<br> Lv. 76  | ![][expert-belt]<br> Expert Belt   | ? | Dry Skin     | Gunk Shot, Drain Punch, Sucker Punch, Fake Out   
+![][045]<br> [Vileplume]<br> Lv. 77  | ![][sitrus-berry]<br> Sitrus Berry | ? | Chlorophyll  | Sludge Bomb, Petal Dance, Moonblast, Sleep Powder
 
-PKMN Trainer Buck | Item         | Nature  | Ability       | Moves
----               | ---          | ---     | ---           | ---
-![][324]<br> [Torkoal] Lv. 77         | ![][shuca-berry]<br> Shuca Berry        | ?        | Drought             | Fire Blast, Earth Power, Solar Beam, Stealth Rock
-![][213]<br> [Shuckle] Lv. 77         | ![][lum-berry]<br> Lum Berry            | ?        | Sturdy              | Toxic, Encore, Rest, Protect
-![][197]<br> [Umbreon] Lv. 77         | ![][chople-berry]<br> Chople Berry      | ?        | Synchronize         | Payback, Confuse Ray, Toxic, Moonlight
-![][477]<br> [Dusknoir] Lv. 77        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Iron Fist (!)       | Shadow Punch, Confuse Ray, Protect, Drain Punch
-![][091]<br> [Cloyster] Lv. 77        | ![][expert-belt]<br> Expert Belt        | ?        | Skill Link          | Icicle Spear, Hydro Pump, Spikes, Toxic Spikes
-![][344]<br> [Claydol] Lv. 78         | ![][leftovers]<br> Leftovers            | ?        | Levitate            | Earth Power, Psychic, Ice Beam, Calm Mind
+PKMN Trainer Buck                  | Item                               | Nature | Ability       | Moves                                            
+---                                | ---                                | --- | ---           | ---                                              
+![][324]<br> [Torkoal]<br> Lv. 77  | ![][shuca-berry]<br> Shuca Berry   | ? | Drought       | Fire Blast, Earth Power, Solar Beam, Stealth Rock
+![][213]<br> [Shuckle]<br> Lv. 77  | ![][lum-berry]<br> Lum Berry       | ? | Sturdy        | Toxic, Encore, Rest, Protect                     
+![][197]<br> [Umbreon]<br> Lv. 77  | ![][chople-berry]<br> Chople Berry | ? | Synchronize   | Payback, Confuse Ray, Toxic, Moonlight           
+![][477]<br> [Dusknoir]<br> Lv. 77 | ![][sitrus-berry]<br> Sitrus Berry | ? | Iron Fist (!) | Shadow Punch, Confuse Ray, Protect, Drain Punch  
+![][091]<br> [Cloyster]<br> Lv. 77 | ![][expert-belt]<br> Expert Belt   | ? | Skill Link    | Icicle Spear, Hydro Pump, Spikes, Toxic Spikes   
+![][344]<br> [Claydol]<br> Lv. 78  | ![][leftovers]<br> Leftovers       | ? | Levitate      | Earth Power, Psychic, Ice Beam, Calm Mind        
 
 
 [Nidoqueen]: /pokemon_changes/031/

@@ -42,17 +42,17 @@ Gentleman Jeremy (C) | ![][441]<br> [Chatot]<br> Lv. 73
 Socialite Reina (8)  | ![][301]<br> [Delcatty]<br> Lv. 62  
 Socialite Reina (C)  | ![][301]<br> [Delcatty]<br> Lv. 73  
 
-Commander Saturn   | Item         | Nature  | Ability       | Moves
----                | ---          | ---     | ---           | ---
-![][437]<br> [Bronzong] Lv. 33        | ![][leftovers]<br> Leftovers            | ?        | Levitate            | Hypnosis, Gyro Ball, Zen Headbutt, Confuse Ray
-![][224]<br> [Octillery] Lv. 33       | ![][wise-glasses]<br> Wise Glasses      | ?        | Suction Cups        | Octazooka, Signal Beam, Ice Beam, Flamethrower
-![][454]<br> [Toxicroak] Lv. 34       | ![][muscle-band]<br> Muscle Band        | ?        | Dry Skin            | Drain Punch, Poison Jab, Fake Out, Vacuum Wave
+Commander Saturn                    | Item                               | Nature | Ability      | Moves                                         
+---                                 | ---                                | --- | ---          | ---                                           
+![][437]<br> [Bronzong]<br> Lv. 33  | ![][leftovers]<br> Leftovers       | ? | Levitate     | Hypnosis, Gyro Ball, Zen Headbutt, Confuse Ray
+![][224]<br> [Octillery]<br> Lv. 33 | ![][wise-glasses]<br> Wise Glasses | ? | Suction Cups | Octazooka, Signal Beam, Ice Beam, Flamethrower
+![][454]<br> [Toxicroak]<br> Lv. 34 | ![][muscle-band]<br> Muscle Band   | ? | Dry Skin     | Drain Punch, Poison Jab, Fake Out, Vacuum Wave
 
-Gentleman Backlot   | Item         | Nature  | Ability       | Moves
----                 | ---          | ---     | ---           | ---
-![][040]<br> [Wigglytuff] Lv. 33      | ![][zoom-lens]<br> Zoom Lens            | ?        | Cute Charm          | Moonblast, Hyper Voice, Sing, Thunderbolt
-![][026]<br> [Raichu] Lv. 33          | ![][wise-glasses]<br> Wise Glasses      | ?        | Static              | Fake Out, Thunderbolt, Grass Knot, Teeter Dance
-![][196]<br> [Espeon] Lv. 33          | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Synchronize         | Psychic, Power Gem, Dazzling Gleam, Protect
+Gentleman Backlot                    | Item                               | Nature | Ability     | Moves                                          
+---                                  | ---                                | --- | ---         | ---                                            
+![][040]<br> [Wigglytuff]<br> Lv. 33 | ![][zoom-lens]<br> Zoom Lens       | ? | Cute Charm  | Moonblast, Hyper Voice, Sing, Thunderbolt      
+![][026]<br> [Raichu]<br> Lv. 33     | ![][wise-glasses]<br> Wise Glasses | ? | Static      | Fake Out, Thunderbolt, Grass Knot, Teeter Dance
+![][196]<br> [Espeon]<br> Lv. 33     | ![][sitrus-berry]<br> Sitrus Berry | ? | Synchronize | Psychic, Power Gem, Dazzling Gleam, Protect    
 
 
 [Butterfree]: /pokemon_changes/012/

@@ -14,12 +14,12 @@ Camper Parker      | ![][313]<br> [Volbeat]<br> Lv. 25   | ![][264]<br> [Linoone
 Collector Terry    | ![][443]<br> [Gible]<br> Lv. 24     | ![][371]<br> [Bagon]<br> Lv. 24     | ![][444]<br> [Gabite]<br> Lv. 24    
 Ruin Maniac Gerald | ![][104]<br> [Cubone]<br> Lv. 25    | ![][476]<br> [Probopass]<br> Lv. 25 
 
-PKMN Trainer Mira | Item         | Nature  | Ability       | Moves
----               | ---          | ---     | ---           | ---
-![][176]<br> [Togetic] Lv. 27         | ![][sitrus-berry]<br> Sitrus Berry      | Modest   | Serene Grace        | Dazzling Gleam, Air Cutter, Soft-Boiled, Sweet Kiss
-![][093]<br> [Haunter] Lv. 27         | ![][spell-tag]<br> Spell Tag            | Hasty    | Levitate            | Shadow Ball, Double Team, Hypnosis, Curse
-![][233]<br> [Porygon2] Lv. 27        | ![][expert-belt]<br> Expert Belt        | Calm     | Trace               | Tri Attack, Charge Beam, Signal Beam, Recover
-![][064]<br> [Kadabra] Lv. 28         | ![][life-orb]<br> Life Orb              | Modest   | Magic Guard         | Psybeam, Grass Knot, Dazzling Gleam, Recover
+PKMN Trainer Mira                  | Item                               | Nature | Ability      | Moves                                              
+---                                | ---                                | ---    | ---          | ---                                                
+![][176]<br> [Togetic]<br> Lv. 27  | ![][sitrus-berry]<br> Sitrus Berry | Modest | Serene Grace | Dazzling Gleam, Air Cutter, Soft-Boiled, Sweet Kiss
+![][093]<br> [Haunter]<br> Lv. 27  | ![][spell-tag]<br> Spell Tag       | Hasty  | Levitate     | Shadow Ball, Double Team, Hypnosis, Curse          
+![][233]<br> [Porygon2]<br> Lv. 27 | ![][expert-belt]<br> Expert Belt   | Calm   | Trace        | Tri Attack, Charge Beam, Signal Beam, Recover      
+![][064]<br> [Kadabra]<br> Lv. 28  | ![][life-orb]<br> Life Orb         | Modest | Magic Guard  | Psybeam, Grass Knot, Dazzling Gleam, Recover       
 
 
 [Raticate]: /pokemon_changes/020/

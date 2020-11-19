@@ -17,22 +17,22 @@ Galactic Grunt      | ![][205]<br> [Forretress]<br> Lv. 53 | ![][336]<br> [Sevip
 Galactic Boss Cyrus | ![][169]<br> [Crobat]<br> Lv. 57     | ![][430]<br> [Honchkrow]<br> Lv. 57  | ![][229]<br> [Houndoom]<br> Lv. 57   | ![][462]<br> [Magnezone]<br> Lv. 57  | ![][461]<br> [Weavile]<br> Lv. 58    
 Commander Saturn    | ![][437]<br> [Bronzong]<br> Lv. 56   | ![][224]<br> [Octillery]<br> Lv. 56  | ![][065]<br> [Alakazam]<br> Lv. 56   | ![][464]<br> [Rhyperior]<br> Lv. 56  | ![][467]<br> [Magmortar]<br> Lv. 56  | ![][454]<br> [Toxicroak]<br> Lv. 57  
 
-Galactic Boss Cyrus | Item         | Nature  | Ability       | Moves
----                 | ---          | ---     | ---           | ---
-![][169]<br> [Crobat] Lv. 57          | ![][choice-band]<br> Choice Band        | ?        | Inner Focus         | Brave Bird, U-turn, Cross Poison, Zen Headbutt
-![][430]<br> [Honchkrow] Lv. 57       | ![][scope-lens]<br> Scope Lens          | ?        | Super Luck          | Brave Bird, Night Slash, Thunder Wave, Heat Wave
-![][229]<br> [Houndoom] Lv. 57        | ![][life-orb]<br> Life Orb              | ?        | Intimidate (!)      | Dark Pulse, Flamethrower, Sludge Bomb, Nasty Plot
-![][462]<br> [Magnezone] Lv. 57       | ![][wise-glasses]<br> Wise Glasses      | ?        | Magnet Pull         | Thunderbolt, Flash Cannon, Signal Beam, Mirror Coat
-![][461]<br> [Weavile] Lv. 58         | ![][expert-belt]<br> Expert Belt        | ?        | Technican (!)       | Crunch, Icicle Crash, Aerial Ace, X-Scissor
+Galactic Boss Cyrus                 | Item                               | Nature | Ability        | Moves                                              
+---                                 | ---                                | --- | ---            | ---                                                
+![][169]<br> [Crobat]<br> Lv. 57    | ![][choice-band]<br> Choice Band   | ? | Inner Focus    | Brave Bird, U-turn, Cross Poison, Zen Headbutt     
+![][430]<br> [Honchkrow]<br> Lv. 57 | ![][scope-lens]<br> Scope Lens     | ? | Super Luck     | Brave Bird, Night Slash, Thunder Wave, Heat Wave   
+![][229]<br> [Houndoom]<br> Lv. 57  | ![][life-orb]<br> Life Orb         | ? | Intimidate (!) | Dark Pulse, Flamethrower, Sludge Bomb, Nasty Plot  
+![][462]<br> [Magnezone]<br> Lv. 57 | ![][wise-glasses]<br> Wise Glasses | ? | Magnet Pull    | Thunderbolt, Flash Cannon, Signal Beam, Mirror Coat
+![][461]<br> [Weavile]<br> Lv. 58   | ![][expert-belt]<br> Expert Belt   | ? | Technican (!)  | Crunch, Icicle Crash, Aerial Ace, X-Scissor        
 
-Commander Saturn   | Item         | Nature  | Ability       | Moves
----                | ---          | ---     | ---           | ---
-![][437]<br> [Bronzong] Lv. 56        | ![][light-clay]<br> Light Clay          | ?        | Levitate            | Zen Headbutt, Gyro Ball, Reflect, Light Screen
-![][224]<br> [Octillery] Lv. 56       | ![][expert-belt]<br> Expert Belt        | ?        | Suction Cups        | Hydro Pump, Blizzard, Fire Blast, Energy Ball
-![][065]<br> [Alakazam] Lv. 56        | ![][life-orb]<br> Life Orb              | ?        | Magic Guard         | Psychic, Shadow Ball, Dazzling Gleam, Focus Blast
-![][464]<br> [Rhyperior] Lv. 56       | ![][choice-band]<br> Choice Band        | ?        | Solid Rock          | Stone Edge, Earthquake, Megahorn
-![][467]<br> [Magmortar] Lv. 56       | ![][choice-specs]<br> Choice Specs      | ?        | Flame Body          | Fire Blast, Thunderbolt, Aura Sphere, Psychic
-![][454]<br> [Toxicroak] Lv. 57       | ![][focus-sash]<br> Focus Sash          | ?        | Dry Skin            | Cross Chop, Gunk Shot, Ice Punch, Fake Out
+Commander Saturn                    | Item                               | Nature | Ability      | Moves                                            
+---                                 | ---                                | --- | ---          | ---                                              
+![][437]<br> [Bronzong]<br> Lv. 56  | ![][light-clay]<br> Light Clay     | ? | Levitate     | Zen Headbutt, Gyro Ball, Reflect, Light Screen   
+![][224]<br> [Octillery]<br> Lv. 56 | ![][expert-belt]<br> Expert Belt   | ? | Suction Cups | Hydro Pump, Blizzard, Fire Blast, Energy Ball    
+![][065]<br> [Alakazam]<br> Lv. 56  | ![][life-orb]<br> Life Orb         | ? | Magic Guard  | Psychic, Shadow Ball, Dazzling Gleam, Focus Blast
+![][464]<br> [Rhyperior]<br> Lv. 56 | ![][choice-band]<br> Choice Band   | ? | Solid Rock   | Stone Edge, Earthquake, Megahorn                 
+![][467]<br> [Magmortar]<br> Lv. 56 | ![][choice-specs]<br> Choice Specs | ? | Flame Body   | Fire Blast, Thunderbolt, Aura Sphere, Psychic    
+![][454]<br> [Toxicroak]<br> Lv. 57 | ![][focus-sash]<br> Focus Sash     | ? | Dry Skin     | Cross Chop, Gunk Shot, Ice Punch, Fake Out       
 
 
 [Arbok]: /pokemon_changes/024/

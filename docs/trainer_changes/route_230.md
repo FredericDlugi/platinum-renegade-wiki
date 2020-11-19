@@ -21,14 +21,14 @@ Trainer            | 1                                   | 2                    
 Swimmer Glenn (S)  | ![][224]<br> [Octillery]<br> Lv. 76 | ![][186]<br> [Politoed]<br> Lv. 76  
 Swimmer Joanna (S) | ![][370]<br> [Luvdisc]<br> Lv. 75   | ![][222]<br> [Corsola]<br> Lv. 75   | ![][134]<br> [Vaporeon]<br> Lv. 75  
 
-Ace Trainer Luna    | Item         | Nature | Ability        | Moves
----                 | ---          | ---    | ---            | ---
-![][040]<br> [Wigglytuff] Lv. 76      | ![][expert-belt]<br> Expert Belt        | ?        | Cute Charm          | Moonblast, Thunderbolt, Ice Beam, Flamethrower
-![][036]<br> [Clefable] Lv. 76        | ![][leftovers]<br> Leftovers            | ?        | Cute Charm          | Moonblast, Soft-Boiled, Focus Blast, Reflect
-![][184]<br> [Azumarill] Lv. 76       | ![][white-herb]<br> White Herb          | ?        | Huge Power          | Play Rough, Aqua Tail, Superpower, Aqua Jet
-![][210]<br> [Granbull] Lv. 76        | ![][muscle-band]<br> Muscle Band        | ?        | Intimidate          | Play Rough, Close Combat, Crunch, Lovely Kiss
-![][303]<br> [Mawile] Lv. 76          | ![][focus-sash]<br> Focus Sash          | ?        | Huge Power (!)      | Play Rough, Iron Head, Sucker Punch, Swords Dance
-![][282]<br> [Gardevoir] Lv. 77       | ![][life-orb]<br> Life Orb              | ?        | Synchronize         | Moonblast, Psychic, Thunderbolt, Aura Sphere
+Ace Trainer Luna                     | Item                             | Nature | Ability        | Moves                                            
+---                                  | ---                              | --- | ---            | ---                                              
+![][040]<br> [Wigglytuff]<br> Lv. 76 | ![][expert-belt]<br> Expert Belt | ? | Cute Charm     | Moonblast, Thunderbolt, Ice Beam, Flamethrower   
+![][036]<br> [Clefable]<br> Lv. 76   | ![][leftovers]<br> Leftovers     | ? | Cute Charm     | Moonblast, Soft-Boiled, Focus Blast, Reflect     
+![][184]<br> [Azumarill]<br> Lv. 76  | ![][white-herb]<br> White Herb   | ? | Huge Power     | Play Rough, Aqua Tail, Superpower, Aqua Jet      
+![][210]<br> [Granbull]<br> Lv. 76   | ![][muscle-band]<br> Muscle Band | ? | Intimidate     | Play Rough, Close Combat, Crunch, Lovely Kiss    
+![][303]<br> [Mawile]<br> Lv. 76     | ![][focus-sash]<br> Focus Sash   | ? | Huge Power (!) | Play Rough, Iron Head, Sucker Punch, Swords Dance
+![][282]<br> [Gardevoir]<br> Lv. 77  | ![][life-orb]<br> Life Orb       | ? | Synchronize    | Moonblast, Psychic, Thunderbolt, Aura Sphere     
 
 
 [Clefable]: /pokemon_changes/036/

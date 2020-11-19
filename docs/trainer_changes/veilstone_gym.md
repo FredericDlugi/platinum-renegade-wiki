@@ -8,14 +8,14 @@ Black Belt Jeffery | ![][214]<br> [Heracross]<br> Lv. 36  | ![][062]<br> [Poliwr
 Black Belt Rafael  | ![][107]<br> [Hitmonchan]<br> Lv. 35 | ![][106]<br> [Hitmonlee]<br> Lv. 35  | ![][237]<br> [Hitmontop]<br> Lv. 35  
 Leader Maylene     | ![][308]<br> [Medicham]<br> Lv. 38   | ![][068]<br> [Machamp]<br> Lv. 38    | ![][392]<br> [Infernape]<br> Lv. 38  | ![][454]<br> [Toxicroak]<br> Lv. 38  | ![][475]<br> [Gallade]<br> Lv. 38    | ![][448]<br> [Lucario]<br> Lv. 39    
 
-Leader Maylene     | Item         | Nature  | Ability       | Moves
----                | ---          | ---     | ---           | ---
-![][308]<br> [Medicham] Lv. 38        | ![][sitrus-berry]<br> Sitrus Berry      | Naive    | Pure Power          | High Jump Kick, Zen Headbutt, Ice Punch, Fake Out
-![][068]<br> [Machamp] Lv. 38         | ![][toxic-orb]<br> Toxic Orb            | Relaxed  | Guts                | Close Combat, Payback, Thunder Punch, Protect
-![][392]<br> [Infernape] Lv. 38       | ![][life-orb]<br> Life Orb              | Hasty    | Iron Fist           | Close Combat, Rock Slide, Fire Punch, Mach Punch
-![][454]<br> [Toxicroak] Lv. 38       | ![][big-root]<br> Big Root              | Lonely   | Dry Skin            | Drain Punch, Poison Jab, Ice Punch, Sucker Punch
-![][475]<br> [Gallade] Lv. 38         | ![][light-clay]<br> Light Clay          | Brave    | Steadfast           | Drain Punch, Zen Headbutt, Light Screen, Reflect
-![][448]<br> [Lucario] Lv. 39         | ![][focus-sash]<br> Focus Sash          | Timid    | Adaptability (!)    | Aura Sphere, Flash Cannon, Dark Pulse, Agility
+Leader Maylene                      | Item                               | Nature  | Ability          | Moves                                            
+---                                 | ---                                | ---     | ---              | ---                                              
+![][308]<br> [Medicham]<br> Lv. 38  | ![][sitrus-berry]<br> Sitrus Berry | Naive   | Pure Power       | High Jump Kick, Zen Headbutt, Ice Punch, Fake Out
+![][068]<br> [Machamp]<br> Lv. 38   | ![][toxic-orb]<br> Toxic Orb       | Relaxed | Guts             | Close Combat, Payback, Thunder Punch, Protect    
+![][392]<br> [Infernape]<br> Lv. 38 | ![][life-orb]<br> Life Orb         | Hasty   | Iron Fist        | Close Combat, Rock Slide, Fire Punch, Mach Punch 
+![][454]<br> [Toxicroak]<br> Lv. 38 | ![][big-root]<br> Big Root         | Lonely  | Dry Skin         | Drain Punch, Poison Jab, Ice Punch, Sucker Punch 
+![][475]<br> [Gallade]<br> Lv. 38   | ![][light-clay]<br> Light Clay     | Brave   | Steadfast        | Drain Punch, Zen Headbutt, Light Screen, Reflect 
+![][448]<br> [Lucario]<br> Lv. 39   | ![][focus-sash]<br> Focus Sash     | Timid   | Adaptability (!) | Aura Sphere, Flash Cannon, Dark Pulse, Agility   
 
 
 [Mankey]: /pokemon_changes/056/

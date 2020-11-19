@@ -18,14 +18,14 @@ Veteran Brenden     | ![][205]<br> [Forretress]<br> Lv. 66 | ![][141]<br> [Kabut
 Ace Trainer Arthur  | ![][423]<br> [Gastrodon]<br> Lv. 64  | ![][015]<br> [Beedrill]<br> Lv. 64   | ![][181]<br> [Ampharos]<br> Lv. 64   
 Ace Trainer Clarice | ![][317]<br> [Swalot]<br> Lv. 64     | ![][038]<br> [Ninetales]<br> Lv. 64  | ![][212]<br> [Scizor]<br> Lv. 64     
 
-PKMN Trainer Marley  | Item         | Nature  | Ability       | Moves
----                  | ---          | ---     | ---           | ---
-![][121]<br> [Starmie] Lv. 65         | ![][expert-belt]<br> Expert Belt        | ?        | Illuminate          | Hydro Pump, Blizzard, Thunder, Psychic
-![][101]<br> [Electrode] Lv. 65       | ![][light-clay]<br> Light Clay          | ?        | Soundproof          | Thunderbolt, Thunder Wave, Light Screen, Explosion
-![][254]<br> [Sceptile] Lv. 65        | ![][petaya-berry]<br> Petaya Berry      | ?        | Unburden            | Energy Ball, Dragon Pulse, Focus Blast, Endure
-![][169]<br> [Crobat] Lv. 65          | ![][bright-powder]<br> Bright Powder    | ?        | Inner Focus         | Brave Bird, Cross Poison, Hypnosis, Roost
-![][461]<br> [Weavile] Lv. 65         | ![][life-orb]<br> Life Orb              | ?        | Technician          | Crunch, Icicle Crash, Aerial Ace, Low Kick
-![][059]<br> [Arcanine] Lv. 66        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Intimidate          | Flare Blitz, Close Combat, Crunch, Extreme Speed
+PKMN Trainer Marley                 | Item                                 | Nature | Ability     | Moves                                             
+---                                 | ---                                  | --- | ---         | ---                                               
+![][121]<br> [Starmie]<br> Lv. 65   | ![][expert-belt]<br> Expert Belt     | ? | Illuminate  | Hydro Pump, Blizzard, Thunder, Psychic            
+![][101]<br> [Electrode]<br> Lv. 65 | ![][light-clay]<br> Light Clay       | ? | Soundproof  | Thunderbolt, Thunder Wave, Light Screen, Explosion
+![][254]<br> [Sceptile]<br> Lv. 65  | ![][petaya-berry]<br> Petaya Berry   | ? | Unburden    | Energy Ball, Dragon Pulse, Focus Blast, Endure    
+![][169]<br> [Crobat]<br> Lv. 65    | ![][bright-powder]<br> Bright Powder | ? | Inner Focus | Brave Bird, Cross Poison, Hypnosis, Roost         
+![][461]<br> [Weavile]<br> Lv. 65   | ![][life-orb]<br> Life Orb           | ? | Technician  | Crunch, Icicle Crash, Aerial Ace, Low Kick        
+![][059]<br> [Arcanine]<br> Lv. 66  | ![][sitrus-berry]<br> Sitrus Berry   | ? | Intimidate  | Flare Blitz, Close Combat, Crunch, Extreme Speed  
 
 
 [Beedrill]: /pokemon_changes/015/

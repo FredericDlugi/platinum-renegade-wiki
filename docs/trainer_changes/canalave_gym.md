@@ -11,14 +11,14 @@ Black Belt David    | ![][448]<br> [Lucario]<br> Lv. 51
 Ace Trainer Breanna | ![][227]<br> [Skarmory]<br> Lv. 50   | ![][303]<br> [Mawile]<br> Lv. 50     | ![][413]<br> [Wormadam]<br> Lv. 50   
 Leader Bryon        | ![][437]<br> [Bronzong]<br> Lv. 52   | ![][462]<br> [Magnezone]<br> Lv. 52  | ![][208]<br> [Steelix]<br> Lv. 52    | ![][205]<br> [Forretress]<br> Lv. 52 | ![][306]<br> [Aggron]<br> Lv. 52     | ![][411]<br> [Bastiodon]<br> Lv. 53  
 
-Leader Byron        | Item         | Nature  | Ability       | Moves
----                 | ---          | ---     | ---           | ---
-![][437]<br> [Bronzong] Lv. 52        | ![][light-clay]<br> Light Clay          | Impish   | Levitate            | Gyro Ball, Stealth Rock, Reflect, Light Screen
-![][462]<br> [Magnezone] Lv. 52       | ![][wise-glasses]<br> Wise Glasses      | Quiet    | Magnet Pull         | Thunderbolt, Flash Cannon, Signal Beam, Thunder Wave
-![][208]<br> [Steelix] Lv. 52         | ![][muscle-band]<br> Muscle Band        | Adamant  | Rock Head           | Gyro Ball, Earthquake, Stone Edge, Explosion
-![][205]<br> [Forretress] Lv. 52      | ![][sitrus-berry]<br> Sitrus Berry      | Impish   | Sturdy              | Gyro Ball, Spikes, Toxic Spikes, Explosion
-![][306]<br> [Aggron] Lv. 52          | ![][focus-sash]<br> Focus Sash          | Naughty  | Rock Head           | Head Smash, Iron Head, Aqua Tail, Low Kick
-![][411]<br> [Bastiodon] Lv. 53       | ![][leftovers]<br> Leftovers            | Sassy    | Soundproof          | Iron Head, Toxic, Protect, Metal Burst
+Leader Byron                         | Item                               | Nature  | Ability     | Moves                                               
+---                                  | ---                                | ---     | ---         | ---                                                 
+![][437]<br> [Bronzong]<br> Lv. 52   | ![][light-clay]<br> Light Clay     | Impish  | Levitate    | Gyro Ball, Stealth Rock, Reflect, Light Screen      
+![][462]<br> [Magnezone]<br> Lv. 52  | ![][wise-glasses]<br> Wise Glasses | Quiet   | Magnet Pull | Thunderbolt, Flash Cannon, Signal Beam, Thunder Wave
+![][208]<br> [Steelix]<br> Lv. 52    | ![][muscle-band]<br> Muscle Band   | Adamant | Rock Head   | Gyro Ball, Earthquake, Stone Edge, Explosion        
+![][205]<br> [Forretress]<br> Lv. 52 | ![][sitrus-berry]<br> Sitrus Berry | Impish  | Sturdy      | Gyro Ball, Spikes, Toxic Spikes, Explosion          
+![][306]<br> [Aggron]<br> Lv. 52     | ![][focus-sash]<br> Focus Sash     | Naughty | Rock Head   | Head Smash, Iron Head, Aqua Tail, Low Kick          
+![][411]<br> [Bastiodon]<br> Lv. 53  | ![][leftovers]<br> Leftovers       | Sassy   | Soundproof  | Iron Head, Toxic, Protect, Metal Burst              
 
 
 [Magnemite]: /pokemon_changes/081/

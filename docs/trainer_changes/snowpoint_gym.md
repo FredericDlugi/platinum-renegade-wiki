@@ -10,14 +10,14 @@ Ace Trainer Brenna   | ![][087]<br> [Dewgong]<br> Lv. 53   | ![][091]<br> [Cloys
 Ace Trainer Sergio   | ![][220]<br> [Swinub]<br> Lv. 51    | ![][221]<br> [Piloswine]<br> Lv. 53 | ![][473]<br> [Mamoswine]<br> Lv. 55 
 Leader Candice       | ![][460]<br> [Abomasnow]<br> Lv. 55 | ![][461]<br> [Weavile]<br> Lv. 55   | ![][471]<br> [Glaceon]<br> Lv. 55   | ![][365]<br> [Walrein]<br> Lv. 55   | ![][473]<br> [Mamoswine]<br> Lv. 55 | ![][478]<br> [Froslass]<br> Lv. 56  
 
-Leader Candice     | Item             | Nature  | Ability       | Moves
----                | ---              | ---     | ---           | ---
-![][460]<br> [Abomasnow] Lv. 55       | ![][expert-belt]<br> Expert Belt        | Brave    | Snow Warning        | Wood Hammer, Earthquake, Blizzard, Ice Shard
-![][461]<br> [Weavile] Lv. 55         | ![][focus-sash]<br> Focus Sash          | Naughty  | Technician (!)      | Crunch, Icicle Crash, Aerial Ace, Swords Dance
-![][471]<br> [Glaceon] Lv. 55         | ![][bright-powder]<br> Bright Powder    | Bold     | Snow Cloak          | Blizzard, Shadow Ball, Earth Power, Double Team
-![][365]<br> [Walrein] Lv. 55         | ![][chople-berry]<br> Chople Berry      | Quiet    | Thick Fat           | Blizzard, Surf, Yawn, Aqua Ring
-![][473]<br> [Mamoswine] Lv. 55       | ![][passho-berry]<br> Passho Berry      | Naive    | Thick Fat           | Earthquake, Avalanche, Stone Edge, Ice Shard
-![][478]<br> [Froslass] Lv. 56        | ![][life-orb]<br> Life Orb              | Modest   | Levitate (!)        | Blizzard, Shadow Ball, Thunderbolt, Attract
+Leader Candice                      | Item                                 | Nature  | Ability        | Moves                                          
+---                                 | ---                                  | ---     | ---            | ---                                            
+![][460]<br> [Abomasnow]<br> Lv. 55 | ![][expert-belt]<br> Expert Belt     | Brave   | Snow Warning   | Wood Hammer, Earthquake, Blizzard, Ice Shard   
+![][461]<br> [Weavile]<br> Lv. 55   | ![][focus-sash]<br> Focus Sash       | Naughty | Technician (!) | Crunch, Icicle Crash, Aerial Ace, Swords Dance 
+![][471]<br> [Glaceon]<br> Lv. 55   | ![][bright-powder]<br> Bright Powder | Bold    | Snow Cloak     | Blizzard, Shadow Ball, Earth Power, Double Team
+![][365]<br> [Walrein]<br> Lv. 55   | ![][chople-berry]<br> Chople Berry   | Quiet   | Thick Fat      | Blizzard, Surf, Yawn, Aqua Ring                
+![][473]<br> [Mamoswine]<br> Lv. 55 | ![][passho-berry]<br> Passho Berry   | Naive   | Thick Fat      | Earthquake, Avalanche, Stone Edge, Ice Shard   
+![][478]<br> [Froslass]<br> Lv. 56  | ![][life-orb]<br> Life Orb           | Modest  | Levitate (!)   | Blizzard, Shadow Ball, Thunderbolt, Attract    
 
 
 [Seel]: /pokemon_changes/086/

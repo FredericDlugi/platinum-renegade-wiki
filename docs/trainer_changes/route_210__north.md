@@ -37,31 +37,31 @@ Veteran Brian (C)        | ![][465]<br> [Tangrowth]<br> Lv. 75  | ![][078]<br> [
 Dragon Tamer Patrick (8) | ![][444]<br> [Gabite]<br> Lv. 58     | ![][372]<br> [Shelgon]<br> Lv. 58    | ![][329]<br> [Vibrava]<br> Lv. 58    | ![][148]<br> [Dragonair]<br> Lv. 58  
 Dragon Tamer Patrick (C) | ![][445]<br> [Garchomp]<br> Lv. 70   | ![][373]<br> [Salamence]<br> Lv. 70  | ![][330]<br> [Flygon]<br> Lv. 70     | ![][149]<br> [Dragonite]<br> Lv. 70  
 
-PKMN Trainer Dawn  | Item         | Nature  | Ability       | Moves
----                | ---          | ---     | ---           | ---
-![][065]<br> [Alakazam] Lv. 44        | ![][life-orb]<br> Life Orb              | ?        | Magic Guard         | Psychic, Shadow Ball, Energy Ball, Dazzling Gleam
-![][473]<br> [Mamoswine] Lv. 44       | ![][passho-berry]<br> Passho Berry      | ?        | Thick Fat           | Earthquake, Avalanche, Stone Edge, Ice Shard
-![][036]<br> [Clefable] Lv. 44        | ![][leftovers]<br> Leftovers            | ?        | Cute Charm          | Moonblast, Moonlight, Psychic, Thunder Wave
-![][428]<br> [Lopunny] Lv. 44         | ![][choice-band]<br> Choice Band        | ?        | Scrappy (!)         | Strength, Jump Kick, Fire Punch, Ice Punch
-![][134]<br> [Vaporeon] Lv. 44        | ![][wise-glasses]<br> Wise Glasses      | ?        | Water Absorb        | Hydro Pump, Ice Beam, Extrasensory, Aqua Ring           (!)
-![][135]<br> [Jolteon] Lv. 44         | ![][wise-glasses]<br> Wise Glasses      | ?        | Volt Absorb         | Thunder, Shadow Ball, Extrasensory, Thunder Wave        (!)
-![][136]<br> [Flareon] Lv. 44         | ![][muscle-band]<br> Muscle Band        | ?        | Flash Fire          | Flare Blitz, Play Rough, Close Combat, Will-O-Wisp      (!)
-![][389]<br> [Torterra] Lv. 45        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Overgrow            | Wood Hammer, Earthquake, Iron Head, Rock Slide          (!)
-![][392]<br> [Infernape] Lv. 45       | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Iron Fist           | Fire Blast, Close Combat, Thunder Punch, Rock Slide     (!)
-![][395]<br> [Empoleon] Lv. 45        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Torrent             | Surf, Flash Cannon, Grass Knot, Featherdance            (!)
+PKMN Trainer Dawn                   | Item                               | Nature | Ability      | Moves                                                      
+---                                 | ---                                | --- | ---          | ---                                                        
+![][065]<br> [Alakazam]<br> Lv. 44  | ![][life-orb]<br> Life Orb         | ? | Magic Guard  | Psychic, Shadow Ball, Energy Ball, Dazzling Gleam          
+![][473]<br> [Mamoswine]<br> Lv. 44 | ![][passho-berry]<br> Passho Berry | ? | Thick Fat    | Earthquake, Avalanche, Stone Edge, Ice Shard               
+![][036]<br> [Clefable]<br> Lv. 44  | ![][leftovers]<br> Leftovers       | ? | Cute Charm   | Moonblast, Moonlight, Psychic, Thunder Wave                
+![][428]<br> [Lopunny]<br> Lv. 44   | ![][choice-band]<br> Choice Band   | ? | Scrappy (!)  | Strength, Jump Kick, Fire Punch, Ice Punch                 
+![][134]<br> [Vaporeon]<br> Lv. 44  | ![][wise-glasses]<br> Wise Glasses | ? | Water Absorb | Hydro Pump, Ice Beam, Extrasensory, Aqua Ring           (!)
+![][135]<br> [Jolteon]<br> Lv. 44   | ![][wise-glasses]<br> Wise Glasses | ? | Volt Absorb  | Thunder, Shadow Ball, Extrasensory, Thunder Wave        (!)
+![][136]<br> [Flareon]<br> Lv. 44   | ![][muscle-band]<br> Muscle Band   | ? | Flash Fire   | Flare Blitz, Play Rough, Close Combat, Will-O-Wisp      (!)
+![][389]<br> [Torterra]<br> Lv. 45  | ![][sitrus-berry]<br> Sitrus Berry | ? | Overgrow     | Wood Hammer, Earthquake, Iron Head, Rock Slide          (!)
+![][392]<br> [Infernape]<br> Lv. 45 | ![][sitrus-berry]<br> Sitrus Berry | ? | Iron Fist    | Fire Blast, Close Combat, Thunder Punch, Rock Slide     (!)
+![][395]<br> [Empoleon]<br> Lv. 45  | ![][sitrus-berry]<br> Sitrus Berry | ? | Torrent      | Surf, Flash Cannon, Grass Knot, Featherdance            (!)
 
-PKMN Trainer Lucas  | Item         | Nature  | Ability       | Moves
----                 | ---          | ---     | ---           | ---
-![][065]<br> [Alakazam] Lv. 44        | ![][life-orb]<br> Life Orb              | ?        | Magic Guard         | Psychic, Shadow Ball, Energy Ball, Dazzling Gleam
-![][473]<br> [Mamoswine] Lv. 44       | ![][passho-berry]<br> Passho Berry      | ?        | Thick Fat           | Earthquake, Avalanche, Stone Edge, Ice Shard
-![][210]<br> [Granbull] Lv. 44        | ![][choice-band]<br> Choice Band        | ?        | Intimidate          | Play Rough, Close Combat, Crunch, Earthquake
-![][463]<br> [Lickilicky] Lv. 44      | ![][leftovers]<br> Leftovers            | ?        | Own Tempo           | Body Slam, Zen Headbutt, Earthquake, Amnesia
-![][134]<br> [Vaporeon] Lv. 44        | ![][wise-glasses]<br> Wise Glasses      | ?        | Water Absorb        | Hydro Pump, Ice Beam, Extrasensory, Aqua Ring           (!)
-![][135]<br> [Jolteon] Lv. 44         | ![][wise-glasses]<br> Wise Glasses      | ?        | Volt Absorb         | Thunder, Shadow Ball, Extrasensory, Thunder Wave        (!)
-![][136]<br> [Flareon] Lv. 44         | ![][muscle-band]<br> Muscle Band        | ?        | Flash Fire          | Flare Blitz, Play Rough, Close Combat, Will-O-Wisp      (!)
-![][389]<br> [Torterra] Lv. 45        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Overgrow            | Wood Hammer, Earthquake, Iron Head, Rock Slide          (!)
-![][392]<br> [Infernape] Lv. 45       | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Iron Fist           | Fire Blast, Close Combat, Thunder Punch, Rock Slide     (!)
-![][395]<br> [Empoleon] Lv. 45        | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Torrent             | Surf, Flash Cannon, Grass Knot, Featherdance            (!)
+PKMN Trainer Lucas                   | Item                               | Nature | Ability      | Moves                                                      
+---                                  | ---                                | --- | ---          | ---                                                        
+![][065]<br> [Alakazam]<br> Lv. 44   | ![][life-orb]<br> Life Orb         | ? | Magic Guard  | Psychic, Shadow Ball, Energy Ball, Dazzling Gleam          
+![][473]<br> [Mamoswine]<br> Lv. 44  | ![][passho-berry]<br> Passho Berry | ? | Thick Fat    | Earthquake, Avalanche, Stone Edge, Ice Shard               
+![][210]<br> [Granbull]<br> Lv. 44   | ![][choice-band]<br> Choice Band   | ? | Intimidate   | Play Rough, Close Combat, Crunch, Earthquake               
+![][463]<br> [Lickilicky]<br> Lv. 44 | ![][leftovers]<br> Leftovers       | ? | Own Tempo    | Body Slam, Zen Headbutt, Earthquake, Amnesia               
+![][134]<br> [Vaporeon]<br> Lv. 44   | ![][wise-glasses]<br> Wise Glasses | ? | Water Absorb | Hydro Pump, Ice Beam, Extrasensory, Aqua Ring           (!)
+![][135]<br> [Jolteon]<br> Lv. 44    | ![][wise-glasses]<br> Wise Glasses | ? | Volt Absorb  | Thunder, Shadow Ball, Extrasensory, Thunder Wave        (!)
+![][136]<br> [Flareon]<br> Lv. 44    | ![][muscle-band]<br> Muscle Band   | ? | Flash Fire   | Flare Blitz, Play Rough, Close Combat, Will-O-Wisp      (!)
+![][389]<br> [Torterra]<br> Lv. 45   | ![][sitrus-berry]<br> Sitrus Berry | ? | Overgrow     | Wood Hammer, Earthquake, Iron Head, Rock Slide          (!)
+![][392]<br> [Infernape]<br> Lv. 45  | ![][sitrus-berry]<br> Sitrus Berry | ? | Iron Fist    | Fire Blast, Close Combat, Thunder Punch, Rock Slide     (!)
+![][395]<br> [Empoleon]<br> Lv. 45   | ![][sitrus-berry]<br> Sitrus Berry | ? | Torrent      | Surf, Flash Cannon, Grass Knot, Featherdance            (!)
 
 
 [Pidgeot]: /pokemon_changes/018/

@@ -23,13 +23,13 @@ Artist William (5) | ![][235]<br> [Smeargle]<br> Lv. 38 | ![][235]<br> [Smeargle
 Artist William (8) | ![][235]<br> [Smeargle]<br> Lv. 53 | ![][235]<br> [Smeargle]<br> Lv. 53 | ![][235]<br> [Smeargle]<br> Lv. 53 
 Artist William (C) | ![][235]<br> [Smeargle]<br> Lv. 70 | ![][235]<br> [Smeargle]<br> Lv. 70 | ![][235]<br> [Smeargle]<br> Lv. 70 
 
-Elite Four Aaron | Item         | Nature  | Ability       | Moves
----              | ---          | ---     | ---           | ---
-![][269]<br> [Dustox] Lv. 31          | ![][leftovers]<br> Leftovers            | Calm     | Shield Dust         | Bug Buzz, Toxic, Protect, Moonlight
-![][267]<br> [Beautifly] Lv. 31       | ![][focus-sash]<br> Focus Sash          | Mild     | Swarm               | Bug Buzz, Air Slash, Energy Ball, Psychic
-![][049]<br> [Venomoth] Lv. 31        | ![][wise-glasses]<br> Wise Glasses      | Naive    | Tinted Lens         | Bug Buzz, Psychic, Sludge Bomb, Sleep Powder
-![][212]<br> [Scizor] Lv. 31          | ![][muscle-band]<br> Muscle Band        | Adamant  | Technician          | X-Scissor, Bullet Punch, Iron Head, Swords Dance
-![][452]<br> [Drapion] Lv. 32         | ![][scope-lens]<br> Scope Lens          | Jolly    | Sniper              | Cross Poison, X-Scissor, Night Slash, Swords Dance
+Elite Four Aaron                    | Item                               | Nature  | Ability     | Moves                                             
+---                                 | ---                                | ---     | ---         | ---                                               
+![][269]<br> [Dustox]<br> Lv. 31    | ![][leftovers]<br> Leftovers       | Calm    | Shield Dust | Bug Buzz, Toxic, Protect, Moonlight               
+![][267]<br> [Beautifly]<br> Lv. 31 | ![][focus-sash]<br> Focus Sash     | Mild    | Swarm       | Bug Buzz, Air Slash, Energy Ball, Psychic         
+![][049]<br> [Venomoth]<br> Lv. 31  | ![][wise-glasses]<br> Wise Glasses | Naive   | Tinted Lens | Bug Buzz, Psychic, Sludge Bomb, Sleep Powder      
+![][212]<br> [Scizor]<br> Lv. 31    | ![][muscle-band]<br> Muscle Band   | Adamant | Technician  | X-Scissor, Bullet Punch, Iron Head, Swords Dance  
+![][452]<br> [Drapion]<br> Lv. 32   | ![][scope-lens]<br> Scope Lens     | Jolly   | Sniper      | Cross Poison, X-Scissor, Night Slash, Swords Dance
 
 
 [Venomoth]: /pokemon_changes/049/

@@ -10,14 +10,14 @@ Fisherman Erick  | ![][457]<br> [Lumineon]<br> Lv. 39   | ![][073]<br> [Tentacru
 Sailor Samson    | ![][080]<br> [Slowbro]<br> Lv. 39    | ![][423]<br> [Gastrodon]<br> Lv. 39  | ![][226]<br> [Mantine]<br> Lv. 39    
 Leader Wake      | ![][195]<br> [Quagsire]<br> Lv. 43   | ![][130]<br> [Gyarados]<br> Lv. 43   | ![][062]<br> [Poliwrath]<br> Lv. 43  | ![][272]<br> [Ludicolo]<br> Lv. 43   | ![][319]<br> [Sharpedo]<br> Lv. 43   | ![][419]<br> [Floatzel]<br> Lv. 44   
 
-Leader Wake        | Item         | Nature  | Ability       | Moves
----                | ---          | ---     | ---           | ---
-![][195]<br> [Quagsire] Lv. 43        | ![][rindo-berry]<br> Rindo Berry        | Adamant  | Water Absorb        | Aqua Tail, Earthquake, Recover, Ice Punch
-![][130]<br> [Gyarados] Lv. 43        | ![][wacan-berry]<br> Wacan Berry        | Jolly    | Intimidate          | Aqua Tail, Ice Fang, Crunch, Dragon Dance
-![][062]<br> [Poliwrath] Lv. 43       | ![][sitrus-berry]<br> Sitrus Berry      | Careful  | Water Absorb        | Waterfall, Drain Punch, Ice Punch, Hypnosis
-![][272]<br> [Ludicolo] Lv. 43        | ![][life-orb]<br> Life Orb              | Modest   | Swift Swim          | Hydro Pump, Ice Beam, Energy Ball, Fake Out
-![][319]<br> [Sharpedo] Lv. 43        | ![][focus-sash]<br> Focus Sash          | Naive    | Speed Boost         | Waterfall, Crunch, Ice Fang, Zen Headbutt
-![][419]<br> [Floatzel] Lv. 44        | ![][life-orb]<br> Life Orb              | Naive    | Swift Swim          | Aqua Tail, Crunch, Ice Punch, Aqua Jet
+Leader Wake                         | Item                               | Nature  | Ability      | Moves                                      
+---                                 | ---                                | ---     | ---          | ---                                        
+![][195]<br> [Quagsire]<br> Lv. 43  | ![][rindo-berry]<br> Rindo Berry   | Adamant | Water Absorb | Aqua Tail, Earthquake, Recover, Ice Punch  
+![][130]<br> [Gyarados]<br> Lv. 43  | ![][wacan-berry]<br> Wacan Berry   | Jolly   | Intimidate   | Aqua Tail, Ice Fang, Crunch, Dragon Dance  
+![][062]<br> [Poliwrath]<br> Lv. 43 | ![][sitrus-berry]<br> Sitrus Berry | Careful | Water Absorb | Waterfall, Drain Punch, Ice Punch, Hypnosis
+![][272]<br> [Ludicolo]<br> Lv. 43  | ![][life-orb]<br> Life Orb         | Modest  | Swift Swim   | Hydro Pump, Ice Beam, Energy Ball, Fake Out
+![][319]<br> [Sharpedo]<br> Lv. 43  | ![][focus-sash]<br> Focus Sash     | Naive   | Speed Boost  | Waterfall, Crunch, Ice Fang, Zen Headbutt  
+![][419]<br> [Floatzel]<br> Lv. 44  | ![][life-orb]<br> Life Orb         | Naive   | Swift Swim   | Aqua Tail, Crunch, Ice Punch, Aqua Jet     
 
 
 [Wartortle]: /pokemon_changes/008/

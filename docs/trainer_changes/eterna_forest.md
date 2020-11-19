@@ -16,12 +16,12 @@ Bug Catcher Donald  | ![][290]<br> [Nincada]<br> Lv. 17   | ![][269]<br> [Dustox
 Psychic Kody        | ![][439]<br> [Mime Jr.]<br> Lv. 18  | ![][122]<br> [Mr. Mime]<br> Lv. 20  
 Psychic Rachael     | ![][433]<br> [Chingling]<br> Lv. 18 | ![][358]<br> [Chimecho]<br> Lv. 20  
 
-PKMN Trainer Cheryl | Item          | Nature  | Ability       | Moves
----                 | ---           | ---     | ---           | ---
-![][425]<br> [Drifloon] Lv. 19        | ![][sitrus-berry]<br> Sitrus Berry      | Modest   | Unburden            | Ominous Wind, Air Cutter, Shock Wave, Swift
-![][296]<br> [Makuhita] Lv. 19        | None                                    | Relaxed  | Thick Fat           | Knock Off, Fake Out, Brick Break, Bullet Punch
-![][320]<br> [Wailmer] Lv. 19         | None                                    | Relaxed  | Water Veil          | Water Pulse, Rock Tomb, Mist, Rollout
-![][113]<br> [Chansey] Lv. 20         | ![][sitrus-berry]<br> Sitrus Berry      | Quiet    | Serene Grace        | Hyper Voice, Soft-Boiled, Ice Beam, Thunderbolt
+PKMN Trainer Cheryl                | Item                               | Nature  | Ability      | Moves                                          
+---                                | ---                                | ---     | ---          | ---                                            
+![][425]<br> [Drifloon]<br> Lv. 19 | ![][sitrus-berry]<br> Sitrus Berry | Modest  | Unburden     | Ominous Wind, Air Cutter, Shock Wave, Swift    
+![][296]<br> [Makuhita]<br> Lv. 19 | None                               | Relaxed | Thick Fat    | Knock Off, Fake Out, Brick Break, Bullet Punch 
+![][320]<br> [Wailmer]<br> Lv. 19  | None                               | Relaxed | Water Veil   | Water Pulse, Rock Tomb, Mist, Rollout          
+![][113]<br> [Chansey]<br> Lv. 20  | ![][sitrus-berry]<br> Sitrus Berry | Quiet   | Serene Grace | Hyper Voice, Soft-Boiled, Ice Beam, Thunderbolt
 
 
 [Beedrill]: /pokemon_changes/015/

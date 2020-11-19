@@ -6,14 +6,14 @@ Reporter Helen      | ![][252]<br> [Treecko]<br> Lv. 10    | ![][255]<br> [Torch
 PKMN Trainer Steven | ![][227]<br> [Skarmory]<br> Lv. 88   | ![][306]<br> [Aggron]<br> Lv. 88     | ![][142]<br> [Aerodactyl]<br> Lv. 88 | ![][346]<br> [Cradily]<br> Lv. 88    | ![][348]<br> [Armaldo]<br> Lv. 88    | ![][376]<br> [Metagross]<br> Lv. 89  
 
 
-PKMN Trainer Steven  | Item          | Nature | Ability      | Moves
----                  | ---           | ---    | ---          | ---
-![][227]<br> [Skarmory] Lv. 88        | ![][occa-berry]<br> Occa Berry          | ?        | Keen Eye            | Brave Bird, Iron Head, Drill Run, Stealth Rock
-![][306]<br> [Aggron] Lv. 88          | ![][focus-sash]<br> Focus Sash          | ?        | Rock Head           | Head Smash, Aqua Tail, Iron Tail, Thunder Wave
-![][142]<br> [Aerodactyl] Lv. 88      | ![][muscle-band]<br> Muscle Band        | ?        | Rock Head           | Brave Bird, Stone Edge, Crunch, Fire Fang
-![][346]<br> [Cradily] Lv. 88         | ![][leftovers]<br> Leftovers            | ?        | Suction Cups        | Power Whip, Rock Slide, Toxic, Recover
-![][348]<br> [Armaldo] Lv. 88         | ![][passho-berry]<br> Passho Berry      | ?        | Battle Armor        | Stone Edge, X-Scissor, Swords Dance, Aqua Jet
-![][376]<br> [Metagross] Lv. 89       | ![][life-orb]<br> Life Orb              | ?        | Iron Fist           | Meteor Mash, Zen Headbutt, Earthquake, Ice Punch
+PKMN Trainer Steven                  | Item                               | Nature | Ability      | Moves                                           
+---                                  | ---                                | --- | ---          | ---                                             
+![][227]<br> [Skarmory]<br> Lv. 88   | ![][occa-berry]<br> Occa Berry     | ? | Keen Eye     | Brave Bird, Iron Head, Drill Run, Stealth Rock  
+![][306]<br> [Aggron]<br> Lv. 88     | ![][focus-sash]<br> Focus Sash     | ? | Rock Head    | Head Smash, Aqua Tail, Iron Tail, Thunder Wave  
+![][142]<br> [Aerodactyl]<br> Lv. 88 | ![][muscle-band]<br> Muscle Band   | ? | Rock Head    | Brave Bird, Stone Edge, Crunch, Fire Fang       
+![][346]<br> [Cradily]<br> Lv. 88    | ![][leftovers]<br> Leftovers       | ? | Suction Cups | Power Whip, Rock Slide, Toxic, Recover          
+![][348]<br> [Armaldo]<br> Lv. 88    | ![][passho-berry]<br> Passho Berry | ? | Battle Armor | Stone Edge, X-Scissor, Swords Dance, Aqua Jet   
+![][376]<br> [Metagross]<br> Lv. 89  | ![][life-orb]<br> Life Orb         | ? | Iron Fist    | Meteor Mash, Zen Headbutt, Earthquake, Ice Punch
 
 
 [Aerodactyl]: /pokemon_changes/142/

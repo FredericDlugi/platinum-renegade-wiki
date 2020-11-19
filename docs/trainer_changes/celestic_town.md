@@ -9,12 +9,12 @@ Trainer             | 1                                   | 2                   
 Galactic Grunt      | ![][229]<br> [Houndoom]<br> Lv. 43  | ![][042]<br> [Golbat]<br> Lv. 43    | ![][015]<br> [Beedrill]<br> Lv. 43  
 Galactic Boss Cyrus | ![][169]<br> [Crobat]<br> Lv. 45    | ![][430]<br> [Honchkrow]<br> Lv. 45 | ![][462]<br> [Magnezone]<br> Lv. 45 | ![][461]<br> [Weavile]<br> Lv. 46   
 
-Galactic Boss Cyrus | Item         | Nature  | Ability       | Moves
----                 | ---          | ---     | ---           | ---
-![][169]<br> [Crobat] Lv. 45          | ![][wise-glasses]<br> Wise Glasses      | ?        | Inner Focus         | Sludge Bomb, Air Slash, Giga Drain, Hypnosis
-![][430]<br> [Honchkrow] Lv. 45       | ![][scope-lens]<br> Scope Lens          | ?        | Super Luck          | Brave Bird, Night Slash, Swagger, Torment
-![][462]<br> [Magnezone] Lv. 45       | ![][life-orb]<br> Life Orb              | ?        | Magnet Pull         | Thunderbolt, Flash Cannon, Thunder Wave, Mirror Coat
-![][461]<br> [Weavile] Lv. 46         | ![][expert-belt]<br> Expert Belt        | ?        | Technician (!)      | Feint Attack, Icicle Crash, Ice Shard, Swords Dance
+Galactic Boss Cyrus                 | Item                               | Nature | Ability        | Moves                                               
+---                                 | ---                                | --- | ---            | ---                                                 
+![][169]<br> [Crobat]<br> Lv. 45    | ![][wise-glasses]<br> Wise Glasses | ? | Inner Focus    | Sludge Bomb, Air Slash, Giga Drain, Hypnosis        
+![][430]<br> [Honchkrow]<br> Lv. 45 | ![][scope-lens]<br> Scope Lens     | ? | Super Luck     | Brave Bird, Night Slash, Swagger, Torment           
+![][462]<br> [Magnezone]<br> Lv. 45 | ![][life-orb]<br> Life Orb         | ? | Magnet Pull    | Thunderbolt, Flash Cannon, Thunder Wave, Mirror Coat
+![][461]<br> [Weavile]<br> Lv. 46   | ![][expert-belt]<br> Expert Belt   | ? | Technician (!) | Feint Attack, Icicle Crash, Ice Shard, Swords Dance 
 
 
 [Beedrill]: /pokemon_changes/015/

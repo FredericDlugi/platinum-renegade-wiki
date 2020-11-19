@@ -11,12 +11,12 @@ Galactic Grunt    | ![][228]<br> [Houndour]<br> Lv. 23  | ![][451]<br> [Skorupi]
 Scientist Travon  | ![][096]<br> [Drowzee]<br> Lv. 24   | ![][375]<br> [Metang]<br> Lv. 24    | ![][064]<br> [Kadabra]<br> Lv. 24   
 Commander Jupiter | ![][042]<br> [Golbat]<br> Lv. 26    | ![][302]<br> [Sableye]<br> Lv. 26   | ![][114]<br> [Tangela]<br> Lv. 26   | ![][435]<br> [Skuntank]<br> Lv. 27  
 
-Commander Jupiter | Item         | Nature  | Ability       | Moves
----               | ---          | ---     | ---           | ---
-![][042]<br> [Golbat] Lv. 26          | None                                    | Jolly    | Inner Focus         | Wing Attack, Giga Drain, Leech Life, Confuse Ray
-![][302]<br> [Sableye] Lv. 26         | ![][sitrus-berry]<br> Sitrus Berry      | Adamant  | Magic Guard (!)     | Fake Out, Shadow Claw, Knock Off, Shadow Sneak
-![][114]<br> [Tangela] Lv. 26         | None                                    | Modest   | Chlorophyll         | Giga Drain, Shock Wave, Leech Seed, Sleep Powder
-![][435]<br> [Skuntank] Lv. 27        | ![][sitrus-berry]<br> Sitrus Berry      | Adamant  | Aftermath           | Poison Jab, Night Slash, Focus Energy, Torment
+Commander Jupiter                  | Item                               | Nature  | Ability         | Moves                                           
+---                                | ---                                | ---     | ---             | ---                                             
+![][042]<br> [Golbat]<br> Lv. 26   | None                               | Jolly   | Inner Focus     | Wing Attack, Giga Drain, Leech Life, Confuse Ray
+![][302]<br> [Sableye]<br> Lv. 26  | ![][sitrus-berry]<br> Sitrus Berry | Adamant | Magic Guard (!) | Fake Out, Shadow Claw, Knock Off, Shadow Sneak  
+![][114]<br> [Tangela]<br> Lv. 26  | None                               | Modest  | Chlorophyll     | Giga Drain, Shock Wave, Leech Seed, Sleep Powder
+![][435]<br> [Skuntank]<br> Lv. 27 | ![][sitrus-berry]<br> Sitrus Berry | Adamant | Aftermath       | Poison Jab, Night Slash, Focus Energy, Torment  
 
 
 [Ekans]: /pokemon_changes/023/

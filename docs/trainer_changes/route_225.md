@@ -27,14 +27,14 @@ Psychic Daisy (S)         | ![][080]<br> [Slowbro]<br> Lv. 79    | ![][199]<br> 
 Dragon Tamer Geoffrey (S) | ![][334]<br> [Altaria]<br> Lv. 79    | ![][445]<br> [Garchomp]<br> Lv. 79   
 Ace Trainer Deanna (S)    | ![][181]<br> [Ampharos]<br> Lv. 79   | ![][357]<br> [Tropius]<br> Lv. 79    | ![][131]<br> [Lapras]<br> Lv. 79     | ![][241]<br> [Miltank]<br> Lv. 79    
 
-Ace Trainer Heather | Item         | Nature  | Ability       | Moves
----                 | ---          | ---     | ---           | ---
-![][279]<br> [Pelipper] Lv. 76        | ![][focus-sash]<br> Focus Sash          | ?        | Drizzle             | Hydro Pump, Hurricane, Ice Beam, Tailwind
-![][468]<br> [Togekiss] Lv. 76        | ![][expert-belt]<br> Expert Belt        | ?        | Serene Grace        | Hurricane, Moonblast, Shadow Ball, Roost
-![][142]<br> [Aerodactyl] Lv. 76      | ![][life-orb]<br> Life Orb              | ?        | Rock Head           | Brave Bird, Stone Edge, Crunch, Earthquake
-![][018]<br> [Pidgeot] Lv. 76         | ![][wise-glasses]<br> Wise Glasses      | ?        | No Guard (!)        | Hurricane, Hyper Beam, Heat Wave, Tailwind
-![][357]<br> [Tropius] Lv. 76         | ![][leftovers]<br> Leftovers            | ?        | Chlorophyll         | Hurricane, Energy Ball, Dragon Pulse, Roost
-![][149]<br> [Dragonite] Lv. 77       | ![][white-herb]<br> White Herb          | ?        | Marvel Scale (!)    | Hurricane, Draco Meteor, Thunder, Ice Beam
+Ace Trainer Heather                  | Item                               | Nature | Ability          | Moves                                      
+---                                  | ---                                | --- | ---              | ---                                        
+![][279]<br> [Pelipper]<br> Lv. 76   | ![][focus-sash]<br> Focus Sash     | ? | Drizzle          | Hydro Pump, Hurricane, Ice Beam, Tailwind  
+![][468]<br> [Togekiss]<br> Lv. 76   | ![][expert-belt]<br> Expert Belt   | ? | Serene Grace     | Hurricane, Moonblast, Shadow Ball, Roost   
+![][142]<br> [Aerodactyl]<br> Lv. 76 | ![][life-orb]<br> Life Orb         | ? | Rock Head        | Brave Bird, Stone Edge, Crunch, Earthquake 
+![][018]<br> [Pidgeot]<br> Lv. 76    | ![][wise-glasses]<br> Wise Glasses | ? | No Guard (!)     | Hurricane, Hyper Beam, Heat Wave, Tailwind 
+![][357]<br> [Tropius]<br> Lv. 76    | ![][leftovers]<br> Leftovers       | ? | Chlorophyll      | Hurricane, Energy Ball, Dragon Pulse, Roost
+![][149]<br> [Dragonite]<br> Lv. 77  | ![][white-herb]<br> White Herb     | ? | Marvel Scale (!) | Hurricane, Draco Meteor, Thunder, Ice Beam 
 
 
 [Butterfree]: /pokemon_changes/012/

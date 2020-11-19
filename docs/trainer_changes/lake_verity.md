@@ -12,13 +12,13 @@ Galactic Grunt | ![][033]<br> [Nidorino]<br> Lv. 49   | ![][042]<br> [Golbat]<br
 Galactic Grunt | ![][030]<br> [Nidorina]<br> Lv. 49   | ![][042]<br> [Golbat]<br> Lv. 49     | ![][414]<br> [Mothim]<br> Lv. 49     
 Commander Mars | ![][169]<br> [Crobat]<br> Lv. 52     | ![][469]<br> [Yanmega]<br> Lv. 52    | ![][437]<br> [Bronzong]<br> Lv. 52   | ![][115]<br> [Kangaskhan]<br> Lv. 52 | ![][432]<br> [Purugly]<br> Lv. 53    
 
-Commander Mars      | Item         | Nature  | Ability       | Moves
----                 | ---          | ---     | ---           | ---
-![][169]<br> [Crobat] Lv. 52          | ![][bright-powder]<br> Bright Powder    | ?        | Inner Focus         | Brave Bird, Hypnosis, Double Team, Giga Drain
-![][469]<br> [Yanmega] Lv. 52         | ![][wise-glasses]<br> Wise Glasses      | ?        | Speed Boost         | Bug Buzz, Air Slash, Psychic, Detect
-![][437]<br> [Bronzong] Lv. 52        | ![][leftovers]<br> Leftovers            | ?        | Levitate            | Stealth Rock, Gyro Ball, Payback, Explosion
-![][115]<br> [Kangaskhan] Lv. 52      | ![][muscle-band]<br> Muscle Band        | ?        | Scrappy             | Double-Edge, Hammer Arm, Crunch, Fake Out
-![][432]<br> [Purugly] Lv. 53         | ![][sitrus-berry]<br> Sitrus Berry      | ?        | Thick Fat           | Body Slam, Play Rough, Hypnosis, Fake Out
+Commander Mars                       | Item                                 | Nature | Ability     | Moves                                        
+---                                  | ---                                  | --- | ---         | ---                                          
+![][169]<br> [Crobat]<br> Lv. 52     | ![][bright-powder]<br> Bright Powder | ? | Inner Focus | Brave Bird, Hypnosis, Double Team, Giga Drain
+![][469]<br> [Yanmega]<br> Lv. 52    | ![][wise-glasses]<br> Wise Glasses   | ? | Speed Boost | Bug Buzz, Air Slash, Psychic, Detect         
+![][437]<br> [Bronzong]<br> Lv. 52   | ![][leftovers]<br> Leftovers         | ? | Levitate    | Stealth Rock, Gyro Ball, Payback, Explosion  
+![][115]<br> [Kangaskhan]<br> Lv. 52 | ![][muscle-band]<br> Muscle Band     | ? | Scrappy     | Double-Edge, Hammer Arm, Crunch, Fake Out    
+![][432]<br> [Purugly]<br> Lv. 53    | ![][sitrus-berry]<br> Sitrus Berry   | ? | Thick Fat   | Body Slam, Play Rough, Hypnosis, Fake Out    
 
 
 [Butterfree]: /pokemon_changes/012/

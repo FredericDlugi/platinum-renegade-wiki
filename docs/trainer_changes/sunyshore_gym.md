@@ -12,14 +12,14 @@ Guitarist Lonnie    | ![][125]<br> [Electabuzz]<br> Lv. 60 | ![][101]<br> [Elect
 Ace Trainer Zachery | ![][181]<br> [Ampharos]<br> Lv. 60   | ![][462]<br> [Magnezone]<br> Lv. 60  | ![][310]<br> [Manectric]<br> Lv. 60  | ![][101]<br> [Electrode]<br> Lv. 60  
 Leader Volkner      | ![][135]<br> [Jolteon]<br> Lv. 61    | ![][026]<br> [Raichu]<br> Lv. 61     | ![][479]<br> [Rotom]<br> Lv. 61      | ![][479]<br> [Rotom]<br> Lv. 61      | ![][405]<br> [Luxray]<br> Lv. 61     | ![][466]<br> [Electivire]<br> Lv. 62 
 
-Leader Volkner      | Item         | Nature  | Ability       | Moves
----                 | ---          | ---     | ---           | ---
-![][135]<br> [Jolteon] Lv. 61         | ![][focus-sash]<br> Focus Sash          | Naive    | Static              | Thunderbolt, Shadow Ball, Grass Knot, Thunder Wave
-![][026]<br> [Raichu] Lv. 61          | ![][expert-belt]<br> Expert Belt        | Timid    | Static              | Thunderbolt, Grass Knot, Focus Blast, Surf
-![][479]<br> [Rotom] Lv. 61           | ![][sitrus-berry]<br> Sitrus Berry      | Modest   | Levitate            | Thunderbolt, Hydro Pump, Shadow Ball, Thunder Wave
-![][479]<br> [Rotom] Lv. 61           | ![][white-herb]<br> White Herb          | Modest   | Levitate            | Thunderbolt, Overheat, Shadow Ball, Will-O-Wisp
-![][405]<br> [Luxray] Lv. 61          | ![][choice-band]<br> Choice Band        | Naughty  | Intimidate          | Wild Charge, Crunch, Ice Fang, Fire Fang
-![][466]<br> [Electivire] Lv. 62      | ![][life-orb]<br> Life Orb              | Jolly    | Motor Drive         | Wild Charge, Close Combat, Ice Punch, Earthquake
+Leader Volkner                       | Item                               | Nature  | Ability     | Moves                                             
+---                                  | ---                                | ---     | ---         | ---                                               
+![][135]<br> [Jolteon]<br> Lv. 61    | ![][focus-sash]<br> Focus Sash     | Naive   | Static      | Thunderbolt, Shadow Ball, Grass Knot, Thunder Wave
+![][026]<br> [Raichu]<br> Lv. 61     | ![][expert-belt]<br> Expert Belt   | Timid   | Static      | Thunderbolt, Grass Knot, Focus Blast, Surf        
+![][479]<br> [Rotom]<br> Lv. 61      | ![][sitrus-berry]<br> Sitrus Berry | Modest  | Levitate    | Thunderbolt, Hydro Pump, Shadow Ball, Thunder Wave
+![][479]<br> [Rotom]<br> Lv. 61      | ![][white-herb]<br> White Herb     | Modest  | Levitate    | Thunderbolt, Overheat, Shadow Ball, Will-O-Wisp   
+![][405]<br> [Luxray]<br> Lv. 61     | ![][choice-band]<br> Choice Band   | Naughty | Intimidate  | Wild Charge, Crunch, Ice Fang, Fire Fang          
+![][466]<br> [Electivire]<br> Lv. 62 | ![][life-orb]<br> Life Orb         | Jolly   | Motor Drive | Wild Charge, Close Combat, Ice Punch, Earthquake  
 
 
 [Pikachu]: /pokemon_changes/025/

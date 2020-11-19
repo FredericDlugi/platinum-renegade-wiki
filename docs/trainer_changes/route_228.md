@@ -25,14 +25,14 @@ PKMN Ranger Kyler (S) | ![][103]<br> [Exeggutor]<br> Lv. 78 | ![][335]<br> [Zang
 Psychic Corbin (S)    | ![][097]<br> [Hypno]<br> Lv. 78     | ![][475]<br> [Gallade]<br> Lv. 78   | ![][178]<br> [Xatu]<br> Lv. 78      
 Black Belt Davon (S)  | ![][297]<br> [Hariyama]<br> Lv. 78  | ![][068]<br> [Machamp]<br> Lv. 78   | ![][057]<br> [Primeape]<br> Lv. 78  
 
-Ace Trainer Shade  | Item           | Nature | Ability        | Moves
----                | ---            | ---    | ---            | ---
-![][229]<br> [Houndoom] Lv. 76        | ![][white-herb]<br> White Herb          | ?        | Intimidate (!)      | Dark Pulse, Overheat, Sludge Bomb, Thunder Fang
-![][461]<br> [Weavile] Lv. 76         | ![][muscle-band]<br> Muscle Band        | ?        | Technician (!)      | Icicle Crash, Feint Attack, Aerial Ace, Low Kick
-![][275]<br> [Shiftry] Lv. 76         | ![][wise-glasses]<br> Wise Glasses      | ?        | Chlorophyll         | Energy Ball, Dark Pulse, Hurricane, Focus Blast
-![][319]<br> [Sharpedo] Lv. 76        | ![][expert-belt]<br> Expert Belt        | ?        | Speed Boost         | Waterfall, Crunch, Ice Fang, Zen Headbutt
-![][442]<br> [Spiritomb] Lv. 76       | ![][leftovers]<br> Leftovers            | ?        | Pressure            | Dark Pulse, Psychic, Hypnosis, Double Team
-![][248]<br> [Tyranitar] Lv. 77       | ![][chople-berry]<br> Chople Berry      | ?        | Sand Stream         | Crunch, Stone Edge, Iron Tail, Fire Punch
+Ace Trainer Shade                   | Item                               | Nature | Ability        | Moves                                           
+---                                 | ---                                | --- | ---            | ---                                             
+![][229]<br> [Houndoom]<br> Lv. 76  | ![][white-herb]<br> White Herb     | ? | Intimidate (!) | Dark Pulse, Overheat, Sludge Bomb, Thunder Fang 
+![][461]<br> [Weavile]<br> Lv. 76   | ![][muscle-band]<br> Muscle Band   | ? | Technician (!) | Icicle Crash, Feint Attack, Aerial Ace, Low Kick
+![][275]<br> [Shiftry]<br> Lv. 76   | ![][wise-glasses]<br> Wise Glasses | ? | Chlorophyll    | Energy Ball, Dark Pulse, Hurricane, Focus Blast 
+![][319]<br> [Sharpedo]<br> Lv. 76  | ![][expert-belt]<br> Expert Belt   | ? | Speed Boost    | Waterfall, Crunch, Ice Fang, Zen Headbutt       
+![][442]<br> [Spiritomb]<br> Lv. 76 | ![][leftovers]<br> Leftovers       | ? | Pressure       | Dark Pulse, Psychic, Hypnosis, Double Team      
+![][248]<br> [Tyranitar]<br> Lv. 77 | ![][chople-berry]<br> Chople Berry | ? | Sand Stream    | Crunch, Stone Edge, Iron Tail, Fire Punch       
 
 
 [Sandslash]: /pokemon_changes/028/
