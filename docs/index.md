@@ -3,6 +3,8 @@
 !!! note
     This site is fanmade, all credit goes to @Drayano60 (the creator of Platinum Renegate), all errors on the site are probably my fault. The original post can be found [here](https://projectpokemon.org/home/forums/topic/52294-pok%C3%A9mon-renegade-platinum/).
 
+![](https://i.imgur.com/viQMKJY.png)
+
 ## Summary
 
 Pokémon Renegade Platinum is an enhancement hack of Pokémon Platinum Version, similar to my other hacks such as [Sacred Gold & Storm Silver](https://gbatemp.net/threads/pokemon-sacred-gold-storm-silver.327567/) and [Blaze Black & Volt White](https://projectpokemon.org/home/forums/topic/13244-pok%C3%A9mon-blaze-black-pok%C3%A9mon-volt-white/). In a nutshell, this hack generally keeps the same story flow as the original Pokémon Platinum but adds in a significant number of gameplay differences, including but not limited to access to all 493 Pokémon in the game, revamped Trainers including tougher boss fights, lots of (optional) changes to weaker Pokémon to make them easier to use, the removal of trade only evolutions and a number of other quality of life changes. The specifics of what parts have been changed are explained in the paragraphs below.

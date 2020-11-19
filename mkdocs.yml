@@ -7,7 +7,7 @@ repo_url: https://github.com/FredericDlugi/platinum-renegate-wiki/
 
 theme:
     name: material
-    favicon: img/items/cherish-ball.png
+    favicon: img/items/poke-ball.png
 
 nav:
     - Home: index.md
