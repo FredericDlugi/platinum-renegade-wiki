@@ -16,27 +16,29 @@ PKMN Trainer Steven                  | Item                               | Natu
 ![][376]<br> [Metagross]<br> Lv. 89  | ![][life-orb]<br> Life Orb         | ? | Iron Fist    | Meteor Mash, Zen Headbutt, Earthquake, Ice Punch
 
 
-[Aerodactyl]: /pokemon_changes/142/
-[Skarmory]: /pokemon_changes/227/
-[Treecko]: /pokemon_changes/252/
-[Torchic]: /pokemon_changes/255/
-[Mudkip]: /pokemon_changes/258/
-[Aggron]: /pokemon_changes/306/
-[Cradily]: /pokemon_changes/346/
-[Armaldo]: /pokemon_changes/348/
-[Metagross]: /pokemon_changes/376/
-[focus-sash]: /img/items/focus-sash.png
-[leftovers]: /img/items/leftovers.png
-[life-orb]: /img/items/life-orb.png
-[muscle-band]: /img/items/muscle-band.png
-[occa-berry]: /img/items/occa-berry.png
-[passho-berry]: /img/items/passho-berry.png
-[142]: /img/pokemon/142.png
-[227]: /img/pokemon/227.png
-[252]: /img/pokemon/252.png
-[255]: /img/pokemon/255.png
-[258]: /img/pokemon/258.png
-[306]: /img/pokemon/306.png
-[346]: /img/pokemon/346.png
-[348]: /img/pokemon/348.png
-[376]: /img/pokemon/376.png
+
+[Aerodactyl]: ../../pokemon_changes/142/
+[Skarmory]: ../../pokemon_changes/227/
+[Treecko]: ../../pokemon_changes/252/
+[Torchic]: ../../pokemon_changes/255/
+[Mudkip]: ../../pokemon_changes/258/
+[Aggron]: ../../pokemon_changes/306/
+[Cradily]: ../../pokemon_changes/346/
+[Armaldo]: ../../pokemon_changes/348/
+[Metagross]: ../../pokemon_changes/376/
+[focus-sash]: ../img/items/focus-sash.png
+[leftovers]: ../img/items/leftovers.png
+[life-orb]: ../img/items/life-orb.png
+[muscle-band]: ../img/items/muscle-band.png
+[occa-berry]: ../img/items/occa-berry.png
+[passho-berry]: ../img/items/passho-berry.png
+[142]: ../img/pokemon/142.png
+[227]: ../img/pokemon/227.png
+[252]: ../img/pokemon/252.png
+[255]: ../img/pokemon/255.png
+[258]: ../img/pokemon/258.png
+[306]: ../img/pokemon/306.png
+[346]: ../img/pokemon/346.png
+[348]: ../img/pokemon/348.png
+[376]: ../img/pokemon/376.png
+

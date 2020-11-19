@@ -9,8 +9,8 @@ Area                         | Pokémon
 ![][super-rod]<br> Super Rod | ![][129]<br> [Magikarp]<br> 100%
 
 
-[Magikarp]: /pokemon_changes/129/
-[good-rod]: /img/items/good-rod.png
-[old-rod]: /img/items/old-rod.png
-[super-rod]: /img/items/super-rod.png
-[129]: /img/pokemon/129.png
+[Magikarp]: ../../pokemon_changes/129/
+[good-rod]: ../img/items/good-rod.png
+[old-rod]: ../img/items/old-rod.png
+[super-rod]: ../img/items/super-rod.png
+[129]: ../img/pokemon/129.png

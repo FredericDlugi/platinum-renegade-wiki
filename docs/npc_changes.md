@@ -6,7 +6,7 @@ See [here](trade_changes.md) how the trades are changed.
 
 
 ## Evolution Item Seller (New)
-![](/img/npc_changes/evolution_item_seller.png)
+![](./img/npc_changes/evolution_item_seller.png)
 
 **Location:** Snowpoint City
 
@@ -15,7 +15,7 @@ See [here](trade_changes.md) how the trades are changed.
 - One of any item will cost you $10,000.
 
 ## Hidden Power Teller (New)
-![](/img/npc_changes/hidden_power_teller.png)
+![](./img/npc_changes/hidden_power_teller.png)
 
 **Location:** Jubilife Trainers' School
 
@@ -24,7 +24,7 @@ See [here](trade_changes.md) how the trades are changed.
 - The Hidden Power teller is still in Veilstone City as well.
 
 ## Item Fanatic (New)
-![](/img/npc_changes/item_fanatic.png)
+![](./img/npc_changes/item_fanatic.png)
 
 **Location:** Floaroma Town
 
@@ -38,7 +38,7 @@ See [here](trade_changes.md) how the trades are changed.
 - Talk to him with a [Clamperl] in your party to get a Deep Sea Tooth and Deep Sea Scale.
 
 ## Move Deleter
-![](/img/npc_changes/move_deleter.png)
+![](./img/npc_changes/move_deleter.png)
 
 **Location:** Oreburgh City
 
@@ -46,7 +46,7 @@ See [here](trade_changes.md) how the trades are changed.
 - No other changes.
 
 ## Move Relearner
-![](/img/npc_changes/move_relearner.png)
+![](./img/npc_changes/move_relearner.png)
 
 **Location:** Pastoria City
 
@@ -54,7 +54,7 @@ See [here](trade_changes.md) how the trades are changed.
 - Heart Scales or any payment is no longer required - just speak to him to learn some moves.
 
 ## Move Tutors
-![](/img/npc_changes/move_tutors.png)
+![](./img/npc_changes/move_tutors.png)
 
 **Location:** Route 212 (South)
 
@@ -63,7 +63,7 @@ See [here](trade_changes.md) how the trades are changed.
 
 
 ## Rare Berry Seller (New)
-![](/img/npc_changes/rare_berry_seller.png)
+![](./img/npc_changes/rare_berry_seller.png)
 
 **Location:** Route 208
 
@@ -73,7 +73,7 @@ See [here](trade_changes.md) how the trades are changed.
 
 
 ## Training NPCs (New)
-![](/img/npc_changes/training_npcs.png)
+![](./img/npc_changes/training_npcs.png)
 
 **Location:** Solaceon Town
 

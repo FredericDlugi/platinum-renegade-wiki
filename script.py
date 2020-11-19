@@ -90,7 +90,7 @@ def format_wild_table(table):
 
     return output_table
 
-for f in glob.glob("docs/wild_pokemon/*.md"):
+for f in glob.glob("docs../../wild_pokemon/*.md"):
     train_lines = open(f, "r", encoding="utf-8").readlines()
 
     trainer_tables = []

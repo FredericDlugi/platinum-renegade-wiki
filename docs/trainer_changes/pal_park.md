@@ -14,21 +14,23 @@ Castle Valet Darach                 | Item                               | Natur
 ![][244]<br> [Entei]<br> Lv. 48     | ![][shuca-berry]<br> Shuca Berry   | ? | Pressure      | Sacred Fire, Stone Edge, Extreme Speed, Iron Head
 
 
-[Alakazam]: /pokemon_changes/065/
-[Entei]: /pokemon_changes/244/
-[Metagross]: /pokemon_changes/376/
-[Empoleon]: /pokemon_changes/395/
-[Staraptor]: /pokemon_changes/398/
-[Gallade]: /pokemon_changes/475/
-[expert-belt]: /img/items/expert-belt.png
-[kings-rock]: /img/items/kings-rock.png
-[life-orb]: /img/items/life-orb.png
-[scope-lens]: /img/items/scope-lens.png
-[shuca-berry]: /img/items/shuca-berry.png
-[sitrus-berry]: /img/items/sitrus-berry.png
-[065]: /img/pokemon/065.png
-[244]: /img/pokemon/244.png
-[376]: /img/pokemon/376.png
-[395]: /img/pokemon/395.png
-[398]: /img/pokemon/398.png
-[475]: /img/pokemon/475.png
+
+[Alakazam]: ../../pokemon_changes/065/
+[Entei]: ../../pokemon_changes/244/
+[Metagross]: ../../pokemon_changes/376/
+[Empoleon]: ../../pokemon_changes/395/
+[Staraptor]: ../../pokemon_changes/398/
+[Gallade]: ../../pokemon_changes/475/
+[expert-belt]: ../img/items/expert-belt.png
+[kings-rock]: ../img/items/kings-rock.png
+[life-orb]: ../img/items/life-orb.png
+[scope-lens]: ../img/items/scope-lens.png
+[shuca-berry]: ../img/items/shuca-berry.png
+[sitrus-berry]: ../img/items/sitrus-berry.png
+[065]: ../img/pokemon/065.png
+[244]: ../img/pokemon/244.png
+[376]: ../img/pokemon/376.png
+[395]: ../img/pokemon/395.png
+[398]: ../img/pokemon/398.png
+[475]: ../img/pokemon/475.png
+

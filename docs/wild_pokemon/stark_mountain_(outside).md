@@ -11,19 +11,19 @@ Area         | Pokémon                         | &nbsp;                        
 &nbsp;       | ![][126]<br> [Magmar]<br> 10%  | ![][324]<br> [Torkoal]<br> 10%
 
 
-[Fearow]: /pokemon_changes/022/
-[Machoke]: /pokemon_changes/067/
-[Rhydon]: /pokemon_changes/112/
-[Magmar]: /pokemon_changes/126/
-[Gligar]: /pokemon_changes/207/
-[Skarmory]: /pokemon_changes/227/
-[Camerupt]: /pokemon_changes/323/
-[Torkoal]: /pokemon_changes/324/
-[022]: /img/pokemon/022.png
-[067]: /img/pokemon/067.png
-[112]: /img/pokemon/112.png
-[126]: /img/pokemon/126.png
-[207]: /img/pokemon/207.png
-[227]: /img/pokemon/227.png
-[323]: /img/pokemon/323.png
-[324]: /img/pokemon/324.png
+[Fearow]: ../../pokemon_changes/022/
+[Machoke]: ../../pokemon_changes/067/
+[Rhydon]: ../../pokemon_changes/112/
+[Magmar]: ../../pokemon_changes/126/
+[Gligar]: ../../pokemon_changes/207/
+[Skarmory]: ../../pokemon_changes/227/
+[Camerupt]: ../../pokemon_changes/323/
+[Torkoal]: ../../pokemon_changes/324/
+[022]: ../img/pokemon/022.png
+[067]: ../img/pokemon/067.png
+[112]: ../img/pokemon/112.png
+[126]: ../img/pokemon/126.png
+[207]: ../img/pokemon/207.png
+[227]: ../img/pokemon/227.png
+[323]: ../img/pokemon/323.png
+[324]: ../img/pokemon/324.png

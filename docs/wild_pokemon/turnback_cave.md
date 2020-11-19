@@ -12,19 +12,19 @@ Area         | Pokémon                         | &nbsp;                        
 
 
 
-[Golbat]: /pokemon_changes/042/
-[Haunter]: /pokemon_changes/093/
-[Lunatone]: /pokemon_changes/337/
-[Solrock]: /pokemon_changes/338/
-[Banette]: /pokemon_changes/354/
-[Dusclops]: /pokemon_changes/356/
-[Chimecho]: /pokemon_changes/358/
-[Bronzong]: /pokemon_changes/437/
-[042]: /img/pokemon/042.png
-[093]: /img/pokemon/093.png
-[337]: /img/pokemon/337.png
-[338]: /img/pokemon/338.png
-[354]: /img/pokemon/354.png
-[356]: /img/pokemon/356.png
-[358]: /img/pokemon/358.png
-[437]: /img/pokemon/437.png
+[Golbat]: ../../pokemon_changes/042/
+[Haunter]: ../../pokemon_changes/093/
+[Lunatone]: ../../pokemon_changes/337/
+[Solrock]: ../../pokemon_changes/338/
+[Banette]: ../../pokemon_changes/354/
+[Dusclops]: ../../pokemon_changes/356/
+[Chimecho]: ../../pokemon_changes/358/
+[Bronzong]: ../../pokemon_changes/437/
+[042]: ../img/pokemon/042.png
+[093]: ../img/pokemon/093.png
+[337]: ../img/pokemon/337.png
+[338]: ../img/pokemon/338.png
+[354]: ../img/pokemon/354.png
+[356]: ../img/pokemon/356.png
+[358]: ../img/pokemon/358.png
+[437]: ../img/pokemon/437.png

@@ -24,31 +24,33 @@ Commander Jupiter                   | Item                                 | Nat
 ![][435]<br> [Skuntank]<br> Lv. 78  | ![][sitrus-berry]<br> Sitrus Berry   | ? | Aftermath       | Gunk Shot, Crunch, Play Rough, Toxic             
 
 
-[Kangaskhan]: /pokemon_changes/115/
-[Crobat]: /pokemon_changes/169/
-[Sableye]: /pokemon_changes/302/
-[Gastrodon]: /pokemon_changes/423/
-[Purugly]: /pokemon_changes/432/
-[Skuntank]: /pokemon_changes/435/
-[Bronzong]: /pokemon_changes/437/
-[Tangrowth]: /pokemon_changes/465/
-[Electivire]: /pokemon_changes/466/
-[Yanmega]: /pokemon_changes/469/
-[bright-powder]: /img/items/bright-powder.png
-[expert-belt]: /img/items/expert-belt.png
-[leftovers]: /img/items/leftovers.png
-[life-orb]: /img/items/life-orb.png
-[muscle-band]: /img/items/muscle-band.png
-[sitrus-berry]: /img/items/sitrus-berry.png
-[white-herb]: /img/items/white-herb.png
-[wise-glasses]: /img/items/wise-glasses.png
-[115]: /img/pokemon/115.png
-[169]: /img/pokemon/169.png
-[302]: /img/pokemon/302.png
-[423]: /img/pokemon/423.png
-[432]: /img/pokemon/432.png
-[435]: /img/pokemon/435.png
-[437]: /img/pokemon/437.png
-[465]: /img/pokemon/465.png
-[466]: /img/pokemon/466.png
-[469]: /img/pokemon/469.png
+
+[Kangaskhan]: ../../pokemon_changes/115/
+[Crobat]: ../../pokemon_changes/169/
+[Sableye]: ../../pokemon_changes/302/
+[Gastrodon]: ../../pokemon_changes/423/
+[Purugly]: ../../pokemon_changes/432/
+[Skuntank]: ../../pokemon_changes/435/
+[Bronzong]: ../../pokemon_changes/437/
+[Tangrowth]: ../../pokemon_changes/465/
+[Electivire]: ../../pokemon_changes/466/
+[Yanmega]: ../../pokemon_changes/469/
+[bright-powder]: ../img/items/bright-powder.png
+[expert-belt]: ../img/items/expert-belt.png
+[leftovers]: ../img/items/leftovers.png
+[life-orb]: ../img/items/life-orb.png
+[muscle-band]: ../img/items/muscle-band.png
+[sitrus-berry]: ../img/items/sitrus-berry.png
+[white-herb]: ../img/items/white-herb.png
+[wise-glasses]: ../img/items/wise-glasses.png
+[115]: ../img/pokemon/115.png
+[169]: ../img/pokemon/169.png
+[302]: ../img/pokemon/302.png
+[423]: ../img/pokemon/423.png
+[432]: ../img/pokemon/432.png
+[435]: ../img/pokemon/435.png
+[437]: ../img/pokemon/437.png
+[465]: ../img/pokemon/465.png
+[466]: ../img/pokemon/466.png
+[469]: ../img/pokemon/469.png
+
