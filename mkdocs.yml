@@ -1,9 +1,9 @@
-site_name: Platinum Renegate Wiki
-site_url: https://fredericdlugi.github.io/platinum-renegate-wiki
-site_description: A fanmade wiki for Platinum Renegate.
+site_name: Platinum Renegade Wiki
+site_url: https://fredericdlugi.github.io/platinum-renegade-wiki
+site_description: A fanmade wiki for Platinum Renegade.
 site_author: Frederic Dlugi
 
-repo_url: https://github.com/FredericDlugi/platinum-renegate-wiki/
+repo_url: https://github.com/FredericDlugi/platinum-renegade-wiki/
 
 theme:
     name: material
