@@ -1,7 +1,7 @@
 # Route 220
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_220/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_220/).
 
 Wild Levels: 30 - 45 (Surf)
 

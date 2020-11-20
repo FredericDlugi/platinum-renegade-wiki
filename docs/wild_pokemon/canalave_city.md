@@ -1,7 +1,7 @@
 # Canalave City
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/canalave_city/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/canalave_city/).
 
 Levels: 30 - 45 (Surfing)
 

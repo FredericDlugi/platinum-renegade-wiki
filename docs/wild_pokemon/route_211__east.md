@@ -1,7 +1,7 @@
 # Route 211 ~ East
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_211__east/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_211__east/).
 
 Levels: 18 - 19 (Walking) 18 (Honey Tree)
 

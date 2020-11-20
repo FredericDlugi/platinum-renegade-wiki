@@ -1,7 +1,7 @@
 # Solaceon Ruins
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/solaceon_ruins/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/solaceon_ruins/).
 
 Levels: 20 - 30
 

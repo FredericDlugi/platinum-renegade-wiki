@@ -1,7 +1,7 @@
 # Fuego Ironworks
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/fuego_ironworks/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/fuego_ironworks/).
 
 Levels: 36 - 40 (Walking) 30 - 45 (Surf) 40 (Honey Tree)
 

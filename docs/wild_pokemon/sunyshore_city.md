@@ -1,7 +1,7 @@
 # Sunyshore City
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/sunyshore_city/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/sunyshore_city/).
 
 Levels: 50 - 60 (Surfing)
 

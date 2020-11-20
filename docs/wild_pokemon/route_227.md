@@ -1,7 +1,7 @@
 # Route 227
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_227/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_227/).
 
 Levels: 65 - 67 (Walking) 65 - 67 (Surfing)
 

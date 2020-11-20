@@ -1,7 +1,7 @@
 # Pokémon League
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/pokemon_league/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/pokemon_league/).
 
 Levels: 50 - 60 (Surfing)
 

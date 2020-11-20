@@ -1,7 +1,7 @@
 # Route 213
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_213/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_213/).
 
 Levels: 32 - 34 (Walking) 20 - 40 (Surfing) 33 (Honey Tree)
 

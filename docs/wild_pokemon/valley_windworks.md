@@ -1,7 +1,7 @@
 # Valley Windworks
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/valley_windworks/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/valley_windworks/).
 
 Levels: 11 - 13 (Walking) 20 - 40 (Surfing) 12 (Honey Tree)
 

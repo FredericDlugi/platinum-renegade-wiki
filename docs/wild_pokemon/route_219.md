@@ -1,7 +1,7 @@
 # Route 219
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_219/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_219/).
 
 Wild Levels: 30 - 45 (Surf)
 

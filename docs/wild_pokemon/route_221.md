@@ -1,7 +1,7 @@
 # Route 221
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_221/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_221/).
 
 Levels: 38 - 40 (Walking) 30 - 45 (Surf) 39 (Honey Tree)
 

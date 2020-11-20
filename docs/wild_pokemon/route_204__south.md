@@ -1,7 +1,7 @@
 # Route 204 ~ South
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_204__south/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_204__south/).
 
 Levels: 6 - 7 (Walking) 20 - 40 (Surfing)
 

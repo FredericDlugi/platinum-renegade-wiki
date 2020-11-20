@@ -1,7 +1,7 @@
 # Route 218
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_218/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_218/).
 
 Levels: 38 - 39 (Walking) 20 - 45 (Surfing) 39 (Honey Tree)
 

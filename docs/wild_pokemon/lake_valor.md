@@ -1,7 +1,7 @@
 # Lake Valor
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/lake_valor/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/lake_valor/).
 
 Levels: 53 - 54 (Walking) 35 - 55 (Surfing)
 

@@ -1,7 +1,7 @@
 # Route 225
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_225/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_225/).
 
 Levels: 65 - 67 (Walking) 65 - 67 (Surfing)
 

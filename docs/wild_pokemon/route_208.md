@@ -1,7 +1,7 @@
 # Route 208
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_208/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_208/).
 
 Levels: 23 - 24 (Walking) 20 - 40 (Surfing) 23 (Honey Tree)
 

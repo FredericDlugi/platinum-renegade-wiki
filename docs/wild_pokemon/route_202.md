@@ -1,7 +1,7 @@
 # Route 202
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_202/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_202/).
 
 Levels: 5 - 6 (Walking)
 

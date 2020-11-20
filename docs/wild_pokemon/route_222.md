@@ -1,7 +1,7 @@
 # Route 222
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_222/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_222/).
 
 Levels: 53 - 54 (Walking) 54 (Honey Tree) 35 - 55 (Surfing)
 

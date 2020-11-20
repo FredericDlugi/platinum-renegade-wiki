@@ -1,7 +1,7 @@
 # Celestic Town
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/celestic_town/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/celestic_town/).
 
 Levels: 20 - 40 (Surfing)
 

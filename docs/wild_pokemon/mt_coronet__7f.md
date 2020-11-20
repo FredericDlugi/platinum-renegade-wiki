@@ -1,7 +1,7 @@
 # Mt. Coronet ~ 7F
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/mt_coronet__7f/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/mt_coronet__7f/).
 
 Levels: 51 - 53 (Walking)
 

@@ -1,7 +1,7 @@
 # Route 224
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_224/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_224/).
 
 Level: 59 (Walking) 50 - 60 (Surfing)
 

@@ -1,7 +1,7 @@
 # Mt. Coronet ~ Tunnel to Route 211 Entrance
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/mt_coronet__tunnel_to_route_211_entrance/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/mt_coronet__tunnel_to_route_211_entrance/).
 
 Levels: 18 - 19 (Walking)
 

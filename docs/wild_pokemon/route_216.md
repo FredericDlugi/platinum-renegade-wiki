@@ -1,7 +1,7 @@
 # Route 216
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_216/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_216/).
 
 Levels: 18 - 20 (Walking)
 

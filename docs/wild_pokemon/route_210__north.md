@@ -1,7 +1,7 @@
 # Route 210 ~ North
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_210__north/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_210__north/).
 
 Levels: 34 - 38 (Walking) 20 - 40 (Surfing) Honey Tree (37)
 

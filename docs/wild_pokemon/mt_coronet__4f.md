@@ -1,7 +1,7 @@
 # Mt. Coronet ~ 4F
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/mt_coronet__4f/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/mt_coronet__4f/).
 
 Levels: 50 - 52 (Walking) 35 - 55 (Surfing)
 

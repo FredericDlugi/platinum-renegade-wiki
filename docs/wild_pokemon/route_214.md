@@ -1,7 +1,7 @@
 # Route 214
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_214/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_214/).
 
 Levels: 28 - 32 (Walking) 20 - 40 (Surfing) 30 (Honey Tree)
 

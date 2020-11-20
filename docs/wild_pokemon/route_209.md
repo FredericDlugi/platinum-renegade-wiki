@@ -1,7 +1,7 @@
 # Route 209
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_209/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_209/).
 
 Levels: 24 - 26 (Walking) 20 - 40 (Surfing) 27 (Honey Tree)
 

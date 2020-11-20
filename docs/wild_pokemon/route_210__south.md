@@ -1,7 +1,7 @@
 # Route 210 ~ South
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_210__south/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_210__south/).
 
 Levels: 28 - 30 (Walking) 29 (Honey Tree)
 

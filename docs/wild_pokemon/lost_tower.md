@@ -1,7 +1,7 @@
 # Lost Tower
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/lost_tower/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/lost_tower/).
 
 Levels: 26 - 30
 

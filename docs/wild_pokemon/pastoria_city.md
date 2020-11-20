@@ -1,7 +1,7 @@
 # Pastoria City
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/pastoria_city/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/pastoria_city/).
 
 Levels: 20 - 40 (Surfing)
 

@@ -1,7 +1,7 @@
 # Route 212 ~ South
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_212__south/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_212__south/).
 
 Levels: 33 - 36 (Walking) 20 - 40 (Surfing) Honey Tree (34)
 

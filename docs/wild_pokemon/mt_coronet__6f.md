@@ -1,7 +1,7 @@
 # Mt. Coronet ~ 6F
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/mt_coronet__6f/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/mt_coronet__6f/).
 
 Levels: 51 - 53 (Walking)
 

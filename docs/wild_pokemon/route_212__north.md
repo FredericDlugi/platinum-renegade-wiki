@@ -1,7 +1,7 @@
 # Route 212 ~ North
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_212__north/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_212__north/).
 
 Levels: 24 - 26 (Walking) 20 - 40 (Surfing) 25 (Honey Tree)
 

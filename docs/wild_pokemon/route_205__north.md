@@ -1,7 +1,7 @@
 # Route 205 ~ North
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_205__north/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_205__north/).
 
 Levels: 15 - 17 (Walking) 20 - 40 (Surfing) 16 (Honey Tree)
 

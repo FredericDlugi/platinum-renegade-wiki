@@ -1,7 +1,7 @@
 # Route 206
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_206/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_206/).
 
 Levels: 20 - 22 (Walking) 21 (Honey Tree)
 

@@ -1,7 +1,7 @@
 # Eterna Forest
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/eterna_forest/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/eterna_forest/).
 
 Levels: 14 - 16 (Walking)
 

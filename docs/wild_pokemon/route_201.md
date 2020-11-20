@@ -1,7 +1,7 @@
 # Route 201
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_201/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_201/).
 
 Levels: 4 - 5 (Walking)
 

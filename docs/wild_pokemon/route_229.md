@@ -1,7 +1,7 @@
 # Route 229
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_229/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_229/).
 
 Levels: 65 - 67 (Walking) 65 - 67 (Surfing)
 

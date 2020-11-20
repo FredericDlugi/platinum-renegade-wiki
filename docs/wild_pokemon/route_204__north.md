@@ -1,7 +1,7 @@
 # Route 204 ~ North
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_204__north/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_204__north/).
 
 Levels: 11 - 12 (Walking)
 

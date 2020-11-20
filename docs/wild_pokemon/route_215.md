@@ -1,7 +1,7 @@
 # Route 215
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_215/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_215/).
 
 Levels: 27 - 30 (Walking) 28 (Honey Tree)
 

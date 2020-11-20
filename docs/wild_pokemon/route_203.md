@@ -1,7 +1,7 @@
 # Route 203
 
 !!! note
-    There are trainer on this route. You can find out more [here](../../trainer_pokemon/route_203/).
+    There are trainer on this route. You can find out more [here](../../trainer_changes/route_203/).
 
 Levels: 7 - 8 (Walking) 20 - 40 (Surfing)
 
