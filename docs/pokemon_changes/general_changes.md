@@ -1,6 +1,6 @@
 # General Changes
 
-- The <span style="color:white; background:#EE99AC; border: 1px solid #9B6470">Fairy</span>-type has been added to the game, replacing the almost unused ???-type.
+- The fairy-type has been added to the game, replacing the almost unused ???-type.
 - All Pokémon have had their base stats updated to match Ultra Sun and Ultra Moon.
 - All Pokémon have had their types updated to match Ultra Sun and Ultra Moon.
 - All Pokémon have had their wild held item updated to match Ultra Sun and Ultra Moon (with some exceptions).
@@ -42,10 +42,17 @@ Wild Pokémon             | holding chance              | Item
 - Level up moves have also been changed for every single Pokémon. These should include all moves they learn in Ultra Sun and Ultra Moon that are available in Renegade Platinum, as well as additional moves from move tutors, egg moves or entirely new techniques.
 
 
+
+[^1]: This move was previously unavailable to this Pokémon
+
+[Scyther]: ../../pokemon_changes/123/
 [Corsola]: ../../pokemon_changes/222/
+[Wingull]: ../../pokemon_changes/278/
 [Pelipper]: ../../pokemon_changes/279/
+[Torkoal]: ../../pokemon_changes/324/
 [Absol]: ../../pokemon_changes/359/
 [Spiritomb]: ../../pokemon_changes/442/
+[Weavile]: ../../pokemon_changes/461/
 [hard-stone]: ../img/items/hard-stone.png
 [life-orb]: ../img/items/life-orb.png
 [lucky-egg]: ../img/items/lucky-egg.png
@@ -54,5 +61,3 @@ Wild Pokémon             | holding chance              | Item
 [279]: ../img/pokemon/279.png
 [359]: ../img/pokemon/359.png
 [442]: ../img/pokemon/442.png
-
-[^1]: This move was previously unavailable to this Pokémon
