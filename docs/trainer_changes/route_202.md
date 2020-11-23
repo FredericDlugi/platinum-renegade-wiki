@@ -24,6 +24,10 @@ Youngster Tristan (3) | ![][164]<br> [Noctowl]<br> Lv. 27   | ![][397]<br> [Star
 Youngster Tristan (5) | ![][164]<br> [Noctowl]<br> Lv. 39   | ![][398]<br> [Staraptor]<br> Lv. 39
 Youngster Tristan (8) | ![][164]<br> [Noctowl]<br> Lv. 59   | ![][398]<br> [Staraptor]<br> Lv. 59 | ![][018]<br> [Pidgeot]<br> Lv. 59
 
+Bug Catcher Louie                    | Item          | Nature | Ability | Moves
+---                                  | ---           |    --- | ---     | ---
+![][469]<br> [Yanmega]<br> Lv. 85    | Insect Plate? |      ? |       ? | Air Slash, ?, ?, ?
+
 [Pidgeot]: ../../pokemon_changes/018/
 [Growlithe]: ../../pokemon_changes/058/
 [Sentret]: ../../pokemon_changes/161/

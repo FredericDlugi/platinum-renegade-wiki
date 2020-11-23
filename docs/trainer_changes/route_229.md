@@ -10,7 +10,7 @@ PKMN Ranger Deshawn                | ![][327]<br> [Spinda]<br> Lv. 74     | ![][
 Ace Trainer Felix                  | ![][477]<br> [Dusknoir]<br> Lv. 76   | ![][373]<br> [Salamence]<br> Lv. 76
 Ace Trainer Dana                   | ![][262]<br> [Mightyena]<br> Lv. 75  | ![][282]<br> [Gardevoir]<br> Lv. 75  | ![][012]<br> [Butterfree]<br> Lv. 75
 Ace Trainer Sandra                 | ![][051]<br> [Dugtrio]<br> Lv. 74    | ![][026]<br> [Raichu]<br> Lv. 74     | ![][059]<br> [Arcanine]<br> Lv. 74   | ![][045]<br> [Vileplume]<br> Lv. 74
-Ace Trainer Gene *<br>![][ace_f_2] | ![][234]<br> [Stantler]<br> Lv. 76   | ![][085]<br> [Dodrio]<br> Lv. 76     | ![][203]<br> [Girafarig]<br> Lv. 76  | ![][400]<br> [Bibarel]<br> Lv. 76    | ![][474]<br> [Porygon-Z]<br> Lv. 76  | ![][143]<br> [Snorlax]<br> Lv. 77
+Ace Trainer Gene *<br>![][ace_m_2] | ![][234]<br> [Stantler]<br> Lv. 76   | ![][085]<br> [Dodrio]<br> Lv. 76     | ![][203]<br> [Girafarig]<br> Lv. 76  | ![][400]<br> [Bibarel]<br> Lv. 76    | ![][474]<br> [Porygon-Z]<br> Lv. 76  | ![][143]<br> [Snorlax]<br> Lv. 77
 
 Ace Trainer Gene<br>![][ace_m_2]    | Item                               | Nature | Ability      | Moves
 ---                                 | ---                                | --- | ---          | ---

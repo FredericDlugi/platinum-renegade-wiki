@@ -21,11 +21,11 @@ Item                | Name
 
 The following items have had adjustments to their costs:
 
-Item                       | old price | new price
----                        | ---       | ---
-![][poke-ball] Poké Ball   | $200      |       $50
-![][great-ball] Great Ball | $600      |      $150
-![][ultra-ball] Ultra Ball | $1200     |      $300
+Item                           | old price | new price
+---                            | ---       | ---
+![][poke-ball]<br> Poké Ball   | $200      |       $50
+![][great-ball]<br> Great Ball | $600      |      $150
+![][ultra-ball]<br> Ultra Ball | $1200     |      $300
 
 The following items now cost zero and are thus unsellable:
 
@@ -33,14 +33,16 @@ The following items now cost zero and are thus unsellable:
 
 ## Modified TMs
 
-The following TMs have had their moves changed (compatibility matches Ultra Sun and Ultra Moon plus extras as listed in Pokémon Changes):
+The following TMs have had their moves changed (compatibility matches Ultra Sun and Ultra Moon plus extras as listed in Pokémon Changes).
 
-- TM55: Brine >> Scald
-- TM57: Charge Beam >> Wild Charge
-- TM62: Silver Wind >> Bug Buzz
-- TM83: Natural Gift >> Hyper Voice
-- TM85: Dream Eater >> Dazzling Gleam
-- TM88: Pluck >> Hurricane
+TM     | Old          | New
+---    | ---          | ---
+TM55   | Brine        | Scald
+TM57   | Charge Beam  | Wild Charge
+TM62   | Silver Wind  | Bug Buzz
+TM83   | Natural Gift | Hyper Voice
+TM85   | Dream Eater  | Dazzling Gleam
+TM88   | Pluck        |  Hurricane
 
 Additionally, all TMs will now have a quantity of 99 when obtained.
 
@@ -173,98 +175,96 @@ Item                | Name           | Locations
 
 ## TM Locations
 
-A * means: The location has changed from the original Platinum.
-
 TM   | Name              | Location                       | Obtained
 ---  | ---               | ---                            | ---
 TM01 | Focus Punch       | Oreburgh Gate                  | Item on ground
 TM02 | Dragon Claw       | Mt. Coronet                    | Item on ground
-TM03 | Water Pulse       | Route 218                      | Item on ground          *
-TM04 | Calm Mind         | Solaceon Ruins                 | Item on ground          *
+TM03 | Water Pulse       | Route 218                      | Item on ground        [^1]
+TM04 | Calm Mind         | Solaceon Ruins                 | Item on ground        [^1]
 TM05 | Roar              | Route 213                      | Item on ground
 TM06 | Toxic             | Route 212 (South)              | Item on ground
 TM07 | Hail              | Route 217                      | Item on ground
-TM08 | Bulk Up           | Route 205 (South)              | Item on ground          *
+TM08 | Bulk Up           | Route 205 (South)              | Item on ground        [^1]
 TM09 | Bullet Seed       | Route 204 (North)              | Item on ground
-TM10 | Hidden Power      | Jubilife City                  | Gift from NPC           *
+TM10 | Hidden Power      | Jubilife City                  | Gift from NPC         [^1]
 TM11 | Sunny Day         | Route 212 (North)              | Item on ground
 TM12 | Taunt             | Route 211 (West)               | Item on ground
-TM13 | Ice Beam          | Route 216                      | Gift from NPC           *
+TM13 | Ice Beam          | Route 216                      | Gift from NPC         [^1]
 TM14 | Blizzard          | Lake Acuity                    | Item on ground
-TM15 | Hyper Beam        | Sunyshore City                 | Gift from NPC           *
-TM16 | Light Screen      | Eterna Galactic Building       | Item on ground          *
-TM17 | Protect           | Great Marsh                    | Gift from NPC           *
+TM15 | Hyper Beam        | Sunyshore City                 | Gift from NPC         [^1]
+TM16 | Light Screen      | Eterna Galactic Building       | Item on ground        [^1]
+TM17 | Protect           | Great Marsh                    | Gift from NPC         [^1]
 TM18 | Rain Dance        | Route 223                      | Item on ground
 TM19 | Giga Drain        | Route 209                      | Item on ground
-TM20 | Safeguard         | Route 212 (North)              | Item on ground          *
+TM20 | Safeguard         | Route 212 (North)              | Item on ground        [^1]
 TM21 | Frustration       | Galactic HQ                    | Item on ground
-TM22 | Solar Beam        | Route 210                      | Item on ground          *
+TM22 | Solar Beam        | Route 210                      | Item on ground        [^1]
 TM23 | Iron Tail         | Iron Island                    | Item on ground
 TM24 | Thunderbolt       | Valley Windworks               | Item on ground
 TM25 | Thunder           | Lake Valor                     | Item on ground
-TM26 | Earthquake        | Veilstone City Dept. Store     | Gift from Bertha        *
-TM27 | Return            | Eterna Forest                  | Gift from Cheryl        *
-TM28 | Dig               | Eterna City                    | Gift from NPC           *
-TM29 | Psychic           | Solaceon Town                  | Gift from Lucian        *
-TM30 | Shadow Ball       | Hearthome City                 | Gift from Fantina       *
+TM26 | Earthquake        | Veilstone City Dept. Store     | Gift from Bertha      [^1]
+TM27 | Return            | Eterna Forest                  | Gift from Cheryl      [^1]
+TM28 | Dig               | Eterna City                    | Gift from NPC         [^1]
+TM29 | Psychic           | Solaceon Town                  | Gift from Lucian      [^1]
+TM30 | Shadow Ball       | Hearthome City                 | Gift from Fantina     [^1]
 TM31 | Brick Break       | Oreburgh Gate                  | Item on ground
 TM32 | Double Team       | Wayward Cave                   | Item on ground
-TM33 | Reflect           | Eterna Galactic Building       | Item on ground          *
-TM34 | Shock Wave        | Valley Windworks               | Item on ground          *
+TM33 | Reflect           | Eterna Galactic Building       | Item on ground        [^1]
+TM34 | Shock Wave        | Valley Windworks               | Item on ground        [^1]
 TM35 | Flamethrower      | Fuego Ironworks                | Item on ground
-TM36 | Sludge Bomb       | Great Marsh                    | Item on ground          *
+TM36 | Sludge Bomb       | Great Marsh                    | Item on ground        [^1]
 TM37 | Sandstorm         | Route 228                      | Item on ground
 TM38 | Fire Blast        | Lake Verity                    | Item on ground
 TM39 | Rock Tomb         | Ravaged Path                   | Item on ground
-TM40 | Aerial Ace        | Floaroma Town                  | Gift from NPC           *
-TM41 | Torment           | Route 213                      | Item on ground          *
-TM42 | Facade            | Jubilife City                  | Gift from NPC           *
+TM40 | Aerial Ace        | Floaroma Town                  | Gift from NPC         [^1]
+TM41 | Torment           | Route 213                      | Item on ground        [^1]
+TM42 | Facade            | Jubilife City                  | Gift from NPC         [^1]
 TM43 | Secret Power      | Amity Square                   | Item on ground
-TM44 | Rest              | Hearthome City                 | Gift from NPC           *
+TM44 | Rest              | Hearthome City                 | Gift from NPC         [^1]
 TM45 | Attract           | Amity Square                   | Item on ground
 TM46 | Thief             | Eterna City                    | Item on ground
 TM47 | Steel Wing        | Route 209                      | Item on ground
 TM48 | Skill Swap        | Canalave City                  | Gift from NPC
 TM49 | Snatch            | Galactic Warehouse             | Item on ground
-TM50 | Overheat          | Sunyshore City                 | Gift from Flint         *
+TM50 | Overheat          | Sunyshore City                 | Gift from Flint       [^1]
 TM51 | Roost             | Route 210 (South)              | Gift from NPC
-TM52 | Focus Blast       | Route 217                      | Gift from Maylene       *
-TM53 | Energy Ball       | Valor Lakefront                | Item on ground          *
-TM54 | False Swipe       | Eterna City                    | Gift from NPC           *
-TM55 | Scald             | Hearthome City                 | Gift from NPC           *
+TM52 | Focus Blast       | Route 217                      | Gift from Maylene     [^1]
+TM53 | Energy Ball       | Valor Lakefront                | Item on ground        [^1]
+TM54 | False Swipe       | Eterna City                    | Gift from NPC         [^1]
+TM55 | Scald             | Hearthome City                 | Gift from NPC         [^1]
 TM56 | Fling             | Route 222                      | Item on ground
 TM57 | Wild Charge       | Sunyshore Gym                  | Gift from Volkner
-TM58 | Endure            | Route 203                      | Item on ground          *
-TM59 | Dragon Pulse      | Maniac Tunnel                  | Item on ground          *
+TM58 | Endure            | Route 203                      | Item on ground        [^1]
+TM59 | Dragon Pulse      | Maniac Tunnel                  | Item on ground        [^1]
 TM60 | Drain Punch       | Veilstone Gym                  | Gift from Maylene
-TM61 | Will-O-Wisp       | Lost Tower                     | Item on ground          *
+TM61 | Will-O-Wisp       | Lost Tower                     | Item on ground        [^1]
 TM62 | Bug Buzz          | Route 212 (South)              | Item on ground
 TM63 | Embargo           | Veilstone City                 | Gift from NPC
 TM64 | Explosion         | Game Corner                    | Gift from NPC
-TM65 | Shadow Claw       | Old Chateau                    | Item on ground          *
+TM65 | Shadow Claw       | Old Chateau                    | Item on ground        [^1]
 TM66 | Payback           | Route 215                      | Item on ground
 TM67 | Recycle           | Eterna City                    | Gift from NPC
-TM68 | Giga Impact       | Victory Road                   | Item on ground          *
+TM68 | Giga Impact       | Victory Road                   | Item on ground        [^1]
 TM69 | Rock Polish       | Mt. Coronet                    | Item on ground
 TM70 | Flash             | Oreburgh Gate                  | Item on ground
-TM71 | Stone Edge        | Ravaged Path                   | Item on ground          *
+TM71 | Stone Edge        | Ravaged Path                   | Item on ground        [^1]
 TM72 | Avalanche         | Snowpoint City                 | Gift from Candice
-TM73 | Thunder Wave      | Eterna Galactic Bldg           | Item on ground          *
-TM74 | Gyro Ball         | Route 206                      | Item on ground          *
-TM75 | Swords Dance      | Route 208                      | Item on ground          *
+TM73 | Thunder Wave      | Eterna Galactic Bldg           | Item on ground        [^1]
+TM74 | Gyro Ball         | Route 206                      | Item on ground        [^1]
+TM75 | Swords Dance      | Route 208                      | Item on ground        [^1]
 TM76 | Stealth Rock      | Oreburgh Gym                   | Gift from Roark
 TM77 | Psych Up          | Route 211                      | Gift from NPC
 TM78 | Captivate         | Eterna Forest Outside          | Gift from NPC
-TM79 | Dark Pulse        | Veilstone City                 | Item on ground          *
-TM80 | Rock Slide        | Eterna City                    | Gift from NPC           *
-TM81 | X-Scissor         | Route 208                      | Gift from Aaron         *
+TM79 | Dark Pulse        | Veilstone City                 | Item on ground        [^1]
+TM80 | Rock Slide        | Eterna City                    | Gift from NPC         [^1]
+TM81 | X-Scissor         | Route 208                      | Gift from Aaron       [^1]
 TM82 | Sleep Talk        | Eterna Forest Outside          | Item on ground
-TM83 | Hyper Voice       | Route 215                      | Item on ground          *
+TM83 | Hyper Voice       | Route 215                      | Item on ground        [^1]
 TM84 | Poison Jab        | Route 212 (South)              | Item on ground
-TM85 | Dazzling Gleam    | Wayward Cave                   | Gift from Mira          *
+TM85 | Dazzling Gleam    | Wayward Cave                   | Gift from Mira        [^1]
 TM86 | Grass Knot        | Eterna Gym                     | Gift from Gardenia
 TM87 | Swagger           | Pokémon Mansion                | Gift from NPC
-TM88 | Hurricane         | Route 210 (North)              | Item on ground          *
+TM88 | Hurricane         | Route 210 (North)              | Item on ground        [^1]
 TM89 | U-turn            | Canalave City                  | Item on ground
 TM90 | Substitute        | Old Chateau                    | Item on ground
 TM91 | Flash Cannon      | Canalave Gym                   | Gift from Byron
@@ -275,8 +275,8 @@ HM03 | Surf              | Celestic Town                  | Gift from NPC
 HM04 | Strength          | Iron Island                    | Gift from Riley
 HM05 | Defog             | Solaceon Ruins                 | Item on ground
 HM06 | Rock Smash        | Oreburgh Gate                  | Gift from NPC
-HM07 | Waterfall         | Pastoria Gym                   | Gift from Wake          *
-HM08 | Rock Climb        | Snowpoint City                 | Gift from Candice       *
+HM07 | Waterfall         | Pastoria Gym                   | Gift from Wake        [^1]
+HM08 | Rock Climb        | Snowpoint City                 | Gift from Candice     [^1]
 
 ## Plate Locations
 
@@ -305,44 +305,40 @@ Item               | Name         | Master Trainer Location
 
 ## Key Items
 
-A * means: The location has changed from the original Platinum.
-
-A ** means: The key item is new to Renegade Platinum.
-
-Item                | Name                  | Location                          | Obtained
----                 | ---                   | ---                               | ---
-![][azure-flute]    | Azure Flute           | Hearthome City - Foreign Building | Gift from NPC       *
+Item                | Name                  | Location                          | Obtained              | Tags
+---                 | ---                   | ---                               | ---                   | ---
+![][azure-flute]    | Azure Flute           | Hearthome City - Foreign Building | Gift from NPC         [^1]
 ![][vs-recorder]    | Vs. Recorder          | Jubilife City                     | Gift from Looker
-![][bicycle]        | Bicycle               | Twinleaf Town                     | Gift from Mom       *
-![][blue-orb]       | Blue Orb              | Oreburgh City                     | Gift from Steven    **
+![][bicycle]        | Bicycle               | Twinleaf Town                     | Gift from Mom         [^1]
+![][blue-orb]       | Blue Orb              | Oreburgh City                     | Gift from Steven      [^2]
 ![][coin-case]      | Coin Case             | Veilstone City                    | Gift from NPC
 ![][fashion-case]   | Fashion Case          | Jubilife City                     | Gift from NPC
 ![][galactic-key]   | Galactic Key          | Galactic HQ                       | Item on ground
 -                   | Gracidea Flower       | Floaroma Town                     | Gift from NPC
 ![][good-rod]       | Good Rod              | Route 209                         | Gift from NPC
--                   | GS Ball               | Celestic Town                     | Gift from event     **
-![][jade-orb]       | Jade Orb              | Oreburgh City                     | Gift from Steven    **
+-                   | GS Ball               | Celestic Town                     | Gift from event       [^2]
+![][jade-orb]       | Jade Orb              | Oreburgh City                     | Gift from Steven      [^2]
 ![][journal]        | Journal               | Twinleaf Town                     | Gift from Mom
 ![][lunar-wing]     | Lunar Wing            | Fullmoon Island                   | Gift from event
-![][member-card]    | Member Card           | Route 217                         | Gift from NPC       *
--                   | Mysterious Invitation | Survival Area - Battleground      | Gift from NPC       **
-![][oaks-letter]    | Oak's Letter          | Eterna City                       | Gift from Oak       *
+![][member-card]    | Member Card           | Route 217                         | Gift from NPC         [^1]
+-                   | Mysterious Invitation | Survival Area - Battleground      | Gift from NPC         [^2]
+![][oaks-letter]    | Oak's Letter          | Eterna City                       | Gift from Oak         [^1]
 ![][old-charm]      | Old Charm             | Route 210                         | Gift from Cynthia
 ![][old-rod]        | Old Rod               | Route 218                         | Gift from NPC
 ![][pal-pad]        | Pal Pad               | Pokémon Center Basement           | Gift from NPC
 ![][parcel]         | Parcel                | Twinleaf Town                     | Gift from NPC
 ![][poffin-case]    | Poffin Case           | Hearthome City                    | Gift from NPC
-![][poke-radar]     | Poké Radar            | Sandgem Town                      | Gift from Rowan     *
-![][rainbow-wing]   | Rainbow Wing          | Eterna City                       | Gift from Oak       **
-![][red-orb]        | Red Orb               | Oreburgh City                     | Gift from Steven    **
+![][poke-radar]     | Poké Radar            | Sandgem Town                      | Gift from Rowan       [^1]
+![][rainbow-wing]   | Rainbow Wing          | Eterna City                       | Gift from Oak         [^2]
+![][red-orb]        | Red Orb               | Oreburgh City                     | Gift from Steven      [^2]
 ![][seal-case]      | Seal Case             | Solaceon Town                     | Gift from NPC
 ![][secret-key]     | Secret Key            | Galactic Eterna Building          | Item on ground
 ![][secret-potion]  | Secret Potion         | Valor Lakefront                   | Gift from Cynthia
-![][silver-wing]    | Silver Wing           | Eterna City                       | Gift from Oak       **
+![][silver-wing]    | Silver Wing           | Eterna City                       | Gift from Oak         [^2]
 ![][sprayduck]      | Sprayduck             | Floaroma Town                     | Gift from NPC
 ![][suite-key]      | Suite Key             | Route 213                         | Item on ground (hidden)
-![][super-rod]      | Super Rod             | Snowpoint City                    | Gift from NPC       *
-![][tea]            | Tea                   | Pal Park                          | Gift from Darach    **
+![][super-rod]      | Super Rod             | Snowpoint City                    | Gift from NPC         [^1]
+![][tea]            | Tea                   | Pal Park                          | Gift from Darach      [^2]
 ![][town-map]       | Town Map              | Jubilife City                     | Gift from rival
 ![][vs-seeker]      | VS Seeker             | Route 207                         | Gift from Dawn/Lucas
 ![][works-key]      | Works Key             | Floaroma Meadow                   | Gift from NPC
@@ -351,10 +347,6 @@ Item                | Name                  | Location                          
 
 The following items (some unobtainable) have been replaced with items from other games.
 Items under the "Old Item" column are now unavailable.
-
-A * means: Thank you to Serebii.net for the item sprite.
-
-A ** means: A completely new item that is used in the Mewtwo event.
 
 Old Item      | New Item
 ---------     | ---------
@@ -366,8 +358,12 @@ Loot Sack     | Prism Scale
 Point Card    | Silver Wing
 Rule Book     | Rainbow Wing
 S.S. Ticket   | Tea
-Seal Bag      | GS Ball *
-Storage Key   | Mysterious Invitation **
+Seal Bag      | GS Ball               [^1]
+Storage Key   | Mysterious Invitation [^2]
+
+
+[^1]: The location has changed from the original Platinum
+[^2]: This item is new to Renegade Platinum
 
 [adamant-orb]: ./img/items/adamant-orb.png
 [amulet-coin]: ./img/items/amulet-coin.png

@@ -714,6 +714,8 @@ markdown_extensions:
         permalink: 
     - admonition
     - def_list
+    - abbr
+    - footnotes
 
 copyright: Maintained by Frederic Dlugi.
 

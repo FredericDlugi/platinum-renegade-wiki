@@ -1,8 +1,12 @@
 # Floaroma Town
 
-Trainer        | 1                                   | 2                                   | 3                                   
----            | ---                                 | ---                                 | ---                                 
+Trainer        | 1                                   | 2                                   | 3
+---            | ---                                 | ---                                 | ---
 Reporter Jenny | ![][152]<br> [Chikorita]<br> Lv. 15 | ![][155]<br> [Cyndaquil]<br> Lv. 15 | ![][158]<br> [Totodile]<br> Lv. 15
+
+Lass Sal                           | Item          | Nature | Ability | Moves
+---                                | ---           |    --- | ---     | ---
+![][357]<br> [Tropius]<br> Lv. 85  | Meadow Plate? |      ? |       ? | Hurricane, Roost, ?, ?
 
 [Chikorita]: ../../pokemon_changes/152/
 [Cyndaquil]: ../../pokemon_changes/155/

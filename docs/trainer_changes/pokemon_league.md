@@ -287,6 +287,12 @@ Champion Cynthia<br>![][cynthia] | ![][442]<br> [Spiritomb]<br> Lv. 88 | ![][468
 ![][350]<br> [Milotic]<br> Lv. 88     | ![][flame-orb]<br> Flame Orb       | ? | Marvel Scale | Scald, Ice Beam, Attract, Recover
 ![][384]<br> [Rayquaza]<br> Lv. 89    | ![][focus-sash]<br> Focus Sash     | ? | Air Lock     | Outrage, Earthquake, Overheat, Dragon Dance
 
+
+Bird Keeper Thea                     | Item       | Nature | Ability | Moves
+---                                  | ---        |    --- | ---     | ---
+![][149]<br> [Dragonite]<br> Lv. 85  | Sky Plate? |      ? |       ? | Ice Punch, ?, ?, ?
+
+
 [Charizard]: ../../pokemon_changes/006/
 [Clefable]: ../../pokemon_changes/036/
 [Ninetales]: ../../pokemon_changes/038/

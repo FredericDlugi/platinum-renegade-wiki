@@ -6,6 +6,12 @@ Dragon Tamer Nils   | ![][148]<br> [Dragonair]<br> Lv. 35 | ![][372]<br> [Shelgo
 Team Galactic Grunt | ![][110]<br> [Weezing]<br> Lv. 35   | ![][042]<br> [Golbat]<br> Lv. 35    | ![][049]<br> [Venomoth]<br> Lv. 35
 Team Galactic Grunt | ![][435]<br> [Skuntank]<br> Lv. 35  | ![][269]<br> [Dustox]<br> Lv. 35    | ![][413]<br> [Wormadam]<br> Lv. 35
 
+
+Black Belt Randy                   | Item        | Nature | Ability      | Moves
+---                                | ---         |    --- | ---          | ---
+![][475]<br> [Gallade]<br> Lv. 85  | Fist-Plate? | ?      | ?            | Close Combat, Zen Headbut, ?, ?
+
+
 [Golbat]: ../../pokemon_changes/042/
 [Venomoth]: ../../pokemon_changes/049/
 [Weezing]: ../../pokemon_changes/110/

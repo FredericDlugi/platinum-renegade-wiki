@@ -1,10 +1,15 @@
 # Oreburgh Gate
 
-Trainer         | 1                                   | 2                                   | 3                                   
----             | ---                                 | ---                                 | ---                                 
-Camper Curtis   | ![][273]<br> [Seedot]<br> Lv. 10    | ![][050]<br> [Diglett]<br> Lv. 10   
-Picnicker Diana | ![][293]<br> [Whismur]<br> Lv. 10   | ![][194]<br> [Wooper]<br> Lv. 10    
+Trainer         | 1                                   | 2                                   | 3
+---             | ---                                 | ---                                 | ---
+Camper Curtis   | ![][273]<br> [Seedot]<br> Lv. 10    | ![][050]<br> [Diglett]<br> Lv. 10
+Picnicker Diana | ![][293]<br> [Whismur]<br> Lv. 10   | ![][194]<br> [Wooper]<br> Lv. 10
 Veteran Grant   | ![][448]<br> [Lucario]<br> Lv. 45   | ![][076]<br> [Golem]<br> Lv. 45     | ![][398]<br> [Staraptor]<br> Lv. 45
+
+Hiker Dexter                        | Item          | Nature | Ability      | Moves
+---                                 | ---           |    --- | ---          | ---
+![][195]<br> [Quagsire]<br> Lv. 85  | Ground-Plate? |      ? | Water Absorb | Earthquake, Aqua Tail, Ice Punch, ?
+
 
 [Diglett]: ../../pokemon_changes/050/
 [Golem]: ../../pokemon_changes/076/

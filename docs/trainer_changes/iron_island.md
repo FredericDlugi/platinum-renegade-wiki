@@ -27,6 +27,10 @@ PKMN Trainer Riley<br>![][riley]    | Item                               | Natur
 ![][289]<br> [Slaking]<br> Lv. 49   | ![][sitrus-berry]<br> Sitrus Berry | ? | Truant       | Body Slam, Hammer Arm, Play Rough, Slack Off
 ![][448]<br> [Lucario]<br> Lv. 50   | ![][life-orb]<br> Life Orb         | ? | Adaptability | High Jump Kick, Meteor Mash, Blaze Kick, Bullet Punch
 
+Scientist Julian                   | Item        | Nature | Ability | Moves
+---                                | ---         |    --- | ---     | ---
+![][448]<br> [Lucario]<br> Lv. 85  | Iron Plate? |      ? |       ? | Close Combat, ?, ?, ?
+
 [Charmeleon]: ../../pokemon_changes/005/
 [Fearow]: ../../pokemon_changes/022/
 [Raichu]: ../../pokemon_changes/026/
