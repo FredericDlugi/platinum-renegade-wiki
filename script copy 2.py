@@ -13,10 +13,10 @@ def get_type(pokemon_id):
 
     if len(pokeapi["types"]) == 1:
         type_ = [pokeapi["types"][0]["type"]["name"]]
-        return type_, get_effectiveness(type_[0])
+        return type_
     else:
         type_ = [pokeapi["types"][0]["type"]["name"], pokeapi["types"][1]["type"]["name"]]
-        return type_, get_effectiveness(type_[0], type_[1])
+        return type_
 
 
 def get_effectiveness(type_a, type_b = None):
@@ -99,7 +99,11 @@ def get_effectiveness(type_a, type_b = None):
 
     return eff
 
-def get_type_lines(t, eff):
+def get_type_lines(t):
+    if len(t) == 2:
+        eff = get_effectiveness(t[0], t[1])
+    else:
+        eff = get_effectiveness(t[0])
 
     type_lines = []
     type_lines.append("## Type\n")
@@ -127,15 +131,20 @@ def get_type_lines(t, eff):
 
     return type_lines
 
-for f in glob.glob("docs/pokemon_changes/*.md"):
-    file_lines = open(f, "r", encoding="utf-8").readlines()
+if __name__ == "__main__":
 
-    poke_id = file_lines[0].replace("# ", "").split("-")[0].strip()
-
-    t, eff = get_type(poke_id)
-
-    type_lines = get_type_lines(t, eff)
+    type_lines = get_type_lines(["psychic", "fairy"])
     print("".join(type_lines))
+    exit()
+    for f in glob.glob("docs/pokemon_changes/*.md"):
+        file_lines = open(f, "r", encoding="utf-8").readlines()
+
+        poke_id = file_lines[0].replace("# ", "").split("-")[0].strip()
+
+        t = get_type(poke_id)
+
+        type_lines = get_type_lines(t)
+        print("".join(type_lines))
 
 
-    #open(f, "w", encoding="utf-8").writelines(file_lines)
+        #open(f, "w", encoding="utf-8").writelines(file_lines)
