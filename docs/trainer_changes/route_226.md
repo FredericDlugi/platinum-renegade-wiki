@@ -22,6 +22,12 @@ Ace Trainer Wyver<br>![][ace_m_2]   | Item                               | Natur
 ![][445]<br> [Garchomp]<br> Lv. 76  | ![][choice-scarf]<br> Choice Scarf | ? | Rough Skin        | Outrage, Earthquake, Poison Jab, Fire Fang
 ![][373]<br> [Salamence]<br> Lv. 77 | ![][focus-sash]<br> Focus Sash     | ? | Intimidate        | Outrage, Aerial Ace, Dragon Dance, Earthquake
 
+## Master Trainer
+
+Beauty Tessa<br>![][ace_m]         | Item | Nature | Ability | Moves
+---                                | ---  |    --- | ---     | ---
+![][219]<br> [Magcargo]<br> Lv. 85 | None |      ? |       ? | Power Gem, Earth Power, Iron Defence, -
+
 [Fearow]: ../../pokemon_changes/022/
 [Dewgong]: ../../pokemon_changes/087/
 [Hitmonlee]: ../../pokemon_changes/106/
@@ -29,6 +35,7 @@ Ace Trainer Wyver<br>![][ace_m_2]   | Item                               | Natur
 [Dragonite]: ../../pokemon_changes/149/
 [Xatu]: ../../pokemon_changes/178/
 [Azumarill]: ../../pokemon_changes/184/
+[Magcargo]: ../../pokemon_changes/219/
 [Kingdra]: ../../pokemon_changes/230/
 [Tyrogue]: ../../pokemon_changes/236/
 [Hitmontop]: ../../pokemon_changes/237/
@@ -53,6 +60,7 @@ Ace Trainer Wyver<br>![][ace_m_2]   | Item                               | Natur
 [149]: ../img/pokemon/149.png
 [178]: ../img/pokemon/178.png
 [184]: ../img/pokemon/184.png
+[219]: ../img/pokemon/219.png
 [230]: ../img/pokemon/230.png
 [236]: ../img/pokemon/236.png
 [237]: ../img/pokemon/237.png
@@ -65,3 +73,4 @@ Ace Trainer Wyver<br>![][ace_m_2]   | Item                               | Natur
 [373]: ../img/pokemon/373.png
 [445]: ../img/pokemon/445.png
 [ace_m_2]: ../img/trainer/ace_m_2.png
+[ace_m]: ../img/trainer/ace_m.png

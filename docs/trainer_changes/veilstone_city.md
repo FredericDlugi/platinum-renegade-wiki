@@ -7,9 +7,11 @@ Team Galactic Grunt | ![][110]<br> [Weezing]<br> Lv. 35   | ![][042]<br> [Golbat
 Team Galactic Grunt | ![][435]<br> [Skuntank]<br> Lv. 35  | ![][269]<br> [Dustox]<br> Lv. 35    | ![][413]<br> [Wormadam]<br> Lv. 35
 
 
-Black Belt Randy                   | Item        | Nature | Ability      | Moves
----                                | ---         |    --- | ---          | ---
-![][475]<br> [Gallade]<br> Lv. 85  | Fist-Plate? | ?      | ?            | Close Combat, Zen Headbut, ?, ?
+## Master Trainer
+
+Black Belt Randy<br>![][blackbelt] | Item | Nature | Ability | Moves
+---                                | ---  |    --- | ---     | ---
+![][475]<br> [Gallade]<br> Lv. 85  | None | ?      | ?       | Zen Headbut, Close Combat, Thunder Wave, Confuse Ray
 
 [Golbat]: ../../pokemon_changes/042/
 [Venomoth]: ../../pokemon_changes/049/

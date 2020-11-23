@@ -19,7 +19,7 @@ PKMN Trainer Lucas<br>![][lucas] | ![][221]<br> [Piloswine]<br> Lv. 29  | ![][21
 PKMN Trainer Lucas<br>![][lucas] | ![][221]<br> [Piloswine]<br> Lv. 29  | ![][210]<br> [Granbull]<br> Lv. 29   | ![][463]<br> [Lickilicky]<br> Lv. 29 | ![][391]<br> [Monferno]<br> Lv. 30
 PKMN Trainer Lucas<br>![][lucas] | ![][221]<br> [Piloswine]<br> Lv. 29  | ![][210]<br> [Granbull]<br> Lv. 29   | ![][463]<br> [Lickilicky]<br> Lv. 29 | ![][394]<br> [Prinplup]<br> Lv. 30
 
-#### Rematches
+## Rematches
 
 Trainer               | 1                                   | 2                                   | 3
 ---                   | ---                                 | ---                                 | ---
@@ -45,6 +45,13 @@ PKMN Trainer Lucas<br>![][lucas]     | Item                               | Natu
 ![][391]<br> [Monferno]<br> Lv. 30   | ![][sitrus-berry]<br> Sitrus Berry | ? | Iron Fist  | Flamethrower, Fake Out, Mach Punch, Grass Knot  (!)
 ![][394]<br> [Prinplup]<br> Lv. 30   | ![][sitrus-berry]<br> Sitrus Berry | ? | Torrent    | Bubble Beam, Icy Wind, Brick Break, Shadow Claw (!)
 
+
+## Master Trainer
+
+Hiker ---<br>![][hiker]             | Item | Nature | Ability | Moves
+---                                 | ---  |    --- | ---     | ---
+![][464]<br> [Rhyperior]<br> Lv. 85 | None |      ? |       ? | Earthquake, Stone Edge, Megahorn, Hammer Arm
+
 [Charmander]: ../../pokemon_changes/004/
 [Sandslash]: ../../pokemon_changes/028/
 [Clefable]: ../../pokemon_changes/036/
@@ -69,6 +76,7 @@ PKMN Trainer Lucas<br>![][lucas]     | Item                               | Natu
 [Prinplup]: ../../pokemon_changes/394/
 [Lopunny]: ../../pokemon_changes/428/
 [Lickilicky]: ../../pokemon_changes/463/
+[Rhyperior]: ../../pokemon_changes/464/
 [focus-sash]: ../img/items/focus-sash.png
 [leftovers]: ../img/items/leftovers.png
 [muscle-band]: ../img/items/muscle-band.png
@@ -97,5 +105,7 @@ PKMN Trainer Lucas<br>![][lucas]     | Item                               | Natu
 [394]: ../img/pokemon/394.png
 [428]: ../img/pokemon/428.png
 [463]: ../img/pokemon/463.png
+[464]: ../img/pokemon/464.png
 [lucas]: ../img/trainer/lucas.png
 [dawn]: ../img/trainer/dawn.png
+[hiker]: ../img/trainer/hiker.png

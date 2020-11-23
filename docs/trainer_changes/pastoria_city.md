@@ -22,6 +22,13 @@ PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 41 | ![][214]<br> [Heracro
 ![][392]<br> [Infernape]<br> Lv. 42 | ![][sitrus-berry]<br> Sitrus Berry | ? | Iron Fist  | Flamethrower, Close Combat, Fake Out, Thunder Punch (!)
 ![][395]<br> [Empoleon]<br> Lv. 42  | ![][sitrus-berry]<br> Sitrus Berry | ? | Torrent    | Scald, Flash Cannon, Agility, Swagger               (!)
 
+## Master Trainer
+
+Scientist ---<br>![][scientist]   | Item | Nature | Ability  | Moves
+---                               | ---  |    --- | ---      | ---
+![][034]<br>[Nidoking]<br>Lv. 85  | None |      ? | ?        | Earthquake, Fire Blast, Thunderbolt, Amnesia
+
+[Nidoking]: ../../pokemon_changes/034/
 [Arcanine]: ../../pokemon_changes/059/
 [Snorlax]: ../../pokemon_changes/143/
 [Azumarill]: ../../pokemon_changes/184/
@@ -38,6 +45,7 @@ PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 41 | ![][214]<br> [Heracro
 [life-orb]: ../img/items/life-orb.png
 [muscle-band]: ../img/items/muscle-band.png
 [sitrus-berry]: ../img/items/sitrus-berry.png
+[034]: ../img/pokemon/034.png
 [059]: ../img/pokemon/059.png
 [143]: ../img/pokemon/143.png
 [184]: ../img/pokemon/184.png
@@ -48,3 +56,4 @@ PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 41 | ![][214]<br> [Heracro
 [395]: ../img/pokemon/395.png
 [398]: ../img/pokemon/398.png
 [barry]: ../img/trainer/barry.png
+[scientist]: ../img/trainer/scientist.png

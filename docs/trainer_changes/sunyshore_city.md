@@ -17,10 +17,18 @@ Arcade Star Dahlia<br>![][dahlia]  | Item                               | Nature
 ![][272]<br> [Ludicolo]<br> Lv. 63 | ![][life-orb]<br> Life Orb         | ? | Swift Swim    | Hydro Pump, Giga Drain, Ice Beam, Fake Out
 ![][145]<br> [Zapdos]<br> Lv. 63   | ![][sitrus-berry]<br> Sitrus Berry | ? | Pressure      | Thunderbolt, Heat Wave, Drill Peck, Light Screen
 
+
+## Master Trainer
+
+Ace Trainer ---<br>![][guitarist]    | Item | Nature | Ability | Moves
+---                                  | ---  |    --- | ---     | ---
+![][466]<br> [Electivire]<br> Lv. 85 | None |      ? |       ? | Earthquake, Close Combat, Ice Punch
+
 [Zapdos]: ../../pokemon_changes/145/
 [Blaziken]: ../../pokemon_changes/257/
 [Ludicolo]: ../../pokemon_changes/272/
 [Medicham]: ../../pokemon_changes/308/
+[Electivire]: ../../pokemon_changes/466/
 [Togekiss]: ../../pokemon_changes/468/
 [Dusknoir]: ../../pokemon_changes/477/
 [choice-scarf]: ../img/items/choice-scarf.png
@@ -33,6 +41,8 @@ Arcade Star Dahlia<br>![][dahlia]  | Item                               | Nature
 [257]: ../img/pokemon/257.png
 [272]: ../img/pokemon/272.png
 [308]: ../img/pokemon/308.png
+[466]: ../img/pokemon/466.png
 [468]: ../img/pokemon/468.png
 [477]: ../img/pokemon/477.png
 [dahlia]: ../img/trainer/dahlia.png
+[guitarist]: ../img/trainer/guitarist.png

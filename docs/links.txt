@@ -1727,6 +1727,8 @@
 [gentleman]: ./img/trainer/gentleman.png
 [ace_f_2]: ./img/trainer/ace_f_2.png
 [ace_m_2]: ./img/trainer/ace_m_2.png
+[ace_f]: ./img/trainer/ace_f.png
+[ace_m]: ./img/trainer/ace_m.png
 [buck]: ./img/trainer/buck.png
 [candice]: ./img/trainer/candice.png
 [jupiter]: ./img/trainer/jupiter.png
@@ -1735,6 +1737,15 @@
 [marley]: ./img/trainer/marley.png
 [mira]: ./img/trainer/mira.png
 [gardenia]: ./img/trainer/gardenia.png
+[hiker]: ./img/trainer/hiker.png
+[lass]: ./img/trainer/lass.png
+[scientist]: ./img/trainer/scientist.png
+[bug_catcher]: ./img/trainer/bug_catcher.png
+[bird_keeper]: ./img/trainer/bird_keeper.png
+[guitarist]: ./img/trainer/guitarist.png
+[psychic_m]: ./img/trainer/psychic_m.png
+[psychic_f]: ./img/trainer/psychic_f.png
+[beauty]: ./img/trainer/beauty.png
 [normal]: ./img/types/normal.png
 [fire]: ./img/types/fire.png
 [fighting]: ./img/types/fighting.png

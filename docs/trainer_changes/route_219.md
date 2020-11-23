@@ -9,9 +9,11 @@ Trainer       | 1                                   | 2                         
 Tuber Mariel  | ![][184]<br> [Azumarill]<br> Lv. 43 | ![][134]<br> [Vaporeon]<br> Lv. 43
 Tuber Trenton | ![][061]<br> [Poliwhirl]<br> Lv. 42 | ![][423]<br> [Gastrodon]<br> Lv. 42 | ![][400]<br> [Bibarel]<br> Lv. 42
 
-Beauty Tessa                       | Item          | Nature | Ability | Moves
----                                | ---           |    --- | ---     | ---
-![][272]<br> [Ludicolo]<br> Lv. 85 | Splash Plate? |      ? |       ? | Giga Drain, ?, ?, ?
+## Master Trainer
+
+Beauty Tessa<br>![][beauty]        | Item | Nature | Ability | Moves
+---                                | ---  |    --- | ---     | ---
+![][272]<br> [Ludicolo]<br> Lv. 85 | None |      ? |       ? | Giga Drain, Leech Seed, Protect, Thunder Punch
 
 [Poliwhirl]: ../../pokemon_changes/061/
 [Vaporeon]: ../../pokemon_changes/134/
@@ -25,3 +27,4 @@ Beauty Tessa                       | Item          | Nature | Ability | Moves
 [272]: ../img/pokemon/272.png
 [400]: ../img/pokemon/400.png
 [423]: ../img/pokemon/423.png
+[beauty]: ../img/trainer/beauty.png

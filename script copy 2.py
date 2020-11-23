@@ -133,7 +133,7 @@ def get_type_lines(t):
 
 if __name__ == "__main__":
 
-    type_lines = get_type_lines(["psychic", "fairy"])
+    type_lines = get_type_lines(["fairy", "flying"])
     print("".join(type_lines))
     exit()
     for f in glob.glob("docs/pokemon_changes/*.md"):

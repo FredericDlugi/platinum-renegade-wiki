@@ -4,9 +4,11 @@ Trainer        | 1                                   | 2                        
 ---            | ---                                 | ---                                 | ---
 Reporter Jenny | ![][152]<br> [Chikorita]<br> Lv. 15 | ![][155]<br> [Cyndaquil]<br> Lv. 15 | ![][158]<br> [Totodile]<br> Lv. 15
 
-Lass Sal                           | Item          | Nature | Ability | Moves
----                                | ---           |    --- | ---     | ---
-![][357]<br> [Tropius]<br> Lv. 85  | Meadow Plate? |      ? |       ? | Hurricane, Roost, ?, ?
+## Master Trainer
+
+Lass Sal<br> ![][lass]             | Item | Nature | Ability | Moves
+---                                | ---  |    --- | ---     | ---
+![][357]<br> [Tropius]<br> Lv. 85  | None |      ? |       ? | Hurricane, Substitute, Roost, Air Slash
 
 [Chikorita]: ../../pokemon_changes/152/
 [Cyndaquil]: ../../pokemon_changes/155/
@@ -16,3 +18,4 @@ Lass Sal                           | Item          | Nature | Ability | Moves
 [155]: ../img/pokemon/155.png
 [158]: ../img/pokemon/158.png
 [357]: ../img/pokemon/357.png
+[lass]: ../img/trainer/lass.png

@@ -13,8 +13,15 @@ Pokéfan Rebekah         | ![][035]<br> [Clefairy]<br> Lv. 30   | ![][320]<br> [
 Young Couple Mike & Nat | ![][198]<br> [Murkrow]<br> Lv. 33    | ![][200]<br> [Misdreavus]<br> Lv. 33
 Belle & Pa Beth & Bob   | ![][077]<br> [Ponyta]<br> Lv. 33     | ![][180]<br> [Flaaffy]<br> Lv. 33
 
+## Master Trainer
+
+Psychic ---------<br>![][psychic_m] | Item | Nature | Ability | Moves
+---                                 | ---  |    --- | ---     | ---
+![][094]<br> [Gengar]<br> Lv. 85    | None |      ? |       ? | Shadow Ball, Hypnosis, Luster Purge, -
+
 [Clefairy]: ../../pokemon_changes/035/
 [Ponyta]: ../../pokemon_changes/077/
+[Gengar]: ../../pokemon_changes/094/
 [Cleffa]: ../../pokemon_changes/173/
 [Flaaffy]: ../../pokemon_changes/180/
 [Murkrow]: ../../pokemon_changes/198/
@@ -30,6 +37,7 @@ Belle & Pa Beth & Bob   | ![][077]<br> [Ponyta]<br> Lv. 33     | ![][180]<br> [F
 [Bonsly]: ../../pokemon_changes/438/
 [035]: ../img/pokemon/035.png
 [077]: ../img/pokemon/077.png
+[094]: ../img/pokemon/094.png
 [173]: ../img/pokemon/173.png
 [180]: ../img/pokemon/180.png
 [198]: ../img/pokemon/198.png
@@ -43,3 +51,4 @@ Belle & Pa Beth & Bob   | ![][077]<br> [Ponyta]<br> Lv. 33     | ![][180]<br> [F
 [417]: ../img/pokemon/417.png
 [422]: ../img/pokemon/422.png
 [438]: ../img/pokemon/438.png
+[psychic_m]: ../img/trainer/psychic_m.png

@@ -18,9 +18,11 @@ Galactic Boss Cyrus<br>![][cyrus]   | Item                               | Natur
 
 
 
-Ace Trainer Grayson<br>![][cyrus]   | Item                               | Nature | Ability  | Moves
----                                 | ---                                |    --- | ---      | ---
-![][445]<br> [Garchomp]<br> Lv. 85  | ![][draco-plate]<br> Draco Plate   |      ? | ?        | Outrage, ?, ?, ?
+## Master Trainer
+
+Ace Trainer Grayson<br>![][ace_m]   | Item | Nature | Ability  | Moves
+---                                 | ---  |    --- | ---      | ---
+![][445]<br> [Garchomp]<br> Lv. 85  | None |      ? | ?        | Outrage, Earthquake, -, -
 
 [Beedrill]: ../../pokemon_changes/015/
 [Golbat]: ../../pokemon_changes/042/
@@ -30,7 +32,6 @@ Ace Trainer Grayson<br>![][cyrus]   | Item                               | Natur
 [Garchomp]: ../../pokemon_changes/445/
 [Weavile]: ../../pokemon_changes/461/
 [Magnezone]: ../../pokemon_changes/462/
-[draco-plate]: ../img/items/draco-plate.png
 [expert-belt]: ../img/items/expert-belt.png
 [life-orb]: ../img/items/life-orb.png
 [scope-lens]: ../img/items/scope-lens.png
@@ -44,3 +45,4 @@ Ace Trainer Grayson<br>![][cyrus]   | Item                               | Natur
 [461]: ../img/pokemon/461.png
 [462]: ../img/pokemon/462.png
 [cyrus]: ../img/trainer/cyrus.png
+[ace_m]: ../img/trainer/ace_m.png
