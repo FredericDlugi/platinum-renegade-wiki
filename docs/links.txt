@@ -1737,7 +1737,7 @@
 [gardenia]: ./img/trainer/gardenia.png
 [normal]: ./img/types/normal.png
 [fire]: ./img/types/fire.png
-[fight]: ./img/types/fight.png
+[fighting]: ./img/types/fighting.png
 [water]: ./img/types/water.png
 [flying]: ./img/types/flying.png
 [grass]: ./img/types/grass.png

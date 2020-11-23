@@ -14,7 +14,7 @@ Pokémon                   | Old Type                  | New Type               
 ![][006]<br> [Charizard]  | ![][fire]  ![][flying]    | ![][fire]  ![][dragon]     | Inherited from Mega form; draconic appearance.
 ![][038]<br> [Ninetales]  | ![][fire]                 | ![][fire]  ![][fairy]      | Inherited from Alola form; generally quite 'mystical' in appearance.
 ![][055]<br> [Golduck]    | ![][water]                | ![][water]  ![][psychic]   | Canonically uses psychic-type moves; commonly mistaken as a psychic type.
-![][083]<br> [Farfetch'd] | ![][normal]  ![][flying]  | ![][fight]  ![][flying]    | Able to attack using leek as a weapon; gives it a niche over normal/flying Pokémon.
+![][083]<br> [Farfetch'd] | ![][normal]  ![][flying]  | ![][fighting]  ![][flying] | Able to attack using leek as a weapon; gives it a niche over normal/flying Pokémon.
 ![][154]<br> [Meganium]   | ![][grass]                | ![][grass]  ![][fairy]     | Heavy on the flower aesthetic; heavily voted for by community.
 ![][160]<br> [Feraligatr] | ![][water]                | ![][water]  ![][dark]      | Looks intimidating; Pokédex claims it to be savage; voted for by the community.
 ![][164]<br> [Noctowl]    | ![][normal]  ![][flying]  | ![][psychic]  ![][flying]  | Canonically uses psychic-type moves; commonly thought that it should be a psychic type.
@@ -34,9 +34,9 @@ Pokémon                   | Old Type                  | New Type               
 ![][362]<br> [Glalie]     | ![][ice]                  | ![][ice]  ![][rock]        | Pokédex entries state Glalie has a body made of rock with ice on top; unique type combo.
 ![][370]<br> [Luvdisc]    | ![][water]                | ![][water]  ![][fairy]     | Heart and love aesthetic fits with fairy-type; makes it just a little more noticeable.
 ![][405]<br> [Luxray]     | ![][electric]             | ![][electric]  ![][dark]   | Intimidating look and general dark coloured aesthetic fit with dark-type; unique type combo.
-![][428]<br> [Lopunny]    | ![][normal]               | ![][normal]  ![][fight]    | Inherited from Mega form; has a humanoid appearance and learns lots of fighting-type moves naturally.
+![][428]<br> [Lopunny]    | ![][normal]               | ![][normal]  ![][fighting] | Inherited from Mega form; has a humanoid appearance and learns lots of fighting-type moves naturally.
 ![][429]<br> [Mismagius]  | ![][ghost]                | ![][ghost]  ![][fairy]     | Inspired by witches and mages from fairy tales; unique type combo; gives it a specific niche.
-![][466]<br> [Electivire] | ![][electric]             | ![][electric]  ![][fight]  | Stats are physically focused; learns lots of fighting moves naturally; Pokédex states it uses fists.
+![][466]<br> [Electivire] | ![][electric]             | ![][electric] ![][fighting]| Stats are physically focused; learns lots of fighting moves naturally; Pokédex states it uses fists.
 ![][480]<br> [Uxie]       | ![][psychic]              | ![][psychic]  ![][fairy]   | Likely inspired by a pixie, a mythlogical creature.
 ![][481]<br> [Mesprit]    | ![][psychic]              | ![][psychic]  ![][fairy]   | Likely inspired by a sprite, a mythological creature.
 ![][482]<br> [Azelf]      | ![][psychic]              | ![][psychic]  ![][fairy]   | Likely inspired by a pixie (possibly a gnome..?), a mythlogical creature.
@@ -101,7 +101,7 @@ Pokémon                   | Old Type                  | New Type               
 [482]: ./img/pokemon/482.png
 [normal]: ./img/types/normal.png
 [fire]: ./img/types/fire.png
-[fight]: ./img/types/fight.png
+[fighting]: ./img/types/fighting.png
 [water]: ./img/types/water.png
 [flying]: ./img/types/flying.png
 [grass]: ./img/types/grass.png
