@@ -133,18 +133,30 @@ def get_type_lines(t):
 
 if __name__ == "__main__":
 
-    type_lines = get_type_lines(["fairy", "flying"])
-    print("".join(type_lines))
-    exit()
     for f in glob.glob("docs/pokemon_changes/*.md"):
         file_lines = open(f, "r", encoding="utf-8").readlines()
 
-        poke_id = file_lines[0].replace("# ", "").split("-")[0].strip()
+        skip = False
+        for line in file_lines:
+            if line.startswith("## Type"):
+                skip = True
+                break
+        if not skip:
 
-        t = get_type(poke_id)
+            poke_id = file_lines[0].replace("# ", "").split("-")[0].strip()
 
-        type_lines = get_type_lines(t)
-        print("".join(type_lines))
+            t = get_type(poke_id)
 
+            type_lines = get_type_lines(t)
 
-        #open(f, "w", encoding="utf-8").writelines(file_lines)
+            insert_line = 0
+            for i in range(len(file_lines)):
+                if file_lines[i].startswith("## "):
+                    insert_line = i
+                    break
+            output = file_lines[:insert_line]
+            output.extend(type_lines)
+            output.extend(file_lines[insert_line:])
+
+            print(poke_id, t)
+            open(f, "w", encoding="utf-8").writelines(output)
