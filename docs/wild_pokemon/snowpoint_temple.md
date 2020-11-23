@@ -8,8 +8,7 @@ Area         | Pokémon                         | &nbsp;                        
 🌞<br>Day     | ![][042]<br> [Golbat]<br> 25%  | ![][075]<br> [Graveler]<br> 20%| ![][215]<br> [Sneasel]<br> 20% | ![][208]<br> [Steelix]<br> 10% | ![][124]<br> [Jynx]<br> 10%    | ![][362]<br> [Glalie]<br> 5%   
 &nbsp;       | ![][478]<br> [Froslass]<br> 5% | ![][461]<br> [Weavile]<br> 5%  
 🌙<br>Night   | ![][042]<br> [Golbat]<br> 25%  | ![][075]<br> [Graveler]<br> 20%| ![][215]<br> [Sneasel]<br> 20% | ![][208]<br> [Steelix]<br> 10% | ![][124]<br> [Jynx]<br> 10%    | ![][362]<br> [Glalie]<br> 5%   
-&nbsp;       | ![][478]<br> [Froslass]<br> 5% | ![][461]<br> [Weavile]<br> 5%  
-
+&nbsp;       | ![][478]<br> [Froslass]<br> 5% | ![][461]<br> [Weavile]<br> 5%
 
 [Golbat]: ../../pokemon_changes/042/
 [Graveler]: ../../pokemon_changes/075/

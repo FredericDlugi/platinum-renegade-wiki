@@ -9,4 +9,3 @@
 - Please note that the shiny rate for Pokémon is 1/512 unless you chose to use the normal rate patch.
 - Some Pokémon are only found when using the Poké Radar (these are listed as Poké Radar). These Pokémon may show up when you enter the patches with the yellow sparkles (NOT the shiny sparkles, that's something else!)
 
-

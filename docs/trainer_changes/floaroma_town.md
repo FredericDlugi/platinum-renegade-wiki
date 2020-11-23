@@ -11,6 +11,8 @@ Lass Sal                           | Item          | Nature | Ability | Moves
 [Chikorita]: ../../pokemon_changes/152/
 [Cyndaquil]: ../../pokemon_changes/155/
 [Totodile]: ../../pokemon_changes/158/
+[Tropius]: ../../pokemon_changes/357/
 [152]: ../img/pokemon/152.png
 [155]: ../img/pokemon/155.png
 [158]: ../img/pokemon/158.png
+[357]: ../img/pokemon/357.png

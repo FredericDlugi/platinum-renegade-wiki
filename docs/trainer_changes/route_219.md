@@ -13,14 +13,15 @@ Beauty Tessa                       | Item          | Nature | Ability | Moves
 ---                                | ---           |    --- | ---     | ---
 ![][272]<br> [Ludicolo]<br> Lv. 85 | Splash Plate? |      ? |       ? | Giga Drain, ?, ?, ?
 
-
 [Poliwhirl]: ../../pokemon_changes/061/
 [Vaporeon]: ../../pokemon_changes/134/
 [Azumarill]: ../../pokemon_changes/184/
+[Ludicolo]: ../../pokemon_changes/272/
 [Bibarel]: ../../pokemon_changes/400/
 [Gastrodon]: ../../pokemon_changes/423/
 [061]: ../img/pokemon/061.png
 [134]: ../img/pokemon/134.png
 [184]: ../img/pokemon/184.png
+[272]: ../img/pokemon/272.png
 [400]: ../img/pokemon/400.png
 [423]: ../img/pokemon/423.png

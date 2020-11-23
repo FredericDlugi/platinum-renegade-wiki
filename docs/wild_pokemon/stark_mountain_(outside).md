@@ -10,7 +10,6 @@ Area         | Pokémon                         | &nbsp;                        
 🌙<br>Night   | ![][022]<br> [Fearow]<br> 20%  | ![][112]<br> [Rhydon]<br> 20%  | ![][323]<br> [Camerupt]<br> 10%| ![][067]<br> [Machoke]<br> 10% | ![][227]<br> [Skarmory]<br> 10%| ![][207]<br> [Gligar]<br> 10%
 &nbsp;       | ![][126]<br> [Magmar]<br> 10%  | ![][324]<br> [Torkoal]<br> 10%
 
-
 [Fearow]: ../../pokemon_changes/022/
 [Machoke]: ../../pokemon_changes/067/
 [Rhydon]: ../../pokemon_changes/112/

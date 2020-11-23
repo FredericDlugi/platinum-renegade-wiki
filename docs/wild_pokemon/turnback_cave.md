@@ -8,9 +8,7 @@ Area         | Pokémon                         | &nbsp;                        
 🌞<br>Day     | ![][042]<br> [Golbat]<br> 20%  | ![][093]<br> [Haunter]<br> 20% | ![][356]<br> [Dusclops]<br> 10%| ![][354]<br> [Banette]<br> 10% | ![][437]<br> [Bronzong]<br> 10%| ![][358]<br> [Chimecho]<br> 10%
 &nbsp;       | ![][337]<br> [Lunatone]<br> 10%| ![][338]<br> [Solrock]<br> 10% 
 🌙<br>Night   | ![][042]<br> [Golbat]<br> 20%  | ![][093]<br> [Haunter]<br> 20% | ![][356]<br> [Dusclops]<br> 10%| ![][354]<br> [Banette]<br> 10% | ![][437]<br> [Bronzong]<br> 10%| ![][358]<br> [Chimecho]<br> 10%
-&nbsp;       | ![][337]<br> [Lunatone]<br> 10%| ![][338]<br> [Solrock]<br> 10% 
-
-
+&nbsp;       | ![][337]<br> [Lunatone]<br> 10%| ![][338]<br> [Solrock]<br> 10%
 
 [Golbat]: ../../pokemon_changes/042/
 [Haunter]: ../../pokemon_changes/093/

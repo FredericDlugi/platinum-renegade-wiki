@@ -20,7 +20,6 @@ Area                           | Pokémon                           | &nbsp;    
 ![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60%  | ![][340]<br> [Whiscash]<br> 30%  | ![][224]<br> [Octillery]<br> 10%
 ![][honey]<br> Honey Tree      | ![][421]<br> [Cherrim]<br> 30%   | ![][285]<br> [Shroomish]<br> 20% | ![][102]<br> [Exeggcute]<br> 20% | ![][274]<br> [Nuzleaf]<br> 20%   | ![][114]<br> [Tangela]<br> 10%
 
-
 [Ekans]: ../../pokemon_changes/023/
 [Arbok]: ../../pokemon_changes/024/
 [Weepinbell]: ../../pokemon_changes/070/

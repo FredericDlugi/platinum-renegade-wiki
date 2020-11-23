@@ -20,7 +20,6 @@ Area                           | Pokémon                           | &nbsp;    
 ![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 65%  | ![][342]<br> [Crawdaunt]<br> 35%
 ![][honey]<br> Honey Tree      | ![][396]<br> [Starly]<br> 30%    | ![][016]<br> [Pidgey]<br> 20%    | ![][163]<br> [Hoothoot]<br> 20%  | ![][276]<br> [Taillow]<br> 20%   | ![][083]<br> [Farfetch'd]<br> 10%
 
-
 [Pidgey]: ../../pokemon_changes/016/
 [Slowpoke]: ../../pokemon_changes/079/
 [Farfetch'd]: ../../pokemon_changes/083/

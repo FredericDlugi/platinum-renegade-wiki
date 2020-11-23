@@ -1,4 +1,3 @@
-
 # Changelog
 
 ## v1.3.0 - 16/04/2019
@@ -265,3 +264,4 @@ Saves from v1.0.0 are fully compatible with this version.
 
 ## v1.0.0 - 21/12/2018
 Initial release.
+

@@ -18,7 +18,6 @@ Area                         | Pokémon                            | &nbsp;     
 ![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 65%   | ![][118]<br> [Goldeen]<br> 35%
 ![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 65%   | ![][119]<br> [Seaking]<br> 35%
 
-
 [Venomoth]: ../../pokemon_changes/049/
 [Weepinbell]: ../../pokemon_changes/070/
 [Goldeen]: ../../pokemon_changes/118/

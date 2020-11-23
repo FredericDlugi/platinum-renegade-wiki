@@ -12,7 +12,6 @@ Area                         | Pokémon                        | &nbsp;         
 ![][good-rod]<br> Good Rod   | ![][370]<br> [Luvdisc]<br> 60%| ![][116]<br> [Horsea]<br> 30% | ![][222]<br> [Corsola]<br> 10%
 ![][super-rod]<br> Super Rod | ![][370]<br> [Luvdisc]<br> 60%| ![][117]<br> [Seadra]<br> 30% | ![][222]<br> [Corsola]<br> 10%
 
-
 [Horsea]: ../../pokemon_changes/116/
 [Seadra]: ../../pokemon_changes/117/
 [Corsola]: ../../pokemon_changes/222/

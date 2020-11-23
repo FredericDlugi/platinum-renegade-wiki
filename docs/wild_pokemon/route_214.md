@@ -17,7 +17,6 @@ Area                           | Pokémon                           | &nbsp;    
 ![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 65%  | ![][119]<br> [Seaking]<br> 35%
 ![][honey]<br> Honey Tree      | ![][190]<br> [Aipom]<br> 30%     | ![][288]<br> [Vigoroth]<br> 20%  | ![][012]<br> [Butterfree]<br> 20%| ![][015]<br> [Beedrill]<br> 20%  | ![][446]<br> [Munchlax]<br> 10%
 
-
 [Butterfree]: ../../pokemon_changes/012/
 [Beedrill]: ../../pokemon_changes/015/
 [Psyduck]: ../../pokemon_changes/054/

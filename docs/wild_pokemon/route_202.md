@@ -15,7 +15,6 @@ Area                           | Pokémon                          | &nbsp;     
 &nbsp;                         | ![][412]<br> [Burmy]<br> 10%
 ![][poke-radar]<br> Poké Radar | ![][228]<br> [Houndour]<br> 22%
 
-
 [Rattata]: ../../pokemon_changes/019/
 [Growlithe]: ../../pokemon_changes/058/
 [Sentret]: ../../pokemon_changes/161/

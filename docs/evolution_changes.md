@@ -1,4 +1,3 @@
-
 # Evolution Changes
 
 ## Item Interaction Changes
@@ -72,8 +71,6 @@ Base-Pokémon             | Evolution-Method                  | Evolved-Pokemon
 ![][406]<br> [Budew]     | when happy regardless of the time | ![][315]<br> [Roselia]
 ![][433]<br> [Chingling] | when happy regardless of the time | ![][358]<br> [Chimecho]
 ![][447]<br> [Riolu]     | when happy regardless of the time | ![][448]<br> [Lucario]
-
-
 
 [Poliwhirl]: ../pokemon_changes/061/
 [Kadabra]: ../pokemon_changes/064/

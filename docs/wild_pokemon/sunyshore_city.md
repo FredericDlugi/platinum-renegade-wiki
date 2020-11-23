@@ -12,7 +12,6 @@ Area                         | Pokémon                           | &nbsp;      
 ![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60%  | ![][098]<br> [Krabby]<br> 30%    | ![][120]<br> [Staryu]<br> 10%
 ![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60%  | ![][099]<br> [Kingler]<br> 30%   | ![][121]<br> [Starmie]<br> 10%
 
-
 [Tentacruel]: ../../pokemon_changes/073/
 [Krabby]: ../../pokemon_changes/098/
 [Kingler]: ../../pokemon_changes/099/

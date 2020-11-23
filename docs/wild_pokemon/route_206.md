@@ -16,7 +16,6 @@ Area                           | Pokémon                          | &nbsp;     
 ![][poke-radar]<br> Poké Radar | ![][324]<br> [Torkoal]<br> 22%
 ![][honey]<br> Honey Tree      | ![][415]<br> [Combee]<br> 30%   | ![][412]<br> [Burmy]<br> 20%    | ![][204]<br> [Pineco]<br> 20%   | ![][266]<br> [Silcoon]<br> 10%  | ![][268]<br> [Cascoon]<br> 10%  | ![][214]<br> [Heracross]<br> 10%
 
-
 [Mankey]: ../../pokemon_changes/056/
 [Pineco]: ../../pokemon_changes/204/
 [Gligar]: ../../pokemon_changes/207/

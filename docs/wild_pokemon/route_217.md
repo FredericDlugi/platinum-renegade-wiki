@@ -15,7 +15,6 @@ Area                           | Pokémon                          | &nbsp;     
 &nbsp;                         | ![][225]<br> [Delibird]<br> 10%
 ![][poke-radar]<br> Poké Radar | ![][478]<br> [Froslass]<br> 22%
 
-
 [Jynx]: ../../pokemon_changes/124/
 [Sneasel]: ../../pokemon_changes/215/
 [Piloswine]: ../../pokemon_changes/221/

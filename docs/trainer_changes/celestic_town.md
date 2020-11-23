@@ -27,8 +27,10 @@ Ace Trainer Grayson<br>![][cyrus]   | Item                               | Natur
 [Crobat]: ../../pokemon_changes/169/
 [Houndoom]: ../../pokemon_changes/229/
 [Honchkrow]: ../../pokemon_changes/430/
+[Garchomp]: ../../pokemon_changes/445/
 [Weavile]: ../../pokemon_changes/461/
 [Magnezone]: ../../pokemon_changes/462/
+[draco-plate]: ../img/items/draco-plate.png
 [expert-belt]: ../img/items/expert-belt.png
 [life-orb]: ../img/items/life-orb.png
 [scope-lens]: ../img/items/scope-lens.png
@@ -38,6 +40,7 @@ Ace Trainer Grayson<br>![][cyrus]   | Item                               | Natur
 [169]: ../img/pokemon/169.png
 [229]: ../img/pokemon/229.png
 [430]: ../img/pokemon/430.png
+[445]: ../img/pokemon/445.png
 [461]: ../img/pokemon/461.png
 [462]: ../img/pokemon/462.png
 [cyrus]: ../img/trainer/cyrus.png

@@ -8,8 +8,7 @@ Area         | Pokémon                          | &nbsp;                       
 🌞<br>Day     | ![][041]<br> [Zubat]<br> 20%    | ![][074]<br> [Geodude]<br> 20%  | ![][443]<br> [Gible]<br> 20%    | ![][343]<br> [Baltoy]<br> 10%   | ![][027]<br> [Sandshrew]<br> 10%| ![][095]<br> [Onix]<br> 10%     
 &nbsp;       | ![][302]<br> [Sableye]<br> 5%   | ![][303]<br> [Mawile]<br> 5%    
 🌙<br>Night   | ![][041]<br> [Zubat]<br> 20%    | ![][074]<br> [Geodude]<br> 20%  | ![][443]<br> [Gible]<br> 20%    | ![][343]<br> [Baltoy]<br> 10%   | ![][027]<br> [Sandshrew]<br> 10%| ![][095]<br> [Onix]<br> 10%     
-&nbsp;       | ![][302]<br> [Sableye]<br> 5%   | ![][303]<br> [Mawile]<br> 5%    
-
+&nbsp;       | ![][302]<br> [Sableye]<br> 5%   | ![][303]<br> [Mawile]<br> 5%
 
 [Sandshrew]: ../../pokemon_changes/027/
 [Zubat]: ../../pokemon_changes/041/

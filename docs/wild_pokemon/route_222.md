@@ -20,7 +20,6 @@ Area                           | Pokémon                           | &nbsp;    
 ![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60%  | ![][320]<br> [Wailmer]<br> 30%   | ![][224]<br> [Octillery]<br> 5%  | ![][321]<br> [Wailord]<br> 5%
 ![][honey]<br> Honey Tree      | ![][114]<br> [Tangela]<br> 30%   | ![][214]<br> [Heracross]<br> 30% | ![][083]<br> [Farfetch'd]<br> 30%| ![][143]<br> [Snorlax]<br> 10%
 
-
 [Tentacool]: ../../pokemon_changes/072/
 [Tentacruel]: ../../pokemon_changes/073/
 [Farfetch'd]: ../../pokemon_changes/083/

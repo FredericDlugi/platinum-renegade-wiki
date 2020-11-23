@@ -1,4 +1,3 @@
-
 # Issues
 
 ## Known Issues - Easy to fix
@@ -14,3 +13,4 @@ None currently known.
 - Some Trainer names may appear a little odd (double battles or the actual Frontier Brain battles in the Battle Frontier).
 - Some trainers in the game (notably Dawn/Lucas) give you $0 upon victory.
 - The event with Rowan's briefcase in his lab might act a bit strangely if you do it just after the Distortion World is completed.
+

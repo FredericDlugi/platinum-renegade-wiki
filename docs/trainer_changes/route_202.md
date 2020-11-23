@@ -42,6 +42,7 @@ Bug Catcher Louie                    | Item          | Nature | Ability | Moves
 [Staraptor]: ../../pokemon_changes/398/
 [Bidoof]: ../../pokemon_changes/399/
 [Burmy]: ../../pokemon_changes/412/
+[Yanmega]: ../../pokemon_changes/469/
 [018]: ../img/pokemon/018.png
 [058]: ../img/pokemon/058.png
 [161]: ../img/pokemon/161.png
@@ -56,3 +57,4 @@ Bug Catcher Louie                    | Item          | Nature | Ability | Moves
 [398]: ../img/pokemon/398.png
 [399]: ../img/pokemon/399.png
 [412]: ../img/pokemon/412.png
+[469]: ../img/pokemon/469.png

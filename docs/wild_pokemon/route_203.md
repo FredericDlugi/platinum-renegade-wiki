@@ -19,7 +19,6 @@ Area                           | Pokémon                          | &nbsp;     
 ![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 60% | ![][341]<br> [Corphish]<br> 35%
 ![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60% | ![][342]<br> [Crawdaunt]<br> 35%
 
-
 [Spearow]: ../../pokemon_changes/021/
 [Psyduck]: ../../pokemon_changes/054/
 [Golduck]: ../../pokemon_changes/055/

@@ -20,7 +20,6 @@ Area                           | Pokémon                           | &nbsp;    
 ![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 65%  | ![][119]<br> [Seaking]<br> 35%
 ![][honey]<br> Honey Tree      | ![][420]<br> [Cherubi]<br> 30%   | ![][285]<br> [Shroomish]<br> 20% | ![][102]<br> [Exeggcute]<br> 20% | ![][274]<br> [Nuzleaf]<br> 20%   | ![][114]<br> [Tangela]<br> 10%
 
-
 [Gloom]: ../../pokemon_changes/044/
 [Weepinbell]: ../../pokemon_changes/070/
 [Farfetch'd]: ../../pokemon_changes/083/

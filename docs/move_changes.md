@@ -60,7 +60,7 @@ Cut      | &nbsp;
 Power    | <span style="color:green">50 >> 60</span>
 Accuracy | <span style="color:green">95% >> 100%</span>
 PP       | <span style="color:red">30 >> 25</span>
-Type     |  Normal >> Grass
+Type     |  ![][normal] >> ![][grass]
 Effect   | <span style="color:green">No Effect >> High Critical Ratio</span>
 
 Disarming Voice | &nbsp;
@@ -105,7 +105,7 @@ Rock Climb | &nbsp;
 Power      | <span style="color:red">90 >> 80</span>
 Accuracy   | <span style="color:green">85% >> 95%</span>
 PP         | <span style="color:red">20 >> 10</span>
-Type       | Normal >> Rock
+Type       | ![][normal] >> ![][rock]
 
 Rock Smash | &nbsp;
 ---        | ---
@@ -138,3 +138,7 @@ Effect   | <span style="color:green">No Effect >> May Raise Attack (10%)</span>
 Wild Charge | &nbsp;
 ---         | ---
 Power       | <span style="color:green">90 >> 100</span>
+
+[normal]: ./img/types/normal.png
+[grass]: ./img/types/grass.png
+[rock]: ./img/types/rock.png

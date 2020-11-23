@@ -12,7 +12,6 @@ Area                         | Pokémon                          | &nbsp;       
 ![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60% | ![][456]<br> [Finneon]<br> 30%  | ![][120]<br> [Staryu]<br> 10%
 ![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60% | ![][457]<br> [Lumineon]<br> 30% | ![][121]<br> [Starmie]<br> 10%
 
-
 [Tentacool]: ../../pokemon_changes/072/
 [Tentacruel]: ../../pokemon_changes/073/
 [Staryu]: ../../pokemon_changes/120/

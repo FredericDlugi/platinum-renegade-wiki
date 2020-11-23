@@ -12,7 +12,6 @@ Area                         | Pokémon                          | &nbsp;       
 ![][good-rod]<br> Good Rod   | ![][098]<br> [Krabby]<br> 60%   | ![][116]<br> [Horsea]<br> 30%   | ![][366]<br> [Clamperl]<br> 10%
 ![][super-rod]<br> Super Rod | ![][099]<br> [Kingler]<br> 60%  | ![][116]<br> [Horsea]<br> 30%   | ![][367]<br> [Huntail]<br> 5%   | ![][368]<br> [Gorebyss]<br> 5%
 
-
 [Tentacool]: ../../pokemon_changes/072/
 [Tentacruel]: ../../pokemon_changes/073/
 [Krabby]: ../../pokemon_changes/098/

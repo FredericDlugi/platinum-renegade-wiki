@@ -292,7 +292,6 @@ Bird Keeper Thea                     | Item       | Nature | Ability | Moves
 ---                                  | ---        |    --- | ---     | ---
 ![][149]<br> [Dragonite]<br> Lv. 85  | Sky Plate? |      ? |       ? | Ice Punch, ?, ?, ?
 
-
 [Charizard]: ../../pokemon_changes/006/
 [Clefable]: ../../pokemon_changes/036/
 [Ninetales]: ../../pokemon_changes/038/
@@ -313,6 +312,7 @@ Bird Keeper Thea                     | Item       | Nature | Ability | Moves
 [Flareon]: ../../pokemon_changes/136/
 [Snorlax]: ../../pokemon_changes/143/
 [Moltres]: ../../pokemon_changes/146/
+[Dragonite]: ../../pokemon_changes/149/
 [Typhlosion]: ../../pokemon_changes/157/
 [Ampharos]: ../../pokemon_changes/181/
 [Azumarill]: ../../pokemon_changes/184/
@@ -415,6 +415,7 @@ Bird Keeper Thea                     | Item       | Nature | Ability | Moves
 [136]: ../img/pokemon/136.png
 [143]: ../img/pokemon/143.png
 [146]: ../img/pokemon/146.png
+[149]: ../img/pokemon/149.png
 [157]: ../img/pokemon/157.png
 [181]: ../img/pokemon/181.png
 [184]: ../img/pokemon/184.png

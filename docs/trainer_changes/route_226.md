@@ -64,4 +64,4 @@ Ace Trainer Wyver<br>![][ace_m_2]   | Item                               | Natur
 [340]: ../img/pokemon/340.png
 [373]: ../img/pokemon/373.png
 [445]: ../img/pokemon/445.png
-[ace_f_2]: ../img/trainer/ace_f_2.png
+[ace_m_2]: ../img/trainer/ace_m_2.png

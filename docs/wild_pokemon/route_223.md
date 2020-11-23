@@ -12,7 +12,6 @@ Area                         | Pokémon                           | &nbsp;      
 ![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60%  | ![][223]<br> [Remoraid]<br> 30%  | ![][320]<br> [Wailmer]<br> 10%
 ![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60%  | ![][320]<br> [Wailmer]<br> 30%   | ![][224]<br> [Octillery]<br> 5%  | ![][321]<br> [Wailord]<br> 5%
 
-
 [Tentacruel]: ../../pokemon_changes/073/
 [Magikarp]: ../../pokemon_changes/129/
 [Gyarados]: ../../pokemon_changes/130/

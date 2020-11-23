@@ -18,7 +18,6 @@ Area                         | Pokémon                           | &nbsp;      
 ![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 65%  | ![][339]<br> [Barboach]<br> 35%
 ![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 65%  | ![][340]<br> [Whiscash]<br> 35%
 
-
 [Poliwhirl]: ../../pokemon_changes/061/
 [Weezing]: ../../pokemon_changes/110/
 [Rhydon]: ../../pokemon_changes/112/

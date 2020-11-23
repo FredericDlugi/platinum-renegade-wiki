@@ -13,7 +13,6 @@ Area                           | Pokémon                         | &nbsp;      
 ![][poke-radar]<br> Poké Radar | ![][234]<br> [Stantler]<br> 22%
 ![][honey]<br> Honey Tree      | ![][190]<br> [Aipom]<br> 30%   | ![][287]<br> [Slakoth]<br> 20% | ![][011]<br> [Metapod]<br> 20% | ![][014]<br> [Kakuna]<br> 20%  | ![][446]<br> [Munchlax]<br> 10%
 
-
 [Metapod]: ../../pokemon_changes/011/
 [Kakuna]: ../../pokemon_changes/014/
 [Machop]: ../../pokemon_changes/066/

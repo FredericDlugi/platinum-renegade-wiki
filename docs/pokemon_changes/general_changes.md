@@ -41,10 +41,7 @@ Wild Pokémon             | holding chance              | Item
 
 - Level up moves have also been changed for every single Pokémon. These should include all moves they learn in Ultra Sun and Ultra Moon that are available in Renegade Platinum, as well as additional moves from move tutors, egg moves or entirely new techniques.
 
-
-
 [^1]: This move was previously unavailable to this Pokémon
-
 [Scyther]: ../../pokemon_changes/123/
 [Corsola]: ../../pokemon_changes/222/
 [Wingull]: ../../pokemon_changes/278/

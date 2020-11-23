@@ -16,7 +16,6 @@ Area                           | Pokémon                          | &nbsp;     
 ![][poke-radar]<br> Poké Radar | ![][359]<br> [Absol]<br> 22%
 ![][honey]<br> Honey Tree      | ![][190]<br> [Aipom]<br> 30%    | ![][288]<br> [Vigoroth]<br> 20% | ![][011]<br> [Metapod]<br> 20%  | ![][014]<br> [Kakuna]<br> 20%   | ![][446]<br> [Munchlax]<br> 10%
 
-
 [Metapod]: ../../pokemon_changes/011/
 [Kakuna]: ../../pokemon_changes/014/
 [Kadabra]: ../../pokemon_changes/064/

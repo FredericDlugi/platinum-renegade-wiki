@@ -17,7 +17,6 @@ Area                           | Pokémon                          | &nbsp;     
 ![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60% | ![][091]<br> [Cloyster]<br> 30% | ![][171]<br> [Lanturn]<br> 10%
 ![][honey]<br> Honey Tree      | ![][190]<br> [Aipom]<br> 30%    | ![][287]<br> [Slakoth]<br> 20%  | ![][010]<br> [Caterpie]<br> 20% | ![][013]<br> [Weedle]<br> 20%   | ![][446]<br> [Munchlax]<br> 10%
 
-
 [Caterpie]: ../../pokemon_changes/010/
 [Weedle]: ../../pokemon_changes/013/
 [Tentacool]: ../../pokemon_changes/072/

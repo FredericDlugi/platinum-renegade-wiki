@@ -50,7 +50,6 @@ Item               | ![][starf-berry] Starf Berry
 IVs                | 31 HP / 31 Atk / 31 Def / 31 SAtk / 31 SDef / 31 Spd
 Nature             | Adamant
 
-
 [Ponyta]: ../pokemon_changes/077/
 [Magikarp]: ../pokemon_changes/129/
 [Snorunt]: ../pokemon_changes/361/

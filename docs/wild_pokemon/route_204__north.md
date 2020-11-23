@@ -15,7 +15,6 @@ Area                           | Pokémon                           | &nbsp;    
 &nbsp;                         | ![][043]<br> [Oddish]<br> 10%    | ![][167]<br> [Spinarak]<br> 10%
 ![][poke-radar]<br> Poké Radar | ![][315]<br> [Roselia]<br> 22%
 
-
 [Caterpie]: ../../pokemon_changes/010/
 [Weedle]: ../../pokemon_changes/013/
 [Oddish]: ../../pokemon_changes/043/

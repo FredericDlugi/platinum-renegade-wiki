@@ -12,7 +12,6 @@ Area                           | Pokémon                          | &nbsp;     
 🌙<br>Night                     | ![][396]<br> [Starly]<br> 30%   | ![][399]<br> [Bidoof]<br> 30%   | ![][163]<br> [Hoothoot]<br> 10% | ![][401]<br> [Kricketot]<br> 10%| ![][032]<br> [Nidoran♂]<br> 10% | ![][029]<br> [Nidoran♀]<br> 10%
 ![][poke-radar]<br> Poké Radar | ![][084]<br> [Doduo]<br> 22%
 
-
 [Pidgey]: ../../pokemon_changes/016/
 [Nidoran♀]: ../../pokemon_changes/029/
 [Nidoran♂]: ../../pokemon_changes/032/

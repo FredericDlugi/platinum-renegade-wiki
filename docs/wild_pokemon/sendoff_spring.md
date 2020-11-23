@@ -12,7 +12,6 @@ Area                           | Pokémon                          | &nbsp;     
 ![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 100%
 ![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 100%
 
-
 [Golduck]: ../../pokemon_changes/055/
 [Magikarp]: ../../pokemon_changes/129/
 [Gyarados]: ../../pokemon_changes/130/

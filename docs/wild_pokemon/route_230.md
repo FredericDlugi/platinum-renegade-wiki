@@ -18,7 +18,6 @@ Area                         | Pokémon                           | &nbsp;      
 ![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 65%  | ![][222]<br> [Corsola]<br> 30%   | ![][320]<br> [Wailmer]<br> 10%
 ![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 65%  | ![][222]<br> [Corsola]<br> 30%   | ![][321]<br> [Wailord]<br> 10%
 
-
 [Golduck]: ../../pokemon_changes/055/
 [Tentacruel]: ../../pokemon_changes/073/
 [Magikarp]: ../../pokemon_changes/129/

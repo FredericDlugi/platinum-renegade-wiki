@@ -18,7 +18,6 @@ Area                         | Pokémon                          | &nbsp;       
 ![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60% | ![][116]<br> [Horsea]<br> 30%   | ![][147]<br> [Dratini]<br> 10%
 ![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60% | ![][117]<br> [Seadra]<br> 30%   | ![][148]<br> [Dragonair]<br> 10%
 
-
 [Clefairy]: ../../pokemon_changes/035/
 [Zubat]: ../../pokemon_changes/041/
 [Golbat]: ../../pokemon_changes/042/

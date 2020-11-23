@@ -11,7 +11,6 @@ Black Belt Randy                   | Item        | Nature | Ability      | Moves
 ---                                | ---         |    --- | ---          | ---
 ![][475]<br> [Gallade]<br> Lv. 85  | Fist-Plate? | ?      | ?            | Close Combat, Zen Headbut, ?, ?
 
-
 [Golbat]: ../../pokemon_changes/042/
 [Venomoth]: ../../pokemon_changes/049/
 [Weezing]: ../../pokemon_changes/110/
@@ -22,6 +21,7 @@ Black Belt Randy                   | Item        | Nature | Ability      | Moves
 [Shelgon]: ../../pokemon_changes/372/
 [Wormadam]: ../../pokemon_changes/413/
 [Skuntank]: ../../pokemon_changes/435/
+[Gallade]: ../../pokemon_changes/475/
 [042]: ../img/pokemon/042.png
 [049]: ../img/pokemon/049.png
 [110]: ../img/pokemon/110.png
@@ -32,3 +32,4 @@ Black Belt Randy                   | Item        | Nature | Ability      | Moves
 [372]: ../img/pokemon/372.png
 [413]: ../img/pokemon/413.png
 [435]: ../img/pokemon/435.png
+[475]: ../img/pokemon/475.png

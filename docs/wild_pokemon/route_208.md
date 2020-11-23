@@ -20,7 +20,6 @@ Area                           | Pokémon                           | &nbsp;    
 ![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60%  | ![][119]<br> [Seaking]<br> 30%   | ![][224]<br> [Octillery]<br> 10%
 ![][honey]<br> Honey Tree      | ![][420]<br> [Cherubi]<br> 30%   | ![][285]<br> [Shroomish]<br> 20% | ![][102]<br> [Exeggcute]<br> 20% | ![][273]<br> [Seedot]<br> 20%    | ![][114]<br> [Tangela]<br> 10%
 
-
 [Jigglypuff]: ../../pokemon_changes/039/
 [Psyduck]: ../../pokemon_changes/054/
 [Golduck]: ../../pokemon_changes/055/

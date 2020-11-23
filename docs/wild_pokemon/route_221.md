@@ -20,7 +20,6 @@ Area                           | Pokémon                           | &nbsp;    
 ![][super-rod]<br> Super Rod   | ![][099]<br> [Kingler]<br> 60%   | ![][116]<br> [Horsea]<br> 30%    | ![][367]<br> [Huntail]<br> 5%    | ![][368]<br> [Gorebyss]<br> 5%
 ![][honey]<br> Honey Tree      | ![][421]<br> [Cherrim]<br> 30%   | ![][285]<br> [Shroomish]<br> 20% | ![][102]<br> [Exeggcute]<br> 20% | ![][274]<br> [Nuzleaf]<br> 20%   | ![][114]<br> [Tangela]<br> 10%
 
-
 [Nidorina]: ../../pokemon_changes/030/
 [Nidorino]: ../../pokemon_changes/033/
 [Tentacool]: ../../pokemon_changes/072/

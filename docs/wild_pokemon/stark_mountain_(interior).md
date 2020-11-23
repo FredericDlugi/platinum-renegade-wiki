@@ -8,11 +8,7 @@ Area         | Pokémon                         | &nbsp;                        
 🌞<br>Day     | ![][219]<br> [Magcargo]<br> 20%| ![][112]<br> [Rhydon]<br> 20%  | ![][042]<br> [Golbat]<br> 10%  | ![][075]<br> [Graveler]<br> 10%| ![][067]<br> [Machoke]<br> 10% | ![][110]<br> [Weezing]<br> 10% 
 &nbsp;       | ![][089]<br> [Muk]<br> 10%     | ![][324]<br> [Torkoal]<br> 10% 
 🌙<br>Night   | ![][219]<br> [Magcargo]<br> 20%| ![][112]<br> [Rhydon]<br> 20%  | ![][042]<br> [Golbat]<br> 10%  | ![][075]<br> [Graveler]<br> 10%| ![][067]<br> [Machoke]<br> 10% | ![][110]<br> [Weezing]<br> 10% 
-&nbsp;       | ![][089]<br> [Muk]<br> 10%     | ![][324]<br> [Torkoal]<br> 10% 
-
-
-
-
+&nbsp;       | ![][089]<br> [Muk]<br> 10%     | ![][324]<br> [Torkoal]<br> 10%
 
 [Golbat]: ../../pokemon_changes/042/
 [Machoke]: ../../pokemon_changes/067/

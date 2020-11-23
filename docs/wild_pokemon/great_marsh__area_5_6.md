@@ -9,8 +9,7 @@ Area                         | Pokémon                          | &nbsp;       
 🌊<br> Surf                   | ![][194]<br> [Wooper]<br> 90%   | ![][195]<br> [Quagsire]<br> 10% 
 ![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 60% | ![][339]<br> [Barboach]<br> 30% | ![][318]<br> [Carvanha]<br> 10% 
 ![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60% | ![][339]<br> [Barboach]<br> 30% | ![][318]<br> [Carvanha]<br> 10% 
-![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60% | ![][340]<br> [Whiscash]<br> 30% | ![][319]<br> [Sharpedo]<br> 10% 
-
+![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60% | ![][340]<br> [Whiscash]<br> 30% | ![][319]<br> [Sharpedo]<br> 10%
 
 [Magikarp]: ../../pokemon_changes/129/
 [Gyarados]: ../../pokemon_changes/130/

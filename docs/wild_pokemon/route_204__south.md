@@ -19,7 +19,6 @@ Area                           | Pokémon                           | &nbsp;    
 ![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 60%  | ![][118]<br> [Goldeen]<br> 30%   | ![][341]<br> [Corphish]<br> 10%
 ![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60%  | ![][119]<br> [Seaking]<br> 30%   | ![][342]<br> [Crawdaunt]<br> 10%
 
-
 [Caterpie]: ../../pokemon_changes/010/
 [Weedle]: ../../pokemon_changes/013/
 [Oddish]: ../../pokemon_changes/043/

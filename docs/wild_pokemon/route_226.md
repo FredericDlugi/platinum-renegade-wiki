@@ -18,7 +18,6 @@ Area                         | Pokémon                           | &nbsp;      
 ![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60%  | ![][116]<br> [Horsea]<br> 30%    | ![][369]<br> [Relicanth]<br> 10%
 ![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60%  | ![][117]<br> [Seadra]<br> 30%    | ![][369]<br> [Relicanth]<br> 10%
 
-
 [Raticate]: ../../pokemon_changes/020/
 [Fearow]: ../../pokemon_changes/022/
 [Arbok]: ../../pokemon_changes/024/

@@ -8,8 +8,7 @@ Area         | Pokémon                          | &nbsp;                       
 🌞<br>Day     | ![][074]<br> [Geodude]<br> 20%  | ![][436]<br> [Bronzor]<br> 20%  | ![][173]<br> [Cleffa]<br> 10%   | ![][299]<br> [Nosepass]<br> 10% | ![][433]<br> [Chingling]<br> 10%| ![][041]<br> [Zubat]<br> 10%    
 &nbsp;       | ![][374]<br> [Beldum]<br> 10%   | ![][338]<br> [Solrock]<br> 5%   | ![][337]<br> [Lunatone]<br> 5%  
 🌙<br>Night   | ![][074]<br> [Geodude]<br> 20%  | ![][436]<br> [Bronzor]<br> 20%  | ![][173]<br> [Cleffa]<br> 10%   | ![][299]<br> [Nosepass]<br> 10% | ![][433]<br> [Chingling]<br> 10%| ![][041]<br> [Zubat]<br> 10%    
-&nbsp;       | ![][374]<br> [Beldum]<br> 10%   | ![][338]<br> [Solrock]<br> 5%   | ![][337]<br> [Lunatone]<br> 5%  
-
+&nbsp;       | ![][374]<br> [Beldum]<br> 10%   | ![][338]<br> [Solrock]<br> 5%   | ![][337]<br> [Lunatone]<br> 5%
 
 [Zubat]: ../../pokemon_changes/041/
 [Geodude]: ../../pokemon_changes/074/

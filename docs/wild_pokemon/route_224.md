@@ -19,7 +19,6 @@ Area                           | Pokémon                           | &nbsp;    
 ![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 60%  | ![][370]<br> [Luvdisc]<br> 30%   | ![][222]<br> [Corsola]<br> 10%
 ![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60%  | ![][370]<br> [Luvdisc]<br> 30%   | ![][222]<br> [Corsola]<br> 10%
 
-
 [Gloom]: ../../pokemon_changes/044/
 [Weepinbell]: ../../pokemon_changes/070/
 [Tentacruel]: ../../pokemon_changes/073/

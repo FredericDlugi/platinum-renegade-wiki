@@ -101,6 +101,7 @@ Pokémon                   | Old Type                  | New Type               
 [482]: ./img/pokemon/482.png
 [normal]: ./img/types/normal.png
 [fire]: ./img/types/fire.png
+[fight]: ./img/types/fight.png
 [water]: ./img/types/water.png
 [flying]: ./img/types/flying.png
 [grass]: ./img/types/grass.png
@@ -115,4 +116,3 @@ Pokémon                   | Old Type                  | New Type               
 [ghost]: ./img/types/ghost.png
 [dark]: ./img/types/dark.png
 [fairy]: ./img/types/fairy.png
-[fight]: ./img/types/fight.png

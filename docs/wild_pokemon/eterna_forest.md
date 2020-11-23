@@ -13,7 +13,6 @@ Area                           | Pokémon                           | &nbsp;    
 &nbsp;                         | ![][276]<br> [Taillow]<br> 10%
 ![][poke-radar]<br> Poké Radar | ![][267]<br> [Beautifly]<br> 11% | ![][269]<br> [Dustox]<br> 11%
 
-
 [Paras]: ../../pokemon_changes/046/
 [Murkrow]: ../../pokemon_changes/198/
 [Misdreavus]: ../../pokemon_changes/200/

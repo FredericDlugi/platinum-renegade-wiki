@@ -8,7 +8,6 @@ Area                         | Pokémon                          | &nbsp;
 ![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 65% | ![][060]<br> [Poliwag]<br> 35%  
 ![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 65% | ![][061]<br> [Poliwhirl]<br> 35%
 
-
 [Psyduck]: ../../pokemon_changes/054/
 [Golduck]: ../../pokemon_changes/055/
 [Poliwag]: ../../pokemon_changes/060/

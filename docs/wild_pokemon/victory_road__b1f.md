@@ -14,7 +14,6 @@ Area                         | Pokémon                          | &nbsp;       
 ![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 100%
 ![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 100%
 
-
 [Golbat]: ../../pokemon_changes/042/
 [Graveler]: ../../pokemon_changes/075/
 [Dewgong]: ../../pokemon_changes/087/

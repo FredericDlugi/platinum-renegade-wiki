@@ -12,7 +12,6 @@ Area                         | Pokémon                          | &nbsp;       
 ![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60% | ![][060]<br> [Poliwag]<br> 30%  | ![][318]<br> [Carvanha]<br> 10%
 ![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60% | ![][061]<br> [Poliwhirl]<br> 30%| ![][319]<br> [Sharpedo]<br> 10%
 
-
 [Poliwag]: ../../pokemon_changes/060/
 [Poliwhirl]: ../../pokemon_changes/061/
 [Tentacool]: ../../pokemon_changes/072/

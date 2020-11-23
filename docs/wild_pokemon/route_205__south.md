@@ -17,7 +17,6 @@ Area                           | Pokémon                          | &nbsp;     
 ![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60% | ![][091]<br> [Cloyster]<br> 30% | ![][171]<br> [Lanturn]<br> 10%
 ![][honey]<br> Honey Tree      | ![][415]<br> [Combee]<br> 30%   | ![][412]<br> [Burmy]<br> 20%    | ![][204]<br> [Pineco]<br> 20%   | ![][265]<br> [Wurmple]<br> 20%  | ![][214]<br> [Heracross]<br> 10%
 
-
 [Venonat]: ../../pokemon_changes/048/
 [Tentacool]: ../../pokemon_changes/072/
 [Tentacruel]: ../../pokemon_changes/073/

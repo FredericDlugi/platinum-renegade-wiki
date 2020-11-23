@@ -8,8 +8,7 @@ Area         | Pokémon                          | &nbsp;                       
 🌞<br>Day     | ![][184]<br> [Azumarill]<br> 20%| ![][419]<br> [Floatzel]<br> 20% | ![][075]<br> [Graveler]<br> 10% | ![][067]<br> [Machoke]<br> 10%  | ![][308]<br> [Medicham]<br> 10% | ![][208]<br> [Steelix]<br> 10%  
 &nbsp;       | ![][042]<br> [Golbat]<br> 10%   | ![][444]<br> [Gabite]<br> 10%   
 🌙<br>Night   | ![][184]<br> [Azumarill]<br> 20%| ![][419]<br> [Floatzel]<br> 20% | ![][075]<br> [Graveler]<br> 10% | ![][067]<br> [Machoke]<br> 10%  | ![][308]<br> [Medicham]<br> 10% | ![][208]<br> [Steelix]<br> 10%  
-&nbsp;       | ![][042]<br> [Golbat]<br> 10%   | ![][444]<br> [Gabite]<br> 10%   
-
+&nbsp;       | ![][042]<br> [Golbat]<br> 10%   | ![][444]<br> [Gabite]<br> 10%
 
 [Golbat]: ../../pokemon_changes/042/
 [Machoke]: ../../pokemon_changes/067/

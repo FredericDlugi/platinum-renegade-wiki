@@ -12,7 +12,6 @@ Area                           | Pokémon                          | &nbsp;     
 🌙<br>Night                     | ![][307]<br> [Meditite]<br> 30% | ![][066]<br> [Machop]<br> 20%   | ![][333]<br> [Swablu]<br> 20%   | ![][216]<br> [Teddiursa]<br> 10%| ![][177]<br> [Natu]<br> 10%     | ![][433]<br> [Chingling]<br> 10%
 ![][poke-radar]<br> Poké Radar | ![][236]<br> [Tyrogue]<br> 22%
 
-
 [Machop]: ../../pokemon_changes/066/
 [Natu]: ../../pokemon_changes/177/
 [Teddiursa]: ../../pokemon_changes/216/

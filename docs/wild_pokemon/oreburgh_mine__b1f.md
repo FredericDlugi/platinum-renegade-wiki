@@ -7,7 +7,6 @@ Area         | Pokémon                         | &nbsp;                        
 🌞<br>Day     | ![][074]<br> [Geodude]<br> 25% | ![][041]<br> [Zubat]<br> 25%   | ![][293]<br> [Whismur]<br> 20% | ![][304]<br> [Aron]<br> 10%    | ![][095]<br> [Onix]<br> 10%    | ![][328]<br> [Trapinch]<br> 10%
 🌙<br>Night   | ![][074]<br> [Geodude]<br> 25% | ![][041]<br> [Zubat]<br> 25%   | ![][293]<br> [Whismur]<br> 20% | ![][304]<br> [Aron]<br> 10%    | ![][095]<br> [Onix]<br> 10%    | ![][328]<br> [Trapinch]<br> 10%
 
-
 [Zubat]: ../../pokemon_changes/041/
 [Geodude]: ../../pokemon_changes/074/
 [Onix]: ../../pokemon_changes/095/

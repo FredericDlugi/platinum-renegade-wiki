@@ -12,7 +12,6 @@ Area                         | Pokémon                           | &nbsp;      
 ![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60%  | ![][370]<br> [Luvdisc]<br> 30%   | ![][222]<br> [Corsola]<br> 10%
 ![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60%  | ![][370]<br> [Luvdisc]<br> 30%   | ![][222]<br> [Corsola]<br> 10%
 
-
 [Tentacruel]: ../../pokemon_changes/073/
 [Magikarp]: ../../pokemon_changes/129/
 [Gyarados]: ../../pokemon_changes/130/

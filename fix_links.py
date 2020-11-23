@@ -17,12 +17,12 @@ def fix_links(file_name, root_path, links):
     else:
         print("ERROR: nested paths over 2 are not supported")
         exit()
-
+    local_links = []
     for i in range(len(links)):
         if links[i].endswith(".png\n"):
-            links[i] = links[i].replace("./", rel_to_root_img)
+            local_links.append(links[i].replace("./", rel_to_root_img))
         if links[i].endswith("/\n"):
-            links[i] = links[i].replace("./", rel_to_root_md)
+            local_links.append(links[i].replace("./", rel_to_root_md))
 
     input_file = open(file_name, "r", encoding="utf-8")
     file_data = input_file.readlines()
@@ -37,13 +37,13 @@ def fix_links(file_name, root_path, links):
             data += line
 
     # remove all links that are part of the linkfile
-    for link in links:
+    for link in local_links:
         link_id = link.split("]:")[0].replace("[","")
         all_links = re.sub(r"\[{}\]\:.*\n".format(link_id), "", all_links)
 
     data=data.strip()+"\n\n"+all_links
     # add neccasery links
-    for link in links:
+    for link in local_links:
         link_id = link.split(":")[0]
         if data.count(link_id):
             data += link

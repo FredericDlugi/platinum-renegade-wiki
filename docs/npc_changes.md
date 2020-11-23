@@ -100,9 +100,9 @@ See [here](trade_changes.md) how the trades are changed.
 - Choosing Medium will pit you against a team of Level 10 Pokémon who give 2 EV of that stat each.
 - Choosing High will pit you against a team of Level 10 Pokémon who give 3 EV of that stat each.
 
-[Pikachu]: /pokemon_changes/025/
-[Farfetch'd]: /pokemon_changes/083/
-[Cubone]: /pokemon_changes/104/
-[Chansey]: /pokemon_changes/113/
-[Ditto]: /pokemon_changes/132/
-[Clamperl]: /pokemon_changes/366/
+[Pikachu]: ../pokemon_changes/025/
+[Farfetch'd]: ../pokemon_changes/083/
+[Cubone]: ../pokemon_changes/104/
+[Chansey]: ../pokemon_changes/113/
+[Ditto]: ../pokemon_changes/132/
+[Clamperl]: ../pokemon_changes/366/

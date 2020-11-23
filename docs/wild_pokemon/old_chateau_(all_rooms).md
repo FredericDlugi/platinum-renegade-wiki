@@ -5,8 +5,7 @@ Area         | Pokémon                        | &nbsp;                         
 ---          | ---                            | ---                            | ---                            | ---                            | ---                            | ---                            
 🌅<br>Morning | ![][092]<br> [Gastly]<br> 40% | ![][019]<br> [Rattata]<br> 30%| ![][355]<br> [Duskull]<br> 10%| ![][353]<br> [Shuppet]<br> 10%| ![][020]<br> [Raticate]<br> 5%| ![][093]<br> [Haunter]<br> 5% 
 🌞<br>Day     | ![][092]<br> [Gastly]<br> 40% | ![][019]<br> [Rattata]<br> 30%| ![][355]<br> [Duskull]<br> 10%| ![][353]<br> [Shuppet]<br> 10%| ![][020]<br> [Raticate]<br> 5%| ![][093]<br> [Haunter]<br> 5% 
-🌙<br>Night   | ![][092]<br> [Gastly]<br> 40% | ![][019]<br> [Rattata]<br> 30%| ![][355]<br> [Duskull]<br> 10%| ![][353]<br> [Shuppet]<br> 10%| ![][020]<br> [Raticate]<br> 5%| ![][093]<br> [Haunter]<br> 5% 
-
+🌙<br>Night   | ![][092]<br> [Gastly]<br> 40% | ![][019]<br> [Rattata]<br> 30%| ![][355]<br> [Duskull]<br> 10%| ![][353]<br> [Shuppet]<br> 10%| ![][020]<br> [Raticate]<br> 5%| ![][093]<br> [Haunter]<br> 5%
 
 [Rattata]: ../../pokemon_changes/019/
 [Raticate]: ../../pokemon_changes/020/

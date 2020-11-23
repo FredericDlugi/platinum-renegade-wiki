@@ -20,7 +20,6 @@ Area                           | Pokémon                           | &nbsp;    
 ![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60%  | ![][117]<br> [Seadra]<br> 30%    | ![][148]<br> [Dragonair]<br> 10%
 ![][honey]<br> Honey Tree      | ![][397]<br> [Staravia]<br> 30%  | ![][017]<br> [Pidgeotto]<br> 20% | ![][164]<br> [Noctowl]<br> 20%   | ![][277]<br> [Swellow]<br> 20%   | ![][083]<br> [Farfetch'd]<br> 10%
 
-
 [Pidgeotto]: ../../pokemon_changes/017/
 [Fearow]: ../../pokemon_changes/022/
 [Psyduck]: ../../pokemon_changes/054/

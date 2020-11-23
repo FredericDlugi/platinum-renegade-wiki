@@ -1,4 +1,3 @@
-
 # Action Replay Codes
 
 ## General
@@ -29,3 +28,4 @@ Please note that it won't have any effect until the HP bars are over a certain v
 12268186 00001C20
 12085734 00001C21
 ```
+

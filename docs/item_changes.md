@@ -361,10 +361,8 @@ S.S. Ticket   | Tea
 Seal Bag      | GS Ball               [^1]
 Storage Key   | Mysterious Invitation [^2]
 
-
 [^1]: The location has changed from the original Platinum
 [^2]: This item is new to Renegade Platinum
-
 [adamant-orb]: ./img/items/adamant-orb.png
 [amulet-coin]: ./img/items/amulet-coin.png
 [azure-flute]: ./img/items/azure-flute.png

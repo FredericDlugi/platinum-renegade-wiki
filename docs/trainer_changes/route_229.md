@@ -63,5 +63,4 @@ Ace Trainer Gene<br>![][ace_m_2]    | Item                               | Natur
 [400]: ../img/pokemon/400.png
 [474]: ../img/pokemon/474.png
 [477]: ../img/pokemon/477.png
-[ace_f_2]: ../img/trainer/ace_f_2.png
 [ace_m_2]: ../img/trainer/ace_m_2.png
