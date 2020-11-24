@@ -24,7 +24,7 @@ Ace Trainer Wyver<br>![][ace_m_2]   | Item                               | Natur
 
 ## Master Trainer
 
-Beauty Tessa<br>![][ace_m]         | Item | Nature | Ability | Moves
+Ace Trainer Edmund<br>![][ace_m]   | Item | Nature | Ability | Moves
 ---                                | ---  |    --- | ---     | ---
 ![][219]<br> [Magcargo]<br> Lv. 85 | None |      ? |       ? | Power Gem, Earth Power, Iron Defence, -
 

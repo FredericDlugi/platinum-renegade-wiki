@@ -48,7 +48,7 @@ PKMN Trainer Lucas<br>![][lucas]     | Item                               | Natu
 
 ## Master Trainer
 
-Hiker ---<br>![][hiker]             | Item | Nature | Ability | Moves
+Hiker ???<br>![][hiker]             | Item | Nature | Ability | Moves
 ---                                 | ---  |    --- | ---     | ---
 ![][464]<br> [Rhyperior]<br> Lv. 85 | None |      ? |       ? | Earthquake, Stone Edge, Megahorn, Hammer Arm
 

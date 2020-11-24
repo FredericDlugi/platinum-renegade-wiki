@@ -15,9 +15,9 @@ Belle & Pa Beth & Bob   | ![][077]<br> [Ponyta]<br> Lv. 33     | ![][180]<br> [F
 
 ## Master Trainer
 
-Psychic ---------<br>![][psychic_m] | Item | Nature | Ability | Moves
----                                 | ---  |    --- | ---     | ---
-![][094]<br> [Gengar]<br> Lv. 85    | None |      ? |       ? | Shadow Ball, Hypnosis, Luster Purge, -
+Psychic ???<br>![][psychic_m]    | Item | Nature | Ability | Moves
+---                              | ---  |    --- | ---     | ---
+![][094]<br> [Gengar]<br> Lv. 85 | None |      ? |       ? | Shadow Ball, Hypnosis, Luster Purge, -
 
 [Clefairy]: ../../pokemon_changes/035/
 [Ponyta]: ../../pokemon_changes/077/

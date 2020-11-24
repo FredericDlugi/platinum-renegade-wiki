@@ -20,7 +20,7 @@ Arcade Star Dahlia<br>![][dahlia]  | Item                               | Nature
 
 ## Master Trainer
 
-Ace Trainer ---<br>![][guitarist]    | Item | Nature | Ability | Moves
+Guitarist ???<br>![][guitarist]      | Item | Nature | Ability | Moves
 ---                                  | ---  |    --- | ---     | ---
 ![][466]<br> [Electivire]<br> Lv. 85 | None |      ? |       ? | Earthquake, Close Combat, Ice Punch
 

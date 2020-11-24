@@ -24,9 +24,9 @@ PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 41 | ![][214]<br> [Heracro
 
 ## Master Trainer
 
-Scientist ---<br>![][scientist]   | Item | Nature | Ability  | Moves
----                               | ---  |    --- | ---      | ---
-![][034]<br>[Nidoking]<br>Lv. 85  | None |      ? | ?        | Earthquake, Fire Blast, Thunderbolt, Amnesia
+Scientist Donnie<br>![][scientist] | Item | Nature | Ability  | Moves
+---                                | ---  |    --- | ---      | ---
+![][034]<br>[Nidoking]<br>Lv. 85   | None |      ? | ?        | Earthquake, Fire Blast, Thunderbolt, Amnesia
 
 [Nidoking]: ../../pokemon_changes/034/
 [Arcanine]: ../../pokemon_changes/059/

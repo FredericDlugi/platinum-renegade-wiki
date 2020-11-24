@@ -7,7 +7,7 @@ Ace Trainer Nephenee | ![][242]<br> [Blissey]<br> Lv. 54    | ![][154]<br> [Mega
 
 ## Master Trainer
 
-Ace Trainer ---<br>![][ace_f]      | Item | Nature | Ability | Moves
+Ace Trainer ???<br>![][ace_f]      | Item | Nature | Ability | Moves
 ---                                | ---  |    --- | ---     | ---
 ![][461]<br> [Weavile]<br> Lv. 85  | None |      ? |       ? | Low Kick, Night Slash, Quick Attack, X-Scissor
 
