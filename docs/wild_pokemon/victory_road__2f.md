@@ -1,13 +1,13 @@
 # Victory Road ~ 2F
 
-Area         | Pokémon                        | &nbsp;                          | &nbsp;                          | &nbsp;                         | &nbsp;                           | &nbsp;                        |
----          | ---                            | ---                             | ---                             | ---                            | ---                              | ---                           |
-🌅<br>Morning<br>Lv. 59 | ![][208]<br> [Steelix]<br> 20% | ![][082]<br> [Magneton]<br> 20% | ![][075]<br> [Graveler]<br> 10% | ![][064]<br> [Kadabra]<br> 10% | ![][108]<br> [Lickitung]<br> 10% | ![][042]<br> [Golbat]<br> 10% |
-&nbsp;       | ![][105]<br> [Marowak]<br> 10% | ![][444]<br> [Gabite]<br> 10%   | &nbsp;                          | &nbsp;                         | &nbsp;                           | &nbsp;                        |
-🌞<br>Day<br>Lv. 59     | ![][208]<br> [Steelix]<br> 20% | ![][082]<br> [Magneton]<br> 20% | ![][075]<br> [Graveler]<br> 10% | ![][064]<br> [Kadabra]<br> 10% | ![][108]<br> [Lickitung]<br> 10% | ![][042]<br> [Golbat]<br> 10% |
-&nbsp;       | ![][105]<br> [Marowak]<br> 10% | ![][444]<br> [Gabite]<br> 10%   | &nbsp;                          | &nbsp;                         | &nbsp;                           | &nbsp;                        |
-🌙<br>Night<br>Lv. 59   | ![][208]<br> [Steelix]<br> 20% | ![][082]<br> [Magneton]<br> 20% | ![][075]<br> [Graveler]<br> 10% | ![][064]<br> [Kadabra]<br> 10% | ![][108]<br> [Lickitung]<br> 10% | ![][042]<br> [Golbat]<br> 10% |
-&nbsp;       | ![][105]<br> [Marowak]<br> 10% | ![][444]<br> [Gabite]<br> 10%   | &nbsp;                          | &nbsp;                         | &nbsp;                           | &nbsp;                        |
+Area                   | Pokémon                        | &nbsp;                          | &nbsp;                          | &nbsp;                         | &nbsp;                           | &nbsp;                        | 
+---                    | ---                            | ---                             | ---                             | ---                            | ---                              | ---                           | 
+🌅<br>Morning<br>Lv. 59 | ![][208]<br> [Steelix]<br> 20% | ![][082]<br> [Magneton]<br> 20% | ![][075]<br> [Graveler]<br> 10% | ![][064]<br> [Kadabra]<br> 10% | ![][108]<br> [Lickitung]<br> 10% | ![][042]<br> [Golbat]<br> 10% | 
+&nbsp;                 | ![][105]<br> [Marowak]<br> 10% | ![][444]<br> [Gabite]<br> 10%   | &nbsp;                          | &nbsp;                         | &nbsp;                           | &nbsp;                        | 
+🌞<br>Day<br>Lv. 59     | ![][208]<br> [Steelix]<br> 20% | ![][082]<br> [Magneton]<br> 20% | ![][075]<br> [Graveler]<br> 10% | ![][064]<br> [Kadabra]<br> 10% | ![][108]<br> [Lickitung]<br> 10% | ![][042]<br> [Golbat]<br> 10% | 
+&nbsp;                 | ![][105]<br> [Marowak]<br> 10% | ![][444]<br> [Gabite]<br> 10%   | &nbsp;                          | &nbsp;                         | &nbsp;                           | &nbsp;                        | 
+🌙<br>Night<br>Lv. 59   | ![][208]<br> [Steelix]<br> 20% | ![][082]<br> [Magneton]<br> 20% | ![][075]<br> [Graveler]<br> 10% | ![][064]<br> [Kadabra]<br> 10% | ![][108]<br> [Lickitung]<br> 10% | ![][042]<br> [Golbat]<br> 10% | 
+&nbsp;                 | ![][105]<br> [Marowak]<br> 10% | ![][444]<br> [Gabite]<br> 10%   | &nbsp;                          | &nbsp;                         | &nbsp;                           | &nbsp;                        | 
 
 [Golbat]: ../../pokemon_changes/042/
 [Kadabra]: ../../pokemon_changes/064/

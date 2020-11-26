@@ -1,13 +1,13 @@
 # Victory Road ~ 1F Back 3
 
-Area         | Pokémon                          | &nbsp;                          | &nbsp;                          | &nbsp;                         | &nbsp;                          | &nbsp;                         |
----          | ---                              | ---                             | ---                             | ---                            | ---                             | ---                            |
-🌅<br>Morning<br>Lv. 59 | ![][184]<br> [Azumarill]<br> 20% | ![][419]<br> [Floatzel]<br> 20% | ![][075]<br> [Graveler]<br> 10% | ![][067]<br> [Machoke]<br> 10% | ![][308]<br> [Medicham]<br> 10% | ![][208]<br> [Steelix]<br> 10% |
-&nbsp;       | ![][042]<br> [Golbat]<br> 10%    | ![][444]<br> [Gabite]<br> 10%   | &nbsp;                          | &nbsp;                         | &nbsp;                          | &nbsp;                         |
-🌞<br>Day<br>Lv. 59     | ![][184]<br> [Azumarill]<br> 20% | ![][419]<br> [Floatzel]<br> 20% | ![][075]<br> [Graveler]<br> 10% | ![][067]<br> [Machoke]<br> 10% | ![][308]<br> [Medicham]<br> 10% | ![][208]<br> [Steelix]<br> 10% |
-&nbsp;       | ![][042]<br> [Golbat]<br> 10%    | ![][444]<br> [Gabite]<br> 10%   | &nbsp;                          | &nbsp;                         | &nbsp;                          | &nbsp;                         |
-🌙<br>Night<br>Lv. 59   | ![][184]<br> [Azumarill]<br> 20% | ![][419]<br> [Floatzel]<br> 20% | ![][075]<br> [Graveler]<br> 10% | ![][067]<br> [Machoke]<br> 10% | ![][308]<br> [Medicham]<br> 10% | ![][208]<br> [Steelix]<br> 10% |
-&nbsp;       | ![][042]<br> [Golbat]<br> 10%    | ![][444]<br> [Gabite]<br> 10%   | &nbsp;                          | &nbsp;                         | &nbsp;                          | &nbsp;                         |
+Area                   | Pokémon                          | &nbsp;                          | &nbsp;                          | &nbsp;                         | &nbsp;                          | &nbsp;                         | 
+---                    | ---                              | ---                             | ---                             | ---                            | ---                             | ---                            | 
+🌅<br>Morning<br>Lv. 59 | ![][184]<br> [Azumarill]<br> 20% | ![][419]<br> [Floatzel]<br> 20% | ![][075]<br> [Graveler]<br> 10% | ![][067]<br> [Machoke]<br> 10% | ![][308]<br> [Medicham]<br> 10% | ![][208]<br> [Steelix]<br> 10% | 
+&nbsp;                 | ![][042]<br> [Golbat]<br> 10%    | ![][444]<br> [Gabite]<br> 10%   | &nbsp;                          | &nbsp;                         | &nbsp;                          | &nbsp;                         | 
+🌞<br>Day<br>Lv. 59     | ![][184]<br> [Azumarill]<br> 20% | ![][419]<br> [Floatzel]<br> 20% | ![][075]<br> [Graveler]<br> 10% | ![][067]<br> [Machoke]<br> 10% | ![][308]<br> [Medicham]<br> 10% | ![][208]<br> [Steelix]<br> 10% | 
+&nbsp;                 | ![][042]<br> [Golbat]<br> 10%    | ![][444]<br> [Gabite]<br> 10%   | &nbsp;                          | &nbsp;                         | &nbsp;                          | &nbsp;                         | 
+🌙<br>Night<br>Lv. 59   | ![][184]<br> [Azumarill]<br> 20% | ![][419]<br> [Floatzel]<br> 20% | ![][075]<br> [Graveler]<br> 10% | ![][067]<br> [Machoke]<br> 10% | ![][308]<br> [Medicham]<br> 10% | ![][208]<br> [Steelix]<br> 10% | 
+&nbsp;                 | ![][042]<br> [Golbat]<br> 10%    | ![][444]<br> [Gabite]<br> 10%   | &nbsp;                          | &nbsp;                         | &nbsp;                          | &nbsp;                         | 
 
 [Golbat]: ../../pokemon_changes/042/
 [Machoke]: ../../pokemon_changes/067/
