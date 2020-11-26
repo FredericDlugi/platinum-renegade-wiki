@@ -64,7 +64,7 @@ def get_effectiveness(type_a, type_b = None):
 
     e_m =np.array([#normal fighting flying poison ground rock  bug ghost steel fire water grass electric psychic  ice dragon dark fairy
                     [    1,     2.0,     1,     1,     1,   1,   1,  0.0,    1,   1,    1,    1,       1,      1,   1,     1,   1,    1], #normal
-                    [    1,       1,   2.0,     1,     1, 0.5, 0.5,    1,    1,   1,    1,    1,       1,      1,   1,     1, 0.5,  2.0], #fighting
+                    [    1,       1,   2.0,     1,     1, 0.5, 0.5,    1,    1,   1,    1,    1,       1,    2.0,   1,     1, 0.5,  2.0], #fighting
                     [    1,     0.5,     1,     1,   0.0, 2.0, 0.5,    1,    1,   1,    1,  0.5,     2.0,      1, 2.0,     1,   1,    1], #flying
                     [    1,     0.5,     1,   0.5,   2.0,   1, 0.5,    1,    1,   1,    1,  0.5,       1,    2.0,   1,     1,   1,  0.5], #poison
                     [    1,       1,     1,   0.5,     1, 0.5,   1,    1,    1,   1,  2.0,  2.0,       0,      1, 2.0,     1,   1,    1], #ground
@@ -121,8 +121,11 @@ def get_type_lines(t):
     type_lines.append("---       | ---          | ---          | ---       | ---     | ---\n")
     eff_line = ""
     for i in [0,0.25,0.5,1.0,2.0,4.0]:
-        for t in eff[i]:
-            eff_line += "![][{}]<br> ".format(t)
+        if len(eff[i]) == 0:
+             eff_line += "&nbsp;"
+        else:
+            for t in eff[i]:
+                eff_line += "![][{}]<br>".format(t)
         eff_line += "| "
 
     type_lines.append(eff_line+"\n")

@@ -12,12 +12,12 @@
 
 Pokémon who may hold an item in Ultra Sun and Ultra Moon that doesn't exist in Platinum will not hold anything.
 
-Wild Pokémon             | holding chance              | Item                           | 
----                      | ---                         | ---                            | 
-![][222]<br>   [Corsola] | has a 5% chance to hold a   | ![][hard-stone]<br> Hard Stone | 
-![][279]<br>  [Pelipper] | has a 5% chance to hold a   | ![][lucky-egg]<br> Lucky Egg   | 
-![][359]<br>     [Absol] | has a 5% chance to hold a   | ![][life-orb]<br> Life Orb     | 
-![][442]<br> [Spiritomb] | has a 100% chance to hold a | ![][smoke-ball]<br> Smoke Ball | 
+Wild Pokémon            | holding chance              | Item
+---                     | ---                         | ---
+![][222]<br>[Corsola]   | has a 5% chance to hold a   | ![][hard-stone]<br>Hard Stone
+![][279]<br>[Pelipper]  | has a 5% chance to hold a   | ![][lucky-egg]<br>Lucky Egg
+![][359]<br>[Absol]     | has a 5% chance to hold a   | ![][life-orb]<br>Life Orb
+![][442]<br>[Spiritomb] | has a 100% chance to hold a | ![][smoke-ball]<br>Smoke Ball
 
 
 ## Other Changes

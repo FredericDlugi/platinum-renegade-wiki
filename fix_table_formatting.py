@@ -15,15 +15,18 @@ class Table:
 
     def format(self):
         # calc max length of each column
+        empty_cell = "&nbsp;"
+
         max_len = np.zeros(self.n_col,dtype=int)
-        for line in self.lines:
-            cols = [l.strip() for l in line.strip().split("|")]
+        for i in range(len(self.lines)):
+            cols = [re.sub(r"\s*<br>\s*","<br>",l.strip()) for l in self.lines[i].strip().split("|")]
+            cols = [empty_cell if s == "" else s for s in cols]
+
 
             for i in range(len(cols)):
                 max_len[i] = max(max_len[i], len(cols[i]))
 
         # create formatting string
-        empty_cell = "&nbsp;"
         format_string = ""
         i = 0
         for ml in max_len:
@@ -33,19 +36,38 @@ class Table:
                 break
             format_string += "{"+"c[{}]:{}".format(i, ml)+"} | "
             i += 1
-        format_string += "\n"
 
 
         for i in range(len(self.lines)):
-            cols = [re.sub(r"\\s*<br>\\s*","<br>",l.strip()) for l in self.lines[i].strip().split("|")]
+            cols = [re.sub(r"\s*<br>\s*","<br>",l.strip()) for l in self.lines[i].strip().split("|")]
+            cols = [empty_cell if s == "" else s for s in cols]
 
             for k in range(len(max_len)-len(cols)):
                 cols.append(empty_cell)
             self.lines[i] = format_string.format(c=cols)
 
+        # reduce empty cols
+        #
+
+        while self.__check_last_col_empty():
+            for i in range(len(self.lines)):
+                self.lines[i] = "|".join(self.lines[i].split("|")[:-1])
+
+        self.lines = [s.rstrip()+"\n" for s in self.lines]
+
+    def __check_last_col_empty(self):
+        empty_cell = "&nbsp;"
+        for line in self.lines:
+            cells = line.split("|")
+            last_col = cells[-1].strip()
+            if last_col != "" and last_col != empty_cell:
+                return False
+
+        return True
+
     def print(self):
         for line in self.lines:
-            print(line[:-1])
+            print(line[:-2])
 
 def extract_tables(lines):
     tables = []
