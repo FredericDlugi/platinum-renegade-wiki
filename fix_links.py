@@ -52,29 +52,30 @@ def fix_links(file_name, root_path, links):
     output_file.write(data)
 
 
+if __name__ == "__main__":
 
-parser = argparse.ArgumentParser(prog="Fix links")
-parser.add_argument('-l', default="./docs/links.txt", help='The location of the link file')
-parser.add_argument('-r', default="./docs/", help='The root of the mkdocs')
-parser.add_argument('paths', nargs='+', help='the paths to all files where the link should be fixed')
+    parser = argparse.ArgumentParser(prog="Fix links")
+    parser.add_argument('-l', default="./docs/links.txt", help='The location of the link file')
+    parser.add_argument('-r', default="./docs/", help='The root of the mkdocs')
+    parser.add_argument('paths', nargs='+', help='the paths to all files where the link should be fixed')
 
-args = parser.parse_args()
+    args = parser.parse_args()
 
-links = open(args.l, "r" , encoding="utf-8").readlines()
-for link in links:
-    link_id = link.split(":")[0]
-    count = 0
-    for other in links:
-        if other.startswith(link_id):
-            count += 1
-    if count > 1:
-        print("ERROR: the link with id {} is duplicated.".format(link_id))
-        exit()
+    links = open(args.l, "r" , encoding="utf-8").readlines()
+    for link in links:
+        link_id = link.split(":")[0]
+        count = 0
+        for other in links:
+            if other.startswith(link_id):
+                count += 1
+        if count > 1:
+            print("ERROR: the link with id {} is duplicated.".format(link_id))
+            exit()
 
-print("Found {} file with {:d} links".format(args.l, len(links)))
+    print("Found {} file with {:d} links".format(args.l, len(links)))
 
-for path in args.paths:
-    files =  glob.glob(args.r + path)
-    for f in files:
-        print("Fixed links for: {}".format(f))
-        fix_links(f, args.r, links)
+    for path in args.paths:
+        files =  glob.glob(args.r + path)
+        for f in files:
+            print("Fixed links for: {}".format(f))
+            fix_links(f, args.r, links)

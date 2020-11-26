@@ -13,6 +13,9 @@ nav:
     - Home: index.md
     - Pokémon Changes:
         - General Changes: pokemon_changes/general_changes.md
+        - Move Changes: move_changes.md
+        - Type Changes: type_changes.md
+        - Evolution Changes: evolution_changes.md
         - Specific Changes:
             - 001 - Bulbasaur: pokemon_changes/001.md
             - 002 - Ivysaur: pokemon_changes/002.md
@@ -698,10 +701,7 @@ nav:
     - Item Changes: item_changes.md
     - Special Events: special_events.md
     - NPC Changes: npc_changes.md
-    - Move Changes: move_changes.md
     - Trade Changes: trade_changes.md
-    - Type Changes: type_changes.md
-    - Evolution Changes: evolution_changes.md
     - Action Replay Codes: action_replay_codes.md
     - How to randomize: how_to_randomize.md
     - Changelog: changelog.md
