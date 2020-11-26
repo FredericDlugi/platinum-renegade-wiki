@@ -3,20 +3,19 @@
 !!! note
     There are trainer on this route. You can find out more [here](../../trainer_changes/mt_coronet__4f/).
 
-Levels: 50 - 52 (Walking) 35 - 55 (Surfing)
 
-Area                         | Pokémon                         | &nbsp;                          | &nbsp;                           | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
----                          | ---                             | ---                             | ---                              | ---                             | ---                             | ---                           | 
-🌅<br>Morning                 | ![][075]<br> [Graveler]<br> 20% | ![][437]<br> [Bronzong]<br> 20% | ![][035]<br> [Clefairy]<br> 10%  | ![][299]<br> [Nosepass]<br> 10% | ![][358]<br> [Chimecho]<br> 10% | ![][042]<br> [Golbat]<br> 10% | 
-&nbsp;                       | ![][375]<br> [Metang]<br> 10%   | ![][338]<br> [Solrock]<br> 5%   | ![][337]<br> [Lunatone]<br> 5%   | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
-🌞<br>Day                     | ![][075]<br> [Graveler]<br> 20% | ![][437]<br> [Bronzong]<br> 20% | ![][035]<br> [Clefairy]<br> 10%  | ![][299]<br> [Nosepass]<br> 10% | ![][358]<br> [Chimecho]<br> 10% | ![][042]<br> [Golbat]<br> 10% | 
-&nbsp;                       | ![][375]<br> [Metang]<br> 10%   | ![][338]<br> [Solrock]<br> 5%   | ![][337]<br> [Lunatone]<br> 5%   | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
-🌙<br>Night                   | ![][075]<br> [Graveler]<br> 20% | ![][437]<br> [Bronzong]<br> 20% | ![][035]<br> [Clefairy]<br> 10%  | ![][299]<br> [Nosepass]<br> 10% | ![][358]<br> [Chimecho]<br> 10% | ![][042]<br> [Golbat]<br> 10% | 
-&nbsp;                       | ![][375]<br> [Metang]<br> 10%   | ![][338]<br> [Solrock]<br> 5%   | ![][337]<br> [Lunatone]<br> 5%   | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
-🌊<br> Surf                   | ![][041]<br> [Zubat]<br> 90%    | ![][042]<br> [Golbat]<br> 10%   | &nbsp;                           | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
-![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 60% | ![][116]<br> [Horsea]<br> 30%   | ![][147]<br> [Dratini]<br> 10%   | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
-![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60% | ![][116]<br> [Horsea]<br> 30%   | ![][147]<br> [Dratini]<br> 10%   | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
-![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60% | ![][117]<br> [Seadra]<br> 30%   | ![][148]<br> [Dragonair]<br> 10% | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
+Area                                  | Pokémon                         | &nbsp;                          | &nbsp;                           | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
+---                                   | ---                             | ---                             | ---                              | ---                             | ---                             | ---                           | 
+🌅<br>Morning<br>Lv. 50 - 52           | ![][075]<br> [Graveler]<br> 20% | ![][437]<br> [Bronzong]<br> 20% | ![][035]<br> [Clefairy]<br> 10%  | ![][299]<br> [Nosepass]<br> 10% | ![][358]<br> [Chimecho]<br> 10% | ![][042]<br> [Golbat]<br> 10% | 
+&nbsp;                                | ![][375]<br> [Metang]<br> 10%   | ![][338]<br> [Solrock]<br> 5%   | ![][337]<br> [Lunatone]<br> 5%   | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
+🌞<br>Day<br>Lv. 50 - 52               | ![][075]<br> [Graveler]<br> 20% | ![][437]<br> [Bronzong]<br> 20% | ![][035]<br> [Clefairy]<br> 10%  | ![][299]<br> [Nosepass]<br> 10% | ![][358]<br> [Chimecho]<br> 10% | ![][042]<br> [Golbat]<br> 10% | 
+&nbsp;                                | ![][375]<br> [Metang]<br> 10%   | ![][338]<br> [Solrock]<br> 5%   | ![][337]<br> [Lunatone]<br> 5%   | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
+🌙<br>Night<br>Lv. 50 - 52             | ![][075]<br> [Graveler]<br> 20% | ![][437]<br> [Bronzong]<br> 20% | ![][035]<br> [Clefairy]<br> 10%  | ![][299]<br> [Nosepass]<br> 10% | ![][358]<br> [Chimecho]<br> 10% | ![][042]<br> [Golbat]<br> 10% | 
+&nbsp;                                | ![][375]<br> [Metang]<br> 10%   | ![][338]<br> [Solrock]<br> 5%   | ![][337]<br> [Lunatone]<br> 5%   | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
+🌊<br> Surf<br>Lv. 35 - 55             | ![][041]<br> [Zubat]<br> 90%    | ![][042]<br> [Golbat]<br> 10%   | &nbsp;                           | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
+![][old-rod]<br>Old Rod<br>Lv. 10     | ![][129]<br> [Magikarp]<br> 60% | ![][116]<br> [Horsea]<br> 30%   | ![][147]<br> [Dratini]<br> 10%   | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
+![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br> [Magikarp]<br> 60% | ![][116]<br> [Horsea]<br> 30%   | ![][147]<br> [Dratini]<br> 10%   | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
+![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br> [Gyarados]<br> 60% | ![][117]<br> [Seadra]<br> 30%   | ![][148]<br> [Dragonair]<br> 10% | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
 
 [Clefairy]: ../../pokemon_changes/035/
 [Zubat]: ../../pokemon_changes/041/

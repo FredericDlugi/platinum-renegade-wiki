@@ -3,14 +3,12 @@
 !!! note
     There are trainer on this route. You can find out more [here](../../trainer_changes/route_216/).
 
-Levels: 18 - 20 (Walking)
-
-Area                           | Pokémon                         | &nbsp;                        | &nbsp;                          | &nbsp;                         | &nbsp;                         | 
----                            | ---                             | ---                           | ---                             | ---                            | ---                            | 
-🌅<br>Morning                   | ![][459]<br> [Snover]<br> 30%   | ![][220]<br> [Swinub]<br> 25% | ![][238]<br> [Smoochum]<br> 20% | ![][361]<br> [Snorunt]<br> 15% | ![][215]<br> [Sneasel]<br> 10% | 
-🌞<br>Day                       | ![][459]<br> [Snover]<br> 30%   | ![][220]<br> [Swinub]<br> 25% | ![][238]<br> [Smoochum]<br> 20% | ![][361]<br> [Snorunt]<br> 15% | ![][215]<br> [Sneasel]<br> 10% | 
-🌙<br>Night                     | ![][459]<br> [Snover]<br> 30%   | ![][220]<br> [Swinub]<br> 25% | ![][238]<br> [Smoochum]<br> 20% | ![][361]<br> [Snorunt]<br> 15% | ![][215]<br> [Sneasel]<br> 10% | 
-![][poke-radar]<br> Poké Radar | ![][225]<br> [Delibird]<br> 22% | &nbsp;                        | &nbsp;                          | &nbsp;                         | &nbsp;                         | 
+Area                                          | Pokémon                         | &nbsp;                        | &nbsp;                          | &nbsp;                         | &nbsp;                         | 
+---                                           | ---                             | ---                           | ---                             | ---                            | ---                            | 
+🌅<br>Morning<br>Lv. 18 - 20                   | ![][459]<br> [Snover]<br> 30%   | ![][220]<br> [Swinub]<br> 25% | ![][238]<br> [Smoochum]<br> 20% | ![][361]<br> [Snorunt]<br> 15% | ![][215]<br> [Sneasel]<br> 10% | 
+🌞<br>Day<br>Lv. 18 - 20                       | ![][459]<br> [Snover]<br> 30%   | ![][220]<br> [Swinub]<br> 25% | ![][238]<br> [Smoochum]<br> 20% | ![][361]<br> [Snorunt]<br> 15% | ![][215]<br> [Sneasel]<br> 10% | 
+🌙<br>Night<br>Lv. 18 - 20                     | ![][459]<br> [Snover]<br> 30%   | ![][220]<br> [Swinub]<br> 25% | ![][238]<br> [Smoochum]<br> 20% | ![][361]<br> [Snorunt]<br> 15% | ![][215]<br> [Sneasel]<br> 10% | 
+![][poke-radar]<br> Poké Radar<br>Lv. 18 - 20 | ![][225]<br> [Delibird]<br> 22% | &nbsp;                        | &nbsp;                          | &nbsp;                         | &nbsp;                         | 
 
 [Sneasel]: ../../pokemon_changes/215/
 [Swinub]: ../../pokemon_changes/220/

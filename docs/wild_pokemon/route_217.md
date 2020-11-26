@@ -3,17 +3,16 @@
 !!! note
     There are trainer on this route. You can find out more [here](../../trainer_changes/route_217/).
 
-Levels: 44 - 48
 
-Area                           | Pokémon                          | &nbsp;                         | &nbsp;                         | &nbsp;                      | &nbsp;                           | &nbsp;                        | 
----                            | ---                              | ---                            | ---                            | ---                         | ---                              | ---                           | 
-🌅<br>Morning                   | ![][221]<br> [Piloswine]<br> 30% | ![][361]<br> [Snorunt]<br> 20% | ![][215]<br> [Sneasel]<br> 10% | ![][124]<br> [Jynx]<br> 10% | ![][460]<br> [Abomasnow]<br> 10% | ![][362]<br> [Glalie]<br> 10% | 
-&nbsp;                         | ![][225]<br> [Delibird]<br> 10%  | &nbsp;                         | &nbsp;                         | &nbsp;                      | &nbsp;                           | &nbsp;                        | 
-🌞<br>Day                       | ![][221]<br> [Piloswine]<br> 30% | ![][361]<br> [Snorunt]<br> 20% | ![][215]<br> [Sneasel]<br> 10% | ![][124]<br> [Jynx]<br> 10% | ![][460]<br> [Abomasnow]<br> 10% | ![][362]<br> [Glalie]<br> 10% | 
-&nbsp;                         | ![][225]<br> [Delibird]<br> 10%  | &nbsp;                         | &nbsp;                         | &nbsp;                      | &nbsp;                           | &nbsp;                        | 
-🌙<br>Night                     | ![][221]<br> [Piloswine]<br> 30% | ![][361]<br> [Snorunt]<br> 20% | ![][215]<br> [Sneasel]<br> 10% | ![][124]<br> [Jynx]<br> 10% | ![][460]<br> [Abomasnow]<br> 10% | ![][362]<br> [Glalie]<br> 10% | 
-&nbsp;                         | ![][225]<br> [Delibird]<br> 10%  | &nbsp;                         | &nbsp;                         | &nbsp;                      | &nbsp;                           | &nbsp;                        | 
-![][poke-radar]<br> Poké Radar | ![][478]<br> [Froslass]<br> 22%  | &nbsp;                         | &nbsp;                         | &nbsp;                      | &nbsp;                           | &nbsp;                        | 
+Area                                          | Pokémon                          | &nbsp;                         | &nbsp;                         | &nbsp;                      | &nbsp;                           | &nbsp;                        | 
+---                                           | ---                              | ---                            | ---                            | ---                         | ---                              | ---                           | 
+🌅<br>Morning<br>Lv. 44 - 48                   | ![][221]<br> [Piloswine]<br> 30% | ![][361]<br> [Snorunt]<br> 20% | ![][215]<br> [Sneasel]<br> 10% | ![][124]<br> [Jynx]<br> 10% | ![][460]<br> [Abomasnow]<br> 10% | ![][362]<br> [Glalie]<br> 10% | 
+&nbsp;                                        | ![][225]<br> [Delibird]<br> 10%  | &nbsp;                         | &nbsp;                         | &nbsp;                      | &nbsp;                           | &nbsp;                        | 
+🌞<br>Day<br>Lv. 44 - 48                       | ![][221]<br> [Piloswine]<br> 30% | ![][361]<br> [Snorunt]<br> 20% | ![][215]<br> [Sneasel]<br> 10% | ![][124]<br> [Jynx]<br> 10% | ![][460]<br> [Abomasnow]<br> 10% | ![][362]<br> [Glalie]<br> 10% | 
+&nbsp;                                        | ![][225]<br> [Delibird]<br> 10%  | &nbsp;                         | &nbsp;                         | &nbsp;                      | &nbsp;                           | &nbsp;                        | 
+🌙<br>Night<br>Lv. 44 - 48                     | ![][221]<br> [Piloswine]<br> 30% | ![][361]<br> [Snorunt]<br> 20% | ![][215]<br> [Sneasel]<br> 10% | ![][124]<br> [Jynx]<br> 10% | ![][460]<br> [Abomasnow]<br> 10% | ![][362]<br> [Glalie]<br> 10% | 
+&nbsp;                                        | ![][225]<br> [Delibird]<br> 10%  | &nbsp;                         | &nbsp;                         | &nbsp;                      | &nbsp;                           | &nbsp;                        | 
+![][poke-radar]<br> Poké Radar<br>Lv. 44 - 48 | ![][478]<br> [Froslass]<br> 22%  | &nbsp;                         | &nbsp;                         | &nbsp;                      | &nbsp;                           | &nbsp;                        | 
 
 [Jynx]: ../../pokemon_changes/124/
 [Sneasel]: ../../pokemon_changes/215/

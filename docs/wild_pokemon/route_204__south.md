@@ -3,21 +3,20 @@
 !!! note
     There are trainer on this route. You can find out more [here](../../trainer_changes/route_204__south/).
 
-Levels: 6 - 7 (Walking) 20 - 40 (Surfing)
 
-Area                           | Pokémon                         | &nbsp;                           | &nbsp;                            | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
----                            | ---                             | ---                              | ---                               | ---                          | ---                             | ---                           | 
-🌅<br>Morning                   | ![][396]<br> [Starly]<br> 20%   | ![][406]<br> [Budew]<br> 20%     | ![][069]<br> [Bellsprout]<br> 10% | ![][280]<br> [Ralts]<br> 10% | ![][010]<br> [Caterpie]<br> 10% | ![][013]<br> [Weedle]<br> 10% | 
-&nbsp;                         | ![][265]<br> [Wurmple]<br> 10%  | ![][165]<br> [Ledyba]<br> 10%    | &nbsp;                            | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
-🌞<br>Day                       | ![][396]<br> [Starly]<br> 20%   | ![][406]<br> [Budew]<br> 20%     | ![][069]<br> [Bellsprout]<br> 10% | ![][280]<br> [Ralts]<br> 10% | ![][010]<br> [Caterpie]<br> 10% | ![][013]<br> [Weedle]<br> 10% | 
-&nbsp;                         | ![][265]<br> [Wurmple]<br> 10%  | ![][191]<br> [Sunkern]<br> 10%   | &nbsp;                            | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
-🌙<br>Night                     | ![][396]<br> [Starly]<br> 20%   | ![][406]<br> [Budew]<br> 20%     | ![][069]<br> [Bellsprout]<br> 10% | ![][280]<br> [Ralts]<br> 10% | ![][010]<br> [Caterpie]<br> 10% | ![][013]<br> [Weedle]<br> 10% | 
-&nbsp;                         | ![][043]<br> [Oddish]<br> 10%   | ![][167]<br> [Spinarak]<br> 10%  | &nbsp;                            | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
-![][poke-radar]<br> Poké Radar | ![][315]<br> [Roselia]<br> 22%  | &nbsp;                           | &nbsp;                            | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
-🌊<br> Surf                     | ![][183]<br> [Marill]<br> 90%   | ![][184]<br> [Azumarill]<br> 10% | &nbsp;                            | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
-![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 60% | ![][118]<br> [Goldeen]<br> 30%   | ![][341]<br> [Corphish]<br> 10%   | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
-![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 60% | ![][118]<br> [Goldeen]<br> 30%   | ![][341]<br> [Corphish]<br> 10%   | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
-![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60% | ![][119]<br> [Seaking]<br> 30%   | ![][342]<br> [Crawdaunt]<br> 10%  | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
+Area                                        | Pokémon                         | &nbsp;                           | &nbsp;                            | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
+---                                         | ---                             | ---                              | ---                               | ---                          | ---                             | ---                           | 
+🌅<br>Morning<br>Lv. 6 - 7                   | ![][396]<br> [Starly]<br> 20%   | ![][406]<br> [Budew]<br> 20%     | ![][069]<br> [Bellsprout]<br> 10% | ![][280]<br> [Ralts]<br> 10% | ![][010]<br> [Caterpie]<br> 10% | ![][013]<br> [Weedle]<br> 10% | 
+&nbsp;                                      | ![][265]<br> [Wurmple]<br> 10%  | ![][165]<br> [Ledyba]<br> 10%    | &nbsp;                            | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
+🌞<br>Day<br>Lv. 6 - 7                       | ![][396]<br> [Starly]<br> 20%   | ![][406]<br> [Budew]<br> 20%     | ![][069]<br> [Bellsprout]<br> 10% | ![][280]<br> [Ralts]<br> 10% | ![][010]<br> [Caterpie]<br> 10% | ![][013]<br> [Weedle]<br> 10% | 
+&nbsp;                                      | ![][265]<br> [Wurmple]<br> 10%  | ![][191]<br> [Sunkern]<br> 10%   | &nbsp;                            | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
+🌙<br>Night<br>Lv. 6 - 7                     | ![][396]<br> [Starly]<br> 20%   | ![][406]<br> [Budew]<br> 20%     | ![][069]<br> [Bellsprout]<br> 10% | ![][280]<br> [Ralts]<br> 10% | ![][010]<br> [Caterpie]<br> 10% | ![][013]<br> [Weedle]<br> 10% | 
+&nbsp;                                      | ![][043]<br> [Oddish]<br> 10%   | ![][167]<br> [Spinarak]<br> 10%  | &nbsp;                            | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
+![][poke-radar]<br> Poké Radar<br>Lv. 6 - 7 | ![][315]<br> [Roselia]<br> 22%  | &nbsp;                           | &nbsp;                            | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
+🌊<br> Surf<br>Lv. 20 - 40                   | ![][183]<br> [Marill]<br> 90%   | ![][184]<br> [Azumarill]<br> 10% | &nbsp;                            | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
+![][old-rod]<br>Old Rod<br>Lv. 10           | ![][129]<br> [Magikarp]<br> 60% | ![][118]<br> [Goldeen]<br> 30%   | ![][341]<br> [Corphish]<br> 10%   | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
+![][good-rod]<br>Good Rod<br>Lv. 25         | ![][129]<br> [Magikarp]<br> 60% | ![][118]<br> [Goldeen]<br> 30%   | ![][341]<br> [Corphish]<br> 10%   | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
+![][super-rod]<br>Super Rod<br>Lv. 50       | ![][130]<br> [Gyarados]<br> 60% | ![][119]<br> [Seaking]<br> 30%   | ![][342]<br> [Crawdaunt]<br> 10%  | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
 
 [Caterpie]: ../../pokemon_changes/010/
 [Weedle]: ../../pokemon_changes/013/

@@ -3,22 +3,20 @@
 !!! note
     There are trainer on this route. You can find out more [here](../../trainer_changes/route_221/).
 
-Levels: 38 - 40 (Walking) 30 - 45 (Surf) 39 (Honey Tree)
 
-Area         | Pokémon                          | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                            | &nbsp;                           | 
----          | ---                              | ---                             | ---                             | ---                             | ---                               | ---                              | 
-🌅<br>Morning | ![][185]<br> [Sudowoodo]<br> 20% | ![][435]<br> [Skuntank]<br> 20% | ![][030]<br> [Nidorina]<br> 15% | ![][033]<br> [Nidorino]<br> 15% | ![][083]<br> [Farfetch'd]<br> 10% | ![][203]<br> [Girafarig]<br> 10% | 
-&nbsp;       | ![][085]<br> [Dodrio]<br> 10%    | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                            | &nbsp;                           | 
-🌞<br>Day     | ![][185]<br> [Sudowoodo]<br> 20% | ![][435]<br> [Skuntank]<br> 20% | ![][030]<br> [Nidorina]<br> 15% | ![][033]<br> [Nidorino]<br> 15% | ![][083]<br> [Farfetch'd]<br> 10% | ![][203]<br> [Girafarig]<br> 10% | 
-&nbsp;       | ![][085]<br> [Dodrio]<br> 10%    | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                            | &nbsp;                           | 
-🌙<br>Night   | ![][185]<br> [Sudowoodo]<br> 20% | ![][435]<br> [Skuntank]<br> 20% | ![][030]<br> [Nidorina]<br> 15% | ![][033]<br> [Nidorino]<br> 15% | ![][083]<br> [Farfetch'd]<br> 10% | ![][203]<br> [Girafarig]<br> 10% | 
-&nbsp;       | ![][085]<br> [Dodrio]<br> 10%    | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                            | &nbsp;                           | 
-![][poke-radar]<br> Poké Radar
-🌊<br> Surf                   | ![][278]<br> [Wingull]<br> 60% | ![][072]<br> [Tentacool]<br> 30% | ![][279]<br> [Pelipper]<br> 5%   | ![][073]<br> [Tentacruel]<br> 5% | &nbsp;                         | 
-![][old-rod]<br> Old Rod     | ![][098]<br> [Krabby]<br> 60%  | ![][116]<br> [Horsea]<br> 30%    | ![][366]<br> [Clamperl]<br> 10%  | &nbsp;                           | &nbsp;                         | 
-![][good-rod]<br> Good Rod   | ![][098]<br> [Krabby]<br> 60%  | ![][116]<br> [Horsea]<br> 30%    | ![][366]<br> [Clamperl]<br> 10%  | &nbsp;                           | &nbsp;                         | 
-![][super-rod]<br> Super Rod | ![][099]<br> [Kingler]<br> 60% | ![][116]<br> [Horsea]<br> 30%    | ![][367]<br> [Huntail]<br> 5%    | ![][368]<br> [Gorebyss]<br> 5%   | &nbsp;                         | 
-![][honey]<br> Honey Tree    | ![][421]<br> [Cherrim]<br> 30% | ![][285]<br> [Shroomish]<br> 20% | ![][102]<br> [Exeggcute]<br> 20% | ![][274]<br> [Nuzleaf]<br> 20%   | ![][114]<br> [Tangela]<br> 10% | 
+Area                                  | Pokémon                          | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;                            | &nbsp;                           | 
+---                                   | ---                              | ---                              | ---                              | ---                              | ---                               | ---                              | 
+🌅<br>Morning<br>Lv. 38 - 40           | ![][185]<br> [Sudowoodo]<br> 20% | ![][435]<br> [Skuntank]<br> 20%  | ![][030]<br> [Nidorina]<br> 15%  | ![][033]<br> [Nidorino]<br> 15%  | ![][083]<br> [Farfetch'd]<br> 10% | ![][203]<br> [Girafarig]<br> 10% | 
+&nbsp;                                | ![][085]<br> [Dodrio]<br> 10%    | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;                            | &nbsp;                           | 
+🌞<br>Day<br>Lv. 38 - 40               | ![][185]<br> [Sudowoodo]<br> 20% | ![][435]<br> [Skuntank]<br> 20%  | ![][030]<br> [Nidorina]<br> 15%  | ![][033]<br> [Nidorino]<br> 15%  | ![][083]<br> [Farfetch'd]<br> 10% | ![][203]<br> [Girafarig]<br> 10% | 
+&nbsp;                                | ![][085]<br> [Dodrio]<br> 10%    | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;                            | &nbsp;                           | 
+🌙<br>Night<br>Lv. 38 - 40             | ![][185]<br> [Sudowoodo]<br> 20% | ![][435]<br> [Skuntank]<br> 20%  | ![][030]<br> [Nidorina]<br> 15%  | ![][033]<br> [Nidorino]<br> 15%  | ![][083]<br> [Farfetch'd]<br> 10% | ![][203]<br> [Girafarig]<br> 10% | 
+&nbsp;                                | ![][085]<br> [Dodrio]<br> 10%    | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;                            | &nbsp;                           | 
+🌊<br> Surf<br>Lv. 30 - 45             | ![][278]<br> [Wingull]<br> 60%   | ![][072]<br> [Tentacool]<br> 30% | ![][279]<br> [Pelipper]<br> 5%   | ![][073]<br> [Tentacruel]<br> 5% | &nbsp;                            |                                  | 
+![][old-rod]<br>Old Rod<br>Lv. 10     | ![][098]<br> [Krabby]<br> 60%    | ![][116]<br> [Horsea]<br> 30%    | ![][366]<br> [Clamperl]<br> 10%  | &nbsp;                           | &nbsp;                            |                                  | 
+![][good-rod]<br>Good Rod<br>Lv. 25   | ![][098]<br> [Krabby]<br> 60%    | ![][116]<br> [Horsea]<br> 30%    | ![][366]<br> [Clamperl]<br> 10%  | &nbsp;                           | &nbsp;                            |                                  | 
+![][super-rod]<br>Super Rod<br>Lv. 50 | ![][099]<br> [Kingler]<br> 60%   | ![][116]<br> [Horsea]<br> 30%    | ![][367]<br> [Huntail]<br> 5%    | ![][368]<br> [Gorebyss]<br> 5%   | &nbsp;                            |                                  | 
+![][honey]<br> Honey Tree<br>Lv. 39   | ![][421]<br> [Cherrim]<br> 30%   | ![][285]<br> [Shroomish]<br> 20% | ![][102]<br> [Exeggcute]<br> 20% | ![][274]<br> [Nuzleaf]<br> 20%   | ![][114]<br> [Tangela]<br> 10%    |                                  | 
 
 [Nidorina]: ../../pokemon_changes/030/
 [Nidorino]: ../../pokemon_changes/033/

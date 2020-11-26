@@ -3,20 +3,19 @@
 !!! note
     There are trainer on this route. You can find out more [here](../../trainer_changes/route_230/).
 
-Levels: 65 - 67 (Walking) 65 - 67 (Surfing)
 
-Area                         | Pokémon                         | &nbsp;                            | &nbsp;                           | &nbsp;                         | &nbsp;                         | &nbsp;                          | 
----                          | ---                             | ---                               | ---                              | ---                            | ---                            | ---                             | 
-🌅<br>Morning                 | ![][279]<br> [Pelipper]<br> 20% | ![][419]<br> [Floatzel]<br> 20%   | ![][423]<br> [Gastrodon]<br> 15% | ![][055]<br> [Golduck]<br> 10% | ![][357]<br> [Tropius]<br> 10% | ![][335]<br> [Zangoose]<br> 10% | 
-&nbsp;                       | ![][336]<br> [Seviper]<br> 10%  | ![][176]<br> [Togetic]<br> 5%     | &nbsp;                           | &nbsp;                         | &nbsp;                         | &nbsp;                          | 
-🌞<br>Day                     | ![][279]<br> [Pelipper]<br> 20% | ![][419]<br> [Floatzel]<br> 20%   | ![][423]<br> [Gastrodon]<br> 15% | ![][055]<br> [Golduck]<br> 10% | ![][357]<br> [Tropius]<br> 10% | ![][335]<br> [Zangoose]<br> 10% | 
-&nbsp;                       | ![][336]<br> [Seviper]<br> 10%  | ![][176]<br> [Togetic]<br> 5%     | &nbsp;                           | &nbsp;                         | &nbsp;                         | &nbsp;                          | 
-🌙<br>Night                   | ![][279]<br> [Pelipper]<br> 20% | ![][419]<br> [Floatzel]<br> 20%   | ![][423]<br> [Gastrodon]<br> 15% | ![][055]<br> [Golduck]<br> 10% | ![][357]<br> [Tropius]<br> 10% | ![][335]<br> [Zangoose]<br> 10% | 
-&nbsp;                       | ![][336]<br> [Seviper]<br> 10%  | ![][176]<br> [Togetic]<br> 5%     | &nbsp;                           | &nbsp;                         | &nbsp;                         | &nbsp;                          | 
-🌊<br> Surf                   | ![][364]<br> [Sealeo]<br> 60%   | ![][073]<br> [Tentacruel]<br> 40% | &nbsp;                           | &nbsp;                         | &nbsp;                         | &nbsp;                          | 
-![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 60% | ![][222]<br> [Corsola]<br> 30%    | ![][320]<br> [Wailmer]<br> 10%   | &nbsp;                         | &nbsp;                         | &nbsp;                          | 
-![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 65% | ![][222]<br> [Corsola]<br> 30%    | ![][320]<br> [Wailmer]<br> 10%   | &nbsp;                         | &nbsp;                         | &nbsp;                          | 
-![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 65% | ![][222]<br> [Corsola]<br> 30%    | ![][321]<br> [Wailord]<br> 10%   | &nbsp;                         | &nbsp;                         | &nbsp;                          | 
+Area                                  | Pokémon                         | &nbsp;                            | &nbsp;                           | &nbsp;                         | &nbsp;                         | &nbsp;                          | 
+---                                   | ---                             | ---                               | ---                              | ---                            | ---                            | ---                             | 
+🌅<br>Morning<br>Lv. 65 - 67           | ![][279]<br> [Pelipper]<br> 20% | ![][419]<br> [Floatzel]<br> 20%   | ![][423]<br> [Gastrodon]<br> 15% | ![][055]<br> [Golduck]<br> 10% | ![][357]<br> [Tropius]<br> 10% | ![][335]<br> [Zangoose]<br> 10% | 
+&nbsp;                                | ![][336]<br> [Seviper]<br> 10%  | ![][176]<br> [Togetic]<br> 5%     | &nbsp;                           | &nbsp;                         | &nbsp;                         | &nbsp;                          | 
+🌞<br>Day<br>Lv. 65 - 67               | ![][279]<br> [Pelipper]<br> 20% | ![][419]<br> [Floatzel]<br> 20%   | ![][423]<br> [Gastrodon]<br> 15% | ![][055]<br> [Golduck]<br> 10% | ![][357]<br> [Tropius]<br> 10% | ![][335]<br> [Zangoose]<br> 10% | 
+&nbsp;                                | ![][336]<br> [Seviper]<br> 10%  | ![][176]<br> [Togetic]<br> 5%     | &nbsp;                           | &nbsp;                         | &nbsp;                         | &nbsp;                          | 
+🌙<br>Night<br>Lv. 65 - 67             | ![][279]<br> [Pelipper]<br> 20% | ![][419]<br> [Floatzel]<br> 20%   | ![][423]<br> [Gastrodon]<br> 15% | ![][055]<br> [Golduck]<br> 10% | ![][357]<br> [Tropius]<br> 10% | ![][335]<br> [Zangoose]<br> 10% | 
+&nbsp;                                | ![][336]<br> [Seviper]<br> 10%  | ![][176]<br> [Togetic]<br> 5%     | &nbsp;                           | &nbsp;                         | &nbsp;                         | &nbsp;                          | 
+🌊<br> Surf<br>Lv. 65 - 67             | ![][364]<br> [Sealeo]<br> 60%   | ![][073]<br> [Tentacruel]<br> 40% | &nbsp;                           | &nbsp;                         | &nbsp;                         | &nbsp;                          | 
+![][old-rod]<br>Old Rod<br>Lv. 10     | ![][129]<br> [Magikarp]<br> 60% | ![][222]<br> [Corsola]<br> 30%    | ![][320]<br> [Wailmer]<br> 10%   | &nbsp;                         | &nbsp;                         | &nbsp;                          | 
+![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br> [Magikarp]<br> 65% | ![][222]<br> [Corsola]<br> 30%    | ![][320]<br> [Wailmer]<br> 10%   | &nbsp;                         | &nbsp;                         | &nbsp;                          | 
+![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br> [Gyarados]<br> 65% | ![][222]<br> [Corsola]<br> 30%    | ![][321]<br> [Wailord]<br> 10%   | &nbsp;                         | &nbsp;                         | &nbsp;                          | 
 
 [Golduck]: ../../pokemon_changes/055/
 [Tentacruel]: ../../pokemon_changes/073/

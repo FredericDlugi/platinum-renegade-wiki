@@ -3,20 +3,19 @@
 !!! note
     There are trainer on this route. You can find out more [here](../../trainer_changes/route_227/).
 
-Levels: 65 - 67 (Walking) 65 - 67 (Surfing)
 
-Area                         | Pokémon                           | &nbsp;                          | &nbsp;                          | &nbsp;                        | &nbsp;                         | &nbsp;                         | 
----                          | ---                               | ---                             | ---                             | ---                           | ---                            | ---                            | 
-🌅<br>Morning                 | ![][112]<br> [Rhydon]<br> 20%     | ![][323]<br> [Camerupt]<br> 20% | ![][227]<br> [Skarmory]<br> 15% | ![][207]<br> [Gligar]<br> 15% | ![][110]<br> [Weezing]<br> 10% | ![][324]<br> [Torkoal]<br> 10% | 
-&nbsp;                       | ![][327]<br> [Spinda]<br> 10%     | &nbsp;                          | &nbsp;                          | &nbsp;                        | &nbsp;                         | &nbsp;                         | 
-🌞<br>Day                     | ![][112]<br> [Rhydon]<br> 20%     | ![][323]<br> [Camerupt]<br> 20% | ![][227]<br> [Skarmory]<br> 15% | ![][207]<br> [Gligar]<br> 15% | ![][110]<br> [Weezing]<br> 10% | ![][324]<br> [Torkoal]<br> 10% | 
-&nbsp;                       | ![][327]<br> [Spinda]<br> 10%     | &nbsp;                          | &nbsp;                          | &nbsp;                        | &nbsp;                         | &nbsp;                         | 
-🌙<br>Night                   | ![][112]<br> [Rhydon]<br> 20%     | ![][323]<br> [Camerupt]<br> 20% | ![][227]<br> [Skarmory]<br> 15% | ![][207]<br> [Gligar]<br> 15% | ![][110]<br> [Weezing]<br> 10% | ![][324]<br> [Torkoal]<br> 10% | 
-&nbsp;                       | ![][327]<br> [Spinda]<br> 10%     | &nbsp;                          | &nbsp;                          | &nbsp;                        | &nbsp;                         | &nbsp;                         | 
-🌊<br> Surf                   | ![][061]<br> [Poliwhirl]<br> 100% | &nbsp;                          | &nbsp;                          | &nbsp;                        | &nbsp;                         | &nbsp;                         | 
-![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 65%   | ![][339]<br> [Barboach]<br> 35% | &nbsp;                          | &nbsp;                        | &nbsp;                         | &nbsp;                         | 
-![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 65%   | ![][339]<br> [Barboach]<br> 35% | &nbsp;                          | &nbsp;                        | &nbsp;                         | &nbsp;                         | 
-![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 65%   | ![][340]<br> [Whiscash]<br> 35% | &nbsp;                          | &nbsp;                        | &nbsp;                         | &nbsp;                         | 
+Area                                  | Pokémon                           | &nbsp;                          | &nbsp;                          | &nbsp;                        | &nbsp;                         | &nbsp;                         | 
+---                                   | ---                               | ---                             | ---                             | ---                           | ---                            | ---                            | 
+🌅<br>Morning<br>Lv. 65 - 67           | ![][112]<br> [Rhydon]<br> 20%     | ![][323]<br> [Camerupt]<br> 20% | ![][227]<br> [Skarmory]<br> 15% | ![][207]<br> [Gligar]<br> 15% | ![][110]<br> [Weezing]<br> 10% | ![][324]<br> [Torkoal]<br> 10% | 
+&nbsp;                                | ![][327]<br> [Spinda]<br> 10%     | &nbsp;                          | &nbsp;                          | &nbsp;                        | &nbsp;                         | &nbsp;                         | 
+🌞<br>Day<br>Lv. 65 - 67               | ![][112]<br> [Rhydon]<br> 20%     | ![][323]<br> [Camerupt]<br> 20% | ![][227]<br> [Skarmory]<br> 15% | ![][207]<br> [Gligar]<br> 15% | ![][110]<br> [Weezing]<br> 10% | ![][324]<br> [Torkoal]<br> 10% | 
+&nbsp;                                | ![][327]<br> [Spinda]<br> 10%     | &nbsp;                          | &nbsp;                          | &nbsp;                        | &nbsp;                         | &nbsp;                         | 
+🌙<br>Night<br>Lv. 65 - 67             | ![][112]<br> [Rhydon]<br> 20%     | ![][323]<br> [Camerupt]<br> 20% | ![][227]<br> [Skarmory]<br> 15% | ![][207]<br> [Gligar]<br> 15% | ![][110]<br> [Weezing]<br> 10% | ![][324]<br> [Torkoal]<br> 10% | 
+&nbsp;                                | ![][327]<br> [Spinda]<br> 10%     | &nbsp;                          | &nbsp;                          | &nbsp;                        | &nbsp;                         | &nbsp;                         | 
+🌊<br> Surf<br>Lv. 65 - 67             | ![][061]<br> [Poliwhirl]<br> 100% | &nbsp;                          | &nbsp;                          | &nbsp;                        | &nbsp;                         | &nbsp;                         | 
+![][old-rod]<br>Old Rod<br>Lv. 10     | ![][129]<br> [Magikarp]<br> 65%   | ![][339]<br> [Barboach]<br> 35% | &nbsp;                          | &nbsp;                        | &nbsp;                         | &nbsp;                         | 
+![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br> [Magikarp]<br> 65%   | ![][339]<br> [Barboach]<br> 35% | &nbsp;                          | &nbsp;                        | &nbsp;                         | &nbsp;                         | 
+![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br> [Gyarados]<br> 65%   | ![][340]<br> [Whiscash]<br> 35% | &nbsp;                          | &nbsp;                        | &nbsp;                         | &nbsp;                         | 
 
 [Poliwhirl]: ../../pokemon_changes/061/
 [Weezing]: ../../pokemon_changes/110/

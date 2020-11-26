@@ -1,15 +1,14 @@
 # Oreburgh Gate ~ B1F
-Levels: 8 - 10 (Walking) 20 - 40 (Surfing)
 
-Area                         | Pokémon                         | &nbsp;                          | &nbsp;                         | &nbsp;                       | 
----                          | ---                             | ---                             | ---                            | ---                          | 
-🌅<br>Morning                 | ![][041]<br> [Zubat]<br> 35%    | ![][074]<br> [Geodude]<br> 35%  | ![][050]<br> [Diglett]<br> 20% | ![][447]<br> [Riolu]<br> 10% | 
-🌞<br>Day                     | ![][041]<br> [Zubat]<br> 35%    | ![][074]<br> [Geodude]<br> 35%  | ![][050]<br> [Diglett]<br> 20% | ![][447]<br> [Riolu]<br> 10% | 
-🌙<br>Night                   | ![][041]<br> [Zubat]<br> 35%    | ![][074]<br> [Geodude]<br> 35%  | ![][050]<br> [Diglett]<br> 20% | ![][447]<br> [Riolu]<br> 10% | 
-🌊<br> Surf                   | ![][041]<br> [Zubat]<br> 90%    | ![][042]<br> [Golbat]<br> 10%   | &nbsp;                         | &nbsp;                       | 
-![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 65% | ![][339]<br> [Barboach]<br> 35% | &nbsp;                         | &nbsp;                       | 
-![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 65% | ![][339]<br> [Barboach]<br> 35% | &nbsp;                         | &nbsp;                       | 
-![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 65% | ![][340]<br> [Whiscash]<br> 35% | &nbsp;                         | &nbsp;                       | 
+Area                                  | Pokémon                         | &nbsp;                          | &nbsp;                         | &nbsp;                       | 
+---                                   | ---                             | ---                             | ---                            | ---                          | 
+🌅<br>Morning<br>Lv. 8 - 10            | ![][041]<br> [Zubat]<br> 35%    | ![][074]<br> [Geodude]<br> 35%  | ![][050]<br> [Diglett]<br> 20% | ![][447]<br> [Riolu]<br> 10% | 
+🌞<br>Day<br>Lv. 8 - 10                | ![][041]<br> [Zubat]<br> 35%    | ![][074]<br> [Geodude]<br> 35%  | ![][050]<br> [Diglett]<br> 20% | ![][447]<br> [Riolu]<br> 10% | 
+🌙<br>Night<br>Lv. 8 - 10              | ![][041]<br> [Zubat]<br> 35%    | ![][074]<br> [Geodude]<br> 35%  | ![][050]<br> [Diglett]<br> 20% | ![][447]<br> [Riolu]<br> 10% | 
+🌊<br> Surf<br>Lv. 20 - 40             | ![][041]<br> [Zubat]<br> 90%    | ![][042]<br> [Golbat]<br> 10%   | &nbsp;                         | &nbsp;                       | 
+![][old-rod]<br>Old Rod<br>Lv. 10     | ![][129]<br> [Magikarp]<br> 65% | ![][339]<br> [Barboach]<br> 35% | &nbsp;                         | &nbsp;                       | 
+![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br> [Magikarp]<br> 65% | ![][339]<br> [Barboach]<br> 35% | &nbsp;                         | &nbsp;                       | 
+![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br> [Gyarados]<br> 65% | ![][340]<br> [Whiscash]<br> 35% | &nbsp;                         | &nbsp;                       | 
 
 [Zubat]: ../../pokemon_changes/041/
 [Golbat]: ../../pokemon_changes/042/

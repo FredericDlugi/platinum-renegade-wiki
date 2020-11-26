@@ -3,22 +3,21 @@
 !!! note
     There are trainer on this route. You can find out more [here](../../trainer_changes/route_218/).
 
-Levels: 38 - 39 (Walking) 20 - 45 (Surfing) 39 (Honey Tree)
 
-Area                         | Pokémon                           | &nbsp;                            | &nbsp;                           | &nbsp;                          | &nbsp;                           | &nbsp;                        | 
----                          | ---                               | ---                               | ---                              | ---                             | ---                              | ---                           | 
-🌅<br>Morning                 | ![][419]<br> [Floatzel]<br> 20%   | ![][423]<br> [Gastrodon]<br> 20%  | ![][432]<br> [Purugly]<br> 10%   | ![][122]<br> [Mr. Mime]<br> 10% | ![][101]<br> [Electrode]<br> 10% | ![][132]<br> [Ditto]<br> 10%  | 
-&nbsp;                       | ![][125]<br> [Electabuzz]<br> 10% | ![][441]<br> [Chatot]<br> 10%     | &nbsp;                           | &nbsp;                          | &nbsp;                           | &nbsp;                        | 
-🌞<br>Day                     | ![][419]<br> [Floatzel]<br> 20%   | ![][423]<br> [Gastrodon]<br> 20%  | ![][432]<br> [Purugly]<br> 10%   | ![][122]<br> [Mr. Mime]<br> 10% | ![][101]<br> [Electrode]<br> 10% | ![][132]<br> [Ditto]<br> 10%  | 
-&nbsp;                       | ![][125]<br> [Electabuzz]<br> 10% | ![][441]<br> [Chatot]<br> 10%     | &nbsp;                           | &nbsp;                          | &nbsp;                           | &nbsp;                        | 
-🌙<br>Night                   | ![][419]<br> [Floatzel]<br> 20%   | ![][423]<br> [Gastrodon]<br> 20%  | ![][432]<br> [Purugly]<br> 20%   | ![][122]<br> [Mr. Mime]<br> 10% | ![][101]<br> [Electrode]<br> 10% | ![][132]<br> [Ditto]<br> 10%  | 
-&nbsp;                       | ![][125]<br> [Electabuzz]<br> 10% | &nbsp;                            | &nbsp;                           | &nbsp;                          | &nbsp;                           | &nbsp;                        | 
-🌊<br> Surf                   | ![][072]<br> [Tentacool]<br> 60%  | ![][422]<br> [Shellos]<br> 30%    | ![][073]<br> [Tentacruel]<br> 5% | ![][423]<br> [Gastrodon]<br> 5% | &nbsp;                           | &nbsp;                        | 
-![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 60%   | ![][456]<br> [Finneon]<br> 30%    | ![][120]<br> [Staryu]<br> 10%    | &nbsp;                          | &nbsp;                           | &nbsp;                        | 
-![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60%   | ![][456]<br> [Finneon]<br> 30%    | ![][120]<br> [Staryu]<br> 10%    | &nbsp;                          | &nbsp;                           | &nbsp;                        | 
-![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60%   | ![][457]<br> [Lumineon]<br> 30%   | ![][121]<br> [Starmie]<br> 10%   | &nbsp;                          | &nbsp;                           | &nbsp;                        | 
-![][honey]<br> Honey Tree    | ![][415]<br> [Combee]<br> 30%     | ![][205]<br> [Forretress]<br> 10% | ![][413]<br> [Wormadam]<br> 10%  | ![][414]<br> [Mothim]<br> 10%   | ![][267]<br> [Beautifly]<br> 10% | ![][269]<br> [Dustox]<br> 10% | 
-&nbsp;                       | ![][214]<br> [Heracross]<br> 10%  | ![][416]<br> [Vespiquen]<br> 10%  | &nbsp;                           | &nbsp;                          | &nbsp;                           | &nbsp;                        | 
+Area                                  | Pokémon                           | &nbsp;                            | &nbsp;                           | &nbsp;                          | &nbsp;                           | &nbsp;                        | 
+---                                   | ---                               | ---                               | ---                              | ---                             | ---                              | ---                           | 
+🌅<br>Morning<br>Lv. 38 - 39           | ![][419]<br> [Floatzel]<br> 20%   | ![][423]<br> [Gastrodon]<br> 20%  | ![][432]<br> [Purugly]<br> 10%   | ![][122]<br> [Mr. Mime]<br> 10% | ![][101]<br> [Electrode]<br> 10% | ![][132]<br> [Ditto]<br> 10%  | 
+&nbsp;                                | ![][125]<br> [Electabuzz]<br> 10% | ![][441]<br> [Chatot]<br> 10%     | &nbsp;                           | &nbsp;                          | &nbsp;                           | &nbsp;                        | 
+🌞<br>Day<br>Lv. 38 - 39               | ![][419]<br> [Floatzel]<br> 20%   | ![][423]<br> [Gastrodon]<br> 20%  | ![][432]<br> [Purugly]<br> 10%   | ![][122]<br> [Mr. Mime]<br> 10% | ![][101]<br> [Electrode]<br> 10% | ![][132]<br> [Ditto]<br> 10%  | 
+&nbsp;                                | ![][125]<br> [Electabuzz]<br> 10% | ![][441]<br> [Chatot]<br> 10%     | &nbsp;                           | &nbsp;                          | &nbsp;                           | &nbsp;                        | 
+🌙<br>Night<br>Lv. 38 - 39             | ![][419]<br> [Floatzel]<br> 20%   | ![][423]<br> [Gastrodon]<br> 20%  | ![][432]<br> [Purugly]<br> 20%   | ![][122]<br> [Mr. Mime]<br> 10% | ![][101]<br> [Electrode]<br> 10% | ![][132]<br> [Ditto]<br> 10%  | 
+&nbsp;                                | ![][125]<br> [Electabuzz]<br> 10% | &nbsp;                            | &nbsp;                           | &nbsp;                          | &nbsp;                           | &nbsp;                        | 
+🌊<br> Surf<br>Lv. 20 - 45             | ![][072]<br> [Tentacool]<br> 60%  | ![][422]<br> [Shellos]<br> 30%    | ![][073]<br> [Tentacruel]<br> 5% | ![][423]<br> [Gastrodon]<br> 5% | &nbsp;                           | &nbsp;                        | 
+![][old-rod]<br>Old Rod<br>Lv. 10     | ![][129]<br> [Magikarp]<br> 60%   | ![][456]<br> [Finneon]<br> 30%    | ![][120]<br> [Staryu]<br> 10%    | &nbsp;                          | &nbsp;                           | &nbsp;                        | 
+![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br> [Magikarp]<br> 60%   | ![][456]<br> [Finneon]<br> 30%    | ![][120]<br> [Staryu]<br> 10%    | &nbsp;                          | &nbsp;                           | &nbsp;                        | 
+![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br> [Gyarados]<br> 60%   | ![][457]<br> [Lumineon]<br> 30%   | ![][121]<br> [Starmie]<br> 10%   | &nbsp;                          | &nbsp;                           | &nbsp;                        | 
+![][honey]<br> Honey Tree<br>Lv. 39   | ![][415]<br> [Combee]<br> 30%     | ![][205]<br> [Forretress]<br> 10% | ![][413]<br> [Wormadam]<br> 10%  | ![][414]<br> [Mothim]<br> 10%   | ![][267]<br> [Beautifly]<br> 10% | ![][269]<br> [Dustox]<br> 10% | 
+&nbsp;                                | ![][214]<br> [Heracross]<br> 10%  | ![][416]<br> [Vespiquen]<br> 10%  | &nbsp;                           | &nbsp;                          | &nbsp;                           | &nbsp;                        | 
 
 [Tentacool]: ../../pokemon_changes/072/
 [Tentacruel]: ../../pokemon_changes/073/

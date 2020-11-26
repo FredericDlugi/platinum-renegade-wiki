@@ -3,17 +3,15 @@
 !!! note
     There are trainer on this route. You can find out more [here](../../trainer_changes/route_202/).
 
-Levels: 5 - 6 (Walking)
-
-Area                           | Pokémon                         | &nbsp;                           | &nbsp;                          | &nbsp;                         | &nbsp;                           | &nbsp;                           | 
----                            | ---                             | ---                              | ---                             | ---                            | ---                              | ---                              | 
-🌅<br>Morning                   | ![][403]<br> [Shinx]<br> 20%    | ![][263]<br> [Zigzagoon]<br> 20% | ![][161]<br> [Sentret]<br> 20%  | ![][019]<br> [Rattata]<br> 10% | ![][261]<br> [Poochyena]<br> 10% | ![][058]<br> [Growlithe]<br> 10% | 
-&nbsp;                         | ![][412]<br> [Burmy]<br> 10%    | &nbsp;                           | &nbsp;                          | &nbsp;                         | &nbsp;                           | &nbsp;                           | 
-🌞<br>Day                       | ![][403]<br> [Shinx]<br> 20%    | ![][263]<br> [Zigzagoon]<br> 20% | ![][161]<br> [Sentret]<br> 20%  | ![][019]<br> [Rattata]<br> 10% | ![][261]<br> [Poochyena]<br> 10% | ![][058]<br> [Growlithe]<br> 10% | 
-&nbsp;                         | ![][412]<br> [Burmy]<br> 10%    | &nbsp;                           | &nbsp;                          | &nbsp;                         | &nbsp;                           | &nbsp;                           | 
-🌙<br>Night                     | ![][403]<br> [Shinx]<br> 20%    | ![][263]<br> [Zigzagoon]<br> 20% | ![][163]<br> [Hoothoot]<br> 20% | ![][019]<br> [Rattata]<br> 10% | ![][261]<br> [Poochyena]<br> 10% | ![][058]<br> [Growlithe]<br> 10% | 
-&nbsp;                         | ![][412]<br> [Burmy]<br> 10%    | &nbsp;                           | &nbsp;                          | &nbsp;                         | &nbsp;                           | &nbsp;                           | 
-![][poke-radar]<br> Poké Radar | ![][228]<br> [Houndour]<br> 22% | &nbsp;                           | &nbsp;                          | &nbsp;                         | &nbsp;                           | &nbsp;                           | 
+Area                                        | Pokémon                         | &nbsp;                           | &nbsp;                          | &nbsp;                         | &nbsp;                           | &nbsp;                           | 
+---                                         | ---                             | ---                              | ---                             | ---                            | ---                              | ---                              | 
+🌅<br>Morning<br>Lv. 5 - 6                   | ![][403]<br> [Shinx]<br> 20%    | ![][263]<br> [Zigzagoon]<br> 20% | ![][161]<br> [Sentret]<br> 20%  | ![][019]<br> [Rattata]<br> 10% | ![][261]<br> [Poochyena]<br> 10% | ![][058]<br> [Growlithe]<br> 10% | 
+&nbsp;                                      | ![][412]<br> [Burmy]<br> 10%    | &nbsp;                           | &nbsp;                          | &nbsp;                         | &nbsp;                           | &nbsp;                           | 
+🌞<br>Day<br>Lv. 5 - 6                       | ![][403]<br> [Shinx]<br> 20%    | ![][263]<br> [Zigzagoon]<br> 20% | ![][161]<br> [Sentret]<br> 20%  | ![][019]<br> [Rattata]<br> 10% | ![][261]<br> [Poochyena]<br> 10% | ![][058]<br> [Growlithe]<br> 10% | 
+&nbsp;                                      | ![][412]<br> [Burmy]<br> 10%    | &nbsp;                           | &nbsp;                          | &nbsp;                         | &nbsp;                           | &nbsp;                           | 
+🌙<br>Night<br>Lv. 5 - 6                     | ![][403]<br> [Shinx]<br> 20%    | ![][263]<br> [Zigzagoon]<br> 20% | ![][163]<br> [Hoothoot]<br> 20% | ![][019]<br> [Rattata]<br> 10% | ![][261]<br> [Poochyena]<br> 10% | ![][058]<br> [Growlithe]<br> 10% | 
+&nbsp;                                      | ![][412]<br> [Burmy]<br> 10%    | &nbsp;                           | &nbsp;                          | &nbsp;                         | &nbsp;                           | &nbsp;                           | 
+![][poke-radar]<br> Poké Radar<br>Lv. 5 - 6 | ![][228]<br> [Houndour]<br> 22% | &nbsp;                           | &nbsp;                          | &nbsp;                         | &nbsp;                           | &nbsp;                           | 
 
 [Rattata]: ../../pokemon_changes/019/
 [Growlithe]: ../../pokemon_changes/058/

@@ -3,17 +3,15 @@
 !!! note
     There are trainer on this route. You can find out more [here](../../trainer_changes/route_204__north/).
 
-Levels: 11 - 12 (Walking)
-
-Area                           | Pokémon                        | &nbsp;                          | &nbsp;                            | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
----                            | ---                            | ---                             | ---                               | ---                          | ---                             | ---                           | 
-🌅<br>Morning                   | ![][396]<br> [Starly]<br> 20%  | ![][406]<br> [Budew]<br> 20%    | ![][069]<br> [Bellsprout]<br> 10% | ![][280]<br> [Ralts]<br> 10% | ![][010]<br> [Caterpie]<br> 10% | ![][013]<br> [Weedle]<br> 10% | 
-&nbsp;                         | ![][265]<br> [Wurmple]<br> 10% | ![][165]<br> [Ledyba]<br> 10%   | &nbsp;                            | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
-🌞<br>Day                       | ![][396]<br> [Starly]<br> 20%  | ![][406]<br> [Budew]<br> 20%    | ![][069]<br> [Bellsprout]<br> 10% | ![][280]<br> [Ralts]<br> 10% | ![][010]<br> [Caterpie]<br> 10% | ![][013]<br> [Weedle]<br> 10% | 
-&nbsp;                         | ![][265]<br> [Wurmple]<br> 10% | ![][191]<br> [Sunkern]<br> 10%  | &nbsp;                            | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
-🌙<br>Night                     | ![][396]<br> [Starly]<br> 20%  | ![][406]<br> [Budew]<br> 20%    | ![][069]<br> [Bellsprout]<br> 10% | ![][280]<br> [Ralts]<br> 10% | ![][010]<br> [Caterpie]<br> 10% | ![][013]<br> [Weedle]<br> 10% | 
-&nbsp;                         | ![][043]<br> [Oddish]<br> 10%  | ![][167]<br> [Spinarak]<br> 10% | &nbsp;                            | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
-![][poke-radar]<br> Poké Radar | ![][315]<br> [Roselia]<br> 22% | &nbsp;                          | &nbsp;                            | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
+Area                                          | Pokémon                        | &nbsp;                          | &nbsp;                            | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
+---                                           | ---                            | ---                             | ---                               | ---                          | ---                             | ---                           | 
+🌅<br>Morning<br>Lv. 11 - 12                   | ![][396]<br> [Starly]<br> 20%  | ![][406]<br> [Budew]<br> 20%    | ![][069]<br> [Bellsprout]<br> 10% | ![][280]<br> [Ralts]<br> 10% | ![][010]<br> [Caterpie]<br> 10% | ![][013]<br> [Weedle]<br> 10% | 
+&nbsp;                                        | ![][265]<br> [Wurmple]<br> 10% | ![][165]<br> [Ledyba]<br> 10%   | &nbsp;                            | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
+🌞<br>Day<br>Lv. 11 - 12                       | ![][396]<br> [Starly]<br> 20%  | ![][406]<br> [Budew]<br> 20%    | ![][069]<br> [Bellsprout]<br> 10% | ![][280]<br> [Ralts]<br> 10% | ![][010]<br> [Caterpie]<br> 10% | ![][013]<br> [Weedle]<br> 10% | 
+&nbsp;                                        | ![][265]<br> [Wurmple]<br> 10% | ![][191]<br> [Sunkern]<br> 10%  | &nbsp;                            | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
+🌙<br>Night<br>Lv. 11 - 12                     | ![][396]<br> [Starly]<br> 20%  | ![][406]<br> [Budew]<br> 20%    | ![][069]<br> [Bellsprout]<br> 10% | ![][280]<br> [Ralts]<br> 10% | ![][010]<br> [Caterpie]<br> 10% | ![][013]<br> [Weedle]<br> 10% | 
+&nbsp;                                        | ![][043]<br> [Oddish]<br> 10%  | ![][167]<br> [Spinarak]<br> 10% | &nbsp;                            | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
+![][poke-radar]<br> Poké Radar<br>Lv. 11 - 12 | ![][315]<br> [Roselia]<br> 22% | &nbsp;                          | &nbsp;                            | &nbsp;                       | &nbsp;                          | &nbsp;                        | 
 
 [Caterpie]: ../../pokemon_changes/010/
 [Weedle]: ../../pokemon_changes/013/

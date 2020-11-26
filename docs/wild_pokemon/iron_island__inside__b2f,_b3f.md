@@ -1,14 +1,13 @@
 # Iron Island ~ Inside ~ B2F, B3F
-Levels: 43 - 45
 
-Area         | Pokémon                         | &nbsp;                        | &nbsp;                        | &nbsp;                        | &nbsp;                         | &nbsp;                          | 
----          | ---                             | ---                           | ---                           | ---                           | ---                            | ---                             | 
-🌅<br>Morning | ![][075]<br> [Graveler]<br> 25% | ![][042]<br> [Golbat]<br> 20% | ![][305]<br> [Lairon]<br> 15% | ![][303]<br> [Mawile]<br> 10% | ![][302]<br> [Sableye]<br> 10% | ![][299]<br> [Nosepass]<br> 10% | 
-&nbsp;       | ![][112]<br> [Rhydon]<br> 5%    | ![][208]<br> [Steelix]<br> 5% | &nbsp;                        | &nbsp;                        | &nbsp;                         | &nbsp;                          | 
-🌞<br>Day     | ![][075]<br> [Graveler]<br> 25% | ![][042]<br> [Golbat]<br> 20% | ![][305]<br> [Lairon]<br> 15% | ![][303]<br> [Mawile]<br> 10% | ![][302]<br> [Sableye]<br> 10% | ![][299]<br> [Nosepass]<br> 10% | 
-&nbsp;       | ![][112]<br> [Rhydon]<br> 5%    | ![][208]<br> [Steelix]<br> 5% | &nbsp;                        | &nbsp;                        | &nbsp;                         | &nbsp;                          | 
-🌙<br>Night   | ![][075]<br> [Graveler]<br> 25% | ![][042]<br> [Golbat]<br> 20% | ![][305]<br> [Lairon]<br> 15% | ![][303]<br> [Mawile]<br> 10% | ![][302]<br> [Sableye]<br> 10% | ![][299]<br> [Nosepass]<br> 10% | 
-&nbsp;       | ![][112]<br> [Rhydon]<br> 5%    | ![][208]<br> [Steelix]<br> 5% | &nbsp;                        | &nbsp;                        | &nbsp;                         | &nbsp;                          | 
+Area                        | Pokémon                         | &nbsp;                        | &nbsp;                        | &nbsp;                        | &nbsp;                         | &nbsp;                          | 
+---                         | ---                             | ---                           | ---                           | ---                           | ---                            | ---                             | 
+🌅<br>Morning<br>Lv. 43 - 45 | ![][075]<br> [Graveler]<br> 25% | ![][042]<br> [Golbat]<br> 20% | ![][305]<br> [Lairon]<br> 15% | ![][303]<br> [Mawile]<br> 10% | ![][302]<br> [Sableye]<br> 10% | ![][299]<br> [Nosepass]<br> 10% | 
+&nbsp;                      | ![][112]<br> [Rhydon]<br> 5%    | ![][208]<br> [Steelix]<br> 5% | &nbsp;                        | &nbsp;                        | &nbsp;                         | &nbsp;                          | 
+🌞<br>Day<br>Lv. 43 - 45     | ![][075]<br> [Graveler]<br> 25% | ![][042]<br> [Golbat]<br> 20% | ![][305]<br> [Lairon]<br> 15% | ![][303]<br> [Mawile]<br> 10% | ![][302]<br> [Sableye]<br> 10% | ![][299]<br> [Nosepass]<br> 10% | 
+&nbsp;                      | ![][112]<br> [Rhydon]<br> 5%    | ![][208]<br> [Steelix]<br> 5% | &nbsp;                        | &nbsp;                        | &nbsp;                         | &nbsp;                          | 
+🌙<br>Night<br>Lv. 43 - 45   | ![][075]<br> [Graveler]<br> 25% | ![][042]<br> [Golbat]<br> 20% | ![][305]<br> [Lairon]<br> 15% | ![][303]<br> [Mawile]<br> 10% | ![][302]<br> [Sableye]<br> 10% | ![][299]<br> [Nosepass]<br> 10% | 
+&nbsp;                      | ![][112]<br> [Rhydon]<br> 5%    | ![][208]<br> [Steelix]<br> 5% | &nbsp;                        | &nbsp;                        | &nbsp;                         | &nbsp;                          | 
 
 [Golbat]: ../../pokemon_changes/042/
 [Graveler]: ../../pokemon_changes/075/

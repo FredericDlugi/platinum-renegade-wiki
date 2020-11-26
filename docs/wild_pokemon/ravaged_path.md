@@ -1,15 +1,14 @@
 # Ravaged Path
-Levels: 6 - 8 (Walking) 20 - 40 (Surfing)
 
-Area                         | Pokémon                         | &nbsp;                          | &nbsp;                        | &nbsp;                         | &nbsp;                           | &nbsp;                          | 
----                          | ---                             | ---                             | ---                           | ---                            | ---                              | ---                             | 
-🌅<br>Morning                 | ![][041]<br> [Zubat]<br> 30%    | ![][074]<br> [Geodude]<br> 20%  | ![][194]<br> [Wooper]<br> 20% | ![][054]<br> [Psyduck]<br> 10% | ![][027]<br> [Sandshrew]<br> 10% | ![][296]<br> [Makuhita]<br> 10% | 
-🌞<br>Day                     | ![][041]<br> [Zubat]<br> 30%    | ![][074]<br> [Geodude]<br> 20%  | ![][194]<br> [Wooper]<br> 20% | ![][054]<br> [Psyduck]<br> 10% | ![][027]<br> [Sandshrew]<br> 10% | ![][296]<br> [Makuhita]<br> 10% | 
-🌙<br>Night                   | ![][041]<br> [Zubat]<br> 30%    | ![][074]<br> [Geodude]<br> 20%  | ![][194]<br> [Wooper]<br> 20% | ![][054]<br> [Psyduck]<br> 10% | ![][027]<br> [Sandshrew]<br> 10% | ![][296]<br> [Makuhita]<br> 10% | 
-🌊<br> Surf                   | ![][194]<br> [Wooper]<br> 90%   | ![][195]<br> [Quagsire]<br> 10% | &nbsp;                        | &nbsp;                         | &nbsp;                           | &nbsp;                          | 
-![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 65% | ![][339]<br> [Barboach]<br> 35% | &nbsp;                        | &nbsp;                         | &nbsp;                           | &nbsp;                          | 
-![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 65% | ![][339]<br> [Barboach]<br> 35% | &nbsp;                        | &nbsp;                         | &nbsp;                           | &nbsp;                          | 
-![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 65% | ![][340]<br> [Whiscash]<br> 35% | &nbsp;                        | &nbsp;                         | &nbsp;                           | &nbsp;                          | 
+Area                                  | Pokémon                         | &nbsp;                          | &nbsp;                        | &nbsp;                         | &nbsp;                           | &nbsp;                          | 
+---                                   | ---                             | ---                             | ---                           | ---                            | ---                              | ---                             | 
+🌅<br>Morning<br>Lv. 6 - 8             | ![][041]<br> [Zubat]<br> 30%    | ![][074]<br> [Geodude]<br> 20%  | ![][194]<br> [Wooper]<br> 20% | ![][054]<br> [Psyduck]<br> 10% | ![][027]<br> [Sandshrew]<br> 10% | ![][296]<br> [Makuhita]<br> 10% | 
+🌞<br>Day<br>Lv. 6 - 8                 | ![][041]<br> [Zubat]<br> 30%    | ![][074]<br> [Geodude]<br> 20%  | ![][194]<br> [Wooper]<br> 20% | ![][054]<br> [Psyduck]<br> 10% | ![][027]<br> [Sandshrew]<br> 10% | ![][296]<br> [Makuhita]<br> 10% | 
+🌙<br>Night<br>Lv. 6 - 8               | ![][041]<br> [Zubat]<br> 30%    | ![][074]<br> [Geodude]<br> 20%  | ![][194]<br> [Wooper]<br> 20% | ![][054]<br> [Psyduck]<br> 10% | ![][027]<br> [Sandshrew]<br> 10% | ![][296]<br> [Makuhita]<br> 10% | 
+🌊<br> Surf<br>Lv. 20 - 40             | ![][194]<br> [Wooper]<br> 90%   | ![][195]<br> [Quagsire]<br> 10% | &nbsp;                        | &nbsp;                         | &nbsp;                           | &nbsp;                          | 
+![][old-rod]<br>Old Rod<br>Lv. 10     | ![][129]<br> [Magikarp]<br> 65% | ![][339]<br> [Barboach]<br> 35% | &nbsp;                        | &nbsp;                         | &nbsp;                           | &nbsp;                          | 
+![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br> [Magikarp]<br> 65% | ![][339]<br> [Barboach]<br> 35% | &nbsp;                        | &nbsp;                         | &nbsp;                           | &nbsp;                          | 
+![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br> [Gyarados]<br> 65% | ![][340]<br> [Whiscash]<br> 35% | &nbsp;                        | &nbsp;                         | &nbsp;                           | &nbsp;                          | 
 
 [Sandshrew]: ../../pokemon_changes/027/
 [Zubat]: ../../pokemon_changes/041/

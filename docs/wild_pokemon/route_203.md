@@ -3,21 +3,20 @@
 !!! note
     There are trainer on this route. You can find out more [here](../../trainer_changes/route_203/).
 
-Levels: 7 - 8 (Walking) 20 - 40 (Surfing)
 
-Area                           | Pokémon                         | &nbsp;                           | &nbsp;                         | &nbsp;                        | &nbsp;                       | &nbsp;                        | 
----                            | ---                             | ---                              | ---                            | ---                           | ---                          | ---                           | 
-🌅<br>Morning                   | ![][396]<br> [Starly]<br> 25%   | ![][399]<br> [Bidoof]<br> 20%    | ![][021]<br> [Spearow]<br> 15% | ![][273]<br> [Seedot]<br> 10% | ![][270]<br> [Lotad]<br> 10% | ![][104]<br> [Cubone]<br> 10% | 
-&nbsp;                         | ![][063]<br> [Abra]<br> 10%     | &nbsp;                           | &nbsp;                         | &nbsp;                        | &nbsp;                       | &nbsp;                        | 
-🌞<br>Day                       | ![][396]<br> [Starly]<br> 25%   | ![][399]<br> [Bidoof]<br> 20%    | ![][021]<br> [Spearow]<br> 15% | ![][273]<br> [Seedot]<br> 10% | ![][270]<br> [Lotad]<br> 10% | ![][104]<br> [Cubone]<br> 10% | 
-&nbsp;                         | ![][063]<br> [Abra]<br> 10%     | &nbsp;                           | &nbsp;                         | &nbsp;                        | &nbsp;                       | &nbsp;                        | 
-🌙<br>Night                     | ![][396]<br> [Starly]<br> 25%   | ![][399]<br> [Bidoof]<br> 20%    | ![][021]<br> [Spearow]<br> 15% | ![][273]<br> [Seedot]<br> 10% | ![][270]<br> [Lotad]<br> 10% | ![][104]<br> [Cubone]<br> 10% | 
-&nbsp;                         | ![][063]<br> [Abra]<br> 10%     | &nbsp;                           | &nbsp;                         | &nbsp;                        | &nbsp;                       | &nbsp;                        | 
-![][poke-radar]<br> Poké Radar | ![][204]<br> [Pineco]<br> 22%   | &nbsp;                           | &nbsp;                         | &nbsp;                        | &nbsp;                       | &nbsp;                        | 
-🌊<br> Surf                     | ![][054]<br> [Psyduck]<br> 90%  | ![][055]<br> [Golduck]<br> 10%   | &nbsp;                         | &nbsp;                        | &nbsp;                       | &nbsp;                        | 
-![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 65% | ![][341]<br> [Corphish]<br> 35%  | &nbsp;                         | &nbsp;                        | &nbsp;                       | &nbsp;                        | 
-![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 60% | ![][341]<br> [Corphish]<br> 35%  | &nbsp;                         | &nbsp;                        | &nbsp;                       | &nbsp;                        | 
-![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60% | ![][342]<br> [Crawdaunt]<br> 35% | &nbsp;                         | &nbsp;                        | &nbsp;                       | &nbsp;                        | 
+Area                                        | Pokémon                         | &nbsp;                           | &nbsp;                         | &nbsp;                        | &nbsp;                       | &nbsp;                        | 
+---                                         | ---                             | ---                              | ---                            | ---                           | ---                          | ---                           | 
+🌅<br>Morning<br>Lv. 7 - 8                   | ![][396]<br> [Starly]<br> 25%   | ![][399]<br> [Bidoof]<br> 20%    | ![][021]<br> [Spearow]<br> 15% | ![][273]<br> [Seedot]<br> 10% | ![][270]<br> [Lotad]<br> 10% | ![][104]<br> [Cubone]<br> 10% | 
+&nbsp;                                      | ![][063]<br> [Abra]<br> 10%     | &nbsp;                           | &nbsp;                         | &nbsp;                        | &nbsp;                       | &nbsp;                        | 
+🌞<br>Day<br>Lv. 7 - 8                       | ![][396]<br> [Starly]<br> 25%   | ![][399]<br> [Bidoof]<br> 20%    | ![][021]<br> [Spearow]<br> 15% | ![][273]<br> [Seedot]<br> 10% | ![][270]<br> [Lotad]<br> 10% | ![][104]<br> [Cubone]<br> 10% | 
+&nbsp;                                      | ![][063]<br> [Abra]<br> 10%     | &nbsp;                           | &nbsp;                         | &nbsp;                        | &nbsp;                       | &nbsp;                        | 
+🌙<br>Night<br>Lv. 7 - 8                     | ![][396]<br> [Starly]<br> 25%   | ![][399]<br> [Bidoof]<br> 20%    | ![][021]<br> [Spearow]<br> 15% | ![][273]<br> [Seedot]<br> 10% | ![][270]<br> [Lotad]<br> 10% | ![][104]<br> [Cubone]<br> 10% | 
+&nbsp;                                      | ![][063]<br> [Abra]<br> 10%     | &nbsp;                           | &nbsp;                         | &nbsp;                        | &nbsp;                       | &nbsp;                        | 
+![][poke-radar]<br> Poké Radar<br>Lv. 7 - 8 | ![][204]<br> [Pineco]<br> 22%   | &nbsp;                           | &nbsp;                         | &nbsp;                        | &nbsp;                       | &nbsp;                        | 
+🌊<br> Surf<br>Lv. 20 - 40                   | ![][054]<br> [Psyduck]<br> 90%  | ![][055]<br> [Golduck]<br> 10%   | &nbsp;                         | &nbsp;                        | &nbsp;                       | &nbsp;                        | 
+![][old-rod]<br>Old Rod<br>Lv. 10           | ![][129]<br> [Magikarp]<br> 65% | ![][341]<br> [Corphish]<br> 35%  | &nbsp;                         | &nbsp;                        | &nbsp;                       | &nbsp;                        | 
+![][good-rod]<br>Good Rod<br>Lv. 25         | ![][129]<br> [Magikarp]<br> 60% | ![][341]<br> [Corphish]<br> 35%  | &nbsp;                         | &nbsp;                        | &nbsp;                       | &nbsp;                        | 
+![][super-rod]<br>Super Rod<br>Lv. 50       | ![][130]<br> [Gyarados]<br> 60% | ![][342]<br> [Crawdaunt]<br> 35% | &nbsp;                         | &nbsp;                        | &nbsp;                       | &nbsp;                        | 
 
 [Spearow]: ../../pokemon_changes/021/
 [Psyduck]: ../../pokemon_changes/054/

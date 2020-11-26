@@ -3,22 +3,21 @@
 !!! note
     There are trainer on this route. You can find out more [here](../../trainer_changes/route_212__south/).
 
-Levels: 33 - 36 (Walking) 20 - 40 (Surfing) Honey Tree (34)
 
-Area                           | Pokémon                         | &nbsp;                           | &nbsp;                           | &nbsp;                         | &nbsp;                            | &nbsp;                        | 
----                            | ---                             | ---                              | ---                              | ---                            | ---                               | ---                           | 
-🌅<br>Morning                   | ![][453]<br> [Croagunk]<br> 20% | ![][088]<br> [Grimer]<br> 20%    | ![][109]<br> [Koffing]<br> 15%   | ![][023]<br> [Ekans]<br> 15%   | ![][070]<br> [Weepinbell]<br> 10% | ![][271]<br> [Lombre]<br> 10% | 
-&nbsp;                         | ![][024]<br> [Arbok]<br> 5%     | ![][454]<br> [Toxicroak]<br> 5%  | &nbsp;                           | &nbsp;                         | &nbsp;                            | &nbsp;                        | 
-🌞<br>Day                       | ![][453]<br> [Croagunk]<br> 20% | ![][088]<br> [Grimer]<br> 20%    | ![][109]<br> [Koffing]<br> 15%   | ![][023]<br> [Ekans]<br> 15%   | ![][070]<br> [Weepinbell]<br> 10% | ![][271]<br> [Lombre]<br> 10% | 
-&nbsp;                         | ![][024]<br> [Arbok]<br> 5%     | ![][454]<br> [Toxicroak]<br> 5%  | &nbsp;                           | &nbsp;                         | &nbsp;                            | &nbsp;                        | 
-🌙<br>Night                     | ![][453]<br> [Croagunk]<br> 20% | ![][088]<br> [Grimer]<br> 20%    | ![][109]<br> [Koffing]<br> 15%   | ![][023]<br> [Ekans]<br> 15%   | ![][070]<br> [Weepinbell]<br> 10% | ![][271]<br> [Lombre]<br> 10% | 
-&nbsp;                         | ![][024]<br> [Arbok]<br> 5%     | ![][454]<br> [Toxicroak]<br> 5%  | &nbsp;                           | &nbsp;                         | &nbsp;                            | &nbsp;                        | 
-![][poke-radar]<br> Poké Radar | ![][089]<br> [Muk]<br> 11%      | ![][110]<br> [Weezing]<br> 11%   | &nbsp;                           | &nbsp;                         | &nbsp;                            | &nbsp;                        | 
-🌊<br> Surf                     | ![][422]<br> [Shellos]<br> 60%  | ![][194]<br> [Wooper]<br> 30%    | ![][423]<br> [Gastrodon]<br> 5%  | ![][195]<br> [Quagsire]<br> 5% | &nbsp;                            | &nbsp;                        | 
-![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 60% | ![][339]<br> [Barboach]<br> 30%  | ![][223]<br> [Remoraid]<br> 10%  | &nbsp;                         | &nbsp;                            | &nbsp;                        | 
-![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 60% | ![][339]<br> [Barboach]<br> 30%  | ![][223]<br> [Remoraid]<br> 10%  | &nbsp;                         | &nbsp;                            | &nbsp;                        | 
-![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60% | ![][340]<br> [Whiscash]<br> 30%  | ![][224]<br> [Octillery]<br> 10% | &nbsp;                         | &nbsp;                            | &nbsp;                        | 
-![][honey]<br> Honey Tree      | ![][421]<br> [Cherrim]<br> 30%  | ![][285]<br> [Shroomish]<br> 20% | ![][102]<br> [Exeggcute]<br> 20% | ![][274]<br> [Nuzleaf]<br> 20% | ![][114]<br> [Tangela]<br> 10%    | &nbsp;                        | 
+Area                                          | Pokémon                         | &nbsp;                           | &nbsp;                           | &nbsp;                         | &nbsp;                            | &nbsp;                        | 
+---                                           | ---                             | ---                              | ---                              | ---                            | ---                               | ---                           | 
+🌅<br>Morning<br>Lv. 33 - 36                   | ![][453]<br> [Croagunk]<br> 20% | ![][088]<br> [Grimer]<br> 20%    | ![][109]<br> [Koffing]<br> 15%   | ![][023]<br> [Ekans]<br> 15%   | ![][070]<br> [Weepinbell]<br> 10% | ![][271]<br> [Lombre]<br> 10% | 
+&nbsp;                                        | ![][024]<br> [Arbok]<br> 5%     | ![][454]<br> [Toxicroak]<br> 5%  | &nbsp;                           | &nbsp;                         | &nbsp;                            | &nbsp;                        | 
+🌞<br>Day<br>Lv. 33 - 36                       | ![][453]<br> [Croagunk]<br> 20% | ![][088]<br> [Grimer]<br> 20%    | ![][109]<br> [Koffing]<br> 15%   | ![][023]<br> [Ekans]<br> 15%   | ![][070]<br> [Weepinbell]<br> 10% | ![][271]<br> [Lombre]<br> 10% | 
+&nbsp;                                        | ![][024]<br> [Arbok]<br> 5%     | ![][454]<br> [Toxicroak]<br> 5%  | &nbsp;                           | &nbsp;                         | &nbsp;                            | &nbsp;                        | 
+🌙<br>Night<br>Lv. 33 - 36                     | ![][453]<br> [Croagunk]<br> 20% | ![][088]<br> [Grimer]<br> 20%    | ![][109]<br> [Koffing]<br> 15%   | ![][023]<br> [Ekans]<br> 15%   | ![][070]<br> [Weepinbell]<br> 10% | ![][271]<br> [Lombre]<br> 10% | 
+&nbsp;                                        | ![][024]<br> [Arbok]<br> 5%     | ![][454]<br> [Toxicroak]<br> 5%  | &nbsp;                           | &nbsp;                         | &nbsp;                            | &nbsp;                        | 
+![][poke-radar]<br> Poké Radar<br>Lv. 33 - 36 | ![][089]<br> [Muk]<br> 11%      | ![][110]<br> [Weezing]<br> 11%   | &nbsp;                           | &nbsp;                         | &nbsp;                            | &nbsp;                        | 
+🌊<br> Surf<br>Lv. 20 - 40                     | ![][422]<br> [Shellos]<br> 60%  | ![][194]<br> [Wooper]<br> 30%    | ![][423]<br> [Gastrodon]<br> 5%  | ![][195]<br> [Quagsire]<br> 5% | &nbsp;                            | &nbsp;                        | 
+![][old-rod]<br>Old Rod<br>Lv. 10             | ![][129]<br> [Magikarp]<br> 60% | ![][339]<br> [Barboach]<br> 30%  | ![][223]<br> [Remoraid]<br> 10%  | &nbsp;                         | &nbsp;                            | &nbsp;                        | 
+![][good-rod]<br>Good Rod<br>Lv. 25           | ![][129]<br> [Magikarp]<br> 60% | ![][339]<br> [Barboach]<br> 30%  | ![][223]<br> [Remoraid]<br> 10%  | &nbsp;                         | &nbsp;                            | &nbsp;                        | 
+![][super-rod]<br>Super Rod<br>Lv. 50         | ![][130]<br> [Gyarados]<br> 60% | ![][340]<br> [Whiscash]<br> 30%  | ![][224]<br> [Octillery]<br> 10% | &nbsp;                         | &nbsp;                            | &nbsp;                        | 
+![][honey]<br> Honey Tree<br>Lv. 34           | ![][421]<br> [Cherrim]<br> 30%  | ![][285]<br> [Shroomish]<br> 20% | ![][102]<br> [Exeggcute]<br> 20% | ![][274]<br> [Nuzleaf]<br> 20% | ![][114]<br> [Tangela]<br> 10%    | &nbsp;                        | 
 
 [Ekans]: ../../pokemon_changes/023/
 [Arbok]: ../../pokemon_changes/024/

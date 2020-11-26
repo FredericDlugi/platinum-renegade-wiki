@@ -3,6 +3,8 @@ import requests
 import json
 import numpy as np
 import argparse
+import re
+
 np.set_printoptions(precision=3)
 
 class Table:
@@ -35,7 +37,8 @@ class Table:
 
 
         for i in range(len(self.lines)):
-            cols = [l.strip() for l in self.lines[i].strip().split("|")]
+            cols = [re.sub(r"\\s*<br>\\s*","<br>",l.strip()) for l in self.lines[i].strip().split("|")]
+
             for k in range(len(max_len)-len(cols)):
                 cols.append(empty_cell)
             self.lines[i] = format_string.format(c=cols)

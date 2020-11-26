@@ -3,20 +3,19 @@
 !!! note
     There are trainer on this route. You can find out more [here](../../trainer_changes/route_228/).
 
-Levels: 65 - 67 (Walking) 65 - 67 (Surfing)
 
-Area                         | Pokémon                           | &nbsp;                           | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                           | 
----                          | ---                               | ---                              | ---                            | ---                            | ---                            | ---                              | 
-🌅<br>Morning                 | ![][332]<br> [Cacturne]<br> 20%   | ![][028]<br> [Sandslash]<br> 20% | ![][051]<br> [Dugtrio]<br> 20% | ![][329]<br> [Vibrava]<br> 10% | ![][344]<br> [Claydol]<br> 10% | ![][450]<br> [Hippowdon]<br> 10% | 
-&nbsp;                       | ![][375]<br> [Metang]<br> 5%      | ![][444]<br> [Gabite]<br> 5%     | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                           | 
-🌞<br>Day                     | ![][332]<br> [Cacturne]<br> 20%   | ![][028]<br> [Sandslash]<br> 20% | ![][051]<br> [Dugtrio]<br> 20% | ![][329]<br> [Vibrava]<br> 10% | ![][344]<br> [Claydol]<br> 10% | ![][450]<br> [Hippowdon]<br> 10% | 
-&nbsp;                       | ![][375]<br> [Metang]<br> 5%      | ![][444]<br> [Gabite]<br> 5%     | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                           | 
-🌙<br>Night                   | ![][332]<br> [Cacturne]<br> 20%   | ![][028]<br> [Sandslash]<br> 20% | ![][051]<br> [Dugtrio]<br> 20% | ![][329]<br> [Vibrava]<br> 10% | ![][344]<br> [Claydol]<br> 10% | ![][450]<br> [Hippowdon]<br> 10% | 
-&nbsp;                       | ![][375]<br> [Metang]<br> 5%      | ![][444]<br> [Gabite]<br> 5%     | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                           | 
-🌊<br> Surf                   | ![][061]<br> [Poliwhirl]<br> 100% | &nbsp;                           | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                           | 
-![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 65%   | ![][339]<br> [Barboach]<br> 35%  | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                           | 
-![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 65%   | ![][339]<br> [Barboach]<br> 35%  | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                           | 
-![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 65%   | ![][340]<br> [Whiscash]<br> 35%  | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                           | 
+Area                                  | Pokémon                           | &nbsp;                           | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                           | 
+---                                   | ---                               | ---                              | ---                            | ---                            | ---                            | ---                              | 
+🌅<br>Morning<br>Lv. 65 - 67           | ![][332]<br> [Cacturne]<br> 20%   | ![][028]<br> [Sandslash]<br> 20% | ![][051]<br> [Dugtrio]<br> 20% | ![][329]<br> [Vibrava]<br> 10% | ![][344]<br> [Claydol]<br> 10% | ![][450]<br> [Hippowdon]<br> 10% | 
+&nbsp;                                | ![][375]<br> [Metang]<br> 5%      | ![][444]<br> [Gabite]<br> 5%     | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                           | 
+🌞<br>Day<br>Lv. 65 - 67               | ![][332]<br> [Cacturne]<br> 20%   | ![][028]<br> [Sandslash]<br> 20% | ![][051]<br> [Dugtrio]<br> 20% | ![][329]<br> [Vibrava]<br> 10% | ![][344]<br> [Claydol]<br> 10% | ![][450]<br> [Hippowdon]<br> 10% | 
+&nbsp;                                | ![][375]<br> [Metang]<br> 5%      | ![][444]<br> [Gabite]<br> 5%     | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                           | 
+🌙<br>Night<br>Lv. 65 - 67             | ![][332]<br> [Cacturne]<br> 20%   | ![][028]<br> [Sandslash]<br> 20% | ![][051]<br> [Dugtrio]<br> 20% | ![][329]<br> [Vibrava]<br> 10% | ![][344]<br> [Claydol]<br> 10% | ![][450]<br> [Hippowdon]<br> 10% | 
+&nbsp;                                | ![][375]<br> [Metang]<br> 5%      | ![][444]<br> [Gabite]<br> 5%     | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                           | 
+🌊<br> Surf<br>Lv. 65 - 67             | ![][061]<br> [Poliwhirl]<br> 100% | &nbsp;                           | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                           | 
+![][old-rod]<br>Old Rod<br>Lv. 10     | ![][129]<br> [Magikarp]<br> 65%   | ![][339]<br> [Barboach]<br> 35%  | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                           | 
+![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br> [Magikarp]<br> 65%   | ![][339]<br> [Barboach]<br> 35%  | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                           | 
+![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br> [Gyarados]<br> 65%   | ![][340]<br> [Whiscash]<br> 35%  | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                           | 
 
 [Sandslash]: ../../pokemon_changes/028/
 [Dugtrio]: ../../pokemon_changes/051/

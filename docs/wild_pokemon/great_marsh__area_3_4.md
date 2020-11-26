@@ -1,15 +1,14 @@
 # Great Marsh ~ Area 3/4
-Levels: 33 - 36 (Walking) 20 - 40 (Surfing)
 
-Area                         | Pokémon                         | &nbsp;                           | &nbsp;                          | &nbsp;                           | &nbsp;                            | &nbsp;                       | 
----                          | ---                             | ---                              | ---                             | ---                              | ---                               | ---                          | 
-🌅<br>Morning                 | ![][047]<br> [Parasect]<br> 30% | ![][102]<br> [Exeggcute]<br> 20% | ![][453]<br> [Croagunk]<br> 20% | ![][454]<br> [Toxicroak]<br> 10% | ![][115]<br> [Kangaskhan]<br> 10% | ![][193]<br> [Yanma]<br> 10% | 
-🌞<br>Day                     | ![][047]<br> [Parasect]<br> 30% | ![][102]<br> [Exeggcute]<br> 20% | ![][453]<br> [Croagunk]<br> 20% | ![][454]<br> [Toxicroak]<br> 10% | ![][115]<br> [Kangaskhan]<br> 10% | ![][193]<br> [Yanma]<br> 10% | 
-🌙<br>Night                   | ![][047]<br> [Parasect]<br> 30% | ![][102]<br> [Exeggcute]<br> 20% | ![][453]<br> [Croagunk]<br> 20% | ![][454]<br> [Toxicroak]<br> 10% | ![][115]<br> [Kangaskhan]<br> 10% | ![][193]<br> [Yanma]<br> 10% | 
-🌊<br> Surf                   | ![][194]<br> [Wooper]<br> 90%   | ![][195]<br> [Quagsire]<br> 10%  | &nbsp;                          | &nbsp;                           | &nbsp;                            | &nbsp;                       | 
-![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 60% | ![][339]<br> [Barboach]<br> 30%  | ![][318]<br> [Carvanha]<br> 10% | &nbsp;                           | &nbsp;                            | &nbsp;                       | 
-![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60% | ![][339]<br> [Barboach]<br> 30%  | ![][318]<br> [Carvanha]<br> 10% | &nbsp;                           | &nbsp;                            | &nbsp;                       | 
-![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60% | ![][340]<br> [Whiscash]<br> 30%  | ![][319]<br> [Sharpedo]<br> 10% | &nbsp;                           | &nbsp;                            | &nbsp;                       | 
+Area                                  | Pokémon                         | &nbsp;                           | &nbsp;                          | &nbsp;                           | &nbsp;                            | &nbsp;                       | 
+---                                   | ---                             | ---                              | ---                             | ---                              | ---                               | ---                          | 
+🌅<br>Morning<br>Lv. 33 - 36           | ![][047]<br> [Parasect]<br> 30% | ![][102]<br> [Exeggcute]<br> 20% | ![][453]<br> [Croagunk]<br> 20% | ![][454]<br> [Toxicroak]<br> 10% | ![][115]<br> [Kangaskhan]<br> 10% | ![][193]<br> [Yanma]<br> 10% | 
+🌞<br>Day<br>Lv. 33 - 36               | ![][047]<br> [Parasect]<br> 30% | ![][102]<br> [Exeggcute]<br> 20% | ![][453]<br> [Croagunk]<br> 20% | ![][454]<br> [Toxicroak]<br> 10% | ![][115]<br> [Kangaskhan]<br> 10% | ![][193]<br> [Yanma]<br> 10% | 
+🌙<br>Night<br>Lv. 33 - 36             | ![][047]<br> [Parasect]<br> 30% | ![][102]<br> [Exeggcute]<br> 20% | ![][453]<br> [Croagunk]<br> 20% | ![][454]<br> [Toxicroak]<br> 10% | ![][115]<br> [Kangaskhan]<br> 10% | ![][193]<br> [Yanma]<br> 10% | 
+🌊<br> Surf<br>Lv. 20 - 40             | ![][194]<br> [Wooper]<br> 90%   | ![][195]<br> [Quagsire]<br> 10%  | &nbsp;                          | &nbsp;                           | &nbsp;                            | &nbsp;                       | 
+![][old-rod]<br>Old Rod<br>Lv. 10     | ![][129]<br> [Magikarp]<br> 60% | ![][339]<br> [Barboach]<br> 30%  | ![][318]<br> [Carvanha]<br> 10% | &nbsp;                           | &nbsp;                            | &nbsp;                       | 
+![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br> [Magikarp]<br> 60% | ![][339]<br> [Barboach]<br> 30%  | ![][318]<br> [Carvanha]<br> 10% | &nbsp;                           | &nbsp;                            | &nbsp;                       | 
+![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br> [Gyarados]<br> 60% | ![][340]<br> [Whiscash]<br> 30%  | ![][319]<br> [Sharpedo]<br> 10% | &nbsp;                           | &nbsp;                            | &nbsp;                       | 
 
 [Parasect]: ../../pokemon_changes/047/
 [Exeggcute]: ../../pokemon_changes/102/

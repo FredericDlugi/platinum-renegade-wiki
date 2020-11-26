@@ -3,14 +3,12 @@
 !!! note
     There are trainer on this route. You can find out more [here](../../trainer_changes/pokemon_league/).
 
-Levels: 50 - 60 (Surfing)
-
-Area                         | Pokémon                           | &nbsp;                          | &nbsp;                         | 
----                          | ---                               | ---                             | ---                            | 
-🌊<br> Surf                   | ![][073]<br> [Tentacruel]<br> 60% | ![][279]<br> [Pelipper]<br> 30% | ![][226]<br> [Mantine]<br> 10% | 
-![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 60%   | ![][370]<br> [Luvdisc]<br> 30%  | ![][222]<br> [Corsola]<br> 10% | 
-![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60%   | ![][370]<br> [Luvdisc]<br> 30%  | ![][222]<br> [Corsola]<br> 10% | 
-![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60%   | ![][370]<br> [Luvdisc]<br> 30%  | ![][222]<br> [Corsola]<br> 10% | 
+Area                                  | Pokémon                           | &nbsp;                          | &nbsp;                         | 
+---                                   | ---                               | ---                             | ---                            | 
+🌊<br> Surf<br>Lv. 50 - 60             | ![][073]<br> [Tentacruel]<br> 60% | ![][279]<br> [Pelipper]<br> 30% | ![][226]<br> [Mantine]<br> 10% | 
+![][old-rod]<br>Old Rod<br>Lv. 10     | ![][129]<br> [Magikarp]<br> 60%   | ![][370]<br> [Luvdisc]<br> 30%  | ![][222]<br> [Corsola]<br> 10% | 
+![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br> [Magikarp]<br> 60%   | ![][370]<br> [Luvdisc]<br> 30%  | ![][222]<br> [Corsola]<br> 10% | 
+![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br> [Gyarados]<br> 60%   | ![][370]<br> [Luvdisc]<br> 30%  | ![][222]<br> [Corsola]<br> 10% | 
 
 [Tentacruel]: ../../pokemon_changes/073/
 [Magikarp]: ../../pokemon_changes/129/
