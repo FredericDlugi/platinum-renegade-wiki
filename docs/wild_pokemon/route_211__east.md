@@ -5,13 +5,13 @@
 
 Levels: 18 - 19 (Walking) 18 (Honey Tree)
 
-Area                           | Pokémon                          | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;
----                            | ---                              | ---                              | ---                              | ---                              | ---                              | ---
-🌅<br>Morning                   | ![][307]<br> [Meditite]<br> 30% | ![][066]<br> [Machop]<br> 20%   | ![][333]<br> [Swablu]<br> 20%   | ![][216]<br> [Teddiursa]<br> 10%| ![][177]<br> [Natu]<br> 10%     | ![][371]<br> [Bagon]<br> 10%
-🌞<br>Day                       | ![][307]<br> [Meditite]<br> 30% | ![][066]<br> [Machop]<br> 20%   | ![][333]<br> [Swablu]<br> 20%   | ![][216]<br> [Teddiursa]<br> 10%| ![][177]<br> [Natu]<br> 10%     | ![][371]<br> [Bagon]<br> 10%
-🌙<br>Night                     | ![][307]<br> [Meditite]<br> 30% | ![][066]<br> [Machop]<br> 20%   | ![][333]<br> [Swablu]<br> 20%   | ![][216]<br> [Teddiursa]<br> 10%| ![][177]<br> [Natu]<br> 10%     | ![][371]<br> [Bagon]<br> 10%
-![][poke-radar]<br> Poké Radar | ![][236]<br> [Tyrogue]<br> 22%
-![][honey]<br> Honey Tree      | ![][190]<br> [Aipom]<br> 30%    | ![][287]<br> [Slakoth]<br> 20%  | ![][011]<br> [Metapod]<br> 20%  | ![][014]<br> [Kakuna]<br> 20%   | ![][446]<br> [Munchlax]<br> 10%
+Area                           | Pokémon                         | &nbsp;                         | &nbsp;                         | &nbsp;                           | &nbsp;                          | &nbsp;                       | 
+---                            | ---                             | ---                            | ---                            | ---                              | ---                             | ---                          | 
+🌅<br>Morning                   | ![][307]<br> [Meditite]<br> 30% | ![][066]<br> [Machop]<br> 20%  | ![][333]<br> [Swablu]<br> 20%  | ![][216]<br> [Teddiursa]<br> 10% | ![][177]<br> [Natu]<br> 10%     | ![][371]<br> [Bagon]<br> 10% | 
+🌞<br>Day                       | ![][307]<br> [Meditite]<br> 30% | ![][066]<br> [Machop]<br> 20%  | ![][333]<br> [Swablu]<br> 20%  | ![][216]<br> [Teddiursa]<br> 10% | ![][177]<br> [Natu]<br> 10%     | ![][371]<br> [Bagon]<br> 10% | 
+🌙<br>Night                     | ![][307]<br> [Meditite]<br> 30% | ![][066]<br> [Machop]<br> 20%  | ![][333]<br> [Swablu]<br> 20%  | ![][216]<br> [Teddiursa]<br> 10% | ![][177]<br> [Natu]<br> 10%     | ![][371]<br> [Bagon]<br> 10% | 
+![][poke-radar]<br> Poké Radar | ![][236]<br> [Tyrogue]<br> 22%  | &nbsp;                         | &nbsp;                         | &nbsp;                           | &nbsp;                          | &nbsp;                       | 
+![][honey]<br> Honey Tree      | ![][190]<br> [Aipom]<br> 30%    | ![][287]<br> [Slakoth]<br> 20% | ![][011]<br> [Metapod]<br> 20% | ![][014]<br> [Kakuna]<br> 20%    | ![][446]<br> [Munchlax]<br> 10% | &nbsp;                       | 
 
 [Metapod]: ../../pokemon_changes/011/
 [Kakuna]: ../../pokemon_changes/014/

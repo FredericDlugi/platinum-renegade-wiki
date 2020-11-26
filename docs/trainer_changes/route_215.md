@@ -4,27 +4,27 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_215/).
 
 
-Trainer                | 1                                    | 2                                    | 3
----                    | ---                                  | ---                                  | ---
-Black Belt Derek       | ![][256]<br> [Combusken]<br> Lv. 34  | ![][106]<br> [Hitmonlee]<br> Lv. 34
-Black Belt Gregory     | ![][057]<br> [Primeape]<br> Lv. 34   | ![][107]<br> [Hitmonchan]<br> Lv. 34
-Black Belt Nathaniel   | ![][067]<br> [Machoke]<br> Lv. 34    | ![][237]<br> [Hitmontop]<br> Lv. 34
-Jogger Scott           | ![][398]<br> [Staraptor]<br> Lv. 34
-Ruin Maniac Calvin     | ![][105]<br> [Marowak]<br> Lv. 33    | ![][409]<br> [Rampardos]<br> Lv. 33
-Jogger Craig (!)       | ![][405]<br> [Luxray]<br> Lv. 34
-Ace Trainer Dennis (!) | ![][207]<br> [Gligar]<br> Lv. 35     | ![][130]<br> [Gyarados]<br> Lv. 35   | ![][426]<br> [Drifblim]<br> Lv. 35
-Ace Trainer Maya (!)   | ![][108]<br> [Lickitung]<br> Lv. 35  | ![][282]<br> [Gardevoir]<br> Lv. 35  | ![][407]<br> [Roserade]<br> Lv. 35
+Trainer                | 1                                   | 2                                    | 3                                  | 
+---                    | ---                                 | ---                                  | ---                                | 
+Black Belt Derek       | ![][256]<br> [Combusken]<br> Lv. 34 | ![][106]<br> [Hitmonlee]<br> Lv. 34  | &nbsp;                             | 
+Black Belt Gregory     | ![][057]<br> [Primeape]<br> Lv. 34  | ![][107]<br> [Hitmonchan]<br> Lv. 34 | &nbsp;                             | 
+Black Belt Nathaniel   | ![][067]<br> [Machoke]<br> Lv. 34   | ![][237]<br> [Hitmontop]<br> Lv. 34  | &nbsp;                             | 
+Jogger Scott           | ![][398]<br> [Staraptor]<br> Lv. 34 | &nbsp;                               | &nbsp;                             | 
+Ruin Maniac Calvin     | ![][105]<br> [Marowak]<br> Lv. 33   | ![][409]<br> [Rampardos]<br> Lv. 33  | &nbsp;                             | 
+Jogger Craig (!)       | ![][405]<br> [Luxray]<br> Lv. 34    | &nbsp;                               | &nbsp;                             | 
+Ace Trainer Dennis (!) | ![][207]<br> [Gligar]<br> Lv. 35    | ![][130]<br> [Gyarados]<br> Lv. 35   | ![][426]<br> [Drifblim]<br> Lv. 35 | 
+Ace Trainer Maya (!)   | ![][108]<br> [Lickitung]<br> Lv. 35 | ![][282]<br> [Gardevoir]<br> Lv. 35  | ![][407]<br> [Roserade]<br> Lv. 35 | 
 
 #### Rematches
 
-Trainer                | 1                                    | 2                                    | 3
----                    | ---                                  | ---                                  | ---
-Jogger Craig (8)       | ![][405]<br> [Luxray]<br> Lv. 60     | ![][405]<br> [Luxray]<br> Lv. 60
-Jogger Craig (C)       | ![][405]<br> [Luxray]<br> Lv. 72     | ![][405]<br> [Luxray]<br> Lv. 72
-Ace Trainer Dennis (7) | ![][472]<br> [Gliscor]<br> Lv. 62    | ![][130]<br> [Gyarados]<br> Lv. 62   | ![][426]<br> [Drifblim]<br> Lv. 62
-Ace Trainer Dennis (S) | ![][472]<br> [Gliscor]<br> Lv. 77    | ![][130]<br> [Gyarados]<br> Lv. 77   | ![][426]<br> [Drifblim]<br> Lv. 77
-Ace Trainer Maya (7)   | ![][463]<br> [Lickilicky]<br> Lv. 62 | ![][282]<br> [Gardevoir]<br> Lv. 62  | ![][407]<br> [Roserade]<br> Lv. 62
-Ace Trainer Maya (S)   | ![][463]<br> [Lickilicky]<br> Lv. 77 | ![][282]<br> [Gardevoir]<br> Lv. 77  | ![][407]<br> [Roserade]<br> Lv. 77
+Trainer                | 1                                    | 2                                   | 3                                  | 
+---                    | ---                                  | ---                                 | ---                                | 
+Jogger Craig (8)       | ![][405]<br> [Luxray]<br> Lv. 60     | ![][405]<br> [Luxray]<br> Lv. 60    | &nbsp;                             | 
+Jogger Craig (C)       | ![][405]<br> [Luxray]<br> Lv. 72     | ![][405]<br> [Luxray]<br> Lv. 72    | &nbsp;                             | 
+Ace Trainer Dennis (7) | ![][472]<br> [Gliscor]<br> Lv. 62    | ![][130]<br> [Gyarados]<br> Lv. 62  | ![][426]<br> [Drifblim]<br> Lv. 62 | 
+Ace Trainer Dennis (S) | ![][472]<br> [Gliscor]<br> Lv. 77    | ![][130]<br> [Gyarados]<br> Lv. 77  | ![][426]<br> [Drifblim]<br> Lv. 77 | 
+Ace Trainer Maya (7)   | ![][463]<br> [Lickilicky]<br> Lv. 62 | ![][282]<br> [Gardevoir]<br> Lv. 62 | ![][407]<br> [Roserade]<br> Lv. 62 | 
+Ace Trainer Maya (S)   | ![][463]<br> [Lickilicky]<br> Lv. 77 | ![][282]<br> [Gardevoir]<br> Lv. 77 | ![][407]<br> [Roserade]<br> Lv. 77 | 
 
 [Primeape]: ../../pokemon_changes/057/
 [Machoke]: ../../pokemon_changes/067/

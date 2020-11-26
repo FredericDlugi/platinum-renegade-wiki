@@ -5,17 +5,17 @@
 
 Levels: 32 - 34 (Walking) 20 - 40 (Surfing) 33 (Honey Tree)
 
-Area                           | Pokémon                           | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;
----                            | ---                               | ---                               | ---                               | ---                               | ---                               | ---
-🌅<br>Morning                   | ![][423]<br> [Gastrodon]<br> 25% | ![][419]<br> [Floatzel]<br> 20%  | ![][279]<br> [Pelipper]<br> 20%  | ![][277]<br> [Swellow]<br> 20%   | ![][441]<br> [Chatot]<br> 10%    | ![][213]<br> [Shuckle]<br> 5%
-🌞<br>Day                       | ![][423]<br> [Gastrodon]<br> 25% | ![][419]<br> [Floatzel]<br> 20%  | ![][279]<br> [Pelipper]<br> 20%  | ![][277]<br> [Swellow]<br> 20%   | ![][441]<br> [Chatot]<br> 10%    | ![][213]<br> [Shuckle]<br> 5%
-🌙<br>Night                     | ![][423]<br> [Gastrodon]<br> 35% | ![][419]<br> [Floatzel]<br> 20%  | ![][279]<br> [Pelipper]<br> 20%  | ![][277]<br> [Swellow]<br> 20%   | ![][213]<br> [Shuckle]<br> 5%
-![][poke-radar]<br> Poké Radar | ![][359]<br> [Absol]<br> 22%
-🌊<br> Surf                     | ![][072]<br> [Tentacool]<br> 60% | ![][278]<br> [Wingull]<br> 30%   | ![][073]<br> [Tentacruel]<br> 5% | ![][279]<br> [Pelipper]<br> 5%
-![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 60%  | ![][223]<br> [Remoraid]<br> 30%  | ![][320]<br> [Wailmer]<br> 10%
-![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 60%  | ![][223]<br> [Remoraid]<br> 30%  | ![][320]<br> [Wailmer]<br> 10%
-![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60%  | ![][224]<br> [Octillery]<br> 30% | ![][321]<br> [Wailord]<br> 10%
-![][honey]<br> Honey Tree      | ![][397]<br> [Staravia]<br> 30%  | ![][017]<br> [Pidgeotto]<br> 20% | ![][164]<br> [Noctowl]<br> 20%   | ![][277]<br> [Swellow]<br> 20%   | ![][083]<br> [Farfetch'd]<br> 10%
+Area                           | Pokémon                          | &nbsp;                           | &nbsp;                           | &nbsp;                         | &nbsp;                            | &nbsp;                        | 
+---                            | ---                              | ---                              | ---                              | ---                            | ---                               | ---                           | 
+🌅<br>Morning                   | ![][423]<br> [Gastrodon]<br> 25% | ![][419]<br> [Floatzel]<br> 20%  | ![][279]<br> [Pelipper]<br> 20%  | ![][277]<br> [Swellow]<br> 20% | ![][441]<br> [Chatot]<br> 10%     | ![][213]<br> [Shuckle]<br> 5% | 
+🌞<br>Day                       | ![][423]<br> [Gastrodon]<br> 25% | ![][419]<br> [Floatzel]<br> 20%  | ![][279]<br> [Pelipper]<br> 20%  | ![][277]<br> [Swellow]<br> 20% | ![][441]<br> [Chatot]<br> 10%     | ![][213]<br> [Shuckle]<br> 5% | 
+🌙<br>Night                     | ![][423]<br> [Gastrodon]<br> 35% | ![][419]<br> [Floatzel]<br> 20%  | ![][279]<br> [Pelipper]<br> 20%  | ![][277]<br> [Swellow]<br> 20% | ![][213]<br> [Shuckle]<br> 5%     | &nbsp;                        | 
+![][poke-radar]<br> Poké Radar | ![][359]<br> [Absol]<br> 22%     | &nbsp;                           | &nbsp;                           | &nbsp;                         | &nbsp;                            | &nbsp;                        | 
+🌊<br> Surf                     | ![][072]<br> [Tentacool]<br> 60% | ![][278]<br> [Wingull]<br> 30%   | ![][073]<br> [Tentacruel]<br> 5% | ![][279]<br> [Pelipper]<br> 5% | &nbsp;                            | &nbsp;                        | 
+![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 60%  | ![][223]<br> [Remoraid]<br> 30%  | ![][320]<br> [Wailmer]<br> 10%   | &nbsp;                         | &nbsp;                            | &nbsp;                        | 
+![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 60%  | ![][223]<br> [Remoraid]<br> 30%  | ![][320]<br> [Wailmer]<br> 10%   | &nbsp;                         | &nbsp;                            | &nbsp;                        | 
+![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60%  | ![][224]<br> [Octillery]<br> 30% | ![][321]<br> [Wailord]<br> 10%   | &nbsp;                         | &nbsp;                            | &nbsp;                        | 
+![][honey]<br> Honey Tree      | ![][397]<br> [Staravia]<br> 30%  | ![][017]<br> [Pidgeotto]<br> 20% | ![][164]<br> [Noctowl]<br> 20%   | ![][277]<br> [Swellow]<br> 20% | ![][083]<br> [Farfetch'd]<br> 10% | &nbsp;                        | 
 
 [Pidgeotto]: ../../pokemon_changes/017/
 [Tentacool]: ../../pokemon_changes/072/

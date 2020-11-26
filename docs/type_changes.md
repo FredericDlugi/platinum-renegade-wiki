@@ -9,37 +9,37 @@
 
 ## Pokémon Type Changes (Complete version only)
 
-Pokémon                   | Old Type                  | New Type                   | Justification
----                       | ---                       | ---                        | ---
-![][006]<br> [Charizard]  | ![][fire]  ![][flying]    | ![][fire]  ![][dragon]     | Inherited from Mega form; draconic appearance.
-![][038]<br> [Ninetales]  | ![][fire]                 | ![][fire]  ![][fairy]      | Inherited from Alola form; generally quite 'mystical' in appearance.
-![][055]<br> [Golduck]    | ![][water]                | ![][water]  ![][psychic]   | Canonically uses psychic-type moves; commonly mistaken as a psychic type.
-![][083]<br> [Farfetch'd] | ![][normal]  ![][flying]  | ![][fighting]  ![][flying] | Able to attack using leek as a weapon; gives it a niche over normal/flying Pokémon.
-![][154]<br> [Meganium]   | ![][grass]                | ![][grass]  ![][fairy]     | Heavy on the flower aesthetic; heavily voted for by community.
-![][160]<br> [Feraligatr] | ![][water]                | ![][water]  ![][dark]      | Looks intimidating; Pokédex claims it to be savage; voted for by the community.
-![][164]<br> [Noctowl]    | ![][normal]  ![][flying]  | ![][psychic]  ![][flying]  | Canonically uses psychic-type moves; commonly thought that it should be a psychic type.
-![][181]<br> [Ampharos]   | ![][electric]             | ![][electric]  ![][dragon] | Inherited from Mega form; Japanese name means "electric dragon"; was dragon in early G/S development.
-![][200]<br> [Misdreavus] | ![][ghost]                | ![][ghost]  ![][fairy]     | Design inspiration from mythological creatures; mischevious nature; evolved form has a witch aesthetic.
-![][254]<br> [Sceptile]   | ![][grass]                | ![][grass]  ![][dragon]    | Inherited from Mega form; commonly requested.
-![][284]<br> [Masquerain] | ![][bug]      ![][flying] | ![][bug]  ![][water]       | Pre-evolution has water type; bug water is a fairly unique type combo; still looks a lot like Surskit.
-![][313]<br> [Volbeat]    | ![][bug]                  | ![][bug]  ![][electric]    | Learns a lot of electric attacks; has illumination powers; design looks fitting for electric.
-![][314]<br> [Illumise]   | ![][bug]                  | ![][bug]  ![][fairy]       | Firefly lights look similar to how other games display the fairy-type; counterpart to Volbeat.
-![][328]<br> [Trapinch]   | ![][ground]               | ![][bug]  ![][ground]      | Based on an insect; is in the bug Egg group; evolved forms also look very bug-like.
-![][329]<br> [Vibrava]    | ![][ground]  ![][dragon]  | ![][bug]  ![][dragon]      | Based on an insect; in bug Egg group; aesthetic is very bug-like; learns bug-type moves; unique type combo.
-![][330]<br> [Flygon]     | ![][ground]  ![][dragon]  | ![][bug]  ![][dragon]      | Based on an insect; in bug Egg group; has bug-like features; learns bug-type moves; unique type combo.
-![][333]<br> [Swablu]     | ![][normal]  ![][flying]  | ![][fairy]  ![][flying]    | Inherited from Altaria's Mega form; fluffy cloud appearance fits with fairy.
-![][334]<br> [Altaria]    | ![][dragon]  ![][flying]  | ![][dragon]  ![][fairy]    | Inherited from Mega form; fluffy cloud appearance fits with fairy; common request by community.
-![][336]<br> [Seviper]    | ![][poison]               | ![][poison]  ![][dark]     | Evil and intimidating looking; gives it more of a niche; common request by community.
-![][350]<br> [Milotic]    | ![][water]                | ![][water]  ![][fairy]     | Elegant aesthetic and mythological mermaid inspiration fit with fairy-type; heavily voted for by community.
-![][362]<br> [Glalie]     | ![][ice]                  | ![][ice]  ![][rock]        | Pokédex entries state Glalie has a body made of rock with ice on top; unique type combo.
-![][370]<br> [Luvdisc]    | ![][water]                | ![][water]  ![][fairy]     | Heart and love aesthetic fits with fairy-type; makes it just a little more noticeable.
-![][405]<br> [Luxray]     | ![][electric]             | ![][electric]  ![][dark]   | Intimidating look and general dark coloured aesthetic fit with dark-type; unique type combo.
-![][428]<br> [Lopunny]    | ![][normal]               | ![][normal]  ![][fighting] | Inherited from Mega form; has a humanoid appearance and learns lots of fighting-type moves naturally.
-![][429]<br> [Mismagius]  | ![][ghost]                | ![][ghost]  ![][fairy]     | Inspired by witches and mages from fairy tales; unique type combo; gives it a specific niche.
-![][466]<br> [Electivire] | ![][electric]             | ![][electric] ![][fighting]| Stats are physically focused; learns lots of fighting moves naturally; Pokédex states it uses fists.
-![][480]<br> [Uxie]       | ![][psychic]              | ![][psychic]  ![][fairy]   | Likely inspired by a pixie, a mythlogical creature.
-![][481]<br> [Mesprit]    | ![][psychic]              | ![][psychic]  ![][fairy]   | Likely inspired by a sprite, a mythological creature.
-![][482]<br> [Azelf]      | ![][psychic]              | ![][psychic]  ![][fairy]   | Likely inspired by a pixie (possibly a gnome..?), a mythlogical creature.
+Pokémon                   | Old Type                  | New Type                    | Justification                                                                                               | 
+---                       | ---                       | ---                         | ---                                                                                                         | 
+![][006]<br> [Charizard]  | ![][fire]  ![][flying]    | ![][fire]  ![][dragon]      | Inherited from Mega form; draconic appearance.                                                              | 
+![][038]<br> [Ninetales]  | ![][fire]                 | ![][fire]  ![][fairy]       | Inherited from Alola form; generally quite 'mystical' in appearance.                                        | 
+![][055]<br> [Golduck]    | ![][water]                | ![][water]  ![][psychic]    | Canonically uses psychic-type moves; commonly mistaken as a psychic type.                                   | 
+![][083]<br> [Farfetch'd] | ![][normal]  ![][flying]  | ![][fighting]  ![][flying]  | Able to attack using leek as a weapon; gives it a niche over normal/flying Pokémon.                         | 
+![][154]<br> [Meganium]   | ![][grass]                | ![][grass]  ![][fairy]      | Heavy on the flower aesthetic; heavily voted for by community.                                              | 
+![][160]<br> [Feraligatr] | ![][water]                | ![][water]  ![][dark]       | Looks intimidating; Pokédex claims it to be savage; voted for by the community.                             | 
+![][164]<br> [Noctowl]    | ![][normal]  ![][flying]  | ![][psychic]  ![][flying]   | Canonically uses psychic-type moves; commonly thought that it should be a psychic type.                     | 
+![][181]<br> [Ampharos]   | ![][electric]             | ![][electric]  ![][dragon]  | Inherited from Mega form; Japanese name means "electric dragon"; was dragon in early G/S development.       | 
+![][200]<br> [Misdreavus] | ![][ghost]                | ![][ghost]  ![][fairy]      | Design inspiration from mythological creatures; mischevious nature; evolved form has a witch aesthetic.     | 
+![][254]<br> [Sceptile]   | ![][grass]                | ![][grass]  ![][dragon]     | Inherited from Mega form; commonly requested.                                                               | 
+![][284]<br> [Masquerain] | ![][bug]      ![][flying] | ![][bug]  ![][water]        | Pre-evolution has water type; bug water is a fairly unique type combo; still looks a lot like Surskit.      | 
+![][313]<br> [Volbeat]    | ![][bug]                  | ![][bug]  ![][electric]     | Learns a lot of electric attacks; has illumination powers; design looks fitting for electric.               | 
+![][314]<br> [Illumise]   | ![][bug]                  | ![][bug]  ![][fairy]        | Firefly lights look similar to how other games display the fairy-type; counterpart to Volbeat.              | 
+![][328]<br> [Trapinch]   | ![][ground]               | ![][bug]  ![][ground]       | Based on an insect; is in the bug Egg group; evolved forms also look very bug-like.                         | 
+![][329]<br> [Vibrava]    | ![][ground]  ![][dragon]  | ![][bug]  ![][dragon]       | Based on an insect; in bug Egg group; aesthetic is very bug-like; learns bug-type moves; unique type combo. | 
+![][330]<br> [Flygon]     | ![][ground]  ![][dragon]  | ![][bug]  ![][dragon]       | Based on an insect; in bug Egg group; has bug-like features; learns bug-type moves; unique type combo.      | 
+![][333]<br> [Swablu]     | ![][normal]  ![][flying]  | ![][fairy]  ![][flying]     | Inherited from Altaria's Mega form; fluffy cloud appearance fits with fairy.                                | 
+![][334]<br> [Altaria]    | ![][dragon]  ![][flying]  | ![][dragon]  ![][fairy]     | Inherited from Mega form; fluffy cloud appearance fits with fairy; common request by community.             | 
+![][336]<br> [Seviper]    | ![][poison]               | ![][poison]  ![][dark]      | Evil and intimidating looking; gives it more of a niche; common request by community.                       | 
+![][350]<br> [Milotic]    | ![][water]                | ![][water]  ![][fairy]      | Elegant aesthetic and mythological mermaid inspiration fit with fairy-type; heavily voted for by community. | 
+![][362]<br> [Glalie]     | ![][ice]                  | ![][ice]  ![][rock]         | Pokédex entries state Glalie has a body made of rock with ice on top; unique type combo.                    | 
+![][370]<br> [Luvdisc]    | ![][water]                | ![][water]  ![][fairy]      | Heart and love aesthetic fits with fairy-type; makes it just a little more noticeable.                      | 
+![][405]<br> [Luxray]     | ![][electric]             | ![][electric]  ![][dark]    | Intimidating look and general dark coloured aesthetic fit with dark-type; unique type combo.                | 
+![][428]<br> [Lopunny]    | ![][normal]               | ![][normal]  ![][fighting]  | Inherited from Mega form; has a humanoid appearance and learns lots of fighting-type moves naturally.       | 
+![][429]<br> [Mismagius]  | ![][ghost]                | ![][ghost]  ![][fairy]      | Inspired by witches and mages from fairy tales; unique type combo; gives it a specific niche.               | 
+![][466]<br> [Electivire] | ![][electric]             | ![][electric] ![][fighting] | Stats are physically focused; learns lots of fighting moves naturally; Pokédex states it uses fists.        | 
+![][480]<br> [Uxie]       | ![][psychic]              | ![][psychic]  ![][fairy]    | Likely inspired by a pixie, a mythlogical creature.                                                         | 
+![][481]<br> [Mesprit]    | ![][psychic]              | ![][psychic]  ![][fairy]    | Likely inspired by a sprite, a mythological creature.                                                       | 
+![][482]<br> [Azelf]      | ![][psychic]              | ![][psychic]  ![][fairy]    | Likely inspired by a pixie (possibly a gnome..?), a mythlogical creature.                                   | 
 
 [Charizard]: ../pokemon_changes/006/
 [Ninetales]: ../pokemon_changes/038/

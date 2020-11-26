@@ -29,15 +29,15 @@ At this point, you'll want to export the files corresponding to the elements you
 So again - find the relevant file in the list, right click it, select "Export" and save the file.
 The files are as follows:
 
-| Elements to randomize                | File to export                                                         |
-| -------------                        |:-------------                                                          |
-| Pokémon Base Stats, Abilities, Types | `poketool/personal/pl_personal.narc`                                   |
-| Pokémon Evolutions                   | `poketool/personal/evo.narc`                                           |
-| Starter Pokémon                      | `FSI.CT/overlay9_0078.bin` (this will be near the top of the explorer) |
-| In-Game Trades                       | `fielddata/pokemon_trade/fld_trade.narc`                               |
-| Moves                                | `poketool/waza/pl_waza_tbl.narc`                                       |
-| Pokemon Movesets                     | `poketool/personal/wotbl.narc`                                         |
-| Wild Pokémon                         | `fielddata/encountdata/pl_enc_data.narc`                               |
+
+
+
+
+
+
+
+
+
 
 5. Next, open your Renegade Platinum ROM with crystaltile2. Again, hit the DS icon to bring up the file explorer for the ROM.
 

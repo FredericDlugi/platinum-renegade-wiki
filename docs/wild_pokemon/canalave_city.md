@@ -5,12 +5,12 @@
 
 Levels: 30 - 45 (Surfing)
 
-Area                         | Pokémon                          | &nbsp;                           | &nbsp;                           | &nbsp;
----                          | ---                              | ---                              | ---                              | ---
-🌊<br> Surf                   | ![][072]<br> [Tentacool]<br> 60%| ![][422]<br> [Shellos]<br> 30%  | ![][073]<br> [Tentacruel]<br> 5%| ![][423]<br> [Gastrodon]<br> 5%
-![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 60% | ![][456]<br> [Finneon]<br> 30%  | ![][120]<br> [Staryu]<br> 10%
-![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60% | ![][456]<br> [Finneon]<br> 30%  | ![][120]<br> [Staryu]<br> 10%
-![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60% | ![][457]<br> [Lumineon]<br> 30% | ![][121]<br> [Starmie]<br> 10%
+Area                         | Pokémon                          | &nbsp;                          | &nbsp;                           | &nbsp;                          | 
+---                          | ---                              | ---                             | ---                              | ---                             | 
+🌊<br> Surf                   | ![][072]<br> [Tentacool]<br> 60% | ![][422]<br> [Shellos]<br> 30%  | ![][073]<br> [Tentacruel]<br> 5% | ![][423]<br> [Gastrodon]<br> 5% | 
+![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 60%  | ![][456]<br> [Finneon]<br> 30%  | ![][120]<br> [Staryu]<br> 10%    | &nbsp;                          | 
+![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60%  | ![][456]<br> [Finneon]<br> 30%  | ![][120]<br> [Staryu]<br> 10%    | &nbsp;                          | 
+![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60%  | ![][457]<br> [Lumineon]<br> 30% | ![][121]<br> [Starmie]<br> 10%   | &nbsp;                          | 
 
 [Tentacool]: ../../pokemon_changes/072/
 [Tentacruel]: ../../pokemon_changes/073/

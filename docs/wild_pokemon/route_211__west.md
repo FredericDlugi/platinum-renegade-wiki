@@ -5,12 +5,12 @@
 
 Levels: 16 - 18 (Walking)
 
-Area                           | Pokémon                          | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;
----                            | ---                              | ---                              | ---                              | ---                              | ---                              | ---
-🌅<br>Morning                   | ![][307]<br> [Meditite]<br> 30% | ![][066]<br> [Machop]<br> 20%   | ![][333]<br> [Swablu]<br> 20%   | ![][216]<br> [Teddiursa]<br> 10%| ![][177]<br> [Natu]<br> 10%     | ![][433]<br> [Chingling]<br> 10%
-🌞<br>Day                       | ![][307]<br> [Meditite]<br> 30% | ![][066]<br> [Machop]<br> 20%   | ![][333]<br> [Swablu]<br> 20%   | ![][216]<br> [Teddiursa]<br> 10%| ![][177]<br> [Natu]<br> 10%     | ![][433]<br> [Chingling]<br> 10%
-🌙<br>Night                     | ![][307]<br> [Meditite]<br> 30% | ![][066]<br> [Machop]<br> 20%   | ![][333]<br> [Swablu]<br> 20%   | ![][216]<br> [Teddiursa]<br> 10%| ![][177]<br> [Natu]<br> 10%     | ![][433]<br> [Chingling]<br> 10%
-![][poke-radar]<br> Poké Radar | ![][236]<br> [Tyrogue]<br> 22%
+Area                           | Pokémon                         | &nbsp;                        | &nbsp;                        | &nbsp;                           | &nbsp;                      | &nbsp;                           | 
+---                            | ---                             | ---                           | ---                           | ---                              | ---                         | ---                              | 
+🌅<br>Morning                   | ![][307]<br> [Meditite]<br> 30% | ![][066]<br> [Machop]<br> 20% | ![][333]<br> [Swablu]<br> 20% | ![][216]<br> [Teddiursa]<br> 10% | ![][177]<br> [Natu]<br> 10% | ![][433]<br> [Chingling]<br> 10% | 
+🌞<br>Day                       | ![][307]<br> [Meditite]<br> 30% | ![][066]<br> [Machop]<br> 20% | ![][333]<br> [Swablu]<br> 20% | ![][216]<br> [Teddiursa]<br> 10% | ![][177]<br> [Natu]<br> 10% | ![][433]<br> [Chingling]<br> 10% | 
+🌙<br>Night                     | ![][307]<br> [Meditite]<br> 30% | ![][066]<br> [Machop]<br> 20% | ![][333]<br> [Swablu]<br> 20% | ![][216]<br> [Teddiursa]<br> 10% | ![][177]<br> [Natu]<br> 10% | ![][433]<br> [Chingling]<br> 10% | 
+![][poke-radar]<br> Poké Radar | ![][236]<br> [Tyrogue]<br> 22%  | &nbsp;                        | &nbsp;                        | &nbsp;                           | &nbsp;                      | &nbsp;                           | 
 
 [Machop]: ../../pokemon_changes/066/
 [Natu]: ../../pokemon_changes/177/

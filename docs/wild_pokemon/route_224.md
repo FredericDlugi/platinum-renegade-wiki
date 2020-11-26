@@ -5,19 +5,19 @@
 
 Level: 59 (Walking) 50 - 60 (Surfing)
 
-Area                           | Pokémon                           | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;
----                            | ---                               | ---                               | ---                               | ---                               | ---                               | ---
-🌅<br>Morning                   | ![][267]<br> [Beautifly]<br> 20% | ![][269]<br> [Dustox]<br> 20%    | ![][070]<br> [Weepinbell]<br> 10%| ![][441]<br> [Chatot]<br> 10%    | ![][315]<br> [Roselia]<br> 10%   | ![][423]<br> [Gastrodon]<br> 10%
-&nbsp;                         | ![][213]<br> [Shuckle]<br> 10%   | ![][178]<br> [Xatu]<br> 10%
-🌞<br>Day                       | ![][267]<br> [Beautifly]<br> 20% | ![][269]<br> [Dustox]<br> 20%    | ![][070]<br> [Weepinbell]<br> 10%| ![][441]<br> [Chatot]<br> 10%    | ![][315]<br> [Roselia]<br> 10%   | ![][423]<br> [Gastrodon]<br> 10%
-&nbsp;                         | ![][213]<br> [Shuckle]<br> 10%   | ![][178]<br> [Xatu]<br> 10%
-🌙<br>Night                     | ![][267]<br> [Beautifly]<br> 20% | ![][269]<br> [Dustox]<br> 20%    | ![][070]<br> [Weepinbell]<br> 10%| ![][044]<br> [Gloom]<br> 10%     | ![][315]<br> [Roselia]<br> 10%   | ![][423]<br> [Gastrodon]<br> 10%
-&nbsp;                         | ![][213]<br> [Shuckle]<br> 10%   | ![][178]<br> [Xatu]<br> 10%
+Area         | Pokémon                          | &nbsp;                        | &nbsp;                            | &nbsp;                        | &nbsp;                         | &nbsp;                           | 
+---          | ---                              | ---                           | ---                               | ---                           | ---                            | ---                              | 
+🌅<br>Morning | ![][267]<br> [Beautifly]<br> 20% | ![][269]<br> [Dustox]<br> 20% | ![][070]<br> [Weepinbell]<br> 10% | ![][441]<br> [Chatot]<br> 10% | ![][315]<br> [Roselia]<br> 10% | ![][423]<br> [Gastrodon]<br> 10% | 
+&nbsp;       | ![][213]<br> [Shuckle]<br> 10%   | ![][178]<br> [Xatu]<br> 10%   | &nbsp;                            | &nbsp;                        | &nbsp;                         | &nbsp;                           | 
+🌞<br>Day     | ![][267]<br> [Beautifly]<br> 20% | ![][269]<br> [Dustox]<br> 20% | ![][070]<br> [Weepinbell]<br> 10% | ![][441]<br> [Chatot]<br> 10% | ![][315]<br> [Roselia]<br> 10% | ![][423]<br> [Gastrodon]<br> 10% | 
+&nbsp;       | ![][213]<br> [Shuckle]<br> 10%   | ![][178]<br> [Xatu]<br> 10%   | &nbsp;                            | &nbsp;                        | &nbsp;                         | &nbsp;                           | 
+🌙<br>Night   | ![][267]<br> [Beautifly]<br> 20% | ![][269]<br> [Dustox]<br> 20% | ![][070]<br> [Weepinbell]<br> 10% | ![][044]<br> [Gloom]<br> 10%  | ![][315]<br> [Roselia]<br> 10% | ![][423]<br> [Gastrodon]<br> 10% | 
+&nbsp;       | ![][213]<br> [Shuckle]<br> 10%   | ![][178]<br> [Xatu]<br> 10%   | &nbsp;                            | &nbsp;                        | &nbsp;                         | &nbsp;                           | 
 ![][poke-radar]<br> Poké Radar
-🌊<br> Surf                     | ![][073]<br> [Tentacruel]<br> 60%| ![][279]<br> [Pelipper]<br> 30%  | ![][423]<br> [Gastrodon]<br> 10%
-![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 60%  | ![][370]<br> [Luvdisc]<br> 30%   | ![][222]<br> [Corsola]<br> 10%
-![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 60%  | ![][370]<br> [Luvdisc]<br> 30%   | ![][222]<br> [Corsola]<br> 10%
-![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60%  | ![][370]<br> [Luvdisc]<br> 30%   | ![][222]<br> [Corsola]<br> 10%
+🌊<br> Surf                   | ![][073]<br> [Tentacruel]<br> 60% | ![][279]<br> [Pelipper]<br> 30% | ![][423]<br> [Gastrodon]<br> 10% | 
+![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 60%   | ![][370]<br> [Luvdisc]<br> 30%  | ![][222]<br> [Corsola]<br> 10%   | 
+![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60%   | ![][370]<br> [Luvdisc]<br> 30%  | ![][222]<br> [Corsola]<br> 10%   | 
+![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60%   | ![][370]<br> [Luvdisc]<br> 30%  | ![][222]<br> [Corsola]<br> 10%   | 
 
 [Gloom]: ../../pokemon_changes/044/
 [Weepinbell]: ../../pokemon_changes/070/

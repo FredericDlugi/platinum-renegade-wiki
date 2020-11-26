@@ -5,20 +5,20 @@
 
 Levels: 15 - 17 (Walking) 20 - 40 (Surfing) 16 (Honey Tree)
 
-Area                           | Pokémon                           | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;
----                            | ---                               | ---                               | ---                               | ---                               | ---                               | ---
-🌅<br>Morning                   | ![][399]<br> [Bidoof]<br> 20%    | ![][079]<br> [Slowpoke]<br> 20%  | ![][183]<br> [Marill]<br> 20%    | ![][453]<br> [Croagunk]<br> 10%  | ![][102]<br> [Exeggcute]<br> 10% | ![][313]<br> [Volbeat]<br> 10%
-&nbsp;                         | ![][314]<br> [Illumise]<br> 10%
-🌞<br>Day                       | ![][399]<br> [Bidoof]<br> 20%    | ![][079]<br> [Slowpoke]<br> 20%  | ![][183]<br> [Marill]<br> 20%    | ![][453]<br> [Croagunk]<br> 10%  | ![][102]<br> [Exeggcute]<br> 10% | ![][313]<br> [Volbeat]<br> 10%
-&nbsp;                         | ![][314]<br> [Illumise]<br> 10%
-🌙<br>Night                     | ![][399]<br> [Bidoof]<br> 20%    | ![][079]<br> [Slowpoke]<br> 20%  | ![][183]<br> [Marill]<br> 20%    | ![][453]<br> [Croagunk]<br> 10%  | ![][102]<br> [Exeggcute]<br> 10% | ![][313]<br> [Volbeat]<br> 10%
-&nbsp;                         | ![][314]<br> [Illumise]<br> 10%
-![][poke-radar]<br> Poké Radar | ![][193]<br> [Yanma]<br> 22%
-🌊<br> Surf                     | ![][183]<br> [Marill]<br> 90%    | ![][184]<br> [Azumarill]<br> 10%
-![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 65%  | ![][341]<br> [Corphish]<br> 35%
-![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 65%  | ![][341]<br> [Corphish]<br> 35%
-![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 65%  | ![][342]<br> [Crawdaunt]<br> 35%
-![][honey]<br> Honey Tree      | ![][396]<br> [Starly]<br> 30%    | ![][016]<br> [Pidgey]<br> 20%    | ![][163]<br> [Hoothoot]<br> 20%  | ![][276]<br> [Taillow]<br> 20%   | ![][083]<br> [Farfetch'd]<br> 10%
+Area                           | Pokémon                         | &nbsp;                           | &nbsp;                          | &nbsp;                          | &nbsp;                            | &nbsp;                         | 
+---                            | ---                             | ---                              | ---                             | ---                             | ---                               | ---                            | 
+🌅<br>Morning                   | ![][399]<br> [Bidoof]<br> 20%   | ![][079]<br> [Slowpoke]<br> 20%  | ![][183]<br> [Marill]<br> 20%   | ![][453]<br> [Croagunk]<br> 10% | ![][102]<br> [Exeggcute]<br> 10%  | ![][313]<br> [Volbeat]<br> 10% | 
+&nbsp;                         | ![][314]<br> [Illumise]<br> 10% | &nbsp;                           | &nbsp;                          | &nbsp;                          | &nbsp;                            | &nbsp;                         | 
+🌞<br>Day                       | ![][399]<br> [Bidoof]<br> 20%   | ![][079]<br> [Slowpoke]<br> 20%  | ![][183]<br> [Marill]<br> 20%   | ![][453]<br> [Croagunk]<br> 10% | ![][102]<br> [Exeggcute]<br> 10%  | ![][313]<br> [Volbeat]<br> 10% | 
+&nbsp;                         | ![][314]<br> [Illumise]<br> 10% | &nbsp;                           | &nbsp;                          | &nbsp;                          | &nbsp;                            | &nbsp;                         | 
+🌙<br>Night                     | ![][399]<br> [Bidoof]<br> 20%   | ![][079]<br> [Slowpoke]<br> 20%  | ![][183]<br> [Marill]<br> 20%   | ![][453]<br> [Croagunk]<br> 10% | ![][102]<br> [Exeggcute]<br> 10%  | ![][313]<br> [Volbeat]<br> 10% | 
+&nbsp;                         | ![][314]<br> [Illumise]<br> 10% | &nbsp;                           | &nbsp;                          | &nbsp;                          | &nbsp;                            | &nbsp;                         | 
+![][poke-radar]<br> Poké Radar | ![][193]<br> [Yanma]<br> 22%    | &nbsp;                           | &nbsp;                          | &nbsp;                          | &nbsp;                            | &nbsp;                         | 
+🌊<br> Surf                     | ![][183]<br> [Marill]<br> 90%   | ![][184]<br> [Azumarill]<br> 10% | &nbsp;                          | &nbsp;                          | &nbsp;                            | &nbsp;                         | 
+![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 65% | ![][341]<br> [Corphish]<br> 35%  | &nbsp;                          | &nbsp;                          | &nbsp;                            | &nbsp;                         | 
+![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 65% | ![][341]<br> [Corphish]<br> 35%  | &nbsp;                          | &nbsp;                          | &nbsp;                            | &nbsp;                         | 
+![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 65% | ![][342]<br> [Crawdaunt]<br> 35% | &nbsp;                          | &nbsp;                          | &nbsp;                            | &nbsp;                         | 
+![][honey]<br> Honey Tree      | ![][396]<br> [Starly]<br> 30%   | ![][016]<br> [Pidgey]<br> 20%    | ![][163]<br> [Hoothoot]<br> 20% | ![][276]<br> [Taillow]<br> 20%  | ![][083]<br> [Farfetch'd]<br> 10% | &nbsp;                         | 
 
 [Pidgey]: ../../pokemon_changes/016/
 [Slowpoke]: ../../pokemon_changes/079/

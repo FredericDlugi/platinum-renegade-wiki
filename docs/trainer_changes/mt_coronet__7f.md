@@ -4,9 +4,9 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/mt_coronet__7f/).
 
 
-Trainer        | 1                                   | 2                                   | 3                                   | 4
----            | ---                                 | ---                                 | ---                                 | ---
-Galactic Grunt | ![][198]<br> [Murkrow]<br> Lv. 55   | ![][042]<br> [Golbat]<br> Lv. 55    | ![][454]<br> [Toxicroak]<br> Lv. 55 | ![][127]<br> [Pinsir]<br> Lv. 55
+Trainer        | 1                                 | 2                                | 3                                   | 4                                | 
+---            | ---                               | ---                              | ---                                 | ---                              | 
+Galactic Grunt | ![][198]<br> [Murkrow]<br> Lv. 55 | ![][042]<br> [Golbat]<br> Lv. 55 | ![][454]<br> [Toxicroak]<br> Lv. 55 | ![][127]<br> [Pinsir]<br> Lv. 55 | 
 
 [Golbat]: ../../pokemon_changes/042/
 [Pinsir]: ../../pokemon_changes/127/

@@ -4,29 +4,29 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_213/).
 
 
-Trainer           | 1                                   | 2                                   | 3
----               | ---                                 | ---                                 | ---
-Beauty Cyndy (!)  | ![][301]<br> [Delcatty]<br> Lv. 37  | ![][053]<br> [Persian]<br> Lv. 37
-Fisherman Kenneth | ![][318]<br> [Carvanha]<br> Lv. 36  | ![][223]<br> [Remoraid]<br> Lv. 36  | ![][116]<br> [Horsea]<br> Lv. 36
-Tuber Jared (!)   | ![][423]<br> [Gastrodon]<br> Lv. 37
-Tuber Chelsea (!) | ![][184]<br> [Azumarill]<br> Lv. 37
-Swimmer Haley     | ![][055]<br> [Golduck]<br> Lv. 43   | ![][226]<br> [Mantine]<br> Lv. 43   | ![][222]<br> [Corsola]<br> Lv. 43
-Swimmer Sheltin   | ![][130]<br> [Gyarados]<br> Lv. 43  | ![][130]<br> [Gyarados]<br> Lv. 43  | ![][130]<br> [Gyarados]<br> Lv. 43
-Sailor Paul       | ![][186]<br> [Politoed]<br> Lv. 45
-Swimmer Evan      | ![][195]<br> [Quagsire]<br> Lv. 44  | ![][319]<br> [Sharpedo]<br> Lv. 44
-Swimmer Mary      | ![][279]<br> [Pelipper]<br> Lv. 44  | ![][457]<br> [Lumineon]<br> Lv. 44
-Galactic Grunt    | ![][454]<br> [Toxicroak]<br> Lv. 41
+Trainer           | 1                                   | 2                                  | 3                                  | 
+---               | ---                                 | ---                                | ---                                | 
+Beauty Cyndy (!)  | ![][301]<br> [Delcatty]<br> Lv. 37  | ![][053]<br> [Persian]<br> Lv. 37  | &nbsp;                             | 
+Fisherman Kenneth | ![][318]<br> [Carvanha]<br> Lv. 36  | ![][223]<br> [Remoraid]<br> Lv. 36 | ![][116]<br> [Horsea]<br> Lv. 36   | 
+Tuber Jared (!)   | ![][423]<br> [Gastrodon]<br> Lv. 37 | &nbsp;                             | &nbsp;                             | 
+Tuber Chelsea (!) | ![][184]<br> [Azumarill]<br> Lv. 37 | &nbsp;                             | &nbsp;                             | 
+Swimmer Haley     | ![][055]<br> [Golduck]<br> Lv. 43   | ![][226]<br> [Mantine]<br> Lv. 43  | ![][222]<br> [Corsola]<br> Lv. 43  | 
+Swimmer Sheltin   | ![][130]<br> [Gyarados]<br> Lv. 43  | ![][130]<br> [Gyarados]<br> Lv. 43 | ![][130]<br> [Gyarados]<br> Lv. 43 | 
+Sailor Paul       | ![][186]<br> [Politoed]<br> Lv. 45  | &nbsp;                             | &nbsp;                             | 
+Swimmer Evan      | ![][195]<br> [Quagsire]<br> Lv. 44  | ![][319]<br> [Sharpedo]<br> Lv. 44 | &nbsp;                             | 
+Swimmer Mary      | ![][279]<br> [Pelipper]<br> Lv. 44  | ![][457]<br> [Lumineon]<br> Lv. 44 | &nbsp;                             | 
+Galactic Grunt    | ![][454]<br> [Toxicroak]<br> Lv. 41 | &nbsp;                             | &nbsp;                             | 
 
 #### Rematches
 
-Trainer           | 1                                   | 2                                   | 3
----               | ---                                 | ---                                 | ---
-Beauty Cyndy (8)  | ![][301]<br> [Delcatty]<br> Lv. 59  | ![][053]<br> [Persian]<br> Lv. 59   | ![][432]<br> [Purugly]<br> Lv. 59
-Beauty Cyndy (C)  | ![][301]<br> [Delcatty]<br> Lv. 70  | ![][053]<br> [Persian]<br> Lv. 70   | ![][432]<br> [Purugly]<br> Lv. 70
-Tuber Jared (5)   | ![][423]<br> [Gastrodon]<br> Lv. 39
-Tuber Jared (C)   | ![][423]<br> [Gastrodon]<br> Lv. 69
-Tuber Chelsea (8) | ![][184]<br> [Azumarill]<br> Lv. 59
-Tuber Chelsea (C) | ![][184]<br> [Azumarill]<br> Lv. 69
+Trainer           | 1                                   | 2                                 | 3                                 | 
+---               | ---                                 | ---                               | ---                               | 
+Beauty Cyndy (8)  | ![][301]<br> [Delcatty]<br> Lv. 59  | ![][053]<br> [Persian]<br> Lv. 59 | ![][432]<br> [Purugly]<br> Lv. 59 | 
+Beauty Cyndy (C)  | ![][301]<br> [Delcatty]<br> Lv. 70  | ![][053]<br> [Persian]<br> Lv. 70 | ![][432]<br> [Purugly]<br> Lv. 70 | 
+Tuber Jared (5)   | ![][423]<br> [Gastrodon]<br> Lv. 39 | &nbsp;                            | &nbsp;                            | 
+Tuber Jared (C)   | ![][423]<br> [Gastrodon]<br> Lv. 69 | &nbsp;                            | &nbsp;                            | 
+Tuber Chelsea (8) | ![][184]<br> [Azumarill]<br> Lv. 59 | &nbsp;                            | &nbsp;                            | 
+Tuber Chelsea (C) | ![][184]<br> [Azumarill]<br> Lv. 69 | &nbsp;                            | &nbsp;                            | 
 
 [Persian]: ../../pokemon_changes/053/
 [Golduck]: ../../pokemon_changes/055/

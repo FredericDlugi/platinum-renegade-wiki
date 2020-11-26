@@ -1,15 +1,15 @@
 # Trophy Garden
 Levels: 24 - 26
 
-Area                           | Pokémon                          | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;                           
----                            | ---                              | ---                              | ---                              | ---                              | ---                              | ---                              
-🌅<br>Morning                   | ![][172]<br> [Pichu]<br> 20%    | ![][025]<br> [Pikachu]<br> 20%  | ![][173]<br> [Cleffa]<br> 10%   | ![][174]<br> [Igglybuff]<br> 10%| ![][175]<br> [Togepi]<br> 10%   | ![][137]<br> [Porygon]<br> 10%  
-&nbsp;                         | ![][440]<br> [Happiny]<br> 10%  | ![][133]<br> [Eevee]<br> 10%    
-🌞<br>Day                       | ![][172]<br> [Pichu]<br> 20%    | ![][025]<br> [Pikachu]<br> 20%  | ![][173]<br> [Cleffa]<br> 10%   | ![][174]<br> [Igglybuff]<br> 10%| ![][175]<br> [Togepi]<br> 10%   | ![][137]<br> [Porygon]<br> 10%  
-&nbsp;                         | ![][440]<br> [Happiny]<br> 10%  | ![][133]<br> [Eevee]<br> 10%    
-🌙<br>Night                     | ![][172]<br> [Pichu]<br> 20%    | ![][025]<br> [Pikachu]<br> 20%  | ![][173]<br> [Cleffa]<br> 10%   | ![][174]<br> [Igglybuff]<br> 10%| ![][175]<br> [Togepi]<br> 10%   | ![][137]<br> [Porygon]<br> 10%  
-&nbsp;                         | ![][440]<br> [Happiny]<br> 10%  | ![][133]<br> [Eevee]<br> 10%    
-![][poke-radar]<br> Poké Radar | ![][351]<br> [Castform]<br> 22%
+Area                           | Pokémon                         | &nbsp;                         | &nbsp;                        | &nbsp;                           | &nbsp;                        | &nbsp;                         | 
+---                            | ---                             | ---                            | ---                           | ---                              | ---                           | ---                            | 
+🌅<br>Morning                   | ![][172]<br> [Pichu]<br> 20%    | ![][025]<br> [Pikachu]<br> 20% | ![][173]<br> [Cleffa]<br> 10% | ![][174]<br> [Igglybuff]<br> 10% | ![][175]<br> [Togepi]<br> 10% | ![][137]<br> [Porygon]<br> 10% | 
+&nbsp;                         | ![][440]<br> [Happiny]<br> 10%  | ![][133]<br> [Eevee]<br> 10%   | &nbsp;                        | &nbsp;                           | &nbsp;                        | &nbsp;                         | 
+🌞<br>Day                       | ![][172]<br> [Pichu]<br> 20%    | ![][025]<br> [Pikachu]<br> 20% | ![][173]<br> [Cleffa]<br> 10% | ![][174]<br> [Igglybuff]<br> 10% | ![][175]<br> [Togepi]<br> 10% | ![][137]<br> [Porygon]<br> 10% | 
+&nbsp;                         | ![][440]<br> [Happiny]<br> 10%  | ![][133]<br> [Eevee]<br> 10%   | &nbsp;                        | &nbsp;                           | &nbsp;                        | &nbsp;                         | 
+🌙<br>Night                     | ![][172]<br> [Pichu]<br> 20%    | ![][025]<br> [Pikachu]<br> 20% | ![][173]<br> [Cleffa]<br> 10% | ![][174]<br> [Igglybuff]<br> 10% | ![][175]<br> [Togepi]<br> 10% | ![][137]<br> [Porygon]<br> 10% | 
+&nbsp;                         | ![][440]<br> [Happiny]<br> 10%  | ![][133]<br> [Eevee]<br> 10%   | &nbsp;                        | &nbsp;                           | &nbsp;                        | &nbsp;                         | 
+![][poke-radar]<br> Poké Radar | ![][351]<br> [Castform]<br> 22% | &nbsp;                         | &nbsp;                        | &nbsp;                           | &nbsp;                        | &nbsp;                         | 
 
 [Pikachu]: ../../pokemon_changes/025/
 [Eevee]: ../../pokemon_changes/133/

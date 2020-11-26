@@ -4,25 +4,25 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/celestic_town/).
 
 
-Trainer                           | 1                                   | 2                                   | 3                                   | 4
----                               | ---                                 | ---                                 | ---                                 | ---
-Galactic Grunt                    | ![][229]<br> [Houndoom]<br> Lv. 43  | ![][042]<br> [Golbat]<br> Lv. 43    | ![][015]<br> [Beedrill]<br> Lv. 43
-Galactic Boss Cyrus<br>![][cyrus] | ![][169]<br> [Crobat]<br> Lv. 45    | ![][430]<br> [Honchkrow]<br> Lv. 45 | ![][462]<br> [Magnezone]<br> Lv. 45 | ![][461]<br> [Weavile]<br> Lv. 46
+Trainer                           | 1                                  | 2                                   | 3                                   | 4                                 | 
+---                               | ---                                | ---                                 | ---                                 | ---                               | 
+Galactic Grunt                    | ![][229]<br> [Houndoom]<br> Lv. 43 | ![][042]<br> [Golbat]<br> Lv. 43    | ![][015]<br> [Beedrill]<br> Lv. 43  | &nbsp;                            | 
+Galactic Boss Cyrus<br>![][cyrus] | ![][169]<br> [Crobat]<br> Lv. 45   | ![][430]<br> [Honchkrow]<br> Lv. 45 | ![][462]<br> [Magnezone]<br> Lv. 45 | ![][461]<br> [Weavile]<br> Lv. 46 | 
 
-Galactic Boss Cyrus<br>![][cyrus]   | Item                               | Nature | Ability        | Moves
----                                 | ---                                |    --- | ---            | ---
-![][169]<br> [Crobat]<br> Lv. 45    | ![][wise-glasses]<br> Wise Glasses |      ? | Inner Focus    | Sludge Bomb, Air Slash, Giga Drain, Hypnosis
-![][430]<br> [Honchkrow]<br> Lv. 45 | ![][scope-lens]<br> Scope Lens     |      ? | Super Luck     | Brave Bird, Night Slash, Swagger, Torment
-![][462]<br> [Magnezone]<br> Lv. 45 | ![][life-orb]<br> Life Orb         |      ? | Magnet Pull    | Thunderbolt, Flash Cannon, Thunder Wave, Mirror Coat
-![][461]<br> [Weavile]<br> Lv. 46   | ![][expert-belt]<br> Expert Belt   |      ? | Technician (!) | Feint Attack, Icicle Crash, Ice Shard, Swords Dance
+Galactic Boss Cyrus<br>![][cyrus]   | Item                               | Nature | Ability        | Moves                                                | 
+---                                 | ---                                | ---    | ---            | ---                                                  | 
+![][169]<br> [Crobat]<br> Lv. 45    | ![][wise-glasses]<br> Wise Glasses | ?      | Inner Focus    | Sludge Bomb, Air Slash, Giga Drain, Hypnosis         | 
+![][430]<br> [Honchkrow]<br> Lv. 45 | ![][scope-lens]<br> Scope Lens     | ?      | Super Luck     | Brave Bird, Night Slash, Swagger, Torment            | 
+![][462]<br> [Magnezone]<br> Lv. 45 | ![][life-orb]<br> Life Orb         | ?      | Magnet Pull    | Thunderbolt, Flash Cannon, Thunder Wave, Mirror Coat | 
+![][461]<br> [Weavile]<br> Lv. 46   | ![][expert-belt]<br> Expert Belt   | ?      | Technician (!) | Feint Attack, Icicle Crash, Ice Shard, Swords Dance  | 
 
 
 
 ## Master Trainer
 
-Ace Trainer Grayson<br>![][ace_m]   | Item | Nature | Ability  | Moves
----                                 | ---  |    --- | ---      | ---
-![][445]<br> [Garchomp]<br> Lv. 85  | None |      ? | ?        | Outrage, Earthquake, -, -
+Ace Trainer Grayson<br>![][ace_m]  | Item | Nature | Ability | Moves                     | 
+---                                | ---  | ---    | ---     | ---                       | 
+![][445]<br> [Garchomp]<br> Lv. 85 | None | ?      | ?       | Outrage, Earthquake, -, - | 
 
 [Beedrill]: ../../pokemon_changes/015/
 [Golbat]: ../../pokemon_changes/042/

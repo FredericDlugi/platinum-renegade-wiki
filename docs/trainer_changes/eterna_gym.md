@@ -1,20 +1,20 @@
 # Eterna Gym
 
-Trainer                          | 1                                      | 2                                   | 3                                     | 4                                     | 5                                    | 6
----                              | ---                                    | ---                                 | ---                                   | ---                                   | ---                                  | ---
-Lass Caroline                    | ![][270] <br>      [Lotad] <br> Lv. 22 |![][331] <br>  [Cacnea] <br> Lv. 22  | ![][102] <br> [Exeggcute] <br> Lv. 22 | ![][285] <br> [Shroomish] <br> Lv. 22 |                                      |
-Aroma Lady Jenna                 | ![][070] <br> [Weepinbell] <br> Lv. 23 |![][002] <br> [Ivysaur] <br> Lv. 23  | ![][044] <br>     [Gloom] <br> Lv. 23 |                                       |                                      |
-Aroma Lady Angela                | ![][315] <br>    [Roselia] <br> Lv. 23 |![][153] <br> [Bayleef] <br> Lv. 23  | ![][188] <br>  [Skiploom] <br> Lv. 23 |                                       |                                      |
-Leader Gardenia<br>![][gardenia] | ![][182] <br>  [Bellossom] <br> Lv. 25 |![][114] <br> [Tangela] <br> Lv. 25  | ![][421] <br>   [Cherrim] <br> Lv. 25 | ![][388] <br>    [Grotle] <br> Lv. 25 | ![][286] <br> [Breloom] <br> Lv. 25  | ![][407] <br> [Roserade] <br> Lv. 26
+Trainer                          | 1                                      | 2                                   | 3                                     | 4                                     | 5                                   | 6                                    | 
+---                              | ---                                    | ---                                 | ---                                   | ---                                   | ---                                 | ---                                  | 
+Lass Caroline                    | ![][270] <br>      [Lotad] <br> Lv. 22 | ![][331] <br>  [Cacnea] <br> Lv. 22 | ![][102] <br> [Exeggcute] <br> Lv. 22 | ![][285] <br> [Shroomish] <br> Lv. 22 |                                     |                                      | 
+Aroma Lady Jenna                 | ![][070] <br> [Weepinbell] <br> Lv. 23 | ![][002] <br> [Ivysaur] <br> Lv. 23 | ![][044] <br>     [Gloom] <br> Lv. 23 |                                       |                                     |                                      | 
+Aroma Lady Angela                | ![][315] <br>    [Roselia] <br> Lv. 23 | ![][153] <br> [Bayleef] <br> Lv. 23 | ![][188] <br>  [Skiploom] <br> Lv. 23 |                                       |                                     |                                      | 
+Leader Gardenia<br>![][gardenia] | ![][182] <br>  [Bellossom] <br> Lv. 25 | ![][114] <br> [Tangela] <br> Lv. 25 | ![][421] <br>   [Cherrim] <br> Lv. 25 | ![][388] <br>    [Grotle] <br> Lv. 25 | ![][286] <br> [Breloom] <br> Lv. 25 | ![][407] <br> [Roserade] <br> Lv. 26 | 
 
-Leader Gardenia<br>![][gardenia]      | Item                               | Nature  | Ability     | Moves
----                                   | ---                                | ---     | ---         | ---
-![][182]<br>  [Bellossom]<br>  Lv. 25 | ![][wide-lens]<br>       Wide Lens | Relaxed | Chlorophyll | Grass Knot, Teeter Dance, Dazzling Gleam, Stun Spore
-![][114]<br>    [Tangela]<br>  Lv. 25 | ![][coba-berry]<br>     Coba Berry | Rash    | Chlorophyll | Grass Knot, Shock Wave, Ancient Power, Stun Spore
-![][421]<br>    [Cherrim]<br>  Lv. 25 | ![][focus-sash]<br>     Focus Sash | Hasty   | Flower Gift | Grass Knot, Sunny Day, Weather Ball, Morning Sun
-![][388]<br>     [Grotle]<br>  Lv. 25 | ![][leftovers]<br>       Leftovers | Adamant | Overgrow    | Seed Bomb, Protect, Leech Seed, Bulldoze
-![][286]<br>    [Breloom]<br>  Lv. 25 | ![][muscle-band]<br>   Muscle Band | Naughty | Technician  | Bullet Seed, Mach Punch, Thunder Punch, Spore
-![][407]<br>   [Roserade]<br>  Lv. 26 | ![][sitrus-berry]<br> Sitrus Berry | Timid   | Technician  | Magical Leaf, Sludge, Dazzling Gleam, Extrasensory
+Leader Gardenia<br>![][gardenia]      | Item                               | Nature  | Ability     | Moves                                                | 
+---                                   | ---                                | ---     | ---         | ---                                                  | 
+![][182]<br>  [Bellossom]<br>  Lv. 25 | ![][wide-lens]<br>       Wide Lens | Relaxed | Chlorophyll | Grass Knot, Teeter Dance, Dazzling Gleam, Stun Spore | 
+![][114]<br>    [Tangela]<br>  Lv. 25 | ![][coba-berry]<br>     Coba Berry | Rash    | Chlorophyll | Grass Knot, Shock Wave, Ancient Power, Stun Spore    | 
+![][421]<br>    [Cherrim]<br>  Lv. 25 | ![][focus-sash]<br>     Focus Sash | Hasty   | Flower Gift | Grass Knot, Sunny Day, Weather Ball, Morning Sun     | 
+![][388]<br>     [Grotle]<br>  Lv. 25 | ![][leftovers]<br>       Leftovers | Adamant | Overgrow    | Seed Bomb, Protect, Leech Seed, Bulldoze             | 
+![][286]<br>    [Breloom]<br>  Lv. 25 | ![][muscle-band]<br>   Muscle Band | Naughty | Technician  | Bullet Seed, Mach Punch, Thunder Punch, Spore        | 
+![][407]<br>   [Roserade]<br>  Lv. 26 | ![][sitrus-berry]<br> Sitrus Berry | Timid   | Technician  | Magical Leaf, Sludge, Dazzling Gleam, Extrasensory   | 
 
 [Ivysaur]: ../../pokemon_changes/002/
 [Gloom]: ../../pokemon_changes/044/

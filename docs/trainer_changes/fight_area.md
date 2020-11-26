@@ -1,12 +1,12 @@
 # Fight Area
 
-Trainer            | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6                                    
----                | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  
-Leader Volkner     | ![][026]<br> [Raichu]<br> Lv. 74     | ![][135]<br> [Jolteon]<br> Lv. 74    | ![][466]<br> [Electivire]<br> Lv. 75 
-Elite Four Flint   | ![][059]<br> [Arcanine]<br> Lv. 74   | ![][136]<br> [Flareon]<br> Lv. 74    | ![][467]<br> [Magmortar]<br> Lv. 75  
-PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 74  | ![][214]<br> [Heracross]<br> Lv. 74  | ![][143]<br> [Snorlax]<br> Lv. 74    | ![][184]<br> [Azumarill]<br> Lv. 74  | ![][059]<br> [Arcanine]<br> Lv. 74   | ![][389]<br> [Torterra]<br> Lv. 75   
-PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 74  | ![][214]<br> [Heracross]<br> Lv. 74  | ![][143]<br> [Snorlax]<br> Lv. 74    | ![][184]<br> [Azumarill]<br> Lv. 74  | ![][286]<br> [Breloom]<br> Lv. 74    | ![][392]<br> [Infernape]<br> Lv. 75  
-PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 74  | ![][214]<br> [Heracross]<br> Lv. 74  | ![][143]<br> [Snorlax]<br> Lv. 74    | ![][286]<br> [Breloom]<br> Lv. 74    | ![][059]<br> [Arcanine]<br> Lv. 74   | ![][395]<br> [Empoleon]<br> Lv. 75
+Trainer            | 1                                   | 2                                   | 3                                    | 4                                   | 5                                  | 6                                   | 
+---                | ---                                 | ---                                 | ---                                  | ---                                 | ---                                | ---                                 | 
+Leader Volkner     | ![][026]<br> [Raichu]<br> Lv. 74    | ![][135]<br> [Jolteon]<br> Lv. 74   | ![][466]<br> [Electivire]<br> Lv. 75 | &nbsp;                              | &nbsp;                             | &nbsp;                              | 
+Elite Four Flint   | ![][059]<br> [Arcanine]<br> Lv. 74  | ![][136]<br> [Flareon]<br> Lv. 74   | ![][467]<br> [Magmortar]<br> Lv. 75  | &nbsp;                              | &nbsp;                             | &nbsp;                              | 
+PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 74 | ![][214]<br> [Heracross]<br> Lv. 74 | ![][143]<br> [Snorlax]<br> Lv. 74    | ![][184]<br> [Azumarill]<br> Lv. 74 | ![][059]<br> [Arcanine]<br> Lv. 74 | ![][389]<br> [Torterra]<br> Lv. 75  | 
+PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 74 | ![][214]<br> [Heracross]<br> Lv. 74 | ![][143]<br> [Snorlax]<br> Lv. 74    | ![][184]<br> [Azumarill]<br> Lv. 74 | ![][286]<br> [Breloom]<br> Lv. 74  | ![][392]<br> [Infernape]<br> Lv. 75 | 
+PKMN Trainer Barry | ![][398]<br> [Staraptor]<br> Lv. 74 | ![][214]<br> [Heracross]<br> Lv. 74 | ![][143]<br> [Snorlax]<br> Lv. 74    | ![][286]<br> [Breloom]<br> Lv. 74   | ![][059]<br> [Arcanine]<br> Lv. 74 | ![][395]<br> [Empoleon]<br> Lv. 75  | 
 
 [Raichu]: ../../pokemon_changes/026/
 [Arcanine]: ../../pokemon_changes/059/

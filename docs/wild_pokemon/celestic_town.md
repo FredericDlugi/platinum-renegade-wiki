@@ -5,12 +5,12 @@
 
 Levels: 20 - 40 (Surfing)
 
-Area                         | Pokémon                          | &nbsp;
----                          | ---                              | ---
-🌊<br> Surf                   | ![][054]<br> [Psyduck]<br> 90%  | ![][055]<br> [Golduck]<br> 10%
-![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 90% | ![][369]<br> [Relicanth]<br> 10%
-![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 90% | ![][369]<br> [Relicanth]<br> 10%
-![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 90% | ![][369]<br> [Relicanth]<br> 10%
+Area                         | Pokémon                         | &nbsp;                           | 
+---                          | ---                             | ---                              | 
+🌊<br> Surf                   | ![][054]<br> [Psyduck]<br> 90%  | ![][055]<br> [Golduck]<br> 10%   | 
+![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 90% | ![][369]<br> [Relicanth]<br> 10% | 
+![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 90% | ![][369]<br> [Relicanth]<br> 10% | 
+![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 90% | ![][369]<br> [Relicanth]<br> 10% | 
 
 [Psyduck]: ../../pokemon_changes/054/
 [Golduck]: ../../pokemon_changes/055/

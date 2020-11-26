@@ -4,20 +4,20 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/lost_tower/).
 
 
-Trainer                 | 1                                    | 2                                    | 3                                    | 4
----                     | ---                                  | ---                                  | ---                                  | ---
-Youngster Oliver        | ![][422]<br> [Shellos]<br> Lv. 31    | ![][339]<br> [Barboach]<br> Lv. 31   | ![][414]<br> [Mothim]<br> Lv. 31
-Pokéfan Leonard         | ![][311]<br> [Plusle]<br> Lv. 31     | ![][312]<br> [Minun]<br> Lv. 31      | ![][417]<br> [Pachirisu]<br> Lv. 31
-Roughneck Kirby         | ![][173]<br> [Cleffa]<br> Lv. 33
-Pokéfan Rebekah         | ![][035]<br> [Clefairy]<br> Lv. 30   | ![][320]<br> [Wailmer]<br> Lv. 30    | ![][438]<br> [Bonsly]<br> Lv. 30     | ![][300]<br> [Skitty]<br> Lv. 30
-Young Couple Mike & Nat | ![][198]<br> [Murkrow]<br> Lv. 33    | ![][200]<br> [Misdreavus]<br> Lv. 33
-Belle & Pa Beth & Bob   | ![][077]<br> [Ponyta]<br> Lv. 33     | ![][180]<br> [Flaaffy]<br> Lv. 33
+Trainer                 | 1                                  | 2                                    | 3                                   | 4                                | 
+---                     | ---                                | ---                                  | ---                                 | ---                              | 
+Youngster Oliver        | ![][422]<br> [Shellos]<br> Lv. 31  | ![][339]<br> [Barboach]<br> Lv. 31   | ![][414]<br> [Mothim]<br> Lv. 31    | &nbsp;                           | 
+Pokéfan Leonard         | ![][311]<br> [Plusle]<br> Lv. 31   | ![][312]<br> [Minun]<br> Lv. 31      | ![][417]<br> [Pachirisu]<br> Lv. 31 | &nbsp;                           | 
+Roughneck Kirby         | ![][173]<br> [Cleffa]<br> Lv. 33   | &nbsp;                               | &nbsp;                              | &nbsp;                           | 
+Pokéfan Rebekah         | ![][035]<br> [Clefairy]<br> Lv. 30 | ![][320]<br> [Wailmer]<br> Lv. 30    | ![][438]<br> [Bonsly]<br> Lv. 30    | ![][300]<br> [Skitty]<br> Lv. 30 | 
+Young Couple Mike & Nat | ![][198]<br> [Murkrow]<br> Lv. 33  | ![][200]<br> [Misdreavus]<br> Lv. 33 | &nbsp;                              | &nbsp;                           | 
+Belle & Pa Beth & Bob   | ![][077]<br> [Ponyta]<br> Lv. 33   | ![][180]<br> [Flaaffy]<br> Lv. 33    | &nbsp;                              | &nbsp;                           | 
 
 ## Master Trainer
 
-Psychic ???<br>![][psychic_m]    | Item | Nature | Ability | Moves
----                              | ---  |    --- | ---     | ---
-![][094]<br> [Gengar]<br> Lv. 85 | None |      ? |       ? | Shadow Ball, Hypnosis, Luster Purge, -
+Psychic ???<br>![][psychic_m]    | Item | Nature | Ability | Moves                                  | 
+---                              | ---  | ---    | ---     | ---                                    | 
+![][094]<br> [Gengar]<br> Lv. 85 | None | ?      | ?       | Shadow Ball, Hypnosis, Luster Purge, - | 
 
 [Clefairy]: ../../pokemon_changes/035/
 [Ponyta]: ../../pokemon_changes/077/

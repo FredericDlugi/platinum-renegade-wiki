@@ -5,18 +5,18 @@
 
 Levels: 36 - 40 (Walking) 30 - 45 (Surf) 40 (Honey Tree)
 
-Area                           | Pokémon                           | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;
----                            | ---                               | ---                               | ---                               | ---                               | ---                               | ---
-🌅<br>Morning                   | ![][081]<br> [Magnemite]<br> 30% | ![][126]<br> [Magmar]<br> 20%    | ![][082]<br> [Magneton]<br> 20%  | ![][310]<br> [Manectric]<br> 15% | ![][205]<br> [Forretress]<br> 15%
-🌞<br>Day                       | ![][081]<br> [Magnemite]<br> 30% | ![][126]<br> [Magmar]<br> 20%    | ![][082]<br> [Magneton]<br> 20%  | ![][310]<br> [Manectric]<br> 15% | ![][205]<br> [Forretress]<br> 15%
-🌙<br>Night                     | ![][081]<br> [Magnemite]<br> 30% | ![][126]<br> [Magmar]<br> 20%    | ![][082]<br> [Magneton]<br> 20%  | ![][310]<br> [Manectric]<br> 15% | ![][205]<br> [Forretress]<br> 15%
-![][poke-radar]<br> Poké Radar | ![][110]<br> [Weezing]<br> 22%
-🌊<br> Surf                     | ![][422]<br> [Shellos]<br> 60%   | ![][072]<br> [Tentacool]<br> 30% | ![][423]<br> [Gastrodon]<br> 5%  | ![][073]<br> [Tentacruel]<br> 5%
-![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 100%
-![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 65%  | ![][456]<br> [Finneon]<br> 35%
-![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60%  | ![][457]<br> [Lumineon]<br> 35%  | ![][090]<br> [Shellder]<br> 5%
-![][honey]<br> Honey Tree      | ![][415]<br> [Combee]<br> 30%    | ![][205]<br> [Forretress]<br> 10%| ![][413]<br> [Wormadam]<br> 10%  | ![][414]<br> [Mothim]<br> 10%    | ![][267]<br> [Beautifly]<br> 10% | ![][269]<br> [Dustox]<br> 10%
-&nbsp;                         | ![][214]<br> [Heracross]<br> 10% | ![][416]<br> [Vespiquen]<br> 10%
+Area                           | Pokémon                          | &nbsp;                            | &nbsp;                          | &nbsp;                           | &nbsp;                            | &nbsp;                        | 
+---                            | ---                              | ---                               | ---                             | ---                              | ---                               | ---                           | 
+🌅<br>Morning                   | ![][081]<br> [Magnemite]<br> 30% | ![][126]<br> [Magmar]<br> 20%     | ![][082]<br> [Magneton]<br> 20% | ![][310]<br> [Manectric]<br> 15% | ![][205]<br> [Forretress]<br> 15% | &nbsp;                        | 
+🌞<br>Day                       | ![][081]<br> [Magnemite]<br> 30% | ![][126]<br> [Magmar]<br> 20%     | ![][082]<br> [Magneton]<br> 20% | ![][310]<br> [Manectric]<br> 15% | ![][205]<br> [Forretress]<br> 15% | &nbsp;                        | 
+🌙<br>Night                     | ![][081]<br> [Magnemite]<br> 30% | ![][126]<br> [Magmar]<br> 20%     | ![][082]<br> [Magneton]<br> 20% | ![][310]<br> [Manectric]<br> 15% | ![][205]<br> [Forretress]<br> 15% | &nbsp;                        | 
+![][poke-radar]<br> Poké Radar | ![][110]<br> [Weezing]<br> 22%   | &nbsp;                            | &nbsp;                          | &nbsp;                           | &nbsp;                            | &nbsp;                        | 
+🌊<br> Surf                     | ![][422]<br> [Shellos]<br> 60%   | ![][072]<br> [Tentacool]<br> 30%  | ![][423]<br> [Gastrodon]<br> 5% | ![][073]<br> [Tentacruel]<br> 5% | &nbsp;                            | &nbsp;                        | 
+![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 100% | &nbsp;                            | &nbsp;                          | &nbsp;                           | &nbsp;                            | &nbsp;                        | 
+![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 65%  | ![][456]<br> [Finneon]<br> 35%    | &nbsp;                          | &nbsp;                           | &nbsp;                            | &nbsp;                        | 
+![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60%  | ![][457]<br> [Lumineon]<br> 35%   | ![][090]<br> [Shellder]<br> 5%  | &nbsp;                           | &nbsp;                            | &nbsp;                        | 
+![][honey]<br> Honey Tree      | ![][415]<br> [Combee]<br> 30%    | ![][205]<br> [Forretress]<br> 10% | ![][413]<br> [Wormadam]<br> 10% | ![][414]<br> [Mothim]<br> 10%    | ![][267]<br> [Beautifly]<br> 10%  | ![][269]<br> [Dustox]<br> 10% | 
+&nbsp;                         | ![][214]<br> [Heracross]<br> 10% | ![][416]<br> [Vespiquen]<br> 10%  | &nbsp;                          | &nbsp;                           | &nbsp;                            | &nbsp;                        | 
 
 [Tentacool]: ../../pokemon_changes/072/
 [Tentacruel]: ../../pokemon_changes/073/

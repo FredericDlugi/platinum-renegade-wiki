@@ -5,16 +5,16 @@
 
 Levels: 4 - 5 (Walking) 20 - 40 (Surfing)
 
-Area                           | Pokémon                           | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;
----                            | ---                               | ---                               | ---                               | ---                               | ---                               | ---
-🌅<br>Morning                   | ![][396]<br> [Starly]<br> 30%    | ![][399]<br> [Bidoof]<br> 20%    | ![][283]<br> [Surskit]<br> 20%   | ![][298]<br> [Azurill]<br> 10%   | ![][054]<br> [Psyduck]<br> 10%   | ![][278]<br> [Wingull]<br> 10%
-🌞<br>Day                       | ![][396]<br> [Starly]<br> 30%    | ![][399]<br> [Bidoof]<br> 20%    | ![][283]<br> [Surskit]<br> 20%   | ![][298]<br> [Azurill]<br> 10%   | ![][054]<br> [Psyduck]<br> 10%   | ![][278]<br> [Wingull]<br> 10%
-🌙<br>Night                     | ![][396]<br> [Starly]<br> 30%    | ![][399]<br> [Bidoof]<br> 20%    | ![][283]<br> [Surskit]<br> 20%   | ![][298]<br> [Azurill]<br> 10%   | ![][054]<br> [Psyduck]<br> 10%   | ![][278]<br> [Wingull]<br> 10%
-![][poke-radar]<br> Poké Radar | ![][360]<br> [Wynaut]<br> 22%
-🌊<br> Surf                     | ![][283]<br> [Surskit]<br> 90%   | ![][284]<br> [Masquerain]<br> 10%
-![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 100%
-![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 100%
-![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 100%
+Area                           | Pokémon                          | &nbsp;                            | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                         | 
+---                            | ---                              | ---                               | ---                            | ---                            | ---                            | ---                            | 
+🌅<br>Morning                   | ![][396]<br> [Starly]<br> 30%    | ![][399]<br> [Bidoof]<br> 20%     | ![][283]<br> [Surskit]<br> 20% | ![][298]<br> [Azurill]<br> 10% | ![][054]<br> [Psyduck]<br> 10% | ![][278]<br> [Wingull]<br> 10% | 
+🌞<br>Day                       | ![][396]<br> [Starly]<br> 30%    | ![][399]<br> [Bidoof]<br> 20%     | ![][283]<br> [Surskit]<br> 20% | ![][298]<br> [Azurill]<br> 10% | ![][054]<br> [Psyduck]<br> 10% | ![][278]<br> [Wingull]<br> 10% | 
+🌙<br>Night                     | ![][396]<br> [Starly]<br> 30%    | ![][399]<br> [Bidoof]<br> 20%     | ![][283]<br> [Surskit]<br> 20% | ![][298]<br> [Azurill]<br> 10% | ![][054]<br> [Psyduck]<br> 10% | ![][278]<br> [Wingull]<br> 10% | 
+![][poke-radar]<br> Poké Radar | ![][360]<br> [Wynaut]<br> 22%    | &nbsp;                            | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                         | 
+🌊<br> Surf                     | ![][283]<br> [Surskit]<br> 90%   | ![][284]<br> [Masquerain]<br> 10% | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                         | 
+![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 100% | &nbsp;                            | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                         | 
+![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 100% | &nbsp;                            | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                         | 
+![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 100% | &nbsp;                            | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                         | 
 
 [Psyduck]: ../../pokemon_changes/054/
 [Magikarp]: ../../pokemon_changes/129/

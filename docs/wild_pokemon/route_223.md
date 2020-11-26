@@ -5,12 +5,12 @@
 
 Levels: 50 - 60 (Surfing)
 
-Area                         | Pokémon                           | &nbsp;                            | &nbsp;                            | &nbsp;
----                          | ---                               | ---                               | ---                               | ---
-🌊<br> Surf                   | ![][073]<br> [Tentacruel]<br> 60%| ![][279]<br> [Pelipper]<br> 30%  | ![][226]<br> [Mantine]<br> 10%
-![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 60%  | ![][223]<br> [Remoraid]<br> 30%  | ![][320]<br> [Wailmer]<br> 10%
-![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60%  | ![][223]<br> [Remoraid]<br> 30%  | ![][320]<br> [Wailmer]<br> 10%
-![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60%  | ![][320]<br> [Wailmer]<br> 30%   | ![][224]<br> [Octillery]<br> 5%  | ![][321]<br> [Wailord]<br> 5%
+Area                         | Pokémon                           | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
+---                          | ---                               | ---                             | ---                             | ---                           | 
+🌊<br> Surf                   | ![][073]<br> [Tentacruel]<br> 60% | ![][279]<br> [Pelipper]<br> 30% | ![][226]<br> [Mantine]<br> 10%  | &nbsp;                        | 
+![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 60%   | ![][223]<br> [Remoraid]<br> 30% | ![][320]<br> [Wailmer]<br> 10%  | &nbsp;                        | 
+![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60%   | ![][223]<br> [Remoraid]<br> 30% | ![][320]<br> [Wailmer]<br> 10%  | &nbsp;                        | 
+![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60%   | ![][320]<br> [Wailmer]<br> 30%  | ![][224]<br> [Octillery]<br> 5% | ![][321]<br> [Wailord]<br> 5% | 
 
 [Tentacruel]: ../../pokemon_changes/073/
 [Magikarp]: ../../pokemon_changes/129/

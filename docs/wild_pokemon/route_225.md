@@ -5,18 +5,18 @@
 
 Levels: 65 - 67 (Walking) 65 - 67 (Surfing)
 
-Area                         | Pokémon                          | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;
----                          | ---                              | ---                              | ---                              | ---                              | ---                              | ---
-🌅<br>Morning                 | ![][022]<br> [Fearow]<br> 20%   | ![][067]<br> [Machoke]<br> 20%  | ![][075]<br> [Graveler]<br> 20% | ![][020]<br> [Raticate]<br> 15% | ![][057]<br> [Primeape]<br> 15% | ![][297]<br> [Hariyama]<br> 5%
-&nbsp;                       | ![][326]<br> [Grumpig]<br> 5%
-🌞<br>Day                     | ![][022]<br> [Fearow]<br> 20%   | ![][067]<br> [Machoke]<br> 20%  | ![][075]<br> [Graveler]<br> 20% | ![][020]<br> [Raticate]<br> 15% | ![][057]<br> [Primeape]<br> 15% | ![][297]<br> [Hariyama]<br> 5%
-&nbsp;                       | ![][326]<br> [Grumpig]<br> 5%
-🌙<br>Night                   | ![][022]<br> [Fearow]<br> 20%   | ![][067]<br> [Machoke]<br> 20%  | ![][075]<br> [Graveler]<br> 20% | ![][020]<br> [Raticate]<br> 15% | ![][057]<br> [Primeape]<br> 15% | ![][297]<br> [Hariyama]<br> 5%
-&nbsp;                       | ![][326]<br> [Grumpig]<br> 5%
-🌊<br> Surf                   | ![][061]<br> [Poliwhirl]<br> 60%| ![][055]<br> [Golduck]<br> 40%
-![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 65% | ![][339]<br> [Barboach]<br> 35%
-![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 65% | ![][339]<br> [Barboach]<br> 35%
-![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 65% | ![][340]<br> [Whiscash]<br> 35%
+Area                         | Pokémon                          | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                         | 
+---                          | ---                              | ---                             | ---                             | ---                             | ---                             | ---                            | 
+🌅<br>Morning                 | ![][022]<br> [Fearow]<br> 20%    | ![][067]<br> [Machoke]<br> 20%  | ![][075]<br> [Graveler]<br> 20% | ![][020]<br> [Raticate]<br> 15% | ![][057]<br> [Primeape]<br> 15% | ![][297]<br> [Hariyama]<br> 5% | 
+&nbsp;                       | ![][326]<br> [Grumpig]<br> 5%    | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                         | 
+🌞<br>Day                     | ![][022]<br> [Fearow]<br> 20%    | ![][067]<br> [Machoke]<br> 20%  | ![][075]<br> [Graveler]<br> 20% | ![][020]<br> [Raticate]<br> 15% | ![][057]<br> [Primeape]<br> 15% | ![][297]<br> [Hariyama]<br> 5% | 
+&nbsp;                       | ![][326]<br> [Grumpig]<br> 5%    | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                         | 
+🌙<br>Night                   | ![][022]<br> [Fearow]<br> 20%    | ![][067]<br> [Machoke]<br> 20%  | ![][075]<br> [Graveler]<br> 20% | ![][020]<br> [Raticate]<br> 15% | ![][057]<br> [Primeape]<br> 15% | ![][297]<br> [Hariyama]<br> 5% | 
+&nbsp;                       | ![][326]<br> [Grumpig]<br> 5%    | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                         | 
+🌊<br> Surf                   | ![][061]<br> [Poliwhirl]<br> 60% | ![][055]<br> [Golduck]<br> 40%  | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                         | 
+![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 65%  | ![][339]<br> [Barboach]<br> 35% | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                         | 
+![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 65%  | ![][339]<br> [Barboach]<br> 35% | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                         | 
+![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 65%  | ![][340]<br> [Whiscash]<br> 35% | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                         | 
 
 [Raticate]: ../../pokemon_changes/020/
 [Fearow]: ../../pokemon_changes/022/

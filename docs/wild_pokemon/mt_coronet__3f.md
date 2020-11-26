@@ -5,14 +5,14 @@
 
 Levels: 49 - 51 (Walking)
 
-Area         | Pokémon                         | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;
----          | ---                             | ---                             | ---                             | ---                             | ---                             | ---
-🌅<br>Morning | ![][075]<br> [Graveler]<br> 20%| ![][437]<br> [Bronzong]<br> 20%| ![][035]<br> [Clefairy]<br> 10%| ![][299]<br> [Nosepass]<br> 10%| ![][358]<br> [Chimecho]<br> 10%| ![][042]<br> [Golbat]<br> 10%
-&nbsp;       | ![][375]<br> [Metang]<br> 10%  | ![][338]<br> [Solrock]<br> 5%  | ![][337]<br> [Lunatone]<br> 5%
-🌞<br>Day     | ![][075]<br> [Graveler]<br> 20%| ![][437]<br> [Bronzong]<br> 20%| ![][035]<br> [Clefairy]<br> 10%| ![][299]<br> [Nosepass]<br> 10%| ![][358]<br> [Chimecho]<br> 10%| ![][042]<br> [Golbat]<br> 10%
-&nbsp;       | ![][375]<br> [Metang]<br> 10%  | ![][338]<br> [Solrock]<br> 5%  | ![][337]<br> [Lunatone]<br> 5%
-🌙<br>Night   | ![][075]<br> [Graveler]<br> 20%| ![][437]<br> [Bronzong]<br> 20%| ![][035]<br> [Clefairy]<br> 10%| ![][299]<br> [Nosepass]<br> 10%| ![][358]<br> [Chimecho]<br> 10%| ![][042]<br> [Golbat]<br> 10%
-&nbsp;       | ![][375]<br> [Metang]<br> 10%  | ![][338]<br> [Solrock]<br> 5%  | ![][337]<br> [Lunatone]<br> 5%
+Area         | Pokémon                         | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
+---          | ---                             | ---                             | ---                             | ---                             | ---                             | ---                           | 
+🌅<br>Morning | ![][075]<br> [Graveler]<br> 20% | ![][437]<br> [Bronzong]<br> 20% | ![][035]<br> [Clefairy]<br> 10% | ![][299]<br> [Nosepass]<br> 10% | ![][358]<br> [Chimecho]<br> 10% | ![][042]<br> [Golbat]<br> 10% | 
+&nbsp;       | ![][375]<br> [Metang]<br> 10%   | ![][338]<br> [Solrock]<br> 5%   | ![][337]<br> [Lunatone]<br> 5%  | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
+🌞<br>Day     | ![][075]<br> [Graveler]<br> 20% | ![][437]<br> [Bronzong]<br> 20% | ![][035]<br> [Clefairy]<br> 10% | ![][299]<br> [Nosepass]<br> 10% | ![][358]<br> [Chimecho]<br> 10% | ![][042]<br> [Golbat]<br> 10% | 
+&nbsp;       | ![][375]<br> [Metang]<br> 10%   | ![][338]<br> [Solrock]<br> 5%   | ![][337]<br> [Lunatone]<br> 5%  | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
+🌙<br>Night   | ![][075]<br> [Graveler]<br> 20% | ![][437]<br> [Bronzong]<br> 20% | ![][035]<br> [Clefairy]<br> 10% | ![][299]<br> [Nosepass]<br> 10% | ![][358]<br> [Chimecho]<br> 10% | ![][042]<br> [Golbat]<br> 10% | 
+&nbsp;       | ![][375]<br> [Metang]<br> 10%   | ![][338]<br> [Solrock]<br> 5%   | ![][337]<br> [Lunatone]<br> 5%  | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
 
 [Clefairy]: ../../pokemon_changes/035/
 [Golbat]: ../../pokemon_changes/042/

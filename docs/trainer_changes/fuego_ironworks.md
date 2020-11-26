@@ -4,11 +4,11 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/fuego_ironworks/).
 
 
-Trainer       | 1                                   | 2                                   | 3
----           | ---                                 | ---                                 | ---
-Worker Dillan | ![][066]<br> [Machop]<br> Lv. 42    | ![][067]<br> [Machoke]<br> Lv. 43   | ![][068]<br> [Machamp]<br> Lv. 44
-Worker Holden | ![][081]<br> [Magnemite]<br> Lv. 42 | ![][081]<br> [Magnemite]<br> Lv. 42 | ![][208]<br> [Steelix]<br> Lv. 45
-Worker Conrad | ![][126]<br> [Magmar]<br> Lv. 43    | ![][219]<br> [Magcargo]<br> Lv. 43  | ![][078]<br> [Rapidash]<br> Lv. 43
+Trainer       | 1                                   | 2                                   | 3                                  | 
+---           | ---                                 | ---                                 | ---                                | 
+Worker Dillan | ![][066]<br> [Machop]<br> Lv. 42    | ![][067]<br> [Machoke]<br> Lv. 43   | ![][068]<br> [Machamp]<br> Lv. 44  | 
+Worker Holden | ![][081]<br> [Magnemite]<br> Lv. 42 | ![][081]<br> [Magnemite]<br> Lv. 42 | ![][208]<br> [Steelix]<br> Lv. 45  | 
+Worker Conrad | ![][126]<br> [Magmar]<br> Lv. 43    | ![][219]<br> [Magcargo]<br> Lv. 43  | ![][078]<br> [Rapidash]<br> Lv. 43 | 
 
 [Machop]: ../../pokemon_changes/066/
 [Machoke]: ../../pokemon_changes/067/

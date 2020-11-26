@@ -5,20 +5,20 @@
 
 Levels: 34 - 38 (Walking) 20 - 40 (Surfing) Honey Tree (37)
 
-Area                           | Pokémon                           | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;
----                            | ---                               | ---                               | ---                               | ---                               | ---                               | ---
-🌅<br>Morning                   | ![][333]<br> [Swablu]<br> 20%    | ![][022]<br> [Fearow]<br> 20%    | ![][067]<br> [Machoke]<br> 10%   | ![][426]<br> [Drifblim]<br> 10%  | ![][335]<br> [Zangoose]<br> 10%  | ![][336]<br> [Seviper]<br> 10%
-&nbsp;                         | ![][227]<br> [Skarmory]<br> 10%  | ![][372]<br> [Shelgon]<br> 10%
-🌞<br>Day                       | ![][333]<br> [Swablu]<br> 20%    | ![][022]<br> [Fearow]<br> 20%    | ![][067]<br> [Machoke]<br> 10%   | ![][426]<br> [Drifblim]<br> 10%  | ![][335]<br> [Zangoose]<br> 10%  | ![][336]<br> [Seviper]<br> 10%
-&nbsp;                         | ![][227]<br> [Skarmory]<br> 10%  | ![][372]<br> [Shelgon]<br> 10%
-🌙<br>Night                     | ![][333]<br> [Swablu]<br> 20%    | ![][022]<br> [Fearow]<br> 20%    | ![][067]<br> [Machoke]<br> 10%   | ![][426]<br> [Drifblim]<br> 10%  | ![][335]<br> [Zangoose]<br> 10%  | ![][336]<br> [Seviper]<br> 10%
-&nbsp;                         | ![][227]<br> [Skarmory]<br> 10%  | ![][372]<br> [Shelgon]<br> 10%
-![][poke-radar]<br> Poké Radar | ![][334]<br> [Altaria]<br> 22%
-🌊<br> Surf                     | ![][054]<br> [Psyduck]<br> 90%   | ![][055]<br> [Golduck]<br> 10%
-![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 60%  | ![][116]<br> [Horsea]<br> 30%    | ![][147]<br> [Dratini]<br> 10%
-![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 60%  | ![][116]<br> [Horsea]<br> 30%    | ![][147]<br> [Dratini]<br> 10%
-![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60%  | ![][117]<br> [Seadra]<br> 30%    | ![][148]<br> [Dragonair]<br> 10%
-![][honey]<br> Honey Tree      | ![][397]<br> [Staravia]<br> 30%  | ![][017]<br> [Pidgeotto]<br> 20% | ![][164]<br> [Noctowl]<br> 20%   | ![][277]<br> [Swellow]<br> 20%   | ![][083]<br> [Farfetch'd]<br> 10%
+Area                           | Pokémon                         | &nbsp;                           | &nbsp;                           | &nbsp;                          | &nbsp;                            | &nbsp;                         | 
+---                            | ---                             | ---                              | ---                              | ---                             | ---                               | ---                            | 
+🌅<br>Morning                   | ![][333]<br> [Swablu]<br> 20%   | ![][022]<br> [Fearow]<br> 20%    | ![][067]<br> [Machoke]<br> 10%   | ![][426]<br> [Drifblim]<br> 10% | ![][335]<br> [Zangoose]<br> 10%   | ![][336]<br> [Seviper]<br> 10% | 
+&nbsp;                         | ![][227]<br> [Skarmory]<br> 10% | ![][372]<br> [Shelgon]<br> 10%   | &nbsp;                           | &nbsp;                          | &nbsp;                            | &nbsp;                         | 
+🌞<br>Day                       | ![][333]<br> [Swablu]<br> 20%   | ![][022]<br> [Fearow]<br> 20%    | ![][067]<br> [Machoke]<br> 10%   | ![][426]<br> [Drifblim]<br> 10% | ![][335]<br> [Zangoose]<br> 10%   | ![][336]<br> [Seviper]<br> 10% | 
+&nbsp;                         | ![][227]<br> [Skarmory]<br> 10% | ![][372]<br> [Shelgon]<br> 10%   | &nbsp;                           | &nbsp;                          | &nbsp;                            | &nbsp;                         | 
+🌙<br>Night                     | ![][333]<br> [Swablu]<br> 20%   | ![][022]<br> [Fearow]<br> 20%    | ![][067]<br> [Machoke]<br> 10%   | ![][426]<br> [Drifblim]<br> 10% | ![][335]<br> [Zangoose]<br> 10%   | ![][336]<br> [Seviper]<br> 10% | 
+&nbsp;                         | ![][227]<br> [Skarmory]<br> 10% | ![][372]<br> [Shelgon]<br> 10%   | &nbsp;                           | &nbsp;                          | &nbsp;                            | &nbsp;                         | 
+![][poke-radar]<br> Poké Radar | ![][334]<br> [Altaria]<br> 22%  | &nbsp;                           | &nbsp;                           | &nbsp;                          | &nbsp;                            | &nbsp;                         | 
+🌊<br> Surf                     | ![][054]<br> [Psyduck]<br> 90%  | ![][055]<br> [Golduck]<br> 10%   | &nbsp;                           | &nbsp;                          | &nbsp;                            | &nbsp;                         | 
+![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 60% | ![][116]<br> [Horsea]<br> 30%    | ![][147]<br> [Dratini]<br> 10%   | &nbsp;                          | &nbsp;                            | &nbsp;                         | 
+![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 60% | ![][116]<br> [Horsea]<br> 30%    | ![][147]<br> [Dratini]<br> 10%   | &nbsp;                          | &nbsp;                            | &nbsp;                         | 
+![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60% | ![][117]<br> [Seadra]<br> 30%    | ![][148]<br> [Dragonair]<br> 10% | &nbsp;                          | &nbsp;                            | &nbsp;                         | 
+![][honey]<br> Honey Tree      | ![][397]<br> [Staravia]<br> 30% | ![][017]<br> [Pidgeotto]<br> 20% | ![][164]<br> [Noctowl]<br> 20%   | ![][277]<br> [Swellow]<br> 20%  | ![][083]<br> [Farfetch'd]<br> 10% | &nbsp;                         | 
 
 [Pidgeotto]: ../../pokemon_changes/017/
 [Fearow]: ../../pokemon_changes/022/

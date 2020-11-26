@@ -1,12 +1,12 @@
 # Mt. Coronet ~ Snow Area
 Levels: 50 - 52
 
-Area                           | Pokémon                          | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;                           
----                            | ---                              | ---                              | ---                              | ---                              | ---                              | ---                              
-🌅<br>Morning                   | ![][460]<br> [Abomasnow]<br> 30%| ![][308]<br> [Medicham]<br> 20% | ![][294]<br> [Loudred]<br> 20%  | ![][359]<br> [Absol]<br> 10%    | ![][232]<br> [Donphan]<br> 10%  | ![][217]<br> [Ursaring]<br> 10% 
-🌞<br>Day                       | ![][460]<br> [Abomasnow]<br> 30%| ![][308]<br> [Medicham]<br> 20% | ![][294]<br> [Loudred]<br> 20%  | ![][359]<br> [Absol]<br> 10%    | ![][232]<br> [Donphan]<br> 10%  | ![][217]<br> [Ursaring]<br> 10% 
-🌙<br>Night                     | ![][460]<br> [Abomasnow]<br> 30%| ![][308]<br> [Medicham]<br> 20% | ![][294]<br> [Loudred]<br> 20%  | ![][359]<br> [Absol]<br> 10%    | ![][232]<br> [Donphan]<br> 10%  | ![][217]<br> [Ursaring]<br> 10% 
-![][poke-radar]<br> Poké Radar | ![][036]<br> [Clefable]<br> 22%
+Area                           | Pokémon                          | &nbsp;                          | &nbsp;                         | &nbsp;                       | &nbsp;                         | &nbsp;                          | 
+---                            | ---                              | ---                             | ---                            | ---                          | ---                            | ---                             | 
+🌅<br>Morning                   | ![][460]<br> [Abomasnow]<br> 30% | ![][308]<br> [Medicham]<br> 20% | ![][294]<br> [Loudred]<br> 20% | ![][359]<br> [Absol]<br> 10% | ![][232]<br> [Donphan]<br> 10% | ![][217]<br> [Ursaring]<br> 10% | 
+🌞<br>Day                       | ![][460]<br> [Abomasnow]<br> 30% | ![][308]<br> [Medicham]<br> 20% | ![][294]<br> [Loudred]<br> 20% | ![][359]<br> [Absol]<br> 10% | ![][232]<br> [Donphan]<br> 10% | ![][217]<br> [Ursaring]<br> 10% | 
+🌙<br>Night                     | ![][460]<br> [Abomasnow]<br> 30% | ![][308]<br> [Medicham]<br> 20% | ![][294]<br> [Loudred]<br> 20% | ![][359]<br> [Absol]<br> 10% | ![][232]<br> [Donphan]<br> 10% | ![][217]<br> [Ursaring]<br> 10% | 
+![][poke-radar]<br> Poké Radar | ![][036]<br> [Clefable]<br> 22%  | &nbsp;                          | &nbsp;                         | &nbsp;                       | &nbsp;                         | &nbsp;                          | 
 
 [Clefable]: ../../pokemon_changes/036/
 [Ursaring]: ../../pokemon_changes/217/

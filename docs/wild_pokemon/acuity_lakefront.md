@@ -2,15 +2,15 @@
 
 **Levels: 45 - 49**
 
-Area                           | Pokémon                          | &nbsp;                         | &nbsp;                         | &nbsp;                      | &nbsp;                           | &nbsp;
----                            | ---                              | ---                            | ---                            | ---                         | ---                              | ---
-🌅<br>Morning                  | ![][221]<br> [Piloswine]<br> 30% | ![][361]<br> [Snorunt]<br> 20% | ![][215]<br> [Sneasel]<br> 10% | ![][124]<br> [Jynx]<br> 10% | ![][460]<br> [Abomasnow]<br> 10% | ![][362]<br> [Glalie]<br> 10%
-&nbsp;                         | ![][225]<br>  [Delibird]<br> 10%
-🌞<br>Day                      | ![][221]<br> [Piloswine]<br> 30% | ![][361]<br> [Snorunt]<br> 20% | ![][215]<br> [Sneasel]<br> 10% | ![][124]<br> [Jynx]<br> 10% | ![][460]<br> [Abomasnow]<br> 10% | ![][362]<br> [Glalie]<br> 10%
-&nbsp;                         | ![][225]<br>  [Delibird]<br> 10%
-🌙<br>Night                    | ![][221]<br> [Piloswine]<br> 30% | ![][361]<br> [Snorunt]<br> 20% | ![][215]<br> [Sneasel]<br> 10% | ![][124]<br> [Jynx]<br> 10% | ![][460]<br> [Abomasnow]<br> 10% | ![][362]<br> [Glalie]<br> 10%
-&nbsp;                         | ![][225]<br>  [Delibird]<br> 10%
-![][poke-radar]<br> Poké Radar | ![][478]<br>  [Froslass]<br> 22%
+Area                           | Pokémon                          | &nbsp;                         | &nbsp;                         | &nbsp;                      | &nbsp;                           | &nbsp;                        | 
+---                            | ---                              | ---                            | ---                            | ---                         | ---                              | ---                           | 
+🌅<br>Morning                   | ![][221]<br> [Piloswine]<br> 30% | ![][361]<br> [Snorunt]<br> 20% | ![][215]<br> [Sneasel]<br> 10% | ![][124]<br> [Jynx]<br> 10% | ![][460]<br> [Abomasnow]<br> 10% | ![][362]<br> [Glalie]<br> 10% | 
+&nbsp;                         | ![][225]<br>  [Delibird]<br> 10% | &nbsp;                         | &nbsp;                         | &nbsp;                      | &nbsp;                           | &nbsp;                        | 
+🌞<br>Day                       | ![][221]<br> [Piloswine]<br> 30% | ![][361]<br> [Snorunt]<br> 20% | ![][215]<br> [Sneasel]<br> 10% | ![][124]<br> [Jynx]<br> 10% | ![][460]<br> [Abomasnow]<br> 10% | ![][362]<br> [Glalie]<br> 10% | 
+&nbsp;                         | ![][225]<br>  [Delibird]<br> 10% | &nbsp;                         | &nbsp;                         | &nbsp;                      | &nbsp;                           | &nbsp;                        | 
+🌙<br>Night                     | ![][221]<br> [Piloswine]<br> 30% | ![][361]<br> [Snorunt]<br> 20% | ![][215]<br> [Sneasel]<br> 10% | ![][124]<br> [Jynx]<br> 10% | ![][460]<br> [Abomasnow]<br> 10% | ![][362]<br> [Glalie]<br> 10% | 
+&nbsp;                         | ![][225]<br>  [Delibird]<br> 10% | &nbsp;                         | &nbsp;                         | &nbsp;                      | &nbsp;                           | &nbsp;                        | 
+![][poke-radar]<br> Poké Radar | ![][478]<br>  [Froslass]<br> 22% | &nbsp;                         | &nbsp;                         | &nbsp;                      | &nbsp;                           | &nbsp;                        | 
 
 [Jynx]: ../../pokemon_changes/124/
 [Sneasel]: ../../pokemon_changes/215/

@@ -5,12 +5,12 @@
 
 Levels: 4 - 5 (Walking)
 
-Area                           | Pokémon                          | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;
----                            | ---                              | ---                              | ---                              | ---                              | ---                              | ---
-🌅<br>Morning                   | ![][396]<br> [Starly]<br> 30%   | ![][399]<br> [Bidoof]<br> 30%   | ![][016]<br> [Pidgey]<br> 10%   | ![][401]<br> [Kricketot]<br> 10%| ![][032]<br> [Nidoran♂]<br> 10% | ![][029]<br> [Nidoran♀]<br> 10%
-🌞<br>Day                       | ![][396]<br> [Starly]<br> 30%   | ![][399]<br> [Bidoof]<br> 30%   | ![][016]<br> [Pidgey]<br> 20%   | ![][032]<br> [Nidoran♂]<br> 10% | ![][029]<br> [Nidoran♀]<br> 10%
-🌙<br>Night                     | ![][396]<br> [Starly]<br> 30%   | ![][399]<br> [Bidoof]<br> 30%   | ![][163]<br> [Hoothoot]<br> 10% | ![][401]<br> [Kricketot]<br> 10%| ![][032]<br> [Nidoran♂]<br> 10% | ![][029]<br> [Nidoran♀]<br> 10%
-![][poke-radar]<br> Poké Radar | ![][084]<br> [Doduo]<br> 22%
+Area                           | Pokémon                       | &nbsp;                        | &nbsp;                          | &nbsp;                           | &nbsp;                          | &nbsp;                          | 
+---                            | ---                           | ---                           | ---                             | ---                              | ---                             | ---                             | 
+🌅<br>Morning                   | ![][396]<br> [Starly]<br> 30% | ![][399]<br> [Bidoof]<br> 30% | ![][016]<br> [Pidgey]<br> 10%   | ![][401]<br> [Kricketot]<br> 10% | ![][032]<br> [Nidoran♂]<br> 10% | ![][029]<br> [Nidoran♀]<br> 10% | 
+🌞<br>Day                       | ![][396]<br> [Starly]<br> 30% | ![][399]<br> [Bidoof]<br> 30% | ![][016]<br> [Pidgey]<br> 20%   | ![][032]<br> [Nidoran♂]<br> 10%  | ![][029]<br> [Nidoran♀]<br> 10% | &nbsp;                          | 
+🌙<br>Night                     | ![][396]<br> [Starly]<br> 30% | ![][399]<br> [Bidoof]<br> 30% | ![][163]<br> [Hoothoot]<br> 10% | ![][401]<br> [Kricketot]<br> 10% | ![][032]<br> [Nidoran♂]<br> 10% | ![][029]<br> [Nidoran♀]<br> 10% | 
+![][poke-radar]<br> Poké Radar | ![][084]<br> [Doduo]<br> 22%  | &nbsp;                        | &nbsp;                          | &nbsp;                           | &nbsp;                          | &nbsp;                          | 
 
 [Pidgey]: ../../pokemon_changes/016/
 [Nidoran♀]: ../../pokemon_changes/029/

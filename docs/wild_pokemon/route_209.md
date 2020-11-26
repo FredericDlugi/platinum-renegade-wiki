@@ -5,20 +5,20 @@
 
 Levels: 24 - 26 (Walking) 20 - 40 (Surfing) 27 (Honey Tree)
 
-Area                           | Pokémon                           | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;
----                            | ---                               | ---                               | ---                               | ---                               | ---                               | ---
-🌅<br>Morning                   | ![][397]<br> [Staravia]<br> 20%  | ![][431]<br> [Glameow]<br> 20%   | ![][037]<br> [Vulpix]<br> 10%    | ![][438]<br> [Bonsly]<br> 10%    | ![][439]<br> [Mime Jr.]<br> 10%  | ![][209]<br> [Snubbull]<br> 10%
-&nbsp;                         | ![][052]<br> [Meowth]<br> 10%    | ![][113]<br> [Chansey]<br> 10%
-🌞<br>Day                       | ![][397]<br> [Staravia]<br> 20%  | ![][431]<br> [Glameow]<br> 20%   | ![][037]<br> [Vulpix]<br> 10%    | ![][438]<br> [Bonsly]<br> 10%    | ![][439]<br> [Mime Jr.]<br> 10%  | ![][209]<br> [Snubbull]<br> 10%
-&nbsp;                         | ![][052]<br> [Meowth]<br> 10%    | ![][113]<br> [Chansey]<br> 10%
-🌙<br>Night                     | ![][397]<br> [Staravia]<br> 20%  | ![][431]<br> [Glameow]<br> 20%   | ![][037]<br> [Vulpix]<br> 10%    | ![][438]<br> [Bonsly]<br> 10%    | ![][439]<br> [Mime Jr.]<br> 10%  | ![][209]<br> [Snubbull]<br> 10%
-&nbsp;                         | ![][052]<br> [Meowth]<br> 10%    | ![][113]<br> [Chansey]<br> 10%
-![][poke-radar]<br> Poké Radar | ![][432]<br> [Purugly]<br> 22%
-🌊<br> Surf                     | ![][054]<br> [Psyduck]<br> 90%   | ![][055]<br> [Golduck]<br> 10%
-![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 65%  | ![][118]<br> [Goldeen]<br> 35%
-![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 65%  | ![][118]<br> [Goldeen]<br> 35%
-![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 65%  | ![][119]<br> [Seaking]<br> 35%
-![][honey]<br> Honey Tree      | ![][397]<br> [Staravia]<br> 30%  | ![][017]<br> [Pidgeotto]<br> 20% | ![][164]<br> [Noctowl]<br> 20%   | ![][277]<br> [Swellow]<br> 20%   | ![][083]<br> [Farfetch'd]<br> 10%
+Area                           | Pokémon                         | &nbsp;                           | &nbsp;                         | &nbsp;                         | &nbsp;                            | &nbsp;                          | 
+---                            | ---                             | ---                              | ---                            | ---                            | ---                               | ---                             | 
+🌅<br>Morning                   | ![][397]<br> [Staravia]<br> 20% | ![][431]<br> [Glameow]<br> 20%   | ![][037]<br> [Vulpix]<br> 10%  | ![][438]<br> [Bonsly]<br> 10%  | ![][439]<br> [Mime Jr.]<br> 10%   | ![][209]<br> [Snubbull]<br> 10% | 
+&nbsp;                         | ![][052]<br> [Meowth]<br> 10%   | ![][113]<br> [Chansey]<br> 10%   | &nbsp;                         | &nbsp;                         | &nbsp;                            | &nbsp;                          | 
+🌞<br>Day                       | ![][397]<br> [Staravia]<br> 20% | ![][431]<br> [Glameow]<br> 20%   | ![][037]<br> [Vulpix]<br> 10%  | ![][438]<br> [Bonsly]<br> 10%  | ![][439]<br> [Mime Jr.]<br> 10%   | ![][209]<br> [Snubbull]<br> 10% | 
+&nbsp;                         | ![][052]<br> [Meowth]<br> 10%   | ![][113]<br> [Chansey]<br> 10%   | &nbsp;                         | &nbsp;                         | &nbsp;                            | &nbsp;                          | 
+🌙<br>Night                     | ![][397]<br> [Staravia]<br> 20% | ![][431]<br> [Glameow]<br> 20%   | ![][037]<br> [Vulpix]<br> 10%  | ![][438]<br> [Bonsly]<br> 10%  | ![][439]<br> [Mime Jr.]<br> 10%   | ![][209]<br> [Snubbull]<br> 10% | 
+&nbsp;                         | ![][052]<br> [Meowth]<br> 10%   | ![][113]<br> [Chansey]<br> 10%   | &nbsp;                         | &nbsp;                         | &nbsp;                            | &nbsp;                          | 
+![][poke-radar]<br> Poké Radar | ![][432]<br> [Purugly]<br> 22%  | &nbsp;                           | &nbsp;                         | &nbsp;                         | &nbsp;                            | &nbsp;                          | 
+🌊<br> Surf                     | ![][054]<br> [Psyduck]<br> 90%  | ![][055]<br> [Golduck]<br> 10%   | &nbsp;                         | &nbsp;                         | &nbsp;                            | &nbsp;                          | 
+![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 65% | ![][118]<br> [Goldeen]<br> 35%   | &nbsp;                         | &nbsp;                         | &nbsp;                            | &nbsp;                          | 
+![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 65% | ![][118]<br> [Goldeen]<br> 35%   | &nbsp;                         | &nbsp;                         | &nbsp;                            | &nbsp;                          | 
+![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 65% | ![][119]<br> [Seaking]<br> 35%   | &nbsp;                         | &nbsp;                         | &nbsp;                            | &nbsp;                          | 
+![][honey]<br> Honey Tree      | ![][397]<br> [Staravia]<br> 30% | ![][017]<br> [Pidgeotto]<br> 20% | ![][164]<br> [Noctowl]<br> 20% | ![][277]<br> [Swellow]<br> 20% | ![][083]<br> [Farfetch'd]<br> 10% | &nbsp;                          | 
 
 [Pidgeotto]: ../../pokemon_changes/017/
 [Vulpix]: ../../pokemon_changes/037/

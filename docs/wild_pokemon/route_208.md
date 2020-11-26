@@ -5,20 +5,20 @@
 
 Levels: 23 - 24 (Walking) 20 - 40 (Surfing) 23 (Honey Tree)
 
-Area                           | Pokémon                           | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;
----                            | ---                               | ---                               | ---                               | ---                               | ---                               | ---
-🌅<br>Morning                   | ![][400]<br> [Bibarel]<br> 20%   | ![][315]<br> [Roselia]<br> 20%   | ![][300]<br> [Skitty]<br> 10%    | ![][039]<br> [Jigglypuff]<br> 10%| ![][281]<br> [Kirlia]<br> 10%    | ![][335]<br> [Zangoose]<br> 10%
-&nbsp;                         | ![][336]<br> [Seviper]<br> 10%   | ![][235]<br> [Smeargle]<br> 10%
-🌞<br>Day                       | ![][400]<br> [Bibarel]<br> 20%   | ![][315]<br> [Roselia]<br> 20%   | ![][300]<br> [Skitty]<br> 10%    | ![][039]<br> [Jigglypuff]<br> 10%| ![][281]<br> [Kirlia]<br> 10%    | ![][335]<br> [Zangoose]<br> 10%
-&nbsp;                         | ![][336]<br> [Seviper]<br> 10%   | ![][235]<br> [Smeargle]<br> 10%
-🌙<br>Night                     | ![][400]<br> [Bibarel]<br> 20%   | ![][315]<br> [Roselia]<br> 20%   | ![][300]<br> [Skitty]<br> 10%    | ![][039]<br> [Jigglypuff]<br> 10%| ![][281]<br> [Kirlia]<br> 10%    | ![][335]<br> [Zangoose]<br> 10%
-&nbsp;                         | ![][336]<br> [Seviper]<br> 10%   | ![][235]<br> [Smeargle]<br> 10%
-![][poke-radar]<br> Poké Radar | ![][206]<br> [Dunsparce]<br> 22%
-🌊<br> Surf                     | ![][054]<br> [Psyduck]<br> 90%   | ![][055]<br> [Golduck]<br> 10%
-![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 60%  | ![][118]<br> [Goldeen]<br> 30%   | ![][223]<br> [Remoraid]<br> 10%
-![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 60%  | ![][118]<br> [Goldeen]<br> 30%   | ![][223]<br> [Remoraid]<br> 10%
-![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60%  | ![][119]<br> [Seaking]<br> 30%   | ![][224]<br> [Octillery]<br> 10%
-![][honey]<br> Honey Tree      | ![][420]<br> [Cherubi]<br> 30%   | ![][285]<br> [Shroomish]<br> 20% | ![][102]<br> [Exeggcute]<br> 20% | ![][273]<br> [Seedot]<br> 20%    | ![][114]<br> [Tangela]<br> 10%
+Area                           | Pokémon                          | &nbsp;                           | &nbsp;                           | &nbsp;                            | &nbsp;                         | &nbsp;                          | 
+---                            | ---                              | ---                              | ---                              | ---                               | ---                            | ---                             | 
+🌅<br>Morning                   | ![][400]<br> [Bibarel]<br> 20%   | ![][315]<br> [Roselia]<br> 20%   | ![][300]<br> [Skitty]<br> 10%    | ![][039]<br> [Jigglypuff]<br> 10% | ![][281]<br> [Kirlia]<br> 10%  | ![][335]<br> [Zangoose]<br> 10% | 
+&nbsp;                         | ![][336]<br> [Seviper]<br> 10%   | ![][235]<br> [Smeargle]<br> 10%  | &nbsp;                           | &nbsp;                            | &nbsp;                         | &nbsp;                          | 
+🌞<br>Day                       | ![][400]<br> [Bibarel]<br> 20%   | ![][315]<br> [Roselia]<br> 20%   | ![][300]<br> [Skitty]<br> 10%    | ![][039]<br> [Jigglypuff]<br> 10% | ![][281]<br> [Kirlia]<br> 10%  | ![][335]<br> [Zangoose]<br> 10% | 
+&nbsp;                         | ![][336]<br> [Seviper]<br> 10%   | ![][235]<br> [Smeargle]<br> 10%  | &nbsp;                           | &nbsp;                            | &nbsp;                         | &nbsp;                          | 
+🌙<br>Night                     | ![][400]<br> [Bibarel]<br> 20%   | ![][315]<br> [Roselia]<br> 20%   | ![][300]<br> [Skitty]<br> 10%    | ![][039]<br> [Jigglypuff]<br> 10% | ![][281]<br> [Kirlia]<br> 10%  | ![][335]<br> [Zangoose]<br> 10% | 
+&nbsp;                         | ![][336]<br> [Seviper]<br> 10%   | ![][235]<br> [Smeargle]<br> 10%  | &nbsp;                           | &nbsp;                            | &nbsp;                         | &nbsp;                          | 
+![][poke-radar]<br> Poké Radar | ![][206]<br> [Dunsparce]<br> 22% | &nbsp;                           | &nbsp;                           | &nbsp;                            | &nbsp;                         | &nbsp;                          | 
+🌊<br> Surf                     | ![][054]<br> [Psyduck]<br> 90%   | ![][055]<br> [Golduck]<br> 10%   | &nbsp;                           | &nbsp;                            | &nbsp;                         | &nbsp;                          | 
+![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 60%  | ![][118]<br> [Goldeen]<br> 30%   | ![][223]<br> [Remoraid]<br> 10%  | &nbsp;                            | &nbsp;                         | &nbsp;                          | 
+![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 60%  | ![][118]<br> [Goldeen]<br> 30%   | ![][223]<br> [Remoraid]<br> 10%  | &nbsp;                            | &nbsp;                         | &nbsp;                          | 
+![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 60%  | ![][119]<br> [Seaking]<br> 30%   | ![][224]<br> [Octillery]<br> 10% | &nbsp;                            | &nbsp;                         | &nbsp;                          | 
+![][honey]<br> Honey Tree      | ![][420]<br> [Cherubi]<br> 30%   | ![][285]<br> [Shroomish]<br> 20% | ![][102]<br> [Exeggcute]<br> 20% | ![][273]<br> [Seedot]<br> 20%     | ![][114]<br> [Tangela]<br> 10% | &nbsp;                          | 
 
 [Jigglypuff]: ../../pokemon_changes/039/
 [Psyduck]: ../../pokemon_changes/054/

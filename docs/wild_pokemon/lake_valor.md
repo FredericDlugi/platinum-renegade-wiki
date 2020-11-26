@@ -5,16 +5,16 @@
 
 Levels: 53 - 54 (Walking) 35 - 55 (Surfing)
 
-Area                           | Pokémon                           | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;
----                            | ---                               | ---                               | ---                               | ---                               | ---
-🌅<br>Morning                   | ![][397]<br> [Staravia]<br> 30%  | ![][400]<br> [Bibarel]<br> 30%   | ![][284]<br> [Masquerain]<br> 20%| ![][108]<br> [Lickitung]<br> 10% | ![][055]<br> [Golduck]<br> 10%
-🌞<br>Day                       | ![][397]<br> [Staravia]<br> 30%  | ![][400]<br> [Bibarel]<br> 30%   | ![][284]<br> [Masquerain]<br> 20%| ![][108]<br> [Lickitung]<br> 10% | ![][055]<br> [Golduck]<br> 10%
-🌙<br>Night                     | ![][397]<br> [Staravia]<br> 30%  | ![][400]<br> [Bibarel]<br> 30%   | ![][284]<br> [Masquerain]<br> 20%| ![][108]<br> [Lickitung]<br> 10% | ![][055]<br> [Golduck]<br> 10%
-![][poke-radar]<br> Poké Radar | ![][202]<br> [Wobbuffet]<br> 22%
-🌊<br> Surf                     | ![][283]<br> [Surskit]<br> 90%   | ![][284]<br> [Masquerain]<br> 10%
-![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 100%
-![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 100%
-![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 100%
+Area                           | Pokémon                          | &nbsp;                            | &nbsp;                            | &nbsp;                           | &nbsp;                         | 
+---                            | ---                              | ---                               | ---                               | ---                              | ---                            | 
+🌅<br>Morning                   | ![][397]<br> [Staravia]<br> 30%  | ![][400]<br> [Bibarel]<br> 30%    | ![][284]<br> [Masquerain]<br> 20% | ![][108]<br> [Lickitung]<br> 10% | ![][055]<br> [Golduck]<br> 10% | 
+🌞<br>Day                       | ![][397]<br> [Staravia]<br> 30%  | ![][400]<br> [Bibarel]<br> 30%    | ![][284]<br> [Masquerain]<br> 20% | ![][108]<br> [Lickitung]<br> 10% | ![][055]<br> [Golduck]<br> 10% | 
+🌙<br>Night                     | ![][397]<br> [Staravia]<br> 30%  | ![][400]<br> [Bibarel]<br> 30%    | ![][284]<br> [Masquerain]<br> 20% | ![][108]<br> [Lickitung]<br> 10% | ![][055]<br> [Golduck]<br> 10% | 
+![][poke-radar]<br> Poké Radar | ![][202]<br> [Wobbuffet]<br> 22% | &nbsp;                            | &nbsp;                            | &nbsp;                           | &nbsp;                         | 
+🌊<br> Surf                     | ![][283]<br> [Surskit]<br> 90%   | ![][284]<br> [Masquerain]<br> 10% | &nbsp;                            | &nbsp;                           | &nbsp;                         | 
+![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 100% | &nbsp;                            | &nbsp;                            | &nbsp;                           | &nbsp;                         | 
+![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 100% | &nbsp;                            | &nbsp;                            | &nbsp;                           | &nbsp;                         | 
+![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 100% | &nbsp;                            | &nbsp;                            | &nbsp;                           | &nbsp;                         | 
 
 [Golduck]: ../../pokemon_changes/055/
 [Lickitung]: ../../pokemon_changes/108/

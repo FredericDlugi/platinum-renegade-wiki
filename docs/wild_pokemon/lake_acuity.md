@@ -1,16 +1,16 @@
 # Lake Acuity
 Levels: 49 - 51 (Walking) 45 - 50 (Surfing)
 
-Area                           | Pokémon                          | &nbsp;                           | &nbsp;                           | &nbsp;                           | &nbsp;                           
----                            | ---                              | ---                              | ---                              | ---                              | ---                              
-🌅<br>Morning                   | ![][215]<br> [Sneasel]<br> 30%  | ![][460]<br> [Abomasnow]<br> 25%| ![][221]<br> [Piloswine]<br> 20%| ![][124]<br> [Jynx]<br> 15%     | ![][362]<br> [Glalie]<br> 10%   
-🌞<br>Day                       | ![][215]<br> [Sneasel]<br> 30%  | ![][460]<br> [Abomasnow]<br> 25%| ![][221]<br> [Piloswine]<br> 20%| ![][124]<br> [Jynx]<br> 15%     | ![][362]<br> [Glalie]<br> 10%   
-🌙<br>Night                     | ![][215]<br> [Sneasel]<br> 30%  | ![][460]<br> [Abomasnow]<br> 25%| ![][221]<br> [Piloswine]<br> 20%| ![][124]<br> [Jynx]<br> 15%     | ![][362]<br> [Glalie]<br> 10%   
-![][poke-radar]<br> Poké Radar | ![][202]<br> [Wobbuffet]<br> 22%
-🌊<br> Surf                     | ![][364]<br> [Sealeo]<br> 60%   | ![][087]<br> [Dewgong]<br> 35%  | ![][131]<br> [Lapras]<br> 5%    
-![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 100%
-![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 100%
-![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 100%
+Area                           | Pokémon                          | &nbsp;                           | &nbsp;                           | &nbsp;                      | &nbsp;                        | 
+---                            | ---                              | ---                              | ---                              | ---                         | ---                           | 
+🌅<br>Morning                   | ![][215]<br> [Sneasel]<br> 30%   | ![][460]<br> [Abomasnow]<br> 25% | ![][221]<br> [Piloswine]<br> 20% | ![][124]<br> [Jynx]<br> 15% | ![][362]<br> [Glalie]<br> 10% | 
+🌞<br>Day                       | ![][215]<br> [Sneasel]<br> 30%   | ![][460]<br> [Abomasnow]<br> 25% | ![][221]<br> [Piloswine]<br> 20% | ![][124]<br> [Jynx]<br> 15% | ![][362]<br> [Glalie]<br> 10% | 
+🌙<br>Night                     | ![][215]<br> [Sneasel]<br> 30%   | ![][460]<br> [Abomasnow]<br> 25% | ![][221]<br> [Piloswine]<br> 20% | ![][124]<br> [Jynx]<br> 15% | ![][362]<br> [Glalie]<br> 10% | 
+![][poke-radar]<br> Poké Radar | ![][202]<br> [Wobbuffet]<br> 22% | &nbsp;                           | &nbsp;                           | &nbsp;                      | &nbsp;                        | 
+🌊<br> Surf                     | ![][364]<br> [Sealeo]<br> 60%    | ![][087]<br> [Dewgong]<br> 35%   | ![][131]<br> [Lapras]<br> 5%     | &nbsp;                      | &nbsp;                        | 
+![][old-rod]<br> Old Rod       | ![][129]<br> [Magikarp]<br> 100% | &nbsp;                           | &nbsp;                           | &nbsp;                      | &nbsp;                        | 
+![][good-rod]<br> Good Rod     | ![][129]<br> [Magikarp]<br> 100% | &nbsp;                           | &nbsp;                           | &nbsp;                      | &nbsp;                        | 
+![][super-rod]<br> Super Rod   | ![][130]<br> [Gyarados]<br> 100% | &nbsp;                           | &nbsp;                           | &nbsp;                      | &nbsp;                        | 
 
 [Dewgong]: ../../pokemon_changes/087/
 [Jynx]: ../../pokemon_changes/124/

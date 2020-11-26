@@ -1,14 +1,14 @@
 # Mt. Coronet ~ Route 216 Entrance
 Levels: 18 - 19 (Walking)
 
-Area         | Pokémon                         | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                          
----          | ---                             | ---                             | ---                             | ---                             | ---                             | ---                             
-🌅<br>Morning | ![][074]<br> [Geodude]<br> 20% | ![][436]<br> [Bronzor]<br> 20% | ![][035]<br> [Clefairy]<br> 10%| ![][299]<br> [Nosepass]<br> 10%| ![][358]<br> [Chimecho]<br> 10%| ![][041]<br> [Zubat]<br> 10%   
-&nbsp;       | ![][374]<br> [Beldum]<br> 10%  | ![][338]<br> [Solrock]<br> 5%  | ![][337]<br> [Lunatone]<br> 5% 
-🌞<br>Day     | ![][074]<br> [Geodude]<br> 20% | ![][436]<br> [Bronzor]<br> 20% | ![][035]<br> [Clefairy]<br> 10%| ![][299]<br> [Nosepass]<br> 10%| ![][358]<br> [Chimecho]<br> 10%| ![][041]<br> [Zubat]<br> 10%   
-&nbsp;       | ![][374]<br> [Beldum]<br> 10%  | ![][338]<br> [Solrock]<br> 5%  | ![][337]<br> [Lunatone]<br> 5% 
-🌙<br>Night   | ![][074]<br> [Geodude]<br> 20% | ![][436]<br> [Bronzor]<br> 20% | ![][035]<br> [Clefairy]<br> 10%| ![][299]<br> [Nosepass]<br> 10%| ![][358]<br> [Chimecho]<br> 10%| ![][041]<br> [Zubat]<br> 10%   
-&nbsp;       | ![][374]<br> [Beldum]<br> 10%  | ![][338]<br> [Solrock]<br> 5%  | ![][337]<br> [Lunatone]<br> 5%
+Area         | Pokémon                        | &nbsp;                         | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                       | 
+---          | ---                            | ---                            | ---                             | ---                             | ---                             | ---                          | 
+🌅<br>Morning | ![][074]<br> [Geodude]<br> 20% | ![][436]<br> [Bronzor]<br> 20% | ![][035]<br> [Clefairy]<br> 10% | ![][299]<br> [Nosepass]<br> 10% | ![][358]<br> [Chimecho]<br> 10% | ![][041]<br> [Zubat]<br> 10% | 
+&nbsp;       | ![][374]<br> [Beldum]<br> 10%  | ![][338]<br> [Solrock]<br> 5%  | ![][337]<br> [Lunatone]<br> 5%  | &nbsp;                          | &nbsp;                          | &nbsp;                       | 
+🌞<br>Day     | ![][074]<br> [Geodude]<br> 20% | ![][436]<br> [Bronzor]<br> 20% | ![][035]<br> [Clefairy]<br> 10% | ![][299]<br> [Nosepass]<br> 10% | ![][358]<br> [Chimecho]<br> 10% | ![][041]<br> [Zubat]<br> 10% | 
+&nbsp;       | ![][374]<br> [Beldum]<br> 10%  | ![][338]<br> [Solrock]<br> 5%  | ![][337]<br> [Lunatone]<br> 5%  | &nbsp;                          | &nbsp;                          | &nbsp;                       | 
+🌙<br>Night   | ![][074]<br> [Geodude]<br> 20% | ![][436]<br> [Bronzor]<br> 20% | ![][035]<br> [Clefairy]<br> 10% | ![][299]<br> [Nosepass]<br> 10% | ![][358]<br> [Chimecho]<br> 10% | ![][041]<br> [Zubat]<br> 10% | 
+&nbsp;       | ![][374]<br> [Beldum]<br> 10%  | ![][338]<br> [Solrock]<br> 5%  | ![][337]<br> [Lunatone]<br> 5%  | &nbsp;                          | &nbsp;                          | &nbsp;                       | 
 
 [Clefairy]: ../../pokemon_changes/035/
 [Zubat]: ../../pokemon_changes/041/

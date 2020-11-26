@@ -5,17 +5,17 @@
 
 Levels: 28 - 30 (Walking) 29 (Honey Tree)
 
-Area                           | Pokémon                           | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;
----                            | ---                               | ---                               | ---                               | ---                               | ---                               | ---
-🌅<br>Morning                   | ![][402]<br> [Kricketune]<br> 20%| ![][274]<br> [Nuzleaf]<br> 20%   | ![][123]<br> [Scyther]<br> 15%   | ![][127]<br> [Pinsir]<br> 10%    | ![][241]<br> [Miltank]<br> 10%   | ![][128]<br> [Tauros]<br> 10%
-&nbsp;                         | ![][017]<br> [Pidgeotto]<br> 10% | ![][078]<br> [Rapidash]<br> 5%
-🌞<br>Day                       | ![][402]<br> [Kricketune]<br> 20%| ![][274]<br> [Nuzleaf]<br> 20%   | ![][123]<br> [Scyther]<br> 15%   | ![][127]<br> [Pinsir]<br> 10%    | ![][241]<br> [Miltank]<br> 10%   | ![][128]<br> [Tauros]<br> 10%
-&nbsp;                         | ![][017]<br> [Pidgeotto]<br> 10% | ![][078]<br> [Rapidash]<br> 5%
-🌙<br>Night                     | ![][402]<br> [Kricketune]<br> 20%| ![][274]<br> [Nuzleaf]<br> 20%   | ![][123]<br> [Scyther]<br> 15%   | ![][127]<br> [Pinsir]<br> 10%    | ![][241]<br> [Miltank]<br> 10%   | ![][128]<br> [Tauros]<br> 10%
-&nbsp;                         | ![][164]<br> [Noctowl]<br> 10%   | ![][078]<br> [Rapidash]<br> 5%
-![][poke-radar]<br> Poké Radar | ![][352]<br> [Kecleon]<br> 22%
-![][honey]<br> Honey Tree      | ![][415]<br> [Combee]<br> 30%    | ![][204]<br> [Pineco]<br> 20%    | ![][266]<br> [Silcoon]<br> 10%   | ![][268]<br> [Cascoon]<br> 10%   | ![][413]<br> [Wormadam]<br> 10%  | ![][414]<br> [Mothim]<br> 10%
-&nbsp;                         | ![][214]<br> [Heracross]<br> 10%
+Area                           | Pokémon                           | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                          | &nbsp;                        | 
+---                            | ---                               | ---                            | ---                            | ---                            | ---                             | ---                           | 
+🌅<br>Morning                   | ![][402]<br> [Kricketune]<br> 20% | ![][274]<br> [Nuzleaf]<br> 20% | ![][123]<br> [Scyther]<br> 15% | ![][127]<br> [Pinsir]<br> 10%  | ![][241]<br> [Miltank]<br> 10%  | ![][128]<br> [Tauros]<br> 10% | 
+&nbsp;                         | ![][017]<br> [Pidgeotto]<br> 10%  | ![][078]<br> [Rapidash]<br> 5% | &nbsp;                         | &nbsp;                         | &nbsp;                          | &nbsp;                        | 
+🌞<br>Day                       | ![][402]<br> [Kricketune]<br> 20% | ![][274]<br> [Nuzleaf]<br> 20% | ![][123]<br> [Scyther]<br> 15% | ![][127]<br> [Pinsir]<br> 10%  | ![][241]<br> [Miltank]<br> 10%  | ![][128]<br> [Tauros]<br> 10% | 
+&nbsp;                         | ![][017]<br> [Pidgeotto]<br> 10%  | ![][078]<br> [Rapidash]<br> 5% | &nbsp;                         | &nbsp;                         | &nbsp;                          | &nbsp;                        | 
+🌙<br>Night                     | ![][402]<br> [Kricketune]<br> 20% | ![][274]<br> [Nuzleaf]<br> 20% | ![][123]<br> [Scyther]<br> 15% | ![][127]<br> [Pinsir]<br> 10%  | ![][241]<br> [Miltank]<br> 10%  | ![][128]<br> [Tauros]<br> 10% | 
+&nbsp;                         | ![][164]<br> [Noctowl]<br> 10%    | ![][078]<br> [Rapidash]<br> 5% | &nbsp;                         | &nbsp;                         | &nbsp;                          | &nbsp;                        | 
+![][poke-radar]<br> Poké Radar | ![][352]<br> [Kecleon]<br> 22%    | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                          | &nbsp;                        | 
+![][honey]<br> Honey Tree      | ![][415]<br> [Combee]<br> 30%     | ![][204]<br> [Pineco]<br> 20%  | ![][266]<br> [Silcoon]<br> 10% | ![][268]<br> [Cascoon]<br> 10% | ![][413]<br> [Wormadam]<br> 10% | ![][414]<br> [Mothim]<br> 10% | 
+&nbsp;                         | ![][214]<br> [Heracross]<br> 10%  | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                          | &nbsp;                        | 
 
 [Pidgeotto]: ../../pokemon_changes/017/
 [Rapidash]: ../../pokemon_changes/078/

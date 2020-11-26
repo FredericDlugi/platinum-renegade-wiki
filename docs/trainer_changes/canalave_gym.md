@@ -1,24 +1,24 @@
 # Canalave Gym
 
-Trainer                    | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6
----                        | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---
-Black Belt Ricky           | ![][208]<br> [Steelix]<br> Lv. 51
-Worker Gary                | ![][081]<br> [Magnemite]<br> Lv. 46  | ![][304]<br> [Aron]<br> Lv. 46       | ![][436]<br> [Bronzor]<br> Lv. 46    | ![][374]<br> [Beldum]<br> Lv. 46     | ![][410]<br> [Shieldon]<br> Lv. 46
-Worker Jackson             | ![][082]<br> [Magneton]<br> Lv. 48   | ![][305]<br> [Lairon]<br> Lv. 48     | ![][375]<br> [Metang]<br> Lv. 48
-Ace Trainer Cesar          | ![][395]<br> [Empoleon]<br> Lv. 50   | ![][212]<br> [Scizor]<br> Lv. 50     | ![][376]<br> [Metagross]<br> Lv. 50
-Worker Gerardo             | ![][476]<br> [Probopass]<br> Lv. 49  | ![][205]<br> [Forretress]<br> Lv. 49
-Black Belt David           | ![][448]<br> [Lucario]<br> Lv. 51
-Ace Trainer Breanna        | ![][227]<br> [Skarmory]<br> Lv. 50   | ![][303]<br> [Mawile]<br> Lv. 50     | ![][413]<br> [Wormadam]<br> Lv. 50
-Leader Bryon<br>![][byron] | ![][437]<br> [Bronzong]<br> Lv. 52   | ![][462]<br> [Magnezone]<br> Lv. 52  | ![][208]<br> [Steelix]<br> Lv. 52    | ![][205]<br> [Forretress]<br> Lv. 52 | ![][306]<br> [Aggron]<br> Lv. 52     | ![][411]<br> [Bastiodon]<br> Lv. 53
+Trainer                    | 1                                   | 2                                    | 3                                   | 4                                    | 5                                  | 6                                   | 
+---                        | ---                                 | ---                                  | ---                                 | ---                                  | ---                                | ---                                 | 
+Black Belt Ricky           | ![][208]<br> [Steelix]<br> Lv. 51   | &nbsp;                               | &nbsp;                              | &nbsp;                               | &nbsp;                             | &nbsp;                              | 
+Worker Gary                | ![][081]<br> [Magnemite]<br> Lv. 46 | ![][304]<br> [Aron]<br> Lv. 46       | ![][436]<br> [Bronzor]<br> Lv. 46   | ![][374]<br> [Beldum]<br> Lv. 46     | ![][410]<br> [Shieldon]<br> Lv. 46 | &nbsp;                              | 
+Worker Jackson             | ![][082]<br> [Magneton]<br> Lv. 48  | ![][305]<br> [Lairon]<br> Lv. 48     | ![][375]<br> [Metang]<br> Lv. 48    | &nbsp;                               | &nbsp;                             | &nbsp;                              | 
+Ace Trainer Cesar          | ![][395]<br> [Empoleon]<br> Lv. 50  | ![][212]<br> [Scizor]<br> Lv. 50     | ![][376]<br> [Metagross]<br> Lv. 50 | &nbsp;                               | &nbsp;                             | &nbsp;                              | 
+Worker Gerardo             | ![][476]<br> [Probopass]<br> Lv. 49 | ![][205]<br> [Forretress]<br> Lv. 49 | &nbsp;                              | &nbsp;                               | &nbsp;                             | &nbsp;                              | 
+Black Belt David           | ![][448]<br> [Lucario]<br> Lv. 51   | &nbsp;                               | &nbsp;                              | &nbsp;                               | &nbsp;                             | &nbsp;                              | 
+Ace Trainer Breanna        | ![][227]<br> [Skarmory]<br> Lv. 50  | ![][303]<br> [Mawile]<br> Lv. 50     | ![][413]<br> [Wormadam]<br> Lv. 50  | &nbsp;                               | &nbsp;                             | &nbsp;                              | 
+Leader Bryon<br>![][byron] | ![][437]<br> [Bronzong]<br> Lv. 52  | ![][462]<br> [Magnezone]<br> Lv. 52  | ![][208]<br> [Steelix]<br> Lv. 52   | ![][205]<br> [Forretress]<br> Lv. 52 | ![][306]<br> [Aggron]<br> Lv. 52   | ![][411]<br> [Bastiodon]<br> Lv. 53 | 
 
-Leader Byron<br>![][byron]           | Item                               | Nature  | Ability     | Moves
----                                  | ---                                | ---     | ---         | ---
-![][437]<br> [Bronzong]<br> Lv. 52   | ![][light-clay]<br> Light Clay     | Impish  | Levitate    | Gyro Ball, Stealth Rock, Reflect, Light Screen
-![][462]<br> [Magnezone]<br> Lv. 52  | ![][wise-glasses]<br> Wise Glasses | Quiet   | Magnet Pull | Thunderbolt, Flash Cannon, Signal Beam, Thunder Wave
-![][208]<br> [Steelix]<br> Lv. 52    | ![][muscle-band]<br> Muscle Band   | Adamant | Rock Head   | Gyro Ball, Earthquake, Stone Edge, Explosion
-![][205]<br> [Forretress]<br> Lv. 52 | ![][sitrus-berry]<br> Sitrus Berry | Impish  | Sturdy      | Gyro Ball, Spikes, Toxic Spikes, Explosion
-![][306]<br> [Aggron]<br> Lv. 52     | ![][focus-sash]<br> Focus Sash     | Naughty | Rock Head   | Head Smash, Iron Head, Aqua Tail, Low Kick
-![][411]<br> [Bastiodon]<br> Lv. 53  | ![][leftovers]<br> Leftovers       | Sassy   | Soundproof  | Iron Head, Toxic, Protect, Metal Burst
+Leader Byron<br>![][byron]           | Item                               | Nature  | Ability     | Moves                                                | 
+---                                  | ---                                | ---     | ---         | ---                                                  | 
+![][437]<br> [Bronzong]<br> Lv. 52   | ![][light-clay]<br> Light Clay     | Impish  | Levitate    | Gyro Ball, Stealth Rock, Reflect, Light Screen       | 
+![][462]<br> [Magnezone]<br> Lv. 52  | ![][wise-glasses]<br> Wise Glasses | Quiet   | Magnet Pull | Thunderbolt, Flash Cannon, Signal Beam, Thunder Wave | 
+![][208]<br> [Steelix]<br> Lv. 52    | ![][muscle-band]<br> Muscle Band   | Adamant | Rock Head   | Gyro Ball, Earthquake, Stone Edge, Explosion         | 
+![][205]<br> [Forretress]<br> Lv. 52 | ![][sitrus-berry]<br> Sitrus Berry | Impish  | Sturdy      | Gyro Ball, Spikes, Toxic Spikes, Explosion           | 
+![][306]<br> [Aggron]<br> Lv. 52     | ![][focus-sash]<br> Focus Sash     | Naughty | Rock Head   | Head Smash, Iron Head, Aqua Tail, Low Kick           | 
+![][411]<br> [Bastiodon]<br> Lv. 53  | ![][leftovers]<br> Leftovers       | Sassy   | Soundproof  | Iron Head, Toxic, Protect, Metal Burst               | 
 
 [Magnemite]: ../../pokemon_changes/081/
 [Magneton]: ../../pokemon_changes/082/

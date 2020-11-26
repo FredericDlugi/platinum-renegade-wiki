@@ -5,12 +5,12 @@
 
 Wild Levels: 30 - 45 (Surf)
 
-Area                         | Pokémon                        | &nbsp;                         | &nbsp;                         | &nbsp;
----                          | ---                            | ---                            | ---                            | ---
-🌊<br> Surf                   | ![][278]<br> [Wingull]<br> 60%| ![][458]<br> [Mantyke]<br> 30%| ![][279]<br> [Pelipper]<br> 5%| ![][226]<br> [Mantine]<br> 5%
-![][old-rod]<br> Old Rod     | ![][370]<br> [Luvdisc]<br> 60%| ![][116]<br> [Horsea]<br> 30% | ![][222]<br> [Corsola]<br> 10%
-![][good-rod]<br> Good Rod   | ![][370]<br> [Luvdisc]<br> 60%| ![][116]<br> [Horsea]<br> 30% | ![][222]<br> [Corsola]<br> 10%
-![][super-rod]<br> Super Rod | ![][370]<br> [Luvdisc]<br> 60%| ![][117]<br> [Seadra]<br> 30% | ![][222]<br> [Corsola]<br> 10%
+Area                         | Pokémon                        | &nbsp;                         | &nbsp;                         | &nbsp;                        | 
+---                          | ---                            | ---                            | ---                            | ---                           | 
+🌊<br> Surf                   | ![][278]<br> [Wingull]<br> 60% | ![][458]<br> [Mantyke]<br> 30% | ![][279]<br> [Pelipper]<br> 5% | ![][226]<br> [Mantine]<br> 5% | 
+![][old-rod]<br> Old Rod     | ![][370]<br> [Luvdisc]<br> 60% | ![][116]<br> [Horsea]<br> 30%  | ![][222]<br> [Corsola]<br> 10% | &nbsp;                        | 
+![][good-rod]<br> Good Rod   | ![][370]<br> [Luvdisc]<br> 60% | ![][116]<br> [Horsea]<br> 30%  | ![][222]<br> [Corsola]<br> 10% | &nbsp;                        | 
+![][super-rod]<br> Super Rod | ![][370]<br> [Luvdisc]<br> 60% | ![][117]<br> [Seadra]<br> 30%  | ![][222]<br> [Corsola]<br> 10% | &nbsp;                        | 
 
 [Horsea]: ../../pokemon_changes/116/
 [Seadra]: ../../pokemon_changes/117/

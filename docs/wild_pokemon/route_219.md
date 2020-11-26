@@ -5,12 +5,12 @@
 
 Wild Levels: 30 - 45 (Surf)
 
-Area                         | Pokémon                          | &nbsp;                           | &nbsp;                           | &nbsp;
----                          | ---                              | ---                              | ---                              | ---
-🌊<br> Surf                   | ![][278]<br> [Wingull]<br> 60%  | ![][072]<br> [Tentacool]<br> 30%| ![][279]<br> [Pelipper]<br> 5%  | ![][073]<br> [Tentacruel]<br> 5%
-![][old-rod]<br> Old Rod     | ![][098]<br> [Krabby]<br> 60%   | ![][116]<br> [Horsea]<br> 30%   | ![][366]<br> [Clamperl]<br> 10%
-![][good-rod]<br> Good Rod   | ![][098]<br> [Krabby]<br> 60%   | ![][116]<br> [Horsea]<br> 30%   | ![][366]<br> [Clamperl]<br> 10%
-![][super-rod]<br> Super Rod | ![][099]<br> [Kingler]<br> 60%  | ![][116]<br> [Horsea]<br> 30%   | ![][367]<br> [Huntail]<br> 5%   | ![][368]<br> [Gorebyss]<br> 5%
+Area                         | Pokémon                        | &nbsp;                           | &nbsp;                          | &nbsp;                           | 
+---                          | ---                            | ---                              | ---                             | ---                              | 
+🌊<br> Surf                   | ![][278]<br> [Wingull]<br> 60% | ![][072]<br> [Tentacool]<br> 30% | ![][279]<br> [Pelipper]<br> 5%  | ![][073]<br> [Tentacruel]<br> 5% | 
+![][old-rod]<br> Old Rod     | ![][098]<br> [Krabby]<br> 60%  | ![][116]<br> [Horsea]<br> 30%    | ![][366]<br> [Clamperl]<br> 10% | &nbsp;                           | 
+![][good-rod]<br> Good Rod   | ![][098]<br> [Krabby]<br> 60%  | ![][116]<br> [Horsea]<br> 30%    | ![][366]<br> [Clamperl]<br> 10% | &nbsp;                           | 
+![][super-rod]<br> Super Rod | ![][099]<br> [Kingler]<br> 60% | ![][116]<br> [Horsea]<br> 30%    | ![][367]<br> [Huntail]<br> 5%   | ![][368]<br> [Gorebyss]<br> 5%   | 
 
 [Tentacool]: ../../pokemon_changes/072/
 [Tentacruel]: ../../pokemon_changes/073/

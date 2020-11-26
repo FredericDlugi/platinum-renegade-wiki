@@ -1,18 +1,18 @@
 # Mt. Coronet ~ Route 207 Entrance
 Levels: 22 - 23 (Walking) 20 - 40 (Surfing)
 
-Area                         | Pokémon                         | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                          
----                          | ---                             | ---                             | ---                             | ---                             | ---                             | ---                             
-🌅<br>Morning                 | ![][074]<br> [Geodude]<br> 20% | ![][436]<br> [Bronzor]<br> 20% | ![][035]<br> [Clefairy]<br> 10%| ![][299]<br> [Nosepass]<br> 10%| ![][358]<br> [Chimecho]<br> 10%| ![][042]<br> [Golbat]<br> 10%  
-&nbsp;                       | ![][375]<br> [Metang]<br> 10%  | ![][338]<br> [Solrock]<br> 5%  | ![][337]<br> [Lunatone]<br> 5% 
-🌞<br>Day                     | ![][074]<br> [Geodude]<br> 20% | ![][436]<br> [Bronzor]<br> 20% | ![][035]<br> [Clefairy]<br> 10%| ![][299]<br> [Nosepass]<br> 10%| ![][358]<br> [Chimecho]<br> 10%| ![][042]<br> [Golbat]<br> 10%  
-&nbsp;                       | ![][375]<br> [Metang]<br> 10%  | ![][338]<br> [Solrock]<br> 5%  | ![][337]<br> [Lunatone]<br> 5% 
-🌙<br>Night                   | ![][074]<br> [Geodude]<br> 20% | ![][436]<br> [Bronzor]<br> 20% | ![][035]<br> [Clefairy]<br> 10%| ![][299]<br> [Nosepass]<br> 10%| ![][358]<br> [Chimecho]<br> 10%| ![][042]<br> [Golbat]<br> 10%  
-&nbsp;                       | ![][375]<br> [Metang]<br> 10%  | ![][338]<br> [Solrock]<br> 5%  | ![][337]<br> [Lunatone]<br> 5% 
-🌊<br> Surf                   | ![][041]<br> [Zubat]<br> 90%   | ![][042]<br> [Golbat]<br> 10%  
-![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 65%| ![][339]<br> [Barboach]<br> 35%
-![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 65%| ![][339]<br> [Barboach]<br> 35%
-![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 65%| ![][340]<br> [Whiscash]<br> 35%
+Area                         | Pokémon                         | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
+---                          | ---                             | ---                             | ---                             | ---                             | ---                             | ---                           | 
+🌅<br>Morning                 | ![][074]<br> [Geodude]<br> 20%  | ![][436]<br> [Bronzor]<br> 20%  | ![][035]<br> [Clefairy]<br> 10% | ![][299]<br> [Nosepass]<br> 10% | ![][358]<br> [Chimecho]<br> 10% | ![][042]<br> [Golbat]<br> 10% | 
+&nbsp;                       | ![][375]<br> [Metang]<br> 10%   | ![][338]<br> [Solrock]<br> 5%   | ![][337]<br> [Lunatone]<br> 5%  | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
+🌞<br>Day                     | ![][074]<br> [Geodude]<br> 20%  | ![][436]<br> [Bronzor]<br> 20%  | ![][035]<br> [Clefairy]<br> 10% | ![][299]<br> [Nosepass]<br> 10% | ![][358]<br> [Chimecho]<br> 10% | ![][042]<br> [Golbat]<br> 10% | 
+&nbsp;                       | ![][375]<br> [Metang]<br> 10%   | ![][338]<br> [Solrock]<br> 5%   | ![][337]<br> [Lunatone]<br> 5%  | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
+🌙<br>Night                   | ![][074]<br> [Geodude]<br> 20%  | ![][436]<br> [Bronzor]<br> 20%  | ![][035]<br> [Clefairy]<br> 10% | ![][299]<br> [Nosepass]<br> 10% | ![][358]<br> [Chimecho]<br> 10% | ![][042]<br> [Golbat]<br> 10% | 
+&nbsp;                       | ![][375]<br> [Metang]<br> 10%   | ![][338]<br> [Solrock]<br> 5%   | ![][337]<br> [Lunatone]<br> 5%  | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
+🌊<br> Surf                   | ![][041]<br> [Zubat]<br> 90%    | ![][042]<br> [Golbat]<br> 10%   | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
+![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 65% | ![][339]<br> [Barboach]<br> 35% | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
+![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 65% | ![][339]<br> [Barboach]<br> 35% | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
+![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 65% | ![][340]<br> [Whiscash]<br> 35% | &nbsp;                          | &nbsp;                          | &nbsp;                          | &nbsp;                        | 
 
 [Clefairy]: ../../pokemon_changes/035/
 [Zubat]: ../../pokemon_changes/041/

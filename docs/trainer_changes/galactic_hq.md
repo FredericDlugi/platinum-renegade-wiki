@@ -1,38 +1,38 @@
 # Galactic HQ
 
-Trainer                           | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6
----                               | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---
-Galactic Grunt                    | ![][042]<br> [Golbat]<br> Lv. 53     | ![][269]<br> [Dustox]<br> Lv. 53     | ![][047]<br> [Parasect]<br> Lv. 53
-Galactic Grunt                    | ![][198]<br> [Murkrow]<br> Lv. 54    | ![][229]<br> [Houndoom]<br> Lv. 54
-Galactic Grunt                    | ![][267]<br> [Beautifly]<br> Lv. 53  | ![][432]<br> [Purugly]<br> Lv. 53    | ![][416]<br> [Vespiquen]<br> Lv. 53
-Galactic Grunt                    | ![][454]<br> [Toxicroak]<br> Lv. 54  | ![][435]<br> [Skuntank]<br> Lv. 54
-Scientist Fredrick                | ![][281]<br> [Kirlia]<br> Lv. 53     | ![][064]<br> [Kadabra]<br> Lv. 53    | ![][082]<br> [Magneton]<br> Lv. 53
-Galactic Grunt                    | ![][123]<br> [Scyther]<br> Lv. 54    | ![][435]<br> [Skuntank]<br> Lv. 54
-Galactic Grunt                    | ![][127]<br> [Pinsir]<br> Lv. 54     | ![][454]<br> [Toxicroak]<br> Lv. 54
-Galactic Grunt                    | ![][042]<br> [Golbat]<br> Lv. 53     | ![][262]<br> [Mightyena]<br> Lv. 53  | ![][168]<br> [Ariados]<br> Lv. 53
-Galactic Grunt                    | ![][042]<br> [Golbat]<br> Lv. 53     | ![][049]<br> [Venomoth]<br> Lv. 53   | ![][332]<br> [Cacturne]<br> Lv. 53
-Scientist Darrius                 | ![][474]<br> [Porygon-Z]<br> Lv. 55
-Galactic Grunt                    | ![][089]<br> [Muk]<br> Lv. 54        | ![][024]<br> [Arbok]<br> Lv. 54
-Galactic Grunt                    | ![][205]<br> [Forretress]<br> Lv. 53 | ![][336]<br> [Seviper]<br> Lv. 53    | ![][469]<br> [Yanmega]<br> Lv. 53
-Galactic Boss Cyrus<br>![][cyrus] | ![][169]<br> [Crobat]<br> Lv. 57     | ![][430]<br> [Honchkrow]<br> Lv. 57  | ![][229]<br> [Houndoom]<br> Lv. 57   | ![][462]<br> [Magnezone]<br> Lv. 57  | ![][461]<br> [Weavile]<br> Lv. 58
-Commander Saturn<br>![][saturn]   | ![][437]<br> [Bronzong]<br> Lv. 56   | ![][224]<br> [Octillery]<br> Lv. 56  | ![][065]<br> [Alakazam]<br> Lv. 56   | ![][464]<br> [Rhyperior]<br> Lv. 56  | ![][467]<br> [Magmortar]<br> Lv. 56  | ![][454]<br> [Toxicroak]<br> Lv. 57
+Trainer                           | 1                                    | 2                                   | 3                                   | 4                                   | 5                                   | 6                                   | 
+---                               | ---                                  | ---                                 | ---                                 | ---                                 | ---                                 | ---                                 | 
+Galactic Grunt                    | ![][042]<br> [Golbat]<br> Lv. 53     | ![][269]<br> [Dustox]<br> Lv. 53    | ![][047]<br> [Parasect]<br> Lv. 53  | &nbsp;                              | &nbsp;                              | &nbsp;                              | 
+Galactic Grunt                    | ![][198]<br> [Murkrow]<br> Lv. 54    | ![][229]<br> [Houndoom]<br> Lv. 54  | &nbsp;                              | &nbsp;                              | &nbsp;                              | &nbsp;                              | 
+Galactic Grunt                    | ![][267]<br> [Beautifly]<br> Lv. 53  | ![][432]<br> [Purugly]<br> Lv. 53   | ![][416]<br> [Vespiquen]<br> Lv. 53 | &nbsp;                              | &nbsp;                              | &nbsp;                              | 
+Galactic Grunt                    | ![][454]<br> [Toxicroak]<br> Lv. 54  | ![][435]<br> [Skuntank]<br> Lv. 54  | &nbsp;                              | &nbsp;                              | &nbsp;                              | &nbsp;                              | 
+Scientist Fredrick                | ![][281]<br> [Kirlia]<br> Lv. 53     | ![][064]<br> [Kadabra]<br> Lv. 53   | ![][082]<br> [Magneton]<br> Lv. 53  | &nbsp;                              | &nbsp;                              | &nbsp;                              | 
+Galactic Grunt                    | ![][123]<br> [Scyther]<br> Lv. 54    | ![][435]<br> [Skuntank]<br> Lv. 54  | &nbsp;                              | &nbsp;                              | &nbsp;                              | &nbsp;                              | 
+Galactic Grunt                    | ![][127]<br> [Pinsir]<br> Lv. 54     | ![][454]<br> [Toxicroak]<br> Lv. 54 | &nbsp;                              | &nbsp;                              | &nbsp;                              | &nbsp;                              | 
+Galactic Grunt                    | ![][042]<br> [Golbat]<br> Lv. 53     | ![][262]<br> [Mightyena]<br> Lv. 53 | ![][168]<br> [Ariados]<br> Lv. 53   | &nbsp;                              | &nbsp;                              | &nbsp;                              | 
+Galactic Grunt                    | ![][042]<br> [Golbat]<br> Lv. 53     | ![][049]<br> [Venomoth]<br> Lv. 53  | ![][332]<br> [Cacturne]<br> Lv. 53  | &nbsp;                              | &nbsp;                              | &nbsp;                              | 
+Scientist Darrius                 | ![][474]<br> [Porygon-Z]<br> Lv. 55  | &nbsp;                              | &nbsp;                              | &nbsp;                              | &nbsp;                              | &nbsp;                              | 
+Galactic Grunt                    | ![][089]<br> [Muk]<br> Lv. 54        | ![][024]<br> [Arbok]<br> Lv. 54     | &nbsp;                              | &nbsp;                              | &nbsp;                              | &nbsp;                              | 
+Galactic Grunt                    | ![][205]<br> [Forretress]<br> Lv. 53 | ![][336]<br> [Seviper]<br> Lv. 53   | ![][469]<br> [Yanmega]<br> Lv. 53   | &nbsp;                              | &nbsp;                              | &nbsp;                              | 
+Galactic Boss Cyrus<br>![][cyrus] | ![][169]<br> [Crobat]<br> Lv. 57     | ![][430]<br> [Honchkrow]<br> Lv. 57 | ![][229]<br> [Houndoom]<br> Lv. 57  | ![][462]<br> [Magnezone]<br> Lv. 57 | ![][461]<br> [Weavile]<br> Lv. 58   | &nbsp;                              | 
+Commander Saturn<br>![][saturn]   | ![][437]<br> [Bronzong]<br> Lv. 56   | ![][224]<br> [Octillery]<br> Lv. 56 | ![][065]<br> [Alakazam]<br> Lv. 56  | ![][464]<br> [Rhyperior]<br> Lv. 56 | ![][467]<br> [Magmortar]<br> Lv. 56 | ![][454]<br> [Toxicroak]<br> Lv. 57 | 
 
-Galactic Boss Cyrus<br>![][cyrus]   | Item                               | Nature | Ability        | Moves
----                                 | ---                                | --- | ---            | ---
-![][169]<br> [Crobat]<br> Lv. 57    | ![][choice-band]<br> Choice Band   | ? | Inner Focus    | Brave Bird, U-turn, Cross Poison, Zen Headbutt
-![][430]<br> [Honchkrow]<br> Lv. 57 | ![][scope-lens]<br> Scope Lens     | ? | Super Luck     | Brave Bird, Night Slash, Thunder Wave, Heat Wave
-![][229]<br> [Houndoom]<br> Lv. 57  | ![][life-orb]<br> Life Orb         | ? | Intimidate (!) | Dark Pulse, Flamethrower, Sludge Bomb, Nasty Plot
-![][462]<br> [Magnezone]<br> Lv. 57 | ![][wise-glasses]<br> Wise Glasses | ? | Magnet Pull    | Thunderbolt, Flash Cannon, Signal Beam, Mirror Coat
-![][461]<br> [Weavile]<br> Lv. 58   | ![][expert-belt]<br> Expert Belt   | ? | Technican (!)  | Crunch, Icicle Crash, Aerial Ace, X-Scissor
+Galactic Boss Cyrus<br>![][cyrus]   | Item                               | Nature | Ability        | Moves                                               | 
+---                                 | ---                                | ---    | ---            | ---                                                 | 
+![][169]<br> [Crobat]<br> Lv. 57    | ![][choice-band]<br> Choice Band   | ?      | Inner Focus    | Brave Bird, U-turn, Cross Poison, Zen Headbutt      | 
+![][430]<br> [Honchkrow]<br> Lv. 57 | ![][scope-lens]<br> Scope Lens     | ?      | Super Luck     | Brave Bird, Night Slash, Thunder Wave, Heat Wave    | 
+![][229]<br> [Houndoom]<br> Lv. 57  | ![][life-orb]<br> Life Orb         | ?      | Intimidate (!) | Dark Pulse, Flamethrower, Sludge Bomb, Nasty Plot   | 
+![][462]<br> [Magnezone]<br> Lv. 57 | ![][wise-glasses]<br> Wise Glasses | ?      | Magnet Pull    | Thunderbolt, Flash Cannon, Signal Beam, Mirror Coat | 
+![][461]<br> [Weavile]<br> Lv. 58   | ![][expert-belt]<br> Expert Belt   | ?      | Technican (!)  | Crunch, Icicle Crash, Aerial Ace, X-Scissor         | 
 
-Commander Saturn<br>![][saturn]     | Item                               | Nature | Ability      | Moves
----                                 | ---                                | --- | ---          | ---
-![][437]<br> [Bronzong]<br> Lv. 56  | ![][light-clay]<br> Light Clay     | ? | Levitate     | Zen Headbutt, Gyro Ball, Reflect, Light Screen
-![][224]<br> [Octillery]<br> Lv. 56 | ![][expert-belt]<br> Expert Belt   | ? | Suction Cups | Hydro Pump, Blizzard, Fire Blast, Energy Ball
-![][065]<br> [Alakazam]<br> Lv. 56  | ![][life-orb]<br> Life Orb         | ? | Magic Guard  | Psychic, Shadow Ball, Dazzling Gleam, Focus Blast
-![][464]<br> [Rhyperior]<br> Lv. 56 | ![][choice-band]<br> Choice Band   | ? | Solid Rock   | Stone Edge, Earthquake, Megahorn
-![][467]<br> [Magmortar]<br> Lv. 56 | ![][choice-specs]<br> Choice Specs | ? | Flame Body   | Fire Blast, Thunderbolt, Aura Sphere, Psychic
-![][454]<br> [Toxicroak]<br> Lv. 57 | ![][focus-sash]<br> Focus Sash     | ? | Dry Skin     | Cross Chop, Gunk Shot, Ice Punch, Fake Out
+Commander Saturn<br>![][saturn]     | Item                               | Nature | Ability      | Moves                                             | 
+---                                 | ---                                | ---    | ---          | ---                                               | 
+![][437]<br> [Bronzong]<br> Lv. 56  | ![][light-clay]<br> Light Clay     | ?      | Levitate     | Zen Headbutt, Gyro Ball, Reflect, Light Screen    | 
+![][224]<br> [Octillery]<br> Lv. 56 | ![][expert-belt]<br> Expert Belt   | ?      | Suction Cups | Hydro Pump, Blizzard, Fire Blast, Energy Ball     | 
+![][065]<br> [Alakazam]<br> Lv. 56  | ![][life-orb]<br> Life Orb         | ?      | Magic Guard  | Psychic, Shadow Ball, Dazzling Gleam, Focus Blast | 
+![][464]<br> [Rhyperior]<br> Lv. 56 | ![][choice-band]<br> Choice Band   | ?      | Solid Rock   | Stone Edge, Earthquake, Megahorn                  | 
+![][467]<br> [Magmortar]<br> Lv. 56 | ![][choice-specs]<br> Choice Specs | ?      | Flame Body   | Fire Blast, Thunderbolt, Aura Sphere, Psychic     | 
+![][454]<br> [Toxicroak]<br> Lv. 57 | ![][focus-sash]<br> Focus Sash     | ?      | Dry Skin     | Cross Chop, Gunk Shot, Ice Punch, Fake Out        | 
 
 [Arbok]: ../../pokemon_changes/024/
 [Golbat]: ../../pokemon_changes/042/

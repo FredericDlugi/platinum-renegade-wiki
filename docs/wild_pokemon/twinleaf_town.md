@@ -1,12 +1,12 @@
 # Twinleaf Town
 Levels: 20 - 40 (Surfing)
 
-Area                         | Pokémon                          | &nbsp;                           
----                          | ---                              | ---                              
-🌊<br> Surf                   | ![][054]<br> [Psyduck]<br> 90%  | ![][055]<br> [Golduck]<br> 10%  
-![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 65% | ![][060]<br> [Poliwag]<br> 35%  
-![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 65% | ![][060]<br> [Poliwag]<br> 35%  
-![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 65% | ![][061]<br> [Poliwhirl]<br> 35%
+Area                         | Pokémon                         | &nbsp;                           | 
+---                          | ---                             | ---                              | 
+🌊<br> Surf                   | ![][054]<br> [Psyduck]<br> 90%  | ![][055]<br> [Golduck]<br> 10%   | 
+![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 65% | ![][060]<br> [Poliwag]<br> 35%   | 
+![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 65% | ![][060]<br> [Poliwag]<br> 35%   | 
+![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 65% | ![][061]<br> [Poliwhirl]<br> 35% | 
 
 [Psyduck]: ../../pokemon_changes/054/
 [Golduck]: ../../pokemon_changes/055/

@@ -1,31 +1,31 @@
 # Victory Road ~ East
 
-Trainer                            | 1                                    | 2                                    | 3                                    | 4                                    | 5                                    | 6
----                                | ---                                  | ---                                  | ---                                  | ---                                  | ---                                  | ---
-PKMN Trainer Marley<br>![][marley] | ![][121]<br> [Starmie]<br> Lv. 65    | ![][101]<br> [Electrode]<br> Lv. 65  | ![][254]<br> [Sceptile]<br> Lv. 65   | ![][169]<br> [Crobat]<br> Lv. 65     | ![][461]<br> [Weavile]<br> Lv. 65    | ![][059]<br> [Arcanine]<br> Lv. 66
-Ace Trainer Micah                  | ![][376]<br> [Metagross]<br> Lv. 65  | ![][272]<br> [Ludicolo]<br> Lv. 65   | ![][257]<br> [Blaziken]<br> Lv. 65
-Ace Trainer Brandi                 | ![][031]<br> [Nidoqueen]<br> Lv. 65  | ![][115]<br> [Kangaskhan]<br> Lv. 65 | ![][124]<br> [Jynx]<br> Lv. 65
-Psychic Desiree                    | ![][122]<br> [Mr. Mime]<br> Lv. 64   | ![][426]<br> [Drifblim]<br> Lv. 64   | ![][097]<br> [Hypno]<br> Lv. 64
-Psychic Landon                     | ![][354]<br> [Banette]<br> Lv. 64    | ![][065]<br> [Alakazam]<br> Lv. 64   | ![][203]<br> [Girafarig]<br> Lv. 64
-Black Belt Eddie                   | ![][057]<br> [Primeape]<br> Lv. 64   | ![][286]<br> [Breloom]<br> Lv. 64    | ![][392]<br> [Infernape]<br> Lv. 64
-Veteran Terrell                    | ![][047]<br> [Parasect]<br> Lv. 66   | ![][195]<br> [Quagsire]<br> Lv. 66   | ![][229]<br> [Houndoom]<br> Lv. 66
-Dragon Tamer Joe                   | ![][148]<br> [Dragonair]<br> Lv. 65  | ![][373]<br> [Salamence]<br> Lv. 65  | ![][230]<br> [Kingdra]<br> Lv. 65
-Bird Keeper Autumn                 | ![][178]<br> [Xatu]<br> Lv. 64       | ![][279]<br> [Pelipper]<br> Lv. 64   | ![][225]<br> [Delibird]<br> Lv. 64
-Psychic Deandre                    | ![][356]<br> [Dusclops]<br> Lv. 64   | ![][302]<br> [Sableye]<br> Lv. 64    | ![][477]<br> [Dusknoir]<br> Lv. 64
-Psychic Kendra                     | ![][358]<br> [Chimecho]<br> Lv. 64   | ![][478]<br> [Froslass]<br> Lv. 64   | ![][202]<br> [Wobbuffet]<br> Lv. 64
-Black Belt Willie                  | ![][214]<br> [Heracross]<br> Lv. 64  | ![][068]<br> [Machamp]<br> Lv. 64    | ![][454]<br> [Toxicroak]<br> Lv. 64
-Veteran Brenden                    | ![][205]<br> [Forretress]<br> Lv. 66 | ![][141]<br> [Kabutops]<br> Lv. 66   | ![][232]<br> [Donphan]<br> Lv. 66
-Ace Trainer Arthur                 | ![][423]<br> [Gastrodon]<br> Lv. 64  | ![][015]<br> [Beedrill]<br> Lv. 64   | ![][181]<br> [Ampharos]<br> Lv. 64
-Ace Trainer Clarice                | ![][317]<br> [Swalot]<br> Lv. 64     | ![][038]<br> [Ninetales]<br> Lv. 64  | ![][212]<br> [Scizor]<br> Lv. 64
+Trainer                            | 1                                    | 2                                    | 3                                   | 4                                | 5                                 | 6                                  | 
+---                                | ---                                  | ---                                  | ---                                 | ---                              | ---                               | ---                                | 
+PKMN Trainer Marley<br>![][marley] | ![][121]<br> [Starmie]<br> Lv. 65    | ![][101]<br> [Electrode]<br> Lv. 65  | ![][254]<br> [Sceptile]<br> Lv. 65  | ![][169]<br> [Crobat]<br> Lv. 65 | ![][461]<br> [Weavile]<br> Lv. 65 | ![][059]<br> [Arcanine]<br> Lv. 66 | 
+Ace Trainer Micah                  | ![][376]<br> [Metagross]<br> Lv. 65  | ![][272]<br> [Ludicolo]<br> Lv. 65   | ![][257]<br> [Blaziken]<br> Lv. 65  | &nbsp;                           | &nbsp;                            | &nbsp;                             | 
+Ace Trainer Brandi                 | ![][031]<br> [Nidoqueen]<br> Lv. 65  | ![][115]<br> [Kangaskhan]<br> Lv. 65 | ![][124]<br> [Jynx]<br> Lv. 65      | &nbsp;                           | &nbsp;                            | &nbsp;                             | 
+Psychic Desiree                    | ![][122]<br> [Mr. Mime]<br> Lv. 64   | ![][426]<br> [Drifblim]<br> Lv. 64   | ![][097]<br> [Hypno]<br> Lv. 64     | &nbsp;                           | &nbsp;                            | &nbsp;                             | 
+Psychic Landon                     | ![][354]<br> [Banette]<br> Lv. 64    | ![][065]<br> [Alakazam]<br> Lv. 64   | ![][203]<br> [Girafarig]<br> Lv. 64 | &nbsp;                           | &nbsp;                            | &nbsp;                             | 
+Black Belt Eddie                   | ![][057]<br> [Primeape]<br> Lv. 64   | ![][286]<br> [Breloom]<br> Lv. 64    | ![][392]<br> [Infernape]<br> Lv. 64 | &nbsp;                           | &nbsp;                            | &nbsp;                             | 
+Veteran Terrell                    | ![][047]<br> [Parasect]<br> Lv. 66   | ![][195]<br> [Quagsire]<br> Lv. 66   | ![][229]<br> [Houndoom]<br> Lv. 66  | &nbsp;                           | &nbsp;                            | &nbsp;                             | 
+Dragon Tamer Joe                   | ![][148]<br> [Dragonair]<br> Lv. 65  | ![][373]<br> [Salamence]<br> Lv. 65  | ![][230]<br> [Kingdra]<br> Lv. 65   | &nbsp;                           | &nbsp;                            | &nbsp;                             | 
+Bird Keeper Autumn                 | ![][178]<br> [Xatu]<br> Lv. 64       | ![][279]<br> [Pelipper]<br> Lv. 64   | ![][225]<br> [Delibird]<br> Lv. 64  | &nbsp;                           | &nbsp;                            | &nbsp;                             | 
+Psychic Deandre                    | ![][356]<br> [Dusclops]<br> Lv. 64   | ![][302]<br> [Sableye]<br> Lv. 64    | ![][477]<br> [Dusknoir]<br> Lv. 64  | &nbsp;                           | &nbsp;                            | &nbsp;                             | 
+Psychic Kendra                     | ![][358]<br> [Chimecho]<br> Lv. 64   | ![][478]<br> [Froslass]<br> Lv. 64   | ![][202]<br> [Wobbuffet]<br> Lv. 64 | &nbsp;                           | &nbsp;                            | &nbsp;                             | 
+Black Belt Willie                  | ![][214]<br> [Heracross]<br> Lv. 64  | ![][068]<br> [Machamp]<br> Lv. 64    | ![][454]<br> [Toxicroak]<br> Lv. 64 | &nbsp;                           | &nbsp;                            | &nbsp;                             | 
+Veteran Brenden                    | ![][205]<br> [Forretress]<br> Lv. 66 | ![][141]<br> [Kabutops]<br> Lv. 66   | ![][232]<br> [Donphan]<br> Lv. 66   | &nbsp;                           | &nbsp;                            | &nbsp;                             | 
+Ace Trainer Arthur                 | ![][423]<br> [Gastrodon]<br> Lv. 64  | ![][015]<br> [Beedrill]<br> Lv. 64   | ![][181]<br> [Ampharos]<br> Lv. 64  | &nbsp;                           | &nbsp;                            | &nbsp;                             | 
+Ace Trainer Clarice                | ![][317]<br> [Swalot]<br> Lv. 64     | ![][038]<br> [Ninetales]<br> Lv. 64  | ![][212]<br> [Scizor]<br> Lv. 64    | &nbsp;                           | &nbsp;                            | &nbsp;                             | 
 
-PKMN Trainer Marley<br>![][marley]  | Item                                 | Nature | Ability     | Moves
----                                 | ---                                  | --- | ---         | ---
-![][121]<br> [Starmie]<br> Lv. 65   | ![][expert-belt]<br> Expert Belt     | ? | Illuminate  | Hydro Pump, Blizzard, Thunder, Psychic
-![][101]<br> [Electrode]<br> Lv. 65 | ![][light-clay]<br> Light Clay       | ? | Soundproof  | Thunderbolt, Thunder Wave, Light Screen, Explosion
-![][254]<br> [Sceptile]<br> Lv. 65  | ![][petaya-berry]<br> Petaya Berry   | ? | Unburden    | Energy Ball, Dragon Pulse, Focus Blast, Endure
-![][169]<br> [Crobat]<br> Lv. 65    | ![][bright-powder]<br> Bright Powder | ? | Inner Focus | Brave Bird, Cross Poison, Hypnosis, Roost
-![][461]<br> [Weavile]<br> Lv. 65   | ![][life-orb]<br> Life Orb           | ? | Technician  | Crunch, Icicle Crash, Aerial Ace, Low Kick
-![][059]<br> [Arcanine]<br> Lv. 66  | ![][sitrus-berry]<br> Sitrus Berry   | ? | Intimidate  | Flare Blitz, Close Combat, Crunch, Extreme Speed
+PKMN Trainer Marley<br>![][marley]  | Item                                 | Nature | Ability     | Moves                                              | 
+---                                 | ---                                  | ---    | ---         | ---                                                | 
+![][121]<br> [Starmie]<br> Lv. 65   | ![][expert-belt]<br> Expert Belt     | ?      | Illuminate  | Hydro Pump, Blizzard, Thunder, Psychic             | 
+![][101]<br> [Electrode]<br> Lv. 65 | ![][light-clay]<br> Light Clay       | ?      | Soundproof  | Thunderbolt, Thunder Wave, Light Screen, Explosion | 
+![][254]<br> [Sceptile]<br> Lv. 65  | ![][petaya-berry]<br> Petaya Berry   | ?      | Unburden    | Energy Ball, Dragon Pulse, Focus Blast, Endure     | 
+![][169]<br> [Crobat]<br> Lv. 65    | ![][bright-powder]<br> Bright Powder | ?      | Inner Focus | Brave Bird, Cross Poison, Hypnosis, Roost          | 
+![][461]<br> [Weavile]<br> Lv. 65   | ![][life-orb]<br> Life Orb           | ?      | Technician  | Crunch, Icicle Crash, Aerial Ace, Low Kick         | 
+![][059]<br> [Arcanine]<br> Lv. 66  | ![][sitrus-berry]<br> Sitrus Berry   | ?      | Intimidate  | Flare Blitz, Close Combat, Crunch, Extreme Speed   | 
 
 [Beedrill]: ../../pokemon_changes/015/
 [Nidoqueen]: ../../pokemon_changes/031/

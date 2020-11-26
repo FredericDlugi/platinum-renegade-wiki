@@ -4,10 +4,10 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/mt_coronet__4f/).
 
 
-Trainer        | 1                                  | 2                                  | 3
----            | ---                                | ---                                | ---
-Galactic Grunt | ![][229]<br> [Houndoom]<br> Lv. 54 | ![][042]<br> [Golbat]<br> Lv. 54   | ![][015]<br> [Beedrill]<br> Lv. 54
-Galactic Grunt | ![][166]<br> [Ledian]<br> Lv. 55   | ![][110]<br> [Weezing]<br> Lv. 55
+Trainer        | 1                                  | 2                                 | 3                                  | 
+---            | ---                                | ---                               | ---                                | 
+Galactic Grunt | ![][229]<br> [Houndoom]<br> Lv. 54 | ![][042]<br> [Golbat]<br> Lv. 54  | ![][015]<br> [Beedrill]<br> Lv. 54 | 
+Galactic Grunt | ![][166]<br> [Ledian]<br> Lv. 55   | ![][110]<br> [Weezing]<br> Lv. 55 | &nbsp;                             | 
 
 [Beedrill]: ../../pokemon_changes/015/
 [Golbat]: ../../pokemon_changes/042/

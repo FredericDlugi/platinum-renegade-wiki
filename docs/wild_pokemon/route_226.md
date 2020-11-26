@@ -5,18 +5,18 @@
 
 Levels: 65 - 67 (Walking) 65 - 67 (Surfing)
 
-Area                         | Pokémon                           | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;
----                          | ---                               | ---                               | ---                               | ---                               | ---                               | ---
-🌅<br>Morning                 | ![][020]<br> [Raticate]<br> 20%  | ![][022]<br> [Fearow]<br> 20%    | ![][024]<br> [Arbok]<br> 15%     | ![][028]<br> [Sandslash]<br> 15% | ![][078]<br> [Rapidash]<br> 10%  | ![][085]<br> [Dodrio]<br> 10%
-&nbsp;                       | ![][099]<br> [Kingler]<br> 10%
-🌞<br>Day                     | ![][020]<br> [Raticate]<br> 20%  | ![][022]<br> [Fearow]<br> 20%    | ![][024]<br> [Arbok]<br> 15%     | ![][028]<br> [Sandslash]<br> 15% | ![][078]<br> [Rapidash]<br> 10%  | ![][085]<br> [Dodrio]<br> 10%
-&nbsp;                       | ![][099]<br> [Kingler]<br> 10%
-🌙<br>Night                   | ![][020]<br> [Raticate]<br> 20%  | ![][022]<br> [Fearow]<br> 20%    | ![][024]<br> [Arbok]<br> 15%     | ![][028]<br> [Sandslash]<br> 15% | ![][078]<br> [Rapidash]<br> 10%  | ![][085]<br> [Dodrio]<br> 10%
-&nbsp;                       | ![][099]<br> [Kingler]<br> 10%
-🌊<br> Surf                   | ![][279]<br> [Pelipper]<br> 60%  | ![][073]<br> [Tentacruel]<br> 40%
-![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 60%  | ![][116]<br> [Horsea]<br> 30%    | ![][369]<br> [Relicanth]<br> 10%
-![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60%  | ![][116]<br> [Horsea]<br> 30%    | ![][369]<br> [Relicanth]<br> 10%
-![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60%  | ![][117]<br> [Seadra]<br> 30%    | ![][369]<br> [Relicanth]<br> 10%
+Area                         | Pokémon                         | &nbsp;                            | &nbsp;                           | &nbsp;                           | &nbsp;                          | &nbsp;                        | 
+---                          | ---                             | ---                               | ---                              | ---                              | ---                             | ---                           | 
+🌅<br>Morning                 | ![][020]<br> [Raticate]<br> 20% | ![][022]<br> [Fearow]<br> 20%     | ![][024]<br> [Arbok]<br> 15%     | ![][028]<br> [Sandslash]<br> 15% | ![][078]<br> [Rapidash]<br> 10% | ![][085]<br> [Dodrio]<br> 10% | 
+&nbsp;                       | ![][099]<br> [Kingler]<br> 10%  | &nbsp;                            | &nbsp;                           | &nbsp;                           | &nbsp;                          | &nbsp;                        | 
+🌞<br>Day                     | ![][020]<br> [Raticate]<br> 20% | ![][022]<br> [Fearow]<br> 20%     | ![][024]<br> [Arbok]<br> 15%     | ![][028]<br> [Sandslash]<br> 15% | ![][078]<br> [Rapidash]<br> 10% | ![][085]<br> [Dodrio]<br> 10% | 
+&nbsp;                       | ![][099]<br> [Kingler]<br> 10%  | &nbsp;                            | &nbsp;                           | &nbsp;                           | &nbsp;                          | &nbsp;                        | 
+🌙<br>Night                   | ![][020]<br> [Raticate]<br> 20% | ![][022]<br> [Fearow]<br> 20%     | ![][024]<br> [Arbok]<br> 15%     | ![][028]<br> [Sandslash]<br> 15% | ![][078]<br> [Rapidash]<br> 10% | ![][085]<br> [Dodrio]<br> 10% | 
+&nbsp;                       | ![][099]<br> [Kingler]<br> 10%  | &nbsp;                            | &nbsp;                           | &nbsp;                           | &nbsp;                          | &nbsp;                        | 
+🌊<br> Surf                   | ![][279]<br> [Pelipper]<br> 60% | ![][073]<br> [Tentacruel]<br> 40% | &nbsp;                           | &nbsp;                           | &nbsp;                          | &nbsp;                        | 
+![][old-rod]<br> Old Rod     | ![][129]<br> [Magikarp]<br> 60% | ![][116]<br> [Horsea]<br> 30%     | ![][369]<br> [Relicanth]<br> 10% | &nbsp;                           | &nbsp;                          | &nbsp;                        | 
+![][good-rod]<br> Good Rod   | ![][129]<br> [Magikarp]<br> 60% | ![][116]<br> [Horsea]<br> 30%     | ![][369]<br> [Relicanth]<br> 10% | &nbsp;                           | &nbsp;                          | &nbsp;                        | 
+![][super-rod]<br> Super Rod | ![][130]<br> [Gyarados]<br> 60% | ![][117]<br> [Seadra]<br> 30%     | ![][369]<br> [Relicanth]<br> 10% | &nbsp;                           | &nbsp;                          | &nbsp;                        | 
 
 [Raticate]: ../../pokemon_changes/020/
 [Fearow]: ../../pokemon_changes/022/

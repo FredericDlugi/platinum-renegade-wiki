@@ -5,14 +5,14 @@
 
 Levels: 26 - 30
 
-Area         | Pokémon                           | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;
----          | ---                               | ---                               | ---                               | ---                               | ---                               | ---
-🌅<br>Morning | ![][353]<br> [Shuppet]<br> 20%   | ![][355]<br> [Duskull]<br> 20%   | ![][042]<br> [Golbat]<br> 15%    | ![][093]<br> [Haunter]<br> 15%   | ![][198]<br> [Murkrow]<br> 10%   | ![][200]<br> [Misdreavus]<br> 10%
-&nbsp;       | ![][356]<br> [Dusclops]<br> 5%   | ![][354]<br> [Banette]<br> 5%
-🌞<br>Day     | ![][353]<br> [Shuppet]<br> 20%   | ![][355]<br> [Duskull]<br> 20%   | ![][042]<br> [Golbat]<br> 15%    | ![][093]<br> [Haunter]<br> 15%   | ![][198]<br> [Murkrow]<br> 10%   | ![][200]<br> [Misdreavus]<br> 10%
-&nbsp;       | ![][356]<br> [Dusclops]<br> 5%   | ![][354]<br> [Banette]<br> 5%
-🌙<br>Night   | ![][353]<br> [Shuppet]<br> 20%   | ![][355]<br> [Duskull]<br> 20%   | ![][042]<br> [Golbat]<br> 15%    | ![][093]<br> [Haunter]<br> 15%   | ![][198]<br> [Murkrow]<br> 10%   | ![][200]<br> [Misdreavus]<br> 10%
-&nbsp;       | ![][356]<br> [Dusclops]<br> 5%   | ![][354]<br> [Banette]<br> 5%
+Area         | Pokémon                        | &nbsp;                         | &nbsp;                        | &nbsp;                         | &nbsp;                         | &nbsp;                            | 
+---          | ---                            | ---                            | ---                           | ---                            | ---                            | ---                               | 
+🌅<br>Morning | ![][353]<br> [Shuppet]<br> 20% | ![][355]<br> [Duskull]<br> 20% | ![][042]<br> [Golbat]<br> 15% | ![][093]<br> [Haunter]<br> 15% | ![][198]<br> [Murkrow]<br> 10% | ![][200]<br> [Misdreavus]<br> 10% | 
+&nbsp;       | ![][356]<br> [Dusclops]<br> 5% | ![][354]<br> [Banette]<br> 5%  | &nbsp;                        | &nbsp;                         | &nbsp;                         | &nbsp;                            | 
+🌞<br>Day     | ![][353]<br> [Shuppet]<br> 20% | ![][355]<br> [Duskull]<br> 20% | ![][042]<br> [Golbat]<br> 15% | ![][093]<br> [Haunter]<br> 15% | ![][198]<br> [Murkrow]<br> 10% | ![][200]<br> [Misdreavus]<br> 10% | 
+&nbsp;       | ![][356]<br> [Dusclops]<br> 5% | ![][354]<br> [Banette]<br> 5%  | &nbsp;                        | &nbsp;                         | &nbsp;                         | &nbsp;                            | 
+🌙<br>Night   | ![][353]<br> [Shuppet]<br> 20% | ![][355]<br> [Duskull]<br> 20% | ![][042]<br> [Golbat]<br> 15% | ![][093]<br> [Haunter]<br> 15% | ![][198]<br> [Murkrow]<br> 10% | ![][200]<br> [Misdreavus]<br> 10% | 
+&nbsp;       | ![][356]<br> [Dusclops]<br> 5% | ![][354]<br> [Banette]<br> 5%  | &nbsp;                        | &nbsp;                         | &nbsp;                         | &nbsp;                            | 
 
 [Golbat]: ../../pokemon_changes/042/
 [Haunter]: ../../pokemon_changes/093/
