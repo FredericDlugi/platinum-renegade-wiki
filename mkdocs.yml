@@ -6,6 +6,19 @@ site_author: Frederic Dlugi
 repo_url: https://github.com/FredericDlugi/platinum-renegade-wiki/
 
 theme:
+    palette:
+      - media: "(prefers-color-scheme: light)"
+        primary: light-green
+        scheme: default
+        toggle:
+          icon: material/eye-outline
+          name: Switch to dark mode
+      - media: "(prefers-color-scheme: dark)"
+        scheme: slate
+        primary: green
+        toggle:
+          icon: material/eye
+          name: Switch to light mode
     name: material
     favicon: img/items/poke-ball.png
 
