@@ -30,114 +30,136 @@ Volt Tackle  | Wild Charge     |
 Some moves have had changes to their numerical values.
 There are also some cases where moves have lost effects because it can't be replicated in the Gen IV engine.
 
-Aurora Beam | Update                                    |
----         | ---                                       |
-Power       | <span style="color:green">65 >> 75</span> |
-PP          | <span style="color:red">20 >> 15</span>   |
+### Aurora Beam
+Change                            | Old | New |
+---                               | --- | --- |
+Power:material-chevron-double-up: | 65  | 75  |
+PP:material-chevron-double-down:  | 20  | 15  |
 
-Blaze Kick | Update                                     |
----        | ---                                        |
-Power      | <span style="color:green">85 >> 90</span>  |
-Accuracy   | <span style="color:green">90 >> 100</span> |
+### Blaze Kick
+Change                               | Old | New |
+---                                  | --- | --- |
+Power:material-chevron-double-up:    | 85  | 90  |
+Accuracy:material-chevron-double-up: | 90  | 100 |
 
-Bubble Beam | Update                                    |
----         | ---                                       |
-Power       | <span style="color:green">65 >> 75</span> |
-PP          | <span style="color:red">20 >> 15</span>   |
+### Bubble Beam
+Change                            | Old | New |
+---                               | --- | --- |
+Power:material-chevron-double-up: | 65  | 75  |
+PP:material-chevron-double-down:  | 20  | 15  |
 
-Chatter | Update                                    |
----     | ---                                       |
-Power   | <span style="color:green">65 >> 90</span> |
-PP      | <span style="color:red">20 >> 15</span>   |
+### Chatter
+Change                            | Old | New |
+---                               | --- | --- |
+Power:material-chevron-double-up: | 65  | 90  |
+PP:material-chevron-double-down:  | 20  | 15  |
 
-Cross Poison | Update                                    |
----          | ---                                       |
-Power        | <span style="color:green">70 >> 90</span> |
-PP           | <span style="color:red">20 >> 15</span>   |
+### Cross Poison
+Change                            | Old | New |
+---                               | --- | --- |
+Power:material-chevron-double-up: | 70  | 90  |
+PP:material-chevron-double-down:  | 20  | 15  |
 
-Cut      | Update                                                            |
----      | ---                                                               |
-Power    | <span style="color:green">50 >> 60</span>                         |
-Accuracy | <span style="color:green">95% >> 100%</span>                      |
-PP       | <span style="color:red">30 >> 25</span>                           |
-Type     | ![][normal] >> ![][grass]                                         |
-Effect   | <span style="color:green">No Effect >> High Critical Ratio</span> |
+### Cut
+Change                               | Old         | New                 |
+---                                  | ---         | ---                 |
+Power:material-chevron-double-up:    | 50          | 60                  |
+Accuracy:material-chevron-double-up: | 95%         | 100%                |
+PP:material-chevron-double-down:     | 30          | 25                  |
+Type                                 | ![][normal] | ![][grass]          |
+Effect:material-chevron-double-up:   | No Effect   | High Critical Ratio |
 
-Disarming Voice | Update                                    |
----             | ---                                       |
-Power           | <span style="color:green">40 >> 50</span> |
+### Disarming Voice
+Change                            | Old | New |
+---                               | --- | --- |
+Power:material-chevron-double-up: | 40  | 50  |
 
-Draining Kiss | Update                                    |
----           | ---                                       |
-Power         | <span style="color:green">50 >> 75</span> |
-<span style="color:red">Recovery: 75% >> 50% (Engine limitation)</span>
+### Draining Kiss
+Change                                 | Old | New                     |
+---                                    | --- | ---                     |
+Power:material-chevron-double-up:      | 50  | 75                      |
+Recovery:material-chevron-double-down: | 75% | 50% (Engine limitation) |
 
-Flame Wheel | Update                                    |
----         | ---                                       |
-Power       | <span style="color:green">60 >> 75</span> |
-PP          | <span style="color:red">25 >> 15</span>   |
+### Flame Wheel
+Change                            | Old | New |
+---                               | --- | --- |
+Power:material-chevron-double-up: | 60  | 75  |
+PP:material-chevron-double-down:  | 25  | 15  |
 
-Fly      | Update                                       |
----      | ---                                          |
-Power    | <span style="color:green">90 >> 100</span>   |
-Accuracy | <span style="color:green">95% >> 100%</span> |
+### Fly
+Change                               | Old | New  |
+---                                  | --- | ---  |
+Power:material-chevron-double-up:    | 90  | 100  |
+Accuracy:material-chevron-double-up: | 95% | 100% |
 
-Hurricane | Update                                                                          |
----       | ---                                                                             |
-Effect    | <span style="color:red">Confusion (30%) >> No Effect (Engine limitation)</span> |
+### Hurricane
+Change                               | Old             | New                           |
+---                                  | ---             | ---                           |
+Effect:material-chevron-double-down: | Confusion (30%) | No Effect (Engine limitation) |
 
-Needle Arm | Update                                    |
----        | ---                                       |
-Power      | <span style="color:green">60 >> 90</span> |
+### Needle Arm
+Change                            | Old | New |
+---                               | --- | --- |
+Power:material-chevron-double-up: | 60  | 90  |
 
-Poison Fang | Update                                    |
----         | ---                                       |
-Power       | <span style="color:green">50 >> 65</span> |
-Accuracy    | <span style="color:red">100 > 95</span>   |
+### Poison Fang
+Change                                 | Old | New |
+---                                    | --- | --- |
+Power:material-chevron-double-up:      | 50  | 65  |
+Accuracy:material-chevron-double-down: | 100 | 95  |
 
-Poison Tail | Update                                    |
----         | ---                                       |
-Power       | <span style="color:green">50 >> 90</span> |
-PP          | <span style="color:red">25 >> 15</span>   |
+### Poison Tail
+Change                            | Old | New |
+---                               | --- | --- |
+Power:material-chevron-double-up: | 50  | 90  |
+PP:material-chevron-double-down:  | 25  | 15  |
 
-Rock Climb | Update                                      |
----        | ---                                         |
-Power      | <span style="color:red">90 >> 80</span>     |
-Accuracy   | <span style="color:green">85% >> 95%</span> |
-PP         | <span style="color:red">20 >> 10</span>     |
-Type       | ![][normal] >> ![][rock]                    |
+### Rock Climb
+Change                               | Old         | New       |
+---                                  | ---         | ---       |
+Power:material-chevron-double-down:  | 90          | 80        |
+Accuracy:material-chevron-double-up: | 85%         | 95%       |
+PP:material-chevron-double-down:     | 20          | 10        |
+Type                                 | ![][normal] | ![][rock] |
 
-Rock Smash | Update                                    |
----        | ---                                       |
-Power      | <span style="color:green">40 >> 60</span> |
+### Rock Smash
+Change                            | Old | New |
+---                               | --- | --- |
+Power:material-chevron-double-up: | 40  | 60  |
 
-Scald  | Update                                                                                                                            |
----    | ---                                                                                                                               |
-Effect | <span style="color:green">Burn (30%) + Self thaw + Thaw enemy frozen Pokémon >> Burn (30%) + Self thaw (Engine limitation)</span> |
+### Scald
+Change                             | Old                                                | New                                        |
+---                                | ---                                                | ---                                        |
+Effect:material-chevron-double-up: | Burn (30%) + Self thaw + Thaw enemy frozen Pokémon | Burn (30%) + Self thaw (Engine limitation) |
 
-Shadow Claw | Update                                    |
----         | ---                                       |
-Power       | <span style="color:green">65 >> 80</span> |
-PP          | 15 >> 15                                  |
+### Shadow Claw
+Change                            | Old | New |
+---                               | --- | --- |
+Power:material-chevron-double-up: | 65  | 80  |
+PP                                | 15  | 15  |
 
-Shadow Punch | Update                                    |
----          | ---                                       |
-Power        | <span style="color:green">60 >> 80</span> |
-PP           | <span style="color:red">20 >> 15</span>   |
+### Shadow Punch
+Change                            | Old | New |
+---                               | --- | --- |
+Power:material-chevron-double-up: | 60  | 80  |
+PP:material-chevron-double-down:  | 20  | 15  |
 
-Sludge | Update                                    |
----    | ---                                       |
-Power  | <span style="color:green">65 >> 75</span> |
-PP     | <span style="color:red">20 >> 15</span>   |
+### Sludge
+Change                            | Old | New |
+---                               | --- | --- |
+Power:material-chevron-double-up: | 65  | 75  |
+PP:material-chevron-double-down:  | 20  | 15  |
 
-Strength | Update                                                               |
----      | ---                                                                  |
-Power    | <span style="color:green">80 >> 100</span>                           |
-Effect   | <span style="color:green">No Effect >> May Raise Attack (10%)</span> |
+### Strength
+Change                             | Old       | New                    |
+---                                | ---       | ---                    |
+Power:material-chevron-double-up:  | 80        | 100                    |
+Effect:material-chevron-double-up: | No Effect | May Raise Attack (10%) |
 
-Wild Charge | Update                                     |
----         | ---                                        |
-Power       | <span style="color:green">90 >> 100</span> |
+### Wild Charge
+Change                            | Old | New |
+---                               | --- | --- |
+Power:material-chevron-double-up: | 90  | 100 |
 
 [normal]: ./img/types/normal.png
 [grass]: ./img/types/grass.png
