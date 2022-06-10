@@ -1,10 +1,9 @@
 from genericpath import isfile
 import json
 
-
-for id in range(51, 52):
-    if isfile(f"temp/{id}.json"):
-        with open(f"temp/{id}.json") as f:
+def get_stat_table(id):
+    if isfile(f"temp/pokemon/{id}.json"):
+        with open(f"temp/pokemon/{id}.json") as f:
             jf = json.load(f)
             hp = jf["stats"][0]["base_stat"]
             atk = jf["stats"][1]["base_stat"]
@@ -13,6 +12,11 @@ for id in range(51, 52):
             sde = jf["stats"][4]["base_stat"]
             spe = jf["stats"][5]["base_stat"]
             bst = hp + atk + de + satk + sde + spe
-            print( "         | HP  | Atk | Def | SAtk | SDef | Spd | BST")
-            print( "---      | --- | --- | --- | ---  | ---  | --- | ---")
-            print(f"Ultra SM | {hp:3} | {atk:3} | {de:3} | {satk:4} | {sde:4} | {spe:3} | {bst:3}")
+            return f"""Version | HP  | Atk | Def | SAtk | SDef | Spd | BST
+---     | --- | --- | --- | ---  | ---  | --- | ---
+All     | {hp:3} | {atk:3} | {de:3} | {satk:4} | {sde:4} | {spe:3} | {bst:3}
+"""
+
+if __name__ == "__main__":
+    for id in range(51, 52):
+        print(get_stat_table(id))

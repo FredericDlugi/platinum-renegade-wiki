@@ -60,10 +60,10 @@ class Table:
         for line in self.lines:
             cells = line.split("|")
             last_col = cells[-1].strip()
-            if last_col == "" and last_col == empty_cell:
-                return True
+            if last_col != "" and last_col != empty_cell:
+                return False
 
-        return False
+        return True
 
     def print(self):
         for line in self.lines:
