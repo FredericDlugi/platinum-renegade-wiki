@@ -736,6 +736,11 @@ markdown_extensions:
     - footnotes
     - pymdownx.snippets
 
+extra_javascript:
+    - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+    - https://unpkg.com/tablesort@5.3.0/dist/sorts/tablesort.number.min.js
+    - javascripts/tablesort.js
+
 copyright: Maintained by Frederic Dlugi.
 
 plugins:

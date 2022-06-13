@@ -204,7 +204,6 @@ Level    | 60                     |
 - You can keep battling [Articuno] until you catch it.
 
 ### Zapdos
-![][145]
 
 Location: Valley Windworks
 Level: 60
