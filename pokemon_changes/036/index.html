@@ -10338,37 +10338,85 @@
 <thead>
 <tr>
 <th>Level</th>
-<th>Move</th>
+<th>Name</th>
+<th>Power</th>
+<th>Accuracy</th>
+<th>PP</th>
+<th>Type</th>
+<th>Damage Class</th>
+<th>Description</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>1</td>
 <td>Soft-Boiled</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="status"><img alt="" src="../../img/types/status.png" /></td>
+<td>Heals the user by half its max HP.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Teleport</td>
+<td>-</td>
+<td>-</td>
+<td>20</td>
+<td data-sort="psychic"><img alt="" src="../../img/types/psychic.png" /></td>
+<td data-sort="status"><img alt="" src="../../img/types/status.png" /></td>
+<td>Immediately ends wild battles.  No effect otherwise.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Sing</td>
+<td>-</td>
+<td>55%</td>
+<td>15</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="status"><img alt="" src="../../img/types/status.png" /></td>
+<td>Puts the target to sleep.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Double Slap</td>
+<td>15</td>
+<td>85%</td>
+<td>10</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>Hits 2-5 times in one turn.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Minimize</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="status"><img alt="" src="../../img/types/status.png" /></td>
+<td>Raises the user's evasion by two stages.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Metronome</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="status"><img alt="" src="../../img/types/status.png" /></td>
+<td>Randomly selects and uses any move in the game.</td>
 </tr>
 <tr>
 <td>37</td>
 <td>Moonblast</td>
+<td>95</td>
+<td>100%</td>
+<td>15</td>
+<td data-sort="fairy"><img alt="" src="../../img/types/fairy.png" /></td>
+<td data-sort="special"><img alt="" src="../../img/types/special.png" /></td>
+<td>Has a 30% chance to lower the target's Special Attack by one stage.</td>
 </tr>
 </tbody>
 </table>
@@ -10447,6 +10495,12 @@
     
     
       <script src="../../assets/javascripts/bundle.f758a944.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/sorts/tablesort.number.min.js"></script>
+      
+        <script src="../../javascripts/tablesort.js"></script>
       
     
   </body>

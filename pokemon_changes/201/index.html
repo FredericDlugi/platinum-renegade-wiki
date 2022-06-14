@@ -10421,33 +10421,75 @@
 <thead>
 <tr>
 <th>Level</th>
-<th>Move</th>
+<th>Name</th>
+<th>Power</th>
+<th>Accuracy</th>
+<th>PP</th>
+<th>Type</th>
+<th>Damage Class</th>
+<th>Description</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>1</td>
 <td>Secret Power <sup id="fnref5:1"><a class="footnote-ref" href="#fn:1">1</a></sup></td>
+<td>70</td>
+<td>100%</td>
+<td>20</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>Has a 30% chance to inflict a status effect which depends upon the terrain.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Nature Power <sup id="fnref4:1"><a class="footnote-ref" href="#fn:1">1</a></sup></td>
+<td>-</td>
+<td>-</td>
+<td>20</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="status"><img alt="" src="../../img/types/status.png" /></td>
+<td>Uses a move which depends upon the terrain.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Hidden Power</td>
+<td>60</td>
+<td>100%</td>
+<td>15</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="special"><img alt="" src="../../img/types/special.png" /></td>
+<td>Power and type depend upon user's IVs.  Power can range from 30 to 70.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Cosmic Power <sup id="fnref3:1"><a class="footnote-ref" href="#fn:1">1</a></sup></td>
+<td>-</td>
+<td>-</td>
+<td>20</td>
+<td data-sort="psychic"><img alt="" src="../../img/types/psychic.png" /></td>
+<td data-sort="status"><img alt="" src="../../img/types/status.png" /></td>
+<td>Raises the user's Defense and Special Defense by one stage.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Earth Power <sup id="fnref2:1"><a class="footnote-ref" href="#fn:1">1</a></sup></td>
+<td>90</td>
+<td>100%</td>
+<td>10</td>
+<td data-sort="ground"><img alt="" src="../../img/types/ground.png" /></td>
+<td data-sort="special"><img alt="" src="../../img/types/special.png" /></td>
+<td>Has a 10% chance to lower the target's Special Defense by one stage.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Ancient Power <sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup></td>
+<td>60</td>
+<td>100%</td>
+<td>5</td>
+<td data-sort="rock"><img alt="" src="../../img/types/rock.png" /></td>
+<td data-sort="special"><img alt="" src="../../img/types/special.png" /></td>
+<td>Has a 10% chance to raise all of the user's stats by one stage.</td>
 </tr>
 </tbody>
 </table>
@@ -10534,6 +10576,12 @@
     
     
       <script src="../../assets/javascripts/bundle.f758a944.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/sorts/tablesort.number.min.js"></script>
+      
+        <script src="../../javascripts/tablesort.js"></script>
       
     
   </body>

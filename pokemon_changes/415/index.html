@@ -10396,25 +10396,55 @@
 <thead>
 <tr>
 <th>Level</th>
-<th>Move</th>
+<th>Name</th>
+<th>Power</th>
+<th>Accuracy</th>
+<th>PP</th>
+<th>Type</th>
+<th>Damage Class</th>
+<th>Description</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>1</td>
 <td>Sweet Scent</td>
+<td>-</td>
+<td>100%</td>
+<td>20</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="status"><img alt="" src="../../img/types/status.png" /></td>
+<td>Lowers the target's evasion by one stage.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Gust</td>
+<td>40</td>
+<td>100%</td>
+<td>35</td>
+<td data-sort="flying"><img alt="" src="../../img/types/flying.png" /></td>
+<td data-sort="special"><img alt="" src="../../img/types/special.png" /></td>
+<td>Inflicts regular damage and can hit Pokémon in the air.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Bug Bite</td>
+<td>60</td>
+<td>100%</td>
+<td>20</td>
+<td data-sort="bug"><img alt="" src="../../img/types/bug.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>If target has a berry, inflicts double damage and uses the berry.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Bug Buzz</td>
+<td>90</td>
+<td>100%</td>
+<td>10</td>
+<td data-sort="bug"><img alt="" src="../../img/types/bug.png" /></td>
+<td data-sort="special"><img alt="" src="../../img/types/special.png" /></td>
+<td>Has a 10% chance to lower the target's Special Defense by one stage.</td>
 </tr>
 </tbody>
 </table>
@@ -10493,6 +10523,12 @@
     
     
       <script src="../../assets/javascripts/bundle.f758a944.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/sorts/tablesort.number.min.js"></script>
+      
+        <script src="../../javascripts/tablesort.js"></script>
       
     
   </body>

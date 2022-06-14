@@ -10378,61 +10378,145 @@
 <thead>
 <tr>
 <th>Level</th>
-<th>Move</th>
+<th>Name</th>
+<th>Power</th>
+<th>Accuracy</th>
+<th>PP</th>
+<th>Type</th>
+<th>Damage Class</th>
+<th>Description</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>1</td>
 <td>Weather Ball</td>
+<td>50</td>
+<td>100%</td>
+<td>10</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="special"><img alt="" src="../../img/types/special.png" /></td>
+<td>If there be weather, this move has doubled power and the weather's type.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Sucker Punch</td>
+<td>70</td>
+<td>100%</td>
+<td>5</td>
+<td data-sort="dark"><img alt="" src="../../img/types/dark.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>Only works if the target is about to use a damaging move.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Leech Life</td>
+<td>80</td>
+<td>100%</td>
+<td>10</td>
+<td data-sort="bug"><img alt="" src="../../img/types/bug.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>Drains half the damage inflicted to heal the user.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Stockpile</td>
+<td>-</td>
+<td>-</td>
+<td>20</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="status"><img alt="" src="../../img/types/status.png" /></td>
+<td>Stores energy up to three times for use with Spit Up and Swallow.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Swallow</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="status"><img alt="" src="../../img/types/status.png" /></td>
+<td>Recovers 1/4 HP after one Stockpile, 1/2 HP after two Stockpiles, or full HP after three Stockpiles.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Spit Up</td>
+<td>-</td>
+<td>100%</td>
+<td>10</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="special"><img alt="" src="../../img/types/special.png" /></td>
+<td>Power is 100 times the amount of energy Stockpiled.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Vine Whip</td>
+<td>45</td>
+<td>100%</td>
+<td>25</td>
+<td data-sort="grass"><img alt="" src="../../img/types/grass.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>Inflicts regular damage with no additional effect.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Sleep Powder</td>
+<td>-</td>
+<td>75%</td>
+<td>15</td>
+<td data-sort="grass"><img alt="" src="../../img/types/grass.png" /></td>
+<td data-sort="status"><img alt="" src="../../img/types/status.png" /></td>
+<td>Puts the target to sleep.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Sweet Scent</td>
+<td>-</td>
+<td>100%</td>
+<td>20</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="status"><img alt="" src="../../img/types/status.png" /></td>
+<td>Lowers the target's evasion by one stage.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Razor Leaf</td>
+<td>55</td>
+<td>95%</td>
+<td>25</td>
+<td data-sort="grass"><img alt="" src="../../img/types/grass.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>Has an increased chance for a critical hit.</td>
 </tr>
 <tr>
 <td>33</td>
 <td>Leaf Blade</td>
+<td>90</td>
+<td>100%</td>
+<td>15</td>
+<td data-sort="grass"><img alt="" src="../../img/types/grass.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>Has an increased chance for a critical hit.</td>
 </tr>
 <tr>
 <td>43</td>
 <td>Power Whip</td>
+<td>120</td>
+<td>85%</td>
+<td>10</td>
+<td data-sort="grass"><img alt="" src="../../img/types/grass.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>Inflicts regular damage with no additional effect.</td>
 </tr>
 <tr>
 <td>53</td>
 <td>Leaf Storm</td>
+<td>130</td>
+<td>90%</td>
+<td>5</td>
+<td data-sort="grass"><img alt="" src="../../img/types/grass.png" /></td>
+<td data-sort="special"><img alt="" src="../../img/types/special.png" /></td>
+<td>Lowers the user's Special Attack by two stages after inflicting damage.</td>
 </tr>
 </tbody>
 </table>
@@ -10511,6 +10595,12 @@
     
     
       <script src="../../assets/javascripts/bundle.f758a944.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/sorts/tablesort.number.min.js"></script>
+      
+        <script src="../../javascripts/tablesort.js"></script>
       
     
   </body>

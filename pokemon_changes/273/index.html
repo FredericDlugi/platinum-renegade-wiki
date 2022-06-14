@@ -10378,45 +10378,105 @@
 <thead>
 <tr>
 <th>Level</th>
-<th>Move</th>
+<th>Name</th>
+<th>Power</th>
+<th>Accuracy</th>
+<th>PP</th>
+<th>Type</th>
+<th>Damage Class</th>
+<th>Description</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>1</td>
 <td>Bide</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>User waits for two turns, then hits back for twice the damage it took.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Harden</td>
+<td>-</td>
+<td>-</td>
+<td>30</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="status"><img alt="" src="../../img/types/status.png" /></td>
+<td>Raises the user's Defense by one stage.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Growth</td>
+<td>-</td>
+<td>-</td>
+<td>20</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="status"><img alt="" src="../../img/types/status.png" /></td>
+<td>Raises the user's Attack and Special Attack by one stage.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Bullet Seed</td>
+<td>25</td>
+<td>100%</td>
+<td>30</td>
+<td data-sort="grass"><img alt="" src="../../img/types/grass.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>Hits 2-5 times in one turn.</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Nature Power</td>
+<td>-</td>
+<td>-</td>
+<td>20</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="status"><img alt="" src="../../img/types/status.png" /></td>
+<td>Uses a move which depends upon the terrain.</td>
 </tr>
 <tr>
 <td>15</td>
 <td>Synthesis</td>
+<td>-</td>
+<td>-</td>
+<td>5</td>
+<td data-sort="grass"><img alt="" src="../../img/types/grass.png" /></td>
+<td data-sort="status"><img alt="" src="../../img/types/status.png" /></td>
+<td>Heals the user by half its max HP.  Affected by weather.</td>
 </tr>
 <tr>
 <td>20</td>
 <td>Seed Bomb</td>
+<td>80</td>
+<td>100%</td>
+<td>15</td>
+<td data-sort="grass"><img alt="" src="../../img/types/grass.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>Inflicts regular damage with no additional effect.</td>
 </tr>
 <tr>
 <td>25</td>
 <td>Sunny Day</td>
+<td>-</td>
+<td>-</td>
+<td>5</td>
+<td data-sort="fire"><img alt="" src="../../img/types/fire.png" /></td>
+<td data-sort="status"><img alt="" src="../../img/types/status.png" /></td>
+<td>Changes the weather to sunny for five turns.</td>
 </tr>
 <tr>
 <td>30</td>
 <td>Explosion</td>
+<td>250</td>
+<td>100%</td>
+<td>5</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>User faints.</td>
 </tr>
 </tbody>
 </table>
@@ -10495,6 +10555,12 @@
     
     
       <script src="../../assets/javascripts/bundle.f758a944.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/sorts/tablesort.number.min.js"></script>
+      
+        <script src="../../javascripts/tablesort.js"></script>
       
     
   </body>

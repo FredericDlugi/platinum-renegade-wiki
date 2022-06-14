@@ -10378,45 +10378,105 @@
 <thead>
 <tr>
 <th>Level</th>
-<th>Move</th>
+<th>Name</th>
+<th>Power</th>
+<th>Accuracy</th>
+<th>PP</th>
+<th>Type</th>
+<th>Damage Class</th>
+<th>Description</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>1</td>
 <td>Power Whip</td>
+<td>120</td>
+<td>85%</td>
+<td>10</td>
+<td data-sort="grass"><img alt="" src="../../img/types/grass.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>Inflicts regular damage with no additional effect.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Seed Bomb</td>
+<td>80</td>
+<td>100%</td>
+<td>15</td>
+<td data-sort="grass"><img alt="" src="../../img/types/grass.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>Inflicts regular damage with no additional effect.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Egg Bomb</td>
+<td>100</td>
+<td>75%</td>
+<td>10</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>Inflicts regular damage with no additional effect.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Hypnosis</td>
+<td>-</td>
+<td>60%</td>
+<td>20</td>
+<td data-sort="psychic"><img alt="" src="../../img/types/psychic.png" /></td>
+<td data-sort="status"><img alt="" src="../../img/types/status.png" /></td>
+<td>Puts the target to sleep.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Confusion</td>
+<td>50</td>
+<td>100%</td>
+<td>25</td>
+<td data-sort="psychic"><img alt="" src="../../img/types/psychic.png" /></td>
+<td data-sort="special"><img alt="" src="../../img/types/special.png" /></td>
+<td>Has a 10% chance to confuse the target.</td>
 </tr>
 <tr>
 <td>23</td>
 <td>Stomp</td>
+<td>65</td>
+<td>100%</td>
+<td>20</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>Has a 30% chance to make the target flinch.</td>
 </tr>
 <tr>
 <td>33</td>
 <td>Synthesis</td>
+<td>-</td>
+<td>-</td>
+<td>5</td>
+<td data-sort="grass"><img alt="" src="../../img/types/grass.png" /></td>
+<td data-sort="status"><img alt="" src="../../img/types/status.png" /></td>
+<td>Heals the user by half its max HP.  Affected by weather.</td>
 </tr>
 <tr>
 <td>43</td>
 <td>Wood Hammer</td>
+<td>120</td>
+<td>100%</td>
+<td>15</td>
+<td data-sort="grass"><img alt="" src="../../img/types/grass.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>User receives 1/3 the damage inflicted in recoil.</td>
 </tr>
 <tr>
 <td>53</td>
 <td>Leaf Storm</td>
+<td>130</td>
+<td>90%</td>
+<td>5</td>
+<td data-sort="grass"><img alt="" src="../../img/types/grass.png" /></td>
+<td data-sort="special"><img alt="" src="../../img/types/special.png" /></td>
+<td>Lowers the user's Special Attack by two stages after inflicting damage.</td>
 </tr>
 </tbody>
 </table>
@@ -10495,6 +10555,12 @@
     
     
       <script src="../../assets/javascripts/bundle.f758a944.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/sorts/tablesort.number.min.js"></script>
+      
+        <script src="../../javascripts/tablesort.js"></script>
       
     
   </body>

@@ -10378,93 +10378,225 @@
 <thead>
 <tr>
 <th>Level</th>
-<th>Move</th>
+<th>Name</th>
+<th>Power</th>
+<th>Accuracy</th>
+<th>PP</th>
+<th>Type</th>
+<th>Damage Class</th>
+<th>Description</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>1</td>
 <td>Avalanche</td>
+<td>60</td>
+<td>100%</td>
+<td>10</td>
+<td data-sort="ice"><img alt="" src="../../img/types/ice.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>Inflicts double damage if the user takes damage before attacking this turn.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Curse</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td data-sort="ghost"><img alt="" src="../../img/types/ghost.png" /></td>
+<td data-sort="status"><img alt="" src="../../img/types/status.png" /></td>
+<td>Ghosts pay half their max HP to hurt the target every turn.  Others decrease Speed but raise Attack and Defense.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Mud Shot</td>
+<td>55</td>
+<td>95%</td>
+<td>15</td>
+<td data-sort="ground"><img alt="" src="../../img/types/ground.png" /></td>
+<td data-sort="special"><img alt="" src="../../img/types/special.png" /></td>
+<td>Has a 100% chance to lower the target's Speed by one stage.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Tackle</td>
+<td>40</td>
+<td>100%</td>
+<td>35</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>Inflicts regular damage with no additional effect.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Growl</td>
+<td>-</td>
+<td>100%</td>
+<td>40</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="status"><img alt="" src="../../img/types/status.png" /></td>
+<td>Lowers the target's Attack by one stage.</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Water Gun</td>
+<td>40</td>
+<td>100%</td>
+<td>25</td>
+<td data-sort="water"><img alt="" src="../../img/types/water.png" /></td>
+<td data-sort="special"><img alt="" src="../../img/types/special.png" /></td>
+<td>Inflicts regular damage with no additional effect.</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Mud-Slap</td>
+<td>20</td>
+<td>100%</td>
+<td>10</td>
+<td data-sort="ground"><img alt="" src="../../img/types/ground.png" /></td>
+<td data-sort="special"><img alt="" src="../../img/types/special.png" /></td>
+<td>Has a 100% chance to lower the target's accuracy by one stage.</td>
 </tr>
 <tr>
 <td>11</td>
 <td>Foresight</td>
+<td>-</td>
+<td>-</td>
+<td>40</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="status"><img alt="" src="../../img/types/status.png" /></td>
+<td>Forces the target to have no Evade, and allows it to be hit by Normal and Fighting moves even if it's a Ghost.</td>
 </tr>
 <tr>
 <td>14</td>
 <td>Bide</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>User waits for two turns, then hits back for twice the damage it took.</td>
 </tr>
 <tr>
 <td>16</td>
 <td>Bulldoze</td>
+<td>60</td>
+<td>100%</td>
+<td>20</td>
+<td data-sort="ground"><img alt="" src="../../img/types/ground.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>Has a 100% chance to lower the target's Speed by one stage.</td>
 </tr>
 <tr>
 <td>18</td>
 <td>Mud Bomb</td>
+<td>65</td>
+<td>85%</td>
+<td>10</td>
+<td data-sort="ground"><img alt="" src="../../img/types/ground.png" /></td>
+<td data-sort="special"><img alt="" src="../../img/types/special.png" /></td>
+<td>Has a 30% chance to lower the target's accuracy by one stage.</td>
 </tr>
 <tr>
 <td>22</td>
 <td>Rock Slide</td>
+<td>75</td>
+<td>90%</td>
+<td>10</td>
+<td data-sort="rock"><img alt="" src="../../img/types/rock.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>Has a 30% chance to make the target flinch.</td>
 </tr>
 <tr>
 <td>26</td>
 <td>Aqua Tail</td>
+<td>90</td>
+<td>90%</td>
+<td>10</td>
+<td data-sort="water"><img alt="" src="../../img/types/water.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>Inflicts regular damage with no additional effect.</td>
 </tr>
 <tr>
 <td>30</td>
 <td>Protect</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="status"><img alt="" src="../../img/types/status.png" /></td>
+<td>Prevents any moves from hitting the user this turn.</td>
 </tr>
 <tr>
 <td>34</td>
 <td>Take Down</td>
+<td>90</td>
+<td>85%</td>
+<td>20</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>User receives 1/4 the damage it inflicts in recoil.</td>
 </tr>
 <tr>
 <td>36</td>
 <td>Hammer Arm</td>
+<td>100</td>
+<td>90%</td>
+<td>10</td>
+<td data-sort="fighting"><img alt="" src="../../img/types/fighting.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>Lowers user's Speed by one stage.</td>
 </tr>
 <tr>
 <td>39</td>
 <td>Earthquake</td>
+<td>100</td>
+<td>100%</td>
+<td>10</td>
+<td data-sort="ground"><img alt="" src="../../img/types/ground.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>Inflicts regular damage and can hit Dig users.</td>
 </tr>
 <tr>
 <td>44</td>
 <td>Muddy Water</td>
+<td>90</td>
+<td>85%</td>
+<td>10</td>
+<td data-sort="water"><img alt="" src="../../img/types/water.png" /></td>
+<td data-sort="special"><img alt="" src="../../img/types/special.png" /></td>
+<td>Has a 30% chance to lower the target's accuracy by one stage.</td>
 </tr>
 <tr>
 <td>49</td>
 <td>Mirror Coat</td>
+<td>-</td>
+<td>100%</td>
+<td>20</td>
+<td data-sort="psychic"><img alt="" src="../../img/types/psychic.png" /></td>
+<td data-sort="special"><img alt="" src="../../img/types/special.png" /></td>
+<td>Inflicts twice the damage the user received from the last special hit it took.</td>
 </tr>
 <tr>
 <td>54</td>
 <td>Hydro Pump</td>
+<td>110</td>
+<td>80%</td>
+<td>5</td>
+<td data-sort="water"><img alt="" src="../../img/types/water.png" /></td>
+<td data-sort="special"><img alt="" src="../../img/types/special.png" /></td>
+<td>Inflicts regular damage with no additional effect.</td>
 </tr>
 <tr>
 <td>59</td>
 <td>Endeavor</td>
+<td>-</td>
+<td>100%</td>
+<td>5</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>Lowers the target's HP to equal the user's.</td>
 </tr>
 </tbody>
 </table>
@@ -10543,6 +10675,12 @@
     
     
       <script src="../../assets/javascripts/bundle.f758a944.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/sorts/tablesort.number.min.js"></script>
+      
+        <script src="../../javascripts/tablesort.js"></script>
       
     
   </body>

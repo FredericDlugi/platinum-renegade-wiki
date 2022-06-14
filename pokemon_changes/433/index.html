@@ -10441,45 +10441,105 @@
 <thead>
 <tr>
 <th>Level</th>
-<th>Move</th>
+<th>Name</th>
+<th>Power</th>
+<th>Accuracy</th>
+<th>PP</th>
+<th>Type</th>
+<th>Damage Class</th>
+<th>Description</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>1</td>
 <td>Confusion</td>
+<td>50</td>
+<td>100%</td>
+<td>25</td>
+<td data-sort="psychic"><img alt="" src="../../img/types/psychic.png" /></td>
+<td data-sort="special"><img alt="" src="../../img/types/special.png" /></td>
+<td>Has a 10% chance to confuse the target.</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Wrap</td>
+<td>15</td>
+<td>90%</td>
+<td>20</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>Prevents the target from fleeing and inflicts damage for 2-5 turns.</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Growl</td>
+<td>-</td>
+<td>100%</td>
+<td>40</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="status"><img alt="" src="../../img/types/status.png" /></td>
+<td>Lowers the target's Attack by one stage.</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Astonish</td>
+<td>30</td>
+<td>100%</td>
+<td>15</td>
+<td data-sort="ghost"><img alt="" src="../../img/types/ghost.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>Has a 30% chance to make the target flinch.</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Psywave</td>
+<td>-</td>
+<td>100%</td>
+<td>15</td>
+<td data-sort="psychic"><img alt="" src="../../img/types/psychic.png" /></td>
+<td data-sort="special"><img alt="" src="../../img/types/special.png" /></td>
+<td>Inflicts damage between 50% and 150% of the user's level.</td>
 </tr>
 <tr>
 <td>13</td>
 <td>Yawn</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="status"><img alt="" src="../../img/types/status.png" /></td>
+<td>Target sleeps at the end of the next turn.</td>
 </tr>
 <tr>
 <td>16</td>
 <td>Extrasensory <sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup></td>
+<td>80</td>
+<td>100%</td>
+<td>20</td>
+<td data-sort="psychic"><img alt="" src="../../img/types/psychic.png" /></td>
+<td data-sort="special"><img alt="" src="../../img/types/special.png" /></td>
+<td>Has a 10% chance to make the target flinch.</td>
 </tr>
 <tr>
 <td>19</td>
 <td>Take Down</td>
+<td>90</td>
+<td>85%</td>
+<td>20</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="physical"><img alt="" src="../../img/types/physical.png" /></td>
+<td>User receives 1/4 the damage it inflicts in recoil.</td>
 </tr>
 <tr>
 <td>22</td>
 <td>Uproar</td>
+<td>90</td>
+<td>100%</td>
+<td>10</td>
+<td data-sort="normal"><img alt="" src="../../img/types/normal.png" /></td>
+<td data-sort="special"><img alt="" src="../../img/types/special.png" /></td>
+<td>Forced to use this move for several turns.  Pokémon cannot fall asleep in that time.</td>
 </tr>
 </tbody>
 </table>
@@ -10566,6 +10626,12 @@
     
     
       <script src="../../assets/javascripts/bundle.f758a944.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/sorts/tablesort.number.min.js"></script>
+      
+        <script src="../../javascripts/tablesort.js"></script>
       
     
   </body>
