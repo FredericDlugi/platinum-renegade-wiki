@@ -153,22 +153,22 @@ def update_level_up_table(table, moves):
 if __name__ == "__main__":
     moves = get_moves()
 
-    table = [ \
-        "Level | Move\n",
-        "---   | ---\n",
-        "1     | Leer\n",
-        "1     | Wrap\n",
-        "6     | Night Shade\n",
-        "10    | Teleport\n",
-        "14    | Knock Off\n",
-        "18    | Pursuit\n",
-        "22    | Psychic\n",
-        "26    | Snatch\n",
-        "30    | Psycho Shift\n",
-        "34    | Zen Headbutt\n",
-        "38    | Cosmic Power\n",
-        "42    | Recover\n",
-        "46    | Psycho Boost\n",
-        "50    | Hyper Beam\n"]
+    table = """Level | Move
+---   | ---
+1     | Healing Wish
+1     | Growth
+6     | Magical Leaf
+10    | Leech Seed
+14    | Quick Attack
+18    | Sweet Scent
+22    | Natural Gift
+26    | Worry Seed
+30    | Aromatherapy
+34    | Energy Ball
+38    | Air Slash
+42    | Sweet Kiss
+46    | Leaf Storm
+50    | Seed Flare"""
+    table = [l + "\n" for l in table.split("\n")]
 
     print("".join(update_level_up_table(table, moves)))
