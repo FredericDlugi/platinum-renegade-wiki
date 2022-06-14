@@ -4,6 +4,7 @@ import string
 
 from create_ability_table import get_ability_table
 from create_stat_table import get_stat_table
+from create_level_up_table import get_moves, update_level_up_table
 
 base_path = "./docs/pokemon_changes"
 
@@ -82,7 +83,7 @@ def extract_change(id):
     assert id != 479, "Rotom not supported"
     assert id != 492, "Shaymin not supported"
 
-    with open(join(base_path, f"{id:03}.md")) as f:
+    with open(join(base_path, f"{id:03}.md"), encoding='utf-8') as f:
         file_content = f.readlines()
         id = id
         name = file_content[0].split(" - ")[1].strip()
@@ -98,7 +99,7 @@ def extract_change(id):
     return pc
 
 def update_change(pc):
-    with open(join(base_path, f"{pc.id:03}.md"), "r") as f:
+    with open(join(base_path, f"{pc.id:03}.md"), "r", encoding='utf-8') as f:
         file_content = f.readlines()
 
     i, k = get_section_lines("## Type", file_content)
@@ -135,7 +136,7 @@ def update_change(pc):
         i, k = get_section_lines("## Base Stats", file_content)
         file_content.insert(k, pc.level_up_repr())
 
-    with open(join(base_path, f"{pc.id:03}.md"), "w") as f:
+    with open(join(base_path, f"{pc.id:03}.md"), "w", encoding="UTF-8") as f:
         f.writelines(file_content)
 
 def get_section_lines(header, file_content):
@@ -143,7 +144,7 @@ def get_section_lines(header, file_content):
     start = 0
     for i in range(len(file_content)):
         if in_section:
-            if file_content[i].startswith("#") or file_content[i].startswith("["):
+            if file_content[i].startswith("#") or file_content[i].startswith("[") or file_content[i].startswith("--8<--"):
                 return start, i
 
         if header in file_content[i]:
@@ -191,14 +192,15 @@ def extract_level_up(file_content):
     start, end = get_section_lines("## Level Up", file_content)
     return remove_empty_lines(file_content[start + 1:end])
 
-for i in range(1, 494):
-    try:
-        pc = extract_change(i)
+if __name__ == "__main__":
+    moves = get_moves()
 
-        pc.level_up.append("""
+    for i in range(1, 494):
+        try:
+            pc = extract_change(i)
 
---8<-- "includes/abilities.md"
-""")
-        update_change(pc)
-    except Exception:
-        print("Exception")
+            pc.level_up = update_level_up_table(pc.level_up, moves)
+
+            update_change(pc)
+        except:
+            pass

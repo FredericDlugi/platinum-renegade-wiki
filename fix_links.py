@@ -55,7 +55,7 @@ def fix_links(file_name, root_path, links):
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(prog="Fix links")
-    parser.add_argument('-l', default="./docs/links.txt", help='The location of the link file')
+    parser.add_argument('-l', default="./links.txt", help='The location of the link file')
     parser.add_argument('-r', default="./docs/", help='The root of the mkdocs')
     parser.add_argument('paths', nargs='+', help='the paths to all files where the link should be fixed')
 
