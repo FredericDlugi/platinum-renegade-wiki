@@ -18,6 +18,12 @@ Commander Jupiter<br>![][jupiter] | Item                              | Nature  
 ![][114]<br>[Tangela]<br>Lv. 26   | None                              | Modest  | Chlorophyll     | Giga Drain, Shock Wave, Leech Seed, Sleep Powder
 ![][435]<br>[Skuntank]<br>Lv. 27  | ![][sitrus-berry]<br>Sitrus Berry | Adamant | Aftermath       | Poison Jab, Night Slash, Focus Energy, Torment
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Ekans]: ../../pokemon_changes/023/
 [Nidoran♀]: ../../pokemon_changes/029/
 [Nidoran♂]: ../../pokemon_changes/032/

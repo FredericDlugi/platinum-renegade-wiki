@@ -22,6 +22,12 @@ PKMN Trainer Barry<br>![][barry]  | Item                              | Nature |
 ![][392]<br>[Infernape]<br>Lv. 49 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist  | Fire Blast, Close Combat, Fake Out, Thunder Punch   (!)
 ![][395]<br>[Empoleon]<br>Lv. 49  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent    | Surf, Flash Cannon, Grass Knot, Agility             (!)
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Arcanine]: ../../pokemon_changes/059/
 [Snorlax]: ../../pokemon_changes/143/
 [Azumarill]: ../../pokemon_changes/184/

@@ -33,6 +33,12 @@ Scientist Julian<br>![][scientist] | Item | Nature | Ability | Moves
 ---                                | ---  | ---    | ---     | ---
 ![][448]<br>[Lucario]<br>Lv. 85    | None | ?      | ?       | Close Combat, Blaze Kick, Earthquake, -
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Charmeleon]: ../../pokemon_changes/005/
 [Fearow]: ../../pokemon_changes/022/
 [Raichu]: ../../pokemon_changes/026/

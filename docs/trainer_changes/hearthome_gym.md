@@ -31,6 +31,12 @@ PKMN Trainer Barry<br>![][barry]  | Item                              | Nature |
 ![][391]<br>[Monferno]<br>Lv. 33  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist | Flamethrower, Low Kick, Grass Knot, Fake Out    (!)
 ![][394]<br>[Prinplup]<br>Lv. 33  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent   | Scald, Icy Wind, Grass Knot, Aerial Ace         (!)
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Gastly]: ../../pokemon_changes/092/
 [Haunter]: ../../pokemon_changes/093/
 [Gengar]: ../../pokemon_changes/094/

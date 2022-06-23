@@ -31,6 +31,12 @@ Elite Four Aaron<br>![][aaron]    | Item                              | Nature  
 ![][212]<br>[Scizor]<br>Lv. 31    | ![][muscle-band]<br>Muscle Band   | Adamant | Technician  | X-Scissor, Bullet Punch, Iron Head, Swords Dance
 ![][452]<br>[Drapion]<br>Lv. 32   | ![][scope-lens]<br>Scope Lens     | Jolly   | Sniper      | Cross Poison, X-Scissor, Night Slash, Swords Dance
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Venomoth]: ../../pokemon_changes/049/
 [Machoke]: ../../pokemon_changes/067/
 [Graveler]: ../../pokemon_changes/075/

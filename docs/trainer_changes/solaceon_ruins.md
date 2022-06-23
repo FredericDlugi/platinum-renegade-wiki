@@ -14,6 +14,12 @@ Psychic Frasier<br>![][psychic_m] | Item | Nature | Ability    | Moves
 ---                               | ---  | ---    | ---        | ---
 ![][376]<br>[Metagross]<br>Lv. 85 | None | ?      | Clear Body | Meteor Mash, Bullet Punch, Light Screen, Thunder Punch
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Sandslash]: ../../pokemon_changes/028/
 [Graveler]: ../../pokemon_changes/075/
 [Metagross]: ../../pokemon_changes/376/

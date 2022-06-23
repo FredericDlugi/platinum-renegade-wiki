@@ -20,6 +20,12 @@ Leader Byron<br>![][byron]         | Item                              | Nature 
 ![][306]<br>[Aggron]<br>Lv. 52     | ![][focus-sash]<br>Focus Sash     | Naughty | Rock Head   | Head Smash, Iron Head, Aqua Tail, Low Kick
 ![][411]<br>[Bastiodon]<br>Lv. 53  | ![][leftovers]<br>Leftovers       | Sassy   | Soundproof  | Iron Head, Toxic, Protect, Metal Burst
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Magnemite]: ../../pokemon_changes/081/
 [Magneton]: ../../pokemon_changes/082/
 [Forretress]: ../../pokemon_changes/205/

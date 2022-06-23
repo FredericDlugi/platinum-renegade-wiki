@@ -19,6 +19,12 @@ Leader Wake<br>![][wake]          | Item                              | Nature  
 ![][319]<br>[Sharpedo]<br>Lv. 43  | ![][focus-sash]<br>Focus Sash     | Naive   | Speed Boost  | Waterfall, Crunch, Ice Fang, Zen Headbutt
 ![][419]<br>[Floatzel]<br>Lv. 44  | ![][life-orb]<br>Life Orb         | Naive   | Swift Swim   | Aqua Tail, Crunch, Ice Punch, Aqua Jet
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Wartortle]: ../../pokemon_changes/008/
 [Golduck]: ../../pokemon_changes/055/
 [Poliwrath]: ../../pokemon_changes/062/

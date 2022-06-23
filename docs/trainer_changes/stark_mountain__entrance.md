@@ -23,6 +23,12 @@ Commander Jupiter<br>![][jupiter] | Item                                | Nature
 ![][423]<br>[Gastrodon]<br>Lv. 77 | ![][wise-glasses]<br>Wise Glasses   | ?      | Sticky Hold     | Muddy Water, Earth Power, Ice Beam, Recover
 ![][435]<br>[Skuntank]<br>Lv. 78  | ![][sitrus-berry]<br>Sitrus Berry   | ?      | Aftermath       | Gunk Shot, Crunch, Play Rough, Toxic
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Kangaskhan]: ../../pokemon_changes/115/
 [Crobat]: ../../pokemon_changes/169/
 [Sableye]: ../../pokemon_changes/302/

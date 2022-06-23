@@ -15,6 +15,12 @@ Leader Roark<br>![][roark]       | Item                              | Nature  |
 ![][246]<br>[Larvitar]<br>Lv. 15 | ![][flame-orb]<br>Flame Orb       | Jolly   | Guts          | Rock Tomb, Bulldoze, Bite, Protect
 ![][408]<br>[Cranidos]<br>Lv. 16 | ![][sitrus-berry]<br>Sitrus Berry | Hasty   | Rock Head (!) | Zen Headbutt, Rock Tomb, Thunder Punch, Scary Face
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Geodude]: ../../pokemon_changes/074/
 [Onix]: ../../pokemon_changes/095/
 [Rhyhorn]: ../../pokemon_changes/111/

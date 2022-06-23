@@ -293,6 +293,12 @@ Bird Keeper Thea<br>![][bird_keeper] | Item | Nature | Ability | Moves
 ---                                  | ---  | ---    | ---     | ---
 ![][149]<br>[Dragonite]<br>Lv. 85    | None | ?      | ?       | Thunder Punch, Ice Punch, Roost, Thunder Wave
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Charizard]: ../../pokemon_changes/006/
 [Clefable]: ../../pokemon_changes/036/
 [Ninetales]: ../../pokemon_changes/038/

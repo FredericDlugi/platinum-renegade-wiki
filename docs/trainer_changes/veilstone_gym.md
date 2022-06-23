@@ -17,6 +17,12 @@ Leader Maylene<br>![][maylene]    | Item                              | Nature  
 ![][475]<br>[Gallade]<br>Lv. 38   | ![][light-clay]<br>Light Clay     | Brave   | Steadfast        | Drain Punch, Zen Headbutt, Light Screen, Reflect
 ![][448]<br>[Lucario]<br>Lv. 39   | ![][focus-sash]<br>Focus Sash     | Timid   | Adaptability (!) | Aura Sphere, Flash Cannon, Dark Pulse, Agility
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Mankey]: ../../pokemon_changes/056/
 [Primeape]: ../../pokemon_changes/057/
 [Poliwrath]: ../../pokemon_changes/062/

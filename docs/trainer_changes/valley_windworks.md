@@ -18,6 +18,12 @@ Commander Mars<br>![][mars]     | Item                              | Nature | A
 ![][193]<br>[Yanma]<br>Lv. 18   | None                              | Timid  | Speed Boost | Silver Wind, Air Cutter, Detect, Sonic Boom
 ![][432]<br>[Purugly]<br>Lv. 19 | ![][sitrus-berry]<br>Sitrus Berry | Jolly  | Thick Fat   | Fake Out, Hypnosis, Facade, Feint Attack
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Metapod]: ../../pokemon_changes/011/
 [Kakuna]: ../../pokemon_changes/014/
 [Zubat]: ../../pokemon_changes/041/

@@ -34,6 +34,12 @@ Commander Saturn<br>![][saturn]   | Item                              | Nature |
 ![][467]<br>[Magmortar]<br>Lv. 56 | ![][choice-specs]<br>Choice Specs | ?      | Flame Body   | Fire Blast, Thunderbolt, Aura Sphere, Psychic
 ![][454]<br>[Toxicroak]<br>Lv. 57 | ![][focus-sash]<br>Focus Sash     | ?      | Dry Skin     | Cross Chop, Gunk Shot, Ice Punch, Fake Out
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Arbok]: ../../pokemon_changes/024/
 [Golbat]: ../../pokemon_changes/042/
 [Parasect]: ../../pokemon_changes/047/

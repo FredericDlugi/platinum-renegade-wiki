@@ -19,6 +19,12 @@ Commander Saturn<br>![][saturn]   | Item                                | Nature
 ![][112]<br>[Rhydon]<br>Lv. 52    | ![][muscle-band]<br>Muscle Band     | ?      | Rock Head    | Stone Edge, Earthquake, Hammer Arm, Megahorn
 ![][454]<br>[Toxicroak]<br>Lv. 53 | ![][life-orb]<br>Life Orb           | ?      | Dry Skin     | Gunk Shot, Cross Chop, Fake Out, Sucker Punch
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Alakazam]: ../../pokemon_changes/065/
 [Rhydon]: ../../pokemon_changes/112/
 [Octillery]: ../../pokemon_changes/224/

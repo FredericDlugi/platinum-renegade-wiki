@@ -37,6 +37,12 @@ PKMN Trainer Buck<br>![][buck]   | Item                              | Nature | 
 ![][091]<br>[Cloyster]<br>Lv. 77 | ![][expert-belt]<br>Expert Belt   | ?      | Skill Link    | Icicle Spear, Hydro Pump, Spikes, Toxic Spikes
 ![][344]<br>[Claydol]<br>Lv. 78  | ![][leftovers]<br>Leftovers       | ?      | Levitate      | Earth Power, Psychic, Ice Beam, Calm Mind
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Nidoqueen]: ../../pokemon_changes/031/
 [Vileplume]: ../../pokemon_changes/045/
 [Persian]: ../../pokemon_changes/053/

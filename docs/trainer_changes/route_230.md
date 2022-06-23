@@ -30,6 +30,12 @@ Ace Trainer Luna<br>![][ace_f_2]   | Item                            | Nature | 
 ![][303]<br>[Mawile]<br>Lv. 76     | ![][focus-sash]<br>Focus Sash   | ?      | Huge Power (!) | Play Rough, Iron Head, Sucker Punch, Swords Dance
 ![][282]<br>[Gardevoir]<br>Lv. 77  | ![][life-orb]<br>Life Orb       | ?      | Synchronize    | Moonblast, Psychic, Thunderbolt, Aura Sphere
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Clefable]: ../../pokemon_changes/036/
 [Wigglytuff]: ../../pokemon_changes/040/
 [Krabby]: ../../pokemon_changes/098/

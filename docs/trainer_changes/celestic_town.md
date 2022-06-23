@@ -24,6 +24,12 @@ Ace Trainer Grayson<br>![][ace_m] | Item | Nature | Ability | Moves
 ---                               | ---  | ---    | ---     | ---
 ![][445]<br>[Garchomp]<br>Lv. 85  | None | ?      | ?       | Outrage, Earthquake, -, -
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Beedrill]: ../../pokemon_changes/015/
 [Golbat]: ../../pokemon_changes/042/
 [Crobat]: ../../pokemon_changes/169/

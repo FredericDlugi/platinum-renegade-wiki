@@ -13,6 +13,12 @@ Black Belt Randy<br>![][blackbelt] | Item | Nature | Ability | Moves
 ---                                | ---  | ---    | ---     | ---
 ![][475]<br>[Gallade]<br>Lv. 85    | None | ?      | ?       | Zen Headbut, Close Combat, Thunder Wave, Confuse Ray
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Golbat]: ../../pokemon_changes/042/
 [Venomoth]: ../../pokemon_changes/049/
 [Weezing]: ../../pokemon_changes/110/

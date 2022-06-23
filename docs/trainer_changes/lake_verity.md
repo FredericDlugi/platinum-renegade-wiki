@@ -20,6 +20,12 @@ Commander Mars<br>![][mars]        | Item                                | Natur
 ![][115]<br>[Kangaskhan]<br>Lv. 52 | ![][muscle-band]<br>Muscle Band     | ?      | Scrappy     | Double-Edge, Hammer Arm, Crunch, Fake Out
 ![][432]<br>[Purugly]<br>Lv. 53    | ![][sitrus-berry]<br>Sitrus Berry   | ?      | Thick Fat   | Body Slam, Play Rough, Hypnosis, Fake Out
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Butterfree]: ../../pokemon_changes/012/
 [Beedrill]: ../../pokemon_changes/015/
 [Nidorina]: ../../pokemon_changes/030/

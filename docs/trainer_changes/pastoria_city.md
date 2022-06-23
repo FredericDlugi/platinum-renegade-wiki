@@ -28,6 +28,12 @@ Scientist Donnie<br>![][scientist] | Item | Nature | Ability | Moves
 ---                                | ---  | ---    | ---     | ---
 ![][034]<br>[Nidoking]<br>Lv. 85   | None | ?      | ?       | Earthquake, Fire Blast, Thunderbolt, Amnesia
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Nidoking]: ../../pokemon_changes/034/
 [Arcanine]: ../../pokemon_changes/059/
 [Snorlax]: ../../pokemon_changes/143/

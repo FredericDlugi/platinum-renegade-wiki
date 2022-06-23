@@ -52,6 +52,12 @@ Hiker ???<br>![][hiker]           | Item | Nature | Ability | Moves
 ---                               | ---  | ---    | ---     | ---
 ![][464]<br>[Rhyperior]<br>Lv. 85 | None | ?      | ?       | Earthquake, Stone Edge, Megahorn, Hammer Arm
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Charmander]: ../../pokemon_changes/004/
 [Sandslash]: ../../pokemon_changes/028/
 [Clefable]: ../../pokemon_changes/036/

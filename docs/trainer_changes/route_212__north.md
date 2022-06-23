@@ -54,6 +54,12 @@ Gentleman Backlot<br>![][gentleman] | Item                              | Nature
 ![][026]<br>[Raichu]<br>Lv. 33      | ![][wise-glasses]<br>Wise Glasses | ?      | Static      | Fake Out, Thunderbolt, Grass Knot, Teeter Dance
 ![][196]<br>[Espeon]<br>Lv. 33      | ![][sitrus-berry]<br>Sitrus Berry | ?      | Synchronize | Psychic, Power Gem, Dazzling Gleam, Protect
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Butterfree]: ../../pokemon_changes/012/
 [Beedrill]: ../../pokemon_changes/015/
 [Arbok]: ../../pokemon_changes/024/

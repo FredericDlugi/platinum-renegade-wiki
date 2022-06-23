@@ -34,6 +34,12 @@ Ace Trainer Shade<br>![][ace_m_2] | Item                              | Nature |
 ![][442]<br>[Spiritomb]<br>Lv. 76 | ![][leftovers]<br>Leftovers       | ?      | Pressure       | Dark Pulse, Psychic, Hypnosis, Double Team
 ![][248]<br>[Tyranitar]<br>Lv. 77 | ![][chople-berry]<br>Chople Berry | ?      | Sand Stream    | Crunch, Stone Edge, Iron Tail, Fire Punch
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Sandslash]: ../../pokemon_changes/028/
 [Primeape]: ../../pokemon_changes/057/
 [Machamp]: ../../pokemon_changes/068/

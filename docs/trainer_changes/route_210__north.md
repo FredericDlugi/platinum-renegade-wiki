@@ -63,6 +63,12 @@ PKMN Trainer Lucas<br>![][lucas]   | Item                              | Nature 
 ![][392]<br>[Infernape]<br>Lv. 45  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist    | Fire Blast, Close Combat, Thunder Punch, Rock Slide     (!)
 ![][395]<br>[Empoleon]<br>Lv. 45   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent      | Surf, Flash Cannon, Grass Knot, Featherdance            (!)
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Pidgeot]: ../../pokemon_changes/018/
 [Clefable]: ../../pokemon_changes/036/
 [Ninetales]: ../../pokemon_changes/038/

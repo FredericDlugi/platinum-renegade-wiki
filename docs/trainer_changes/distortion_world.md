@@ -19,6 +19,12 @@ Galactic Boss Cyrus<br>![][cyrus] | Item                              | Nature  
 ![][462]<br>[Magnezone]<br>Lv. 59 | ![][wise-glasses]<br>Wise Glasses | Modest  | Magnet Pull    | Thunderbolt, Flash Cannon, Signal Beam, Mirror Coat
 ![][461]<br>[Weavile]<br>Lv. 60   | ![][focus-sash]<br>Focus Sash     | Jolly   | Technician (!) | Feint Attack, Icicle Crash, Aerial Ace, Swords Dance
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Gyarados]: ../../pokemon_changes/130/
 [Crobat]: ../../pokemon_changes/169/
 [Houndoom]: ../../pokemon_changes/229/

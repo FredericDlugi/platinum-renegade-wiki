@@ -16,6 +16,12 @@ Leader Gardenia<br>![][gardenia]  | Item                              | Nature  
 ![][286]<br>[Breloom]<br>Lv. 25   | ![][muscle-band]<br>Muscle Band   | Naughty | Technician  | Bullet Seed, Mach Punch, Thunder Punch, Spore
 ![][407]<br>[Roserade]<br>Lv. 26  | ![][sitrus-berry]<br>Sitrus Berry | Timid   | Technician  | Magical Leaf, Sludge, Dazzling Gleam, Extrasensory
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Ivysaur]: ../../pokemon_changes/002/
 [Gloom]: ../../pokemon_changes/044/
 [Weepinbell]: ../../pokemon_changes/070/

@@ -12,6 +12,12 @@ Hiker Dexter<br>![][hiker]       | Item | Nature | Ability      | Moves
 ---                              | ---  | ---    | ---          | ---
 ![][195]<br>[Quagsire]<br>Lv. 85 | None | ?      | Water Absorb | Earthquake, Aqua Tail, Ice Punch, Recover
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Diglett]: ../../pokemon_changes/050/
 [Golem]: ../../pokemon_changes/076/
 [Wooper]: ../../pokemon_changes/194/

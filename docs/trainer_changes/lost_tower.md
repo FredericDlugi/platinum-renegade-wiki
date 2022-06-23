@@ -19,6 +19,12 @@ Psychic ???<br>![][psychic_m]  | Item | Nature | Ability | Moves
 ---                            | ---  | ---    | ---     | ---
 ![][094]<br>[Gengar]<br>Lv. 85 | None | ?      | ?       | Shadow Ball, Hypnosis, Luster Purge, -
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Clefairy]: ../../pokemon_changes/035/
 [Ponyta]: ../../pokemon_changes/077/
 [Gengar]: ../../pokemon_changes/094/

@@ -36,6 +36,12 @@ Ace Trainer Heather<br>![][ace_f_2] | Item                              | Nature
 ![][357]<br>[Tropius]<br>Lv. 76     | ![][leftovers]<br>Leftovers       | ?      | Chlorophyll      | Hurricane, Energy Ball, Dragon Pulse, Roost
 ![][149]<br>[Dragonite]<br>Lv. 77   | ![][white-herb]<br>White Herb     | ?      | Marvel Scale (!) | Hurricane, Draco Meteor, Thunder, Ice Beam
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Butterfree]: ../../pokemon_changes/012/
 [Pidgeot]: ../../pokemon_changes/018/
 [Arbok]: ../../pokemon_changes/024/

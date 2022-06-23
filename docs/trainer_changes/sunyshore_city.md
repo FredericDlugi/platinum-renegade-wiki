@@ -24,6 +24,12 @@ Guitarist ???<br>![][guitarist]    | Item | Nature | Ability | Moves
 ---                                | ---  | ---    | ---     | ---
 ![][466]<br>[Electivire]<br>Lv. 85 | None | ?      | ?       | Earthquake, Close Combat, Ice Punch
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Zapdos]: ../../pokemon_changes/145/
 [Blaziken]: ../../pokemon_changes/257/
 [Ludicolo]: ../../pokemon_changes/272/

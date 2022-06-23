@@ -19,6 +19,13 @@ Leader Candice<br>![][candice]    | Item                                | Nature
 ![][473]<br>[Mamoswine]<br>Lv. 55 | ![][passho-berry]<br>Passho Berry   | Naive   | Thick Fat      | Earthquake, Avalanche, Stone Edge, Ice Shard
 ![][478]<br>[Froslass]<br>Lv. 56  | ![][life-orb]<br>Life Orb           | Modest  | Levitate (!)   | Blizzard, Shadow Ball, Thunderbolt, Attract
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
+
 [Seel]: ../../pokemon_changes/086/
 [Dewgong]: ../../pokemon_changes/087/
 [Cloyster]: ../../pokemon_changes/091/

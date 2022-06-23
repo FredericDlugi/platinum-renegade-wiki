@@ -15,6 +15,12 @@ PKMN Trainer Steven<br>![][steven] | Item                              | Nature 
 ![][348]<br>[Armaldo]<br>Lv. 88    | ![][passho-berry]<br>Passho Berry | ?      | Battle Armor | Stone Edge, X-Scissor, Swords Dance, Aqua Jet
 ![][376]<br>[Metagross]<br>Lv. 89  | ![][life-orb]<br>Life Orb         | ?      | Iron Fist    | Meteor Mash, Zen Headbutt, Earthquake, Ice Punch
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Aerodactyl]: ../../pokemon_changes/142/
 [Skarmory]: ../../pokemon_changes/227/
 [Treecko]: ../../pokemon_changes/252/

@@ -21,6 +21,12 @@ Leader Volkner<br>![][volkner]     | Item                              | Nature 
 ![][405]<br>[Luxray]<br>Lv. 61     | ![][choice-band]<br>Choice Band   | Naughty | Intimidate  | Wild Charge, Crunch, Ice Fang, Fire Fang
 ![][466]<br>[Electivire]<br>Lv. 62 | ![][life-orb]<br>Life Orb         | Jolly   | Motor Drive | Wild Charge, Close Combat, Ice Punch, Earthquake
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Pikachu]: ../../pokemon_changes/025/
 [Raichu]: ../../pokemon_changes/026/
 [Electrode]: ../../pokemon_changes/101/

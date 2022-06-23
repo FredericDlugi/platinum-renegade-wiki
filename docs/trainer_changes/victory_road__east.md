@@ -27,6 +27,12 @@ PKMN Trainer Marley<br>![][marley] | Item                                | Natur
 ![][461]<br>[Weavile]<br>Lv. 65    | ![][life-orb]<br>Life Orb           | ?      | Technician  | Crunch, Icicle Crash, Aerial Ace, Low Kick
 ![][059]<br>[Arcanine]<br>Lv. 66   | ![][sitrus-berry]<br>Sitrus Berry   | ?      | Intimidate  | Flare Blitz, Close Combat, Crunch, Extreme Speed
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Beedrill]: ../../pokemon_changes/015/
 [Nidoqueen]: ../../pokemon_changes/031/
 [Ninetales]: ../../pokemon_changes/038/

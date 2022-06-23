@@ -21,6 +21,13 @@ PKMN Trainer Mira<br>![][mira]   | Item                              | Nature | 
 ![][233]<br>[Porygon2]<br>Lv. 27 | ![][expert-belt]<br>Expert Belt   | Calm   | Trace        | Tri Attack, Charge Beam, Signal Beam, Recover
 ![][064]<br>[Kadabra]<br>Lv. 28  | ![][life-orb]<br>Life Orb         | Modest | Magic Guard  | Psybeam, Grass Knot, Dazzling Gleam, Recover
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
+
 [Raticate]: ../../pokemon_changes/020/
 [Nidorina]: ../../pokemon_changes/030/
 [Nidorino]: ../../pokemon_changes/033/

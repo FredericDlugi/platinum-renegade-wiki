@@ -21,6 +21,12 @@ Ace Trainer Gene<br>![][ace_m_2]  | Item                              | Nature |
 ![][474]<br>[Porygon-Z]<br>Lv. 76 | ![][life-orb]<br>Life Orb         | ?      | Adaptability | Hyper Beam, Thunderbolt, Ice Beam, Psychic
 ![][143]<br>[Snorlax]<br>Lv. 77   | ![][leftovers]<br>Leftovers       | ?      | Thick Fat    | Body Slam, Earthquake, Curse, Slack Off
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Butterfree]: ../../pokemon_changes/012/
 [Raichu]: ../../pokemon_changes/026/
 [Vileplume]: ../../pokemon_changes/045/

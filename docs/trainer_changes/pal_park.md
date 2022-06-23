@@ -13,6 +13,12 @@ Castle Valet Darach<br>![][darach] | Item                              | Nature 
 ![][398]<br>[Staraptor]<br>Lv. 48  | ![][kings-rock]<br>King's Rock    | ?      | Reckless      | Return, Brave Bird, Close Combat, Roost
 ![][244]<br>[Entei]<br>Lv. 48      | ![][shuca-berry]<br>Shuca Berry   | ?      | Pressure      | Sacred Fire, Stone Edge, Extreme Speed, Iron Head
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Alakazam]: ../../pokemon_changes/065/
 [Entei]: ../../pokemon_changes/244/
 [Metagross]: ../../pokemon_changes/376/

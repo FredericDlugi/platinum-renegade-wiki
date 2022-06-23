@@ -23,6 +23,12 @@ PKMN Trainer Cheryl<br>![][cheryl] | Item                              | Nature 
 ![][320]<br>[Wailmer]<br>Lv. 19    | None                              | Relaxed | Water Veil   | Water Pulse, Rock Tomb, Mist, Rollout
 ![][113]<br>[Chansey]<br>Lv. 20    | ![][sitrus-berry]<br>Sitrus Berry | Quiet   | Serene Grace | Hyper Voice, Soft-Boiled, Ice Beam, Thunderbolt
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Beedrill]: ../../pokemon_changes/015/
 [Paras]: ../../pokemon_changes/046/
 [Venonat]: ../../pokemon_changes/048/

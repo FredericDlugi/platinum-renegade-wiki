@@ -28,6 +28,12 @@ Ace Trainer Edmund<br>![][ace_m] | Item | Nature | Ability | Moves
 ---                              | ---  | ---    | ---     | ---
 ![][219]<br>[Magcargo]<br>Lv. 85 | None | ?      | ?       | Power Gem, Earth Power, Iron Defence, -
 
+--8<-- "includes/abilities.md"
+
+--8<-- "includes/held_items.md"
+
+--8<-- "includes/natures.md"
+
 [Fearow]: ../../pokemon_changes/022/
 [Dewgong]: ../../pokemon_changes/087/
 [Hitmonlee]: ../../pokemon_changes/106/
