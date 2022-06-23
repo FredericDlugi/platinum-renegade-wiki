@@ -1768,3 +1768,99 @@
 [physical]: ./img/types/physical.png
 [special]: ./img/types/special.png
 [status]: ./img/types/status.png
+[Acuity Lakefront]: ./wild_pokemon/acuity_lakefront/
+[Canalave City]: ./wild_pokemon/canalave_city/
+[Celestic Town]: ./wild_pokemon/celestic_town/
+[Eterna City]: ./wild_pokemon/eterna_city/
+[Eterna Forest]: ./wild_pokemon/eterna_forest/
+[Eterna Forest (Outside)]: ./wild_pokemon/eterna_forest_(outside)/
+[Floaroma Meadow]: ./wild_pokemon/floaroma_meadow/
+[Fuego Ironworks]: ./wild_pokemon/fuego_ironworks/
+[General Changes]: ./wild_pokemon/general_changes/
+[Great Marsh ~ Area 1/2]: ./wild_pokemon/great_marsh__area_1_2/
+[Great Marsh ~ Area 3/4]: ./wild_pokemon/great_marsh__area_3_4/
+[Great Marsh ~ Area 5/6]: ./wild_pokemon/great_marsh__area_5_6/
+[Iron Island ~ Inside ~ 1F, B1F]: ./wild_pokemon/iron_island__inside__1f,_b1f/
+[Iron Island ~ Inside ~ B2F, B3F]: ./wild_pokemon/iron_island__inside__b2f,_b3f/
+[Iron Island ~ Outside]: ./wild_pokemon/iron_island__outside/
+[Lake Acuity]: ./wild_pokemon/lake_acuity/
+[Lake Valor]: ./wild_pokemon/lake_valor/
+[Lake Verity]: ./wild_pokemon/lake_verity/
+[Lost Tower]: ./wild_pokemon/lost_tower/
+[Maniac Tunnel]: ./wild_pokemon/maniac_tunnel/
+[Mt. Coronet ~ 2F]: ./wild_pokemon/mt_coronet__2f/
+[Mt. Coronet ~ 3F]: ./wild_pokemon/mt_coronet__3f/
+[Mt. Coronet ~ 4F]: ./wild_pokemon/mt_coronet__4f/
+[Mt. Coronet ~ 5F]: ./wild_pokemon/mt_coronet__5f/
+[Mt. Coronet ~ 6F]: ./wild_pokemon/mt_coronet__6f/
+[Mt. Coronet ~ 7F]: ./wild_pokemon/mt_coronet__7f/
+[Mt. Coronet ~ B1F]: ./wild_pokemon/mt_coronet__b1f/
+[Mt. Coronet ~ Route 207 Entrance]: ./wild_pokemon/mt_coronet__route_207_entrance/
+[Mt. Coronet ~ Route 211 Entrance]: ./wild_pokemon/mt_coronet__route_211_entrance/
+[Mt. Coronet ~ Route 216 Entrance]: ./wild_pokemon/mt_coronet__route_216_entrance/
+[Mt. Coronet ~ Snow Area]: ./wild_pokemon/mt_coronet__snow_area/
+[Mt. Coronet ~ Summit]: ./wild_pokemon/mt_coronet__summit/
+[Mt. Coronet ~ Tunnel to Route 211 Entrance]: ./wild_pokemon/mt_coronet__tunnel_to_route_211_entrance/
+[Old Chateau (All Rooms)]: ./wild_pokemon/old_chateau_(all_rooms)/
+[Oreburgh Gate ~ 1F]: ./wild_pokemon/oreburgh_gate__1f/
+[Oreburgh Gate ~ B1F]: ./wild_pokemon/oreburgh_gate__b1f/
+[Oreburgh Mine ~ 1F]: ./wild_pokemon/oreburgh_mine__1f/
+[Oreburgh Mine ~ B1F]: ./wild_pokemon/oreburgh_mine__b1f/
+[Pastoria City]: ./wild_pokemon/pastoria_city/
+[Pokémon League]: ./wild_pokemon/pokemon_league/
+[Ravaged Path]: ./wild_pokemon/ravaged_path/
+[Resort Area]: ./wild_pokemon/resort_area/
+[Route 201]: ./wild_pokemon/route_201/
+[Route 202]: ./wild_pokemon/route_202/
+[Route 203]: ./wild_pokemon/route_203/
+[Route 204 ~ North]: ./wild_pokemon/route_204__north/
+[Route 204 ~ South]: ./wild_pokemon/route_204__south/
+[Route 205 ~ North]: ./wild_pokemon/route_205__north/
+[Route 205 ~ South]: ./wild_pokemon/route_205__south/
+[Route 206]: ./wild_pokemon/route_206/
+[Route 207]: ./wild_pokemon/route_207/
+[Route 208]: ./wild_pokemon/route_208/
+[Route 209]: ./wild_pokemon/route_209/
+[Route 210 ~ North]: ./wild_pokemon/route_210__north/
+[Route 210 ~ South]: ./wild_pokemon/route_210__south/
+[Route 211 ~ East]: ./wild_pokemon/route_211__east/
+[Route 211 ~ West]: ./wild_pokemon/route_211__west/
+[Route 212 ~ North]: ./wild_pokemon/route_212__north/
+[Route 212 ~ South]: ./wild_pokemon/route_212__south/
+[Route 213]: ./wild_pokemon/route_213/
+[Route 214]: ./wild_pokemon/route_214/
+[Route 215]: ./wild_pokemon/route_215/
+[Route 216]: ./wild_pokemon/route_216/
+[Route 217]: ./wild_pokemon/route_217/
+[Route 218]: ./wild_pokemon/route_218/
+[Route 219]: ./wild_pokemon/route_219/
+[Route 220]: ./wild_pokemon/route_220/
+[Route 221]: ./wild_pokemon/route_221/
+[Route 222]: ./wild_pokemon/route_222/
+[Route 223]: ./wild_pokemon/route_223/
+[Route 224]: ./wild_pokemon/route_224/
+[Route 225]: ./wild_pokemon/route_225/
+[Route 226]: ./wild_pokemon/route_226/
+[Route 227]: ./wild_pokemon/route_227/
+[Route 228]: ./wild_pokemon/route_228/
+[Route 229]: ./wild_pokemon/route_229/
+[Route 230]: ./wild_pokemon/route_230/
+[Sendoff Spring]: ./wild_pokemon/sendoff_spring/
+[Snowpoint Temple]: ./wild_pokemon/snowpoint_temple/
+[Solaceon Ruins]: ./wild_pokemon/solaceon_ruins/
+[Stark Mountain (Entrance)]: ./wild_pokemon/stark_mountain_(entrance)/
+[Stark Mountain (Interior)]: ./wild_pokemon/stark_mountain_(interior)/
+[Stark Mountain (Outside)]: ./wild_pokemon/stark_mountain_(outside)/
+[Sunyshore City]: ./wild_pokemon/sunyshore_city/
+[Trophy Garden]: ./wild_pokemon/trophy_garden/
+[Turnback Cave]: ./wild_pokemon/turnback_cave/
+[Twinleaf Town]: ./wild_pokemon/twinleaf_town/
+[Valley Windworks]: ./wild_pokemon/valley_windworks/
+[Valor Lakefront]: ./wild_pokemon/valor_lakefront/
+[Victory Road ~ 1F]: ./wild_pokemon/victory_road__1f/
+[Victory Road ~ 1F Back 1]: ./wild_pokemon/victory_road__1f_back_1/
+[Victory Road ~ 1F Back 2]: ./wild_pokemon/victory_road__1f_back_2/
+[Victory Road ~ 1F Back 3]: ./wild_pokemon/victory_road__1f_back_3/
+[Victory Road ~ 2F]: ./wild_pokemon/victory_road__2f/
+[Victory Road ~ B1F]: ./wild_pokemon/victory_road__b1f/
+[Wayward Cave (Both)]: ./wild_pokemon/wayward_cave_(both)/

@@ -5,6 +5,7 @@ import string
 from create_ability_table import get_ability_table
 from create_stat_table import get_stat_table
 from create_level_up_table import get_moves, update_level_up_table
+from create_encounter_table import extract_all_wild_pokemons, create_encounter_table
 
 base_path = "./docs/pokemon_changes"
 
@@ -19,6 +20,7 @@ class PokemonChange:
     base_stats: list
     moves : list
     level_up : list
+    encounters : list
 
     def title_repr(self):
         return \
@@ -60,6 +62,8 @@ f"""## Base Stats
 """
 
     def moves_repr(self):
+        if self.moves is []:
+            return ""
         return \
 f"""## Moves
 
@@ -72,12 +76,21 @@ f"""## Level Up
 
 {"".join(self.level_up)}
 """
+    def encounters_repr(self):
+        if self.encounters is []:
+            return ""
+        return \
+f"""## Wild Encounters
+
+{"".join(self.encounters)}
+"""
+
 
     def __repr__(self):
         return self.title_repr() + self.notes_repr() + self.type_repr() + self.defenses_repr() + self.ability_repr() + self.base_stats_repr() + self.moves_repr() + self.level_up_repr()
 
 
-def extract_change(id):
+def extract_change(id) -> PokemonChange:
     assert id != 386, "Deoxys not supported"
     assert id != 413, "Wormadam not supported"
     assert id != 479, "Rotom not supported"
@@ -94,11 +107,12 @@ def extract_change(id):
         base_stats = extract_base_stats(file_content)
         moves = extract_moves(file_content)
         level_up = extract_level_up(file_content)
-        pc = PokemonChange(id, name, notes, types, defenses, ability, base_stats, moves, level_up)
+        encounters = extract_encounters(file_content)
+        pc = PokemonChange(id, name, notes, types, defenses, ability, base_stats, moves, level_up, encounters)
 
     return pc
 
-def update_change(pc):
+def update_change(pc: PokemonChange):
     with open(join(base_path, f"{pc.id:03}.md"), "r", encoding='utf-8') as f:
         file_content = f.readlines()
 
@@ -135,6 +149,14 @@ def update_change(pc):
     else:
         i, k = get_section_lines("## Base Stats", file_content)
         file_content.insert(k, pc.level_up_repr())
+
+    i, k = get_section_lines("## Wild Encounters", file_content)
+    if i != k:
+        del file_content[i:k]
+        file_content.insert(i, pc.encounters_repr())
+    else:
+        i, k = get_section_lines("## Level Up", file_content)
+        file_content.insert(k, pc.encounters_repr())
 
     with open(join(base_path, f"{pc.id:03}.md"), "w", encoding="UTF-8") as f:
         f.writelines(file_content)
@@ -192,15 +214,20 @@ def extract_level_up(file_content):
     start, end = get_section_lines("## Level Up", file_content)
     return remove_empty_lines(file_content[start + 1:end])
 
+def extract_encounters(file_content):
+    start, end = get_section_lines("## Wild Encounters", file_content)
+    return remove_empty_lines(file_content[start + 1:end])
+
+
 if __name__ == "__main__":
-    moves = get_moves()
+    pokemon_locations = extract_all_wild_pokemons()
 
-    for i in range(1, 494):
+    for i in pokemon_locations.keys():
         try:
-            pc = extract_change(i)
-
-            pc.level_up = update_level_up_table(pc.level_up, moves)
+            pc = extract_change(int(i))
+            pc.encounters = create_encounter_table(i, pokemon_locations)
 
             update_change(pc)
         except:
-            pass
+            print(i)
+            print("".join(create_encounter_table(i, pokemon_locations)))
