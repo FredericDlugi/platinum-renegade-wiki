@@ -4,73 +4,73 @@
 
 Evolution-Item in this context means the item can be used exactly like an evolution stone (e.g. a Fire Stone). See [here](item_changes.md#Modified_Items) to see which Items are effected.
 
-Base-Pokémon              | Evolution-Item                          | Evolved-Pokemon           | 
----                       | ---                                     | ---                       | 
-![][061]<br> [Poliwhirl]  | ![][kings-rock]<br>      King's Rock    | ![][186]<br> [Politoed]   | 
-![][079]<br> [Slowpoke]   | ![][kings-rock]<br>      King's Rock    | ![][199]<br> [Slowking]   | 
-![][095]<br> [Onix]       | ![][metal-coat]<br>      Metal Coat     | ![][208]<br> [Steelix]    | 
-![][112]<br> [Rhydon]     | ![][protector]<br>       Protector      | ![][464]<br> [Rhyperior]  | 
-![][117]<br> [Seadra]     | ![][dragon-scale]<br>    Dragon Scale   | ![][230]<br> [Kingdra]    | 
-![][123]<br> [Scyther]    | ![][metal-coat]<br>      Metal Coat     | ![][212]<br> [Scizor]     | 
-![][125]<br> [Electabuzz] | ![][electirizer]<br>     Electirizer    | ![][466]<br> [Electivire] | 
-![][126]<br> [Magmar]     | ![][magmarizer]<br>      Magmarizer     | ![][467]<br> [Magmortar]  | 
-![][137]<br> [Porygon]    | ![][up-grade]<br>        Up-Grade       | ![][233]<br> [Porygon2]   | 
-![][233]<br> [Porygon2]   | ![][dubious-disc]<br>    Dubious Disc   | ![][474]<br> [Porygon-Z]  | 
-![][349]<br> [Feebas]     | ![][prism-scale]<br>     Prism Scale    | ![][350]<br> [Milotic]    | 
-![][356]<br> [Dusclops]   | ![][reaper-cloth]<br>    Reaper Cloth   | ![][477]<br> [Dusknoir]   | 
-![][366]<br> [Clamperl]   | ![][deep-sea-scale]<br>  Deep Sea Tooth | ![][367]<br> [Huntail]    | 
-![][366]<br> [Clamperl]   | ![][deep-sea-tooth]<br>  Deep Sea Scale | ![][368]<br> [Gorebyss]   | 
+Base-Pokémon             | Evolution-Item                        | Evolved-Pokemon
+---                      | ---                                   | ---
+![][061]<br>[Poliwhirl]  | ![][kings-rock]<br>King's Rock        | ![][186]<br>[Politoed]
+![][079]<br>[Slowpoke]   | ![][kings-rock]<br>King's Rock        | ![][199]<br>[Slowking]
+![][095]<br>[Onix]       | ![][metal-coat]<br>Metal Coat         | ![][208]<br>[Steelix]
+![][112]<br>[Rhydon]     | ![][protector]<br>Protector           | ![][464]<br>[Rhyperior]
+![][117]<br>[Seadra]     | ![][dragon-scale]<br>Dragon Scale     | ![][230]<br>[Kingdra]
+![][123]<br>[Scyther]    | ![][metal-coat]<br>Metal Coat         | ![][212]<br>[Scizor]
+![][125]<br>[Electabuzz] | ![][electirizer]<br>Electirizer       | ![][466]<br>[Electivire]
+![][126]<br>[Magmar]     | ![][magmarizer]<br>Magmarizer         | ![][467]<br>[Magmortar]
+![][137]<br>[Porygon]    | ![][up-grade]<br>Up-Grade             | ![][233]<br>[Porygon2]
+![][233]<br>[Porygon2]   | ![][dubious-disc]<br>Dubious Disc     | ![][474]<br>[Porygon-Z]
+![][349]<br>[Feebas]     | ![][prism-scale]<br>Prism Scale       | ![][350]<br>[Milotic]
+![][356]<br>[Dusclops]   | ![][reaper-cloth]<br>Reaper Cloth     | ![][477]<br>[Dusknoir]
+![][366]<br>[Clamperl]   | ![][deep-sea-scale]<br>Deep Sea Tooth | ![][367]<br>[Huntail]
+![][366]<br>[Clamperl]   | ![][deep-sea-tooth]<br>Deep Sea Scale | ![][368]<br>[Gorebyss]
 
 
 ## Level Changes
 
 Some Pokemon now evolve at a different level.
 
-Base-Pokémon            | Evolution-Level | Evolved-Pokemon          | 
----                     | ---             | ---                      | 
-![][077]<br> [Ponyta]   | 35              | ![][078]<br> [Rapidash]  | 
-![][079]<br> [Slowpoke] | 33              | ![][080]<br> [Slowbro]   | 
-![][088]<br> [Grimer]   | 35              | ![][089]<br> [Muk]       | 
-![][111]<br> [Rhyhorn]  | 36              | ![][112]<br> [Rhydon]    | 
-![][138]<br> [Omanyte]  | 30              | ![][139]<br> [Omastar]   | 
-![][140]<br> [Kabuto]   | 30              | ![][141]<br> [Kabutops]  | 
-![][218]<br> [Slugma]   | 32              | ![][219]<br> [Magcargo]  | 
-![][304]<br> [Aron]     | 24              | ![][305]<br> [Lairon]    | 
-![][305]<br> [Lairon]   | 40              | ![][306]<br> [Aggron]    | 
-![][307]<br> [Meditite] | 33              | ![][308]<br> [Medicham]  | 
-![][320]<br> [Wailmer]  | 36              | ![][321]<br> [Wailord]   | 
-![][328]<br> [Trapinch] | 30              | ![][329]<br> [Vibrava]   | 
-![][343]<br> [Baltoy]   | 32              | ![][344]<br> [Claydol]   | 
-![][345]<br> [Lileep]   | 30              | ![][346]<br> [Cradily]   | 
-![][347]<br> [Anorith]  | 30              | ![][348]<br> [Armaldo]   | 
-![][353]<br> [Shuppet]  | 32              | ![][354]<br> [Banette]   | 
-![][355]<br> [Duskull]  | 32              | ![][356]<br> [Dusclops]  | 
-![][361]<br> [Snorunt]  | 32              | ![][362]<br> [Glalie]    | 
-![][363]<br> [Spheal]   | 24              | ![][364]<br> [Sealeo]    | 
-![][364]<br> [Sealeo]   | 40              | ![][365]<br> [Walrein]   | 
-![][431]<br> [Glameow]  | 32              | ![][432]<br> [Purugly]   | 
-![][434]<br> [Stunky]   | 32              | ![][435]<br> [Skuntank]  | 
-![][451]<br> [Skorupi]  | 30              | ![][452]<br> [Drapion]   | 
-![][453]<br> [Croagunk] | 33              | ![][454]<br> [Toxicroak] | 
+Base-Pokémon           | Evolution-Level | Evolved-Pokemon
+---                    | ---             | ---
+![][077]<br>[Ponyta]   | 35              | ![][078]<br>[Rapidash]
+![][079]<br>[Slowpoke] | 33              | ![][080]<br>[Slowbro]
+![][088]<br>[Grimer]   | 35              | ![][089]<br>[Muk]
+![][111]<br>[Rhyhorn]  | 36              | ![][112]<br>[Rhydon]
+![][138]<br>[Omanyte]  | 30              | ![][139]<br>[Omastar]
+![][140]<br>[Kabuto]   | 30              | ![][141]<br>[Kabutops]
+![][218]<br>[Slugma]   | 32              | ![][219]<br>[Magcargo]
+![][304]<br>[Aron]     | 24              | ![][305]<br>[Lairon]
+![][305]<br>[Lairon]   | 40              | ![][306]<br>[Aggron]
+![][307]<br>[Meditite] | 33              | ![][308]<br>[Medicham]
+![][320]<br>[Wailmer]  | 36              | ![][321]<br>[Wailord]
+![][328]<br>[Trapinch] | 30              | ![][329]<br>[Vibrava]
+![][343]<br>[Baltoy]   | 32              | ![][344]<br>[Claydol]
+![][345]<br>[Lileep]   | 30              | ![][346]<br>[Cradily]
+![][347]<br>[Anorith]  | 30              | ![][348]<br>[Armaldo]
+![][353]<br>[Shuppet]  | 32              | ![][354]<br>[Banette]
+![][355]<br>[Duskull]  | 32              | ![][356]<br>[Dusclops]
+![][361]<br>[Snorunt]  | 32              | ![][362]<br>[Glalie]
+![][363]<br>[Spheal]   | 24              | ![][364]<br>[Sealeo]
+![][364]<br>[Sealeo]   | 40              | ![][365]<br>[Walrein]
+![][431]<br>[Glameow]  | 32              | ![][432]<br>[Purugly]
+![][434]<br>[Stunky]   | 32              | ![][435]<br>[Skuntank]
+![][451]<br>[Skorupi]  | 30              | ![][452]<br>[Drapion]
+![][453]<br>[Croagunk] | 33              | ![][454]<br>[Toxicroak]
 
 ## Method Changes
 
 Some Pokémon now evolve through a different method.
 
-Base-Pokémon             | Evolution-Method                  | Evolved-Pokemon         | 
----                      | ---                               | ---                     | 
-![][064]<br> [Kadabra]   | 36                                | ![][065]<br> [Alakazam] | 
-![][067]<br> [Machoke]   | 36                                | ![][068]<br> [Machamp]  | 
-![][075]<br> [Graveler]  | 36                                | ![][076]<br> [Golem]    | 
-![][093]<br> [Haunter]   | 36                                | ![][094]<br> [Gengar]   | 
-![][133]<br> [Eevee]     | ![][sun-stone]  <br> Sun Stone    | ![][196]<br> [Espeon]   | 
-![][133]<br> [Eevee]     | ![][moon-stone] <br> Moon Stone   | ![][197]<br> [Umbreon]  | 
-![][133]<br> [Eevee]     | ![][leaf-stone] <br> Leaf Stone   | ![][470]<br> [Leafeon]  | 
-![][133]<br> [Eevee]     | -               <br> Ice Stone    | ![][471]<br> [Glaceon]  | 
-![][349]<br> [Feebas]    | ![][prism-scale]<br> Prism Scale  | ![][350]<br> [Milotic]  | 
-![][406]<br> [Budew]     | when happy regardless of the time | ![][315]<br> [Roselia]  | 
-![][433]<br> [Chingling] | when happy regardless of the time | ![][358]<br> [Chimecho] | 
-![][447]<br> [Riolu]     | when happy regardless of the time | ![][448]<br> [Lucario]  | 
+Base-Pokémon            | Evolution-Method                  | Evolved-Pokemon
+---                     | ---                               | ---
+![][064]<br>[Kadabra]   | 36                                | ![][065]<br>[Alakazam]
+![][067]<br>[Machoke]   | 36                                | ![][068]<br>[Machamp]
+![][075]<br>[Graveler]  | 36                                | ![][076]<br>[Golem]
+![][093]<br>[Haunter]   | 36                                | ![][094]<br>[Gengar]
+![][133]<br>[Eevee]     | ![][sun-stone]<br>Sun Stone       | ![][196]<br>[Espeon]
+![][133]<br>[Eevee]     | ![][moon-stone]<br>Moon Stone     | ![][197]<br>[Umbreon]
+![][133]<br>[Eevee]     | ![][leaf-stone]<br>Leaf Stone     | ![][470]<br>[Leafeon]
+![][133]<br>[Eevee]     | -<br>Ice Stone                    | ![][471]<br>[Glaceon]
+![][349]<br>[Feebas]    | ![][prism-scale]<br>Prism Scale   | ![][350]<br>[Milotic]
+![][406]<br>[Budew]     | when happy regardless of the time | ![][315]<br>[Roselia]
+![][433]<br>[Chingling] | when happy regardless of the time | ![][358]<br>[Chimecho]
+![][447]<br>[Riolu]     | when happy regardless of the time | ![][448]<br>[Lucario]
 
 [Poliwhirl]: ../pokemon_changes/061/
 [Kadabra]: ../pokemon_changes/064/

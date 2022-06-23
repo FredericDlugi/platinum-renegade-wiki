@@ -1,9 +1,9 @@
 # Oreburgh Mine
 
-Trainer      | 1                                 | 2                                 | 3                                | 
----          | ---                               | ---                               | ---                              | 
-Worker Mason | ![][304]<br> [Aron]<br> Lv. 12    | ![][231]<br> [Phanpy]<br> Lv. 12  | ![][447]<br> [Riolu]<br> Lv. 12  | 
-Worker Colin | ![][074]<br> [Geodude]<br> Lv. 12 | ![][293]<br> [Whismur]<br> Lv. 12 | ![][066]<br> [Machop]<br> Lv. 12 | 
+Trainer      | 1                               | 2                               | 3
+---          | ---                             | ---                             | ---
+Worker Mason | ![][304]<br>[Aron]<br>Lv. 12    | ![][231]<br>[Phanpy]<br>Lv. 12  | ![][447]<br>[Riolu]<br>Lv. 12
+Worker Colin | ![][074]<br>[Geodude]<br>Lv. 12 | ![][293]<br>[Whismur]<br>Lv. 12 | ![][066]<br>[Machop]<br>Lv. 12
 
 [Machop]: ../../pokemon_changes/066/
 [Geodude]: ../../pokemon_changes/074/

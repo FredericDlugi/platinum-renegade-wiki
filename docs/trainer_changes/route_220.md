@@ -4,15 +4,15 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_220/).
 
 
-Trainer         | 1                                   | 2                                    | 3                                  | 
----             | ---                                 | ---                                  | ---                                | 
-Swimmer Jessica | ![][117]<br> [Seadra]<br> Lv. 43    | ![][370]<br> [Luvdisc]<br> Lv. 43    | ![][119]<br> [Seaking]<br> Lv. 43  | 
-Swimmer Erica   | ![][457]<br> [Lumineon]<br> Lv. 44  | ![][222]<br> [Corsola]<br> Lv. 44    | &nbsp;                             | 
-Swimmer Adrian  | ![][224]<br> [Octillery]<br> Lv. 43 | ![][073]<br> [Tentacruel]<br> Lv. 43 | ![][199]<br> [Slowking]<br> Lv. 43 | 
-Swimmer Vincent | ![][321]<br> [Wailord]<br> Lv. 45   | &nbsp;                               | &nbsp;                             | 
-Swimmer Claire  | ![][121]<br> [Starmie]<br> Lv. 44   | ![][009]<br> [Blastoise]<br> Lv. 44  | &nbsp;                             | 
-Swimmer Erik    | ![][186]<br> [Politoed]<br> Lv. 44  | ![][171]<br> [Lanturn]<br> Lv. 44    | &nbsp;                             | 
-Swimmer Katelyn | ![][419]<br> [Floatzel]<br> Lv. 43  | ![][308]<br> [Medicham]<br> Lv. 43   | ![][119]<br> [Seaking]<br> Lv. 43  | 
+Trainer         | 1                                 | 2                                  | 3
+---             | ---                               | ---                                | ---
+Swimmer Jessica | ![][117]<br>[Seadra]<br>Lv. 43    | ![][370]<br>[Luvdisc]<br>Lv. 43    | ![][119]<br>[Seaking]<br>Lv. 43
+Swimmer Erica   | ![][457]<br>[Lumineon]<br>Lv. 44  | ![][222]<br>[Corsola]<br>Lv. 44    | &nbsp;
+Swimmer Adrian  | ![][224]<br>[Octillery]<br>Lv. 43 | ![][073]<br>[Tentacruel]<br>Lv. 43 | ![][199]<br>[Slowking]<br>Lv. 43
+Swimmer Vincent | ![][321]<br>[Wailord]<br>Lv. 45   | &nbsp;                             | &nbsp;
+Swimmer Claire  | ![][121]<br>[Starmie]<br>Lv. 44   | ![][009]<br>[Blastoise]<br>Lv. 44  | &nbsp;
+Swimmer Erik    | ![][186]<br>[Politoed]<br>Lv. 44  | ![][171]<br>[Lanturn]<br>Lv. 44    | &nbsp;
+Swimmer Katelyn | ![][419]<br>[Floatzel]<br>Lv. 43  | ![][308]<br>[Medicham]<br>Lv. 43   | ![][119]<br>[Seaking]<br>Lv. 43
 
 [Blastoise]: ../../pokemon_changes/009/
 [Tentacruel]: ../../pokemon_changes/073/

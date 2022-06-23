@@ -3,16 +3,16 @@
 !!! note
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/solaceon_ruins/).
 
-Trainer          | 1                                 | 2                                  | 3                                   | 
----              | ---                               | ---                                | ---                                 | 
-Ruin Maniac Karl | ![][436]<br> [Bronzor]<br> Lv. 31 | ![][075]<br> [Graveler]<br> Lv. 31 | ![][028]<br> [Sandslash]<br> Lv. 31 | 
+Trainer          | 1                               | 2                                | 3
+---              | ---                             | ---                              | ---
+Ruin Maniac Karl | ![][436]<br>[Bronzor]<br>Lv. 31 | ![][075]<br>[Graveler]<br>Lv. 31 | ![][028]<br>[Sandslash]<br>Lv. 31
 
 
 ## Master Trainer
 
-Psychic Frasier<br>![][psychic_m]   | Item | Nature | Ability    | Moves                                                  | 
----                                 | ---  | ---    | ---        | ---                                                    | 
-![][376]<br> [Metagross]<br> Lv. 85 | None | ?      | Clear Body | Meteor Mash, Bullet Punch, Light Screen, Thunder Punch | 
+Psychic Frasier<br>![][psychic_m] | Item | Nature | Ability    | Moves
+---                               | ---  | ---    | ---        | ---
+![][376]<br>[Metagross]<br>Lv. 85 | None | ?      | Clear Body | Meteor Mash, Bullet Punch, Light Screen, Thunder Punch
 
 [Sandslash]: ../../pokemon_changes/028/
 [Graveler]: ../../pokemon_changes/075/

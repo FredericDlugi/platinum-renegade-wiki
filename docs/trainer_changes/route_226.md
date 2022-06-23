@@ -4,29 +4,29 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_226/).
 
 
-Trainer                             | 1                                   | 2                                    | 3                                   | 4                                   | 5                                  | 6                                   | 
----                                 | ---                                 | ---                                  | ---                                 | ---                                 | ---                                | ---                                 | 
-Swimmer Lydia                       | ![][184]<br> [Azumarill]<br> Lv. 73 | ![][087]<br> [Dewgong]<br> Lv. 73    | ![][321]<br> [Wailord]<br> Lv. 73   | &nbsp;                              | &nbsp;                             | &nbsp;                              | 
-Ace Trainer Graham                  | ![][236]<br> [Tyrogue]<br> Lv. 74   | ![][107]<br> [Hitmonchan]<br> Lv. 74 | ![][106]<br> [Hitmonlee]<br> Lv. 74 | ![][237]<br> [Hitmontop]<br> Lv. 74 | &nbsp;                             | &nbsp;                              | 
-Bird Keeper Geneva                  | ![][022]<br> [Fearow]<br> Lv. 74    | ![][178]<br> [Xatu]<br> Lv. 74       | ![][277]<br> [Swellow]<br> Lv. 74   | &nbsp;                              | &nbsp;                             | &nbsp;                              | 
-Dragon Tamer Stanley                | ![][230]<br> [Kingdra]<br> Lv. 76   | &nbsp;                               | &nbsp;                              | &nbsp;                              | &nbsp;                             | &nbsp;                              | 
-Swimmer Wade                        | ![][319]<br> [Sharpedo]<br> Lv. 74  | ![][340]<br> [Whiscash]<br> Lv. 74   | &nbsp;                              | &nbsp;                              | &nbsp;                             | &nbsp;                              | 
-Ace Trainer Wyver *<br>![][ace_m_2] | ![][230]<br> [Kingdra]<br> Lv. 76   | ![][330]<br> [Flygon]<br> Lv. 76     | ![][334]<br> [Altaria]<br> Lv. 76   | ![][149]<br> [Dragonite]<br> Lv. 76 | ![][445]<br> [Garchomp]<br> Lv. 76 | ![][373]<br> [Salamence]<br> Lv. 77 | 
+Trainer                             | 1                                 | 2                                  | 3                                 | 4                                 | 5                                | 6
+---                                 | ---                               | ---                                | ---                               | ---                               | ---                              | ---
+Swimmer Lydia                       | ![][184]<br>[Azumarill]<br>Lv. 73 | ![][087]<br>[Dewgong]<br>Lv. 73    | ![][321]<br>[Wailord]<br>Lv. 73   | &nbsp;                            | &nbsp;                           | &nbsp;
+Ace Trainer Graham                  | ![][236]<br>[Tyrogue]<br>Lv. 74   | ![][107]<br>[Hitmonchan]<br>Lv. 74 | ![][106]<br>[Hitmonlee]<br>Lv. 74 | ![][237]<br>[Hitmontop]<br>Lv. 74 | &nbsp;                           | &nbsp;
+Bird Keeper Geneva                  | ![][022]<br>[Fearow]<br>Lv. 74    | ![][178]<br>[Xatu]<br>Lv. 74       | ![][277]<br>[Swellow]<br>Lv. 74   | &nbsp;                            | &nbsp;                           | &nbsp;
+Dragon Tamer Stanley                | ![][230]<br>[Kingdra]<br>Lv. 76   | &nbsp;                             | &nbsp;                            | &nbsp;                            | &nbsp;                           | &nbsp;
+Swimmer Wade                        | ![][319]<br>[Sharpedo]<br>Lv. 74  | ![][340]<br>[Whiscash]<br>Lv. 74   | &nbsp;                            | &nbsp;                            | &nbsp;                           | &nbsp;
+Ace Trainer Wyver *<br>![][ace_m_2] | ![][230]<br>[Kingdra]<br>Lv. 76   | ![][330]<br>[Flygon]<br>Lv. 76     | ![][334]<br>[Altaria]<br>Lv. 76   | ![][149]<br>[Dragonite]<br>Lv. 76 | ![][445]<br>[Garchomp]<br>Lv. 76 | ![][373]<br>[Salamence]<br>Lv. 77
 
-Ace Trainer Wyver<br>![][ace_m_2]   | Item                               | Nature | Ability           | Moves                                           | 
----                                 | ---                                | ---    | ---               | ---                                             | 
-![][230]<br> [Kingdra]<br> Lv. 76   | ![][haban-berry]<br> Haban Berry   | ?      | Swift Swim        | Waterfall, Outrage, Yawn, Dragon Dance          | 
-![][330]<br> [Flygon]<br> Lv. 76    | ![][white-herb]<br> White Herb     | ?      | Compound Eyes (!) | Draco Meteor, Earth Power, Bug Buzz, Fire Blast | 
-![][334]<br> [Altaria]<br> Lv. 76   | ![][leftovers]<br> Leftovers       | ?      | Cloud Nine        | Dragon Claw, Toxic, Rest, Sleep Talk            | 
-![][149]<br> [Dragonite]<br> Lv. 76 | ![][sitrus-berry]<br> Sitrus Berry | ?      | Marvel Scale (!)  | Outrage, Earthquake, Extreme Speed, Iron Tail   | 
-![][445]<br> [Garchomp]<br> Lv. 76  | ![][choice-scarf]<br> Choice Scarf | ?      | Rough Skin        | Outrage, Earthquake, Poison Jab, Fire Fang      | 
-![][373]<br> [Salamence]<br> Lv. 77 | ![][focus-sash]<br> Focus Sash     | ?      | Intimidate        | Outrage, Aerial Ace, Dragon Dance, Earthquake   | 
+Ace Trainer Wyver<br>![][ace_m_2] | Item                              | Nature | Ability           | Moves
+---                               | ---                               | ---    | ---               | ---
+![][230]<br>[Kingdra]<br>Lv. 76   | ![][haban-berry]<br>Haban Berry   | ?      | Swift Swim        | Waterfall, Outrage, Yawn, Dragon Dance
+![][330]<br>[Flygon]<br>Lv. 76    | ![][white-herb]<br>White Herb     | ?      | Compound Eyes (!) | Draco Meteor, Earth Power, Bug Buzz, Fire Blast
+![][334]<br>[Altaria]<br>Lv. 76   | ![][leftovers]<br>Leftovers       | ?      | Cloud Nine        | Dragon Claw, Toxic, Rest, Sleep Talk
+![][149]<br>[Dragonite]<br>Lv. 76 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Marvel Scale (!)  | Outrage, Earthquake, Extreme Speed, Iron Tail
+![][445]<br>[Garchomp]<br>Lv. 76  | ![][choice-scarf]<br>Choice Scarf | ?      | Rough Skin        | Outrage, Earthquake, Poison Jab, Fire Fang
+![][373]<br>[Salamence]<br>Lv. 77 | ![][focus-sash]<br>Focus Sash     | ?      | Intimidate        | Outrage, Aerial Ace, Dragon Dance, Earthquake
 
 ## Master Trainer
 
-Ace Trainer Edmund<br>![][ace_m]   | Item | Nature | Ability | Moves                                   | 
----                                | ---  | ---    | ---     | ---                                     | 
-![][219]<br> [Magcargo]<br> Lv. 85 | None | ?      | ?       | Power Gem, Earth Power, Iron Defence, - | 
+Ace Trainer Edmund<br>![][ace_m] | Item | Nature | Ability | Moves
+---                              | ---  | ---    | ---     | ---
+![][219]<br>[Magcargo]<br>Lv. 85 | None | ?      | ?       | Power Gem, Earth Power, Iron Defence, -
 
 [Fearow]: ../../pokemon_changes/022/
 [Dewgong]: ../../pokemon_changes/087/

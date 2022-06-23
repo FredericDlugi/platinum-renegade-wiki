@@ -4,24 +4,24 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_210__south/).
 
 
-Trainer               | 1                                   | 2                                   | 3                                  | 
----                   | ---                                 | ---                                 | ---                                | 
-Twins Teri & Tia      | ![][162]<br> [Furret]<br> Lv. 32    | ![][264]<br> [Linoone]<br> Lv. 32   | &nbsp;                             | 
-Jogger Wyatt          | ![][101]<br> [Electrode]<br> Lv. 33 | &nbsp;                              | &nbsp;                             | 
-PKMN Breeder Kahlil   | ![][447]<br> [Riolu]<br> Lv. 31     | ![][433]<br> [Chingling]<br> Lv. 31 | ![][446]<br> [Munchlax]<br> Lv. 31 | 
-PKMN Breeder Amber    | ![][458]<br> [Mantyke]<br> Lv. 31   | ![][440]<br> [Happiny]<br> Lv. 31   | ![][360]<br> [Wynaut]<br> Lv. 31   | 
-Belle & Pa Ava & Matt | ![][128]<br> [Tauros]<br> Lv. 33    | ![][241]<br> [Miltank]<br> Lv. 33   | &nbsp;                             | 
-Rancher Marco (!)     | ![][078]<br> [Rapidash]<br> Lv. 33  | &nbsp;                              | &nbsp;                             | 
-Collector Fernando    | ![][147]<br> [Dratini]<br> Lv. 31   | ![][148]<br> [Dragonair]<br> Lv. 33 | &nbsp;                             | 
-Collector Edwin       | ![][371]<br> [Bagon]<br> Lv. 31     | ![][372]<br> [Shelgon]<br> Lv. 33   | &nbsp;                             | 
-Waitress Kati         | ![][036]<br> [Clefable]<br> Lv. 33  | &nbsp;                              | &nbsp;                             | 
+Trainer               | 1                                 | 2                                 | 3
+---                   | ---                               | ---                               | ---
+Twins Teri & Tia      | ![][162]<br>[Furret]<br>Lv. 32    | ![][264]<br>[Linoone]<br>Lv. 32   | &nbsp;
+Jogger Wyatt          | ![][101]<br>[Electrode]<br>Lv. 33 | &nbsp;                            | &nbsp;
+PKMN Breeder Kahlil   | ![][447]<br>[Riolu]<br>Lv. 31     | ![][433]<br>[Chingling]<br>Lv. 31 | ![][446]<br>[Munchlax]<br>Lv. 31
+PKMN Breeder Amber    | ![][458]<br>[Mantyke]<br>Lv. 31   | ![][440]<br>[Happiny]<br>Lv. 31   | ![][360]<br>[Wynaut]<br>Lv. 31
+Belle & Pa Ava & Matt | ![][128]<br>[Tauros]<br>Lv. 33    | ![][241]<br>[Miltank]<br>Lv. 33   | &nbsp;
+Rancher Marco (!)     | ![][078]<br>[Rapidash]<br>Lv. 33  | &nbsp;                            | &nbsp;
+Collector Fernando    | ![][147]<br>[Dratini]<br>Lv. 31   | ![][148]<br>[Dragonair]<br>Lv. 33 | &nbsp;
+Collector Edwin       | ![][371]<br>[Bagon]<br>Lv. 31     | ![][372]<br>[Shelgon]<br>Lv. 33   | &nbsp;
+Waitress Kati         | ![][036]<br>[Clefable]<br>Lv. 33  | &nbsp;                            | &nbsp;
 
 #### Rematches
 
-Trainer           | 1                                  | 2                                | 3                                 | 
----               | ---                                | ---                              | ---                               | 
-Rancher Marco (8) | ![][078]<br> [Rapidash]<br> Lv. 59 | ![][128]<br> [Tauros]<br> Lv. 59 | ![][241]<br> [Miltank]<br> Lv. 59 | 
-Rancher Marco (C) | ![][078]<br> [Rapidash]<br> Lv. 70 | ![][128]<br> [Tauros]<br> Lv. 70 | ![][241]<br> [Miltank]<br> Lv. 70 | 
+Trainer           | 1                                | 2                              | 3
+---               | ---                              | ---                            | ---
+Rancher Marco (8) | ![][078]<br>[Rapidash]<br>Lv. 59 | ![][128]<br>[Tauros]<br>Lv. 59 | ![][241]<br>[Miltank]<br>Lv. 59
+Rancher Marco (C) | ![][078]<br>[Rapidash]<br>Lv. 70 | ![][128]<br>[Tauros]<br>Lv. 70 | ![][241]<br>[Miltank]<br>Lv. 70
 
 [Clefable]: ../../pokemon_changes/036/
 [Rapidash]: ../../pokemon_changes/078/

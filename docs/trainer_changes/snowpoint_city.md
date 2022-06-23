@@ -1,15 +1,15 @@
 # Snowpoint City
 
-Trainer              | 1                                   | 2                                    | 3                                    | 
----                  | ---                                 | ---                                  | ---                                  | 
-Ace Trainer Aran     | ![][214]<br> [Heracross]<br> Lv. 54 | ![][157]<br> [Typhlosion]<br> Lv. 54 | ![][248]<br> [Tyranitar]<br> Lv. 54  | 
-Ace Trainer Nephenee | ![][242]<br> [Blissey]<br> Lv. 54   | ![][154]<br> [Meganium]<br> Lv. 54   | ![][160]<br> [Feraligatr]<br> Lv. 54 | 
+Trainer              | 1                                 | 2                                  | 3
+---                  | ---                               | ---                                | ---
+Ace Trainer Aran     | ![][214]<br>[Heracross]<br>Lv. 54 | ![][157]<br>[Typhlosion]<br>Lv. 54 | ![][248]<br>[Tyranitar]<br>Lv. 54
+Ace Trainer Nephenee | ![][242]<br>[Blissey]<br>Lv. 54   | ![][154]<br>[Meganium]<br>Lv. 54   | ![][160]<br>[Feraligatr]<br>Lv. 54
 
 ## Master Trainer
 
-Ace Trainer ???<br>![][ace_f]     | Item | Nature | Ability | Moves                                          | 
----                               | ---  | ---    | ---     | ---                                            | 
-![][461]<br> [Weavile]<br> Lv. 85 | None | ?      | ?       | Low Kick, Night Slash, Quick Attack, X-Scissor | 
+Ace Trainer ???<br>![][ace_f]   | Item | Nature | Ability | Moves
+---                             | ---  | ---    | ---     | ---
+![][461]<br>[Weavile]<br>Lv. 85 | None | ?      | ?       | Low Kick, Night Slash, Quick Attack, X-Scissor
 
 [Meganium]: ../../pokemon_changes/154/
 [Typhlosion]: ../../pokemon_changes/157/

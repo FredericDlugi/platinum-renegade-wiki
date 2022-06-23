@@ -4,30 +4,30 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_222/).
 
 
-Trainer            | 1                                   | 2                                   | 3                                   | 4                                 | 
----                | ---                                 | ---                                 | ---                                 | ---                               | 
-Rich Boy Trey (!)  | ![][405]<br> [Luxray]<br> Lv. 57    | ![][254]<br> [Sceptile]<br> Lv. 57  | ![][264]<br> [Linoone]<br> Lv. 57   | &nbsp;                            | 
-Beauty Nicola      | ![][428]<br> [Lopunny]<br> Lv. 57   | ![][136]<br> [Flareon]<br> Lv. 57   | ![][154]<br> [Meganium]<br> Lv. 57  | &nbsp;                            | 
-Policeman Thomas   | ![][164]<br> [Noctowl]<br> Lv. 59   | &nbsp;                              | &nbsp;                              | &nbsp;                            | 
-Sailor Marc (!)    | ![][171]<br> [Lanturn]<br> Lv. 57   | ![][068]<br> [Machamp]<br> Lv. 57   | ![][226]<br> [Mantine]<br> Lv. 57   | &nbsp;                            | 
-Tuber Conner       | ![][223]<br> [Remoraid]<br> Lv. 57  | ![][223]<br> [Remoraid]<br> Lv. 57  | &nbsp;                              | &nbsp;                            | 
-Sailor Luther      | ![][279]<br> [Pelipper]<br> Lv. 56  | ![][423]<br> [Gastrodon]<br> Lv. 56 | ![][062]<br> [Poliwrath]<br> Lv. 56 | ![][099]<br> [Kingler]<br> Lv. 56 | 
-Fisherman Alec (!) | ![][130]<br> [Gyarados]<br> Lv. 57  | ![][130]<br> [Gyarados]<br> Lv. 57  | ![][130]<br> [Gyarados]<br> Lv. 57  | &nbsp;                            | 
-Fisherman George   | ![][224]<br> [Octillery]<br> Lv. 58 | ![][457]<br> [Lumineon]<br> Lv. 58  | &nbsp;                              | &nbsp;                            | 
-Fisherman Brett    | ![][211]<br> [Qwilfish]<br> Lv. 59  | &nbsp;                              | &nbsp;                              | &nbsp;                            | 
-Fisherman Cole     | ![][119]<br> [Seaking]<br> Lv. 57   | ![][319]<br> [Sharpedo]<br> Lv. 57  | ![][230]<br> [Kingdra]<br> Lv. 57   | &nbsp;                            | 
-Tuber Holly        | ![][184]<br> [Azumarill]<br> Lv. 58 | &nbsp;                              | &nbsp;                              | &nbsp;                            | 
-Poké Kid Janet     | ![][025]<br> [Pikachu]<br> Lv. 57   | ![][025]<br> [Pikachu]<br> Lv. 57   | &nbsp;                              | &nbsp;                            | 
+Trainer            | 1                                 | 2                                 | 3                                 | 4
+---                | ---                               | ---                               | ---                               | ---
+Rich Boy Trey (!)  | ![][405]<br>[Luxray]<br>Lv. 57    | ![][254]<br>[Sceptile]<br>Lv. 57  | ![][264]<br>[Linoone]<br>Lv. 57   | &nbsp;
+Beauty Nicola      | ![][428]<br>[Lopunny]<br>Lv. 57   | ![][136]<br>[Flareon]<br>Lv. 57   | ![][154]<br>[Meganium]<br>Lv. 57  | &nbsp;
+Policeman Thomas   | ![][164]<br>[Noctowl]<br>Lv. 59   | &nbsp;                            | &nbsp;                            | &nbsp;
+Sailor Marc (!)    | ![][171]<br>[Lanturn]<br>Lv. 57   | ![][068]<br>[Machamp]<br>Lv. 57   | ![][226]<br>[Mantine]<br>Lv. 57   | &nbsp;
+Tuber Conner       | ![][223]<br>[Remoraid]<br>Lv. 57  | ![][223]<br>[Remoraid]<br>Lv. 57  | &nbsp;                            | &nbsp;
+Sailor Luther      | ![][279]<br>[Pelipper]<br>Lv. 56  | ![][423]<br>[Gastrodon]<br>Lv. 56 | ![][062]<br>[Poliwrath]<br>Lv. 56 | ![][099]<br>[Kingler]<br>Lv. 56
+Fisherman Alec (!) | ![][130]<br>[Gyarados]<br>Lv. 57  | ![][130]<br>[Gyarados]<br>Lv. 57  | ![][130]<br>[Gyarados]<br>Lv. 57  | &nbsp;
+Fisherman George   | ![][224]<br>[Octillery]<br>Lv. 58 | ![][457]<br>[Lumineon]<br>Lv. 58  | &nbsp;                            | &nbsp;
+Fisherman Brett    | ![][211]<br>[Qwilfish]<br>Lv. 59  | &nbsp;                            | &nbsp;                            | &nbsp;
+Fisherman Cole     | ![][119]<br>[Seaking]<br>Lv. 57   | ![][319]<br>[Sharpedo]<br>Lv. 57  | ![][230]<br>[Kingdra]<br>Lv. 57   | &nbsp;
+Tuber Holly        | ![][184]<br>[Azumarill]<br>Lv. 58 | &nbsp;                            | &nbsp;                            | &nbsp;
+Poké Kid Janet     | ![][025]<br>[Pikachu]<br>Lv. 57   | ![][025]<br>[Pikachu]<br>Lv. 57   | &nbsp;                            | &nbsp;
 
 #### Rematches
 
-Trainer            | 1                                  | 2                                  | 3                                  | 
----                | ---                                | ---                                | ---                                | 
-Rich Boy Trey (C)  | ![][405]<br> [Luxray]<br> Lv. 70   | ![][254]<br> [Sceptile]<br> Lv. 70 | ![][264]<br> [Linoone]<br> Lv. 70  | 
-Rich Boy Trey (S)  | ![][405]<br> [Luxray]<br> Lv. 75   | ![][254]<br> [Sceptile]<br> Lv. 75 | ![][264]<br> [Linoone]<br> Lv. 75  | 
-Sailor Marc (C)    | ![][171]<br> [Lanturn]<br> Lv. 70  | ![][068]<br> [Machamp]<br> Lv. 70  | ![][226]<br> [Mantine]<br> Lv. 70  | 
-Sailor Marc (S)    | ![][171]<br> [Lanturn]<br> Lv. 75  | ![][068]<br> [Machamp]<br> Lv. 75  | ![][226]<br> [Mantine]<br> Lv. 75  | 
-Fisherman Alec (C) | ![][130]<br> [Gyarados]<br> Lv. 70 | ![][130]<br> [Gyarados]<br> Lv. 70 | ![][130]<br> [Gyarados]<br> Lv. 70 | 
+Trainer            | 1                                | 2                                | 3
+---                | ---                              | ---                              | ---
+Rich Boy Trey (C)  | ![][405]<br>[Luxray]<br>Lv. 70   | ![][254]<br>[Sceptile]<br>Lv. 70 | ![][264]<br>[Linoone]<br>Lv. 70
+Rich Boy Trey (S)  | ![][405]<br>[Luxray]<br>Lv. 75   | ![][254]<br>[Sceptile]<br>Lv. 75 | ![][264]<br>[Linoone]<br>Lv. 75
+Sailor Marc (C)    | ![][171]<br>[Lanturn]<br>Lv. 70  | ![][068]<br>[Machamp]<br>Lv. 70  | ![][226]<br>[Mantine]<br>Lv. 70
+Sailor Marc (S)    | ![][171]<br>[Lanturn]<br>Lv. 75  | ![][068]<br>[Machamp]<br>Lv. 75  | ![][226]<br>[Mantine]<br>Lv. 75
+Fisherman Alec (C) | ![][130]<br>[Gyarados]<br>Lv. 70 | ![][130]<br>[Gyarados]<br>Lv. 70 | ![][130]<br>[Gyarados]<br>Lv. 70
 
 [Pikachu]: ../../pokemon_changes/025/
 [Poliwrath]: ../../pokemon_changes/062/

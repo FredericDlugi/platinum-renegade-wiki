@@ -1,9 +1,9 @@
 # Jubilife City Trainer School
 
-Trainer             | 1                              | 2                                | 
----                 | ---                            | ---                              | 
-Schoolkid Harrison  | ![][063]<br> [Abra]<br> Lv. 8  | ![][054]<br> [Psyduck]<br> Lv. 8 | 
-Schoolkid Christine | ![][280]<br> [Ralts]<br> Lv. 8 | ![][120]<br> [Staryu]<br> Lv. 8  | 
+Trainer             | 1                            | 2
+---                 | ---                          | ---
+Schoolkid Harrison  | ![][063]<br>[Abra]<br>Lv. 8  | ![][054]<br>[Psyduck]<br>Lv. 8
+Schoolkid Christine | ![][280]<br>[Ralts]<br>Lv. 8 | ![][120]<br>[Staryu]<br>Lv. 8
 
 [Psyduck]: ../../pokemon_changes/054/
 [Abra]: ../../pokemon_changes/063/

@@ -4,21 +4,21 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/lake_verity/).
 
 
-Trainer                     | 1                                   | 2                                    | 3                                  | 4                                    | 5                                 | 
----                         | ---                                 | ---                                  | ---                                | ---                                  | ---                               | 
-Galactic Grunt              | ![][267]<br> [Beautifly]<br> Lv. 50 | ![][012]<br> [Butterfree]<br> Lv. 50 | &nbsp;                             | &nbsp;                               | &nbsp;                            | 
-Galactic Grunt              | ![][269]<br> [Dustox]<br> Lv. 50    | ![][015]<br> [Beedrill]<br> Lv. 50   | &nbsp;                             | &nbsp;                               | &nbsp;                            | 
-Galactic Grunt              | ![][033]<br> [Nidorino]<br> Lv. 49  | ![][042]<br> [Golbat]<br> Lv. 49     | ![][413]<br> [Wormadam]<br> Lv. 49 | &nbsp;                               | &nbsp;                            | 
-Galactic Grunt              | ![][030]<br> [Nidorina]<br> Lv. 49  | ![][042]<br> [Golbat]<br> Lv. 49     | ![][414]<br> [Mothim]<br> Lv. 49   | &nbsp;                               | &nbsp;                            | 
-Commander Mars<br>![][mars] | ![][169]<br> [Crobat]<br> Lv. 52    | ![][469]<br> [Yanmega]<br> Lv. 52    | ![][437]<br> [Bronzong]<br> Lv. 52 | ![][115]<br> [Kangaskhan]<br> Lv. 52 | ![][432]<br> [Purugly]<br> Lv. 53 | 
+Trainer                     | 1                                 | 2                                  | 3                                | 4                                  | 5
+---                         | ---                               | ---                                | ---                              | ---                                | ---
+Galactic Grunt              | ![][267]<br>[Beautifly]<br>Lv. 50 | ![][012]<br>[Butterfree]<br>Lv. 50 | &nbsp;                           | &nbsp;                             | &nbsp;
+Galactic Grunt              | ![][269]<br>[Dustox]<br>Lv. 50    | ![][015]<br>[Beedrill]<br>Lv. 50   | &nbsp;                           | &nbsp;                             | &nbsp;
+Galactic Grunt              | ![][033]<br>[Nidorino]<br>Lv. 49  | ![][042]<br>[Golbat]<br>Lv. 49     | ![][413]<br>[Wormadam]<br>Lv. 49 | &nbsp;                             | &nbsp;
+Galactic Grunt              | ![][030]<br>[Nidorina]<br>Lv. 49  | ![][042]<br>[Golbat]<br>Lv. 49     | ![][414]<br>[Mothim]<br>Lv. 49   | &nbsp;                             | &nbsp;
+Commander Mars<br>![][mars] | ![][169]<br>[Crobat]<br>Lv. 52    | ![][469]<br>[Yanmega]<br>Lv. 52    | ![][437]<br>[Bronzong]<br>Lv. 52 | ![][115]<br>[Kangaskhan]<br>Lv. 52 | ![][432]<br>[Purugly]<br>Lv. 53
 
-Commander Mars<br>![][mars]          | Item                                 | Nature | Ability     | Moves                                         | 
----                                  | ---                                  | ---    | ---         | ---                                           | 
-![][169]<br> [Crobat]<br> Lv. 52     | ![][bright-powder]<br> Bright Powder | ?      | Inner Focus | Brave Bird, Hypnosis, Double Team, Giga Drain | 
-![][469]<br> [Yanmega]<br> Lv. 52    | ![][wise-glasses]<br> Wise Glasses   | ?      | Speed Boost | Bug Buzz, Air Slash, Psychic, Detect          | 
-![][437]<br> [Bronzong]<br> Lv. 52   | ![][leftovers]<br> Leftovers         | ?      | Levitate    | Stealth Rock, Gyro Ball, Payback, Explosion   | 
-![][115]<br> [Kangaskhan]<br> Lv. 52 | ![][muscle-band]<br> Muscle Band     | ?      | Scrappy     | Double-Edge, Hammer Arm, Crunch, Fake Out     | 
-![][432]<br> [Purugly]<br> Lv. 53    | ![][sitrus-berry]<br> Sitrus Berry   | ?      | Thick Fat   | Body Slam, Play Rough, Hypnosis, Fake Out     | 
+Commander Mars<br>![][mars]        | Item                                | Nature | Ability     | Moves
+---                                | ---                                 | ---    | ---         | ---
+![][169]<br>[Crobat]<br>Lv. 52     | ![][bright-powder]<br>Bright Powder | ?      | Inner Focus | Brave Bird, Hypnosis, Double Team, Giga Drain
+![][469]<br>[Yanmega]<br>Lv. 52    | ![][wise-glasses]<br>Wise Glasses   | ?      | Speed Boost | Bug Buzz, Air Slash, Psychic, Detect
+![][437]<br>[Bronzong]<br>Lv. 52   | ![][leftovers]<br>Leftovers         | ?      | Levitate    | Stealth Rock, Gyro Ball, Payback, Explosion
+![][115]<br>[Kangaskhan]<br>Lv. 52 | ![][muscle-band]<br>Muscle Band     | ?      | Scrappy     | Double-Edge, Hammer Arm, Crunch, Fake Out
+![][432]<br>[Purugly]<br>Lv. 53    | ![][sitrus-berry]<br>Sitrus Berry   | ?      | Thick Fat   | Body Slam, Play Rough, Hypnosis, Fake Out
 
 [Butterfree]: ../../pokemon_changes/012/
 [Beedrill]: ../../pokemon_changes/015/

@@ -7,13 +7,13 @@
 
 ### Baby Pokémon Egg Gift
 
-Title    | Baby Pokémon Egg Gift        | &nbsp;                 | &nbsp;                  | &nbsp;                 | &nbsp;                | &nbsp;                  |
----      | ---                          | ---                    | ---                     | ---                    | ---                   | ---                     |
-Pokémon  | ![][172]<br>[Pichu]          | ![][173]<br>[Cleffa]   | ![][174]<br>[Igglybuff] | ![][175]<br>[Togepi]   | ![][236]<br>[Tyrogue] | ![][238]<br>[Smoochum]  |
-&nbsp;   | ![][239]<br>[Elekid]         | ![][240]<br>[Magby]    | ![][298]<br>[Azurill]   | ![][360]<br>[Wynaut]   | ![][406]<br>[Budew]   | ![][433]<br>[Chingling] |
-&nbsp;   | ![][438]<br>[Bonsly]         | ![][439]<br>[Mime Jr.] | ![][440]<br>[Happiny]   | ![][446]<br>[Munchlax] | ![][447]<br>[Riolu]   | ![][458]<br>[Mantyke]   |
-Location | Jubilife City Trainer School | &nbsp;                 | &nbsp;                  | &nbsp;                 | &nbsp;                | &nbsp;                  |
-Level    | 1                            | &nbsp;                 | &nbsp;                  | &nbsp;                 | &nbsp;                | &nbsp;                  |
+Title    | Baby Pokémon Egg Gift        | &nbsp;                 | &nbsp;                  | &nbsp;                 | &nbsp;                | &nbsp;
+---      | ---                          | ---                    | ---                     | ---                    | ---                   | ---
+Pokémon  | ![][172]<br>[Pichu]          | ![][173]<br>[Cleffa]   | ![][174]<br>[Igglybuff] | ![][175]<br>[Togepi]   | ![][236]<br>[Tyrogue] | ![][238]<br>[Smoochum]
+&nbsp;   | ![][239]<br>[Elekid]         | ![][240]<br>[Magby]    | ![][298]<br>[Azurill]   | ![][360]<br>[Wynaut]   | ![][406]<br>[Budew]   | ![][433]<br>[Chingling]
+&nbsp;   | ![][438]<br>[Bonsly]         | ![][439]<br>[Mime Jr.] | ![][440]<br>[Happiny]   | ![][446]<br>[Munchlax] | ![][447]<br>[Riolu]   | ![][458]<br>[Mantyke]
+Location | Jubilife City Trainer School | &nbsp;                 | &nbsp;                  | &nbsp;                 | &nbsp;                | &nbsp;
+Level    | 1                            | &nbsp;                 | &nbsp;                  | &nbsp;                 | &nbsp;                | &nbsp;
 
 - Talk to the Cowgirl in the Jubilife School to receive an Egg.
 - The Egg will hatch into one of the following Pokémon at random: [Pichu], [Cleffa], [Igglybuff], [Togepi], [Tyrogue], [Smoochum], [Elekid], [Magby], [Azurill], [Wynaut], [Budew], [Chingling], [Bonsly], [Mime Jr.], [Happiny], [Munchlax], [Riolu], [Mantyke].
@@ -21,11 +21,11 @@ Level    | 1                            | &nbsp;                 | &nbsp;       
 
 ### Kanto-Starter
 
-Title    | Kanto-Starter                | &nbsp;                   | &nbsp;                 |
----      | ---                          | ---                      | ---                    |
-Pokémon  | ![][001]<br>[Bulbasaur]      | ![][004]<br>[Charmander] | ![][007]<br>[Squirtle] |
-Location | Jubilife City Pokémon Center | &nbsp;                   | &nbsp;                 |
-Level    | 5                            | &nbsp;                   | &nbsp;                 |
+Title    | Kanto-Starter                | &nbsp;                   | &nbsp;
+---      | ---                          | ---                      | ---
+Pokémon  | ![][001]<br>[Bulbasaur]      | ![][004]<br>[Charmander] | ![][007]<br>[Squirtle]
+Location | Jubilife City Pokémon Center | &nbsp;                   | &nbsp;
+Level    | 5                            | &nbsp;                   | &nbsp;
 
 - Talk to the Interviewer at the top left.
 - Answer her questions correctly and win the battle.
@@ -36,22 +36,22 @@ Level    | 5                            | &nbsp;                   | &nbsp;     
 
 ### Lapras
 
-Title    | Lapras               |
----      | ---                  |
-Pokémon  | ![][131]<br>[Lapras] |
-Location | Pastoria City        |
-Level    | 35                   |
+Title    | Lapras
+---      | ---
+Pokémon  | ![][131]<br>[Lapras]
+Location | Pastoria City
+Level    | 35
 
 - In one of the houses is an old lady. Agree to listen to her story.
 - She'll give you a [Lapras] after she finishes.
 
 ### Eevee
 
-Title    | Eevee               |
----      | ---                 |
-Pokémon  | ![][133]<br>[Eevee] |
-Location | Twinleaf Town       |
-Level    | 5                   |
+Title    | Eevee
+---      | ---
+Pokémon  | ![][133]<br>[Eevee]
+Location | Twinleaf Town
+Level    | 5
 
 - Complete the events as far as Lucas/Dawn telling you to speak to your mother.
 - Speak to your mother and she'll suggest taking [Eevee].
@@ -59,23 +59,23 @@ Level    | 5                   |
 
 ### Porygon
 
-Title    | Porygon                  |
----      | ---                      |
-Pokémon  | ![][137]<br>[Porygon]    |
-Location | Eterna Galactic Building |
-Level    | 22                       |
+Title    | Porygon
+---      | ---
+Pokémon  | ![][137]<br>[Porygon]
+Location | Eterna Galactic Building
+Level    | 22
 
 - Defeat Jupiter at the Eterna Galactic Building.
 - Interact with the Poké Ball behind her to get [Porygon].
 
 ### Fossil-Pokémon
 
-Title    | Fossil-Pokémon         | &nbsp;               | &nbsp;                   | &nbsp;               | &nbsp;                | &nbsp;                 |
----      | ---                    | ---                  | ---                      | ---                  | ---                   | ---                    |
-Pokémon  | ![][138]<br>[Omanyte]  | ![][140]<br>[Kabuto] | ![][142]<br>[Aerodactyl] | ![][345]<br>[Lileep] | ![][347]<br>[Anorith] | ![][408]<br>[Cranidos] |
-&nbsp;   | ![][410]<br>[Shieldon] | &nbsp;               | &nbsp;                   | &nbsp;               | &nbsp;                | &nbsp;                 |
-Location | Eterna City            | &nbsp;               | &nbsp;                   | &nbsp;               | &nbsp;                | &nbsp;                 |
-Level    | 20                     | &nbsp;               | &nbsp;                   | &nbsp;               | &nbsp;                | &nbsp;                 |
+Title    | Fossil-Pokémon         | &nbsp;               | &nbsp;                   | &nbsp;               | &nbsp;                | &nbsp;
+---      | ---                    | ---                  | ---                      | ---                  | ---                   | ---
+Pokémon  | ![][138]<br>[Omanyte]  | ![][140]<br>[Kabuto] | ![][142]<br>[Aerodactyl] | ![][345]<br>[Lileep] | ![][347]<br>[Anorith] | ![][408]<br>[Cranidos]
+&nbsp;   | ![][410]<br>[Shieldon] | &nbsp;               | &nbsp;                   | &nbsp;               | &nbsp;                | &nbsp;
+Location | Eterna City            | &nbsp;               | &nbsp;                   | &nbsp;               | &nbsp;                | &nbsp;
+Level    | 20                     | &nbsp;               | &nbsp;                   | &nbsp;               | &nbsp;                | &nbsp;
 
 - Go to the Underground Man's house, near the Pokémon Center in Eterna City.
 - Talk to the female scientist to receive fossils for [Omanyte], [Kabuto], [Aerodactyl], [Lileep], [Anorith], [Cranidos] and [Shieldon].
@@ -84,11 +84,11 @@ Level    | 20                     | &nbsp;               | &nbsp;               
 
 ### Johto-Starter
 
-Title    | Johto-Starter                | &nbsp;                  | &nbsp;                 |
----      | ---                          | ---                     | ---                    |
-Pokémon  | ![][152]<br>[Chikorita]      | ![][155]<br>[Cyndaquil] | ![][158]<br>[Totodile] |
-Location | Floaroma Town Pokémon Center | &nbsp;                  | &nbsp;                 |
-Level    | 15                           | &nbsp;                  | &nbsp;                 |
+Title    | Johto-Starter                | &nbsp;                  | &nbsp;
+---      | ---                          | ---                     | ---
+Pokémon  | ![][152]<br>[Chikorita]      | ![][155]<br>[Cyndaquil] | ![][158]<br>[Totodile]
+Location | Floaroma Town Pokémon Center | &nbsp;                  | &nbsp;
+Level    | 15                           | &nbsp;                  | &nbsp;
 
 - Talk to the Interviewer at the top left.
 - Answer her questions correctly and win the battle.
@@ -99,11 +99,11 @@ Level    | 15                           | &nbsp;                  | &nbsp;      
 
 ### Hoenn-Starter
 
-Title    | Hoenn-Starter                | &nbsp;                | &nbsp;               |
----      | ---                          | ---                   | ---                  |
-Pokémon  | ![][252]<br>[Treecko]        | ![][255]<br>[Torchic] | ![][258]<br>[Mudkip] |
-Location | Oreburgh City Pokémon Center | &nbsp;                | &nbsp;               |
-Level    | 10                           | &nbsp;                | &nbsp;               |
+Title    | Hoenn-Starter                | &nbsp;                | &nbsp;
+---      | ---                          | ---                   | ---
+Pokémon  | ![][252]<br>[Treecko]        | ![][255]<br>[Torchic] | ![][258]<br>[Mudkip]
+Location | Oreburgh City Pokémon Center | &nbsp;                | &nbsp;
+Level    | 10                           | &nbsp;                | &nbsp;
 
 
 - Talk to the Interviewer at the top left.
@@ -115,22 +115,22 @@ Level    | 10                           | &nbsp;                | &nbsp;        
 
 ### Beldum
 
-Title    | Beldum               |
----      | ---                  |
-Pokémon  | ![][374]<br>[Beldum] |
-Location | Oreburgh City        |
-Level    | 10                   |
+Title    | Beldum
+---      | ---
+Pokémon  | ![][374]<br>[Beldum]
+Location | Oreburgh City
+Level    | 10
 
 - Go inside the house near Oreburgh Mine.
 - Talk to Steven and he'll offer you a [Beldum].
 
 ### Sinnoh-Starter
 
-Title    | Sinnoh-Starter        | &nbsp;                 | &nbsp;               |
----      | ---                   | ---                    | ---                  |
-Pokémon  | ![][387]<br>[Turtwig] | ![][390]<br>[Chimchar] | ![][393]<br>[Piplup] |
-Location | Sandgem Town          | &nbsp;                 | &nbsp;               |
-Level    | 5                     | &nbsp;                 | &nbsp;               |
+Title    | Sinnoh-Starter        | &nbsp;                 | &nbsp;
+---      | ---                   | ---                    | ---
+Pokémon  | ![][387]<br>[Turtwig] | ![][390]<br>[Chimchar] | ![][393]<br>[Piplup]
+Location | Sandgem Town          | &nbsp;                 | &nbsp;
+Level    | 5                     | &nbsp;                 | &nbsp;
 
 - Interact with the briefcase at the top right of Rowan's lab.
 - Rowan will say a few words and then allow you to take out the Poké Balls inside.
@@ -142,11 +142,11 @@ Level    | 5                     | &nbsp;                 | &nbsp;              
 
 ###  Gengar
 
-Title    | Gengar               |
----      | ---                  |
-Pokémon  | ![][094]<br>[Gengar] |
-Location | Old Chateau          |
-Level    | 20                   |
+Title    | Gengar
+---      | ---
+Pokémon  | ![][094]<br>[Gengar]
+Location | Old Chateau
+Level    | 20
 
 - Talk to the painting with the glowing red ones in one of the rooms at the back of the Old Chateau.
 - Attempt to leave the room and you'll encounter [Gengar].
@@ -154,22 +154,22 @@ Level    | 20                   |
 
 ### Spiritomb
 
-Title    | Spiritomb               |
----      | ---                     |
-Pokémon  | ![][442]<br>[Spiritomb] |
-Location | Route 209               |
-Level    | 30                      |
+Title    | Spiritomb
+---      | ---
+Pokémon  | ![][442]<br>[Spiritomb]
+Location | Route 209
+Level    | 30
 
 - Get the Odd Keystone from a man on Route 208, hidden in Twinleaf Town or from the Underground.
 - Talk to the broken stone tower to encounter [Spiritomb].
 
 ### Gabite
 
-Title    | Gabite               |
----      | ---                  |
-Pokémon  | ![][444]<br>[Gabite] |
-Location | Wayward Cave         |
-Level    | 25                   |
+Title    | Gabite
+---      | ---
+Pokémon  | ![][444]<br>[Gabite]
+Location | Wayward Cave
+Level    | 25
 
 - Go through the basement and up the stairs to the small room.
 - Walk forward and you'll encounter [Gabite].
@@ -177,11 +177,11 @@ Level    | 25                   |
 
 ### Rotom
 
-Title    | Rotom               |
----      | ---                 |
-Pokémon  | ![][479]<br>[Rotom] |
-Location | Old Chateau         |
-Level    | 20                  |
+Title    | Rotom
+---      | ---
+Pokémon  | ![][479]<br>[Rotom]
+Location | Old Chateau
+Level    | 20
 
 - Talk to the TV in one of the rooms at the back of the Old Chateau.
 - The event is now repeatable and can be done at any time of day.
@@ -191,11 +191,11 @@ Level    | 20                  |
 
 ### Articuno
 
-Title    | Articuno               |
----      | ---                    |
-Pokémon  | ![][144]<br>[Articuno] |
-Location | Mt. Coronet (Summit)   |
-Level    | 60                     |
+Title    | Articuno
+---      | ---
+Pokémon  | ![][144]<br>[Articuno]
+Location | Mt. Coronet (Summit)
+Level    | 60
 
 - Speak to Rowan after the Distortion World events.
 - Head to the snowy parts of Mt. Coronet. Bring something with Rock Climb.
@@ -208,11 +208,11 @@ Level    | 60                     |
 Location: Valley Windworks
 Level: 60
 
-Title    | Zapdos               |
----      | ---                  |
-Pokémon  | ![][145]<br>[Zapdos] |
-Location | Valley Windworks     |
-Level    | 60                   |
+Title    | Zapdos
+---      | ---
+Pokémon  | ![][145]<br>[Zapdos]
+Location | Valley Windworks
+Level    | 60
 
 - Speak to Rowan after the Distortion World events.
 - Head to Valley Windworks. Bring something with Surf.
@@ -222,11 +222,11 @@ Level    | 60                   |
 
 ### Moltres
 
-Title    | Moltres               |
----      | ---                   |
-Pokémon  | ![][146]<br>[Moltres] |
-Location | Victory Road          |
-Level    | 60                    |
+Title    | Moltres
+---      | ---
+Pokémon  | ![][146]<br>[Moltres]
+Location | Victory Road
+Level    | 60
 
 - Speak to Rowan after the Distortion World events.
 - Head to Victory Road. Bring something with Rock Climb.
@@ -236,11 +236,11 @@ Level    | 60                    |
 
 ### Mewtwo
 
-Title    | Mewtwo               |
----      | ---                  |
-Pokémon  | ![][150]<br>[Mewtwo] |
-Location | Oreburgh Gate        |
-Level    | 70                   |
+Title    | Mewtwo
+---      | ---
+Pokémon  | ![][150]<br>[Mewtwo]
+Location | Oreburgh Gate
+Level    | 70
 
 - After the credits, a portal will appear in the bottom floor of Oreburgh Gate.
 - Once you gain access, talk to the nurse in the Battleground to receive the Odd Invitation.
@@ -251,11 +251,11 @@ Level    | 70                   |
 
 ### Mew
 
-Title    | Mew               |
----      | ---               |
-Pokémon  | ![][151]<br>[Mew] |
-Location | Route 201         |
-Level    | 40                |
+Title    | Mew
+---      | ---
+Pokémon  | ![][151]<br>[Mew]
+Location | Route 201
+Level    | 40
 
 - A Shroomish is in the top-left of Route 203 near some trees.
 - Talk to it with an Oran Berry in your inventory. It'll take it, transform into [Mew] and disappear.
@@ -270,11 +270,11 @@ Level    | 40                |
 
 ### Raikou
 
-Title    | Raikou               |
----      | ---                  |
-Pokémon  | ![][243]<br>[Raikou] |
-Location | Route 208            |
-Level    | 60                   |
+Title    | Raikou
+---      | ---
+Pokémon  | ![][243]<br>[Raikou]
+Location | Route 208
+Level    | 60
 
 - Speak to Rowan after the Distortion World events.
 - Head to Route 208. Bring something with Rock Climb.
@@ -284,11 +284,11 @@ Level    | 60                   |
 
 ### Entei
 
-Title    | Entei               |
----      | ---                 |
-Pokémon  | ![][244]<br>[Entei] |
-Location | Route 211 (East)    |
-Level    | 60                  |
+Title    | Entei
+---      | ---
+Pokémon  | ![][244]<br>[Entei]
+Location | Route 211 (East)
+Level    | 60
 
 - Speak to Rowan after the Distortion World events.
 - Head to Route 211 (East). Bring something with Rock Climb.
@@ -298,11 +298,11 @@ Level    | 60                  |
 
 ### Suicune
 
-Title    | Suicune               |
----      | ---                   |
-Pokémon  | ![][245]<br>[Suicune] |
-Location | Route 213             |
-Level    | 60                    |
+Title    | Suicune
+---      | ---
+Pokémon  | ![][245]<br>[Suicune]
+Location | Route 213
+Level    | 60
 
 - Speak to Rowan after the Distortion World events.
 - Head to Route 213. Bring something with Rock Climb.
@@ -312,11 +312,11 @@ Level    | 60                    |
 
 ### Lugia
 
-Title    | Lugia               |
----      | ---                 |
-Pokémon  | ![][249]<br>[Lugia] |
-Location | Route 220           |
-Level    | 70                  |
+Title    | Lugia
+---      | ---
+Pokémon  | ![][249]<br>[Lugia]
+Location | Route 220
+Level    | 70
 
 - After the credits, a portal will appear on Route 220.
 - Place Articuno, Zapdos and Moltres in your active party.
@@ -328,11 +328,11 @@ Level    | 70                  |
 
 ### Ho-oh
 
-Title    | Ho-oh               |
----      | ---                 |
-Pokémon  | ![][250]<br>[Ho-oh] |
-Location | Lost Tower          |
-Level    | 70                  |
+Title    | Ho-oh
+---      | ---
+Pokémon  | ![][250]<br>[Ho-oh]
+Location | Lost Tower
+Level    | 70
 
 
 - After the credits, a portal will appear at the top of the Lost Tower.
@@ -346,11 +346,11 @@ Level    | 70                  |
 
 ### Celebi
 
-Title    | Celebi               |
----      | ---                  |
-Pokémon  | ![][251]<br>[Celebi] |
-Location | Eterna Forest        |
-Level    | 40                   |
+Title    | Celebi
+---      | ---
+Pokémon  | ![][251]<br>[Celebi]
+Location | Eterna Forest
+Level    | 40
 
 - Check the shrine in Celestic Town to get the GS Ball.
 - After getting the GS Ball, return to Eterna Forest from the entrance on the Eterna City side.
@@ -363,11 +363,11 @@ Level    | 40                   |
 
 ### Regirock
 
-Title    | Regirock               |
----      | ---                    |
-Pokémon  | ![][377]<br>[Regirock] |
-Location | Route 228              |
-Level    | 60                     |
+Title    | Regirock
+---      | ---
+Pokémon  | ![][377]<br>[Regirock]
+Location | Route 228
+Level    | 60
 
 - Complete the Distortion World events.
 - Enter Route 228 with a [Relicanth] and [Wailord] in your party.
@@ -377,11 +377,11 @@ Level    | 60                     |
 
 ### Regice
 
-Title    | Regice                           |
----      | ---                              |
-Pokémon  | ![][378]<br>[Regice]             |
-Location | Mt. Coronet (Route 216 Entrance) |
-Level    | 60                               |
+Title    | Regice
+---      | ---
+Pokémon  | ![][378]<br>[Regice]
+Location | Mt. Coronet (Route 216 Entrance)
+Level    | 60
 
 - Complete the Distortion World events.
 - Enter the Mt. Coronet room leading to Route 216 with a [Relicanth] and [Wailord] in your party.
@@ -391,11 +391,11 @@ Level    | 60                               |
 
 ### Registeel
 
-Title    | Registeel               |
----      | ---                     |
-Pokémon  | ![][379]<br>[Registeel] |
-Location | Iron Island (B3F)       |
-Level    | 60                      |
+Title    | Registeel
+---      | ---
+Pokémon  | ![][379]<br>[Registeel]
+Location | Iron Island (B3F)
+Level    | 60
 
 - Complete the Distortion World events.
 - Enter the Iron Island room leading to the exit above the ledge with a [Relicanth] and [Wailord] in your party.
@@ -405,11 +405,11 @@ Level    | 60                      |
 
 ### Latias
 
-Title    | Latias               |
----      | ---                  |
-Pokémon  | ![][380]<br>[Latias] |
-Location | Fullmoon Island      |
-Level    | 68                   |
+Title    | Latias
+---      | ---
+Pokémon  | ![][380]<br>[Latias]
+Location | Fullmoon Island
+Level    | 68
 
 - Speak to Steven in Oreburgh City via the Quests option with the Magma Stone in your inventory to receive the Soul Dew.
 - Catch Cresselia on Fullmoon Island to get a rock to appear in the clearing.
@@ -419,11 +419,11 @@ Level    | 68                   |
 
 ### Latios
 
-Title    | Latios               |
----      | ---                  |
-Pokémon  | ![][381]<br>[Latios] |
-Location | Fullmoon Island      |
-Level    | 68                   |
+Title    | Latios
+---      | ---
+Pokémon  | ![][381]<br>[Latios]
+Location | Fullmoon Island
+Level    | 68
 
 - Speak to Steven in Oreburgh City via the Quests option with the Magma Stone in your inventory to receive the Soul Dew.
 - Catch Cresselia on Fullmoon Island to get a rock to appear in the clearing.
@@ -433,11 +433,11 @@ Level    | 68                   |
 
 ### Kyogre
 
-Title    | Kyogre               |
----      | ---                  |
-Pokémon  | ![][382]<br>[Kyogre] |
-Location | Mt. Coronet (B1F)    |
-Level    | 70                   |
+Title    | Kyogre
+---      | ---
+Pokémon  | ![][382]<br>[Kyogre]
+Location | Mt. Coronet (B1F)
+Level    | 70
 
 - After the credits, a portal will appear in the basement of Mt. Coronet.
 - Steven must have received the Magma Stone and been shown [Latias] and [Latios].
@@ -449,11 +449,11 @@ Level    | 70                   |
 
 ### Groudon
 
-Title    | Groudon                   |
----      | ---                       |
-Pokémon  | ![][383]<br>[Groudon]     |
-Location | Stark Mountain (Interior) |
-Level    | 70                        |
+Title    | Groudon
+---      | ---
+Pokémon  | ![][383]<br>[Groudon]
+Location | Stark Mountain (Interior)
+Level    | 70
 
 - After the credits, a portal will appear in the first room of Stark Mountain's interior.
 - Steven must have received the Magma Stone and been shown [Latias] and [Latios].
@@ -465,11 +465,11 @@ Level    | 70                        |
 
 ### Rayquaza
 
-Title    | Rayquaza               |
----      | ---                    |
-Pokémon  | ![][384]<br>[Rayquaza] |
-Location | Pokémon League         |
-Level    | 70                     |
+Title    | Rayquaza
+---      | ---
+Pokémon  | ![][384]<br>[Rayquaza]
+Location | Pokémon League
+Level    | 70
 
 - After the credits, a portal will appear at the Pokémon League below the waterfall.
 - Steven must have received the Magma Stone and been shown [Latias] and [Latios].
@@ -481,11 +481,11 @@ Level    | 70                     |
 
 ### Jirachi
 
-Title    | Jirachi               |
----      | ---                   |
-Pokémon  | ![][385]<br>[Jirachi] |
-Location | Solaceon Ruins        |
-Level    | 40                    |
+Title    | Jirachi
+---      | ---
+Pokémon  | ![][385]<br>[Jirachi]
+Location | Solaceon Ruins
+Level    | 40
 
 - Talk to the girl in the Pokemon Center in Eterna City with a Dazzling Gleam TM in your inventory.
 - Talk to the old woman in a house in Solaceon Town below the ledges with a [Ponyta], [Rapidash], [Moltres], [Quilava] or [Infernape] in your party.
@@ -496,11 +496,11 @@ Level    | 40                    |
 
 ### Deoxys
 
-Title    | Deoxys               |
----      | ---                  |
-Pokémon  | ![][386]<br>[Deoxys] |
-Location | Veilstone City       |
-Level    | 70                   |
+Title    | Deoxys
+---      | ---
+Pokémon  | ![][386]<br>[Deoxys]
+Location | Veilstone City
+Level    | 70
 
 - After the credits, talk to any of the meteories in Veilstone City.
 - You should receive a message about something getting angry.
@@ -510,11 +510,11 @@ Level    | 70                   |
 
 ### Uxie
 
-Title    | Uxie               |
----      | ---                |
-Pokémon  | ![][480]<br>[Uxie] |
-Location | Acuity Cavern      |
-Level    | 60                 |
+Title    | Uxie
+---      | ---
+Pokémon  | ![][480]<br>[Uxie]
+Location | Acuity Cavern
+Level    | 60
 
 - Speak to Rowan after the Distortion World events.
 - Go to Lake Acuity. Bring something with Surf and Rock Climb.
@@ -524,11 +524,11 @@ Level    | 60                 |
 
 ### Mesprit
 
-Title    | Mesprit               |
----      | ---                   |
-Pokémon  | ![][481]<br>[Mesprit] |
-Location | Verity Cavern         |
-Level    | 60                    |
+Title    | Mesprit
+---      | ---
+Pokémon  | ![][481]<br>[Mesprit]
+Location | Verity Cavern
+Level    | 60
 
 - Speak to Rowan after the Distortion World events.
 - Go to Lake Verity. Bring something with Surf.
@@ -538,11 +538,11 @@ Level    | 60                    |
 
 ### Azelf
 
-Title    | Azelf               |
----      | ---                 |
-Pokémon  | ![][482]<br>[Azelf] |
-Location | Valor Cavern        |
-Level    | 60                  |
+Title    | Azelf
+---      | ---
+Pokémon  | ![][482]<br>[Azelf]
+Location | Valor Cavern
+Level    | 60
 
 - Speak to Rowan after the Distortion World events.
 - Go to Lake Valor. Bring something with Surf.
@@ -552,11 +552,11 @@ Level    | 60                  |
 
 ### Dialga
 
-Title    | Dialga               |
----      | ---                  |
-Pokémon  | ![][483]<br>[Dialga] |
-Location | Spear Pillar         |
-Level    | 70                   |
+Title    | Dialga
+---      | ---
+Pokémon  | ![][483]<br>[Dialga]
+Location | Spear Pillar
+Level    | 70
 
 - After the credits, talk to the Celestic elder in the big house in Celestic Town.
 - Go to Mt. Coronet. Surf, Waterfall and Rock Climb are required.
@@ -566,11 +566,11 @@ Level    | 70                   |
 
 ### Palkia
 
-Title    | Palkia               |
----      | ---                  |
-Pokémon  | ![][484]<br>[Palkia] |
-Location | Spear Pillar         |
-Level    | 70                   |
+Title    | Palkia
+---      | ---
+Pokémon  | ![][484]<br>[Palkia]
+Location | Spear Pillar
+Level    | 70
 
 - After the credits, talk to the Celestic elder in the big house in Celestic Town.
 - Go to Mt. Coronet. Surf, Waterfall and Rock Climb are required.
@@ -581,11 +581,11 @@ Level    | 70                   |
 
 ### Heatran
 
-Title    | Heatran                                   |
----      | ---                                       |
-Pokémon  | ![][485]<br>[Heatran]                     |
-Location | Stark Mountain (Furthest Room - Interior) |
-Level    | 68                                        |
+Title    | Heatran
+---      | ---
+Pokémon  | ![][485]<br>[Heatran]
+Location | Stark Mountain (Furthest Room - Interior)
+Level    | 68
 
 - After completing the Stark Mountain events, go to the Survival Area.
 - Enter the Battleground and Buck's grandfather will talk to you.
@@ -596,11 +596,11 @@ Level    | 68                                        |
 
 ### Regigigas
 
-Title    | Regigigas               |
----      | ---                     |
-Pokémon  | ![][486]<br>[Regigigas] |
-Location | Snowpoint Temple (B6F)  |
-Level    | 70                      |
+Title    | Regigigas
+---      | ---
+Pokémon  | ![][486]<br>[Regigigas]
+Location | Snowpoint Temple (B6F)
+Level    | 70
 
 - Complete the events in the story with Regigigas in the Snowpoint Temple.
 - Become the Champion (ie see the credits).
@@ -610,11 +610,11 @@ Level    | 70                      |
 
 ### Giratina
 
-Title    | Giratina                         |
----      | ---                              |
-Pokémon  | ![][487]<br>[Giratina]           |
-Location | Distortion World / Turnback Cave |
-Level    | 70                               |
+Title    | Giratina
+---      | ---
+Pokémon  | ![][487]<br>[Giratina]
+Location | Distortion World / Turnback Cave
+Level    | 70
 
 - Giratina is encountered in the Distortion World as part of the story.
 - If you defeat or run from [Giratina] in the Distortion World, you can find it in the final room of Turnback Cave after the credits at Level 70.
@@ -622,11 +622,11 @@ Level    | 70                               |
 
 ### Cresselia
 
-Title    | Cresselia               |
----      | ---                     |
-Pokémon  | ![][488]<br>[Cresselia] |
-Location | Fullmoon Island         |
-Level    | 68                      |
+Title    | Cresselia
+---      | ---
+Pokémon  | ![][488]<br>[Cresselia]
+Location | Fullmoon Island
+Level    | 68
 
 - After the credits, go to Canalave and into the house next to the port.
 - Talk to the young boy in the bed.
@@ -635,11 +635,11 @@ Level    | 68                      |
 
 ### Phione
 
-Title    | Phione               |
----      | ---                  |
-Pokémon  | ![][489]<br>[Phione] |
-Location | N/A                  |
-Level    | N/A                  |
+Title    | Phione
+---      | ---
+Pokémon  | ![][489]<br>[Phione]
+Location | N/A
+Level    | N/A
 
 
 - Place [Manaphy] in the Daycare in Solaceon Town with a Ditto as a partner.
@@ -647,22 +647,22 @@ Level    | N/A                  |
 
 ###  Manaphy
 
-Title    | Manaphy               |
----      | ---                   |
-Pokémon  | ![][490]<br>[Manaphy] |
-Location | Pokémon Mansion       |
-Level    | 1                     |
+Title    | Manaphy
+---      | ---
+Pokémon  | ![][490]<br>[Manaphy]
+Location | Pokémon Mansion
+Level    | 1
 
 - After the story events at the Pokémon Mansion, you will be offered an Egg.
 - Accept the Egg, then hatch it to get [Manaphy].
 
 ### Darkrai
 
-Title    | Darkrai               |
----      | ---                   |
-Pokémon  | ![][491]<br>[Darkrai] |
-Location | Newmoon Island        |
-Level    | 68                    |
+Title    | Darkrai
+---      | ---
+Pokémon  | ![][491]<br>[Darkrai]
+Location | Newmoon Island
+Level    | 68
 
 - Obtain the Lunar Wing by capturing Cresselia on Fullmoon Island.
 - Talk to the young boy in the house next to the port to heal him.
@@ -673,11 +673,11 @@ Level    | 68                    |
 
 ### Shaymin
 
-Title    | Shaymin               |
----      | ---                   |
-Pokémon  | ![][492]<br>[Shaymin] |
-Location | Flower Paradise       |
-Level    | 30                    |
+Title    | Shaymin
+---      | ---
+Pokémon  | ![][492]<br>[Shaymin]
+Location | Flower Paradise
+Level    | 30
 
 - Defeat Dawn or Lucas at Route 224 as part of the storyline.
 - Talk to Professor Oak in Eterna City to receive Oak's Letter.
@@ -690,11 +690,11 @@ Level    | 30                    |
 
 ### Arceus
 
-Title    | Arceus               |
----      | ---                  |
-Pokémon  | ![][493]<br>[Arceus] |
-Location | Hall of Origin       |
-Level    | 80                   |
+Title    | Arceus
+---      | ---
+Pokémon  | ![][493]<br>[Arceus]
+Location | Hall of Origin
+Level    | 80
 
 - After the credits, talk to the old woman in the 'Foreign Building' in Hearthome City to make the Type Master trainers appear.
 - You need to collect all sixteen Plate items (the Pixie Plate has not been added).

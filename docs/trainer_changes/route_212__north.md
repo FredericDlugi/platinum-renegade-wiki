@@ -4,55 +4,55 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_212__north/).
 
 
-Trainer                             | 1                                    | 2                                   | 3                                    | 
----                                 | ---                                  | ---                                 | ---                                  | 
-Galactic Grunt                      | ![][262]<br> [Mightyena]<br> Lv. 29  | ![][024]<br> [Arbok]<br> Lv. 29     | &nbsp;                               | 
-Galactic Grunt                      | ![][402]<br> [Kricketune]<br> Lv. 30 | &nbsp;                              | &nbsp;                               | 
-Galactic Grunt                      | ![][431]<br> [Glameow]<br> Lv. 28    | ![][109]<br> [Koffing]<br> Lv. 28   | ![][269]<br> [Dustox]<br> Lv. 28     | 
-Galactic Grunt                      | ![][337]<br> [Lunatone]<br> Lv. 29   | ![][338]<br> [Solrock]<br> Lv. 29   | &nbsp;                               | 
-Galactic Grunt                      | ![][338]<br> [Solrock]<br> Lv. 29    | ![][337]<br> [Lunatone]<br> Lv. 29  | &nbsp;                               | 
-Galactic Grunt                      | ![][290]<br> [Nincada]<br> Lv. 30    | &nbsp;                              | &nbsp;                               | 
-Galactic Grunt                      | ![][291]<br> [Ninjask]<br> Lv. 30    | &nbsp;                              | &nbsp;                               | 
-Galactic Grunt                      | ![][292]<br> [Shedinja]<br> Lv. 30   | &nbsp;                              | &nbsp;                               | 
-Galactic Grunt                      | ![][015]<br> [Beedrill]<br> Lv. 29   | ![][042]<br> [Golbat]<br> Lv. 29    | &nbsp;                               | 
-Galactic Grunt                      | ![][453]<br> [Croagunk]<br> Lv. 28   | ![][336]<br> [Seviper]<br> Lv. 28   | ![][012]<br> [Butterfree]<br> Lv. 28 | 
-Galactic Grunt                      | ![][198]<br> [Murkrow]<br> Lv. 30    | &nbsp;                              | &nbsp;                               | 
-Galactic Grunt                      | ![][434]<br> [Stunky]<br> Lv. 28     | ![][048]<br> [Venonat]<br> Lv. 28   | ![][024]<br> [Arbok]<br> Lv. 28      | 
-Commander Saturn<br>![][saturn]     | ![][437]<br> [Bronzong]<br> Lv. 33   | ![][224]<br> [Octillery]<br> Lv. 33 | ![][454]<br> [Toxicroak]<br> Lv. 34  | 
-Gentleman Backlot<br>![][gentleman] | ![][040]<br> [Wigglytuff]<br> Lv. 33 | ![][026]<br> [Raichu]<br> Lv. 33    | ![][196]<br> [Espeon]<br> Lv. 33     | 
-Rich Boy Jason                      | ![][394]<br> [Prinplup]<br> Lv. 30   | ![][184]<br> [Azumarill]<br> Lv. 30 | &nbsp;                               | 
-Lady Melissa (!)                    | ![][421]<br> [Cherrim]<br> Lv. 30    | ![][189]<br> [Jumpluff]<br> Lv. 30  | &nbsp;                               | 
-Gentleman Jeremy (!)                | ![][441]<br> [Chatot]<br> Lv. 31     | &nbsp;                              | &nbsp;                               | 
-Socialite Reina (!)                 | ![][301]<br> [Delcatty]<br> Lv. 31   | &nbsp;                              | &nbsp;                               | 
-Policeman Bobby                     | ![][164]<br> [Noctowl]<br> Lv. 31    | &nbsp;                              | &nbsp;                               | 
-Policeman Alex                      | ![][068]<br> [Machamp]<br> Lv. 31    | &nbsp;                              | &nbsp;                               | 
-Policeman Dylan                     | ![][059]<br> [Arcanine]<br> Lv. 31   | &nbsp;                              | &nbsp;                               | 
-Policeman Caleb                     | ![][210]<br> [Granbull]<br> Lv. 31   | &nbsp;                              | &nbsp;                               | 
+Trainer                             | 1                                  | 2                                 | 3
+---                                 | ---                                | ---                               | ---
+Galactic Grunt                      | ![][262]<br>[Mightyena]<br>Lv. 29  | ![][024]<br>[Arbok]<br>Lv. 29     | &nbsp;
+Galactic Grunt                      | ![][402]<br>[Kricketune]<br>Lv. 30 | &nbsp;                            | &nbsp;
+Galactic Grunt                      | ![][431]<br>[Glameow]<br>Lv. 28    | ![][109]<br>[Koffing]<br>Lv. 28   | ![][269]<br>[Dustox]<br>Lv. 28
+Galactic Grunt                      | ![][337]<br>[Lunatone]<br>Lv. 29   | ![][338]<br>[Solrock]<br>Lv. 29   | &nbsp;
+Galactic Grunt                      | ![][338]<br>[Solrock]<br>Lv. 29    | ![][337]<br>[Lunatone]<br>Lv. 29  | &nbsp;
+Galactic Grunt                      | ![][290]<br>[Nincada]<br>Lv. 30    | &nbsp;                            | &nbsp;
+Galactic Grunt                      | ![][291]<br>[Ninjask]<br>Lv. 30    | &nbsp;                            | &nbsp;
+Galactic Grunt                      | ![][292]<br>[Shedinja]<br>Lv. 30   | &nbsp;                            | &nbsp;
+Galactic Grunt                      | ![][015]<br>[Beedrill]<br>Lv. 29   | ![][042]<br>[Golbat]<br>Lv. 29    | &nbsp;
+Galactic Grunt                      | ![][453]<br>[Croagunk]<br>Lv. 28   | ![][336]<br>[Seviper]<br>Lv. 28   | ![][012]<br>[Butterfree]<br>Lv. 28
+Galactic Grunt                      | ![][198]<br>[Murkrow]<br>Lv. 30    | &nbsp;                            | &nbsp;
+Galactic Grunt                      | ![][434]<br>[Stunky]<br>Lv. 28     | ![][048]<br>[Venonat]<br>Lv. 28   | ![][024]<br>[Arbok]<br>Lv. 28
+Commander Saturn<br>![][saturn]     | ![][437]<br>[Bronzong]<br>Lv. 33   | ![][224]<br>[Octillery]<br>Lv. 33 | ![][454]<br>[Toxicroak]<br>Lv. 34
+Gentleman Backlot<br>![][gentleman] | ![][040]<br>[Wigglytuff]<br>Lv. 33 | ![][026]<br>[Raichu]<br>Lv. 33    | ![][196]<br>[Espeon]<br>Lv. 33
+Rich Boy Jason                      | ![][394]<br>[Prinplup]<br>Lv. 30   | ![][184]<br>[Azumarill]<br>Lv. 30 | &nbsp;
+Lady Melissa (!)                    | ![][421]<br>[Cherrim]<br>Lv. 30    | ![][189]<br>[Jumpluff]<br>Lv. 30  | &nbsp;
+Gentleman Jeremy (!)                | ![][441]<br>[Chatot]<br>Lv. 31     | &nbsp;                            | &nbsp;
+Socialite Reina (!)                 | ![][301]<br>[Delcatty]<br>Lv. 31   | &nbsp;                            | &nbsp;
+Policeman Bobby                     | ![][164]<br>[Noctowl]<br>Lv. 31    | &nbsp;                            | &nbsp;
+Policeman Alex                      | ![][068]<br>[Machamp]<br>Lv. 31    | &nbsp;                            | &nbsp;
+Policeman Dylan                     | ![][059]<br>[Arcanine]<br>Lv. 31   | &nbsp;                            | &nbsp;
+Policeman Caleb                     | ![][210]<br>[Granbull]<br>Lv. 31   | &nbsp;                            | &nbsp;
 
 #### Rematches
 
-Trainer              | 1                                   | 2                                 | 3                                  | 
----                  | ---                                 | ---                               | ---                                | 
-Lady Melissa (5)     | ![][044]<br> [Gloom]<br> Lv. 38     | ![][421]<br> [Cherrim]<br> Lv. 38 | ![][189]<br> [Jumpluff]<br> Lv. 38 | 
-Lady Melissa (8)     | ![][182]<br> [Bellossom]<br> Lv. 59 | ![][421]<br> [Cherrim]<br> Lv. 59 | ![][189]<br> [Jumpluff]<br> Lv. 59 | 
-Lady Melissa (C)     | ![][182]<br> [Bellossom]<br> Lv. 70 | ![][421]<br> [Cherrim]<br> Lv. 70 | ![][189]<br> [Jumpluff]<br> Lv. 70 | 
-Gentleman Jeremy (5) | ![][441]<br> [Chatot]<br> Lv. 41    | &nbsp;                            | &nbsp;                             | 
-Gentleman Jeremy (8) | ![][441]<br> [Chatot]<br> Lv. 62    | &nbsp;                            | &nbsp;                             | 
-Gentleman Jeremy (C) | ![][441]<br> [Chatot]<br> Lv. 73    | &nbsp;                            | &nbsp;                             | 
-Socialite Reina (8)  | ![][301]<br> [Delcatty]<br> Lv. 62  | &nbsp;                            | &nbsp;                             | 
-Socialite Reina (C)  | ![][301]<br> [Delcatty]<br> Lv. 73  | &nbsp;                            | &nbsp;                             | 
+Trainer              | 1                                 | 2                               | 3
+---                  | ---                               | ---                             | ---
+Lady Melissa (5)     | ![][044]<br>[Gloom]<br>Lv. 38     | ![][421]<br>[Cherrim]<br>Lv. 38 | ![][189]<br>[Jumpluff]<br>Lv. 38
+Lady Melissa (8)     | ![][182]<br>[Bellossom]<br>Lv. 59 | ![][421]<br>[Cherrim]<br>Lv. 59 | ![][189]<br>[Jumpluff]<br>Lv. 59
+Lady Melissa (C)     | ![][182]<br>[Bellossom]<br>Lv. 70 | ![][421]<br>[Cherrim]<br>Lv. 70 | ![][189]<br>[Jumpluff]<br>Lv. 70
+Gentleman Jeremy (5) | ![][441]<br>[Chatot]<br>Lv. 41    | &nbsp;                          | &nbsp;
+Gentleman Jeremy (8) | ![][441]<br>[Chatot]<br>Lv. 62    | &nbsp;                          | &nbsp;
+Gentleman Jeremy (C) | ![][441]<br>[Chatot]<br>Lv. 73    | &nbsp;                          | &nbsp;
+Socialite Reina (8)  | ![][301]<br>[Delcatty]<br>Lv. 62  | &nbsp;                          | &nbsp;
+Socialite Reina (C)  | ![][301]<br>[Delcatty]<br>Lv. 73  | &nbsp;                          | &nbsp;
 
-Commander Saturn<br>![][saturn]     | Item                               | Nature | Ability      | Moves                                          | 
----                                 | ---                                | ---    | ---          | ---                                            | 
-![][437]<br> [Bronzong]<br> Lv. 33  | ![][leftovers]<br> Leftovers       | ?      | Levitate     | Hypnosis, Gyro Ball, Zen Headbutt, Confuse Ray | 
-![][224]<br> [Octillery]<br> Lv. 33 | ![][wise-glasses]<br> Wise Glasses | ?      | Suction Cups | Octazooka, Signal Beam, Ice Beam, Flamethrower | 
-![][454]<br> [Toxicroak]<br> Lv. 34 | ![][muscle-band]<br> Muscle Band   | ?      | Dry Skin     | Drain Punch, Poison Jab, Fake Out, Vacuum Wave | 
+Commander Saturn<br>![][saturn]   | Item                              | Nature | Ability      | Moves
+---                               | ---                               | ---    | ---          | ---
+![][437]<br>[Bronzong]<br>Lv. 33  | ![][leftovers]<br>Leftovers       | ?      | Levitate     | Hypnosis, Gyro Ball, Zen Headbutt, Confuse Ray
+![][224]<br>[Octillery]<br>Lv. 33 | ![][wise-glasses]<br>Wise Glasses | ?      | Suction Cups | Octazooka, Signal Beam, Ice Beam, Flamethrower
+![][454]<br>[Toxicroak]<br>Lv. 34 | ![][muscle-band]<br>Muscle Band   | ?      | Dry Skin     | Drain Punch, Poison Jab, Fake Out, Vacuum Wave
 
-Gentleman Backlot<br>![][gentleman]  | Item                               | Nature | Ability     | Moves                                           | 
----                                  | ---                                | ---    | ---         | ---                                             | 
-![][040]<br> [Wigglytuff]<br> Lv. 33 | ![][zoom-lens]<br> Zoom Lens       | ?      | Cute Charm  | Moonblast, Hyper Voice, Sing, Thunderbolt       | 
-![][026]<br> [Raichu]<br> Lv. 33     | ![][wise-glasses]<br> Wise Glasses | ?      | Static      | Fake Out, Thunderbolt, Grass Knot, Teeter Dance | 
-![][196]<br> [Espeon]<br> Lv. 33     | ![][sitrus-berry]<br> Sitrus Berry | ?      | Synchronize | Psychic, Power Gem, Dazzling Gleam, Protect     | 
+Gentleman Backlot<br>![][gentleman] | Item                              | Nature | Ability     | Moves
+---                                 | ---                               | ---    | ---         | ---
+![][040]<br>[Wigglytuff]<br>Lv. 33  | ![][zoom-lens]<br>Zoom Lens       | ?      | Cute Charm  | Moonblast, Hyper Voice, Sing, Thunderbolt
+![][026]<br>[Raichu]<br>Lv. 33      | ![][wise-glasses]<br>Wise Glasses | ?      | Static      | Fake Out, Thunderbolt, Grass Knot, Teeter Dance
+![][196]<br>[Espeon]<br>Lv. 33      | ![][sitrus-berry]<br>Sitrus Berry | ?      | Synchronize | Psychic, Power Gem, Dazzling Gleam, Protect
 
 [Butterfree]: ../../pokemon_changes/012/
 [Beedrill]: ../../pokemon_changes/015/

@@ -4,27 +4,27 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_203/).
 
 
-Trainer              | 1                                  | 2                                   | 3                                  | 
----                  | ---                                | ---                                 | ---                                | 
-PKMN Trainer Barry   | ![][396]<br> [Starly]<br> Lv. 10   | ![][446]<br> [Munchlax]<br> Lv. 10  | ![][387]<br> [Turtwig]<br> Lv. 11  | 
-PKMN Trainer Barry   | ![][396]<br> [Starly]<br> Lv. 10   | ![][446]<br> [Munchlax]<br> Lv. 10  | ![][390]<br> [Chimchar]<br> Lv. 11 | 
-PKMN Trainer Barry   | ![][396]<br> [Starly]<br> Lv. 10   | ![][446]<br> [Munchlax]<br> Lv. 10  | ![][393]<br> [Piplup]<br> Lv. 11   | 
-Youngster Michael    | ![][401]<br> [Kricketot]<br> Lv. 9 | ![][041]<br> [Zubat]<br> Lv. 9      | ![][019]<br> [Rattata]<br> Lv. 9   | 
-Youngster Dallas (!) | ![][403]<br> [Shinx]<br> Lv. 10    | ![][027]<br> [Sandshrew]<br> Lv. 10 | &nbsp;                             | 
-Youngster Sebastian  | ![][296]<br> [Makuhita]<br> Lv. 10 | ![][066]<br> [Machop]<br> Lv. 10    | &nbsp;                             | 
-Lass Kaitlin         | ![][021]<br> [Spearow]<br> Lv. 9   | ![][104]<br> [Cubone]<br> Lv. 9     | ![][298]<br> [Azurill]<br> Lv. 9   | 
-Lass Madeline (!)    | ![][054]<br> [Psyduck]<br> Lv. 10  | ![][191]<br> [Sunkern]<br> Lv. 10   | &nbsp;                             | 
+Trainer              | 1                                | 2                                 | 3
+---                  | ---                              | ---                               | ---
+PKMN Trainer Barry   | ![][396]<br>[Starly]<br>Lv. 10   | ![][446]<br>[Munchlax]<br>Lv. 10  | ![][387]<br>[Turtwig]<br>Lv. 11
+PKMN Trainer Barry   | ![][396]<br>[Starly]<br>Lv. 10   | ![][446]<br>[Munchlax]<br>Lv. 10  | ![][390]<br>[Chimchar]<br>Lv. 11
+PKMN Trainer Barry   | ![][396]<br>[Starly]<br>Lv. 10   | ![][446]<br>[Munchlax]<br>Lv. 10  | ![][393]<br>[Piplup]<br>Lv. 11
+Youngster Michael    | ![][401]<br>[Kricketot]<br>Lv. 9 | ![][041]<br>[Zubat]<br>Lv. 9      | ![][019]<br>[Rattata]<br>Lv. 9
+Youngster Dallas (!) | ![][403]<br>[Shinx]<br>Lv. 10    | ![][027]<br>[Sandshrew]<br>Lv. 10 | &nbsp;
+Youngster Sebastian  | ![][296]<br>[Makuhita]<br>Lv. 10 | ![][066]<br>[Machop]<br>Lv. 10    | &nbsp;
+Lass Kaitlin         | ![][021]<br>[Spearow]<br>Lv. 9   | ![][104]<br>[Cubone]<br>Lv. 9     | ![][298]<br>[Azurill]<br>Lv. 9
+Lass Madeline (!)    | ![][054]<br>[Psyduck]<br>Lv. 10  | ![][191]<br>[Sunkern]<br>Lv. 10   | &nbsp;
 
 #### Rematches
 
-Trainer              | 1                                 | 2                                   | 3                                 | 4                               | 
----                  | ---                               | ---                                 | ---                               | ---                             | 
-Youngster Dallas (3) | ![][404]<br> [Luxio]<br> Lv. 27   | ![][028]<br> [Sandslash]<br> Lv. 27 | &nbsp;                            | &nbsp;                          | 
-Youngster Dallas (5) | ![][404]<br> [Luxio]<br> Lv. 38   | ![][028]<br> [Sandslash]<br> Lv. 38 | ![][400]<br> [Bibarel]<br> Lv. 38 | &nbsp;                          | 
-Youngster Dallas (C) | ![][405]<br> [Luxray]<br> Lv. 69  | ![][028]<br> [Sandslash]<br> Lv. 69 | ![][400]<br> [Bibarel]<br> Lv. 69 | ![][076]<br> [Golem]<br> Lv. 69 | 
-Lass Madeline (3)    | ![][054]<br> [Psyduck]<br> Lv. 26 | ![][191]<br> [Sunkern]<br> Lv. 26   | ![][427]<br> [Buneary]<br> Lv. 26 | &nbsp;                          | 
-Lass Madeline (5)    | ![][055]<br> [Golduck]<br> Lv. 38 | ![][192]<br> [Sunflora]<br> Lv. 38  | ![][428]<br> [Lopunny]<br> Lv. 38 | &nbsp;                          | 
-Lass Madeline (8)    | ![][055]<br> [Golduck]<br> Lv. 59 | ![][192]<br> [Sunflora]<br> Lv. 59  | ![][428]<br> [Lopunny]<br> Lv. 59 | &nbsp;                          | 
+Trainer              | 1                               | 2                                 | 3                               | 4
+---                  | ---                             | ---                               | ---                             | ---
+Youngster Dallas (3) | ![][404]<br>[Luxio]<br>Lv. 27   | ![][028]<br>[Sandslash]<br>Lv. 27 | &nbsp;                          | &nbsp;
+Youngster Dallas (5) | ![][404]<br>[Luxio]<br>Lv. 38   | ![][028]<br>[Sandslash]<br>Lv. 38 | ![][400]<br>[Bibarel]<br>Lv. 38 | &nbsp;
+Youngster Dallas (C) | ![][405]<br>[Luxray]<br>Lv. 69  | ![][028]<br>[Sandslash]<br>Lv. 69 | ![][400]<br>[Bibarel]<br>Lv. 69 | ![][076]<br>[Golem]<br>Lv. 69
+Lass Madeline (3)    | ![][054]<br>[Psyduck]<br>Lv. 26 | ![][191]<br>[Sunkern]<br>Lv. 26   | ![][427]<br>[Buneary]<br>Lv. 26 | &nbsp;
+Lass Madeline (5)    | ![][055]<br>[Golduck]<br>Lv. 38 | ![][192]<br>[Sunflora]<br>Lv. 38  | ![][428]<br>[Lopunny]<br>Lv. 38 | &nbsp;
+Lass Madeline (8)    | ![][055]<br>[Golduck]<br>Lv. 59 | ![][192]<br>[Sunflora]<br>Lv. 59  | ![][428]<br>[Lopunny]<br>Lv. 59 | &nbsp;
 
 [Rattata]: ../../pokemon_changes/019/
 [Spearow]: ../../pokemon_changes/021/
