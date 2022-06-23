@@ -1,8 +1,8 @@
 # Eterna Forest (Outside)
 
-Area                                | Pokémon                          | 
----                                 | ---                              | 
-![][honey]<br> Honey Tree<br>Lv. 15 | ![][015]<br> [Beedrill]<br> 100% | 
+Area                               | Pokémon
+---                                | ---
+![][honey]<br>Honey Tree<br>Lv. 15 | ![][015]<br>[Beedrill]<br>100%
 
 [Beedrill]: ../../pokemon_changes/015/
 [honey]: ../img/items/honey.png

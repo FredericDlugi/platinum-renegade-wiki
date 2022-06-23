@@ -1,13 +1,13 @@
 # Maniac Tunnel
 
-Area                        | Pokémon                        | &nbsp;                         | &nbsp;                            | &nbsp;                          | &nbsp;                         | &nbsp;                       | 
----                         | ---                            | ---                            | ---                               | ---                             | ---                            | ---                          | 
-🌅<br>Morning<br>Lv. 28 - 32 | ![][050]<br> [Diglett]<br> 25% | ![][293]<br> [Whismur]<br> 20% | ![][449]<br> [Hippopotas]<br> 15% | ![][328]<br> [Trapinch]<br> 15% | ![][294]<br> [Loudred]<br> 10% | ![][132]<br> [Ditto]<br> 10% | 
-&nbsp;                      | ![][051]<br> [Dugtrio]<br> 5%  | &nbsp;                         | &nbsp;                            | &nbsp;                          | &nbsp;                         | &nbsp;                       | 
-🌞<br>Day<br>Lv. 28 - 32     | ![][050]<br> [Diglett]<br> 25% | ![][293]<br> [Whismur]<br> 20% | ![][449]<br> [Hippopotas]<br> 15% | ![][328]<br> [Trapinch]<br> 15% | ![][294]<br> [Loudred]<br> 10% | ![][132]<br> [Ditto]<br> 10% | 
-&nbsp;                      | ![][051]<br> [Dugtrio]<br> 5%  | &nbsp;                         | &nbsp;                            | &nbsp;                          | &nbsp;                         | &nbsp;                       | 
-🌙<br>Night<br>Lv. 28 - 32   | ![][050]<br> [Diglett]<br> 25% | ![][293]<br> [Whismur]<br> 20% | ![][449]<br> [Hippopotas]<br> 15% | ![][328]<br> [Trapinch]<br> 15% | ![][294]<br> [Loudred]<br> 10% | ![][132]<br> [Ditto]<br> 10% | 
-&nbsp;                      | ![][051]<br> [Dugtrio]<br> 5%  | &nbsp;                         | &nbsp;                            | &nbsp;                          | &nbsp;                         | &nbsp;                       | 
+Area                        | Pokémon                      | &nbsp;                       | &nbsp;                          | &nbsp;                        | &nbsp;                       | &nbsp;
+---                         | ---                          | ---                          | ---                             | ---                           | ---                          | ---
+🌅<br>Morning<br>Lv. 28 - 32 | ![][050]<br>[Diglett]<br>25% | ![][293]<br>[Whismur]<br>20% | ![][449]<br>[Hippopotas]<br>15% | ![][328]<br>[Trapinch]<br>15% | ![][294]<br>[Loudred]<br>10% | ![][132]<br>[Ditto]<br>10%
+&nbsp;                      | ![][051]<br>[Dugtrio]<br>5%  | &nbsp;                       | &nbsp;                          | &nbsp;                        | &nbsp;                       | &nbsp;
+🌞<br>Day<br>Lv. 28 - 32     | ![][050]<br>[Diglett]<br>25% | ![][293]<br>[Whismur]<br>20% | ![][449]<br>[Hippopotas]<br>15% | ![][328]<br>[Trapinch]<br>15% | ![][294]<br>[Loudred]<br>10% | ![][132]<br>[Ditto]<br>10%
+&nbsp;                      | ![][051]<br>[Dugtrio]<br>5%  | &nbsp;                       | &nbsp;                          | &nbsp;                        | &nbsp;                       | &nbsp;
+🌙<br>Night<br>Lv. 28 - 32   | ![][050]<br>[Diglett]<br>25% | ![][293]<br>[Whismur]<br>20% | ![][449]<br>[Hippopotas]<br>15% | ![][328]<br>[Trapinch]<br>15% | ![][294]<br>[Loudred]<br>10% | ![][132]<br>[Ditto]<br>10%
+&nbsp;                      | ![][051]<br>[Dugtrio]<br>5%  | &nbsp;                       | &nbsp;                          | &nbsp;                        | &nbsp;                       | &nbsp;
 
 [Diglett]: ../../pokemon_changes/050/
 [Dugtrio]: ../../pokemon_changes/051/

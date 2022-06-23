@@ -4,20 +4,20 @@
     There are trainer on this route. You can find out more [here](../../trainer_changes/route_222/).
 
 
-Area                                          | Pokémon                           | &nbsp;                           | &nbsp;                            | &nbsp;                         | &nbsp;                          | &nbsp;                         | 
----                                           | ---                               | ---                              | ---                               | ---                            | ---                             | ---                            | 
-🌅<br>Morning<br>Lv. 53 - 54                   | ![][125]<br> [Electabuzz]<br> 20% | ![][419]<br> [Floatzel]<br> 20%  | ![][404]<br> [Luxio]<br> 10%      | ![][432]<br> [Purugly]<br> 10% | ![][279]<br> [Pelipper]<br> 10% | ![][180]<br> [Flaaffy]<br> 10% | 
-&nbsp;                                        | ![][122]<br> [Mr. Mime]<br> 10%   | ![][441]<br> [Chatot]<br> 10%    | &nbsp;                            | &nbsp;                         | &nbsp;                          | &nbsp;                         | 
-🌞<br>Day<br>Lv. 53 - 54                       | ![][125]<br> [Electabuzz]<br> 20% | ![][419]<br> [Floatzel]<br> 20%  | ![][404]<br> [Luxio]<br> 10%      | ![][432]<br> [Purugly]<br> 10% | ![][279]<br> [Pelipper]<br> 10% | ![][180]<br> [Flaaffy]<br> 10% | 
-&nbsp;                                        | ![][122]<br> [Mr. Mime]<br> 10%   | ![][441]<br> [Chatot]<br> 10%    | &nbsp;                            | &nbsp;                         | &nbsp;                          | &nbsp;                         | 
-🌙<br>Night<br>Lv. 53 - 54                     | ![][125]<br> [Electabuzz]<br> 20% | ![][419]<br> [Floatzel]<br> 20%  | ![][404]<br> [Luxio]<br> 20%      | ![][432]<br> [Purugly]<br> 10% | ![][279]<br> [Pelipper]<br> 10% | ![][180]<br> [Flaaffy]<br> 10% | 
-&nbsp;                                        | ![][122]<br> [Mr. Mime]<br> 10%   | &nbsp;                           | &nbsp;                            | &nbsp;                         | &nbsp;                          | &nbsp;                         | 
-![][poke-radar]<br> Poké Radar<br>Lv. 53 - 54 | ![][301]<br> [Delcatty]<br> 22%   | &nbsp;                           | &nbsp;                            | &nbsp;                         | &nbsp;                          | &nbsp;                         | 
-🌊<br> Surf<br>Lv. 35 - 55                     | ![][072]<br> [Tentacool]<br> 60%  | ![][278]<br> [Wingull]<br> 30%   | ![][073]<br> [Tentacruel]<br> 5%  | ![][279]<br> [Pelipper]<br> 5% | &nbsp;                          | &nbsp;                         | 
-![][old-rod]<br>Old Rod<br>Lv. 10             | ![][129]<br> [Magikarp]<br> 60%   | ![][223]<br> [Remoraid]<br> 30%  | ![][320]<br> [Wailmer]<br> 10%    | &nbsp;                         | &nbsp;                          | &nbsp;                         | 
-![][good-rod]<br>Good Rod<br>Lv. 25           | ![][129]<br> [Magikarp]<br> 60%   | ![][223]<br> [Remoraid]<br> 30%  | ![][320]<br> [Wailmer]<br> 10%    | &nbsp;                         | &nbsp;                          | &nbsp;                         | 
-![][super-rod]<br>Super Rod<br>Lv. 50         | ![][130]<br> [Gyarados]<br> 60%   | ![][320]<br> [Wailmer]<br> 30%   | ![][224]<br> [Octillery]<br> 5%   | ![][321]<br> [Wailord]<br> 5%  | &nbsp;                          | &nbsp;                         | 
-![][honey]<br> Honey Tree<br>Lv. 54           | ![][114]<br> [Tangela]<br> 30%    | ![][214]<br> [Heracross]<br> 30% | ![][083]<br> [Farfetch'd]<br> 30% | ![][143]<br> [Snorlax]<br> 10% | &nbsp;                          | &nbsp;                         | 
+Area                                         | Pokémon                         | &nbsp;                         | &nbsp;                          | &nbsp;                       | &nbsp;                        | &nbsp;
+---                                          | ---                             | ---                            | ---                             | ---                          | ---                           | ---
+🌅<br>Morning<br>Lv. 53 - 54                  | ![][125]<br>[Electabuzz]<br>20% | ![][419]<br>[Floatzel]<br>20%  | ![][404]<br>[Luxio]<br>10%      | ![][432]<br>[Purugly]<br>10% | ![][279]<br>[Pelipper]<br>10% | ![][180]<br>[Flaaffy]<br>10%
+&nbsp;                                       | ![][122]<br>[Mr. Mime]<br>10%   | ![][441]<br>[Chatot]<br>10%    | &nbsp;                          | &nbsp;                       | &nbsp;                        | &nbsp;
+🌞<br>Day<br>Lv. 53 - 54                      | ![][125]<br>[Electabuzz]<br>20% | ![][419]<br>[Floatzel]<br>20%  | ![][404]<br>[Luxio]<br>10%      | ![][432]<br>[Purugly]<br>10% | ![][279]<br>[Pelipper]<br>10% | ![][180]<br>[Flaaffy]<br>10%
+&nbsp;                                       | ![][122]<br>[Mr. Mime]<br>10%   | ![][441]<br>[Chatot]<br>10%    | &nbsp;                          | &nbsp;                       | &nbsp;                        | &nbsp;
+🌙<br>Night<br>Lv. 53 - 54                    | ![][125]<br>[Electabuzz]<br>20% | ![][419]<br>[Floatzel]<br>20%  | ![][404]<br>[Luxio]<br>20%      | ![][432]<br>[Purugly]<br>10% | ![][279]<br>[Pelipper]<br>10% | ![][180]<br>[Flaaffy]<br>10%
+&nbsp;                                       | ![][122]<br>[Mr. Mime]<br>10%   | &nbsp;                         | &nbsp;                          | &nbsp;                       | &nbsp;                        | &nbsp;
+![][poke-radar]<br>Poké Radar<br>Lv. 53 - 54 | ![][301]<br>[Delcatty]<br>22%   | &nbsp;                         | &nbsp;                          | &nbsp;                       | &nbsp;                        | &nbsp;
+🌊<br>Surf<br>Lv. 35 - 55                     | ![][072]<br>[Tentacool]<br>60%  | ![][278]<br>[Wingull]<br>30%   | ![][073]<br>[Tentacruel]<br>5%  | ![][279]<br>[Pelipper]<br>5% | &nbsp;                        | &nbsp;
+![][old-rod]<br>Old Rod<br>Lv. 10            | ![][129]<br>[Magikarp]<br>60%   | ![][223]<br>[Remoraid]<br>30%  | ![][320]<br>[Wailmer]<br>10%    | &nbsp;                       | &nbsp;                        | &nbsp;
+![][good-rod]<br>Good Rod<br>Lv. 25          | ![][129]<br>[Magikarp]<br>60%   | ![][223]<br>[Remoraid]<br>30%  | ![][320]<br>[Wailmer]<br>10%    | &nbsp;                       | &nbsp;                        | &nbsp;
+![][super-rod]<br>Super Rod<br>Lv. 50        | ![][130]<br>[Gyarados]<br>60%   | ![][320]<br>[Wailmer]<br>30%   | ![][224]<br>[Octillery]<br>5%   | ![][321]<br>[Wailord]<br>5%  | &nbsp;                        | &nbsp;
+![][honey]<br>Honey Tree<br>Lv. 54           | ![][114]<br>[Tangela]<br>30%    | ![][214]<br>[Heracross]<br>30% | ![][083]<br>[Farfetch'd]<br>30% | ![][143]<br>[Snorlax]<br>10% | &nbsp;                        | &nbsp;
 
 [Tentacool]: ../../pokemon_changes/072/
 [Tentacruel]: ../../pokemon_changes/073/

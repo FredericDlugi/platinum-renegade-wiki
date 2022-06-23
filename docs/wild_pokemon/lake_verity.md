@@ -3,16 +3,16 @@
 !!! note
     There are trainer on this route. You can find out more [here](../../trainer_changes/lake_verity/).
 
-Area                                        | Pokémon                          | &nbsp;                            | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                         | 
----                                         | ---                              | ---                               | ---                            | ---                            | ---                            | ---                            | 
-🌅<br>Morning<br>Lv. 4 - 5                   | ![][396]<br> [Starly]<br> 30%    | ![][399]<br> [Bidoof]<br> 20%     | ![][283]<br> [Surskit]<br> 20% | ![][298]<br> [Azurill]<br> 10% | ![][054]<br> [Psyduck]<br> 10% | ![][278]<br> [Wingull]<br> 10% | 
-🌞<br>Day<br>Lv. 4 - 5                       | ![][396]<br> [Starly]<br> 30%    | ![][399]<br> [Bidoof]<br> 20%     | ![][283]<br> [Surskit]<br> 20% | ![][298]<br> [Azurill]<br> 10% | ![][054]<br> [Psyduck]<br> 10% | ![][278]<br> [Wingull]<br> 10% | 
-🌙<br>Night<br>Lv. 4 - 5                     | ![][396]<br> [Starly]<br> 30%    | ![][399]<br> [Bidoof]<br> 20%     | ![][283]<br> [Surskit]<br> 20% | ![][298]<br> [Azurill]<br> 10% | ![][054]<br> [Psyduck]<br> 10% | ![][278]<br> [Wingull]<br> 10% | 
-![][poke-radar]<br> Poké Radar<br>Lv. 4 - 5 | ![][360]<br> [Wynaut]<br> 22%    | &nbsp;                            | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                         | 
-🌊<br> Surf<br>Lv. 20 - 40                   | ![][283]<br> [Surskit]<br> 90%   | ![][284]<br> [Masquerain]<br> 10% | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                         | 
-![][old-rod]<br>Old Rod<br>Lv. 10           | ![][129]<br> [Magikarp]<br> 100% | &nbsp;                            | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                         | 
-![][good-rod]<br>Good Rod<br>Lv. 25         | ![][129]<br> [Magikarp]<br> 100% | &nbsp;                            | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                         | 
-![][super-rod]<br>Super Rod<br>Lv. 50       | ![][130]<br> [Gyarados]<br> 100% | &nbsp;                            | &nbsp;                         | &nbsp;                         | &nbsp;                         | &nbsp;                         | 
+Area                                       | Pokémon                        | &nbsp;                          | &nbsp;                       | &nbsp;                       | &nbsp;                       | &nbsp;
+---                                        | ---                            | ---                             | ---                          | ---                          | ---                          | ---
+🌅<br>Morning<br>Lv. 4 - 5                  | ![][396]<br>[Starly]<br>30%    | ![][399]<br>[Bidoof]<br>20%     | ![][283]<br>[Surskit]<br>20% | ![][298]<br>[Azurill]<br>10% | ![][054]<br>[Psyduck]<br>10% | ![][278]<br>[Wingull]<br>10%
+🌞<br>Day<br>Lv. 4 - 5                      | ![][396]<br>[Starly]<br>30%    | ![][399]<br>[Bidoof]<br>20%     | ![][283]<br>[Surskit]<br>20% | ![][298]<br>[Azurill]<br>10% | ![][054]<br>[Psyduck]<br>10% | ![][278]<br>[Wingull]<br>10%
+🌙<br>Night<br>Lv. 4 - 5                    | ![][396]<br>[Starly]<br>30%    | ![][399]<br>[Bidoof]<br>20%     | ![][283]<br>[Surskit]<br>20% | ![][298]<br>[Azurill]<br>10% | ![][054]<br>[Psyduck]<br>10% | ![][278]<br>[Wingull]<br>10%
+![][poke-radar]<br>Poké Radar<br>Lv. 4 - 5 | ![][360]<br>[Wynaut]<br>22%    | &nbsp;                          | &nbsp;                       | &nbsp;                       | &nbsp;                       | &nbsp;
+🌊<br>Surf<br>Lv. 20 - 40                   | ![][283]<br>[Surskit]<br>90%   | ![][284]<br>[Masquerain]<br>10% | &nbsp;                       | &nbsp;                       | &nbsp;                       | &nbsp;
+![][old-rod]<br>Old Rod<br>Lv. 10          | ![][129]<br>[Magikarp]<br>100% | &nbsp;                          | &nbsp;                       | &nbsp;                       | &nbsp;                       | &nbsp;
+![][good-rod]<br>Good Rod<br>Lv. 25        | ![][129]<br>[Magikarp]<br>100% | &nbsp;                          | &nbsp;                       | &nbsp;                       | &nbsp;                       | &nbsp;
+![][super-rod]<br>Super Rod<br>Lv. 50      | ![][130]<br>[Gyarados]<br>100% | &nbsp;                          | &nbsp;                       | &nbsp;                       | &nbsp;                       | &nbsp;
 
 [Psyduck]: ../../pokemon_changes/054/
 [Magikarp]: ../../pokemon_changes/129/

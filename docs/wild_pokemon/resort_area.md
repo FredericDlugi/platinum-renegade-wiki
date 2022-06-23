@@ -1,11 +1,11 @@
 # Resort Area
 
-Area                                       | Pokémon                          | 
----                                        | ---                              | 
-🌊<br> Surf<br>Lv. 1 - 100                  | ![][129]<br> [Magikarp]<br> 100% | 
-![][old-rod]<br>Old Rod<br>Lv. 1 - 100     | ![][129]<br> [Magikarp]<br> 100% | 
-![][good-rod]<br>Good Rod<br>Lv. 1 - 100   | ![][129]<br> [Magikarp]<br> 100% | 
-![][super-rod]<br>Super Rod<br>Lv. 1 - 100 | ![][129]<br> [Magikarp]<br> 100% | 
+Area                                       | Pokémon
+---                                        | ---
+🌊<br>Surf<br>Lv. 1 - 100                   | ![][129]<br>[Magikarp]<br>100%
+![][old-rod]<br>Old Rod<br>Lv. 1 - 100     | ![][129]<br>[Magikarp]<br>100%
+![][good-rod]<br>Good Rod<br>Lv. 1 - 100   | ![][129]<br>[Magikarp]<br>100%
+![][super-rod]<br>Super Rod<br>Lv. 1 - 100 | ![][129]<br>[Magikarp]<br>100%
 
 [Magikarp]: ../../pokemon_changes/129/
 [good-rod]: ../img/items/good-rod.png

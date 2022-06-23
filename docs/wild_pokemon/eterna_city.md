@@ -1,11 +1,11 @@
 # Eterna City
 
-Area                                  | Pokémon                         | &nbsp;                           | &nbsp;                           | 
----                                   | ---                             | ---                              | ---                              | 
-🌊<br> Surf<br>Lv. 20 - 40             | ![][054]<br> [Psyduck]<br> 90%  | ![][055]<br> [Golduck]<br> 10%   | &nbsp;                           | 
-![][old-rod]<br>Old Rod<br>Lv. 10     | ![][129]<br> [Magikarp]<br> 60% | ![][060]<br> [Poliwag]<br> 30%   | ![][147]<br> [Dratini]<br> 10%   | 
-![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br> [Magikarp]<br> 60% | ![][060]<br> [Poliwag]<br> 30%   | ![][147]<br> [Dratini]<br> 10%   | 
-![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br> [Gyarados]<br> 60% | ![][061]<br> [Poliwhirl]<br> 30% | ![][148]<br> [Dragonair]<br> 10% | 
+Area                                  | Pokémon                       | &nbsp;                         | &nbsp;
+---                                   | ---                           | ---                            | ---
+🌊<br>Surf<br>Lv. 20 - 40              | ![][054]<br>[Psyduck]<br>90%  | ![][055]<br>[Golduck]<br>10%   | &nbsp;
+![][old-rod]<br>Old Rod<br>Lv. 10     | ![][129]<br>[Magikarp]<br>60% | ![][060]<br>[Poliwag]<br>30%   | ![][147]<br>[Dratini]<br>10%
+![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>60% | ![][060]<br>[Poliwag]<br>30%   | ![][147]<br>[Dratini]<br>10%
+![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>60% | ![][061]<br>[Poliwhirl]<br>30% | ![][148]<br>[Dragonair]<br>10%
 
 [Psyduck]: ../../pokemon_changes/054/
 [Golduck]: ../../pokemon_changes/055/

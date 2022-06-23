@@ -4,12 +4,12 @@
     There are trainer on this route. You can find out more [here](../../trainer_changes/route_219/).
 
 
-Area                                  | Pokémon                        | &nbsp;                           | &nbsp;                          | &nbsp;                           | 
----                                   | ---                            | ---                              | ---                             | ---                              | 
-🌊<br> Surf<br>Lv. 30 - 45             | ![][278]<br> [Wingull]<br> 60% | ![][072]<br> [Tentacool]<br> 30% | ![][279]<br> [Pelipper]<br> 5%  | ![][073]<br> [Tentacruel]<br> 5% | 
-![][old-rod]<br>Old Rod<br>Lv. 10     | ![][098]<br> [Krabby]<br> 60%  | ![][116]<br> [Horsea]<br> 30%    | ![][366]<br> [Clamperl]<br> 10% | &nbsp;                           | 
-![][good-rod]<br>Good Rod<br>Lv. 25   | ![][098]<br> [Krabby]<br> 60%  | ![][116]<br> [Horsea]<br> 30%    | ![][366]<br> [Clamperl]<br> 10% | &nbsp;                           | 
-![][super-rod]<br>Super Rod<br>Lv. 50 | ![][099]<br> [Kingler]<br> 60% | ![][116]<br> [Horsea]<br> 30%    | ![][367]<br> [Huntail]<br> 5%   | ![][368]<br> [Gorebyss]<br> 5%   | 
+Area                                  | Pokémon                      | &nbsp;                         | &nbsp;                        | &nbsp;
+---                                   | ---                          | ---                            | ---                           | ---
+🌊<br>Surf<br>Lv. 30 - 45              | ![][278]<br>[Wingull]<br>60% | ![][072]<br>[Tentacool]<br>30% | ![][279]<br>[Pelipper]<br>5%  | ![][073]<br>[Tentacruel]<br>5%
+![][old-rod]<br>Old Rod<br>Lv. 10     | ![][098]<br>[Krabby]<br>60%  | ![][116]<br>[Horsea]<br>30%    | ![][366]<br>[Clamperl]<br>10% | &nbsp;
+![][good-rod]<br>Good Rod<br>Lv. 25   | ![][098]<br>[Krabby]<br>60%  | ![][116]<br>[Horsea]<br>30%    | ![][366]<br>[Clamperl]<br>10% | &nbsp;
+![][super-rod]<br>Super Rod<br>Lv. 50 | ![][099]<br>[Kingler]<br>60% | ![][116]<br>[Horsea]<br>30%    | ![][367]<br>[Huntail]<br>5%   | ![][368]<br>[Gorebyss]<br>5%
 
 [Tentacool]: ../../pokemon_changes/072/
 [Tentacruel]: ../../pokemon_changes/073/

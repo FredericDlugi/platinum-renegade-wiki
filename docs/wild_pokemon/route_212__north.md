@@ -4,20 +4,20 @@
     There are trainer on this route. You can find out more [here](../../trainer_changes/route_212__north/).
 
 
-Area                                  | Pokémon                           | &nbsp;                           | &nbsp;                           | &nbsp;                            | &nbsp;                         | &nbsp;                        | 
----                                   | ---                               | ---                              | ---                              | ---                               | ---                            | ---                           | 
-🌅<br>Morning<br>Lv. 24 - 26           | ![][397]<br> [Staravia]<br> 30%   | ![][183]<br> [Marill]<br> 20%    | ![][315]<br> [Roselia]<br> 10%   | ![][070]<br> [Weepinbell]<br> 10% | ![][044]<br> [Gloom]<br> 10%   | ![][281]<br> [Kirlia]<br> 10% | 
-&nbsp;                                | ![][235]<br> [Smeargle]<br> 10%   | &nbsp;                           | &nbsp;                           | &nbsp;                            | &nbsp;                         | &nbsp;                        | 
-🌞<br>Day<br>Lv. 24 - 26               | ![][397]<br> [Staravia]<br> 30%   | ![][183]<br> [Marill]<br> 20%    | ![][315]<br> [Roselia]<br> 10%   | ![][070]<br> [Weepinbell]<br> 10% | ![][044]<br> [Gloom]<br> 10%   | ![][281]<br> [Kirlia]<br> 10% | 
-&nbsp;                                | ![][235]<br> [Smeargle]<br> 10%   | &nbsp;                           | &nbsp;                           | &nbsp;                            | &nbsp;                         | &nbsp;                        | 
-🌙<br>Night<br>Lv. 24 - 26             | ![][397]<br> [Staravia]<br> 30%   | ![][183]<br> [Marill]<br> 20%    | ![][315]<br> [Roselia]<br> 10%   | ![][070]<br> [Weepinbell]<br> 10% | ![][044]<br> [Gloom]<br> 10%   | ![][281]<br> [Kirlia]<br> 10% | 
-&nbsp;                                | ![][235]<br> [Smeargle]<br> 10%   | &nbsp;                           | &nbsp;                           | &nbsp;                            | &nbsp;                         | &nbsp;                        | 
-![][poke-radar]<br> Poké Radar        | ![][083]<br> [Farfetch'd]<br> 22% | &nbsp;                           | &nbsp;                           | &nbsp;                            | &nbsp;                         | &nbsp;                        | 
-🌊<br> Surf<br>Lv. 20 - 40             | ![][183]<br> [Marill]<br> 90%     | ![][184]<br> [Azumarill]<br> 10% | &nbsp;                           | &nbsp;                            | &nbsp;                         | &nbsp;                        | 
-![][old-rod]<br>Old Rod<br>Lv. 10     | ![][129]<br> [Magikarp]<br> 65%   | ![][118]<br> [Goldeen]<br> 35%   | &nbsp;                           | &nbsp;                            | &nbsp;                         | &nbsp;                        | 
-![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br> [Magikarp]<br> 65%   | ![][118]<br> [Goldeen]<br> 35%   | &nbsp;                           | &nbsp;                            | &nbsp;                         | &nbsp;                        | 
-![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br> [Gyarados]<br> 65%   | ![][119]<br> [Seaking]<br> 35%   | &nbsp;                           | &nbsp;                            | &nbsp;                         | &nbsp;                        | 
-![][honey]<br> Honey Tree<br>Lv. 25   | ![][420]<br> [Cherubi]<br> 30%    | ![][285]<br> [Shroomish]<br> 20% | ![][102]<br> [Exeggcute]<br> 20% | ![][274]<br> [Nuzleaf]<br> 20%    | ![][114]<br> [Tangela]<br> 10% | &nbsp;                        | 
+Area                                         | Pokémon                         | &nbsp;                         | &nbsp;                         | &nbsp;                          | &nbsp;                       | &nbsp;
+---                                          | ---                             | ---                            | ---                            | ---                             | ---                          | ---
+🌅<br>Morning<br>Lv. 24 - 26                  | ![][397]<br>[Staravia]<br>30%   | ![][183]<br>[Marill]<br>20%    | ![][315]<br>[Roselia]<br>10%   | ![][070]<br>[Weepinbell]<br>10% | ![][044]<br>[Gloom]<br>10%   | ![][281]<br>[Kirlia]<br>10%
+&nbsp;                                       | ![][235]<br>[Smeargle]<br>10%   | &nbsp;                         | &nbsp;                         | &nbsp;                          | &nbsp;                       | &nbsp;
+🌞<br>Day<br>Lv. 24 - 26                      | ![][397]<br>[Staravia]<br>30%   | ![][183]<br>[Marill]<br>20%    | ![][315]<br>[Roselia]<br>10%   | ![][070]<br>[Weepinbell]<br>10% | ![][044]<br>[Gloom]<br>10%   | ![][281]<br>[Kirlia]<br>10%
+&nbsp;                                       | ![][235]<br>[Smeargle]<br>10%   | &nbsp;                         | &nbsp;                         | &nbsp;                          | &nbsp;                       | &nbsp;
+🌙<br>Night<br>Lv. 24 - 26                    | ![][397]<br>[Staravia]<br>30%   | ![][183]<br>[Marill]<br>20%    | ![][315]<br>[Roselia]<br>10%   | ![][070]<br>[Weepinbell]<br>10% | ![][044]<br>[Gloom]<br>10%   | ![][281]<br>[Kirlia]<br>10%
+&nbsp;                                       | ![][235]<br>[Smeargle]<br>10%   | &nbsp;                         | &nbsp;                         | &nbsp;                          | &nbsp;                       | &nbsp;
+![][poke-radar]<br>Poké Radar<br>Lv. 24 - 26 | ![][083]<br>[Farfetch'd]<br>22% | &nbsp;                         | &nbsp;                         | &nbsp;                          | &nbsp;                       | &nbsp;
+🌊<br>Surf<br>Lv. 20 - 40                     | ![][183]<br>[Marill]<br>90%     | ![][184]<br>[Azumarill]<br>10% | &nbsp;                         | &nbsp;                          | &nbsp;                       | &nbsp;
+![][old-rod]<br>Old Rod<br>Lv. 10            | ![][129]<br>[Magikarp]<br>65%   | ![][118]<br>[Goldeen]<br>35%   | &nbsp;                         | &nbsp;                          | &nbsp;                       | &nbsp;
+![][good-rod]<br>Good Rod<br>Lv. 25          | ![][129]<br>[Magikarp]<br>65%   | ![][118]<br>[Goldeen]<br>35%   | &nbsp;                         | &nbsp;                          | &nbsp;                       | &nbsp;
+![][super-rod]<br>Super Rod<br>Lv. 50        | ![][130]<br>[Gyarados]<br>65%   | ![][119]<br>[Seaking]<br>35%   | &nbsp;                         | &nbsp;                          | &nbsp;                       | &nbsp;
+![][honey]<br>Honey Tree<br>Lv. 25           | ![][420]<br>[Cherubi]<br>30%    | ![][285]<br>[Shroomish]<br>20% | ![][102]<br>[Exeggcute]<br>20% | ![][274]<br>[Nuzleaf]<br>20%    | ![][114]<br>[Tangela]<br>10% | &nbsp;
 
 [Gloom]: ../../pokemon_changes/044/
 [Weepinbell]: ../../pokemon_changes/070/

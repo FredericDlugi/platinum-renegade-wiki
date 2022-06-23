@@ -4,12 +4,12 @@
     There are trainer on this route. You can find out more [here](../../trainer_changes/route_220/).
 
 
-Area                                  | Pokémon                        | &nbsp;                         | &nbsp;                         | &nbsp;                        | 
----                                   | ---                            | ---                            | ---                            | ---                           | 
-🌊<br> Surf<br>Lv. 30 - 45             | ![][278]<br> [Wingull]<br> 60% | ![][458]<br> [Mantyke]<br> 30% | ![][279]<br> [Pelipper]<br> 5% | ![][226]<br> [Mantine]<br> 5% | 
-![][old-rod]<br>Old Rod<br>Lv. 10     | ![][370]<br> [Luvdisc]<br> 60% | ![][116]<br> [Horsea]<br> 30%  | ![][222]<br> [Corsola]<br> 10% | &nbsp;                        | 
-![][good-rod]<br>Good Rod<br>Lv. 25   | ![][370]<br> [Luvdisc]<br> 60% | ![][116]<br> [Horsea]<br> 30%  | ![][222]<br> [Corsola]<br> 10% | &nbsp;                        | 
-![][super-rod]<br>Super Rod<br>Lv. 50 | ![][370]<br> [Luvdisc]<br> 60% | ![][117]<br> [Seadra]<br> 30%  | ![][222]<br> [Corsola]<br> 10% | &nbsp;                        | 
+Area                                  | Pokémon                      | &nbsp;                       | &nbsp;                       | &nbsp;
+---                                   | ---                          | ---                          | ---                          | ---
+🌊<br>Surf<br>Lv. 30 - 45              | ![][278]<br>[Wingull]<br>60% | ![][458]<br>[Mantyke]<br>30% | ![][279]<br>[Pelipper]<br>5% | ![][226]<br>[Mantine]<br>5%
+![][old-rod]<br>Old Rod<br>Lv. 10     | ![][370]<br>[Luvdisc]<br>60% | ![][116]<br>[Horsea]<br>30%  | ![][222]<br>[Corsola]<br>10% | &nbsp;
+![][good-rod]<br>Good Rod<br>Lv. 25   | ![][370]<br>[Luvdisc]<br>60% | ![][116]<br>[Horsea]<br>30%  | ![][222]<br>[Corsola]<br>10% | &nbsp;
+![][super-rod]<br>Super Rod<br>Lv. 50 | ![][370]<br>[Luvdisc]<br>60% | ![][117]<br>[Seadra]<br>30%  | ![][222]<br>[Corsola]<br>10% | &nbsp;
 
 [Horsea]: ../../pokemon_changes/116/
 [Seadra]: ../../pokemon_changes/117/

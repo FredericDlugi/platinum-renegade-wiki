@@ -1,11 +1,11 @@
 # Valor Lakefront
 
-Area                                          | Pokémon                          | &nbsp;                         | &nbsp;                          | &nbsp;                          | &nbsp;                            | 
----                                           | ---                              | ---                            | ---                             | ---                             | ---                               | 
-🌅<br>Morning<br>Lv. 31 - 33                   | ![][203]<br> [Girafarig]<br> 30% | ![][400]<br> [Bibarel]<br> 20% | ![][030]<br> [Nidorina]<br> 20% | ![][033]<br> [Nidorino]<br> 20% | ![][402]<br> [Kricketune]<br> 10% | 
-🌞<br>Day<br>Lv. 31 - 33                       | ![][203]<br> [Girafarig]<br> 30% | ![][400]<br> [Bibarel]<br> 20% | ![][030]<br> [Nidorina]<br> 20% | ![][033]<br> [Nidorino]<br> 20% | ![][402]<br> [Kricketune]<br> 10% | 
-🌙<br>Night<br>Lv. 31 - 33                     | ![][203]<br> [Girafarig]<br> 30% | ![][400]<br> [Bibarel]<br> 20% | ![][030]<br> [Nidorina]<br> 20% | ![][033]<br> [Nidorino]<br> 20% | ![][402]<br> [Kricketune]<br> 10% | 
-![][poke-radar]<br> Poké Radar<br>Lv. 31 - 33 | ![][049]<br> [Venomoth]<br> 22%  | &nbsp;                         | &nbsp;                          | &nbsp;                          | &nbsp;                            | 
+Area                                         | Pokémon                        | &nbsp;                       | &nbsp;                        | &nbsp;                        | &nbsp;
+---                                          | ---                            | ---                          | ---                           | ---                           | ---
+🌅<br>Morning<br>Lv. 31 - 33                  | ![][203]<br>[Girafarig]<br>30% | ![][400]<br>[Bibarel]<br>20% | ![][030]<br>[Nidorina]<br>20% | ![][033]<br>[Nidorino]<br>20% | ![][402]<br>[Kricketune]<br>10%
+🌞<br>Day<br>Lv. 31 - 33                      | ![][203]<br>[Girafarig]<br>30% | ![][400]<br>[Bibarel]<br>20% | ![][030]<br>[Nidorina]<br>20% | ![][033]<br>[Nidorino]<br>20% | ![][402]<br>[Kricketune]<br>10%
+🌙<br>Night<br>Lv. 31 - 33                    | ![][203]<br>[Girafarig]<br>30% | ![][400]<br>[Bibarel]<br>20% | ![][030]<br>[Nidorina]<br>20% | ![][033]<br>[Nidorino]<br>20% | ![][402]<br>[Kricketune]<br>10%
+![][poke-radar]<br>Poké Radar<br>Lv. 31 - 33 | ![][049]<br>[Venomoth]<br>22%  | &nbsp;                       | &nbsp;                        | &nbsp;                        | &nbsp;
 
 [Nidorina]: ../../pokemon_changes/030/
 [Nidorino]: ../../pokemon_changes/033/

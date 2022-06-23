@@ -4,12 +4,12 @@
     There are trainer on this route. You can find out more [here](../../trainer_changes/sunyshore_city/).
 
 
-Area                                  | Pokémon                           | &nbsp;                          | &nbsp;                         | 
----                                   | ---                               | ---                             | ---                            | 
-🌊<br> Surf<br>Lv. 50 - 60             | ![][073]<br> [Tentacruel]<br> 60% | ![][279]<br> [Pelipper]<br> 30% | ![][226]<br> [Mantine]<br> 10% | 
-![][old-rod]<br>Old Rod<br>Lv. 10     | ![][129]<br> [Magikarp]<br> 60%   | ![][098]<br> [Krabby]<br> 30%   | ![][120]<br> [Staryu]<br> 10%  | 
-![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br> [Magikarp]<br> 60%   | ![][098]<br> [Krabby]<br> 30%   | ![][120]<br> [Staryu]<br> 10%  | 
-![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br> [Gyarados]<br> 60%   | ![][099]<br> [Kingler]<br> 30%  | ![][121]<br> [Starmie]<br> 10% | 
+Area                                  | Pokémon                         | &nbsp;                        | &nbsp;
+---                                   | ---                             | ---                           | ---
+🌊<br>Surf<br>Lv. 50 - 60              | ![][073]<br>[Tentacruel]<br>60% | ![][279]<br>[Pelipper]<br>30% | ![][226]<br>[Mantine]<br>10%
+![][old-rod]<br>Old Rod<br>Lv. 10     | ![][129]<br>[Magikarp]<br>60%   | ![][098]<br>[Krabby]<br>30%   | ![][120]<br>[Staryu]<br>10%
+![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>60%   | ![][098]<br>[Krabby]<br>30%   | ![][120]<br>[Staryu]<br>10%
+![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>60%   | ![][099]<br>[Kingler]<br>30%  | ![][121]<br>[Starmie]<br>10%
 
 [Tentacruel]: ../../pokemon_changes/073/
 [Krabby]: ../../pokemon_changes/098/

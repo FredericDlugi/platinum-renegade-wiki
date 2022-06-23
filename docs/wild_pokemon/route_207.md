@@ -4,13 +4,13 @@
     There are trainer on this route. You can find out more [here](../../trainer_changes/route_207/).
 
 
-Area                                         | Pokémon                         | &nbsp;                         | &nbsp;                         | &nbsp;                        | &nbsp;                          | 
----                                          | ---                             | ---                            | ---                            | ---                           | ---                             | 
-🌅<br>Morning<br>Lv. 9 - 10                   | ![][066]<br> [Machop]<br> 30%   | ![][111]<br> [Rhyhorn]<br> 20% | ![][077]<br> [Ponyta]<br> 20%  | ![][231]<br> [Phanpy]<br> 20% | ![][246]<br> [Larvitar]<br> 10% | 
-🌞<br>Day<br>Lv. 9 - 10                       | ![][066]<br> [Machop]<br> 30%   | ![][111]<br> [Rhyhorn]<br> 20% | ![][077]<br> [Ponyta]<br> 20%  | ![][231]<br> [Phanpy]<br> 20% | ![][246]<br> [Larvitar]<br> 10% | 
-🌙<br>Night<br>Lv. 9 - 10                     | ![][066]<br> [Machop]<br> 30%   | ![][111]<br> [Rhyhorn]<br> 20% | ![][077]<br> [Ponyta]<br> 20%  | ![][231]<br> [Phanpy]<br> 20% | ![][246]<br> [Larvitar]<br> 10% | 
-![][poke-radar]<br> Poké Radar<br>Lv. 9 - 10 | ![][234]<br> [Stantler]<br> 22% | &nbsp;                         | &nbsp;                         | &nbsp;                        | &nbsp;                          | 
-![][honey]<br> Honey Tree<br>Lv. 21          | ![][190]<br> [Aipom]<br> 30%    | ![][287]<br> [Slakoth]<br> 20% | ![][011]<br> [Metapod]<br> 20% | ![][014]<br> [Kakuna]<br> 20% | ![][446]<br> [Munchlax]<br> 10% | 
+Area                                        | Pokémon                       | &nbsp;                       | &nbsp;                       | &nbsp;                      | &nbsp;
+---                                         | ---                           | ---                          | ---                          | ---                         | ---
+🌅<br>Morning<br>Lv. 9 - 10                  | ![][066]<br>[Machop]<br>30%   | ![][111]<br>[Rhyhorn]<br>20% | ![][077]<br>[Ponyta]<br>20%  | ![][231]<br>[Phanpy]<br>20% | ![][246]<br>[Larvitar]<br>10%
+🌞<br>Day<br>Lv. 9 - 10                      | ![][066]<br>[Machop]<br>30%   | ![][111]<br>[Rhyhorn]<br>20% | ![][077]<br>[Ponyta]<br>20%  | ![][231]<br>[Phanpy]<br>20% | ![][246]<br>[Larvitar]<br>10%
+🌙<br>Night<br>Lv. 9 - 10                    | ![][066]<br>[Machop]<br>30%   | ![][111]<br>[Rhyhorn]<br>20% | ![][077]<br>[Ponyta]<br>20%  | ![][231]<br>[Phanpy]<br>20% | ![][246]<br>[Larvitar]<br>10%
+![][poke-radar]<br>Poké Radar<br>Lv. 9 - 10 | ![][234]<br>[Stantler]<br>22% | &nbsp;                       | &nbsp;                       | &nbsp;                      | &nbsp;
+![][honey]<br>Honey Tree<br>Lv. 21          | ![][190]<br>[Aipom]<br>30%    | ![][287]<br>[Slakoth]<br>20% | ![][011]<br>[Metapod]<br>20% | ![][014]<br>[Kakuna]<br>20% | ![][446]<br>[Munchlax]<br>10%
 
 [Metapod]: ../../pokemon_changes/011/
 [Kakuna]: ../../pokemon_changes/014/

@@ -3,12 +3,12 @@
 !!! note
     There are trainer on this route. You can find out more [here](../../trainer_changes/celestic_town/).
 
-Area                                  | Pokémon                         | &nbsp;                           | 
----                                   | ---                             | ---                              | 
-🌊<br>Surf<br>Lv. 20 - 40              | ![][054]<br> [Psyduck]<br> 90%  | ![][055]<br> [Golduck]<br> 10%   | 
-![][old-rod]<br>Old Rod<br>Lv. 10     | ![][129]<br> [Magikarp]<br> 90% | ![][369]<br> [Relicanth]<br> 10% | 
-![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br> [Magikarp]<br> 90% | ![][369]<br> [Relicanth]<br> 10% | 
-![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br> [Gyarados]<br> 90% | ![][369]<br> [Relicanth]<br> 10% | 
+Area                                  | Pokémon                       | &nbsp;
+---                                   | ---                           | ---
+🌊<br>Surf<br>Lv. 20 - 40              | ![][054]<br>[Psyduck]<br>90%  | ![][055]<br>[Golduck]<br>10%
+![][old-rod]<br>Old Rod<br>Lv. 10     | ![][129]<br>[Magikarp]<br>90% | ![][369]<br>[Relicanth]<br>10%
+![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>90% | ![][369]<br>[Relicanth]<br>10%
+![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>90% | ![][369]<br>[Relicanth]<br>10%
 
 [Psyduck]: ../../pokemon_changes/054/
 [Golduck]: ../../pokemon_changes/055/

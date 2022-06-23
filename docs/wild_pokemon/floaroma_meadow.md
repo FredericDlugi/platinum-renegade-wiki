@@ -4,9 +4,9 @@
     There are trainer on this route. You can find out more [here](../../trainer_changes/floaroma_meadow/).
 
 
-Area                                | Pokémon                        | &nbsp;                           | &nbsp;                           | &nbsp;                        | &nbsp;                         | 
----                                 | ---                            | ---                              | ---                              | ---                           | ---                            | 
-![][honey]<br> Honey Tree<br>Lv. 12 | ![][420]<br> [Cherubi]<br> 30% | ![][285]<br> [Shroomish]<br> 20% | ![][102]<br> [Exeggcute]<br> 20% | ![][273]<br> [Seedot]<br> 20% | ![][114]<br> [Tangela]<br> 10% | 
+Area                               | Pokémon                      | &nbsp;                         | &nbsp;                         | &nbsp;                      | &nbsp;
+---                                | ---                          | ---                            | ---                            | ---                         | ---
+![][honey]<br>Honey Tree<br>Lv. 12 | ![][420]<br>[Cherubi]<br>30% | ![][285]<br>[Shroomish]<br>20% | ![][102]<br>[Exeggcute]<br>20% | ![][273]<br>[Seedot]<br>20% | ![][114]<br>[Tangela]<br>10%
 
 [Exeggcute]: ../../pokemon_changes/102/
 [Tangela]: ../../pokemon_changes/114/
