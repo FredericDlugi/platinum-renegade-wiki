@@ -1,2 +1,4 @@
 mkdocs
 mkdocs-material
+numpy
+tqdm

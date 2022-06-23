@@ -3,6 +3,8 @@ import glob
 import re
 import os
 
+from tqdm import tqdm
+
 def fix_links(file_name, root_path, links):
     root_path_len = len(os.path.normpath(root_path).split(os.sep))
     file_path_len = len(os.path.normpath(file_name).split(os.sep))
@@ -36,13 +38,13 @@ def fix_links(file_name, root_path, links):
         else:
             data += line
 
-    # remove all links that are part of the linkfile
+    # remove all links that are part of the link file
     for link in local_links:
         link_id = link.split("]:")[0].replace("[","")
         all_links = re.sub(r"\[{}\]\:.*\n".format(link_id), "", all_links)
 
     data=data.strip()+"\n\n"+all_links
-    # add neccasery links
+    # add necessary links
     for link in local_links:
         link_id = link.split(":")[0]
         if data.count(link_id):
@@ -69,13 +71,14 @@ if __name__ == "__main__":
             if other.startswith(link_id):
                 count += 1
         if count > 1:
-            print("ERROR: the link with id {} is duplicated.".format(link_id))
+            print(f"ERROR: the link with id {link_id} is duplicated.")
             exit()
 
-    print("Found {} file with {:d} links".format(args.l, len(links)))
+    print(f"Found {args.l} file with {len(links)} links")
 
     for path in args.paths:
         files =  glob.glob(args.r + path)
-        for f in files:
-            print("Fixed links for: {}".format(f))
+        tqdm_files = tqdm(files)
+        for f in tqdm_files:
+            tqdm_files.set_postfix(file=f)
             fix_links(f, args.r, links)
