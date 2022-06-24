@@ -1864,3 +1864,19 @@
 [Victory Road ~ 2F]: ./wild_pokemon/victory_road__2f/
 [Victory Road ~ B1F]: ./wild_pokemon/victory_road__b1f/
 [Wayward Cave (Both)]: ./wild_pokemon/wayward_cave_(both)/
+[Fire-type Master]: ../trainer_changes/route_226/#master-trainer
+[Water-type Master]: ../trainer_changes/route_219/#master-trainer
+[Electric-type Master]: ../trainer_changes/sunyshore_city/#master-trainer
+[Grass-type Master]: ../trainer_changes/floaroma_town/#master-trainer
+[Ice-type Master]: ../trainer_changes/snowpoint_city/#master-trainer
+[Fighting-type Master]: ../trainer_changes/veilstone_city/#master-trainer
+[Poison-type Master]: ../trainer_changes/pastoria_city/#master-trainer
+[Ground-type Master]: ../trainer_changes/oreburgh_gate/#master-trainer
+[Flying-type Master]: ../trainer_changes/pokemon_league/#master-trainer
+[Psychic-type Master]: ../trainer_changes/solaceon_ruins/#master-trainer
+[Bug-type Master]: ../trainer_changes/route_202/#master-trainer
+[Rock-type Master]: ../trainer_changes/route_207/#master-trainer
+[Ghost-type Master]: ../trainer_changes/lost_tower/#master-trainer
+[Dragon-type Master]: ../trainer_changes/celestic_town/#master-trainer
+[Dark-type Master]: ../trainer_changes/sendoff_spring/#master-trainer
+[Steel-type Master]: ../trainer_changes/iron_island/#master-trainer
