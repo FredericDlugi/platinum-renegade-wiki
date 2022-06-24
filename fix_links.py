@@ -33,7 +33,7 @@ def fix_links(file_name, root_path, links):
     data = ""
     # extract links from file
     for line in file_data:
-        if re.match(r"\[.*\]:.*\n", line):
+        if re.match(r"\[.+\]: .+\n", line):
             all_links += line
         else:
             data += line
@@ -41,7 +41,7 @@ def fix_links(file_name, root_path, links):
     # remove all links that are part of the link file
     for link in local_links:
         link_id = link.split("]:")[0].replace("[","")
-        all_links = re.sub(r"\[{}\]\:.*\n".format(link_id), "", all_links)
+        all_links = re.sub(f"\[{link_id}\]\: .+\n".replace("(","\(").replace(")","\)"), "", all_links)
 
     data=data.strip()+"\n\n"+all_links
     # add necessary links
