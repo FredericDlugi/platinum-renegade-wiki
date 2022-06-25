@@ -76,7 +76,7 @@ class PokemonChange:
 
     def level_up_repr(self):
         return \
-            f"""## Level Up
+            f"""## Level Up Moves
 
 {"".join(self.level_up)}
 """
@@ -194,6 +194,10 @@ def update_change(pc: PokemonChange):
         i, k = get_section_lines("## Learnable Moves", file_content)
         file_content.insert(k, pc.encounters_repr())
 
+    i, k = get_section_lines("## Moves", file_content)
+    if i != k:
+        del file_content[i:k]
+
     with open(join(base_path, f"{pc.id:03}.md"), "w", encoding="UTF-8") as f:
         f.writelines(file_content)
 
@@ -276,10 +280,14 @@ if __name__ == "__main__":
     tutor_dict = get_tutor_dict(move_dict)
     learnable_dict = get_learnable_dict(tm_dict, tutor_dict)
 
-    for i in learnable_dict.keys():
+    for i in range(1, 494):
         try:
             pc = extract_change(int(i))
-            pc.level_up = update_level_up_table(pc.level_up, move_dict)
+            if f"{i:03}" in learnable_dict:
+                pc.learnable = create_learnable_table(f"{i:03}", tm_dict, tutor_dict, learnable_dict, pc.moves)
+
+            else:
+                print(i)
             update_change(pc)
         except AssertionError:
             print(i)

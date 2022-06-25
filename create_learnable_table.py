@@ -23,7 +23,8 @@ def get_learned_by(move_id):
     return learned_by
 
 
-def create_learnable_table(poke_id, tm_dict, tutor_dict, learnable_dict : Dict[str, list], moves=None):
+def create_learnable_table(
+        poke_id, tm_dict, tutor_dict, learnable_dict: Dict[str, list], moves=None):
     table = []
     table += [f"Machine | Name | Power | Accuracy | PP | Type | Damage Class | Description\n"]
     table += [f"--- | --- | ---| --- | --- | --- | --- | ---\n"]
@@ -31,21 +32,23 @@ def create_learnable_table(poke_id, tm_dict, tutor_dict, learnable_dict : Dict[s
     learnables = learnable_dict[poke_id]
     if moves is not None:
         learnables = extract_new_learnable_moves(moves, learnables)
-    learnables = list(dict.fromkeys(learnables))
-    learnables.sort()
+    learnables = sorted(dict.fromkeys(learnables))
 
     for key in learnables:
 
-        if re.match(r"Y.+", key): # is Move Tutor
-            (name, power, accuracy, pp, type_, dc, desc, _) = tutor_dict[key.replace("[^1]", "")]
+        if re.match(r"Y.+", key):  # is Move Tutor
+            (name, power, accuracy, pp, type_, dc, desc,
+             _) = tutor_dict[key.replace("[^1]", "")]
             if "[^1]" in key:
                 name += " [^1]"
             key = "Move Tutor"
-        elif re.match(r"X.+", key): # is HM
-            (name, power, accuracy, pp, type_, dc, desc, _) = tm_dict[key.replace("[^1]", "")]
+        elif re.match(r"X.+", key):  # is HM
+            (name, power, accuracy, pp, type_, dc,
+             desc, _) = tm_dict[key.replace("[^1]", "")]
             key = key[1:]
         else:
-            (name, power, accuracy, pp, type_, dc, desc, _) = tm_dict[key.replace("[^1]", "")]
+            (name, power, accuracy, pp, type_, dc,
+             desc, _) = tm_dict[key.replace("[^1]", "")]
 
         if "[^1]" in key:
             name += " [^1]"
@@ -55,40 +58,41 @@ def create_learnable_table(poke_id, tm_dict, tutor_dict, learnable_dict : Dict[s
 
     return table
 
-def extract_new_learnable_moves(moves,learnables: list) -> list:
+
+def extract_new_learnable_moves(moves, learnables: list) -> list:
     for m in moves:
-        if re.match(r".*- Now compatible with ",m):
+        if "[^1]" in m:
+            suff = "[^1]"
+        else:
+            suff = ""
+        m = m.strip()
+        if re.match(r"- Now compatible with (TM\d\d).+", m):
+            tm = re.findall(r"- Now compatible with (TM\d\d).+", m)
+            tm = tm[0]
+            if tm in learnables:
+                learnables.remove(tm)
+            learnables += [tm + suff]
 
-            if  "[^1]" in m:
-                suff = "[^1]"
-            else:
-                suff = ""
-            tm = re.findall(r"- Now compatible with (TM\d\d).+\n", m)
-            if len(tm) == 1:
-                tm = tm[0]
-                if tm in learnables:
-                    learnables.remove(tm)
-                learnables += [tm + suff]
+        elif re.match(r"- Now compatible with (HM\d\d).+", m):
+            hm = re.findall(r"- Now compatible with (HM\d\d).+", m)
+            hm = f"X{hm[0]}"
+            if hm in learnables:
+                learnables.remove(hm)
+            learnables += [hm + suff]
 
-            hm = re.findall(r"- Now compatible with (HM\d\d).+\n", m)
-            if len(hm) == 1:
-                hm = f"X{hm[0]}"
-                if hm in learnables:
-                    learnables.remove(hm)
-                learnables += [hm + suff]
-
-            mt = re.findall(r"- Now compatible with (.+) from", m)
-            if len(tm) == 1:
-                mt = f"Y{mt[0]}"
-                if mt in learnables:
-                    learnables.remove(mt)
-                learnables += [mt + suff]
-        elif m == "\n":
+        elif re.match(r"- Now compatible with (.+) from .+", m):
+            mt = re.findall(r"- Now compatible with (.+) from .+", m)
+            mt = f"Y{mt[0]}"
+            if mt in learnables:
+                learnables.remove(mt)
+            learnables += [mt + suff]
+        elif m == "":
             pass
         else:
             print(m)
 
     return learnables
+
 
 def get_tm_dict(move_dict):
     tm_dict = {
@@ -200,6 +204,7 @@ def get_tm_dict(move_dict):
 
     return tm_dict
 
+
 def get_tutor_dict(move_dict):
     r212 = [
         "Air Cutter",
@@ -255,7 +260,8 @@ def get_tutor_dict(move_dict):
     tutor_dict = {}
     for name in (r212 + spc + sa + free):
         (power, accuracy, pp, type_, dc, desc, id) = move_dict[name]
-        tutor_dict[f"Y{name}"] = (name, power, accuracy, pp, type_, dc, desc, id)
+        tutor_dict[f"Y{name}"] = (
+            name, power, accuracy, pp, type_, dc, desc, id)
 
     return tutor_dict
 
@@ -279,6 +285,7 @@ def get_learnable_dict(tm_dict, tutor_dict):
 
     return learnable_dict
 
+
 if __name__ == "__main__":
     move_dict = get_moves()
 
@@ -286,5 +293,10 @@ if __name__ == "__main__":
     tutor_dict = get_tutor_dict(move_dict)
     learnable_dict = get_learnable_dict(tm_dict, tutor_dict)
 
-
-    print("".join(create_learnable_table("493", tm_dict, tutor_dict, learnable_dict)))
+    print(
+        "".join(
+            create_learnable_table(
+                "493",
+                tm_dict,
+                tutor_dict,
+                learnable_dict)))
