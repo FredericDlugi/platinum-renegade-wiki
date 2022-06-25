@@ -142,25 +142,24 @@ def get_moves():
 
 
 def update_level_up_table(table, moves):
-    if " Move" in table[0]:
-        table[0] = f"Level | Name | Power | Accuracy | PP | Type | Damage Class | Description\n"
-        table[1] = f"--- | --- | ---| --- | --- | --- | --- | ---\n"
+    table[0] = f"Level | Name | Power | Accuracy | PP | Type | Damage Class | Description\n"
+    table[1] = f"--- | --- | ---| --- | --- | --- | --- | ---\n"
 
-        for i, l in enumerate(table[2:], 2):
-            ls = l.split(" | ")
-            level = ls[0].strip()
-            name = ls[1].strip()
+    for i, l in enumerate(table[2:], 2):
+        ls = l.split(" | ")
+        level = ls[0].strip()
+        name = ls[1].strip()
 
-            key = name.replace("[^1]", "").strip()
-            if f"[{key}]" in moves:
-                key = f"[{key}]"
-                if "[^1]" in name:
-                    name = f"{key} [^1]"
-                else:
-                    name = key
+        key = name.replace("[^1]", "").strip()
+        if f"[{key}]" in moves:
+            key = f"[{key}]"
+            if "[^1]" in name:
+                name = f"{key} [^1]"
+            else:
+                name = key
 
-            (power,accuracy, pp, type_, dc, desc, _) = moves[key]
-            table[i] = f"{level} | {name} | {power} | {accuracy} | {pp} | ![][{type_}] {{: data-sort=\"{type_}\"}} | ![][{dc}] {{: data-sort=\"{dc}\"}} | {desc}\n"
+        (power,accuracy, pp, type_, dc, desc, _) = moves[key]
+        table[i] = f"{level} | {name} | {power} | {accuracy} | {pp} | ![][{type_}] {{: data-sort=\"{type_}\"}} | ![][{dc}] {{: data-sort=\"{dc}\"}} | {desc}\n"
 
     return table
 

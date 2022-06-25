@@ -279,8 +279,7 @@ if __name__ == "__main__":
     for i in learnable_dict.keys():
         try:
             pc = extract_change(int(i))
-            pc.learnable = create_learnable_table(i, tm_dict, tutor_dict, learnable_dict, pc.moves)
+            pc.level_up = update_level_up_table(pc.level_up, move_dict)
             update_change(pc)
         except AssertionError:
             print(i)
-            print("".join(create_learnable_table(i, tm_dict, tutor_dict, learnable_dict)))
