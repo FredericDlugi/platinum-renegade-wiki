@@ -23,7 +23,7 @@ def fix_links(file_name, root_path, links):
     for i in range(len(links)):
         if links[i].endswith(".png\n"):
             local_links.append(links[i].replace("./", rel_to_root_img))
-        if links[i].endswith("/\n"):
+        else:
             local_links.append(links[i].replace("./", rel_to_root_md))
 
     input_file = open(file_name, "r", encoding="utf-8")
