@@ -2,6 +2,7 @@
 from genericpath import isfile
 import json
 import re
+from typing import Dict
 
 from create_level_up_table import get_moves
 
@@ -22,17 +23,73 @@ def get_learned_by(move_id):
     return learned_by
 
 
-def create_learnable_table(poke_id, tm_dict, learnable_dict):
+def create_learnable_table(poke_id, tm_dict, tutor_dict, learnable_dict : Dict[str, list], moves=None):
     table = []
     table += [f"Machine | Name | Power | Accuracy | PP | Type | Damage Class | Description\n"]
     table += [f"--- | --- | ---| --- | --- | --- | --- | ---\n"]
 
-    for tm in learnable_dict[poke_id]:
-        (name, power, accuracy, pp, type_, dc, desc, _) = tm_dict[tm]
-        table += [f"{tm} | {name} | {power} | {accuracy} | {pp} | ![][{type_}] {{: data-sort=\"{type_}\"}} | ![][{dc}] {{: data-sort=\"{dc}\"}} | {desc}\n"]
+    learnables = learnable_dict[poke_id]
+    if moves is not None:
+        learnables = extract_new_learnable_moves(moves, learnables)
+    learnables = list(dict.fromkeys(learnables))
+    learnables.sort()
+
+    for key in learnables:
+
+        if re.match(r"Y.+", key): # is Move Tutor
+            (name, power, accuracy, pp, type_, dc, desc, _) = tutor_dict[key.replace("[^1]", "")]
+            if "[^1]" in key:
+                name += " [^1]"
+            key = "Move Tutor"
+        elif re.match(r"X.+", key): # is HM
+            (name, power, accuracy, pp, type_, dc, desc, _) = tm_dict[key.replace("[^1]", "")]
+            key = key[1:]
+        else:
+            (name, power, accuracy, pp, type_, dc, desc, _) = tm_dict[key.replace("[^1]", "")]
+
+        print(key)
+        if "[^1]" in key:
+            name += " [^1]"
+            key = key.replace("[^1]", "")
+
+        table += [f"{key} | {name} | {power} | {accuracy} | {pp} | ![][{type_}] {{: data-sort=\"{type_}\"}} | ![][{dc}] {{: data-sort=\"{dc}\"}} | {desc}\n"]
 
     return table
 
+def extract_new_learnable_moves(moves,learnables: list) -> list:
+    for m in moves:
+        if re.match(r" - Now compatible with ",m):
+
+            if  "[^1]" in m:
+                suff = "[^1]"
+            else:
+                suff = ""
+            tm = re.findall(r" - Now compatible with (TM\d\d).+\n", m)
+            if len(tm) == 1:
+                tm = tm[0]
+                if tm in learnables:
+                    learnables.remove(tm)
+                learnables += [tm + suff]
+
+            hm = re.findall(r" - Now compatible with (HM\d\d).+\n", m)
+            if len(hm) == 1:
+                hm = f"X{hm[0]}"
+                if hm in learnables:
+                    learnables.remove(hm)
+                learnables += [hm + suff]
+
+            mt = re.findall(r" - Now compatible with (.+) from the Move Tutor", m)
+            if len(tm) == 1:
+                mt = f"Y{mt[0]}"
+                if mt in learnables:
+                    learnables.remove(mt)
+                learnables += [mt + suff]
+        elif m == "\n":
+            pass
+        else:
+            print(m)
+
+    return learnables
 
 def get_tm_dict(move_dict):
     tm_dict = {
@@ -128,14 +185,14 @@ def get_tm_dict(move_dict):
         "TM90": "Substitute",
         "TM91": "Flash Cannon",
         "TM92": "Trick Room",
-        "HM01": "Cut",
-        "HM02": "Fly",
-        "HM03": "Surf",
-        "HM04": "Strength",
-        "HM05": "Defog",
-        "HM06": "Rock Smash",
-        "HM07": "Waterfall",
-        "HM08": "Rock Climb",
+        "XHM01": "Cut",
+        "XHM02": "Fly",
+        "XHM03": "Surf",
+        "XHM04": "Strength",
+        "XHM05": "Defog",
+        "XHM06": "Rock Smash",
+        "XHM07": "Waterfall",
+        "XHM08": "Rock Climb",
     }
     for key in tm_dict.keys():
         name = tm_dict[key]
@@ -144,14 +201,77 @@ def get_tm_dict(move_dict):
 
     return tm_dict
 
-def get_learnable_dict(tm_dict):
+def get_tutor_dict(move_dict):
+    r212 = [
+        "Air Cutter",
+        "Dive",
+        "Fire Punch",
+        "Fury Cutter",
+        "Ice Punch",
+        "Icy Wind",
+        "Knock Off",
+        "Ominous Wind",
+        "Sucker Punch",
+        "Thunder Punch",
+        "Trick",
+        "Vacuum Wave",
+        "Zen Headbutt",
+    ]
+
+    spc = [
+        "Helping Hand",
+        "Last Resort",
+        "Magnet Rise",
+        "Snore",
+        "Spite",
+        "Swift",
+        "Synthesis",
+        "Uproar",
+    ]
+
+    sa = [
+        "Ancient Power",
+        "Aqua Tail",
+        "Bounce",
+        "Earth Power",
+        "Endeavor",
+        "Gastro Acid",
+        "Gunk Shot",
+        "Heat Wave",
+        "Iron Defense",
+        "Iron Head",
+        "Mud-Slap",
+        "Outrage",
+        "Rollout",
+        "Seed Bomb",
+        "Signal Beam",
+        "Superpower",
+    ]
+    free = [
+        "Blast Burn",
+        "Draco Meteor",
+        "Frenzy Plant",
+        "Hydro Cannon",
+    ]
+    tutor_dict = {}
+    for name in (r212 + spc + sa + free):
+        (power, accuracy, pp, type_, dc, desc, id) = move_dict[name]
+        tutor_dict[f"Y{name}"] = (name, power, accuracy, pp, type_, dc, desc, id)
+
+    return tutor_dict
+
+
+def get_learnable_dict(tm_dict, tutor_dict):
     temp_dict = {}
     for key in tm_dict.keys():
         (_, _, _, _, _, _, _, id) = tm_dict[key]
         temp_dict[key] = get_learned_by(id)
+    for key in tutor_dict.keys():
+        (_, _, _, _, _, _, _, id) = tutor_dict[key]
+        temp_dict[key] = get_learned_by(id)
 
     learnable_dict = {}
-    for key in tm_dict.keys():
+    for key in temp_dict.keys():
         learned_by = temp_dict[key]
         for poke_id in learned_by:
             if poke_id not in learnable_dict:
@@ -160,12 +280,12 @@ def get_learnable_dict(tm_dict):
 
     return learnable_dict
 
-
 if __name__ == "__main__":
     move_dict = get_moves()
 
     tm_dict = get_tm_dict(move_dict)
-    learnable_dict = get_learnable_dict(tm_dict)
+    tutor_dict = get_tutor_dict(move_dict)
+    learnable_dict = get_learnable_dict(tm_dict, tutor_dict)
 
 
-    print("".join(create_learnable_table("493", tm_dict, learnable_dict)))
+    print("".join(create_learnable_table("493", tm_dict, tutor_dict, learnable_dict)))

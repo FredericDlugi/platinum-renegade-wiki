@@ -4,7 +4,7 @@ import re
 import string
 
 from create_ability_table import get_ability_table
-from create_learnable_table import create_learnable_table, get_learnable_dict, get_tm_dict
+from create_learnable_table import create_learnable_table, get_learnable_dict, get_tm_dict, get_tutor_dict
 from create_stat_table import get_stat_table
 from create_level_up_table import get_moves, update_level_up_table
 from create_encounter_table import extract_all_wild_pokemons, create_encounter_table
@@ -273,16 +273,14 @@ if __name__ == "__main__":
     move_dict = get_moves()
 
     tm_dict = get_tm_dict(move_dict)
-    learnable_dict = get_learnable_dict(tm_dict)
+    tutor_dict = get_tutor_dict(move_dict)
+    learnable_dict = get_learnable_dict(tm_dict, tutor_dict)
 
     for i in learnable_dict.keys():
         try:
             pc = extract_change(int(i))
-            if pc.moves:
-                print(pc.moves)
-            pc.learnable = create_learnable_table(i, tm_dict, learnable_dict)
-
+            pc.learnable = create_learnable_table(i, tm_dict, tutor_dict, learnable_dict, pc.moves)
             update_change(pc)
-        except BaseException:
+        except AssertionError:
             print(i)
-            print("".join(create_learnable_table(i, tm_dict, learnable_dict)))
+            print("".join(create_learnable_table(i, tm_dict, tutor_dict, learnable_dict)))
