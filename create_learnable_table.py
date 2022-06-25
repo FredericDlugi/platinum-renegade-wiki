@@ -47,7 +47,6 @@ def create_learnable_table(poke_id, tm_dict, tutor_dict, learnable_dict : Dict[s
         else:
             (name, power, accuracy, pp, type_, dc, desc, _) = tm_dict[key.replace("[^1]", "")]
 
-        print(key)
         if "[^1]" in key:
             name += " [^1]"
             key = key.replace("[^1]", "")
@@ -58,27 +57,27 @@ def create_learnable_table(poke_id, tm_dict, tutor_dict, learnable_dict : Dict[s
 
 def extract_new_learnable_moves(moves,learnables: list) -> list:
     for m in moves:
-        if re.match(r" - Now compatible with ",m):
+        if re.match(r".*- Now compatible with ",m):
 
             if  "[^1]" in m:
                 suff = "[^1]"
             else:
                 suff = ""
-            tm = re.findall(r" - Now compatible with (TM\d\d).+\n", m)
+            tm = re.findall(r"- Now compatible with (TM\d\d).+\n", m)
             if len(tm) == 1:
                 tm = tm[0]
                 if tm in learnables:
                     learnables.remove(tm)
                 learnables += [tm + suff]
 
-            hm = re.findall(r" - Now compatible with (HM\d\d).+\n", m)
+            hm = re.findall(r"- Now compatible with (HM\d\d).+\n", m)
             if len(hm) == 1:
                 hm = f"X{hm[0]}"
                 if hm in learnables:
                     learnables.remove(hm)
                 learnables += [hm + suff]
 
-            mt = re.findall(r" - Now compatible with (.+) from the Move Tutor", m)
+            mt = re.findall(r"- Now compatible with (.+) from", m)
             if len(tm) == 1:
                 mt = f"Y{mt[0]}"
                 if mt in learnables:

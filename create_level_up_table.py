@@ -113,6 +113,11 @@ def get_moves():
     desc = "Has a 30% chance to burn the target. Does not thaw target."
     moves["[Scald]"] = (power,accuracy, pp, type_, dc, desc, id)
 
+    (power,accuracy, pp, type_, dc, desc, id) = moves.pop("Shadow Claw")
+    power = "80"
+    pp = "15"
+    moves["[Shadow Claw]"] = (power,accuracy, pp, type_, dc, desc, id)
+
     (power,accuracy, pp, type_, dc, desc, id) = moves.pop("Shadow Punch")
     power = "80"
     pp = "15"
