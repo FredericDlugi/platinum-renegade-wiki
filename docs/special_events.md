@@ -700,28 +700,44 @@ Level    | 80
 - You need to collect all sixteen Plate items (the Pixie Plate has not been added).
 - You can get the Plates via the Underground or by defeating the Type Master trainers. The Plates previously in the field have been removed.
 - Type Master trainers must be challenged with only a single Pokémon on your team that shares the type they specialise in.
-- Flame Plate: The Fire-type Type Master is found on Route 226, just right of the Survival Area.
-- Splash Plate: The Water-type Type Master is found on Route 219, just below Sandgem Town.
-- Zap Plate: The Electric-type Type Master is found in Sunyshore City, inside the lighthouse.
-- Meadow Plate: The Grass-type Type Master is found in Floaroma Meadow, just right of the house.
-- Icicle Plate: The Ice-type Type Master is found in Snowpoint City, to the right of the Gym.
-- Fist Plate: The Fighting-type Type Master is found in Veilstone City, in the house just south of the Gym.
-- Toxic Plate: The Poison-type Type Master is found in Pastoria City, on the top floor of the Great Marsh lobby.
-- Earth Plate: The Ground-type Type Master is found in Oreburgh Gate, on the top floor north of the entrances.
-- Sky Plate: The Flying-type Type Master is found at the Pokémon League, looking out on the right outside the building.
-- Mind Plate: The Psychic-type Type Master is found in Solaceon Ruins, just inside the entrance.
-- Insect Plate: The Bug-type Type Master is found on Route 202, just above the Sandgem Town entrance.
-- Stone Plate: The Rock-type Type Master is found on Route 207, just to the right of the muddy slope.
-- Spooky Plate: The Ghost-type Type Master is found in the Lost Tower, on the ground floor.
-- Draco Plate: The Dragon-type Type Master is found in Celestic Town, inside the ruins.
-- Dread Plate: The Dark-type Type Master is found in the Sendoff Spring, just after the entrance from Route 214.
-- Iron Plate: The Steel-type Type Master is found on Iron Island, just south of the entrance to the cave.
+- Flame Plate: The [Fire-type Master] is found on Route 226, just right of the Survival Area.
+- Splash Plate: The [Water-type Master] is found on Route 219, just below Sandgem Town.
+- Zap Plate: The [Electric-type Master] is found in Sunyshore City, inside the lighthouse.
+- Meadow Plate: The [Grass-type Master] is found in Floaroma Meadow, just right of the house.
+- Icicle Plate: The [Ice-type Master] is found in Snowpoint City, to the right of the Gym.
+- Fist Plate: The [Fighting-type Master] is found in Veilstone City, in the house just south of the Gym.
+- Toxic Plate: The [Poison-type Master] is found in Pastoria City, on the top floor of the Great Marsh lobby.
+- Earth Plate: The [Ground-type Master] is found in Oreburgh Gate, on the top floor north of the entrances.
+- Sky Plate: The [Flying-type Master] is found at the Pokémon League, looking out on the right outside the building.
+- Mind Plate: The [Psychic-type Master] is found in Solaceon Ruins, just inside the entrance.
+- Insect Plate: The [Bug-type Master] is found on Route 202, just above the Sandgem Town entrance.
+- Stone Plate: The [Rock-type Master] is found on Route 207, just to the right of the muddy slope.
+- Spooky Plate: The [Ghost-type Master] is found in the Lost Tower, on the ground floor.
+- Draco Plate: The [Dragon-type Master] is found in Celestic Town, inside the ruins.
+- Dread Plate: The [Dark-type Master] is found in the Sendoff Spring, just after the entrance from Route 214.
+- Iron Plate: The [Steel-type Master] is found on Iron Island, just south of the entrance to the cave.
 - With all sixteen Plates in your inventory, talk to the old woman in the 'Foreign Building' to get your second task: Complete the Pokédex.
 - Once your National Pokédex is completed to an extent that you're able to view the diploma in Valor Lakefront (i.e. you have obtained all Pokémon except for [Mew], [Ho-Oh], [Lugia], [Celebi], [Jirachi], [Deoxys], [Phione], [Manaphy], [Darkrai], [Shaymin], and [Arceus]), talk to the old woman again to receive the Azure Flute.
 - Go to Spear Pillar and stand on the flute symbol just as you leave the cave. You'll be prompted to play the Azure Flute.
 - Head up the stairs to battle [Arceus].
 - You can fight [Arceus] repeatedly by playing the Azure Flute on the symbol until you catch it.
 
+[Fire-type Master]: ../trainer_changes/route_226/#master-trainer
+[Water-type Master]: ../trainer_changes/route_219/#master-trainer
+[Electric-type Master]: ../trainer_changes/sunyshore_city/#master-trainer
+[Grass-type Master]: ../trainer_changes/floaroma_town/#master-trainer
+[Ice-type Master]: ../trainer_changes/snowpoint_city/#master-trainer
+[Fighting-type Master]: ../trainer_changes/veilstone_city/#master-trainer
+[Poison-type Master]: ../trainer_changes/pastoria_city/#master-trainer
+[Ground-type Master]: ../trainer_changes/oreburgh_gate/#master-trainer
+[Flying-type Master]: ../trainer_changes/pokemon_league/#master-trainer
+[Psychic-type Master]: ../trainer_changes/solaceon_ruins/#master-trainer
+[Bug-type Master]: ../trainer_changes/route_202/#master-trainer
+[Rock-type Master]: ../trainer_changes/route_207/#master-trainer
+[Ghost-type Master]: ../trainer_changes/lost_tower/#master-trainer
+[Dragon-type Master]: ../trainer_changes/celestic_town/#master-trainer
+[Dark-type Master]: ../trainer_changes/sendoff_spring/#master-trainer
+[Steel-type Master]: ../trainer_changes/iron_island/#master-trainer
 [Bulbasaur]: ../pokemon_changes/001/
 [Charmander]: ../pokemon_changes/004/
 [Squirtle]: ../pokemon_changes/007/

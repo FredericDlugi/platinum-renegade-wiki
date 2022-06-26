@@ -1864,3 +1864,41 @@
 [Victory Road ~ 2F]: ./wild_pokemon/victory_road__2f/
 [Victory Road ~ B1F]: ./wild_pokemon/victory_road__b1f/
 [Wayward Cave (Both)]: ./wild_pokemon/wayward_cave_(both)/
+[Fire-type Master]: ./trainer_changes/route_226/#master-trainer
+[Water-type Master]: ./trainer_changes/route_219/#master-trainer
+[Electric-type Master]: ./trainer_changes/sunyshore_city/#master-trainer
+[Grass-type Master]: ./trainer_changes/floaroma_town/#master-trainer
+[Ice-type Master]: ./trainer_changes/snowpoint_city/#master-trainer
+[Fighting-type Master]: ./trainer_changes/veilstone_city/#master-trainer
+[Poison-type Master]: ./trainer_changes/pastoria_city/#master-trainer
+[Ground-type Master]: ./trainer_changes/oreburgh_gate/#master-trainer
+[Flying-type Master]: ./trainer_changes/pokemon_league/#master-trainer
+[Psychic-type Master]: ./trainer_changes/solaceon_ruins/#master-trainer
+[Bug-type Master]: ./trainer_changes/route_202/#master-trainer
+[Rock-type Master]: ./trainer_changes/route_207/#master-trainer
+[Ghost-type Master]: ./trainer_changes/lost_tower/#master-trainer
+[Dragon-type Master]: ./trainer_changes/celestic_town/#master-trainer
+[Dark-type Master]: ./trainer_changes/sendoff_spring/#master-trainer
+[Steel-type Master]: ./trainer_changes/iron_island/#master-trainer
+[Aurora Beam]: ./move_changes/#aurora-beam
+[Blaze Kick]: ./move_changes/#blaze-kick
+[Bubble Beam]: ./move_changes/#bubble-beam
+[Chatter]: ./move_changes/#chatter
+[Cross Poison]: ./move_changes/#cross-poison
+[Cut]: ./move_changes/#cut
+[Disarming Voice]: ./move_changes/#disarming-voice
+[Draining Kiss]: ./move_changes/#draining-kiss
+[Flame Wheel]: ./move_changes/#flame-wheel
+[Fly]: ./move_changes/#fly
+[Hurricane]: ./move_changes/#hurricane
+[Needle Arm]: ./move_changes/#needle-arm
+[Poison Fang]: ./move_changes/#poison-fang
+[Poison Tail]: ./move_changes/#poison-tail
+[Rock Climb]: ./move_changes/#rock-climb
+[Rock Smash]: ./move_changes/#rock-smash
+[Scald]: ./move_changes/#scald
+[Shadow Claw]: ./move_changes/#shadow-claw
+[Shadow Punch]: ./move_changes/#shadow-punch
+[Sludge]: ./move_changes/#sludge
+[Strength]: ./move_changes/#strength
+[Wild Charge]: ./move_changes/#wild-charge
