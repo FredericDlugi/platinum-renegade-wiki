@@ -17,8 +17,7 @@ def get_learned_by(move_id):
                     re.findall(
                         r"https://pokeapi.co/api/v2/pokemon/(\d+)/",
                         lp["url"])[0])
-                if poke_id < 494:
-                    learned_by.append(f"{poke_id:03}")
+                learned_by.append(poke_id)
 
     return learned_by
 
@@ -296,7 +295,7 @@ if __name__ == "__main__":
     print(
         "".join(
             create_learnable_table(
-                "493",
+                492,
                 tm_dict,
                 tutor_dict,
                 learnable_dict)))
