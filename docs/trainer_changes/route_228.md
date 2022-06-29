@@ -18,6 +18,9 @@ Black Belt Davon (!)                | ![][297]<br>[Hariyama]<br>Lv. 75  | ![][06
 
 ## Ace Trainer Shade
 
+!!! note
+    This trainer needs to be beaten to advance into Stark Mountain
+
 ![][ace_m_2]                      | Item                              | Nature | Ability        | Moves
 ---                               | ---                               | ---    | ---            | ---
 ![][229]<br>[Houndoom]<br>Lv. 76  | ![][white-herb]<br>White Herb     | ?      | Intimidate (!) | Dark Pulse, Overheat, Sludge Bomb, Thunder Fang
