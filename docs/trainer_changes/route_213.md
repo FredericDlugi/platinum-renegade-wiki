@@ -17,7 +17,7 @@ Swimmer Evan      | ![][195]<br>[Quagsire]<br>Lv. 44  | ![][319]<br>[Sharpedo]<b
 Swimmer Mary      | ![][279]<br>[Pelipper]<br>Lv. 44  | ![][457]<br>[Lumineon]<br>Lv. 44 | &nbsp;
 Galactic Grunt    | ![][454]<br>[Toxicroak]<br>Lv. 41 | &nbsp;                           | &nbsp;
 
-#### Rematches
+## Rematches
 
 Trainer           | 1                                 | 2                               | 3
 ---               | ---                               | ---                             | ---

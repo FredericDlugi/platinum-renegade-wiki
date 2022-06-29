@@ -20,7 +20,7 @@ Swimmer Cassandra     | ![][134]<br>[Vaporeon]<br>Lv. 61   | &nbsp;             
 Swimmer Gabrielle     | ![][055]<br>[Golduck]<br>Lv. 59    | ![][131]<br>[Lapras]<br>Lv. 59    | ![][121]<br>[Starmie]<br>Lv. 59    | &nbsp;
 Sailor Zachariah (!)  | ![][099]<br>[Kingler]<br>Lv. 58    | ![][068]<br>[Machamp]<br>Lv. 58   | ![][423]<br>[Gastrodon]<br>Lv. 58  | ![][199]<br>[Slowking]<br>Lv. 58
 
-#### Rematches
+## Rematches
 
 Trainer               | 1                                | 2                                 | 3                                 | 4
 ---                   | ---                              | ---                               | ---                               | ---

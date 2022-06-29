@@ -16,7 +16,7 @@ Lass Natalie          | ![][161]<br>[Sentret]<br>Lv. 7   | ![][399]<br>[Bidoof]<
 Youngster Tristan (!) | ![][163]<br>[Hoothoot]<br>Lv. 7  | ![][396]<br>[Starly]<br>Lv. 7 | &nbsp;
 Youngster Logan       | ![][058]<br>[Growlithe]<br>Lv. 7 | ![][412]<br>[Burmy]<br>Lv. 7  | ![][263]<br>[Zigzagoon]<br>Lv. 7
 
-#### Rematches
+## Rematches
 
 Trainer               | 1                               | 2                                 | 3
 ---                   | ---                             | ---                               | ---

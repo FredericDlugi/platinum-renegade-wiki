@@ -1,11 +1,13 @@
 # Stark Mountain ~ Entrance
 
-Trainer                           | 1                                | 2                               | 3                                | 4                                  | 5                                  | 6
----                               | ---                              | ---                             | ---                              | ---                                | ---                                | ---
-Commander Mars<br>![][mars]       | ![][169]<br>[Crobat]<br>Lv. 77   | ![][469]<br>[Yanmega]<br>Lv. 77 | ![][437]<br>[Bronzong]<br>Lv. 77 | ![][466]<br>[Electivire]<br>Lv. 77 | ![][115]<br>[Kangaskhan]<br>Lv. 77 | ![][432]<br>[Purugly]<br>Lv. 78
-Commander Jupiter<br>![][jupiter] | ![][437]<br>[Bronzong]<br>Lv. 77 | ![][302]<br>[Sableye]<br>Lv. 77 | ![][169]<br>[Crobat]<br>Lv. 77   | ![][465]<br>[Tangrowth]<br>Lv. 77  | ![][423]<br>[Gastrodon]<br>Lv. 77  | ![][435]<br>[Skuntank]<br>Lv. 78
+Trainer                             | 1                                | 2                               | 3                                | 4                                  | 5                                  | 6
+---                                 | ---                              | ---                             | ---                              | ---                                | ---                                | ---
+[Commander Mars]<br>![][mars]       | ![][169]<br>[Crobat]<br>Lv. 77   | ![][469]<br>[Yanmega]<br>Lv. 77 | ![][437]<br>[Bronzong]<br>Lv. 77 | ![][466]<br>[Electivire]<br>Lv. 77 | ![][115]<br>[Kangaskhan]<br>Lv. 77 | ![][432]<br>[Purugly]<br>Lv. 78
+[Commander Jupiter]<br>![][jupiter] | ![][437]<br>[Bronzong]<br>Lv. 77 | ![][302]<br>[Sableye]<br>Lv. 77 | ![][169]<br>[Crobat]<br>Lv. 77   | ![][465]<br>[Tangrowth]<br>Lv. 77  | ![][423]<br>[Gastrodon]<br>Lv. 77  | ![][435]<br>[Skuntank]<br>Lv. 78
 
-Commander Mars<br>![][mars]        | Item                              | Nature | Ability     | Moves
+## Commander Mars
+
+![][mars]                          | Item                              | Nature | Ability     | Moves
 ---                                | ---                               | ---    | ---         | ---
 ![][169]<br>[Crobat]<br>Lv. 77     | ![][life-orb]<br>Life Orb         | ?      | Inner Focus | Brave Bird, Sludge Bomb, Giga Drain, Hypnosis
 ![][469]<br>[Yanmega]<br>Lv. 77    | ![][wise-glasses]<br>Wise Glasses | ?      | Speed Boost | Bug Buzz, Air Slash, Psychic, Detect
@@ -14,7 +16,9 @@ Commander Mars<br>![][mars]        | Item                              | Nature 
 ![][115]<br>[Kangaskhan]<br>Lv. 77 | ![][muscle-band]<br>Muscle Band   | ?      | Scrappy     | Body Slam, Crunch, Hammer Arm, Fake Out
 ![][432]<br>[Purugly]<br>Lv. 78    | ![][sitrus-berry]<br>Sitrus Berry | ?      | Thick Fat   | Body Slam, Play Rough, Fake Out, Hypnosis
 
-Commander Jupiter<br>![][jupiter] | Item                                | Nature | Ability         | Moves
+## Commander Jupiter
+
+![][jupiter]                      | Item                                | Nature | Ability         | Moves
 ---                               | ---                                 | ---    | ---             | ---
 ![][437]<br>[Bronzong]<br>Lv. 77  | ![][leftovers]<br>Leftovers         | ?      | Levitate        | Swagger, Psychic, Flash Cannon, Grass Knot
 ![][302]<br>[Sableye]<br>Lv. 77   | ![][muscle-band]<br>Muscle Band     | ?      | Magic Guard (!) | Shadow Claw, Sucker Punch, Zen Headbutt, Fake Out
@@ -29,6 +33,8 @@ Commander Jupiter<br>![][jupiter] | Item                                | Nature
 
 --8<-- "includes/natures.md"
 
+[Commander Mars]: #commander-mars
+[Commander Jupiter]: #commander-jupiter
 [Kangaskhan]: ../../pokemon_changes/115/
 [Crobat]: ../../pokemon_changes/169/
 [Sableye]: ../../pokemon_changes/302/

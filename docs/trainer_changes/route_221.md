@@ -13,7 +13,7 @@ Ace Trainer Shannon (!) | ![][045]<br>[Vileplume]<br>Lv. 45 | ![][282]<br>[Garde
 Ace Trainer Jake (!)    | ![][344]<br>[Claydol]<br>Lv. 45   | ![][006]<br>[Charizard]<br>Lv. 45 | ![][103]<br>[Exeggutor]<br>Lv. 45 | ![][359]<br>[Absol]<br>Lv. 45
 Collector Ivan (!)      | ![][468]<br>[Togekiss]<br>Lv. 45  | ![][242]<br>[Blissey]<br>Lv. 45   | &nbsp;                            | &nbsp;
 
-#### Rematches
+## Rematches
 
 Trainer                 | 1                                 | 2                                 | 3                                 | 4
 ---                     | ---                               | ---                               | ---                               | ---

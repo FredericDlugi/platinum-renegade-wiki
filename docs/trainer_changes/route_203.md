@@ -15,7 +15,7 @@ Youngster Sebastian  | ![][296]<br>[Makuhita]<br>Lv. 10 | ![][066]<br>[Machop]<b
 Lass Kaitlin         | ![][021]<br>[Spearow]<br>Lv. 9   | ![][104]<br>[Cubone]<br>Lv. 9     | ![][298]<br>[Azurill]<br>Lv. 9
 Lass Madeline (!)    | ![][054]<br>[Psyduck]<br>Lv. 10  | ![][191]<br>[Sunkern]<br>Lv. 10   | &nbsp;
 
-#### Rematches
+## Rematches
 
 Trainer              | 1                               | 2                                 | 3                               | 4
 ---                  | ---                             | ---                               | ---                             | ---

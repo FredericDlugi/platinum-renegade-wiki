@@ -1,23 +1,23 @@
 # Stark Mountain ~ Interior
 
-Trainer               | 1                                                 | 2                                 | 3
----                   | ---                                               | ---                               | ---
-Ace Trainer Keenan    | ![][057]<br>[Primeape]<br>Lv. 78                  | ![][354]<br>[Banette]<br>Lv. 78   | ![][466]<br>[Electivire]<br>Lv. 78
-Ace Trainer Kassandra | ![][189]<br>[Jumpluff]<br>Lv. 78                  | ![][181]<br>[Ampharos]<br>Lv. 78  | ![][208]<br>[Steelix]<br>Lv. 78
-Ace Trainer Stefan    | ![][248]<br>[Tyranitar]<br>Lv. 78                 | ![][389]<br>[Torterra]<br>Lv. 78  | ![][306]<br>[Aggron]<br>Lv. 78
-Ace Trainer Jasmin    | ![][452]<br>[Drapion]<br>Lv. 78 Hippowdown Lv. 78 | ![][467]<br>[Magmortar]<br>Lv. 78 | &nbsp;
-Bird Keeper Krystal   | ![][398]<br>[Staraptor]<br>Lv. 78                 | ![][022]<br>[Fearow]<br>Lv. 78    | ![][164]<br>[Noctowl]<br>Lv. 78
-Black Belt Ray        | ![][286]<br>[Breloom]<br>Lv. 78                   | ![][454]<br>[Toxicroak]<br>Lv. 78 | ![][297]<br>[Hariyama]<br>Lv. 78
-Ace Trainer Abel      | ![][362]<br>[Glalie]<br>Lv. 78                    | ![][169]<br>[Crobat]<br>Lv. 78    | ![][038]<br>[Ninetales]<br>Lv. 78
-Ace Trainer Monique   | ![][405]<br>[Luxray]<br>Lv. 78                    | ![][217]<br>[Ursaring]<br>Lv. 78  | ![][472]<br>[Gliscor]<br>Lv. 78
-Psychic Chelsey       | ![][337]<br>[Lunatone]<br>Lv. 78                  | ![][282]<br>[Gardevoir]<br>Lv. 78 | ![][178]<br>[Xatu]<br>Lv. 78
-Psychic Sterling      | ![][338]<br>[Solrock]<br>Lv. 78                   | ![][475]<br>[Gallade]<br>Lv. 78   | ![][344]<br>[Claydol]<br>Lv. 78
-Veteran Harlan        | ![][020]<br>[Raticate]<br>Lv. 78                  | ![][426]<br>[Drifblim]<br>Lv. 78  | ![][275]<br>[Shiftry]<br>Lv. 78
-Dragon Tamer Kenny    | ![][373]<br>[Salamence]<br>Lv. 78                 | ![][330]<br>[Flygon]<br>Lv. 78    | ![][334]<br>[Altaria]<br>Lv. 78
-Ace Trainer Skylar    | ![][295]<br>[Exploud]<br>Lv. 78                   | ![][409]<br>[Rampardos]<br>Lv. 78 | ![][279]<br>[Pelipper]<br>Lv. 78
-Ace Trainer Natasha   | ![][040]<br>[Wigglytuff]<br>Lv. 78                | ![][065]<br>[Alakazam]<br>Lv. 78  | ![][308]<br>[Medicham]<br>Lv. 78
-Dragon Tamer Drake    | ![][445]<br>[Garchomp]<br>Lv. 78                  | ![][149]<br>[Dragonite]<br>Lv. 78 | ![][230]<br>[Kingdra]<br>Lv. 78
-Black Belt Jarrett    | ![][068]<br>[Machamp]<br>Lv. 78                   | ![][257]<br>[Blaziken]<br>Lv. 78  | ![][062]<br>[Poliwrath]<br>Lv. 78
+Trainer               | 1                                  | 2                                 | 3
+---                   | ---                                | ---                               | ---
+Ace Trainer Keenan    | ![][057]<br>[Primeape]<br>Lv. 78   | ![][354]<br>[Banette]<br>Lv. 78   | ![][466]<br>[Electivire]<br>Lv. 78
+Ace Trainer Kassandra | ![][189]<br>[Jumpluff]<br>Lv. 78   | ![][181]<br>[Ampharos]<br>Lv. 78  | ![][208]<br>[Steelix]<br>Lv. 78
+Ace Trainer Stefan    | ![][248]<br>[Tyranitar]<br>Lv. 78  | ![][389]<br>[Torterra]<br>Lv. 78  | ![][306]<br>[Aggron]<br>Lv. 78
+Ace Trainer Jasmin    | ![][452]<br>[Drapion]<br>Lv. 78    | ![][450]<br>[Hippowdon]<br>Lv. 78 | ![][467]<br>[Magmortar]<br>Lv. 78
+Bird Keeper Krystal   | ![][398]<br>[Staraptor]<br>Lv. 78  | ![][022]<br>[Fearow]<br>Lv. 78    | ![][164]<br>[Noctowl]<br>Lv. 78
+Black Belt Ray        | ![][286]<br>[Breloom]<br>Lv. 78    | ![][454]<br>[Toxicroak]<br>Lv. 78 | ![][297]<br>[Hariyama]<br>Lv. 78
+Ace Trainer Abel      | ![][362]<br>[Glalie]<br>Lv. 78     | ![][169]<br>[Crobat]<br>Lv. 78    | ![][038]<br>[Ninetales]<br>Lv. 78
+Ace Trainer Monique   | ![][405]<br>[Luxray]<br>Lv. 78     | ![][217]<br>[Ursaring]<br>Lv. 78  | ![][472]<br>[Gliscor]<br>Lv. 78
+Psychic Chelsey       | ![][337]<br>[Lunatone]<br>Lv. 78   | ![][282]<br>[Gardevoir]<br>Lv. 78 | ![][178]<br>[Xatu]<br>Lv. 78
+Psychic Sterling      | ![][338]<br>[Solrock]<br>Lv. 78    | ![][475]<br>[Gallade]<br>Lv. 78   | ![][344]<br>[Claydol]<br>Lv. 78
+Veteran Harlan        | ![][020]<br>[Raticate]<br>Lv. 78   | ![][426]<br>[Drifblim]<br>Lv. 78  | ![][275]<br>[Shiftry]<br>Lv. 78
+Dragon Tamer Kenny    | ![][373]<br>[Salamence]<br>Lv. 78  | ![][330]<br>[Flygon]<br>Lv. 78    | ![][334]<br>[Altaria]<br>Lv. 78
+Ace Trainer Skylar    | ![][295]<br>[Exploud]<br>Lv. 78    | ![][409]<br>[Rampardos]<br>Lv. 78 | ![][279]<br>[Pelipper]<br>Lv. 78
+Ace Trainer Natasha   | ![][040]<br>[Wigglytuff]<br>Lv. 78 | ![][065]<br>[Alakazam]<br>Lv. 78  | ![][308]<br>[Medicham]<br>Lv. 78
+Dragon Tamer Drake    | ![][445]<br>[Garchomp]<br>Lv. 78   | ![][149]<br>[Dragonite]<br>Lv. 78 | ![][230]<br>[Kingdra]<br>Lv. 78
+Black Belt Jarrett    | ![][068]<br>[Machamp]<br>Lv. 78    | ![][257]<br>[Blaziken]<br>Lv. 78  | ![][062]<br>[Poliwrath]<br>Lv. 78
 
 [Raticate]: ../../pokemon_changes/020/
 [Fearow]: ../../pokemon_changes/022/
@@ -60,6 +60,7 @@ Black Belt Jarrett    | ![][068]<br>[Machamp]<br>Lv. 78                   | ![][
 [Rampardos]: ../../pokemon_changes/409/
 [Drifblim]: ../../pokemon_changes/426/
 [Garchomp]: ../../pokemon_changes/445/
+[Hippowdon]: ../../pokemon_changes/450/
 [Drapion]: ../../pokemon_changes/452/
 [Toxicroak]: ../../pokemon_changes/454/
 [Electivire]: ../../pokemon_changes/466/
@@ -107,6 +108,7 @@ Black Belt Jarrett    | ![][068]<br>[Machamp]<br>Lv. 78                   | ![][
 [409]: ../img/pokemon/409.png
 [426]: ../img/pokemon/426.png
 [445]: ../img/pokemon/445.png
+[450]: ../img/pokemon/450.png
 [452]: ../img/pokemon/452.png
 [454]: ../img/pokemon/454.png
 [466]: ../img/pokemon/466.png

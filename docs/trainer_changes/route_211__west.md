@@ -10,7 +10,7 @@ Ninja Boy Zach (!)    | ![][041]<br>[Zubat]<br>Lv. 19   | ![][451]<br>[Skorupi]<
 Hiker Louis           | ![][074]<br>[Geodude]<br>Lv. 19 | ![][218]<br>[Slugma]<br>Lv. 19  | ![][374]<br>[Beldum]<br>Lv. 19
 Bird Keeper Alexandra | ![][177]<br>[Natu]<br>Lv. 20    | ![][333]<br>[Swablu]<br>Lv. 20  | ![][397]<br>[Staravia]<br>Lv. 20
 
-#### Rematches
+## Rematches
 
 Trainer            | 1                              | 2                               | 3
 ---                | ---                            | ---                             | ---

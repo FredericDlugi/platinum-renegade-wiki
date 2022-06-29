@@ -10,7 +10,7 @@ Fisherman Joseph (!) | ![][118]<br>[Goldeen]<br>Lv. 18  | ![][060]<br>[Poliwag]<
 Fisherman Andrew     | ![][129]<br>[Magikarp]<br>Lv. 18 | ![][349]<br>[Feebas]<br>Lv. 18  | ![][129]<br>[Magikarp]<br>Lv. 18
 Fisherman Zachary    | ![][098]<br>[Krabby]<br>Lv. 19   | ![][456]<br>[Finneon]<br>Lv. 19 | &nbsp;
 
-#### Rematches
+## Rematches
 
 Trainer              | 1                               | 2                                 | 3
 ---                  | ---                             | ---                               | ---

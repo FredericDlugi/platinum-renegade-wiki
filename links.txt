@@ -1746,6 +1746,7 @@
 [psychic_m]: ./img/trainer/psychic_m.png
 [psychic_f]: ./img/trainer/psychic_f.png
 [blackbelt]: ./img/trainer/blackbelt.png
+[maylene]: ./img/trainer/maylene.png
 [beauty]: ./img/trainer/beauty.png
 [normal]: ./img/types/normal.png
 [fire]: ./img/types/fire.png

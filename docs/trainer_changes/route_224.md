@@ -4,31 +4,27 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_224/).
 
 
-Trainer                          | 1                                  | 2                                 | 3                                  | 4                                  | 5                                | 6
----                              | ---                                | ---                               | ---                                | ---                                | ---                              | ---
-Ace Trainer Ruben                | ![][275]<br>[Shiftry]<br>Lv. 67    | ![][130]<br>[Gyarados]<br>Lv. 67  | ![][186]<br>[Politoed]<br>Lv. 67   | ![][470]<br>[Leafeon]<br>Lv. 67    | &nbsp;                           | &nbsp;
-Psychic Brittney                 | ![][097]<br>[Hypno]<br>Lv. 66      | ![][065]<br>[Alakazam]<br>Lv. 66  | ![][308]<br>[Medicham]<br>Lv. 66   | ![][337]<br>[Lunatone]<br>Lv. 66   | &nbsp;                           | &nbsp;
-Psychic Maxwell                  | ![][429]<br>[Mismagius]<br>Lv. 66  | ![][094]<br>[Gengar]<br>Lv. 66    | ![][080]<br>[Slowbro]<br>Lv. 66    | ![][338]<br>[Solrock]<br>Lv. 66    | &nbsp;                           | &nbsp;
-Veteran Armando (!)              | ![][089]<br>[Muk]<br>Lv. 68        | ![][262]<br>[Mightyena]<br>Lv. 68 | ![][463]<br>[Lickilicky]<br>Lv. 68 | ![][279]<br>[Pelipper]<br>Lv. 68   | &nbsp;                           | &nbsp;
-Black Belt Carl                  | ![][297]<br>[Hariyama]<br>Lv. 66   | ![][106]<br>[Hitmonlee]<br>Lv. 66 | ![][107]<br>[Hitmonchan]<br>Lv. 66 | ![][237]<br>[Hitmontop]<br>Lv. 66  | &nbsp;                           | &nbsp;
-Ruin Maniac Larry                | ![][142]<br>[Aerodactyl]<br>Lv. 66 | ![][348]<br>[Armaldo]<br>Lv. 66   | ![][346]<br>[Cradily]<br>Lv. 66    | ![][369]<br>[Relicanth]<br>Lv. 66  | &nbsp;                           | &nbsp;
-Ace Trainer Jamie                | ![][134]<br>[Vaporeon]<br>Lv. 67   | ![][376]<br>[Metagross]<br>Lv. 67 | ![][407]<br>[Roserade]<br>Lv. 67   | ![][051]<br>[Dugtrio]<br>Lv. 67    | &nbsp;                           | &nbsp;
-Dragon Tamer Hayden (!)          | ![][334]<br>[Altaria]<br>Lv. 67    | ![][373]<br>[Salamence]<br>Lv. 67 | ![][230]<br>[Kingdra]<br>Lv. 67    | ![][149]<br>[Dragonite]<br>Lv. 67  | &nbsp;                           | &nbsp;
-PKMN Trainer Dawn<br>![][dawn]   | ![][065]<br>[Alakazam]<br>Lv. 69   | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][036]<br>[Clefable]<br>Lv. 69   | ![][428]<br>[Lopunny]<br>Lv. 69    | ![][134]<br>[Vaporeon]<br>Lv. 69 | ![][389]<br>[Torterra]<br>Lv. 70
-PKMN Trainer Dawn<br>![][dawn]   | ![][065]<br>[Alakazam]<br>Lv. 69   | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][036]<br>[Clefable]<br>Lv. 69   | ![][428]<br>[Lopunny]<br>Lv. 69    | ![][135]<br>[Jolteon]<br>Lv. 69  | ![][392]<br>[Infernape]<br>Lv. 70
-PKMN Trainer Dawn<br>![][dawn]   | ![][065]<br>[Alakazam]<br>Lv. 69   | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][036]<br>[Clefable]<br>Lv. 69   | ![][428]<br>[Lopunny]<br>Lv. 69    | ![][136]<br>[Flareon]<br>Lv. 69  | ![][395]<br>[Empoleon]<br>Lv. 70
-PKMN Trainer Lucas<br>![][lucas] | ![][065]<br>[Alakazam]<br>Lv. 69   | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][210]<br>[Granbull]<br>Lv. 69   | ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][134]<br>[Vaporeon]<br>Lv. 69 | ![][389]<br>[Torterra]<br>Lv. 70
-PKMN Trainer Lucas<br>![][lucas] | ![][065]<br>[Alakazam]<br>Lv. 69   | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][210]<br>[Granbull]<br>Lv. 69   | ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][135]<br>[Jolteon]<br>Lv. 69  | ![][392]<br>[Infernape]<br>Lv. 70
-PKMN Trainer Lucas<br>![][lucas] | ![][065]<br>[Alakazam]<br>Lv. 69   | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][210]<br>[Granbull]<br>Lv. 69   | ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][136]<br>[Flareon]<br>Lv. 69  | ![][395]<br>[Empoleon]<br>Lv. 70
+Trainer                            | 1                                  | 2                                 | 3                                  | 4                                  | 5                                | 6
+---                                | ---                                | ---                               | ---                                | ---                                | ---                              | ---
+Ace Trainer Ruben                  | ![][275]<br>[Shiftry]<br>Lv. 67    | ![][130]<br>[Gyarados]<br>Lv. 67  | ![][186]<br>[Politoed]<br>Lv. 67   | ![][470]<br>[Leafeon]<br>Lv. 67    | &nbsp;                           | &nbsp;
+Psychic Brittney                   | ![][097]<br>[Hypno]<br>Lv. 66      | ![][065]<br>[Alakazam]<br>Lv. 66  | ![][308]<br>[Medicham]<br>Lv. 66   | ![][337]<br>[Lunatone]<br>Lv. 66   | &nbsp;                           | &nbsp;
+Psychic Maxwell                    | ![][429]<br>[Mismagius]<br>Lv. 66  | ![][094]<br>[Gengar]<br>Lv. 66    | ![][080]<br>[Slowbro]<br>Lv. 66    | ![][338]<br>[Solrock]<br>Lv. 66    | &nbsp;                           | &nbsp;
+Veteran Armando (!)                | ![][089]<br>[Muk]<br>Lv. 68        | ![][262]<br>[Mightyena]<br>Lv. 68 | ![][463]<br>[Lickilicky]<br>Lv. 68 | ![][279]<br>[Pelipper]<br>Lv. 68   | &nbsp;                           | &nbsp;
+Black Belt Carl                    | ![][297]<br>[Hariyama]<br>Lv. 66   | ![][106]<br>[Hitmonlee]<br>Lv. 66 | ![][107]<br>[Hitmonchan]<br>Lv. 66 | ![][237]<br>[Hitmontop]<br>Lv. 66  | &nbsp;                           | &nbsp;
+Ruin Maniac Larry                  | ![][142]<br>[Aerodactyl]<br>Lv. 66 | ![][348]<br>[Armaldo]<br>Lv. 66   | ![][346]<br>[Cradily]<br>Lv. 66    | ![][369]<br>[Relicanth]<br>Lv. 66  | &nbsp;                           | &nbsp;
+Ace Trainer Jamie                  | ![][134]<br>[Vaporeon]<br>Lv. 67   | ![][376]<br>[Metagross]<br>Lv. 67 | ![][407]<br>[Roserade]<br>Lv. 67   | ![][051]<br>[Dugtrio]<br>Lv. 67    | &nbsp;                           | &nbsp;
+Dragon Tamer Hayden (!)            | ![][334]<br>[Altaria]<br>Lv. 67    | ![][373]<br>[Salamence]<br>Lv. 67 | ![][230]<br>[Kingdra]<br>Lv. 67    | ![][149]<br>[Dragonite]<br>Lv. 67  | &nbsp;                           | &nbsp;
+[PKMN Trainer Dawn]<br>![][dawn]   | ![][065]<br>[Alakazam]<br>Lv. 69   | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][036]<br>[Clefable]<br>Lv. 69   | ![][428]<br>[Lopunny]<br>Lv. 69    | ![][134]<br>[Vaporeon]<br>Lv. 69 | ![][389]<br>[Torterra]<br>Lv. 70
+[PKMN Trainer Dawn]<br>![][dawn]   | ![][065]<br>[Alakazam]<br>Lv. 69   | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][036]<br>[Clefable]<br>Lv. 69   | ![][428]<br>[Lopunny]<br>Lv. 69    | ![][135]<br>[Jolteon]<br>Lv. 69  | ![][392]<br>[Infernape]<br>Lv. 70
+[PKMN Trainer Dawn]<br>![][dawn]   | ![][065]<br>[Alakazam]<br>Lv. 69   | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][036]<br>[Clefable]<br>Lv. 69   | ![][428]<br>[Lopunny]<br>Lv. 69    | ![][136]<br>[Flareon]<br>Lv. 69  | ![][395]<br>[Empoleon]<br>Lv. 70
+[PKMN Trainer Lucas]<br>![][lucas] | ![][065]<br>[Alakazam]<br>Lv. 69   | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][210]<br>[Granbull]<br>Lv. 69   | ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][134]<br>[Vaporeon]<br>Lv. 69 | ![][389]<br>[Torterra]<br>Lv. 70
+[PKMN Trainer Lucas]<br>![][lucas] | ![][065]<br>[Alakazam]<br>Lv. 69   | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][210]<br>[Granbull]<br>Lv. 69   | ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][135]<br>[Jolteon]<br>Lv. 69  | ![][392]<br>[Infernape]<br>Lv. 70
+[PKMN Trainer Lucas]<br>![][lucas] | ![][065]<br>[Alakazam]<br>Lv. 69   | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][210]<br>[Granbull]<br>Lv. 69   | ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][136]<br>[Flareon]<br>Lv. 69  | ![][395]<br>[Empoleon]<br>Lv. 70
 
-#### Rematches
 
-Trainer                 | 1                               | 2                                 | 3                                  | 4
----                     | ---                             | ---                               | ---                                | ---
-Veteran Armando (S)     | ![][089]<br>[Muk]<br>Lv. 77     | ![][262]<br>[Mightyena]<br>Lv. 77 | ![][463]<br>[Lickilicky]<br>Lv. 77 | ![][279]<br>[Pelipper]<br>Lv. 77
-Dragon Tamer Hayden (S) | ![][334]<br>[Altaria]<br>Lv. 77 | ![][373]<br>[Salamence]<br>Lv. 77 | ![][230]<br>[Kingdra]<br>Lv. 77    | ![][149]<br>[Dragonite]<br>Lv. 77
+## PKMN Trainer Dawn
 
-PKMN Trainer Dawn<br>![][dawn]    | Item                              | Nature | Ability      | Moves
+![][dawn]                         | Item                              | Nature | Ability      | Moves
 ---                               | ---                               | ---    | ---          | ---
 ![][065]<br>[Alakazam]<br>Lv. 69  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | Psychic, Shadow Ball, Aura Sphere, Dazzling Gleam
 ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][choice-band]<br>Choice Band   | ?      | Thick Fat    | Earthquake, Icicle Crash, Stone Edge, Superpower
@@ -41,7 +37,9 @@ PKMN Trainer Dawn<br>![][dawn]    | Item                              | Nature |
 ![][392]<br>[Infernape]<br>Lv. 70 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist    | Blast Burn, Close Combat, Stone Edge, Thunder Punch     (!)
 ![][395]<br>[Empoleon]<br>Lv. 70  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent      | Hydro Cannon, Flash Cannon, Grass Knot, Ice Beam        (!)
 
-PKMN Trainer Lucas<br>![][lucas]   | Item                              | Nature | Ability      | Moves
+## PKMN Trainer Lucas
+
+![][lucas]                         | Item                              | Nature | Ability      | Moves
 ---                                | ---                               | ---    | ---          | ---
 ![][065]<br>[Alakazam]<br>Lv. 69   | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | Psychic, Shadow Ball, Aura Sphere, Dazzling Gleam
 ![][473]<br>[Mamoswine]<br>Lv. 69  | ![][choice-band]<br>Choice Band   | ?      | Thick Fat    | Earthquake, Icicle Crash, Stone Edge, Superpower
@@ -54,12 +52,21 @@ PKMN Trainer Lucas<br>![][lucas]   | Item                              | Nature 
 ![][392]<br>[Infernape]<br>Lv. 70  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist    | Blast Burn, Close Combat, Stone Edge, Thunder Punch     (!)
 ![][395]<br>[Empoleon]<br>Lv. 70   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent      | Hydro Cannon, Flash Cannon, Grass Knot, Ice Beam        (!)
 
+## Rematches
+
+Trainer                 | 1                               | 2                                 | 3                                  | 4
+---                     | ---                             | ---                               | ---                                | ---
+Veteran Armando (S)     | ![][089]<br>[Muk]<br>Lv. 77     | ![][262]<br>[Mightyena]<br>Lv. 77 | ![][463]<br>[Lickilicky]<br>Lv. 77 | ![][279]<br>[Pelipper]<br>Lv. 77
+Dragon Tamer Hayden (S) | ![][334]<br>[Altaria]<br>Lv. 77 | ![][373]<br>[Salamence]<br>Lv. 77 | ![][230]<br>[Kingdra]<br>Lv. 77    | ![][149]<br>[Dragonite]<br>Lv. 77
+
 --8<-- "includes/abilities.md"
 
 --8<-- "includes/held_items.md"
 
 --8<-- "includes/natures.md"
 
+[PKMN Trainer Dawn]: #pkmn-trainer-dawn
+[PKMN Trainer Lucas]: #pkmn-trainer-lucas
 [Clefable]: ../../pokemon_changes/036/
 [Dugtrio]: ../../pokemon_changes/051/
 [Alakazam]: ../../pokemon_changes/065/

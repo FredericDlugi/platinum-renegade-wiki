@@ -15,7 +15,7 @@ Jogger Craig (!)       | ![][405]<br>[Luxray]<br>Lv. 34    | &nbsp;             
 Ace Trainer Dennis (!) | ![][207]<br>[Gligar]<br>Lv. 35    | ![][130]<br>[Gyarados]<br>Lv. 35   | ![][426]<br>[Drifblim]<br>Lv. 35
 Ace Trainer Maya (!)   | ![][108]<br>[Lickitung]<br>Lv. 35 | ![][282]<br>[Gardevoir]<br>Lv. 35  | ![][407]<br>[Roserade]<br>Lv. 35
 
-#### Rematches
+## Rematches
 
 Trainer                | 1                                  | 2                                 | 3
 ---                    | ---                                | ---                               | ---

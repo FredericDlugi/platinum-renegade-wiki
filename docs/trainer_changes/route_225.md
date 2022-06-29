@@ -14,9 +14,23 @@ Dragon Tamer Geoffrey (!)             | ![][334]<br>[Altaria]<br>Lv. 75    | &nb
 Ace Trainer Deanna (!)                | ![][181]<br>[Ampharos]<br>Lv. 73   | ![][357]<br>[Tropius]<br>Lv. 73  | ![][131]<br>[Lapras]<br>Lv. 73     | ![][241]<br>[Miltank]<br>Lv. 73   | &nbsp;                          | &nbsp;
 PKMN Ranger Dwayne                    | ![][227]<br>[Skarmory]<br>Lv. 73   | ![][055]<br>[Golduck]<br>Lv. 73  | ![][232]<br>[Donphan]<br>Lv. 73    | &nbsp;                            | &nbsp;                          | &nbsp;
 Ace Trainer Quinn                     | ![][127]<br>[Pinsir]<br>Lv. 73     | ![][171]<br>[Lanturn]<br>Lv. 73  | ![][076]<br>[Golem]<br>Lv. 73      | ![][295]<br>[Exploud]<br>Lv. 73   | &nbsp;                          | &nbsp;
-Ace Trainer Heather *<br>![][ace_f_2] | ![][279]<br>[Pelipper]<br>Lv. 76   | ![][468]<br>[Togekiss]<br>Lv. 76 | ![][142]<br>[Aerodactyl]<br>Lv. 76 | ![][018]<br>[Pidgeot]<br>Lv. 76   | ![][357]<br>[Tropius]<br>Lv. 76 | ![][149]<br>[Dragonite]<br>Lv. 77
+[Ace Trainer Heather]<br>![][ace_f_2] | ![][279]<br>[Pelipper]<br>Lv. 76   | ![][468]<br>[Togekiss]<br>Lv. 76 | ![][142]<br>[Aerodactyl]<br>Lv. 76 | ![][018]<br>[Pidgeot]<br>Lv. 76   | ![][357]<br>[Tropius]<br>Lv. 76 | ![][149]<br>[Dragonite]<br>Lv. 77
 
-#### Rematches
+## Ace Trainer Heather
+
+!!! note
+    This trainer needs to be beaten to advance into Stark Mountain
+
+![][ace_f_2]                       | Item                              | Nature | Ability          | Moves
+---                                | ---                               | ---    | ---              | ---
+![][279]<br>[Pelipper]<br>Lv. 76   | ![][focus-sash]<br>Focus Sash     | ?      | Drizzle          | Hydro Pump, Hurricane, Ice Beam, Tailwind
+![][468]<br>[Togekiss]<br>Lv. 76   | ![][expert-belt]<br>Expert Belt   | ?      | Serene Grace     | Hurricane, Moonblast, Shadow Ball, Roost
+![][142]<br>[Aerodactyl]<br>Lv. 76 | ![][life-orb]<br>Life Orb         | ?      | Rock Head        | Brave Bird, Stone Edge, Crunch, Earthquake
+![][018]<br>[Pidgeot]<br>Lv. 76    | ![][wise-glasses]<br>Wise Glasses | ?      | No Guard (!)     | Hurricane, Hyper Beam, Heat Wave, Tailwind
+![][357]<br>[Tropius]<br>Lv. 76    | ![][leftovers]<br>Leftovers       | ?      | Chlorophyll      | Hurricane, Energy Ball, Dragon Pulse, Roost
+![][149]<br>[Dragonite]<br>Lv. 77  | ![][white-herb]<br>White Herb     | ?      | Marvel Scale (!) | Hurricane, Draco Meteor, Thunder, Ice Beam
+
+## Rematches
 
 Trainer                   | 1                                  | 2                                | 3                                  | 4
 ---                       | ---                                | ---                              | ---                                | ---
@@ -27,14 +41,6 @@ Psychic Daisy (S)         | ![][080]<br>[Slowbro]<br>Lv. 79    | ![][199]<br>[Sl
 Dragon Tamer Geoffrey (S) | ![][334]<br>[Altaria]<br>Lv. 79    | ![][445]<br>[Garchomp]<br>Lv. 79 | &nbsp;                             | &nbsp;
 Ace Trainer Deanna (S)    | ![][181]<br>[Ampharos]<br>Lv. 79   | ![][357]<br>[Tropius]<br>Lv. 79  | ![][131]<br>[Lapras]<br>Lv. 79     | ![][241]<br>[Miltank]<br>Lv. 79
 
-Ace Trainer Heather<br>![][ace_f_2] | Item                              | Nature | Ability          | Moves
----                                 | ---                               | ---    | ---              | ---
-![][279]<br>[Pelipper]<br>Lv. 76    | ![][focus-sash]<br>Focus Sash     | ?      | Drizzle          | Hydro Pump, Hurricane, Ice Beam, Tailwind
-![][468]<br>[Togekiss]<br>Lv. 76    | ![][expert-belt]<br>Expert Belt   | ?      | Serene Grace     | Hurricane, Moonblast, Shadow Ball, Roost
-![][142]<br>[Aerodactyl]<br>Lv. 76  | ![][life-orb]<br>Life Orb         | ?      | Rock Head        | Brave Bird, Stone Edge, Crunch, Earthquake
-![][018]<br>[Pidgeot]<br>Lv. 76     | ![][wise-glasses]<br>Wise Glasses | ?      | No Guard (!)     | Hurricane, Hyper Beam, Heat Wave, Tailwind
-![][357]<br>[Tropius]<br>Lv. 76     | ![][leftovers]<br>Leftovers       | ?      | Chlorophyll      | Hurricane, Energy Ball, Dragon Pulse, Roost
-![][149]<br>[Dragonite]<br>Lv. 77   | ![][white-herb]<br>White Herb     | ?      | Marvel Scale (!) | Hurricane, Draco Meteor, Thunder, Ice Beam
 
 --8<-- "includes/abilities.md"
 
@@ -42,6 +48,7 @@ Ace Trainer Heather<br>![][ace_f_2] | Item                              | Nature
 
 --8<-- "includes/natures.md"
 
+[Ace Trainer Heather]: #ace-trainer-heather
 [Butterfree]: ../../pokemon_changes/012/
 [Pidgeot]: ../../pokemon_changes/018/
 [Arbok]: ../../pokemon_changes/024/

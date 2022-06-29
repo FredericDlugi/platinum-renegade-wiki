@@ -15,7 +15,7 @@ Battle Girl Kelsey       | ![][066]<br>[Machop]<br>Lv. 16    | ![][056]<br>[Mank
 Picnicker Karina (!)     | ![][393]<br>[Piplup]<br>Lv. 16    | ![][390]<br>[Chimchar]<br>Lv. 16  | &nbsp;
 Camper Zackary (!)       | ![][190]<br>[Aipom]<br>Lv. 15     | ![][287]<br>[Slakoth]<br>Lv. 15   | ![][276]<br>[Taillow]<br>Lv. 15
 
-#### Rematches
+## Rematches
 
 Trainer                  | 1                                | 2                                 | 3
 ---                      | ---                              | ---                               | ---

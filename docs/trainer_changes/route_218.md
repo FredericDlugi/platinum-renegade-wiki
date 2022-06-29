@@ -11,7 +11,7 @@ Fisherman Luc        | ![][342]<br>[Crawdaunt]<br>Lv. 45  | &nbsp;              
 Sailor Skyler        | ![][139]<br>[Omastar]<br>Lv. 43    | ![][141]<br>[Kabutops]<br>Lv. 43 | ![][369]<br>[Relicanth]<br>Lv. 43
 Guitarist Tony (!)   | ![][402]<br>[Kricketune]<br>Lv. 44 | ![][295]<br>[Exploud]<br>Lv. 44  | &nbsp;
 
-#### Rematches
+## Rematches
 
 Trainer              | 1                                  | 2                               | 3
 ---                  | ---                                | ---                             | ---

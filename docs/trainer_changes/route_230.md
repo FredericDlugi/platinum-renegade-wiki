@@ -12,16 +12,14 @@ Swimmer Kurt                       | ![][098]<br>[Krabby]<br>Lv. 70     | ![][34
 Swimmer Sophia                     | ![][225]<br>[Delibird]<br>Lv. 73   | ![][226]<br>[Mantine]<br>Lv. 73   | &nbsp;                            | &nbsp;                            | &nbsp;                         | &nbsp;
 Swimmer Sam                        | ![][365]<br>[Walrein]<br>Lv. 72    | ![][423]<br>[Gastrodon]<br>Lv. 72 | ![][119]<br>[Seaking]<br>Lv. 72   | &nbsp;                            | &nbsp;                         | &nbsp;
 Swimmer Mallory                    | ![][284]<br>[Masquerain]<br>Lv. 73 | ![][272]<br>[Ludicolo]<br>Lv. 73  | &nbsp;                            | &nbsp;                            | &nbsp;                         | &nbsp;
-Ace Trainer Luna *<br>![][ace_f_2] | ![][040]<br>[Wigglytuff]<br>Lv. 76 | ![][036]<br>[Clefable]<br>Lv. 76  | ![][184]<br>[Azumarill]<br>Lv. 76 | ![][210]<br>[Granbull]<br>Lv. 76  | ![][303]<br>[Mawile]<br>Lv. 76 | ![][282]<br>[Gardevoir]<br>Lv. 77
+[Ace Trainer Luna]<br>![][ace_f_2] | ![][040]<br>[Wigglytuff]<br>Lv. 76 | ![][036]<br>[Clefable]<br>Lv. 76  | ![][184]<br>[Azumarill]<br>Lv. 76 | ![][210]<br>[Granbull]<br>Lv. 76  | ![][303]<br>[Mawile]<br>Lv. 76 | ![][282]<br>[Gardevoir]<br>Lv. 77
 
-#### Rematches
+## Ace Trainer Luna
 
-Trainer            | 1                                 | 2                                | 3
----                | ---                               | ---                              | ---
-Swimmer Glenn (S)  | ![][224]<br>[Octillery]<br>Lv. 76 | ![][186]<br>[Politoed]<br>Lv. 76 | &nbsp;
-Swimmer Joanna (S) | ![][370]<br>[Luvdisc]<br>Lv. 75   | ![][222]<br>[Corsola]<br>Lv. 75  | ![][134]<br>[Vaporeon]<br>Lv. 75
+!!! note
+    This trainer needs to be beaten to advance into Stark Mountain
 
-Ace Trainer Luna<br>![][ace_f_2]   | Item                            | Nature | Ability        | Moves
+![][ace_f_2]                       | Item                            | Nature | Ability        | Moves
 ---                                | ---                             | ---    | ---            | ---
 ![][040]<br>[Wigglytuff]<br>Lv. 76 | ![][expert-belt]<br>Expert Belt | ?      | Cute Charm     | Moonblast, Thunderbolt, Ice Beam, Flamethrower
 ![][036]<br>[Clefable]<br>Lv. 76   | ![][leftovers]<br>Leftovers     | ?      | Cute Charm     | Moonblast, Soft-Boiled, Focus Blast, Reflect
@@ -30,12 +28,20 @@ Ace Trainer Luna<br>![][ace_f_2]   | Item                            | Nature | 
 ![][303]<br>[Mawile]<br>Lv. 76     | ![][focus-sash]<br>Focus Sash   | ?      | Huge Power (!) | Play Rough, Iron Head, Sucker Punch, Swords Dance
 ![][282]<br>[Gardevoir]<br>Lv. 77  | ![][life-orb]<br>Life Orb       | ?      | Synchronize    | Moonblast, Psychic, Thunderbolt, Aura Sphere
 
+## Rematches
+
+Trainer            | 1                                 | 2                                | 3
+---                | ---                               | ---                              | ---
+Swimmer Glenn (S)  | ![][224]<br>[Octillery]<br>Lv. 76 | ![][186]<br>[Politoed]<br>Lv. 76 | &nbsp;
+Swimmer Joanna (S) | ![][370]<br>[Luvdisc]<br>Lv. 75   | ![][222]<br>[Corsola]<br>Lv. 75  | ![][134]<br>[Vaporeon]<br>Lv. 75
+
 --8<-- "includes/abilities.md"
 
 --8<-- "includes/held_items.md"
 
 --8<-- "includes/natures.md"
 
+[Ace Trainer Luna]: #ace-trainer-luna
 [Clefable]: ../../pokemon_changes/036/
 [Wigglytuff]: ../../pokemon_changes/040/
 [Krabby]: ../../pokemon_changes/098/

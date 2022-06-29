@@ -10,7 +10,7 @@ Aroma Lady Taylor       | ![][420]<br>[Cherubi]<br>Lv. 13 | ![][187]<br>[Hoppip]
 Bug Catcher Brandon (!) | ![][265]<br>[Wurmple]<br>Lv. 14 | ![][402]<br>[Kricketune]<br>Lv. 14 | &nbsp;
 Twins Liv & Liz         | ![][311]<br>[Plusle]<br>Lv. 15  | ![][312]<br>[Minun]<br>Lv. 15      | &nbsp;
 
-#### Rematches
+## Rematches
 
 Trainer                 | 1                              | 2                                  | 3
 ---                     | ---                            | ---                                | ---

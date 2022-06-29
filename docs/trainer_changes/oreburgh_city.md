@@ -1,12 +1,14 @@
 # Oreburgh City
 
-Trainer                            | 1                                | 2                               | 3                                  | 4                               | 5                               | 6
----                                | ---                              | ---                             | ---                                | ---                             | ---                             | ---
-Reporter Helen                     | ![][252]<br>[Treecko]<br>Lv. 10  | ![][255]<br>[Torchic]<br>Lv. 10 | ![][258]<br>[Mudkip]<br>Lv. 10     | &nbsp;                          | &nbsp;                          | &nbsp;
-PKMN Trainer Steven<br>![][steven] | ![][227]<br>[Skarmory]<br>Lv. 88 | ![][306]<br>[Aggron]<br>Lv. 88  | ![][142]<br>[Aerodactyl]<br>Lv. 88 | ![][346]<br>[Cradily]<br>Lv. 88 | ![][348]<br>[Armaldo]<br>Lv. 88 | ![][376]<br>[Metagross]<br>Lv. 89
+Trainer                              | 1                                | 2                               | 3                                  | 4                               | 5                               | 6
+---                                  | ---                              | ---                             | ---                                | ---                             | ---                             | ---
+Reporter Helen                       | ![][252]<br>[Treecko]<br>Lv. 10  | ![][255]<br>[Torchic]<br>Lv. 10 | ![][258]<br>[Mudkip]<br>Lv. 10     | &nbsp;                          | &nbsp;                          | &nbsp;
+[PKMN Trainer Steven]<br>![][steven] | ![][227]<br>[Skarmory]<br>Lv. 88 | ![][306]<br>[Aggron]<br>Lv. 88  | ![][142]<br>[Aerodactyl]<br>Lv. 88 | ![][346]<br>[Cradily]<br>Lv. 88 | ![][348]<br>[Armaldo]<br>Lv. 88 | ![][376]<br>[Metagross]<br>Lv. 89
 
 
-PKMN Trainer Steven<br>![][steven] | Item                              | Nature | Ability      | Moves
+## PKMN Trainer Steven
+
+![][steven]                        | Item                              | Nature | Ability      | Moves
 ---                                | ---                               | ---    | ---          | ---
 ![][227]<br>[Skarmory]<br>Lv. 88   | ![][occa-berry]<br>Occa Berry     | ?      | Keen Eye     | Brave Bird, Iron Head, Drill Run, Stealth Rock
 ![][306]<br>[Aggron]<br>Lv. 88     | ![][focus-sash]<br>Focus Sash     | ?      | Rock Head    | Head Smash, Aqua Tail, Iron Tail, Thunder Wave
@@ -21,6 +23,7 @@ PKMN Trainer Steven<br>![][steven] | Item                              | Nature 
 
 --8<-- "includes/natures.md"
 
+[PKMN Trainer Steven]: #pkmn-trainer-steven
 [Aerodactyl]: ../../pokemon_changes/142/
 [Skarmory]: ../../pokemon_changes/227/
 [Treecko]: ../../pokemon_changes/252/

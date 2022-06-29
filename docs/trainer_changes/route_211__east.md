@@ -11,7 +11,7 @@ Ninja Boy Nick        | ![][291]<br>[Ninjask]<br>Lv. 20
 Black Belt Sean       | ![][214]<br>[Heracross]<br>Lv. 22
 Ruin Maniac Harry (!) | ![][142]<br>[Aerodactyl]<br>Lv. 21
 
-#### Rematches
+## Rematches
 
 Trainer               | 1
 ---                   | ---

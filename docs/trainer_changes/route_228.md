@@ -14,18 +14,11 @@ Dragon Tamer Keegan                 | ![][330]<br>[Flygon]<br>Lv. 76    | &nbsp;
 Psychic Corbin (!)                  | ![][097]<br>[Hypno]<br>Lv. 76     | ![][475]<br>[Gallade]<br>Lv. 76   | &nbsp;                            | &nbsp;                           | &nbsp;                            | &nbsp;
 Ace Trainer Meagan                  | ![][301]<br>[Delcatty]<br>Lv. 77  | ![][460]<br>[Abomasnow]<br>Lv. 77 | &nbsp;                            | &nbsp;                           | &nbsp;                            | &nbsp;
 Black Belt Davon (!)                | ![][297]<br>[Hariyama]<br>Lv. 75  | ![][068]<br>[Machamp]<br>Lv. 75   | ![][057]<br>[Primeape]<br>Lv. 75  | &nbsp;                           | &nbsp;                            | &nbsp;
-Ace Trainer Shade *<br>![][ace_m_2] | ![][229]<br>[Houndoom]<br>Lv. 76  | ![][461]<br>[Weavile]<br>Lv. 76   | ![][275]<br>[Shiftry]<br>Lv. 76   | ![][319]<br>[Sharpedo]<br>Lv. 76 | ![][442]<br>[Spiritomb]<br>Lv. 76 | ![][248]<br>[Tyranitar]<br>Lv. 77
+[Ace Trainer Shade]<br>![][ace_m_2] | ![][229]<br>[Houndoom]<br>Lv. 76  | ![][461]<br>[Weavile]<br>Lv. 76   | ![][275]<br>[Shiftry]<br>Lv. 76   | ![][319]<br>[Sharpedo]<br>Lv. 76 | ![][442]<br>[Spiritomb]<br>Lv. 76 | ![][248]<br>[Tyranitar]<br>Lv. 77
 
-#### Rematches
+## Ace Trainer Shade
 
-Trainer               | 1                                 | 2                                 | 3
----                   | ---                               | ---                               | ---
-Ace Trainer Moira (S) | ![][332]<br>[Cacturne]<br>Lv. 79  | ![][423]<br>[Gastrodon]<br>Lv. 79 | ![][344]<br>[Claydol]<br>Lv. 79
-PKMN Ranger Kyler (S) | ![][103]<br>[Exeggutor]<br>Lv. 78 | ![][335]<br>[Zangoose]<br>Lv. 78  | ![][395]<br>[Empoleon]<br>Lv. 78
-Psychic Corbin (S)    | ![][097]<br>[Hypno]<br>Lv. 78     | ![][475]<br>[Gallade]<br>Lv. 78   | ![][178]<br>[Xatu]<br>Lv. 78
-Black Belt Davon (S)  | ![][297]<br>[Hariyama]<br>Lv. 78  | ![][068]<br>[Machamp]<br>Lv. 78   | ![][057]<br>[Primeape]<br>Lv. 78
-
-Ace Trainer Shade<br>![][ace_m_2] | Item                              | Nature | Ability        | Moves
+![][ace_m_2]                      | Item                              | Nature | Ability        | Moves
 ---                               | ---                               | ---    | ---            | ---
 ![][229]<br>[Houndoom]<br>Lv. 76  | ![][white-herb]<br>White Herb     | ?      | Intimidate (!) | Dark Pulse, Overheat, Sludge Bomb, Thunder Fang
 ![][461]<br>[Weavile]<br>Lv. 76   | ![][muscle-band]<br>Muscle Band   | ?      | Technician (!) | Icicle Crash, Feint Attack, Aerial Ace, Low Kick
@@ -34,12 +27,22 @@ Ace Trainer Shade<br>![][ace_m_2] | Item                              | Nature |
 ![][442]<br>[Spiritomb]<br>Lv. 76 | ![][leftovers]<br>Leftovers       | ?      | Pressure       | Dark Pulse, Psychic, Hypnosis, Double Team
 ![][248]<br>[Tyranitar]<br>Lv. 77 | ![][chople-berry]<br>Chople Berry | ?      | Sand Stream    | Crunch, Stone Edge, Iron Tail, Fire Punch
 
+## Rematches
+
+Trainer               | 1                                 | 2                                 | 3
+---                   | ---                               | ---                               | ---
+Ace Trainer Moira (S) | ![][332]<br>[Cacturne]<br>Lv. 79  | ![][423]<br>[Gastrodon]<br>Lv. 79 | ![][344]<br>[Claydol]<br>Lv. 79
+PKMN Ranger Kyler (S) | ![][103]<br>[Exeggutor]<br>Lv. 78 | ![][335]<br>[Zangoose]<br>Lv. 78  | ![][395]<br>[Empoleon]<br>Lv. 78
+Psychic Corbin (S)    | ![][097]<br>[Hypno]<br>Lv. 78     | ![][475]<br>[Gallade]<br>Lv. 78   | ![][178]<br>[Xatu]<br>Lv. 78
+Black Belt Davon (S)  | ![][297]<br>[Hariyama]<br>Lv. 78  | ![][068]<br>[Machamp]<br>Lv. 78   | ![][057]<br>[Primeape]<br>Lv. 78
+
 --8<-- "includes/abilities.md"
 
 --8<-- "includes/held_items.md"
 
 --8<-- "includes/natures.md"
 
+[Ace Trainer Shade]: #ace-trainer-shade
 [Sandslash]: ../../pokemon_changes/028/
 [Primeape]: ../../pokemon_changes/057/
 [Machamp]: ../../pokemon_changes/068/

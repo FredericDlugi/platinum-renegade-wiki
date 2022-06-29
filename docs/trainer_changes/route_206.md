@@ -16,7 +16,7 @@ Cyclist Ryan      | ![][404]<br>[Luxio]<br>Lv. 21      | &nbsp;                 
 Cyclist Rachel    | ![][135]<br>[Jolteon]<br>Lv. 21    | &nbsp;                            | &nbsp;
 Hiker Theodore    | ![][324]<br>[Torkoal]<br>Lv. 26    | &nbsp;                            | &nbsp;
 
-#### Rematches
+## Rematches
 
 Trainer           | 1                                  | 2                                 | 3
 ---               | ---                                | ---                               | ---

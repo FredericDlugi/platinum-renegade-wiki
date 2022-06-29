@@ -1,16 +1,20 @@
 # Distortion World
 
-Trainer                           | 1                              | 2                                 | 3                                | 4                                | 5                                 | 6
----                               | ---                            | ---                               | ---                              | ---                              | ---                               | ---
-Galactic Boss Cyrus<br>![][cyrus] | ![][484]<br>[Palkia]<br>Lv. 70 | ![][483]<br>[Dialga]<br>Lv. 70    | &nbsp;                           | &nbsp;                           | &nbsp;                            | &nbsp;
-Galactic Boss Cyrus<br>![][cyrus] | ![][169]<br>[Crobat]<br>Lv. 59 | ![][430]<br>[Honchkrow]<br>Lv. 59 | ![][229]<br>[Houndoom]<br>Lv. 59 | ![][130]<br>[Gyarados]<br>Lv. 59 | ![][462]<br>[Magnezone]<br>Lv. 59 | ![][461]<br>[Weavile]<br>Lv. 60
+Trainer                             | 1                              | 2                                 | 3                                | 4                                | 5                                 | 6
+---                                 | ---                            | ---                               | ---                              | ---                              | ---                               | ---
+[Galactic Boss Cyrus]<br>![][cyrus] | ![][484]<br>[Palkia]<br>Lv. 70 | ![][483]<br>[Dialga]<br>Lv. 70    | &nbsp;                           | &nbsp;                           | &nbsp;                            | &nbsp;
+[Galactic Boss Cyrus]<br>![][cyrus] | ![][169]<br>[Crobat]<br>Lv. 59 | ![][430]<br>[Honchkrow]<br>Lv. 59 | ![][229]<br>[Houndoom]<br>Lv. 59 | ![][130]<br>[Gyarados]<br>Lv. 59 | ![][462]<br>[Magnezone]<br>Lv. 59 | ![][461]<br>[Weavile]<br>Lv. 60
 
-Galactic Boss Cyrus<br>![][cyrus]      | Item | Nature | Ability  | Moves
----                                    | ---  | ---    | ---      | ---
-![][484]<br>[Palkia]<br>(Lv. 70  0 IV) | None | ?      | Pressure | Hydro Pump, Spacial Rend, Earth Power, Aura Sphere
-![][483]<br>[Dialga]<br>(Lv. 70  0 IV) | None | ?      | Pressure | Flash Cannon, Roar of Time, Earth Power, Aura Sphere
 
-Galactic Boss Cyrus<br>![][cyrus] | Item                              | Nature  | Ability        | Moves
+## Galactic Boss Cyrus
+Both Battles are back to back
+
+![][cyrus]                           | Item | Nature | Ability  | Moves
+---                                  | ---  | ---    | ---      | ---
+![][484]<br>[Palkia]<br>Lv. 70  0 IV | None | ?      | Pressure | Hydro Pump, Spacial Rend, Earth Power, Aura Sphere
+![][483]<br>[Dialga]<br>Lv. 70  0 IV | None | ?      | Pressure | Flash Cannon, Roar of Time, Earth Power, Aura Sphere
+
+![][cyrus]                        | Item                              | Nature  | Ability        | Moves
 ---                               | ---                               | ---     | ---            | ---
 ![][169]<br>[Crobat]<br>Lv. 59    | ![][choice-band]<br>Choice Band   | Jolly   | Inner Focus    | Brave Bird, U-turn, Cross Poison, Zen Headbutt
 ![][430]<br>[Honchkrow]<br>Lv. 59 | ![][white-herb]<br>White Herb     | Naughty | Super Luck     | Brave Bird, Sucker Punch, Thunder Wave, Superpower
@@ -25,6 +29,7 @@ Galactic Boss Cyrus<br>![][cyrus] | Item                              | Nature  
 
 --8<-- "includes/natures.md"
 
+[Galactic Boss Cyrus]: #galactic-boss-cyrus
 [Gyarados]: ../../pokemon_changes/130/
 [Crobat]: ../../pokemon_changes/169/
 [Houndoom]: ../../pokemon_changes/229/

@@ -16,7 +16,7 @@ Beauty Devon         | ![][413]<br>[Wormadam]<br>Lv. 33   | ![][413]<br>[Wormada
 Psychic Mitchell (!) | ![][064]<br>[Kadabra]<br>Lv. 34    | ![][326]<br>[Grumpig]<br>Lv. 34  | ![][097]<br>[Hypno]<br>Lv. 34
 Psychic Abigail (!)  | ![][281]<br>[Kirlia]<br>Lv. 34     | ![][358]<br>[Chimecho]<br>Lv. 34 | ![][203]<br>[Girafarig]<br>Lv. 34
 
-#### Rematches
+## Rematches
 
 Trainer              | 1                                 | 2                                | 3
 ---                  | ---                               | ---                              | ---

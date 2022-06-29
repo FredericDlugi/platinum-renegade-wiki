@@ -4,13 +4,14 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/pastoria_city/).
 
 
-Trainer            | 1                                 | 2                                 | 3                               | 4                                 | 5                                | 6
----                | ---                               | ---                               | ---                             | ---                               | ---                              | ---
-PKMN Trainer Barry | ![][398]<br>[Staraptor]<br>Lv. 41 | ![][214]<br>[Heracross]<br>Lv. 41 | ![][143]<br>[Snorlax]<br>Lv. 41 | ![][184]<br>[Azumarill]<br>Lv. 41 | ![][059]<br>[Arcanine]<br>Lv. 41 | ![][389]<br>[Torterra]<br>Lv. 42
-PKMN Trainer Barry | ![][398]<br>[Staraptor]<br>Lv. 41 | ![][214]<br>[Heracross]<br>Lv. 41 | ![][143]<br>[Snorlax]<br>Lv. 41 | ![][184]<br>[Azumarill]<br>Lv. 41 | ![][286]<br>[Breloom]<br>Lv. 41  | ![][392]<br>[Infernape]<br>Lv. 42
-PKMN Trainer Barry | ![][398]<br>[Staraptor]<br>Lv. 41 | ![][214]<br>[Heracross]<br>Lv. 41 | ![][143]<br>[Snorlax]<br>Lv. 41 | ![][286]<br>[Breloom]<br>Lv. 41   | ![][059]<br>[Arcanine]<br>Lv. 41 | ![][395]<br>[Empoleon]<br>Lv. 42
+Trainer              | 1                                 | 2                                 | 3                               | 4                                 | 5                                | 6
+---                  | ---                               | ---                               | ---                             | ---                               | ---                              | ---
+[PKMN Trainer Barry] | ![][398]<br>[Staraptor]<br>Lv. 41 | ![][214]<br>[Heracross]<br>Lv. 41 | ![][143]<br>[Snorlax]<br>Lv. 41 | ![][184]<br>[Azumarill]<br>Lv. 41 | ![][059]<br>[Arcanine]<br>Lv. 41 | ![][389]<br>[Torterra]<br>Lv. 42
+[PKMN Trainer Barry] | ![][398]<br>[Staraptor]<br>Lv. 41 | ![][214]<br>[Heracross]<br>Lv. 41 | ![][143]<br>[Snorlax]<br>Lv. 41 | ![][184]<br>[Azumarill]<br>Lv. 41 | ![][286]<br>[Breloom]<br>Lv. 41  | ![][392]<br>[Infernape]<br>Lv. 42
+[PKMN Trainer Barry] | ![][398]<br>[Staraptor]<br>Lv. 41 | ![][214]<br>[Heracross]<br>Lv. 41 | ![][143]<br>[Snorlax]<br>Lv. 41 | ![][286]<br>[Breloom]<br>Lv. 41   | ![][059]<br>[Arcanine]<br>Lv. 41 | ![][395]<br>[Empoleon]<br>Lv. 42
 
-![][barry]<br>PKMN Trainer Barry  | Item                              | Nature | Ability    | Moves
+## PKMN Trainer Barry
+![][barry]                        | Item                              | Nature | Ability    | Moves
 ---                               | ---                               | ---    | ---        | ---
 ![][398]<br>[Staraptor]<br>Lv. 41 | ![][muscle-band]<br>Muscle Band   | ?      | Reckless   | Double-Edge, Close Combat, Aerial Ace, Roost
 ![][214]<br>[Heracross]<br>Lv. 41 | ![][coba-berry]<br>Coba Berry     | ?      | Guts       | Megahorn, Brick Break, Bullet Seed, Night Slash
@@ -34,6 +35,7 @@ Scientist Donnie<br>![][scientist] | Item | Nature | Ability | Moves
 
 --8<-- "includes/natures.md"
 
+[PKMN Trainer Barry]: #pkmn-trainer-barry
 [Nidoking]: ../../pokemon_changes/034/
 [Arcanine]: ../../pokemon_changes/059/
 [Snorlax]: ../../pokemon_changes/143/

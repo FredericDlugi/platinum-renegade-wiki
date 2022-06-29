@@ -4,30 +4,24 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_207/).
 
 
-Trainer                          | 1                                 | 2                                 | 3                                  | 4
----                              | ---                               | ---                               | ---                                | ---
-Camper Anthony                   | ![][240]<br>[Magby]<br>Lv. 24     | ![][328]<br>[Trapinch]<br>Lv. 24  | ![][004]<br>[Charmander]<br>Lv. 24 | &nbsp;
-Picnicker Lauren                 | ![][238]<br>[Smoochum]<br>Lv. 24  | ![][209]<br>[Snubbull]<br>Lv. 24  | ![][252]<br>[Treecko]<br>Lv. 24    | &nbsp;
-Youngster Austin                 | ![][271]<br>[Lombre]<br>Lv. 25    | ![][207]<br>[Gligar]<br>Lv. 25    | &nbsp;                             | &nbsp;
-Hiker Justin                     | ![][075]<br>[Graveler]<br>Lv. 25  | ![][028]<br>[Sandslash]<br>Lv. 25 | &nbsp;                             | &nbsp;
-Hiker Kevin                      | ![][206]<br>[Dunsparce]<br>Lv. 25 | ![][206]<br>[Dunsparce]<br>Lv. 25 | &nbsp;                             | &nbsp;
-Battle Girl Helen (!)            | ![][236]<br>[Tyrogue]<br>Lv. 26   | ![][307]<br>[Meditite]<br>Lv. 26  | ![][297]<br>[Hariyama]<br>Lv. 26   | &nbsp;
-PKMN Trainer Dawn<br>![][dawn]   | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][036]<br>[Clefable]<br>Lv. 29  | ![][428]<br>[Lopunny]<br>Lv. 29    | ![][388]<br>[Grotle]<br>Lv. 30
-PKMN Trainer Dawn<br>![][dawn]   | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][036]<br>[Clefable]<br>Lv. 29  | ![][428]<br>[Lopunny]<br>Lv. 29    | ![][391]<br>[Monferno]<br>Lv. 30
-PKMN Trainer Dawn<br>![][dawn]   | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][036]<br>[Clefable]<br>Lv. 29  | ![][428]<br>[Lopunny]<br>Lv. 29    | ![][394]<br>[Prinplup]<br>Lv. 30
-PKMN Trainer Lucas<br>![][lucas] | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][210]<br>[Granbull]<br>Lv. 29  | ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][388]<br>[Grotle]<br>Lv. 30
-PKMN Trainer Lucas<br>![][lucas] | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][210]<br>[Granbull]<br>Lv. 29  | ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][391]<br>[Monferno]<br>Lv. 30
-PKMN Trainer Lucas<br>![][lucas] | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][210]<br>[Granbull]<br>Lv. 29  | ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][394]<br>[Prinplup]<br>Lv. 30
+Trainer                            | 1                                 | 2                                 | 3                                  | 4
+---                                | ---                               | ---                               | ---                                | ---
+Camper Anthony                     | ![][240]<br>[Magby]<br>Lv. 24     | ![][328]<br>[Trapinch]<br>Lv. 24  | ![][004]<br>[Charmander]<br>Lv. 24 | &nbsp;
+Picnicker Lauren                   | ![][238]<br>[Smoochum]<br>Lv. 24  | ![][209]<br>[Snubbull]<br>Lv. 24  | ![][252]<br>[Treecko]<br>Lv. 24    | &nbsp;
+Youngster Austin                   | ![][271]<br>[Lombre]<br>Lv. 25    | ![][207]<br>[Gligar]<br>Lv. 25    | &nbsp;                             | &nbsp;
+Hiker Justin                       | ![][075]<br>[Graveler]<br>Lv. 25  | ![][028]<br>[Sandslash]<br>Lv. 25 | &nbsp;                             | &nbsp;
+Hiker Kevin                        | ![][206]<br>[Dunsparce]<br>Lv. 25 | ![][206]<br>[Dunsparce]<br>Lv. 25 | &nbsp;                             | &nbsp;
+Battle Girl Helen (!)              | ![][236]<br>[Tyrogue]<br>Lv. 26   | ![][307]<br>[Meditite]<br>Lv. 26  | ![][297]<br>[Hariyama]<br>Lv. 26   | &nbsp;
+[PKMN Trainer Dawn]<br>![][dawn]   | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][036]<br>[Clefable]<br>Lv. 29  | ![][428]<br>[Lopunny]<br>Lv. 29    | ![][388]<br>[Grotle]<br>Lv. 30
+[PKMN Trainer Dawn]<br>![][dawn]   | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][036]<br>[Clefable]<br>Lv. 29  | ![][428]<br>[Lopunny]<br>Lv. 29    | ![][391]<br>[Monferno]<br>Lv. 30
+[PKMN Trainer Dawn]<br>![][dawn]   | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][036]<br>[Clefable]<br>Lv. 29  | ![][428]<br>[Lopunny]<br>Lv. 29    | ![][394]<br>[Prinplup]<br>Lv. 30
+[PKMN Trainer Lucas]<br>![][lucas] | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][210]<br>[Granbull]<br>Lv. 29  | ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][388]<br>[Grotle]<br>Lv. 30
+[PKMN Trainer Lucas]<br>![][lucas] | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][210]<br>[Granbull]<br>Lv. 29  | ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][391]<br>[Monferno]<br>Lv. 30
+[PKMN Trainer Lucas]<br>![][lucas] | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][210]<br>[Granbull]<br>Lv. 29  | ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][394]<br>[Prinplup]<br>Lv. 30
 
-## Rematches
+## PKMN Trainer Dawn
 
-Trainer               | 1                                 | 2                                | 3
----                   | ---                               | ---                              | ---
-Battle Girl Helen (3) | ![][236]<br>[Tyrogue]<br>Lv. 28   | ![][307]<br>[Meditite]<br>Lv. 28 | ![][297]<br>[Hariyama]<br>Lv. 28
-Battle Girl Helen (7) | ![][237]<br>[Hitmontop]<br>Lv. 54 | ![][308]<br>[Medicham]<br>Lv. 54 | ![][297]<br>[Hariyama]<br>Lv. 54
-Battle Girl Helen (C) | ![][237]<br>[Hitmontop]<br>Lv. 72 | ![][308]<br>[Medicham]<br>Lv. 72 | ![][297]<br>[Hariyama]<br>Lv. 72
-
-PKMN Trainer Dawn<br>![][dawn]    | Item                              | Nature | Ability     | Moves
+![][dawn]                         | Item                              | Nature | Ability     | Moves
 ---                               | ---                               | ---    | ---         | ---
 ![][221]<br>[Piloswine]<br>Lv. 29 | ![][focus-sash]<br>Focus Sash     | ?      | Thick Fat   | Avalanche, Take Down, Rock Slide, Ice Shard
 ![][036]<br>[Clefable]<br>Lv. 29  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm  | Moonblast, Moonlight, Encore, Thunder Wave
@@ -36,7 +30,9 @@ PKMN Trainer Dawn<br>![][dawn]    | Item                              | Nature |
 ![][391]<br>[Monferno]<br>Lv. 30  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist   | Flamethrower, Fake Out, Mach Punch, Grass Knot  (!)
 ![][394]<br>[Prinplup]<br>Lv. 30  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent     | Bubble Beam, Icy Wind, Brick Break, Shadow Claw (!)
 
-PKMN Trainer Lucas<br>![][lucas]   | Item                              | Nature | Ability    | Moves
+## PKMN Trainer Lucas
+
+![][lucas]                         | Item                              | Nature | Ability    | Moves
 ---                                | ---                               | ---    | ---        | ---
 ![][221]<br>[Piloswine]<br>Lv. 29  | ![][focus-sash]<br>Focus Sash     | ?      | Thick Fat  | Avalanche, Take Down, Rock Slide, Ice Shard
 ![][210]<br>[Granbull]<br>Lv. 29   | ![][muscle-band]<br>Muscle Band   | ?      | Intimidate | Play Rough, Fire Fang, Thunder Fang, Ice Fang
@@ -45,6 +41,13 @@ PKMN Trainer Lucas<br>![][lucas]   | Item                              | Nature 
 ![][391]<br>[Monferno]<br>Lv. 30   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist  | Flamethrower, Fake Out, Mach Punch, Grass Knot  (!)
 ![][394]<br>[Prinplup]<br>Lv. 30   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent    | Bubble Beam, Icy Wind, Brick Break, Shadow Claw (!)
 
+## Rematches
+
+Trainer               | 1                                 | 2                                | 3
+---                   | ---                               | ---                              | ---
+Battle Girl Helen (3) | ![][236]<br>[Tyrogue]<br>Lv. 28   | ![][307]<br>[Meditite]<br>Lv. 28 | ![][297]<br>[Hariyama]<br>Lv. 28
+Battle Girl Helen (7) | ![][237]<br>[Hitmontop]<br>Lv. 54 | ![][308]<br>[Medicham]<br>Lv. 54 | ![][297]<br>[Hariyama]<br>Lv. 54
+Battle Girl Helen (C) | ![][237]<br>[Hitmontop]<br>Lv. 72 | ![][308]<br>[Medicham]<br>Lv. 72 | ![][297]<br>[Hariyama]<br>Lv. 72
 
 ## Master Trainer
 
@@ -58,6 +61,8 @@ Hiker ???<br>![][hiker]           | Item | Nature | Ability | Moves
 
 --8<-- "includes/natures.md"
 
+[PKMN Trainer Dawn]: #pkmn-trainer-dawn
+[PKMN Trainer Lucas]: #pkmn-trainer-lucas
 [Charmander]: ../../pokemon_changes/004/
 [Sandslash]: ../../pokemon_changes/028/
 [Clefable]: ../../pokemon_changes/036/

@@ -16,7 +16,7 @@ Skier Lexie            | ![][087]<br>[Dewgong]<br>Lv. 51   | ![][471]<br>[Glaceo
 Black Belt Luke        | ![][068]<br>[Machamp]<br>Lv. 51   | ![][454]<br>[Toxicroak]<br>Lv. 51 | ![][448]<br>[Lucario]<br>Lv. 51
 Ace Trainer Olivia (!) | ![][275]<br>[Shiftry]<br>Lv. 52   | ![][334]<br>[Altaria]<br>Lv. 52   | ![][242]<br>[Blissey]<br>Lv. 52
 
-#### Rematches
+## Rematches
 
 Trainer                | 1                                 | 2                                 | 3
 ---                    | ---                               | ---                               | ---

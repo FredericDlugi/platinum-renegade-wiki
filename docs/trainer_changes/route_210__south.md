@@ -16,7 +16,7 @@ Collector Fernando    | ![][147]<br>[Dratini]<br>Lv. 31   | ![][148]<br>[Dragona
 Collector Edwin       | ![][371]<br>[Bagon]<br>Lv. 31     | ![][372]<br>[Shelgon]<br>Lv. 33   | &nbsp;
 Waitress Kati         | ![][036]<br>[Clefable]<br>Lv. 33  | &nbsp;                            | &nbsp;
 
-#### Rematches
+## Rematches
 
 Trainer           | 1                                | 2                              | 3
 ---               | ---                              | ---                            | ---

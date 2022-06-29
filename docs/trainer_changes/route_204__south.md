@@ -10,7 +10,7 @@ Lass Sarah        | ![][403]<br>[Shinx]<br>Lv. 8     | ![][029]<br>[Nidoran♀]<
 Lass Samantha (!) | ![][043]<br>[Oddish]<br>Lv. 8    | ![][406]<br>[Budew]<br>Lv. 8    | ![][069]<br>[Bellsprout]<br>Lv. 8
 Youngster Tyler   | ![][129]<br>[Magikarp]<br>Lv. 11 | &nbsp;                          | &nbsp;
 
-#### Rematches
+## Rematches
 
 Trainer           | 1                              | 2                                | 3
 ---               | ---                            | ---                              | ---

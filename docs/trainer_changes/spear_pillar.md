@@ -1,11 +1,20 @@
 # Spear Pillar
 
-Trainer                           | 1                                 | 2                                 | 3                                | 4                                  | 5                                  | 6
----                               | ---                               | ---                               | ---                              | ---                                | ---                                | ---
-Galactic Grunt                    | ![][454]<br>[Toxicroak]<br>Lv. 56 | ![][049]<br>[Venomoth]<br>Lv. 56  | ![][042]<br>[Golbat]<br>Lv. 56   | &nbsp;                             | &nbsp;                             | &nbsp;
-Galactic Grunt                    | ![][053]<br>[Persian]<br>Lv. 56   | ![][267]<br>[Beautifly]<br>Lv. 56 | ![][097]<br>[Hypno]<br>Lv. 56    | &nbsp;                             | &nbsp;                             | &nbsp;
-Commander Mars<br>![][mars]       | ![][169]<br>[Crobat]<br>Lv. 57    | ![][469]<br>[Yanmega]<br>Lv. 57   | ![][437]<br>[Bronzong]<br>Lv. 57 | ![][466]<br>[Electivire]<br>Lv. 57 | ![][115]<br>[Kangaskhan]<br>Lv. 57 | ![][432]<br>[Purugly]<br>Lv. 58
-Commander Jupiter<br>![][jupiter] | ![][169]<br>[Crobat]<br>Lv. 57    | ![][302]<br>[Sableye]<br>Lv. 57   | ![][437]<br>[Bronzong]<br>Lv. 57 | ![][465]<br>[Tangrowth]<br>Lv. 57  | ![][423]<br>[Gastrodon]<br>Lv. 57  | ![][435]<br>[Skuntank]<br>Lv. 58
+Trainer        | 1                                 | 2                                 | 3
+---            | ---                               | ---                               | ---
+Galactic Grunt | ![][454]<br>[Toxicroak]<br>Lv. 56 | ![][049]<br>[Venomoth]<br>Lv. 56  | ![][042]<br>[Golbat]<br>Lv. 56
+Galactic Grunt | ![][053]<br>[Persian]<br>Lv. 56   | ![][267]<br>[Beautifly]<br>Lv. 56 | ![][097]<br>[Hypno]<br>Lv. 56
+
+## Double Battle
+
+This Double Battle is against both Mars and Jupiter. Barry will assist you with one of [these](#barrys-teams) teams depending on your Starter.
+
+Trainer                             | 1                              | 2                               | 3                                | 4                                  | 5                                  | 6
+---                                 | ---                            | ---                             | ---                              | ---                                | ---                                | ---
+[Commander Mars]<br>![][mars]       | ![][169]<br>[Crobat]<br>Lv. 57 | ![][469]<br>[Yanmega]<br>Lv. 57 | ![][437]<br>[Bronzong]<br>Lv. 57 | ![][466]<br>[Electivire]<br>Lv. 57 | ![][115]<br>[Kangaskhan]<br>Lv. 57 | ![][432]<br>[Purugly]<br>Lv. 58
+[Commander Jupiter]<br>![][jupiter] | ![][169]<br>[Crobat]<br>Lv. 57 | ![][302]<br>[Sableye]<br>Lv. 57 | ![][437]<br>[Bronzong]<br>Lv. 57 | ![][465]<br>[Tangrowth]<br>Lv. 57  | ![][423]<br>[Gastrodon]<br>Lv. 57  | ![][435]<br>[Skuntank]<br>Lv. 58
+
+### Barrys Teams
 
 Trainer                          | 1                                 | 2                                 | 3                               | 4                                 | 5                                | 6
 ---                              | ---                               | ---                               | ---                             | ---                               | ---                              | ---
@@ -13,7 +22,9 @@ PKMN Trainer Barry<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 58 | ![][214]<
 PKMN Trainer Barry<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 58 | ![][214]<br>[Heracross]<br>Lv. 58 | ![][143]<br>[Snorlax]<br>Lv. 58 | ![][184]<br>[Azumarill]<br>Lv. 58 | ![][286]<br>[Breloom]<br>Lv. 58  | ![][392]<br>[Infernape]<br>Lv. 59
 PKMN Trainer Barry<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 58 | ![][214]<br>[Heracross]<br>Lv. 58 | ![][143]<br>[Snorlax]<br>Lv. 58 | ![][286]<br>[Breloom]<br>Lv. 58   | ![][059]<br>[Arcanine]<br>Lv. 58 | ![][395]<br>[Empoleon]<br>Lv. 59
 
-Commander Mars<br>![][mars]        | Item                              | Nature | Ability     | Moves
+## Commander Mars
+
+![][mars]                          | Item                              | Nature | Ability     | Moves
 ---                                | ---                               | ---    | ---         | ---
 ![][169]<br>[Crobat]<br>Lv. 57     | ![][life-orb]<br>Life Orb         | ?      | Inner Focus | Brave Bird, Sludge Bomb, Confuse Ray, Torment
 ![][469]<br>[Yanmega]<br>Lv. 57    | ![][wise-glasses]<br>Wise Glasses | ?      | Speed Boost | Bug Buzz, Hurricane, Shadow Ball, Detect
@@ -22,7 +33,9 @@ Commander Mars<br>![][mars]        | Item                              | Nature 
 ![][115]<br>[Kangaskhan]<br>Lv. 57 | ![][muscle-band]<br>Muscle Band   | ?      | Scrappy     | Body Slam, Crunch, Hammer Arm, Fake Out
 ![][432]<br>[Purugly]<br>Lv. 58    | ![][sitrus-berry]<br>Sitrus Berry | ?      | Thick Fat   | Body Slam, Play Rough, Fake Out, Hypnosis
 
-Commander Jupiter<br>![][jupiter] | Item                                | Nature | Ability         | Moves
+## Commander Jupiter
+
+![][jupiter]                      | Item                                | Nature | Ability         | Moves
 ---                               | ---                                 | ---    | ---             | ---
 ![][169]<br>[Crobat]<br>Lv. 57    | ![][bright-powder]<br>Bright Powder | ?      | Inner Focus     | Brave Bird, Sludge Bomb, Double Team, Hypnosis
 ![][302]<br>[Sableye]<br>Lv. 57   | ![][muscle-band]<br>Muscle Band     | ?      | Magic Guard (!) | Shadow Claw, Sucker Punch, Zen Headbutt, Fake Out
@@ -37,6 +50,8 @@ Commander Jupiter<br>![][jupiter] | Item                                | Nature
 
 --8<-- "includes/natures.md"
 
+[Commander Mars]: #commander-mars
+[Commander Jupiter]: #commander-jupiter
 [Golbat]: ../../pokemon_changes/042/
 [Venomoth]: ../../pokemon_changes/049/
 [Persian]: ../../pokemon_changes/053/

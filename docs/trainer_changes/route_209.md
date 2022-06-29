@@ -15,7 +15,7 @@ Jogger Richard            | ![][085]<br>[Dodrio]<br>Lv. 31   | &nbsp;           
 Jogger Raul               | ![][022]<br>[Fearow]<br>Lv. 31   | &nbsp;                            | &nbsp;                         | &nbsp;                            | &nbsp;                           | &nbsp;
 Young Couple Ty & Sue     | ![][314]<br>[Illumise]<br>Lv. 31 | ![][313]<br>[Volbeat]<br>Lv. 31   | &nbsp;                         | &nbsp;                            | &nbsp;                           | &nbsp;
 
-#### Rematches
+## Rematches
 
 Trainer                   | 1                                 | 2                                | 3                                 | 4                                  | 5                                  | 6
 ---                       | ---                               | ---                              | ---                               | ---                                | ---                                | ---

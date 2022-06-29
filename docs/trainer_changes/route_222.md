@@ -19,7 +19,7 @@ Fisherman Cole     | ![][119]<br>[Seaking]<br>Lv. 57   | ![][319]<br>[Sharpedo]<
 Tuber Holly        | ![][184]<br>[Azumarill]<br>Lv. 58 | &nbsp;                            | &nbsp;                            | &nbsp;
 Poké Kid Janet     | ![][025]<br>[Pikachu]<br>Lv. 57   | ![][025]<br>[Pikachu]<br>Lv. 57   | &nbsp;                            | &nbsp;
 
-#### Rematches
+## Rematches
 
 Trainer            | 1                                | 2                                | 3
 ---                | ---                              | ---                              | ---

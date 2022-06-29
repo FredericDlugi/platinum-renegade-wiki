@@ -19,7 +19,7 @@ Scientist Stefano          | ![][110]<br>[Weezing]<br>Lv. 38   | ![][089]<br>[Mu
 Pokémon Ranger Allison (!) | ![][350]<br>[Milotic]<br>Lv. 39   | ![][470]<br>[Leafeon]<br>Lv. 39   | ![][124]<br>[Jynx]<br>Lv. 39
 Pokémon Ranger Jeffrey     | ![][126]<br>[Magmar]<br>Lv. 39    | ![][310]<br>[Manectric]<br>Lv. 39 | ![][034]<br>[Nidoking]<br>Lv. 39
 
-#### Rematches
+## Rematches
 
 Trainer                    | 1                                 | 2                                 | 3
 ---                        | ---                               | ---                               | ---

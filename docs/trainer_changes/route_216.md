@@ -12,7 +12,7 @@ Ace Trainer Laura   | ![][176]<br>[Togetic]<br>Lv. 23  | ![][277]<br>[Swellow]<b
 Skier Edward (!)    | ![][459]<br>[Snover]<br>Lv. 20   | ![][361]<br>[Snorunt]<br>Lv. 20  | ![][220]<br>[Swinub]<br>Lv. 20
 Ace Trainer Garrett | ![][122]<br>[Mr. Mime]<br>Lv. 22 | ![][274]<br>[Nuzleaf]<br>Lv. 22  | ![][123]<br>[Scyther]<br>Lv. 22
 
-#### With Rock Climb
+## With Rock Climb
 
 Trainer               | 1                                 | 2
 ---                   | ---                               | ---
@@ -21,7 +21,7 @@ Skier Bradley         | ![][221]<br>[Piloswine]<br>Lv. 54 | ![][362]<br>[Glalie]
 Skier Kaitlyn         | ![][131]<br>[Lapras]<br>Lv. 55    | &nbsp;
 Skier Andrea (!)      | ![][460]<br>[Abomasnow]<br>Lv. 55 | &nbsp;
 
-#### Rematches
+## Rematches
 
 Trainer               | 1                                 | 2                               | 3
 ---                   | ---                               | ---                             | ---
