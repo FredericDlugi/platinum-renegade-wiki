@@ -10,14 +10,14 @@ Trainer                             | 1                                | 2      
 
 ## Arcade Star Dahlia
 
-![][dahlia]                      | Item                              | Nature | Ability       | Moves
----                              | ---                               | ---    | ---           | ---
-![][257]<br>[Blaziken]<br>Lv. 63 | ![][focus-sash]<br>Focus Sash     | ?      | Speed Boost   | Swords Dance, Baton Pass, High Jump Kick, Blaze Kick
-![][477]<br>[Dusknoir]<br>Lv. 63 | ![][lum-berry]<br>Lum Berry       | ?      | Iron Fist (!) | Shadow Punch, Thunder Punch, Ice Punch, Drain Punch
-![][308]<br>[Medicham]<br>Lv. 63 | ![][choice-scarf]<br>Choice Scarf | ?      | Pure Power    | High Jump Kick, Zen Headbutt, Ice Punch, Fire Punch
-![][468]<br>[Togekiss]<br>Lv. 63 | ![][wise-glasses]<br>Wise Glasses | ?      | Serene Grace  | Hurricane, Moonblast, Aura Sphere, Flamethrower
-![][272]<br>[Ludicolo]<br>Lv. 63 | ![][life-orb]<br>Life Orb         | ?      | Swift Swim    | Hydro Pump, Giga Drain, Ice Beam, Fake Out
-![][145]<br>[Zapdos]<br>Lv. 63   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Pressure      | Thunderbolt, Heat Wave, Drill Peck, Light Screen
+![][dahlia]                      | Item                              | Nature | Ability        | Moves
+---                              | ---                               | ---    | ---            | ---
+![][257]<br>[Blaziken]<br>Lv. 63 | ![][focus-sash]<br>Focus Sash     | ?      | Speed Boost    | Swords Dance, Baton Pass, High Jump Kick, Blaze Kick
+![][477]<br>[Dusknoir]<br>Lv. 63 | ![][lum-berry]<br>Lum Berry       | ?      | Iron Fist [^1] | Shadow Punch, Thunder Punch, Ice Punch, Drain Punch
+![][308]<br>[Medicham]<br>Lv. 63 | ![][choice-scarf]<br>Choice Scarf | ?      | Pure Power     | High Jump Kick, Zen Headbutt, Ice Punch, Fire Punch
+![][468]<br>[Togekiss]<br>Lv. 63 | ![][wise-glasses]<br>Wise Glasses | ?      | Serene Grace   | Hurricane, Moonblast, Aura Sphere, Flamethrower
+![][272]<br>[Ludicolo]<br>Lv. 63 | ![][life-orb]<br>Life Orb         | ?      | Swift Swim     | Hydro Pump, Giga Drain, Ice Beam, Fake Out
+![][145]<br>[Zapdos]<br>Lv. 63   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Pressure       | Thunderbolt, Heat Wave, Drill Peck, Light Screen
 
 
 ## Master Trainer
@@ -32,6 +32,7 @@ Guitarist ???<br>![][guitarist]    | Item | Nature | Ability | Moves
 
 --8<-- "includes/natures.md"
 
+[^1]: Only in Complete version
 [Arcade Star Dahlia]: #arcade-star-dahlia
 [Zapdos]: ../../pokemon_changes/145/
 [Blaziken]: ../../pokemon_changes/257/

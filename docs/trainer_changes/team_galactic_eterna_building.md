@@ -13,12 +13,12 @@ Scientist Travon                    | ![][096]<br>[Drowzee]<br>Lv. 24  | ![][375
 
 ## Commander Jupiter
 
-![][jupiter]                     | Item                              | Nature  | Ability         | Moves
----                              | ---                               | ---     | ---             | ---
-![][042]<br>[Golbat]<br>Lv. 26   | None                              | Jolly   | Inner Focus     | Wing Attack, Giga Drain, Leech Life, Confuse Ray
-![][302]<br>[Sableye]<br>Lv. 26  | ![][sitrus-berry]<br>Sitrus Berry | Adamant | Magic Guard (!) | Fake Out, Shadow Claw, Knock Off, Shadow Sneak
-![][114]<br>[Tangela]<br>Lv. 26  | None                              | Modest  | Chlorophyll     | Giga Drain, Shock Wave, Leech Seed, Sleep Powder
-![][435]<br>[Skuntank]<br>Lv. 27 | ![][sitrus-berry]<br>Sitrus Berry | Adamant | Aftermath       | Poison Jab, Night Slash, Focus Energy, Torment
+![][jupiter]                     | Item                              | Nature  | Ability          | Moves
+---                              | ---                               | ---     | ---              | ---
+![][042]<br>[Golbat]<br>Lv. 26   | None                              | Jolly   | Inner Focus      | Wing Attack, Giga Drain, Leech Life, Confuse Ray
+![][302]<br>[Sableye]<br>Lv. 26  | ![][sitrus-berry]<br>Sitrus Berry | Adamant | Magic Guard [^1] | Fake Out, Shadow Claw, Knock Off, Shadow Sneak
+![][114]<br>[Tangela]<br>Lv. 26  | None                              | Modest  | Chlorophyll      | Giga Drain, Shock Wave, Leech Seed, Sleep Powder
+![][435]<br>[Skuntank]<br>Lv. 27 | ![][sitrus-berry]<br>Sitrus Berry | Adamant | Aftermath        | Poison Jab, Night Slash, Focus Energy, Torment
 
 --8<-- "includes/abilities.md"
 
@@ -26,6 +26,7 @@ Scientist Travon                    | ![][096]<br>[Drowzee]<br>Lv. 24  | ![][375
 
 --8<-- "includes/natures.md"
 
+[^1]: Only in Complete version
 [Commander Jupiter]: #commander-jupiter
 [Ekans]: ../../pokemon_changes/023/
 [Nidoran♀]: ../../pokemon_changes/029/

@@ -21,14 +21,14 @@ Ace Trainer Quinn                            | ![][127]<br>[Pinsir]<br>Lv. 73   
 !!! note
     This trainer needs to be beaten to advance into Stark Mountain
 
-![][ace_f_2]                       | Item                              | Nature | Ability          | Moves
----                                | ---                               | ---    | ---              | ---
-![][279]<br>[Pelipper]<br>Lv. 76   | ![][focus-sash]<br>Focus Sash     | ?      | Drizzle          | Hydro Pump, Hurricane, Ice Beam, Tailwind
-![][468]<br>[Togekiss]<br>Lv. 76   | ![][expert-belt]<br>Expert Belt   | ?      | Serene Grace     | Hurricane, Moonblast, Shadow Ball, Roost
-![][142]<br>[Aerodactyl]<br>Lv. 76 | ![][life-orb]<br>Life Orb         | ?      | Rock Head        | Brave Bird, Stone Edge, Crunch, Earthquake
-![][018]<br>[Pidgeot]<br>Lv. 76    | ![][wise-glasses]<br>Wise Glasses | ?      | No Guard (!)     | Hurricane, Hyper Beam, Heat Wave, Tailwind
-![][357]<br>[Tropius]<br>Lv. 76    | ![][leftovers]<br>Leftovers       | ?      | Chlorophyll      | Hurricane, Energy Ball, Dragon Pulse, Roost
-![][149]<br>[Dragonite]<br>Lv. 77  | ![][white-herb]<br>White Herb     | ?      | Marvel Scale (!) | Hurricane, Draco Meteor, Thunder, Ice Beam
+![][ace_f_2]                       | Item                              | Nature | Ability           | Moves
+---                                | ---                               | ---    | ---               | ---
+![][279]<br>[Pelipper]<br>Lv. 76   | ![][focus-sash]<br>Focus Sash     | ?      | Drizzle           | Hydro Pump, Hurricane, Ice Beam, Tailwind
+![][468]<br>[Togekiss]<br>Lv. 76   | ![][expert-belt]<br>Expert Belt   | ?      | Serene Grace      | Hurricane, Moonblast, Shadow Ball, Roost
+![][142]<br>[Aerodactyl]<br>Lv. 76 | ![][life-orb]<br>Life Orb         | ?      | Rock Head         | Brave Bird, Stone Edge, Crunch, Earthquake
+![][018]<br>[Pidgeot]<br>Lv. 76    | ![][wise-glasses]<br>Wise Glasses | ?      | No Guard [^1]     | Hurricane, Hyper Beam, Heat Wave, Tailwind
+![][357]<br>[Tropius]<br>Lv. 76    | ![][leftovers]<br>Leftovers       | ?      | Chlorophyll       | Hurricane, Energy Ball, Dragon Pulse, Roost
+![][149]<br>[Dragonite]<br>Lv. 77  | ![][white-herb]<br>White Herb     | ?      | Marvel Scale [^1] | Hurricane, Draco Meteor, Thunder, Ice Beam
 
 ## Rematches
 
@@ -48,6 +48,7 @@ Ace Trainer Deanna :material-alpha-s-circle-outline:    | ![][181]<br>[Ampharos]
 
 --8<-- "includes/natures.md"
 
+[^1]: Only in Complete version
 [Ace Trainer Heather]: #ace-trainer-heather
 [Butterfree]: ../../pokemon_changes/012/
 [Pidgeot]: ../../pokemon_changes/018/

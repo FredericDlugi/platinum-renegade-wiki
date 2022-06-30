@@ -6,14 +6,14 @@ Trainer                              | 1                               | 2      
 
 ## Castle Valet Darach
 
-![][darach]                       | Item                              | Nature | Ability       | Moves
----                               | ---                               | ---    | ---           | ---
-![][475]<br>[Gallade]<br>Lv. 48   | ![][scope-lens]<br>Scope Lens     | ?      | Steadfast     | Psycho Cut, Night Slash, Close Combat, Leaf Blade
-![][395]<br>[Empoleon]<br>Lv. 48  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent       | Hydro Pump, Flash Cannon, Ice Beam, Aqua Jet
-![][065]<br>[Alakazam]<br>Lv. 48  | ![][expert-belt]<br>Expert Belt   | ?      | Magic Guard   | Psychic, Dazzling Gleam, Focus Blast, Energy Ball
-![][376]<br>[Metagross]<br>Lv. 48 | ![][life-orb]<br>Life Orb         | ?      | Iron Fist (!) | Meteor Mash, Zen Headbutt, Earthquake, Hammer Arm
-![][398]<br>[Staraptor]<br>Lv. 48 | ![][kings-rock]<br>King's Rock    | ?      | Reckless      | Return, Brave Bird, Close Combat, Roost
-![][244]<br>[Entei]<br>Lv. 48     | ![][shuca-berry]<br>Shuca Berry   | ?      | Pressure      | Sacred Fire, Stone Edge, Extreme Speed, Iron Head
+![][darach]                       | Item                              | Nature | Ability        | Moves
+---                               | ---                               | ---    | ---            | ---
+![][475]<br>[Gallade]<br>Lv. 48   | ![][scope-lens]<br>Scope Lens     | ?      | Steadfast      | Psycho Cut, Night Slash, Close Combat, Leaf Blade
+![][395]<br>[Empoleon]<br>Lv. 48  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent        | Hydro Pump, Flash Cannon, Ice Beam, Aqua Jet
+![][065]<br>[Alakazam]<br>Lv. 48  | ![][expert-belt]<br>Expert Belt   | ?      | Magic Guard    | Psychic, Dazzling Gleam, Focus Blast, Energy Ball
+![][376]<br>[Metagross]<br>Lv. 48 | ![][life-orb]<br>Life Orb         | ?      | Iron Fist [^1] | Meteor Mash, Zen Headbutt, Earthquake, Hammer Arm
+![][398]<br>[Staraptor]<br>Lv. 48 | ![][kings-rock]<br>King's Rock    | ?      | Reckless       | Return, Brave Bird, Close Combat, Roost
+![][244]<br>[Entei]<br>Lv. 48     | ![][shuca-berry]<br>Shuca Berry   | ?      | Pressure       | Sacred Fire, Stone Edge, Extreme Speed, Iron Head
 
 --8<-- "includes/abilities.md"
 
@@ -21,6 +21,7 @@ Trainer                              | 1                               | 2      
 
 --8<-- "includes/natures.md"
 
+[^1]: Only in Complete version
 [Castle Valet Darach]: #castle-valet-darach
 [Alakazam]: ../../pokemon_changes/065/
 [Entei]: ../../pokemon_changes/244/

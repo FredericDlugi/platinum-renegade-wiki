@@ -21,14 +21,14 @@ Ace Trainer Meagan                       | ![][301]<br>[Delcatty]<br>Lv. 77  | !
 !!! note
     This trainer needs to be beaten to advance into Stark Mountain
 
-![][ace_m_2]                      | Item                              | Nature | Ability        | Moves
----                               | ---                               | ---    | ---            | ---
-![][229]<br>[Houndoom]<br>Lv. 76  | ![][white-herb]<br>White Herb     | ?      | Intimidate (!) | Dark Pulse, Overheat, Sludge Bomb, Thunder Fang
-![][461]<br>[Weavile]<br>Lv. 76   | ![][muscle-band]<br>Muscle Band   | ?      | Technician (!) | Icicle Crash, Feint Attack, Aerial Ace, Low Kick
-![][275]<br>[Shiftry]<br>Lv. 76   | ![][wise-glasses]<br>Wise Glasses | ?      | Chlorophyll    | Energy Ball, Dark Pulse, Hurricane, Focus Blast
-![][319]<br>[Sharpedo]<br>Lv. 76  | ![][expert-belt]<br>Expert Belt   | ?      | Speed Boost    | Waterfall, Crunch, Ice Fang, Zen Headbutt
-![][442]<br>[Spiritomb]<br>Lv. 76 | ![][leftovers]<br>Leftovers       | ?      | Pressure       | Dark Pulse, Psychic, Hypnosis, Double Team
-![][248]<br>[Tyranitar]<br>Lv. 77 | ![][chople-berry]<br>Chople Berry | ?      | Sand Stream    | Crunch, Stone Edge, Iron Tail, Fire Punch
+![][ace_m_2]                      | Item                              | Nature | Ability         | Moves
+---                               | ---                               | ---    | ---             | ---
+![][229]<br>[Houndoom]<br>Lv. 76  | ![][white-herb]<br>White Herb     | ?      | Intimidate [^1] | Dark Pulse, Overheat, Sludge Bomb, Thunder Fang
+![][461]<br>[Weavile]<br>Lv. 76   | ![][muscle-band]<br>Muscle Band   | ?      | Technician [^1] | Icicle Crash, Feint Attack, Aerial Ace, Low Kick
+![][275]<br>[Shiftry]<br>Lv. 76   | ![][wise-glasses]<br>Wise Glasses | ?      | Chlorophyll     | Energy Ball, Dark Pulse, Hurricane, Focus Blast
+![][319]<br>[Sharpedo]<br>Lv. 76  | ![][expert-belt]<br>Expert Belt   | ?      | Speed Boost     | Waterfall, Crunch, Ice Fang, Zen Headbutt
+![][442]<br>[Spiritomb]<br>Lv. 76 | ![][leftovers]<br>Leftovers       | ?      | Pressure        | Dark Pulse, Psychic, Hypnosis, Double Team
+![][248]<br>[Tyranitar]<br>Lv. 77 | ![][chople-berry]<br>Chople Berry | ?      | Sand Stream     | Crunch, Stone Edge, Iron Tail, Fire Punch
 
 ## Rematches
 
@@ -45,6 +45,7 @@ Black Belt Davon :material-alpha-s-circle-outline:  | ![][297]<br>[Hariyama]<br>
 
 --8<-- "includes/natures.md"
 
+[^1]: Only in Complete version
 [Ace Trainer Shade]: #ace-trainer-shade
 [Sandslash]: ../../pokemon_changes/028/
 [Primeape]: ../../pokemon_changes/057/

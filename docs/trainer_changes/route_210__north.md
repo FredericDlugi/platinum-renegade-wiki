@@ -36,7 +36,7 @@ Ninja Boy Nathan                            | ![][317]<br>[Swalot]<br>Lv. 39    
 ![][065]<br>[Alakazam]<br>Lv. 44  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | Psychic, Shadow Ball, Energy Ball, Dazzling Gleam
 ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][passho-berry]<br>Passho Berry | ?      | Thick Fat    | Earthquake, Avalanche, Stone Edge, Ice Shard
 ![][036]<br>[Clefable]<br>Lv. 44  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | Moonblast, Moonlight, Psychic, Thunder Wave
-![][428]<br>[Lopunny]<br>Lv. 44   | ![][choice-band]<br>Choice Band   | ?      | Scrappy (!)  | Strength, Jump Kick, Fire Punch, Ice Punch
+![][428]<br>[Lopunny]<br>Lv. 44   | ![][choice-band]<br>Choice Band   | ?      | Scrappy [^1] | Strength, Jump Kick, Fire Punch, Ice Punch
 ![][134]<br>[Vaporeon]<br>Lv. 44  | ![][wise-glasses]<br>Wise Glasses | ?      | Water Absorb | Hydro Pump, Ice Beam, Extrasensory, Aqua Ring
 ![][135]<br>[Jolteon]<br>Lv. 44   | ![][wise-glasses]<br>Wise Glasses | ?      | Volt Absorb  | Thunder, Shadow Ball, Extrasensory, Thunder Wave
 ![][136]<br>[Flareon]<br>Lv. 44   | ![][muscle-band]<br>Muscle Band   | ?      | Flash Fire   | Flare Blitz, Play Rough, Close Combat, Will-O-Wisp
@@ -79,6 +79,7 @@ Dragon Tamer Patrick :material-alpha-c-circle-outline:   | ![][445]<br>[Garchomp
 
 --8<-- "includes/natures.md"
 
+[^1]: Only in Complete version
 [PKMN Trainer Dawn]: #pkmn-trainer-dawn
 [PKMN Trainer Lucas]: #pkmn-trainer-lucas
 [Pidgeot]: ../../pokemon_changes/018/

@@ -19,14 +19,14 @@ Swimmer Mallory                       | ![][284]<br>[Masquerain]<br>Lv. 73 | ![]
 !!! note
     This trainer needs to be beaten to advance into Stark Mountain
 
-![][ace_f_2]                       | Item                            | Nature | Ability        | Moves
----                                | ---                             | ---    | ---            | ---
-![][040]<br>[Wigglytuff]<br>Lv. 76 | ![][expert-belt]<br>Expert Belt | ?      | Cute Charm     | Moonblast, Thunderbolt, Ice Beam, Flamethrower
-![][036]<br>[Clefable]<br>Lv. 76   | ![][leftovers]<br>Leftovers     | ?      | Cute Charm     | Moonblast, Soft-Boiled, Focus Blast, Reflect
-![][184]<br>[Azumarill]<br>Lv. 76  | ![][white-herb]<br>White Herb   | ?      | Huge Power     | Play Rough, Aqua Tail, Superpower, Aqua Jet
-![][210]<br>[Granbull]<br>Lv. 76   | ![][muscle-band]<br>Muscle Band | ?      | Intimidate     | Play Rough, Close Combat, Crunch, Lovely Kiss
-![][303]<br>[Mawile]<br>Lv. 76     | ![][focus-sash]<br>Focus Sash   | ?      | Huge Power (!) | Play Rough, Iron Head, Sucker Punch, Swords Dance
-![][282]<br>[Gardevoir]<br>Lv. 77  | ![][life-orb]<br>Life Orb       | ?      | Synchronize    | Moonblast, Psychic, Thunderbolt, Aura Sphere
+![][ace_f_2]                       | Item                            | Nature | Ability         | Moves
+---                                | ---                             | ---    | ---             | ---
+![][040]<br>[Wigglytuff]<br>Lv. 76 | ![][expert-belt]<br>Expert Belt | ?      | Cute Charm      | Moonblast, Thunderbolt, Ice Beam, Flamethrower
+![][036]<br>[Clefable]<br>Lv. 76   | ![][leftovers]<br>Leftovers     | ?      | Cute Charm      | Moonblast, Soft-Boiled, Focus Blast, Reflect
+![][184]<br>[Azumarill]<br>Lv. 76  | ![][white-herb]<br>White Herb   | ?      | Huge Power      | Play Rough, Aqua Tail, Superpower, Aqua Jet
+![][210]<br>[Granbull]<br>Lv. 76   | ![][muscle-band]<br>Muscle Band | ?      | Intimidate      | Play Rough, Close Combat, Crunch, Lovely Kiss
+![][303]<br>[Mawile]<br>Lv. 76     | ![][focus-sash]<br>Focus Sash   | ?      | Huge Power [^1] | Play Rough, Iron Head, Sucker Punch, Swords Dance
+![][282]<br>[Gardevoir]<br>Lv. 77  | ![][life-orb]<br>Life Orb       | ?      | Synchronize     | Moonblast, Psychic, Thunderbolt, Aura Sphere
 
 ## Rematches
 
@@ -41,6 +41,7 @@ Swimmer Joanna :material-alpha-s-circle-outline: | ![][370]<br>[Luvdisc]<br>Lv. 
 
 --8<-- "includes/natures.md"
 
+[^1]: Only in Complete version
 [Ace Trainer Luna]: #ace-trainer-luna
 [Clefable]: ../../pokemon_changes/036/
 [Wigglytuff]: ../../pokemon_changes/040/

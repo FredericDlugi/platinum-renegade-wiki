@@ -19,13 +19,13 @@ Galactic Grunt                      | ![][205]<br>[Forretress]<br>Lv. 53 | ![][3
 
 ## Galactic Boss Cyrus
 
-![][cyrus]                        | Item                              | Nature | Ability        | Moves
----                               | ---                               | ---    | ---            | ---
-![][169]<br>[Crobat]<br>Lv. 57    | ![][choice-band]<br>Choice Band   | ?      | Inner Focus    | Brave Bird, U-turn, Cross Poison, Zen Headbutt
-![][430]<br>[Honchkrow]<br>Lv. 57 | ![][scope-lens]<br>Scope Lens     | ?      | Super Luck     | Brave Bird, Night Slash, Thunder Wave, Heat Wave
-![][229]<br>[Houndoom]<br>Lv. 57  | ![][life-orb]<br>Life Orb         | ?      | Intimidate (!) | Dark Pulse, Flamethrower, Sludge Bomb, Nasty Plot
-![][462]<br>[Magnezone]<br>Lv. 57 | ![][wise-glasses]<br>Wise Glasses | ?      | Magnet Pull    | Thunderbolt, Flash Cannon, Signal Beam, Mirror Coat
-![][461]<br>[Weavile]<br>Lv. 58   | ![][expert-belt]<br>Expert Belt   | ?      | Technican (!)  | Crunch, Icicle Crash, Aerial Ace, X-Scissor
+![][cyrus]                        | Item                              | Nature | Ability         | Moves
+---                               | ---                               | ---    | ---             | ---
+![][169]<br>[Crobat]<br>Lv. 57    | ![][choice-band]<br>Choice Band   | ?      | Inner Focus     | Brave Bird, U-turn, Cross Poison, Zen Headbutt
+![][430]<br>[Honchkrow]<br>Lv. 57 | ![][scope-lens]<br>Scope Lens     | ?      | Super Luck      | Brave Bird, Night Slash, Thunder Wave, Heat Wave
+![][229]<br>[Houndoom]<br>Lv. 57  | ![][life-orb]<br>Life Orb         | ?      | Intimidate [^1] | Dark Pulse, Flamethrower, Sludge Bomb, Nasty Plot
+![][462]<br>[Magnezone]<br>Lv. 57 | ![][wise-glasses]<br>Wise Glasses | ?      | Magnet Pull     | Thunderbolt, Flash Cannon, Signal Beam, Mirror Coat
+![][461]<br>[Weavile]<br>Lv. 58   | ![][expert-belt]<br>Expert Belt   | ?      | Technican [^1]  | Crunch, Icicle Crash, Aerial Ace, X-Scissor
 
 ## Commander Saturn
 
@@ -44,6 +44,7 @@ Galactic Grunt                      | ![][205]<br>[Forretress]<br>Lv. 53 | ![][3
 
 --8<-- "includes/natures.md"
 
+[^1]: Only in Complete version
 [Commander Saturn]: #commander-saturn
 [Galactic Boss Cyrus]: #galactic-boss-cyrus
 [Arbok]: ../../pokemon_changes/024/

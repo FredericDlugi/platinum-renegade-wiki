@@ -18,14 +18,14 @@ Swimmer Wade                        | ![][319]<br>[Sharpedo]<br>Lv. 74  | ![][34
 !!! note
     This trainer needs to be beaten to advance into Stark Mountain
 
-![][ace_m_2]                      | Item                              | Nature | Ability           | Moves
----                               | ---                               | ---    | ---               | ---
-![][230]<br>[Kingdra]<br>Lv. 76   | ![][haban-berry]<br>Haban Berry   | ?      | Swift Swim        | Waterfall, Outrage, Yawn, Dragon Dance
-![][330]<br>[Flygon]<br>Lv. 76    | ![][white-herb]<br>White Herb     | ?      | Compound Eyes (!) | Draco Meteor, Earth Power, Bug Buzz, Fire Blast
-![][334]<br>[Altaria]<br>Lv. 76   | ![][leftovers]<br>Leftovers       | ?      | Cloud Nine        | Dragon Claw, Toxic, Rest, Sleep Talk
-![][149]<br>[Dragonite]<br>Lv. 76 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Marvel Scale (!)  | Outrage, Earthquake, Extreme Speed, Iron Tail
-![][445]<br>[Garchomp]<br>Lv. 76  | ![][choice-scarf]<br>Choice Scarf | ?      | Rough Skin        | Outrage, Earthquake, Poison Jab, Fire Fang
-![][373]<br>[Salamence]<br>Lv. 77 | ![][focus-sash]<br>Focus Sash     | ?      | Intimidate        | Outrage, Aerial Ace, Dragon Dance, Earthquake
+![][ace_m_2]                      | Item                              | Nature | Ability            | Moves
+---                               | ---                               | ---    | ---                | ---
+![][230]<br>[Kingdra]<br>Lv. 76   | ![][haban-berry]<br>Haban Berry   | ?      | Swift Swim         | Waterfall, Outrage, Yawn, Dragon Dance
+![][330]<br>[Flygon]<br>Lv. 76    | ![][white-herb]<br>White Herb     | ?      | Compound Eyes [^1] | Draco Meteor, Earth Power, Bug Buzz, Fire Blast
+![][334]<br>[Altaria]<br>Lv. 76   | ![][leftovers]<br>Leftovers       | ?      | Cloud Nine         | Dragon Claw, Toxic, Rest, Sleep Talk
+![][149]<br>[Dragonite]<br>Lv. 76 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Marvel Scale [^1]  | Outrage, Earthquake, Extreme Speed, Iron Tail
+![][445]<br>[Garchomp]<br>Lv. 76  | ![][choice-scarf]<br>Choice Scarf | ?      | Rough Skin         | Outrage, Earthquake, Poison Jab, Fire Fang
+![][373]<br>[Salamence]<br>Lv. 77 | ![][focus-sash]<br>Focus Sash     | ?      | Intimidate         | Outrage, Aerial Ace, Dragon Dance, Earthquake
 
 ## Master Trainer
 
@@ -39,6 +39,7 @@ Ace Trainer Edmund<br>![][ace_m] | Item | Nature | Ability | Moves
 
 --8<-- "includes/natures.md"
 
+[^1]: Only in Complete version
 [Ace Trainer Wyver]: #ace-trainer-wyver
 [Fearow]: ../../pokemon_changes/022/
 [Dewgong]: ../../pokemon_changes/087/

@@ -18,14 +18,14 @@ Trainer                             | 1                                | 2      
 
 ## Commander Jupiter
 
-![][jupiter]                      | Item                                | Nature | Ability         | Moves
----                               | ---                                 | ---    | ---             | ---
-![][437]<br>[Bronzong]<br>Lv. 77  | ![][leftovers]<br>Leftovers         | ?      | Levitate        | Swagger, Psychic, Flash Cannon, Grass Knot
-![][302]<br>[Sableye]<br>Lv. 77   | ![][muscle-band]<br>Muscle Band     | ?      | Magic Guard (!) | Shadow Claw, Sucker Punch, Zen Headbutt, Fake Out
-![][169]<br>[Crobat]<br>Lv. 77    | ![][bright-powder]<br>Bright Powder | ?      | Inner Focus     | Hurricane, Sludge Bomb, Double Team, Hypnosis
-![][465]<br>[Tangrowth]<br>Lv. 77 | ![][white-herb]<br>White Herb       | ?      | Chlorophyll     | Leaf Storm, Earthquake, Focus Blast, Sludge Bomb
-![][423]<br>[Gastrodon]<br>Lv. 77 | ![][wise-glasses]<br>Wise Glasses   | ?      | Sticky Hold     | Muddy Water, Earth Power, Ice Beam, Recover
-![][435]<br>[Skuntank]<br>Lv. 78  | ![][sitrus-berry]<br>Sitrus Berry   | ?      | Aftermath       | Gunk Shot, Crunch, Play Rough, Toxic
+![][jupiter]                      | Item                                | Nature | Ability          | Moves
+---                               | ---                                 | ---    | ---              | ---
+![][437]<br>[Bronzong]<br>Lv. 77  | ![][leftovers]<br>Leftovers         | ?      | Levitate         | Swagger, Psychic, Flash Cannon, Grass Knot
+![][302]<br>[Sableye]<br>Lv. 77   | ![][muscle-band]<br>Muscle Band     | ?      | Magic Guard [^1] | Shadow Claw, Sucker Punch, Zen Headbutt, Fake Out
+![][169]<br>[Crobat]<br>Lv. 77    | ![][bright-powder]<br>Bright Powder | ?      | Inner Focus      | Hurricane, Sludge Bomb, Double Team, Hypnosis
+![][465]<br>[Tangrowth]<br>Lv. 77 | ![][white-herb]<br>White Herb       | ?      | Chlorophyll      | Leaf Storm, Earthquake, Focus Blast, Sludge Bomb
+![][423]<br>[Gastrodon]<br>Lv. 77 | ![][wise-glasses]<br>Wise Glasses   | ?      | Sticky Hold      | Muddy Water, Earth Power, Ice Beam, Recover
+![][435]<br>[Skuntank]<br>Lv. 78  | ![][sitrus-berry]<br>Sitrus Berry   | ?      | Aftermath        | Gunk Shot, Crunch, Play Rough, Toxic
 
 --8<-- "includes/abilities.md"
 
@@ -33,6 +33,7 @@ Trainer                             | 1                                | 2      
 
 --8<-- "includes/natures.md"
 
+[^1]: Only in Complete version
 [Commander Mars]: #commander-mars
 [Commander Jupiter]: #commander-jupiter
 [Kangaskhan]: ../../pokemon_changes/115/

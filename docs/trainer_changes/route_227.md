@@ -29,14 +29,14 @@ Ace Trainer Mikayla                     | ![][336]<br>[Seviper]<br>Lv. 76  | ![]
 
 ## PKMN Trainer Buck
 
-![][buck]                        | Item                              | Nature | Ability       | Moves
----                              | ---                               | ---    | ---           | ---
-![][324]<br>[Torkoal]<br>Lv. 77  | ![][shuca-berry]<br>Shuca Berry   | ?      | Drought       | Fire Blast, Earth Power, Solar Beam, Stealth Rock
-![][213]<br>[Shuckle]<br>Lv. 77  | ![][lum-berry]<br>Lum Berry       | ?      | Sturdy        | Toxic, Encore, Rest, Protect
-![][197]<br>[Umbreon]<br>Lv. 77  | ![][chople-berry]<br>Chople Berry | ?      | Synchronize   | Payback, Confuse Ray, Toxic, Moonlight
-![][477]<br>[Dusknoir]<br>Lv. 77 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist (!) | Shadow Punch, Confuse Ray, Protect, Drain Punch
-![][091]<br>[Cloyster]<br>Lv. 77 | ![][expert-belt]<br>Expert Belt   | ?      | Skill Link    | Icicle Spear, Hydro Pump, Spikes, Toxic Spikes
-![][344]<br>[Claydol]<br>Lv. 78  | ![][leftovers]<br>Leftovers       | ?      | Levitate      | Earth Power, Psychic, Ice Beam, Calm Mind
+![][buck]                        | Item                              | Nature | Ability        | Moves
+---                              | ---                               | ---    | ---            | ---
+![][324]<br>[Torkoal]<br>Lv. 77  | ![][shuca-berry]<br>Shuca Berry   | ?      | Drought        | Fire Blast, Earth Power, Solar Beam, Stealth Rock
+![][213]<br>[Shuckle]<br>Lv. 77  | ![][lum-berry]<br>Lum Berry       | ?      | Sturdy         | Toxic, Encore, Rest, Protect
+![][197]<br>[Umbreon]<br>Lv. 77  | ![][chople-berry]<br>Chople Berry | ?      | Synchronize    | Payback, Confuse Ray, Toxic, Moonlight
+![][477]<br>[Dusknoir]<br>Lv. 77 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist [^1] | Shadow Punch, Confuse Ray, Protect, Drain Punch
+![][091]<br>[Cloyster]<br>Lv. 77 | ![][expert-belt]<br>Expert Belt   | ?      | Skill Link     | Icicle Spear, Hydro Pump, Spikes, Toxic Spikes
+![][344]<br>[Claydol]<br>Lv. 78  | ![][leftovers]<br>Leftovers       | ?      | Levitate       | Earth Power, Psychic, Ice Beam, Calm Mind
 
 ## Rematches
 
@@ -50,6 +50,7 @@ Ace Trainer Saul :material-alpha-s-circle-outline: | ![][128]<br>[Tauros]<br>Lv.
 
 --8<-- "includes/natures.md"
 
+[^1]: Only in Complete version
 [Ace Trainer Slythe]: #ace-trainer-slythe
 [PKMN Trainer Buck]: #pkmn-trainer-buck
 [Nidoqueen]: ../../pokemon_changes/031/

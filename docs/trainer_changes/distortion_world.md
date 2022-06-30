@@ -14,14 +14,14 @@ Both Battles are back to back
 ![][484]<br>[Palkia]<br>Lv. 70  0 IV | None | ?      | Pressure | Hydro Pump, Spacial Rend, Earth Power, Aura Sphere
 ![][483]<br>[Dialga]<br>Lv. 70  0 IV | None | ?      | Pressure | Flash Cannon, Roar of Time, Earth Power, Aura Sphere
 
-![][cyrus]                        | Item                              | Nature  | Ability        | Moves
----                               | ---                               | ---     | ---            | ---
-![][169]<br>[Crobat]<br>Lv. 59    | ![][choice-band]<br>Choice Band   | Jolly   | Inner Focus    | Brave Bird, U-turn, Cross Poison, Zen Headbutt
-![][430]<br>[Honchkrow]<br>Lv. 59 | ![][white-herb]<br>White Herb     | Naughty | Super Luck     | Brave Bird, Sucker Punch, Thunder Wave, Superpower
-![][229]<br>[Houndoom]<br>Lv. 59  | ![][life-orb]<br>Life Orb         | Hasty   | Intimidate (!) | Dark Pulse, Flamethrower, Sludge Bomb, Nasty Plot
-![][130]<br>[Gyarados]<br>Lv. 59  | ![][muscle-band]<br>Muscle Band   | Jolly   | Intimidate     | Aqua Tail, Stone Edge, Ice Fang, Dragon Dance
-![][462]<br>[Magnezone]<br>Lv. 59 | ![][wise-glasses]<br>Wise Glasses | Modest  | Magnet Pull    | Thunderbolt, Flash Cannon, Signal Beam, Mirror Coat
-![][461]<br>[Weavile]<br>Lv. 60   | ![][focus-sash]<br>Focus Sash     | Jolly   | Technician (!) | Feint Attack, Icicle Crash, Aerial Ace, Swords Dance
+![][cyrus]                        | Item                              | Nature  | Ability         | Moves
+---                               | ---                               | ---     | ---             | ---
+![][169]<br>[Crobat]<br>Lv. 59    | ![][choice-band]<br>Choice Band   | Jolly   | Inner Focus     | Brave Bird, U-turn, Cross Poison, Zen Headbutt
+![][430]<br>[Honchkrow]<br>Lv. 59 | ![][white-herb]<br>White Herb     | Naughty | Super Luck      | Brave Bird, Sucker Punch, Thunder Wave, Superpower
+![][229]<br>[Houndoom]<br>Lv. 59  | ![][life-orb]<br>Life Orb         | Hasty   | Intimidate [^1] | Dark Pulse, Flamethrower, Sludge Bomb, Nasty Plot
+![][130]<br>[Gyarados]<br>Lv. 59  | ![][muscle-band]<br>Muscle Band   | Jolly   | Intimidate      | Aqua Tail, Stone Edge, Ice Fang, Dragon Dance
+![][462]<br>[Magnezone]<br>Lv. 59 | ![][wise-glasses]<br>Wise Glasses | Modest  | Magnet Pull     | Thunderbolt, Flash Cannon, Signal Beam, Mirror Coat
+![][461]<br>[Weavile]<br>Lv. 60   | ![][focus-sash]<br>Focus Sash     | Jolly   | Technician [^1] | Feint Attack, Icicle Crash, Aerial Ace, Swords Dance
 
 --8<-- "includes/abilities.md"
 
@@ -29,6 +29,7 @@ Both Battles are back to back
 
 --8<-- "includes/natures.md"
 
+[^1]: Only in Complete version
 [Galactic Boss Cyrus]: #galactic-boss-cyrus
 [Gyarados]: ../../pokemon_changes/130/
 [Crobat]: ../../pokemon_changes/169/

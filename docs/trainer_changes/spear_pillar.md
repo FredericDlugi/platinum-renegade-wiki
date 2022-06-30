@@ -35,14 +35,14 @@ PKMN Trainer Barry<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 58 | ![][214]<
 
 ## Commander Jupiter
 
-![][jupiter]                      | Item                                | Nature | Ability         | Moves
----                               | ---                                 | ---    | ---             | ---
-![][169]<br>[Crobat]<br>Lv. 57    | ![][bright-powder]<br>Bright Powder | ?      | Inner Focus     | Brave Bird, Sludge Bomb, Double Team, Hypnosis
-![][302]<br>[Sableye]<br>Lv. 57   | ![][muscle-band]<br>Muscle Band     | ?      | Magic Guard (!) | Shadow Claw, Sucker Punch, Zen Headbutt, Fake Out
-![][437]<br>[Bronzong]<br>Lv. 57  | ![][leftovers]<br>Leftovers         | ?      | Levitate        | Swagger, Psychic, Flash Cannon, Grass Knot
-![][465]<br>[Tangrowth]<br>Lv. 57 | ![][big-root]<br>Big Root           | ?      | Chlorophyll     | Giga Drain, Leech Seed, Focus Blast, Sludge Bomb
-![][423]<br>[Gastrodon]<br>Lv. 57 | ![][wise-glasses]<br>Wise Glasses   | ?      | Sticky Hold     | Muddy Water, Earth Power, Ice Beam, Recover
-![][435]<br>[Skuntank]<br>Lv. 58  | ![][sitrus-berry]<br>Sitrus Berry   | ?      | Aftermath       | Gunk Shot, Crunch, Play Rough, Toxic
+![][jupiter]                      | Item                                | Nature | Ability          | Moves
+---                               | ---                                 | ---    | ---              | ---
+![][169]<br>[Crobat]<br>Lv. 57    | ![][bright-powder]<br>Bright Powder | ?      | Inner Focus      | Brave Bird, Sludge Bomb, Double Team, Hypnosis
+![][302]<br>[Sableye]<br>Lv. 57   | ![][muscle-band]<br>Muscle Band     | ?      | Magic Guard [^1] | Shadow Claw, Sucker Punch, Zen Headbutt, Fake Out
+![][437]<br>[Bronzong]<br>Lv. 57  | ![][leftovers]<br>Leftovers         | ?      | Levitate         | Swagger, Psychic, Flash Cannon, Grass Knot
+![][465]<br>[Tangrowth]<br>Lv. 57 | ![][big-root]<br>Big Root           | ?      | Chlorophyll      | Giga Drain, Leech Seed, Focus Blast, Sludge Bomb
+![][423]<br>[Gastrodon]<br>Lv. 57 | ![][wise-glasses]<br>Wise Glasses   | ?      | Sticky Hold      | Muddy Water, Earth Power, Ice Beam, Recover
+![][435]<br>[Skuntank]<br>Lv. 58  | ![][sitrus-berry]<br>Sitrus Berry   | ?      | Aftermath        | Gunk Shot, Crunch, Play Rough, Toxic
 
 --8<-- "includes/abilities.md"
 
@@ -50,6 +50,7 @@ PKMN Trainer Barry<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 58 | ![][214]<
 
 --8<-- "includes/natures.md"
 
+[^1]: Only in Complete version
 [Commander Mars]: #commander-mars
 [Commander Jupiter]: #commander-jupiter
 [Golbat]: ../../pokemon_changes/042/

@@ -12,14 +12,14 @@ Ace Trainer Sergio               | ![][220]<br>[Swinub]<br>Lv. 51    | ![][221]<
 
 ## Leader Candice
 
-![][candice]                      | Item                                | Nature  | Ability        | Moves
----                               | ---                                 | ---     | ---            | ---
-![][460]<br>[Abomasnow]<br>Lv. 55 | ![][expert-belt]<br>Expert Belt     | Brave   | Snow Warning   | Wood Hammer, Earthquake, Blizzard, Ice Shard
-![][461]<br>[Weavile]<br>Lv. 55   | ![][focus-sash]<br>Focus Sash       | Naughty | Technician (!) | Crunch, Icicle Crash, Aerial Ace, Swords Dance
-![][471]<br>[Glaceon]<br>Lv. 55   | ![][bright-powder]<br>Bright Powder | Bold    | Snow Cloak     | Blizzard, Shadow Ball, Earth Power, Double Team
-![][365]<br>[Walrein]<br>Lv. 55   | ![][chople-berry]<br>Chople Berry   | Quiet   | Thick Fat      | Blizzard, Surf, Yawn, Aqua Ring
-![][473]<br>[Mamoswine]<br>Lv. 55 | ![][passho-berry]<br>Passho Berry   | Naive   | Thick Fat      | Earthquake, Avalanche, Stone Edge, Ice Shard
-![][478]<br>[Froslass]<br>Lv. 56  | ![][life-orb]<br>Life Orb           | Modest  | Levitate (!)   | Blizzard, Shadow Ball, Thunderbolt, Attract
+![][candice]                      | Item                                | Nature  | Ability         | Moves
+---                               | ---                                 | ---     | ---             | ---
+![][460]<br>[Abomasnow]<br>Lv. 55 | ![][expert-belt]<br>Expert Belt     | Brave   | Snow Warning    | Wood Hammer, Earthquake, Blizzard, Ice Shard
+![][461]<br>[Weavile]<br>Lv. 55   | ![][focus-sash]<br>Focus Sash       | Naughty | Technician [^1] | Crunch, Icicle Crash, Aerial Ace, Swords Dance
+![][471]<br>[Glaceon]<br>Lv. 55   | ![][bright-powder]<br>Bright Powder | Bold    | Snow Cloak      | Blizzard, Shadow Ball, Earth Power, Double Team
+![][365]<br>[Walrein]<br>Lv. 55   | ![][chople-berry]<br>Chople Berry   | Quiet   | Thick Fat       | Blizzard, Surf, Yawn, Aqua Ring
+![][473]<br>[Mamoswine]<br>Lv. 55 | ![][passho-berry]<br>Passho Berry   | Naive   | Thick Fat       | Earthquake, Avalanche, Stone Edge, Ice Shard
+![][478]<br>[Froslass]<br>Lv. 56  | ![][life-orb]<br>Life Orb           | Modest  | Levitate [^1]   | Blizzard, Shadow Ball, Thunderbolt, Attract
 
 --8<-- "includes/abilities.md"
 
@@ -27,6 +27,7 @@ Ace Trainer Sergio               | ![][220]<br>[Swinub]<br>Lv. 51    | ![][221]<
 
 --8<-- "includes/natures.md"
 
+[^1]: Only in Complete version
 [Leader Candice]: #leader-candice
 [Seel]: ../../pokemon_changes/086/
 [Dewgong]: ../../pokemon_changes/087/
