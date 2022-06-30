@@ -4,11 +4,11 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_204__south/).
 
 
-Trainer           | 1                                | 2                               | 3
----               | ---                              | ---                             | ---
-Lass Sarah        | ![][403]<br>[Shinx]<br>Lv. 8     | ![][029]<br>[Nidoran♀]<br>Lv. 8 | ![][016]<br>[Pidgey]<br>Lv. 8
-Lass Samantha (!) | ![][043]<br>[Oddish]<br>Lv. 8    | ![][406]<br>[Budew]<br>Lv. 8    | ![][069]<br>[Bellsprout]<br>Lv. 8
-Youngster Tyler   | ![][129]<br>[Magikarp]<br>Lv. 11 | &nbsp;                          | &nbsp;
+Trainer                              | 1                                | 2                               | 3
+---                                  | ---                              | ---                             | ---
+Lass Sarah                           | ![][403]<br>[Shinx]<br>Lv. 8     | ![][029]<br>[Nidoran♀]<br>Lv. 8 | ![][016]<br>[Pidgey]<br>Lv. 8
+:repeat: [Lass Samantha](#rematches) | ![][043]<br>[Oddish]<br>Lv. 8    | ![][406]<br>[Budew]<br>Lv. 8    | ![][069]<br>[Bellsprout]<br>Lv. 8
+Youngster Tyler                      | ![][129]<br>[Magikarp]<br>Lv. 11 | &nbsp;                          | &nbsp;
 
 ## Rematches
 

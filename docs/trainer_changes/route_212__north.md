@@ -23,16 +23,16 @@ Galactic Grunt                        | ![][434]<br>[Stunky]<br>Lv. 28     | ![]
 
 ## After Team Galactic Plot
 
-Trainer              | 1                                | 2
----                  | ---                              | ---
-Rich Boy Jason       | ![][394]<br>[Prinplup]<br>Lv. 30 | ![][184]<br>[Azumarill]<br>Lv. 30
-Lady Melissa (!)     | ![][421]<br>[Cherrim]<br>Lv. 30  | ![][189]<br>[Jumpluff]<br>Lv. 30
-Gentleman Jeremy (!) | ![][441]<br>[Chatot]<br>Lv. 31   | &nbsp;
-Socialite Reina (!)  | ![][301]<br>[Delcatty]<br>Lv. 31 | &nbsp;
-Policeman Bobby      | ![][164]<br>[Noctowl]<br>Lv. 31  | &nbsp;
-Policeman Alex       | ![][068]<br>[Machamp]<br>Lv. 31  | &nbsp;
-Policeman Dylan      | ![][059]<br>[Arcanine]<br>Lv. 31 | &nbsp;
-Policeman Caleb      | ![][210]<br>[Granbull]<br>Lv. 31 | &nbsp;
+Trainer                                 | 1                                | 2
+---                                     | ---                              | ---
+Rich Boy Jason                          | ![][394]<br>[Prinplup]<br>Lv. 30 | ![][184]<br>[Azumarill]<br>Lv. 30
+:repeat: [Lady Melissa](#rematches)     | ![][421]<br>[Cherrim]<br>Lv. 30  | ![][189]<br>[Jumpluff]<br>Lv. 30
+:repeat: [Gentleman Jeremy](#rematches) | ![][441]<br>[Chatot]<br>Lv. 31   | &nbsp;
+:repeat: [Socialite Reina](#rematches)  | ![][301]<br>[Delcatty]<br>Lv. 31 | &nbsp;
+Policeman Bobby                         | ![][164]<br>[Noctowl]<br>Lv. 31  | &nbsp;
+Policeman Alex                          | ![][068]<br>[Machamp]<br>Lv. 31  | &nbsp;
+Policeman Dylan                         | ![][059]<br>[Arcanine]<br>Lv. 31 | &nbsp;
+Policeman Caleb                         | ![][210]<br>[Granbull]<br>Lv. 31 | &nbsp;
 
 ## Commander Saturn
 

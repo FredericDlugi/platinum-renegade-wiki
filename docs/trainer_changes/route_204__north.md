@@ -4,11 +4,11 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_204__north/).
 
 
-Trainer                 | 1                               | 2                                  | 3
----                     | ---                             | ---                                | ---
-Aroma Lady Taylor       | ![][420]<br>[Cherubi]<br>Lv. 13 | ![][187]<br>[Hoppip]<br>Lv. 13     | ![][285]<br>[Shroomish]<br>Lv. 13
-Bug Catcher Brandon (!) | ![][265]<br>[Wurmple]<br>Lv. 14 | ![][402]<br>[Kricketune]<br>Lv. 14 | &nbsp;
-Twins Liv & Liz         | ![][311]<br>[Plusle]<br>Lv. 15  | ![][312]<br>[Minun]<br>Lv. 15      | &nbsp;
+Trainer                                    | 1                               | 2                                  | 3
+---                                        | ---                             | ---                                | ---
+Aroma Lady Taylor                          | ![][420]<br>[Cherubi]<br>Lv. 13 | ![][187]<br>[Hoppip]<br>Lv. 13     | ![][285]<br>[Shroomish]<br>Lv. 13
+:repeat: [Bug Catcher Brandon](#rematches) | ![][265]<br>[Wurmple]<br>Lv. 14 | ![][402]<br>[Kricketune]<br>Lv. 14 | &nbsp;
+Twins Liv & Liz                            | ![][311]<br>[Plusle]<br>Lv. 15  | ![][312]<br>[Minun]<br>Lv. 15      | &nbsp;
 
 ## Rematches
 

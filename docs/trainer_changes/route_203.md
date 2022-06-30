@@ -4,16 +4,16 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_203/).
 
 
-Trainer              | 1                                | 2                                 | 3
----                  | ---                              | ---                               | ---
-PKMN Trainer Barry   | ![][396]<br>[Starly]<br>Lv. 10   | ![][446]<br>[Munchlax]<br>Lv. 10  | ![][387]<br>[Turtwig]<br>Lv. 11
-PKMN Trainer Barry   | ![][396]<br>[Starly]<br>Lv. 10   | ![][446]<br>[Munchlax]<br>Lv. 10  | ![][390]<br>[Chimchar]<br>Lv. 11
-PKMN Trainer Barry   | ![][396]<br>[Starly]<br>Lv. 10   | ![][446]<br>[Munchlax]<br>Lv. 10  | ![][393]<br>[Piplup]<br>Lv. 11
-Youngster Michael    | ![][401]<br>[Kricketot]<br>Lv. 9 | ![][041]<br>[Zubat]<br>Lv. 9      | ![][019]<br>[Rattata]<br>Lv. 9
-Youngster Dallas (!) | ![][403]<br>[Shinx]<br>Lv. 10    | ![][027]<br>[Sandshrew]<br>Lv. 10 | &nbsp;
-Youngster Sebastian  | ![][296]<br>[Makuhita]<br>Lv. 10 | ![][066]<br>[Machop]<br>Lv. 10    | &nbsp;
-Lass Kaitlin         | ![][021]<br>[Spearow]<br>Lv. 9   | ![][104]<br>[Cubone]<br>Lv. 9     | ![][298]<br>[Azurill]<br>Lv. 9
-Lass Madeline (!)    | ![][054]<br>[Psyduck]<br>Lv. 10  | ![][191]<br>[Sunkern]<br>Lv. 10   | &nbsp;
+Trainer                                 | 1                                | 2                                 | 3
+---                                     | ---                              | ---                               | ---
+PKMN Trainer Barry                      | ![][396]<br>[Starly]<br>Lv. 10   | ![][446]<br>[Munchlax]<br>Lv. 10  | ![][387]<br>[Turtwig]<br>Lv. 11
+PKMN Trainer Barry                      | ![][396]<br>[Starly]<br>Lv. 10   | ![][446]<br>[Munchlax]<br>Lv. 10  | ![][390]<br>[Chimchar]<br>Lv. 11
+PKMN Trainer Barry                      | ![][396]<br>[Starly]<br>Lv. 10   | ![][446]<br>[Munchlax]<br>Lv. 10  | ![][393]<br>[Piplup]<br>Lv. 11
+Youngster Michael                       | ![][401]<br>[Kricketot]<br>Lv. 9 | ![][041]<br>[Zubat]<br>Lv. 9      | ![][019]<br>[Rattata]<br>Lv. 9
+:repeat: [Youngster Dallas](#rematches) | ![][403]<br>[Shinx]<br>Lv. 10    | ![][027]<br>[Sandshrew]<br>Lv. 10 | &nbsp;
+Youngster Sebastian                     | ![][296]<br>[Makuhita]<br>Lv. 10 | ![][066]<br>[Machop]<br>Lv. 10    | &nbsp;
+Lass Kaitlin                            | ![][021]<br>[Spearow]<br>Lv. 9   | ![][104]<br>[Cubone]<br>Lv. 9     | ![][298]<br>[Azurill]<br>Lv. 9
+:repeat: [Lass Madeline](#rematches)    | ![][054]<br>[Psyduck]<br>Lv. 10  | ![][191]<br>[Sunkern]<br>Lv. 10   | &nbsp;
 
 ## Rematches
 

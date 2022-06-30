@@ -4,17 +4,17 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_217/).
 
 
-Trainer                | 1                                 | 2                                 | 3
----                    | ---                               | ---                               | ---
-Ace Trainer Dalton (!) | ![][467]<br>[Magmortar]<br>Lv. 52 | ![][003]<br>[Venusaur]<br>Lv. 52  | ![][230]<br>[Kingdra]<br>Lv. 52
-Skier Shawn            | ![][459]<br>[Snover]<br>Lv. 49    | ![][459]<br>[Snover]<br>Lv. 49    | ![][460]<br>[Abomasnow]<br>Lv. 52
-Ninja Boy Matthew      | ![][169]<br>[Crobat]<br>Lv. 51    | &nbsp;                            | &nbsp;
-Skier Madison (!)      | ![][238]<br>[Smoochum]<br>Lv. 49  | ![][361]<br>[Snorunt]<br>Lv. 49   | ![][124]<br>[Jynx]<br>Lv. 52
-Ninja Boy Ethan        | ![][452]<br>[Drapion]<br>Lv. 51   | &nbsp;                            | &nbsp;
-Skier Bjorn (!)        | ![][220]<br>[Swinub]<br>Lv. 49    | ![][220]<br>[Swinub]<br>Lv. 49    | ![][221]<br>[Piloswine]<br>Lv. 52
-Skier Lexie            | ![][087]<br>[Dewgong]<br>Lv. 51   | ![][471]<br>[Glaceon]<br>Lv. 51   | &nbsp;
-Black Belt Luke        | ![][068]<br>[Machamp]<br>Lv. 51   | ![][454]<br>[Toxicroak]<br>Lv. 51 | ![][448]<br>[Lucario]<br>Lv. 51
-Ace Trainer Olivia (!) | ![][275]<br>[Shiftry]<br>Lv. 52   | ![][334]<br>[Altaria]<br>Lv. 52   | ![][242]<br>[Blissey]<br>Lv. 52
+Trainer                                   | 1                                 | 2                                 | 3
+---                                       | ---                               | ---                               | ---
+:repeat: [Ace Trainer Dalton](#rematches) | ![][467]<br>[Magmortar]<br>Lv. 52 | ![][003]<br>[Venusaur]<br>Lv. 52  | ![][230]<br>[Kingdra]<br>Lv. 52
+Skier Shawn                               | ![][459]<br>[Snover]<br>Lv. 49    | ![][459]<br>[Snover]<br>Lv. 49    | ![][460]<br>[Abomasnow]<br>Lv. 52
+Ninja Boy Matthew                         | ![][169]<br>[Crobat]<br>Lv. 51    | &nbsp;                            | &nbsp;
+:repeat: [Skier Madison](#rematches)      | ![][238]<br>[Smoochum]<br>Lv. 49  | ![][361]<br>[Snorunt]<br>Lv. 49   | ![][124]<br>[Jynx]<br>Lv. 52
+Ninja Boy Ethan                           | ![][452]<br>[Drapion]<br>Lv. 51   | &nbsp;                            | &nbsp;
+:repeat: [Skier Bjorn](#rematches)        | ![][220]<br>[Swinub]<br>Lv. 49    | ![][220]<br>[Swinub]<br>Lv. 49    | ![][221]<br>[Piloswine]<br>Lv. 52
+Skier Lexie                               | ![][087]<br>[Dewgong]<br>Lv. 51   | ![][471]<br>[Glaceon]<br>Lv. 51   | &nbsp;
+Black Belt Luke                           | ![][068]<br>[Machamp]<br>Lv. 51   | ![][454]<br>[Toxicroak]<br>Lv. 51 | ![][448]<br>[Lucario]<br>Lv. 51
+:repeat: [Ace Trainer Olivia](#rematches) | ![][275]<br>[Shiftry]<br>Lv. 52   | ![][334]<br>[Altaria]<br>Lv. 52   | ![][242]<br>[Blissey]<br>Lv. 52
 
 ## Rematches
 

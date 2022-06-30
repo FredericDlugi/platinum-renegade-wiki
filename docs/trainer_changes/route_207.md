@@ -4,20 +4,20 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_207/).
 
 
-Trainer                            | 1                                 | 2                                 | 3                                  | 4
----                                | ---                               | ---                               | ---                                | ---
-Camper Anthony                     | ![][240]<br>[Magby]<br>Lv. 24     | ![][328]<br>[Trapinch]<br>Lv. 24  | ![][004]<br>[Charmander]<br>Lv. 24 | &nbsp;
-Picnicker Lauren                   | ![][238]<br>[Smoochum]<br>Lv. 24  | ![][209]<br>[Snubbull]<br>Lv. 24  | ![][252]<br>[Treecko]<br>Lv. 24    | &nbsp;
-Youngster Austin                   | ![][271]<br>[Lombre]<br>Lv. 25    | ![][207]<br>[Gligar]<br>Lv. 25    | &nbsp;                             | &nbsp;
-Hiker Justin                       | ![][075]<br>[Graveler]<br>Lv. 25  | ![][028]<br>[Sandslash]<br>Lv. 25 | &nbsp;                             | &nbsp;
-Hiker Kevin                        | ![][206]<br>[Dunsparce]<br>Lv. 25 | ![][206]<br>[Dunsparce]<br>Lv. 25 | &nbsp;                             | &nbsp;
-Battle Girl Helen (!)              | ![][236]<br>[Tyrogue]<br>Lv. 26   | ![][307]<br>[Meditite]<br>Lv. 26  | ![][297]<br>[Hariyama]<br>Lv. 26   | &nbsp;
-[PKMN Trainer Dawn]<br>![][dawn]   | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][036]<br>[Clefable]<br>Lv. 29  | ![][428]<br>[Lopunny]<br>Lv. 29    | ![][388]<br>[Grotle]<br>Lv. 30
-[PKMN Trainer Dawn]<br>![][dawn]   | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][036]<br>[Clefable]<br>Lv. 29  | ![][428]<br>[Lopunny]<br>Lv. 29    | ![][391]<br>[Monferno]<br>Lv. 30
-[PKMN Trainer Dawn]<br>![][dawn]   | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][036]<br>[Clefable]<br>Lv. 29  | ![][428]<br>[Lopunny]<br>Lv. 29    | ![][394]<br>[Prinplup]<br>Lv. 30
-[PKMN Trainer Lucas]<br>![][lucas] | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][210]<br>[Granbull]<br>Lv. 29  | ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][388]<br>[Grotle]<br>Lv. 30
-[PKMN Trainer Lucas]<br>![][lucas] | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][210]<br>[Granbull]<br>Lv. 29  | ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][391]<br>[Monferno]<br>Lv. 30
-[PKMN Trainer Lucas]<br>![][lucas] | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][210]<br>[Granbull]<br>Lv. 29  | ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][394]<br>[Prinplup]<br>Lv. 30
+Trainer                                  | 1                                 | 2                                 | 3                                  | 4
+---                                      | ---                               | ---                               | ---                                | ---
+Camper Anthony                           | ![][240]<br>[Magby]<br>Lv. 24     | ![][328]<br>[Trapinch]<br>Lv. 24  | ![][004]<br>[Charmander]<br>Lv. 24 | &nbsp;
+Picnicker Lauren                         | ![][238]<br>[Smoochum]<br>Lv. 24  | ![][209]<br>[Snubbull]<br>Lv. 24  | ![][252]<br>[Treecko]<br>Lv. 24    | &nbsp;
+Youngster Austin                         | ![][271]<br>[Lombre]<br>Lv. 25    | ![][207]<br>[Gligar]<br>Lv. 25    | &nbsp;                             | &nbsp;
+Hiker Justin                             | ![][075]<br>[Graveler]<br>Lv. 25  | ![][028]<br>[Sandslash]<br>Lv. 25 | &nbsp;                             | &nbsp;
+Hiker Kevin                              | ![][206]<br>[Dunsparce]<br>Lv. 25 | ![][206]<br>[Dunsparce]<br>Lv. 25 | &nbsp;                             | &nbsp;
+:repeat: [Battle Girl Helen](#rematches) | ![][236]<br>[Tyrogue]<br>Lv. 26   | ![][307]<br>[Meditite]<br>Lv. 26  | ![][297]<br>[Hariyama]<br>Lv. 26   | &nbsp;
+[PKMN Trainer Dawn]<br>![][dawn]         | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][036]<br>[Clefable]<br>Lv. 29  | ![][428]<br>[Lopunny]<br>Lv. 29    | ![][388]<br>[Grotle]<br>Lv. 30
+[PKMN Trainer Dawn]<br>![][dawn]         | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][036]<br>[Clefable]<br>Lv. 29  | ![][428]<br>[Lopunny]<br>Lv. 29    | ![][391]<br>[Monferno]<br>Lv. 30
+[PKMN Trainer Dawn]<br>![][dawn]         | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][036]<br>[Clefable]<br>Lv. 29  | ![][428]<br>[Lopunny]<br>Lv. 29    | ![][394]<br>[Prinplup]<br>Lv. 30
+[PKMN Trainer Lucas]<br>![][lucas]       | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][210]<br>[Granbull]<br>Lv. 29  | ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][388]<br>[Grotle]<br>Lv. 30
+[PKMN Trainer Lucas]<br>![][lucas]       | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][210]<br>[Granbull]<br>Lv. 29  | ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][391]<br>[Monferno]<br>Lv. 30
+[PKMN Trainer Lucas]<br>![][lucas]       | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][210]<br>[Granbull]<br>Lv. 29  | ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][394]<br>[Prinplup]<br>Lv. 30
 
 ## PKMN Trainer Dawn
 

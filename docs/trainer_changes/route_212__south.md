@@ -4,20 +4,20 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_212__south/).
 
 
-Trainer                    | 1                                 | 2                                 | 3
----                        | ---                               | ---                               | ---
-Parasol Lady Sabrina       | ![][351]<br>[Castform]<br>Lv. 39  | &nbsp;                            | &nbsp;
-Scientist Shaun (!)        | ![][082]<br>[Magneton]<br>Lv. 37  | ![][101]<br>[Electrode]<br>Lv. 37 | ![][233]<br>[Porygon2]<br>Lv. 37
-Pokémon Ranger Taylor (!)  | ![][455]<br>[Carnivine]<br>Lv. 39 | ![][352]<br>[Kecleon]<br>Lv. 39   | ![][125]<br>[Electabuzz]<br>Lv. 39
-Parasol Lady Alexa (!)     | ![][117]<br>[Seadra]<br>Lv. 38    | ![][055]<br>[Golduck]<br>Lv. 38   | &nbsp;
-Fisherman Juan             | ![][090]<br>[Shellder]<br>Lv. 36  | ![][366]<br>[Clamperl]<br>Lv. 36  | ![][091]<br>[Cloyster]<br>Lv. 39
-Fisherman Josh             | ![][223]<br>[Remoraid]<br>Lv. 36  | ![][118]<br>[Goldeen]<br>Lv. 36   | ![][224]<br>[Octillery]<br>Lv. 39
-Fisherman Travis           | ![][339]<br>[Barboach]<br>Lv. 38  | ![][211]<br>[Qwilfish]<br>Lv. 38  | &nbsp;
-Collector Dean             | ![][196]<br>[Espeon]<br>Lv. 37    | ![][197]<br>[Umbreon]<br>Lv. 37   | ![][471]<br>[Glaceon]<br>Lv. 37
-Policeman Danny            | ![][058]<br>[Growlithe]<br>Lv. 37 | ![][067]<br>[Machoke]<br>Lv. 37   | ![][164]<br>[Noctowl]<br>Lv. 37
-Scientist Stefano          | ![][110]<br>[Weezing]<br>Lv. 38   | ![][089]<br>[Muk]<br>Lv. 38       | &nbsp;
-Pokémon Ranger Allison (!) | ![][350]<br>[Milotic]<br>Lv. 39   | ![][470]<br>[Leafeon]<br>Lv. 39   | ![][124]<br>[Jynx]<br>Lv. 39
-Pokémon Ranger Jeffrey     | ![][126]<br>[Magmar]<br>Lv. 39    | ![][310]<br>[Manectric]<br>Lv. 39 | ![][034]<br>[Nidoking]<br>Lv. 39
+Trainer                                       | 1                                 | 2                                 | 3
+---                                           | ---                               | ---                               | ---
+Parasol Lady Sabrina                          | ![][351]<br>[Castform]<br>Lv. 39  | &nbsp;                            | &nbsp;
+:repeat: [Scientist Shaun](#rematches)        | ![][082]<br>[Magneton]<br>Lv. 37  | ![][101]<br>[Electrode]<br>Lv. 37 | ![][233]<br>[Porygon2]<br>Lv. 37
+:repeat: [Pokémon Ranger Taylor](#rematches)  | ![][455]<br>[Carnivine]<br>Lv. 39 | ![][352]<br>[Kecleon]<br>Lv. 39   | ![][125]<br>[Electabuzz]<br>Lv. 39
+:repeat: [Parasol Lady Alexa](#rematches)     | ![][117]<br>[Seadra]<br>Lv. 38    | ![][055]<br>[Golduck]<br>Lv. 38   | &nbsp;
+Fisherman Juan                                | ![][090]<br>[Shellder]<br>Lv. 36  | ![][366]<br>[Clamperl]<br>Lv. 36  | ![][091]<br>[Cloyster]<br>Lv. 39
+Fisherman Josh                                | ![][223]<br>[Remoraid]<br>Lv. 36  | ![][118]<br>[Goldeen]<br>Lv. 36   | ![][224]<br>[Octillery]<br>Lv. 39
+Fisherman Travis                              | ![][339]<br>[Barboach]<br>Lv. 38  | ![][211]<br>[Qwilfish]<br>Lv. 38  | &nbsp;
+Collector Dean                                | ![][196]<br>[Espeon]<br>Lv. 37    | ![][197]<br>[Umbreon]<br>Lv. 37   | ![][471]<br>[Glaceon]<br>Lv. 37
+Policeman Danny                               | ![][058]<br>[Growlithe]<br>Lv. 37 | ![][067]<br>[Machoke]<br>Lv. 37   | ![][164]<br>[Noctowl]<br>Lv. 37
+Scientist Stefano                             | ![][110]<br>[Weezing]<br>Lv. 38   | ![][089]<br>[Muk]<br>Lv. 38       | &nbsp;
+:repeat: [Pokémon Ranger Allison](#rematches) | ![][350]<br>[Milotic]<br>Lv. 39   | ![][470]<br>[Leafeon]<br>Lv. 39   | ![][124]<br>[Jynx]<br>Lv. 39
+Pokémon Ranger Jeffrey                        | ![][126]<br>[Magmar]<br>Lv. 39    | ![][310]<br>[Manectric]<br>Lv. 39 | ![][034]<br>[Nidoking]<br>Lv. 39
 
 ## Rematches
 

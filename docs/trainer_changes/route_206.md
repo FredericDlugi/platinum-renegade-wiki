@@ -4,17 +4,17 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_206/).
 
 
-Trainer           | 1                                  | 2                                 | 3
----               | ---                                | ---                               | ---
-Cyclist Axel      | ![][172]<br>[Pichu]<br>Lv. 19      | ![][172]<br>[Pichu]<br>Lv. 19     | ![][025]<br>[Pikachu]<br>Lv. 19
-Cyclist Megan     | ![][017]<br>[Pidgeotto]<br>Lv. 21  | &nbsp;                            | &nbsp;
-Cyclist James     | ![][077]<br>[Ponyta]<br>Lv. 20     | ![][180]<br>[Flaaffy]<br>Lv. 20   | &nbsp;
-Cyclist Nicole    | ![][276]<br>[Taillow]<br>Lv. 19    | ![][084]<br>[Doduo]<br>Lv. 19     | ![][278]<br>[Wingull]<br>Lv. 19
-Cyclist John (!)  | ![][083]<br>[Farfetch'd]<br>Lv. 21 | &nbsp;                            | &nbsp;
-Cyclist Kayla (!) | ![][100]<br>[Voltorb]<br>Lv. 19    | ![][081]<br>[Magnemite]<br>Lv. 19 | ![][309]<br>[Electrike]<br>Lv. 19
-Cyclist Ryan      | ![][404]<br>[Luxio]<br>Lv. 21      | &nbsp;                            | &nbsp;
-Cyclist Rachel    | ![][135]<br>[Jolteon]<br>Lv. 21    | &nbsp;                            | &nbsp;
-Hiker Theodore    | ![][324]<br>[Torkoal]<br>Lv. 26    | &nbsp;                            | &nbsp;
+Trainer                              | 1                                  | 2                                 | 3
+---                                  | ---                                | ---                               | ---
+Cyclist Axel                         | ![][172]<br>[Pichu]<br>Lv. 19      | ![][172]<br>[Pichu]<br>Lv. 19     | ![][025]<br>[Pikachu]<br>Lv. 19
+Cyclist Megan                        | ![][017]<br>[Pidgeotto]<br>Lv. 21  | &nbsp;                            | &nbsp;
+Cyclist James                        | ![][077]<br>[Ponyta]<br>Lv. 20     | ![][180]<br>[Flaaffy]<br>Lv. 20   | &nbsp;
+Cyclist Nicole                       | ![][276]<br>[Taillow]<br>Lv. 19    | ![][084]<br>[Doduo]<br>Lv. 19     | ![][278]<br>[Wingull]<br>Lv. 19
+:repeat: [Cyclist John](#rematches)  | ![][083]<br>[Farfetch'd]<br>Lv. 21 | &nbsp;                            | &nbsp;
+:repeat: [Cyclist Kayla](#rematches) | ![][100]<br>[Voltorb]<br>Lv. 19    | ![][081]<br>[Magnemite]<br>Lv. 19 | ![][309]<br>[Electrike]<br>Lv. 19
+Cyclist Ryan                         | ![][404]<br>[Luxio]<br>Lv. 21      | &nbsp;                            | &nbsp;
+Cyclist Rachel                       | ![][135]<br>[Jolteon]<br>Lv. 21    | &nbsp;                            | &nbsp;
+Hiker Theodore                       | ![][324]<br>[Torkoal]<br>Lv. 26    | &nbsp;                            | &nbsp;
 
 ## Rematches
 

@@ -4,15 +4,15 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_230/).
 
 
-Trainer                            | 1                                  | 2                                 | 3                                 | 4                                 | 5                              | 6
----                                | ---                                | ---                               | ---                               | ---                               | ---                            | ---
-Swimmer Glenn (!)                  | ![][224]<br>[Octillery]<br>Lv. 73  | ![][186]<br>[Politoed]<br>Lv. 73  | &nbsp;                            | &nbsp;                            | &nbsp;                         | &nbsp;
-Swimmer Joanna (!)                 | ![][370]<br>[Luvdisc]<br>Lv. 72    | ![][222]<br>[Corsola]<br>Lv. 72   | ![][134]<br>[Vaporeon]<br>Lv. 72  | &nbsp;                            | &nbsp;                         | &nbsp;
-Swimmer Kurt                       | ![][098]<br>[Krabby]<br>Lv. 70     | ![][341]<br>[Corphish]<br>Lv. 70  | ![][099]<br>[Kingler]<br>Lv. 72   | ![][342]<br>[Crawdaunt]<br>Lv. 72 | &nbsp;                         | &nbsp;
-Swimmer Sophia                     | ![][225]<br>[Delibird]<br>Lv. 73   | ![][226]<br>[Mantine]<br>Lv. 73   | &nbsp;                            | &nbsp;                            | &nbsp;                         | &nbsp;
-Swimmer Sam                        | ![][365]<br>[Walrein]<br>Lv. 72    | ![][423]<br>[Gastrodon]<br>Lv. 72 | ![][119]<br>[Seaking]<br>Lv. 72   | &nbsp;                            | &nbsp;                         | &nbsp;
-Swimmer Mallory                    | ![][284]<br>[Masquerain]<br>Lv. 73 | ![][272]<br>[Ludicolo]<br>Lv. 73  | &nbsp;                            | &nbsp;                            | &nbsp;                         | &nbsp;
-[Ace Trainer Luna]<br>![][ace_f_2] | ![][040]<br>[Wigglytuff]<br>Lv. 76 | ![][036]<br>[Clefable]<br>Lv. 76  | ![][184]<br>[Azumarill]<br>Lv. 76 | ![][210]<br>[Granbull]<br>Lv. 76  | ![][303]<br>[Mawile]<br>Lv. 76 | ![][282]<br>[Gardevoir]<br>Lv. 77
+Trainer                               | 1                                  | 2                                 | 3                                 | 4                                 | 5                              | 6
+---                                   | ---                                | ---                               | ---                               | ---                               | ---                            | ---
+:repeat: [Swimmer Glenn](#rematches)  | ![][224]<br>[Octillery]<br>Lv. 73  | ![][186]<br>[Politoed]<br>Lv. 73  | &nbsp;                            | &nbsp;                            | &nbsp;                         | &nbsp;
+:repeat: [Swimmer Joanna](#rematches) | ![][370]<br>[Luvdisc]<br>Lv. 72    | ![][222]<br>[Corsola]<br>Lv. 72   | ![][134]<br>[Vaporeon]<br>Lv. 72  | &nbsp;                            | &nbsp;                         | &nbsp;
+Swimmer Kurt                          | ![][098]<br>[Krabby]<br>Lv. 70     | ![][341]<br>[Corphish]<br>Lv. 70  | ![][099]<br>[Kingler]<br>Lv. 72   | ![][342]<br>[Crawdaunt]<br>Lv. 72 | &nbsp;                         | &nbsp;
+Swimmer Sophia                        | ![][225]<br>[Delibird]<br>Lv. 73   | ![][226]<br>[Mantine]<br>Lv. 73   | &nbsp;                            | &nbsp;                            | &nbsp;                         | &nbsp;
+Swimmer Sam                           | ![][365]<br>[Walrein]<br>Lv. 72    | ![][423]<br>[Gastrodon]<br>Lv. 72 | ![][119]<br>[Seaking]<br>Lv. 72   | &nbsp;                            | &nbsp;                         | &nbsp;
+Swimmer Mallory                       | ![][284]<br>[Masquerain]<br>Lv. 73 | ![][272]<br>[Ludicolo]<br>Lv. 73  | &nbsp;                            | &nbsp;                            | &nbsp;                         | &nbsp;
+[Ace Trainer Luna]<br>![][ace_f_2]    | ![][040]<br>[Wigglytuff]<br>Lv. 76 | ![][036]<br>[Clefable]<br>Lv. 76  | ![][184]<br>[Azumarill]<br>Lv. 76 | ![][210]<br>[Granbull]<br>Lv. 76  | ![][303]<br>[Mawile]<br>Lv. 76 | ![][282]<br>[Gardevoir]<br>Lv. 77
 
 ## Ace Trainer Luna
 

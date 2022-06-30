@@ -4,17 +4,17 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_202/).
 
 
-Trainer               | 1                                | 2                             | 3
----                   | ---                              | ---                           | ---
-PKMN Trainer Dawn     | ![][393]<br>[Piplup]<br>Lv. 9    | &nbsp;                        | &nbsp;
-PKMN Trainer Dawn     | ![][387]<br>[Turtwig]<br>Lv. 9   | &nbsp;                        | &nbsp;
-PKMN Trainer Dawn     | ![][390]<br>[Chimchar]<br>Lv. 9  | &nbsp;                        | &nbsp;
-PKMN Trainer Lucas    | ![][393]<br>[Piplup]<br>Lv. 9    | &nbsp;                        | &nbsp;
-PKMN Trainer Lucas    | ![][387]<br>[Turtwig]<br>Lv. 9   | &nbsp;                        | &nbsp;
-PKMN Trainer Lucas    | ![][390]<br>[Chimchar]<br>Lv. 9  | &nbsp;                        | &nbsp;
-Lass Natalie          | ![][161]<br>[Sentret]<br>Lv. 7   | ![][399]<br>[Bidoof]<br>Lv. 7 | &nbsp;
-Youngster Tristan (!) | ![][163]<br>[Hoothoot]<br>Lv. 7  | ![][396]<br>[Starly]<br>Lv. 7 | &nbsp;
-Youngster Logan       | ![][058]<br>[Growlithe]<br>Lv. 7 | ![][412]<br>[Burmy]<br>Lv. 7  | ![][263]<br>[Zigzagoon]<br>Lv. 7
+Trainer                                  | 1                                | 2                             | 3
+---                                      | ---                              | ---                           | ---
+PKMN Trainer Dawn                        | ![][393]<br>[Piplup]<br>Lv. 9    | &nbsp;                        | &nbsp;
+PKMN Trainer Dawn                        | ![][387]<br>[Turtwig]<br>Lv. 9   | &nbsp;                        | &nbsp;
+PKMN Trainer Dawn                        | ![][390]<br>[Chimchar]<br>Lv. 9  | &nbsp;                        | &nbsp;
+PKMN Trainer Lucas                       | ![][393]<br>[Piplup]<br>Lv. 9    | &nbsp;                        | &nbsp;
+PKMN Trainer Lucas                       | ![][387]<br>[Turtwig]<br>Lv. 9   | &nbsp;                        | &nbsp;
+PKMN Trainer Lucas                       | ![][390]<br>[Chimchar]<br>Lv. 9  | &nbsp;                        | &nbsp;
+Lass Natalie                             | ![][161]<br>[Sentret]<br>Lv. 7   | ![][399]<br>[Bidoof]<br>Lv. 7 | &nbsp;
+:repeat: [Youngster Tristan](#rematches) | ![][163]<br>[Hoothoot]<br>Lv. 7  | ![][396]<br>[Starly]<br>Lv. 7 | &nbsp;
+Youngster Logan                          | ![][058]<br>[Growlithe]<br>Lv. 7 | ![][412]<br>[Burmy]<br>Lv. 7  | ![][263]<br>[Zigzagoon]<br>Lv. 7
 
 ## Rematches
 

@@ -4,17 +4,17 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_214/).
 
 
-Trainer              | 1                                  | 2                                | 3
----                  | ---                                | ---                              | ---
-PI Carlos (!)        | ![][051]<br>[Dugtrio]<br>Lv. 36    | &nbsp;                           | &nbsp;
-Collector Douglas    | ![][135]<br>[Jolteon]<br>Lv. 33    | ![][134]<br>[Vaporeon]<br>Lv. 33 | ![][136]<br>[Flareon]<br>Lv. 33
-Collector Brady      | ![][115]<br>[Kangaskhan]<br>Lv. 33 | ![][357]<br>[Tropius]<br>Lv. 33  | ![][317]<br>[Swalot]<br>Lv. 33
-Ruin Maniac Bryan    | ![][347]<br>[Anorith]<br>Lv. 33    | ![][345]<br>[Lileep]<br>Lv. 33   | ![][142]<br>[Aerodactyl]<br>Lv. 33
-Ruin Maniac Ronald   | ![][369]<br>[Relicanth]<br>Lv. 35  | &nbsp;                           | &nbsp;
-Collector Jamal      | ![][131]<br>[Lapras]<br>Lv. 35     | &nbsp;                           | &nbsp;
-Beauty Devon         | ![][413]<br>[Wormadam]<br>Lv. 33   | ![][413]<br>[Wormadam]<br>Lv. 33 | ![][413]<br>[Wormadam]<br>Lv. 33
-Psychic Mitchell (!) | ![][064]<br>[Kadabra]<br>Lv. 34    | ![][326]<br>[Grumpig]<br>Lv. 34  | ![][097]<br>[Hypno]<br>Lv. 34
-Psychic Abigail (!)  | ![][281]<br>[Kirlia]<br>Lv. 34     | ![][358]<br>[Chimecho]<br>Lv. 34 | ![][203]<br>[Girafarig]<br>Lv. 34
+Trainer                                 | 1                                  | 2                                | 3
+---                                     | ---                                | ---                              | ---
+:repeat: [PI Carlos](#rematches)        | ![][051]<br>[Dugtrio]<br>Lv. 36    | &nbsp;                           | &nbsp;
+Collector Douglas                       | ![][135]<br>[Jolteon]<br>Lv. 33    | ![][134]<br>[Vaporeon]<br>Lv. 33 | ![][136]<br>[Flareon]<br>Lv. 33
+Collector Brady                         | ![][115]<br>[Kangaskhan]<br>Lv. 33 | ![][357]<br>[Tropius]<br>Lv. 33  | ![][317]<br>[Swalot]<br>Lv. 33
+Ruin Maniac Bryan                       | ![][347]<br>[Anorith]<br>Lv. 33    | ![][345]<br>[Lileep]<br>Lv. 33   | ![][142]<br>[Aerodactyl]<br>Lv. 33
+Ruin Maniac Ronald                      | ![][369]<br>[Relicanth]<br>Lv. 35  | &nbsp;                           | &nbsp;
+Collector Jamal                         | ![][131]<br>[Lapras]<br>Lv. 35     | &nbsp;                           | &nbsp;
+Beauty Devon                            | ![][413]<br>[Wormadam]<br>Lv. 33   | ![][413]<br>[Wormadam]<br>Lv. 33 | ![][413]<br>[Wormadam]<br>Lv. 33
+:repeat: [Psychic Mitchell](#rematches) | ![][064]<br>[Kadabra]<br>Lv. 34    | ![][326]<br>[Grumpig]<br>Lv. 34  | ![][097]<br>[Hypno]<br>Lv. 34
+:repeat: [Psychic Abigail](#rematches)  | ![][281]<br>[Kirlia]<br>Lv. 34     | ![][358]<br>[Chimecho]<br>Lv. 34 | ![][203]<br>[Girafarig]<br>Lv. 34
 
 ## Rematches
 

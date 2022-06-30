@@ -4,16 +4,16 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_208/).
 
 
-Trainer                          | 1                                  | 2                                 | 3                                | 4                              | 5
----                              | ---                                | ---                               | ---                              | ---                            | ---
-Hiker Robert                     | ![][105]<br>[Marowak]<br>Lv. 28    | &nbsp;                            | &nbsp;                           | &nbsp;                         | &nbsp;
-Hiker Jonathan                   | ![][449]<br>[Hippopotas]<br>Lv. 26 | ![][213]<br>[Shuckle]<br>Lv. 26   | ![][436]<br>[Bronzor]<br>Lv. 26  | &nbsp;                         | &nbsp;
-Black Belt Kyle                  | ![][067]<br>[Machoke]<br>Lv. 29    | &nbsp;                            | &nbsp;                           | &nbsp;                         | &nbsp;
-Aroma Lady Hannah                | ![][315]<br>[Roselia]<br>Lv. 27    | ![][192]<br>[Sunflora]<br>Lv. 27  | &nbsp;                           | &nbsp;                         | &nbsp;
-Artist William (!)               | ![][235]<br>[Smeargle]<br>Lv. 26   | ![][235]<br>[Smeargle]<br>Lv. 26  | ![][235]<br>[Smeargle]<br>Lv. 26 | &nbsp;                         | &nbsp;
-Fisherman Cody                   | ![][340]<br>[Whiscash]<br>Lv. 44   | ![][130]<br>[Gyarados]<br>Lv. 44  | &nbsp;                           | &nbsp;                         | &nbsp;
-Hiker Alexander                  | ![][075]<br>[Graveler]<br>Lv. 28   | &nbsp;                            | &nbsp;                           | &nbsp;                         | &nbsp;
-[Elite Four Aaron]<br>![][aaron] | ![][269]<br>[Dustox]<br>Lv. 31     | ![][267]<br>[Beautifly]<br>Lv. 31 | ![][049]<br>[Venomoth]<br>Lv. 31 | ![][212]<br>[Scizor]<br>Lv. 31 | ![][452]<br>[Drapion]<br>Lv. 32
+Trainer                               | 1                                  | 2                                 | 3                                | 4                              | 5
+---                                   | ---                                | ---                               | ---                              | ---                            | ---
+Hiker Robert                          | ![][105]<br>[Marowak]<br>Lv. 28    | &nbsp;                            | &nbsp;                           | &nbsp;                         | &nbsp;
+Hiker Jonathan                        | ![][449]<br>[Hippopotas]<br>Lv. 26 | ![][213]<br>[Shuckle]<br>Lv. 26   | ![][436]<br>[Bronzor]<br>Lv. 26  | &nbsp;                         | &nbsp;
+Black Belt Kyle                       | ![][067]<br>[Machoke]<br>Lv. 29    | &nbsp;                            | &nbsp;                           | &nbsp;                         | &nbsp;
+Aroma Lady Hannah                     | ![][315]<br>[Roselia]<br>Lv. 27    | ![][192]<br>[Sunflora]<br>Lv. 27  | &nbsp;                           | &nbsp;                         | &nbsp;
+:repeat: [Artist William](#rematches) | ![][235]<br>[Smeargle]<br>Lv. 26   | ![][235]<br>[Smeargle]<br>Lv. 26  | ![][235]<br>[Smeargle]<br>Lv. 26 | &nbsp;                         | &nbsp;
+Fisherman Cody                        | ![][340]<br>[Whiscash]<br>Lv. 44   | ![][130]<br>[Gyarados]<br>Lv. 44  | &nbsp;                           | &nbsp;                         | &nbsp;
+Hiker Alexander                       | ![][075]<br>[Graveler]<br>Lv. 28   | &nbsp;                            | &nbsp;                           | &nbsp;                         | &nbsp;
+[Elite Four Aaron]<br>![][aaron]      | ![][269]<br>[Dustox]<br>Lv. 31     | ![][267]<br>[Beautifly]<br>Lv. 31 | ![][049]<br>[Venomoth]<br>Lv. 31 | ![][212]<br>[Scizor]<br>Lv. 31 | ![][452]<br>[Drapion]<br>Lv. 32
 
 ## Elite Four Aaron
 

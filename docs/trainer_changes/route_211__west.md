@@ -4,11 +4,11 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_211__west/).
 
 
-Trainer               | 1                               | 2                               | 3
----                   | ---                             | ---                             | ---
-Ninja Boy Zach (!)    | ![][041]<br>[Zubat]<br>Lv. 19   | ![][451]<br>[Skorupi]<br>Lv. 19 | ![][041]<br>[Zubat]<br>Lv. 19
-Hiker Louis           | ![][074]<br>[Geodude]<br>Lv. 19 | ![][218]<br>[Slugma]<br>Lv. 19  | ![][374]<br>[Beldum]<br>Lv. 19
-Bird Keeper Alexandra | ![][177]<br>[Natu]<br>Lv. 20    | ![][333]<br>[Swablu]<br>Lv. 20  | ![][397]<br>[Staravia]<br>Lv. 20
+Trainer                               | 1                               | 2                               | 3
+---                                   | ---                             | ---                             | ---
+:repeat: [Ninja Boy Zach](#rematches) | ![][041]<br>[Zubat]<br>Lv. 19   | ![][451]<br>[Skorupi]<br>Lv. 19 | ![][041]<br>[Zubat]<br>Lv. 19
+Hiker Louis                           | ![][074]<br>[Geodude]<br>Lv. 19 | ![][218]<br>[Slugma]<br>Lv. 19  | ![][374]<br>[Beldum]<br>Lv. 19
+Bird Keeper Alexandra                 | ![][177]<br>[Natu]<br>Lv. 20    | ![][333]<br>[Swablu]<br>Lv. 20  | ![][397]<br>[Staravia]<br>Lv. 20
 
 ## Rematches
 

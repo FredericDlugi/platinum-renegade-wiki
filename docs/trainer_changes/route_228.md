@@ -4,17 +4,17 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_228/).
 
 
-Trainer                             | 1                                 | 2                                 | 3                                 | 4                                | 5                                 | 6
----                                 | ---                               | ---                               | ---                               | ---                              | ---                               | ---
-Ace Trainer Jose                    | ![][419]<br>[Floatzel]<br>Lv. 76  | ![][028]<br>[Sandslash]<br>Lv. 76 | ![][310]<br>[Manectric]<br>Lv. 76 | &nbsp;                           | &nbsp;                            | &nbsp;
-Ace Trainer Moira (!)               | ![][332]<br>[Cacturne]<br>Lv. 76  | ![][423]<br>[Gastrodon]<br>Lv. 76 | ![][344]<br>[Claydol]<br>Lv. 76   | &nbsp;                           | &nbsp;                            | &nbsp;
-PKMN Ranger Kyler (!)               | ![][103]<br>[Exeggutor]<br>Lv. 75 | ![][335]<br>[Zangoose]<br>Lv. 75  | ![][395]<br>[Empoleon]<br>Lv. 75  | &nbsp;                           | &nbsp;                            | &nbsp;
-PKMN Ranger Krista                  | ![][105]<br>[Marowak]<br>Lv. 76   | ![][306]<br>[Aggron]<br>Lv. 76    | &nbsp;                            | &nbsp;                           | &nbsp;                            | &nbsp;
-Dragon Tamer Keegan                 | ![][330]<br>[Flygon]<br>Lv. 76    | &nbsp;                            | &nbsp;                            | &nbsp;                           | &nbsp;                            | &nbsp;
-Psychic Corbin (!)                  | ![][097]<br>[Hypno]<br>Lv. 76     | ![][475]<br>[Gallade]<br>Lv. 76   | &nbsp;                            | &nbsp;                           | &nbsp;                            | &nbsp;
-Ace Trainer Meagan                  | ![][301]<br>[Delcatty]<br>Lv. 77  | ![][460]<br>[Abomasnow]<br>Lv. 77 | &nbsp;                            | &nbsp;                           | &nbsp;                            | &nbsp;
-Black Belt Davon (!)                | ![][297]<br>[Hariyama]<br>Lv. 75  | ![][068]<br>[Machamp]<br>Lv. 75   | ![][057]<br>[Primeape]<br>Lv. 75  | &nbsp;                           | &nbsp;                            | &nbsp;
-[Ace Trainer Shade]<br>![][ace_m_2] | ![][229]<br>[Houndoom]<br>Lv. 76  | ![][461]<br>[Weavile]<br>Lv. 76   | ![][275]<br>[Shiftry]<br>Lv. 76   | ![][319]<br>[Sharpedo]<br>Lv. 76 | ![][442]<br>[Spiritomb]<br>Lv. 76 | ![][248]<br>[Tyranitar]<br>Lv. 77
+Trainer                                  | 1                                 | 2                                 | 3                                 | 4                                | 5                                 | 6
+---                                      | ---                               | ---                               | ---                               | ---                              | ---                               | ---
+Ace Trainer Jose                         | ![][419]<br>[Floatzel]<br>Lv. 76  | ![][028]<br>[Sandslash]<br>Lv. 76 | ![][310]<br>[Manectric]<br>Lv. 76 | &nbsp;                           | &nbsp;                            | &nbsp;
+:repeat: [Ace Trainer Moira](#rematches) | ![][332]<br>[Cacturne]<br>Lv. 76  | ![][423]<br>[Gastrodon]<br>Lv. 76 | ![][344]<br>[Claydol]<br>Lv. 76   | &nbsp;                           | &nbsp;                            | &nbsp;
+:repeat: [PKMN Ranger Kyler](#rematches) | ![][103]<br>[Exeggutor]<br>Lv. 75 | ![][335]<br>[Zangoose]<br>Lv. 75  | ![][395]<br>[Empoleon]<br>Lv. 75  | &nbsp;                           | &nbsp;                            | &nbsp;
+PKMN Ranger Krista                       | ![][105]<br>[Marowak]<br>Lv. 76   | ![][306]<br>[Aggron]<br>Lv. 76    | &nbsp;                            | &nbsp;                           | &nbsp;                            | &nbsp;
+Dragon Tamer Keegan                      | ![][330]<br>[Flygon]<br>Lv. 76    | &nbsp;                            | &nbsp;                            | &nbsp;                           | &nbsp;                            | &nbsp;
+:repeat: [Psychic Corbin](#rematches)    | ![][097]<br>[Hypno]<br>Lv. 76     | ![][475]<br>[Gallade]<br>Lv. 76   | &nbsp;                            | &nbsp;                           | &nbsp;                            | &nbsp;
+Ace Trainer Meagan                       | ![][301]<br>[Delcatty]<br>Lv. 77  | ![][460]<br>[Abomasnow]<br>Lv. 77 | &nbsp;                            | &nbsp;                           | &nbsp;                            | &nbsp;
+:repeat: [Black Belt Davon](#rematches)  | ![][297]<br>[Hariyama]<br>Lv. 75  | ![][068]<br>[Machamp]<br>Lv. 75   | ![][057]<br>[Primeape]<br>Lv. 75  | &nbsp;                           | &nbsp;                            | &nbsp;
+[Ace Trainer Shade]<br>![][ace_m_2]      | ![][229]<br>[Houndoom]<br>Lv. 76  | ![][461]<br>[Weavile]<br>Lv. 76   | ![][275]<br>[Shiftry]<br>Lv. 76   | ![][319]<br>[Sharpedo]<br>Lv. 76 | ![][442]<br>[Spiritomb]<br>Lv. 76 | ![][248]<br>[Tyranitar]<br>Lv. 77
 
 ## Ace Trainer Shade
 

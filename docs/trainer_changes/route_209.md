@@ -4,16 +4,16 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_209/).
 
 
-Trainer                   | 1                                | 2                                 | 3                              | 4                                 | 5                                | 6
----                       | ---                              | ---                               | ---                            | ---                               | ---                              | ---
-PKMN Breeder Albert (!)   | ![][236]<br>[Tyrogue]<br>Lv. 26  | ![][433]<br>[Chingling]<br>Lv. 26 | ![][438]<br>[Bonsly]<br>Lv. 26 | ![][240]<br>[Magby]<br>Lv. 26     | ![][239]<br>[Elekid]<br>Lv. 26   | ![][439]<br>[Mime Jr.]<br>Lv. 26
-Twins Emma & Lil          | ![][134]<br>[Vaporeon]<br>Lv. 30 | ![][136]<br>[Flareon]<br>Lv. 30   | &nbsp;                         | &nbsp;                            | &nbsp;                           | &nbsp;
-Poké Kid Danielle (!)     | ![][172]<br>[Pichu]<br>Lv. 28    | ![][025]<br>[Pikachu]<br>Lv. 29   | ![][026]<br>[Raichu]<br>Lv. 30 | &nbsp;                            | &nbsp;                           | &nbsp;
-PKMN Breeder Jennifer (!) | ![][298]<br>[Azurill]<br>Lv. 26  | ![][175]<br>[Togepi]<br>Lv. 26    | ![][173]<br>[Cleffa]<br>Lv. 26 | ![][174]<br>[Igglybuff]<br>Lv. 26 | ![][238]<br>[Smoochum]<br>Lv. 26 | ![][406]<br>[Budew]<br>Lv. 26
-Cowgirl Shelley           | ![][077]<br>[Ponyta]<br>Lv. 30   | ![][400]<br>[Bibarel]<br>Lv. 30   | &nbsp;                         | &nbsp;                            | &nbsp;                           | &nbsp;
-Jogger Richard            | ![][085]<br>[Dodrio]<br>Lv. 31   | &nbsp;                            | &nbsp;                         | &nbsp;                            | &nbsp;                           | &nbsp;
-Jogger Raul               | ![][022]<br>[Fearow]<br>Lv. 31   | &nbsp;                            | &nbsp;                         | &nbsp;                            | &nbsp;                           | &nbsp;
-Young Couple Ty & Sue     | ![][314]<br>[Illumise]<br>Lv. 31 | ![][313]<br>[Volbeat]<br>Lv. 31   | &nbsp;                         | &nbsp;                            | &nbsp;                           | &nbsp;
+Trainer                                      | 1                                | 2                                 | 3                              | 4                                 | 5                                | 6
+---                                          | ---                              | ---                               | ---                            | ---                               | ---                              | ---
+:repeat: [PKMN Breeder Albert](#rematches)   | ![][236]<br>[Tyrogue]<br>Lv. 26  | ![][433]<br>[Chingling]<br>Lv. 26 | ![][438]<br>[Bonsly]<br>Lv. 26 | ![][240]<br>[Magby]<br>Lv. 26     | ![][239]<br>[Elekid]<br>Lv. 26   | ![][439]<br>[Mime Jr.]<br>Lv. 26
+Twins Emma & Lil                             | ![][134]<br>[Vaporeon]<br>Lv. 30 | ![][136]<br>[Flareon]<br>Lv. 30   | &nbsp;                         | &nbsp;                            | &nbsp;                           | &nbsp;
+:repeat: [Poké Kid Danielle](#rematches)     | ![][172]<br>[Pichu]<br>Lv. 28    | ![][025]<br>[Pikachu]<br>Lv. 29   | ![][026]<br>[Raichu]<br>Lv. 30 | &nbsp;                            | &nbsp;                           | &nbsp;
+:repeat: [PKMN Breeder Jennifer](#rematches) | ![][298]<br>[Azurill]<br>Lv. 26  | ![][175]<br>[Togepi]<br>Lv. 26    | ![][173]<br>[Cleffa]<br>Lv. 26 | ![][174]<br>[Igglybuff]<br>Lv. 26 | ![][238]<br>[Smoochum]<br>Lv. 26 | ![][406]<br>[Budew]<br>Lv. 26
+Cowgirl Shelley                              | ![][077]<br>[Ponyta]<br>Lv. 30   | ![][400]<br>[Bibarel]<br>Lv. 30   | &nbsp;                         | &nbsp;                            | &nbsp;                           | &nbsp;
+Jogger Richard                               | ![][085]<br>[Dodrio]<br>Lv. 31   | &nbsp;                            | &nbsp;                         | &nbsp;                            | &nbsp;                           | &nbsp;
+Jogger Raul                                  | ![][022]<br>[Fearow]<br>Lv. 31   | &nbsp;                            | &nbsp;                         | &nbsp;                            | &nbsp;                           | &nbsp;
+Young Couple Ty & Sue                        | ![][314]<br>[Illumise]<br>Lv. 31 | ![][313]<br>[Volbeat]<br>Lv. 31   | &nbsp;                         | &nbsp;                            | &nbsp;                           | &nbsp;
 
 ## Rematches
 

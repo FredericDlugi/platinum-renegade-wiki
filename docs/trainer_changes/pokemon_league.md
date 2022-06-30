@@ -40,13 +40,13 @@ Trainer                                                      | 1                
 
 ## Round 2
 
-Trainer                                                   | 1                                 | 2                                | 3                                 | 4                                 | 5                                 | 6
----                                                       | ---                               | ---                              | ---                               | ---                               | ---                               | ---
-[Elite Four Aaron](#elite-four-aaron-r2)<br>![][aaron]    | ![][469]<br>[Yanmega]<br>Lv. 83   | ![][212]<br>[Scizor]<br>Lv. 83   | ![][214]<br>[Heracross]<br>Lv. 83 | ![][123]<br>[Scyther]<br>Lv. 83   | ![][348]<br>[Armaldo]<br>Lv. 83   | ![][452]<br>[Drapion]<br>Lv. 84
-[Elite Four Bertha](#elite-four-bertha-r2)<br>![][bertha] | ![][450]<br>[Hippowdon]<br>Lv. 84 | ![][260]<br>[Swampert]<br>Lv. 84 | ![][472]<br>[Gliscor]<br>Lv. 84   | ![][248]<br>[Tyranitar]<br>Lv. 84 | ![][051]<br>[Dugtrio]<br>Lv. 84   | ![][464]<br>[Rhyperior]<br>Lv. 85
-[Elite Four Flint](#elite-four-flint-r2)<br>![][flint]    | ![][038]<br>[Ninetales]<br>Lv. 85 | ![][229]<br>[Houndoom]<br>Lv. 85 | ![][467]<br>[Magmortar]<br>Lv. 85 | ![][392]<br>[Infernape]<br>Lv. 85 | ![][078]<br>[Rapidash]<br>Lv. 85  | ![][146]<br>[Moltres]<br>Lv. 86
-[Elite Four Lucian](#elite-four-lucian-r2)<br>![][lucian] | ![][122]<br>[Mr. Mime]<br>Lv. 86  | ![][196]<br>[Espeon]<br>Lv. 86   | ![][475]<br>[Gallade]<br>Lv. 86   | ![][376]<br>[Metagross]<br>Lv. 86 | ![][065]<br>[Alakazam]<br>Lv. 86  | ![][381]<br>[Latios]<br>Lv. 87
-[Champion Cynthia](#champion-cynthia-r2)<br>![][cynthia]  | ![][442]<br>[Spiritomb]<br>Lv. 88 | ![][468]<br>[Togekiss]<br>Lv. 88 | ![][448]<br>[Lucario]<br>Lv. 88   | ![][445]<br>[Garchomp]<br>Lv. 88  | ![][350]<br>[Milotic]<br>Lv. 88   | ![][384]<br>[Rayquaza]<br>Lv. 89
+Trainer                                                   | 1                                 | 2                                | 3                                 | 4                                 | 5                                | 6
+---                                                       | ---                               | ---                              | ---                               | ---                               | ---                              | ---
+[Elite Four Aaron](#elite-four-aaron-r2)<br>![][aaron]    | ![][469]<br>[Yanmega]<br>Lv. 83   | ![][212]<br>[Scizor]<br>Lv. 83   | ![][214]<br>[Heracross]<br>Lv. 83 | ![][123]<br>[Scyther]<br>Lv. 83   | ![][348]<br>[Armaldo]<br>Lv. 83  | ![][452]<br>[Drapion]<br>Lv. 84
+[Elite Four Bertha](#elite-four-bertha-r2)<br>![][bertha] | ![][450]<br>[Hippowdon]<br>Lv. 84 | ![][260]<br>[Swampert]<br>Lv. 84 | ![][472]<br>[Gliscor]<br>Lv. 84   | ![][248]<br>[Tyranitar]<br>Lv. 84 | ![][051]<br>[Dugtrio]<br>Lv. 84  | ![][464]<br>[Rhyperior]<br>Lv. 85
+[Elite Four Flint](#elite-four-flint-r2)<br>![][flint]    | ![][038]<br>[Ninetales]<br>Lv. 85 | ![][229]<br>[Houndoom]<br>Lv. 85 | ![][467]<br>[Magmortar]<br>Lv. 85 | ![][392]<br>[Infernape]<br>Lv. 85 | ![][078]<br>[Rapidash]<br>Lv. 85 | ![][146]<br>[Moltres]<br>Lv. 86
+[Elite Four Lucian](#elite-four-lucian-r2)<br>![][lucian] | ![][122]<br>[Mr. Mime]<br>Lv. 86  | ![][196]<br>[Espeon]<br>Lv. 86   | ![][475]<br>[Gallade]<br>Lv. 86   | ![][376]<br>[Metagross]<br>Lv. 86 | ![][065]<br>[Alakazam]<br>Lv. 86 | ![][381]<br>[Latios]<br>Lv. 87
+[Champion Cynthia](#champion-cynthia-r2)<br>![][cynthia]  | ![][442]<br>[Spiritomb]<br>Lv. 88 | ![][468]<br>[Togekiss]<br>Lv. 88 | ![][448]<br>[Lucario]<br>Lv. 88   | ![][445]<br>[Garchomp]<br>Lv. 88  | ![][350]<br>[Milotic]<br>Lv. 88  | ![][384]<br>[Rayquaza]<br>Lv. 89
 
 ## PKMN Trainer Barry
 

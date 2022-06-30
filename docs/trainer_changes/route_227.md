@@ -4,28 +4,28 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_227/).
 
 
-Trainer                              | 1                                | 2                                  | 3                                 | 4                                | 5                                 | 6
----                                  | ---                              | ---                                | ---                               | ---                              | ---                               | ---
-Ace Trainer Saul (!)                 | ![][128]<br>[Tauros]<br>Lv. 78   | &nbsp;                             | &nbsp;                            | &nbsp;                           | &nbsp;                            | &nbsp;
-PKMN Ranger Felicia                  | ![][189]<br>[Jumpluff]<br>Lv. 76 | ![][428]<br>[Lopunny]<br>Lv. 76    | &nbsp;                            | &nbsp;                           | &nbsp;                            | &nbsp;
-Black Belt Griffin                   | ![][286]<br>[Breloom]<br>Lv. 75  | ![][308]<br>[Medicham]<br>Lv. 75   | ![][448]<br>[Lucario]<br>Lv. 75   | &nbsp;                           | &nbsp;                            | &nbsp;
-Ace Trainer Mikayla                  | ![][336]<br>[Seviper]<br>Lv. 76  | ![][053]<br>[Persian]<br>Lv. 76    | ![][359]<br>[Absol]<br>Lv. 76     | &nbsp;                           | &nbsp;                            | &nbsp;
-[Ace Trainer Slythe]<br>![][ace_f_2] | ![][094]<br>[Gengar]<br>Lv. 76   | ![][073]<br>[Tentacruel]<br>Lv. 76 | ![][031]<br>[Nidoqueen]<br>Lv. 76 | ![][169]<br>[Crobat]<br>Lv. 76   | ![][454]<br>[Toxicroak]<br>Lv. 76 | ![][045]<br>[Vileplume]<br>Lv. 77
-[PKMN Trainer Buck]<br>![][buck]     | ![][324]<br>[Torkoal]<br>Lv. 77  | ![][213]<br>[Shuckle]<br>Lv. 77    | ![][197]<br>[Umbreon]<br>Lv. 77   | ![][477]<br>[Dusknoir]<br>Lv. 77 | ![][091]<br>[Cloyster]<br>Lv. 77  | ![][344]<br>[Claydol]<br>Lv. 78
+Trainer                                 | 1                                | 2                                  | 3                                 | 4                                | 5                                 | 6
+---                                     | ---                              | ---                                | ---                               | ---                              | ---                               | ---
+:repeat: [Ace Trainer Saul](#rematches) | ![][128]<br>[Tauros]<br>Lv. 78   | &nbsp;                             | &nbsp;                            | &nbsp;                           | &nbsp;                            | &nbsp;
+PKMN Ranger Felicia                     | ![][189]<br>[Jumpluff]<br>Lv. 76 | ![][428]<br>[Lopunny]<br>Lv. 76    | &nbsp;                            | &nbsp;                           | &nbsp;                            | &nbsp;
+Black Belt Griffin                      | ![][286]<br>[Breloom]<br>Lv. 75  | ![][308]<br>[Medicham]<br>Lv. 75   | ![][448]<br>[Lucario]<br>Lv. 75   | &nbsp;                           | &nbsp;                            | &nbsp;
+Ace Trainer Mikayla                     | ![][336]<br>[Seviper]<br>Lv. 76  | ![][053]<br>[Persian]<br>Lv. 76    | ![][359]<br>[Absol]<br>Lv. 76     | &nbsp;                           | &nbsp;                            | &nbsp;
+[Ace Trainer Slythe]<br>![][ace_f_2]    | ![][094]<br>[Gengar]<br>Lv. 76   | ![][073]<br>[Tentacruel]<br>Lv. 76 | ![][031]<br>[Nidoqueen]<br>Lv. 76 | ![][169]<br>[Crobat]<br>Lv. 76   | ![][454]<br>[Toxicroak]<br>Lv. 76 | ![][045]<br>[Vileplume]<br>Lv. 77
+[PKMN Trainer Buck]<br>![][buck]        | ![][324]<br>[Torkoal]<br>Lv. 77  | ![][213]<br>[Shuckle]<br>Lv. 77    | ![][197]<br>[Umbreon]<br>Lv. 77   | ![][477]<br>[Dusknoir]<br>Lv. 77 | ![][091]<br>[Cloyster]<br>Lv. 77  | ![][344]<br>[Claydol]<br>Lv. 78
 
 ## Ace Trainer Slythe
 
 !!! note
     This trainer needs to be beaten to advance into Stark Mountain
 
-![][ace_f_2]                       | Item                              | Nature | Ability      | Moves
----                                | ---                               | ---    | ---          | ---
-![][094]<br>[Gengar]<br>Lv. 76     | ![][wide-lens]<br>Wide Lens       | ?      | Levitate     | Sludge Bomb, Shadow Ball, Focus Blast, Thunder
-![][073]<br>[Tentacruel]<br>Lv. 76 | ![][black-sludge]<br>Black Sludge | ?      | Clear Body   | Sludge Bomb, Muddy Water, Ice Beam, Toxic Spikes
-![][031]<br>[Nidoqueen]<br>Lv. 76  | ![][life-orb]<br>Life Orb         | ?      | Poison Point | Poison Jab, Earthquake, Fire Blast, Stone Edge
-![][169]<br>[Crobat]<br>Lv. 76     | ![][shell-bell]<br>Shell Bell     | ?      | Inner Focus  | Cross Poison, Brave Bird, Hypnosis, Leech Life
-![][454]<br>[Toxicroak]<br>Lv. 76  | ![][expert-belt]<br>Expert Belt   | ?      | Dry Skin     | Gunk Shot, Drain Punch, Sucker Punch, Fake Out
-![][045]<br>[Vileplume]<br>Lv. 77  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Chlorophyll  | Sludge Bomb, Petal Dance, Moonblast, Sleep Powder
+![][ace_f_2]                       | Item                              | Nature | Ability      | Moves        | &nbsp;      | &nbsp;       | &nbsp;
+---                                | ---                               | ---    | ---          | ---          | ---         | ---          | ---
+![][094]<br>[Gengar]<br>Lv. 76     | ![][wide-lens]<br>Wide Lens       | ?      | Levitate     | Sludge Bomb  | Shadow Ball | Focus Blast  | Thunder
+![][073]<br>[Tentacruel]<br>Lv. 76 | ![][black-sludge]<br>Black Sludge | ?      | Clear Body   | Sludge Bomb  | Muddy Water | Ice Beam     | Toxic Spikes
+![][031]<br>[Nidoqueen]<br>Lv. 76  | ![][life-orb]<br>Life Orb         | ?      | Poison Point | Poison Jab   | Earthquake  | Fire Blast   | Stone Edge
+![][169]<br>[Crobat]<br>Lv. 76     | ![][shell-bell]<br>Shell Bell     | ?      | Inner Focus  | Cross Poison | Brave Bird  | Hypnosis     | Leech Life
+![][454]<br>[Toxicroak]<br>Lv. 76  | ![][expert-belt]<br>Expert Belt   | ?      | Dry Skin     | Gunk Shot    | Drain Punch | Sucker Punch | Fake Out
+![][045]<br>[Vileplume]<br>Lv. 77  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Chlorophyll  | Sludge Bomb  | Petal Dance | Moonblast    | Sleep Powder
 
 ## PKMN Trainer Buck
 
@@ -106,3 +106,4 @@ Ace Trainer Saul (S) | ![][128]<br>[Tauros]<br>Lv. 80
 [477]: ../img/pokemon/477.png
 [ace_f_2]: ../img/trainer/ace_f_2.png
 [buck]: ../img/trainer/buck.png
+[vs-seeker]: ../img/items/vs-seeker.png

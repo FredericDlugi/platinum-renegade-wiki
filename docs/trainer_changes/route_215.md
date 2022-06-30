@@ -4,16 +4,16 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_215/).
 
 
-Trainer                | 1                                 | 2                                  | 3
----                    | ---                               | ---                                | ---
-Black Belt Derek       | ![][256]<br>[Combusken]<br>Lv. 34 | ![][106]<br>[Hitmonlee]<br>Lv. 34  | &nbsp;
-Black Belt Gregory     | ![][057]<br>[Primeape]<br>Lv. 34  | ![][107]<br>[Hitmonchan]<br>Lv. 34 | &nbsp;
-Black Belt Nathaniel   | ![][067]<br>[Machoke]<br>Lv. 34   | ![][237]<br>[Hitmontop]<br>Lv. 34  | &nbsp;
-Jogger Scott           | ![][398]<br>[Staraptor]<br>Lv. 34 | &nbsp;                             | &nbsp;
-Ruin Maniac Calvin     | ![][105]<br>[Marowak]<br>Lv. 33   | ![][409]<br>[Rampardos]<br>Lv. 33  | &nbsp;
-Jogger Craig (!)       | ![][405]<br>[Luxray]<br>Lv. 34    | &nbsp;                             | &nbsp;
-Ace Trainer Dennis (!) | ![][207]<br>[Gligar]<br>Lv. 35    | ![][130]<br>[Gyarados]<br>Lv. 35   | ![][426]<br>[Drifblim]<br>Lv. 35
-Ace Trainer Maya (!)   | ![][108]<br>[Lickitung]<br>Lv. 35 | ![][282]<br>[Gardevoir]<br>Lv. 35  | ![][407]<br>[Roserade]<br>Lv. 35
+Trainer                                   | 1                                 | 2                                  | 3
+---                                       | ---                               | ---                                | ---
+Black Belt Derek                          | ![][256]<br>[Combusken]<br>Lv. 34 | ![][106]<br>[Hitmonlee]<br>Lv. 34  | &nbsp;
+Black Belt Gregory                        | ![][057]<br>[Primeape]<br>Lv. 34  | ![][107]<br>[Hitmonchan]<br>Lv. 34 | &nbsp;
+Black Belt Nathaniel                      | ![][067]<br>[Machoke]<br>Lv. 34   | ![][237]<br>[Hitmontop]<br>Lv. 34  | &nbsp;
+Jogger Scott                              | ![][398]<br>[Staraptor]<br>Lv. 34 | &nbsp;                             | &nbsp;
+Ruin Maniac Calvin                        | ![][105]<br>[Marowak]<br>Lv. 33   | ![][409]<br>[Rampardos]<br>Lv. 33  | &nbsp;
+:repeat: [Jogger Craig](#rematches)       | ![][405]<br>[Luxray]<br>Lv. 34    | &nbsp;                             | &nbsp;
+:repeat: [Ace Trainer Dennis](#rematches) | ![][207]<br>[Gligar]<br>Lv. 35    | ![][130]<br>[Gyarados]<br>Lv. 35   | ![][426]<br>[Drifblim]<br>Lv. 35
+:repeat: [Ace Trainer Maya](#rematches)   | ![][108]<br>[Lickitung]<br>Lv. 35 | ![][282]<br>[Gardevoir]<br>Lv. 35  | ![][407]<br>[Roserade]<br>Lv. 35
 
 ## Rematches
 

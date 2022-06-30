@@ -4,14 +4,14 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_221/).
 
 
-Trainer                 | 1                                 | 2                                 | 3                                 | 4
----                     | ---                               | ---                               | ---                               | ---
-Swimmer Dillon          | ![][260]<br>[Swampert]<br>Lv. 46  | &nbsp;                            | &nbsp;                            | &nbsp;
-Swimmer Vanessa         | ![][350]<br>[Milotic]<br>Lv. 46   | &nbsp;                            | &nbsp;                            | &nbsp;
-Fisherman Cory          | ![][340]<br>[Whiscash]<br>Lv. 44  | ![][099]<br>[Kingler]<br>Lv. 44   | ![][130]<br>[Gyarados]<br>Lv. 44  | &nbsp;
-Ace Trainer Shannon (!) | ![][045]<br>[Vileplume]<br>Lv. 45 | ![][282]<br>[Gardevoir]<br>Lv. 45 | ![][428]<br>[Lopunny]<br>Lv. 45   | ![][031]<br>[Nidoqueen]<br>Lv. 45
-Ace Trainer Jake (!)    | ![][344]<br>[Claydol]<br>Lv. 45   | ![][006]<br>[Charizard]<br>Lv. 45 | ![][103]<br>[Exeggutor]<br>Lv. 45 | ![][359]<br>[Absol]<br>Lv. 45
-Collector Ivan (!)      | ![][468]<br>[Togekiss]<br>Lv. 45  | ![][242]<br>[Blissey]<br>Lv. 45   | &nbsp;                            | &nbsp;
+Trainer                                    | 1                                 | 2                                 | 3                                 | 4
+---                                        | ---                               | ---                               | ---                               | ---
+Swimmer Dillon                             | ![][260]<br>[Swampert]<br>Lv. 46  | &nbsp;                            | &nbsp;                            | &nbsp;
+Swimmer Vanessa                            | ![][350]<br>[Milotic]<br>Lv. 46   | &nbsp;                            | &nbsp;                            | &nbsp;
+Fisherman Cory                             | ![][340]<br>[Whiscash]<br>Lv. 44  | ![][099]<br>[Kingler]<br>Lv. 44   | ![][130]<br>[Gyarados]<br>Lv. 44  | &nbsp;
+:repeat: [Ace Trainer Shannon](#rematches) | ![][045]<br>[Vileplume]<br>Lv. 45 | ![][282]<br>[Gardevoir]<br>Lv. 45 | ![][428]<br>[Lopunny]<br>Lv. 45   | ![][031]<br>[Nidoqueen]<br>Lv. 45
+:repeat: [Ace Trainer Jake](#rematches)    | ![][344]<br>[Claydol]<br>Lv. 45   | ![][006]<br>[Charizard]<br>Lv. 45 | ![][103]<br>[Exeggutor]<br>Lv. 45 | ![][359]<br>[Absol]<br>Lv. 45
+:repeat: [Collector Ivan](#rematches)      | ![][468]<br>[Togekiss]<br>Lv. 45  | ![][242]<br>[Blissey]<br>Lv. 45   | &nbsp;                            | &nbsp;
 
 ## Rematches
 

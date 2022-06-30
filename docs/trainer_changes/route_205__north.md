@@ -4,11 +4,11 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_205__north/).
 
 
-Trainer              | 1                                | 2                               | 3
----                  | ---                              | ---                             | ---
-Fisherman Joseph (!) | ![][118]<br>[Goldeen]<br>Lv. 18  | ![][060]<br>[Poliwag]<br>Lv. 18 | ![][341]<br>[Corphish]<br>Lv. 18
-Fisherman Andrew     | ![][129]<br>[Magikarp]<br>Lv. 18 | ![][349]<br>[Feebas]<br>Lv. 18  | ![][129]<br>[Magikarp]<br>Lv. 18
-Fisherman Zachary    | ![][098]<br>[Krabby]<br>Lv. 19   | ![][456]<br>[Finneon]<br>Lv. 19 | &nbsp;
+Trainer                                 | 1                                | 2                               | 3
+---                                     | ---                              | ---                             | ---
+:repeat: [Fisherman Joseph](#rematches) | ![][118]<br>[Goldeen]<br>Lv. 18  | ![][060]<br>[Poliwag]<br>Lv. 18 | ![][341]<br>[Corphish]<br>Lv. 18
+Fisherman Andrew                        | ![][129]<br>[Magikarp]<br>Lv. 18 | ![][349]<br>[Feebas]<br>Lv. 18  | ![][129]<br>[Magikarp]<br>Lv. 18
+Fisherman Zachary                       | ![][098]<br>[Krabby]<br>Lv. 19   | ![][456]<br>[Finneon]<br>Lv. 19 | &nbsp;
 
 ## Rematches
 
