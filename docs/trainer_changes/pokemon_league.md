@@ -50,17 +50,20 @@ Trainer                                                   | 1                   
 
 ## PKMN Trainer Barry
 
+!!! note
+    This Team changes depending on your Starter
+
 ![][barry]                        | Item                              | Nature | Ability    | Moves
 ---                               | ---                               | ---    | ---        | ---
 ![][398]<br>[Staraptor]<br>Lv. 70 | ![][choice-scarf]<br>Choice Scarf | ?      | Intimidate | Double-Edge, Brave Bird, Close Combat, U-turn
 ![][214]<br>[Heracross]<br>Lv. 70 | ![][toxic-orb]<br>Toxic Orb       | ?      | Guts       | Megahorn, Close Combat, Stone Edge, Protect
 ![][143]<br>[Snorlax]<br>Lv. 70   | ![][leftovers]<br>Leftovers       | ?      | Thick Fat  | Body Slam, Earthquake, Curse, Slack Off
-![][184]<br>[Azumarill]<br>Lv. 70 | ![][life-orb]<br>Life Orb         | ?      | Huge Power | Aqua Tail, Play Rough, Ice Punch, Aqua Jet              (!)
-![][059]<br>[Arcanine]<br>Lv. 70  | ![][life-orb]<br>Life Orb         | ?      | Intimidate | Flare Blitz, Close Combat, Wild Charge, Crunch          (!)
-![][286]<br>[Breloom]<br>Lv. 70   | ![][life-orb]<br>Life Orb         | ?      | Technician | Bullet Seed, Force Palm, Stone Edge, Spore              (!)
-![][389]<br>[Torterra]<br>Lv. 71  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow   | Wood Hammer, Earthquake, Stone Edge, Crunch             (!)
-![][392]<br>[Infernape]<br>Lv. 71 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist  | Flare Blitz, Close Combat, Stone Edge, Grass Knot       (!)
-![][395]<br>[Empoleon]<br>Lv. 71  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent    | Hydro Pump, Flash Cannon, Grass Knot, Blizzard          (!)
+![][184]<br>[Azumarill]<br>Lv. 70 | ![][life-orb]<br>Life Orb         | ?      | Huge Power | Aqua Tail, Play Rough, Ice Punch, Aqua Jet
+![][059]<br>[Arcanine]<br>Lv. 70  | ![][life-orb]<br>Life Orb         | ?      | Intimidate | Flare Blitz, Close Combat, Wild Charge, Crunch
+![][286]<br>[Breloom]<br>Lv. 70   | ![][life-orb]<br>Life Orb         | ?      | Technician | Bullet Seed, Force Palm, Stone Edge, Spore
+![][389]<br>[Torterra]<br>Lv. 71  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow   | Wood Hammer, Earthquake, Stone Edge, Crunch
+![][392]<br>[Infernape]<br>Lv. 71 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist  | Flare Blitz, Close Combat, Stone Edge, Grass Knot
+![][395]<br>[Empoleon]<br>Lv. 71  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent    | Hydro Pump, Flash Cannon, Grass Knot, Blizzard
 
 ## Elite Four Aaron R1 T1
 

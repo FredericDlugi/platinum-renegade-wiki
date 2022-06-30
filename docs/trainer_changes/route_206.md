@@ -18,14 +18,14 @@ Hiker Theodore                       | ![][324]<br>[Torkoal]<br>Lv. 26    | &nbs
 
 ## Rematches
 
-Trainer           | 1                                  | 2                                 | 3
----               | ---                                | ---                               | ---
-Cyclist John (5)  | ![][083]<br>[Farfetch'd]<br>Lv. 40 | &nbsp;                            | &nbsp;
-Cyclist John (8)  | ![][083]<br>[Farfetch'd]<br>Lv. 61 | &nbsp;                            | &nbsp;
-Cyclist John (C)  | ![][083]<br>[Farfetch'd]<br>Lv. 72 | &nbsp;                            | &nbsp;
-Cyclist Kayla (5) | ![][101]<br>[Electrode]<br>Lv. 38  | ![][082]<br>[Magneton]<br>Lv. 38  | ![][310]<br>[Manectric]<br>Lv. 38
-Cyclist Kayla (8) | ![][101]<br>[Electrode]<br>Lv. 59  | ![][082]<br>[Magneton]<br>Lv. 59  | ![][310]<br>[Manectric]<br>Lv. 59
-Cyclist Kayla (C) | ![][101]<br>[Electrode]<br>Lv. 70  | ![][462]<br>[Magnezone]<br>Lv. 70 | ![][310]<br>[Manectric]<br>Lv. 70
+Trainer                                           | 1                                  | 2                                 | 3
+---                                               | ---                                | ---                               | ---
+Cyclist John :material-numeric-5-circle-outline:  | ![][083]<br>[Farfetch'd]<br>Lv. 40 | &nbsp;                            | &nbsp;
+Cyclist John :material-numeric-8-circle-outline:  | ![][083]<br>[Farfetch'd]<br>Lv. 61 | &nbsp;                            | &nbsp;
+Cyclist John :material-alpha-c-circle-outline:    | ![][083]<br>[Farfetch'd]<br>Lv. 72 | &nbsp;                            | &nbsp;
+Cyclist Kayla :material-numeric-5-circle-outline: | ![][101]<br>[Electrode]<br>Lv. 38  | ![][082]<br>[Magneton]<br>Lv. 38  | ![][310]<br>[Manectric]<br>Lv. 38
+Cyclist Kayla :material-numeric-8-circle-outline: | ![][101]<br>[Electrode]<br>Lv. 59  | ![][082]<br>[Magneton]<br>Lv. 59  | ![][310]<br>[Manectric]<br>Lv. 59
+Cyclist Kayla :material-alpha-c-circle-outline:   | ![][101]<br>[Electrode]<br>Lv. 70  | ![][462]<br>[Magnezone]<br>Lv. 70 | ![][310]<br>[Manectric]<br>Lv. 70
 
 [Pidgeotto]: ../../pokemon_changes/017/
 [Pikachu]: ../../pokemon_changes/025/

@@ -21,13 +21,13 @@ Poké Kid Janet                        | ![][025]<br>[Pikachu]<br>Lv. 57   | ![]
 
 ## Rematches
 
-Trainer            | 1                                | 2                                | 3
----                | ---                              | ---                              | ---
-Rich Boy Trey (C)  | ![][405]<br>[Luxray]<br>Lv. 70   | ![][254]<br>[Sceptile]<br>Lv. 70 | ![][264]<br>[Linoone]<br>Lv. 70
-Rich Boy Trey (S)  | ![][405]<br>[Luxray]<br>Lv. 75   | ![][254]<br>[Sceptile]<br>Lv. 75 | ![][264]<br>[Linoone]<br>Lv. 75
-Sailor Marc (C)    | ![][171]<br>[Lanturn]<br>Lv. 70  | ![][068]<br>[Machamp]<br>Lv. 70  | ![][226]<br>[Mantine]<br>Lv. 70
-Sailor Marc (S)    | ![][171]<br>[Lanturn]<br>Lv. 75  | ![][068]<br>[Machamp]<br>Lv. 75  | ![][226]<br>[Mantine]<br>Lv. 75
-Fisherman Alec (C) | ![][130]<br>[Gyarados]<br>Lv. 70 | ![][130]<br>[Gyarados]<br>Lv. 70 | ![][130]<br>[Gyarados]<br>Lv. 70
+Trainer                                          | 1                                | 2                                | 3
+---                                              | ---                              | ---                              | ---
+Rich Boy Trey :material-alpha-c-circle-outline:  | ![][405]<br>[Luxray]<br>Lv. 70   | ![][254]<br>[Sceptile]<br>Lv. 70 | ![][264]<br>[Linoone]<br>Lv. 70
+Rich Boy Trey :material-alpha-s-circle-outline:  | ![][405]<br>[Luxray]<br>Lv. 75   | ![][254]<br>[Sceptile]<br>Lv. 75 | ![][264]<br>[Linoone]<br>Lv. 75
+Sailor Marc :material-alpha-c-circle-outline:    | ![][171]<br>[Lanturn]<br>Lv. 70  | ![][068]<br>[Machamp]<br>Lv. 70  | ![][226]<br>[Mantine]<br>Lv. 70
+Sailor Marc :material-alpha-s-circle-outline:    | ![][171]<br>[Lanturn]<br>Lv. 75  | ![][068]<br>[Machamp]<br>Lv. 75  | ![][226]<br>[Mantine]<br>Lv. 75
+Fisherman Alec :material-alpha-c-circle-outline: | ![][130]<br>[Gyarados]<br>Lv. 70 | ![][130]<br>[Gyarados]<br>Lv. 70 | ![][130]<br>[Gyarados]<br>Lv. 70
 
 [Pikachu]: ../../pokemon_changes/025/
 [Poliwrath]: ../../pokemon_changes/062/

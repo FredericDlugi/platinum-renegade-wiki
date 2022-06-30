@@ -19,14 +19,14 @@ Galactic Grunt                       | ![][454]<br>[Toxicroak]<br>Lv. 41 | &nbsp
 
 ## Rematches
 
-Trainer           | 1                                 | 2                               | 3
----               | ---                               | ---                             | ---
-Beauty Cyndy (8)  | ![][301]<br>[Delcatty]<br>Lv. 59  | ![][053]<br>[Persian]<br>Lv. 59 | ![][432]<br>[Purugly]<br>Lv. 59
-Beauty Cyndy (C)  | ![][301]<br>[Delcatty]<br>Lv. 70  | ![][053]<br>[Persian]<br>Lv. 70 | ![][432]<br>[Purugly]<br>Lv. 70
-Tuber Jared (5)   | ![][423]<br>[Gastrodon]<br>Lv. 39 | &nbsp;                          | &nbsp;
-Tuber Jared (C)   | ![][423]<br>[Gastrodon]<br>Lv. 69 | &nbsp;                          | &nbsp;
-Tuber Chelsea (8) | ![][184]<br>[Azumarill]<br>Lv. 59 | &nbsp;                          | &nbsp;
-Tuber Chelsea (C) | ![][184]<br>[Azumarill]<br>Lv. 69 | &nbsp;                          | &nbsp;
+Trainer                                           | 1                                 | 2                               | 3
+---                                               | ---                               | ---                             | ---
+Beauty Cyndy :material-numeric-8-circle-outline:  | ![][301]<br>[Delcatty]<br>Lv. 59  | ![][053]<br>[Persian]<br>Lv. 59 | ![][432]<br>[Purugly]<br>Lv. 59
+Beauty Cyndy :material-alpha-c-circle-outline:    | ![][301]<br>[Delcatty]<br>Lv. 70  | ![][053]<br>[Persian]<br>Lv. 70 | ![][432]<br>[Purugly]<br>Lv. 70
+Tuber Jared :material-numeric-5-circle-outline:   | ![][423]<br>[Gastrodon]<br>Lv. 39 | &nbsp;                          | &nbsp;
+Tuber Jared :material-alpha-c-circle-outline:     | ![][423]<br>[Gastrodon]<br>Lv. 69 | &nbsp;                          | &nbsp;
+Tuber Chelsea :material-numeric-8-circle-outline: | ![][184]<br>[Azumarill]<br>Lv. 59 | &nbsp;                          | &nbsp;
+Tuber Chelsea :material-alpha-c-circle-outline:   | ![][184]<br>[Azumarill]<br>Lv. 69 | &nbsp;                          | &nbsp;
 
 [Persian]: ../../pokemon_changes/053/
 [Golduck]: ../../pokemon_changes/055/

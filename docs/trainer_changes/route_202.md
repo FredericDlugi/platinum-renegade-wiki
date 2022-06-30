@@ -18,11 +18,11 @@ Youngster Logan                          | ![][058]<br>[Growlithe]<br>Lv. 7 | ![
 
 ## Rematches
 
-Trainer               | 1                               | 2                                 | 3
----                   | ---                             | ---                               | ---
-Youngster Tristan (3) | ![][164]<br>[Noctowl]<br>Lv. 27 | ![][397]<br>[Staravia]<br>Lv. 27  | &nbsp;
-Youngster Tristan (5) | ![][164]<br>[Noctowl]<br>Lv. 39 | ![][398]<br>[Staraptor]<br>Lv. 39 | &nbsp;
-Youngster Tristan (8) | ![][164]<br>[Noctowl]<br>Lv. 59 | ![][398]<br>[Staraptor]<br>Lv. 59 | ![][018]<br>[Pidgeot]<br>Lv. 59
+Trainer                                               | 1                               | 2                                 | 3
+---                                                   | ---                             | ---                               | ---
+Youngster Tristan :material-numeric-3-circle-outline: | ![][164]<br>[Noctowl]<br>Lv. 27 | ![][397]<br>[Staravia]<br>Lv. 27  | &nbsp;
+Youngster Tristan :material-numeric-5-circle-outline: | ![][164]<br>[Noctowl]<br>Lv. 39 | ![][398]<br>[Staraptor]<br>Lv. 39 | &nbsp;
+Youngster Tristan :material-numeric-8-circle-outline: | ![][164]<br>[Noctowl]<br>Lv. 59 | ![][398]<br>[Staraptor]<br>Lv. 59 | ![][018]<br>[Pidgeot]<br>Lv. 59
 
 ## Master Trainer
 

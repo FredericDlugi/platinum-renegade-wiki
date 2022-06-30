@@ -24,20 +24,26 @@ Ace Trainer Jamie                          | ![][134]<br>[Vaporeon]<br>Lv. 67   
 
 ## PKMN Trainer Dawn
 
+!!! note
+    This Team changes depending on your Starter
+
 ![][dawn]                         | Item                              | Nature | Ability      | Moves
 ---                               | ---                               | ---    | ---          | ---
 ![][065]<br>[Alakazam]<br>Lv. 69  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | Psychic, Shadow Ball, Aura Sphere, Dazzling Gleam
 ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][choice-band]<br>Choice Band   | ?      | Thick Fat    | Earthquake, Icicle Crash, Stone Edge, Superpower
 ![][036]<br>[Clefable]<br>Lv. 69  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | Moonblast, Soft-Boiled, Calm Mind, Flamethrower
 ![][428]<br>[Lopunny]<br>Lv. 69   | ![][focus-sash]<br>Focus Sash     | ?      | Scrappy      | Mega Kick, High Jump Kick, Fake Out, Agility
-![][134]<br>[Vaporeon]<br>Lv. 69  | ![][wacan-berry]<br>Wacan Berry   | ?      | Water Absorb | Muddy Water, Ice Beam, Rest, Sleep Talk                 (!)
-![][135]<br>[Jolteon]<br>Lv. 69   | ![][shuca-berry]<br>Shuca Berry   | ?      | Volt Absorb  | Thunderbolt, Grass Knot, Shadow Ball, Thunder Wave      (!)
-![][136]<br>[Flareon]<br>Lv. 69   | ![][passho-berry]<br>Passho Berry | ?      | Flash Fire   | Flare Blitz, Play Rough, Close Combat, Wild Charge      (!)
-![][389]<br>[Torterra]<br>Lv. 70  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | Frenzy Plant, Earthquake, Stone Edge, Iron Head         (!)
-![][392]<br>[Infernape]<br>Lv. 70 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist    | Blast Burn, Close Combat, Stone Edge, Thunder Punch     (!)
-![][395]<br>[Empoleon]<br>Lv. 70  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent      | Hydro Cannon, Flash Cannon, Grass Knot, Ice Beam        (!)
+![][134]<br>[Vaporeon]<br>Lv. 69  | ![][wacan-berry]<br>Wacan Berry   | ?      | Water Absorb | Muddy Water, Ice Beam, Rest, Sleep Talk
+![][135]<br>[Jolteon]<br>Lv. 69   | ![][shuca-berry]<br>Shuca Berry   | ?      | Volt Absorb  | Thunderbolt, Grass Knot, Shadow Ball, Thunder Wave
+![][136]<br>[Flareon]<br>Lv. 69   | ![][passho-berry]<br>Passho Berry | ?      | Flash Fire   | Flare Blitz, Play Rough, Close Combat, Wild Charge
+![][389]<br>[Torterra]<br>Lv. 70  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | Frenzy Plant, Earthquake, Stone Edge, Iron Head
+![][392]<br>[Infernape]<br>Lv. 70 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist    | Blast Burn, Close Combat, Stone Edge, Thunder Punch
+![][395]<br>[Empoleon]<br>Lv. 70  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent      | Hydro Cannon, Flash Cannon, Grass Knot, Ice Beam
 
 ## PKMN Trainer Lucas
+
+!!! note
+    This Team changes depending on your Starter
 
 ![][lucas]                         | Item                              | Nature | Ability      | Moves
 ---                                | ---                               | ---    | ---          | ---
@@ -45,19 +51,19 @@ Ace Trainer Jamie                          | ![][134]<br>[Vaporeon]<br>Lv. 67   
 ![][473]<br>[Mamoswine]<br>Lv. 69  | ![][choice-band]<br>Choice Band   | ?      | Thick Fat    | Earthquake, Icicle Crash, Stone Edge, Superpower
 ![][210]<br>[Granbull]<br>Lv. 69   | ![][muscle-band]<br>Muscle Band   | ?      | Intimidate   | Play Rough, Close Combat, Crunch, Earthquake
 ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo    | Double-Edge, Earthquake, Hammer Arm, Swords Dance
-![][134]<br>[Vaporeon]<br>Lv. 69   | ![][wacan-berry]<br>Wacan Berry   | ?      | Water Absorb | Muddy Water, Ice Beam, Rest, Sleep Talk                 (!)
-![][135]<br>[Jolteon]<br>Lv. 69    | ![][shuca-berry]<br>Shuca Berry   | ?      | Volt Absorb  | Thunderbolt, Grass Knot, Shadow Ball, Thunder Wave      (!)
-![][136]<br>[Flareon]<br>Lv. 69    | ![][passho-berry]<br>Passho Berry | ?      | Flash Fire   | Flare Blitz, Play Rough, Close Combat, Wild Charge      (!)
-![][389]<br>[Torterra]<br>Lv. 70   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | Frenzy Plant, Earthquake, Stone Edge, Iron Head         (!)
-![][392]<br>[Infernape]<br>Lv. 70  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist    | Blast Burn, Close Combat, Stone Edge, Thunder Punch     (!)
-![][395]<br>[Empoleon]<br>Lv. 70   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent      | Hydro Cannon, Flash Cannon, Grass Knot, Ice Beam        (!)
+![][134]<br>[Vaporeon]<br>Lv. 69   | ![][wacan-berry]<br>Wacan Berry   | ?      | Water Absorb | Muddy Water, Ice Beam, Rest, Sleep Talk
+![][135]<br>[Jolteon]<br>Lv. 69    | ![][shuca-berry]<br>Shuca Berry   | ?      | Volt Absorb  | Thunderbolt, Grass Knot, Shadow Ball, Thunder Wave
+![][136]<br>[Flareon]<br>Lv. 69    | ![][passho-berry]<br>Passho Berry | ?      | Flash Fire   | Flare Blitz, Play Rough, Close Combat, Wild Charge
+![][389]<br>[Torterra]<br>Lv. 70   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | Frenzy Plant, Earthquake, Stone Edge, Iron Head
+![][392]<br>[Infernape]<br>Lv. 70  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist    | Blast Burn, Close Combat, Stone Edge, Thunder Punch
+![][395]<br>[Empoleon]<br>Lv. 70   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent      | Hydro Cannon, Flash Cannon, Grass Knot, Ice Beam
 
 ## Rematches
 
-Trainer                 | 1                               | 2                                 | 3                                  | 4
----                     | ---                             | ---                               | ---                                | ---
-Veteran Armando (S)     | ![][089]<br>[Muk]<br>Lv. 77     | ![][262]<br>[Mightyena]<br>Lv. 77 | ![][463]<br>[Lickilicky]<br>Lv. 77 | ![][279]<br>[Pelipper]<br>Lv. 77
-Dragon Tamer Hayden (S) | ![][334]<br>[Altaria]<br>Lv. 77 | ![][373]<br>[Salamence]<br>Lv. 77 | ![][230]<br>[Kingdra]<br>Lv. 77    | ![][149]<br>[Dragonite]<br>Lv. 77
+Trainer                                               | 1                               | 2                                 | 3                                  | 4
+---                                                   | ---                             | ---                               | ---                                | ---
+Veteran Armando :material-alpha-s-circle-outline:     | ![][089]<br>[Muk]<br>Lv. 77     | ![][262]<br>[Mightyena]<br>Lv. 77 | ![][463]<br>[Lickilicky]<br>Lv. 77 | ![][279]<br>[Pelipper]<br>Lv. 77
+Dragon Tamer Hayden :material-alpha-s-circle-outline: | ![][334]<br>[Altaria]<br>Lv. 77 | ![][373]<br>[Salamence]<br>Lv. 77 | ![][230]<br>[Kingdra]<br>Lv. 77    | ![][149]<br>[Dragonite]<br>Lv. 77
 
 --8<-- "includes/abilities.md"
 

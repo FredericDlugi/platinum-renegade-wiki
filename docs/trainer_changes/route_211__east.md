@@ -13,10 +13,10 @@ Ruin Maniac Harry (!) | ![][142]<br>[Aerodactyl]<br>Lv. 21
 
 ## Rematches
 
-Trainer               | 1
----                   | ---
-Ruin Maniac Harry (8) | ![][142]<br>[Aerodactyl]<br>Lv. 61
-Ruin Maniac Harry (C) | ![][142]<br>[Aerodactyl]<br>Lv. 72
+Trainer                                               | 1
+---                                                   | ---
+Ruin Maniac Harry :material-numeric-8-circle-outline: | ![][142]<br>[Aerodactyl]<br>Lv. 61
+Ruin Maniac Harry :material-alpha-c-circle-outline:   | ![][142]<br>[Aerodactyl]<br>Lv. 72
 
 [Aerodactyl]: ../../pokemon_changes/142/
 [Noctowl]: ../../pokemon_changes/164/

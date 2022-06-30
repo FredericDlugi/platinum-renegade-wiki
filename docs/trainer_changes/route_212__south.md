@@ -21,20 +21,20 @@ Pokémon Ranger Jeffrey                        | ![][126]<br>[Magmar]<br>Lv. 39 
 
 ## Rematches
 
-Trainer                    | 1                                 | 2                                 | 3
----                        | ---                               | ---                               | ---
-Scientist Shaun (5)        | ![][082]<br>[Magneton]<br>Lv. 38  | ![][101]<br>[Electrode]<br>Lv. 38 | ![][233]<br>[Porygon2]<br>Lv. 38
-Scientist Shaun (8)        | ![][082]<br>[Magneton]<br>Lv. 59  | ![][101]<br>[Electrode]<br>Lv. 59 | ![][233]<br>[Porygon2]<br>Lv. 59
-Scientist Shaun (C)        | ![][462]<br>[Magnezone]<br>Lv. 70 | ![][101]<br>[Electrode]<br>Lv. 70 | ![][474]<br>[Porygon-Z]<br>Lv. 70
-Pokémon Ranger Taylor (5)  | ![][455]<br>[Carnivine]<br>Lv. 40 | ![][352]<br>[Kecleon]<br>Lv. 40   | ![][125]<br>[Electabuzz]<br>Lv. 40
-Pokémon Ranger Taylor (8)  | ![][455]<br>[Carnivine]<br>Lv. 60 | ![][352]<br>[Kecleon]<br>Lv. 60   | ![][466]<br>[Electivire]<br>Lv. 60
-Pokémon Ranger Taylor (C)  | ![][455]<br>[Carnivine]<br>Lv. 71 | ![][352]<br>[Kecleon]<br>Lv. 71   | ![][466]<br>[Electivire]<br>Lv. 71
-Pokémon Ranger Allison (5) | ![][350]<br>[Milotic]<br>Lv. 40   | ![][470]<br>[Leafeon]<br>Lv. 40   | ![][124]<br>[Jynx]<br>Lv. 40
-Pokémon Ranger Allison (8) | ![][350]<br>[Milotic]<br>Lv. 60   | ![][470]<br>[Leafeon]<br>Lv. 60   | ![][124]<br>[Jynx]<br>Lv. 60
-Pokémon Ranger Allison (C) | ![][350]<br>[Milotic]<br>Lv. 71   | ![][470]<br>[Leafeon]<br>Lv. 71   | ![][124]<br>[Jynx]<br>Lv. 71
-Parasol Lady Alexa (5)     | ![][117]<br>[Seadra]<br>Lv. 39    | ![][055]<br>[Golduck]<br>Lv. 39   | &nbsp;
-Parasol Lady Alexa (8)     | ![][230]<br>[Kingdra]<br>Lv. 60   | ![][055]<br>[Golduck]<br>Lv. 60   | &nbsp;
-Parasol Lady Alexa (C)     | ![][230]<br>[Kingdra]<br>Lv. 71   | ![][055]<br>[Golduck]<br>Lv. 71   | &nbsp;
+Trainer                                                    | 1                                 | 2                                 | 3
+---                                                        | ---                               | ---                               | ---
+Scientist Shaun :material-numeric-5-circle-outline:        | ![][082]<br>[Magneton]<br>Lv. 38  | ![][101]<br>[Electrode]<br>Lv. 38 | ![][233]<br>[Porygon2]<br>Lv. 38
+Scientist Shaun :material-numeric-8-circle-outline:        | ![][082]<br>[Magneton]<br>Lv. 59  | ![][101]<br>[Electrode]<br>Lv. 59 | ![][233]<br>[Porygon2]<br>Lv. 59
+Scientist Shaun :material-alpha-c-circle-outline:          | ![][462]<br>[Magnezone]<br>Lv. 70 | ![][101]<br>[Electrode]<br>Lv. 70 | ![][474]<br>[Porygon-Z]<br>Lv. 70
+Pokémon Ranger Taylor :material-numeric-5-circle-outline:  | ![][455]<br>[Carnivine]<br>Lv. 40 | ![][352]<br>[Kecleon]<br>Lv. 40   | ![][125]<br>[Electabuzz]<br>Lv. 40
+Pokémon Ranger Taylor :material-numeric-8-circle-outline:  | ![][455]<br>[Carnivine]<br>Lv. 60 | ![][352]<br>[Kecleon]<br>Lv. 60   | ![][466]<br>[Electivire]<br>Lv. 60
+Pokémon Ranger Taylor :material-alpha-c-circle-outline:    | ![][455]<br>[Carnivine]<br>Lv. 71 | ![][352]<br>[Kecleon]<br>Lv. 71   | ![][466]<br>[Electivire]<br>Lv. 71
+Pokémon Ranger Allison :material-numeric-5-circle-outline: | ![][350]<br>[Milotic]<br>Lv. 40   | ![][470]<br>[Leafeon]<br>Lv. 40   | ![][124]<br>[Jynx]<br>Lv. 40
+Pokémon Ranger Allison :material-numeric-8-circle-outline: | ![][350]<br>[Milotic]<br>Lv. 60   | ![][470]<br>[Leafeon]<br>Lv. 60   | ![][124]<br>[Jynx]<br>Lv. 60
+Pokémon Ranger Allison :material-alpha-c-circle-outline:   | ![][350]<br>[Milotic]<br>Lv. 71   | ![][470]<br>[Leafeon]<br>Lv. 71   | ![][124]<br>[Jynx]<br>Lv. 71
+Parasol Lady Alexa :material-numeric-5-circle-outline:     | ![][117]<br>[Seadra]<br>Lv. 39    | ![][055]<br>[Golduck]<br>Lv. 39   | &nbsp;
+Parasol Lady Alexa :material-numeric-8-circle-outline:     | ![][230]<br>[Kingdra]<br>Lv. 60   | ![][055]<br>[Golduck]<br>Lv. 60   | &nbsp;
+Parasol Lady Alexa :material-alpha-c-circle-outline:       | ![][230]<br>[Kingdra]<br>Lv. 71   | ![][055]<br>[Golduck]<br>Lv. 71   | &nbsp;
 
 [Nidoking]: ../../pokemon_changes/034/
 [Golduck]: ../../pokemon_changes/055/

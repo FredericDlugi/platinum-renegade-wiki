@@ -32,14 +32,14 @@ Ace Trainer Quinn                            | ![][127]<br>[Pinsir]<br>Lv. 73   
 
 ## Rematches
 
-Trainer                   | 1                                  | 2                                | 3                                  | 4
----                       | ---                                | ---                              | ---                                | ---
-Ace Trainer Rodolfo (S)   | ![][121]<br>[Starmie]<br>Lv. 79    | ![][212]<br>[Scizor]<br>Lv. 79   | ![][254]<br>[Sceptile]<br>Lv. 79   | ![][038]<br>[Ninetales]<br>Lv. 79
-PKMN Ranger Ashlee (S)    | ![][264]<br>[Linoone]<br>Lv. 78    | ![][024]<br>[Arbok]<br>Lv. 78    | ![][012]<br>[Butterfree]<br>Lv. 78 | &nbsp;
-Bird Keeper Audrey (S)    | ![][083]<br>[Farfetch'd]<br>Lv. 78 | ![][277]<br>[Swellow]<br>Lv. 78  | ![][018]<br>[Pidgeot]<br>Lv. 78    | &nbsp;
-Psychic Daisy (S)         | ![][080]<br>[Slowbro]<br>Lv. 79    | ![][199]<br>[Slowking]<br>Lv. 79 | &nbsp;                             | &nbsp;
-Dragon Tamer Geoffrey (S) | ![][334]<br>[Altaria]<br>Lv. 79    | ![][445]<br>[Garchomp]<br>Lv. 79 | &nbsp;                             | &nbsp;
-Ace Trainer Deanna (S)    | ![][181]<br>[Ampharos]<br>Lv. 79   | ![][357]<br>[Tropius]<br>Lv. 79  | ![][131]<br>[Lapras]<br>Lv. 79     | ![][241]<br>[Miltank]<br>Lv. 79
+Trainer                                                 | 1                                  | 2                                | 3                                  | 4
+---                                                     | ---                                | ---                              | ---                                | ---
+Ace Trainer Rodolfo :material-alpha-s-circle-outline:   | ![][121]<br>[Starmie]<br>Lv. 79    | ![][212]<br>[Scizor]<br>Lv. 79   | ![][254]<br>[Sceptile]<br>Lv. 79   | ![][038]<br>[Ninetales]<br>Lv. 79
+PKMN Ranger Ashlee :material-alpha-s-circle-outline:    | ![][264]<br>[Linoone]<br>Lv. 78    | ![][024]<br>[Arbok]<br>Lv. 78    | ![][012]<br>[Butterfree]<br>Lv. 78 | &nbsp;
+Bird Keeper Audrey :material-alpha-s-circle-outline:    | ![][083]<br>[Farfetch'd]<br>Lv. 78 | ![][277]<br>[Swellow]<br>Lv. 78  | ![][018]<br>[Pidgeot]<br>Lv. 78    | &nbsp;
+Psychic Daisy :material-alpha-s-circle-outline:         | ![][080]<br>[Slowbro]<br>Lv. 79    | ![][199]<br>[Slowking]<br>Lv. 79 | &nbsp;                             | &nbsp;
+Dragon Tamer Geoffrey :material-alpha-s-circle-outline: | ![][334]<br>[Altaria]<br>Lv. 79    | ![][445]<br>[Garchomp]<br>Lv. 79 | &nbsp;                             | &nbsp;
+Ace Trainer Deanna :material-alpha-s-circle-outline:    | ![][181]<br>[Ampharos]<br>Lv. 79   | ![][357]<br>[Tropius]<br>Lv. 79  | ![][131]<br>[Lapras]<br>Lv. 79     | ![][241]<br>[Miltank]<br>Lv. 79
 
 
 --8<-- "includes/abilities.md"

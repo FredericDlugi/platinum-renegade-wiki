@@ -18,10 +18,10 @@ Waitress Kati                        | ![][036]<br>[Clefable]<br>Lv. 33  | &nbsp
 
 ## Rematches
 
-Trainer           | 1                                | 2                              | 3
----               | ---                              | ---                            | ---
-Rancher Marco (8) | ![][078]<br>[Rapidash]<br>Lv. 59 | ![][128]<br>[Tauros]<br>Lv. 59 | ![][241]<br>[Miltank]<br>Lv. 59
-Rancher Marco (C) | ![][078]<br>[Rapidash]<br>Lv. 70 | ![][128]<br>[Tauros]<br>Lv. 70 | ![][241]<br>[Miltank]<br>Lv. 70
+Trainer                                           | 1                                | 2                              | 3
+---                                               | ---                              | ---                            | ---
+Rancher Marco :material-numeric-8-circle-outline: | ![][078]<br>[Rapidash]<br>Lv. 59 | ![][128]<br>[Tauros]<br>Lv. 59 | ![][241]<br>[Miltank]<br>Lv. 59
+Rancher Marco :material-alpha-c-circle-outline:   | ![][078]<br>[Rapidash]<br>Lv. 70 | ![][128]<br>[Tauros]<br>Lv. 70 | ![][241]<br>[Miltank]<br>Lv. 70
 
 [Clefable]: ../../pokemon_changes/036/
 [Rapidash]: ../../pokemon_changes/078/

@@ -18,14 +18,14 @@ Ace Trainer Mikayla                     | ![][336]<br>[Seviper]<br>Lv. 76  | ![]
 !!! note
     This trainer needs to be beaten to advance into Stark Mountain
 
-![][ace_f_2]                       | Item                              | Nature | Ability      | Moves        | &nbsp;      | &nbsp;       | &nbsp;
----                                | ---                               | ---    | ---          | ---          | ---         | ---          | ---
-![][094]<br>[Gengar]<br>Lv. 76     | ![][wide-lens]<br>Wide Lens       | ?      | Levitate     | Sludge Bomb  | Shadow Ball | Focus Blast  | Thunder
-![][073]<br>[Tentacruel]<br>Lv. 76 | ![][black-sludge]<br>Black Sludge | ?      | Clear Body   | Sludge Bomb  | Muddy Water | Ice Beam     | Toxic Spikes
-![][031]<br>[Nidoqueen]<br>Lv. 76  | ![][life-orb]<br>Life Orb         | ?      | Poison Point | Poison Jab   | Earthquake  | Fire Blast   | Stone Edge
-![][169]<br>[Crobat]<br>Lv. 76     | ![][shell-bell]<br>Shell Bell     | ?      | Inner Focus  | Cross Poison | Brave Bird  | Hypnosis     | Leech Life
-![][454]<br>[Toxicroak]<br>Lv. 76  | ![][expert-belt]<br>Expert Belt   | ?      | Dry Skin     | Gunk Shot    | Drain Punch | Sucker Punch | Fake Out
-![][045]<br>[Vileplume]<br>Lv. 77  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Chlorophyll  | Sludge Bomb  | Petal Dance | Moonblast    | Sleep Powder
+![][ace_f_2]                       | Item                              | Nature | Ability      | Moves
+---                                | ---                               | ---    | ---          | ---
+![][094]<br>[Gengar]<br>Lv. 76     | ![][wide-lens]<br>Wide Lens       | ?      | Levitate     | Sludge Bomb,  Shadow Ball, Focus Blast,  Thunder
+![][073]<br>[Tentacruel]<br>Lv. 76 | ![][black-sludge]<br>Black Sludge | ?      | Clear Body   | Sludge Bomb,  Muddy Water, Ice Beam,     Toxic Spikes
+![][031]<br>[Nidoqueen]<br>Lv. 76  | ![][life-orb]<br>Life Orb         | ?      | Poison Point | Poison Jab,   Earthquake,  Fire Blast,   Stone Edge
+![][169]<br>[Crobat]<br>Lv. 76     | ![][shell-bell]<br>Shell Bell     | ?      | Inner Focus  | Cross Poison, Brave Bird,  Hypnosis,     Leech Life
+![][454]<br>[Toxicroak]<br>Lv. 76  | ![][expert-belt]<br>Expert Belt   | ?      | Dry Skin     | Gunk Shot,    Drain Punch, Sucker Punch, Fake Out
+![][045]<br>[Vileplume]<br>Lv. 77  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Chlorophyll  | Sludge Bomb,  Petal Dance, Moonblast,    Sleep Powder
 
 ## PKMN Trainer Buck
 
@@ -40,9 +40,9 @@ Ace Trainer Mikayla                     | ![][336]<br>[Seviper]<br>Lv. 76  | ![]
 
 ## Rematches
 
-Trainer              | 1
----                  | ---
-Ace Trainer Saul (S) | ![][128]<br>[Tauros]<br>Lv. 80
+Trainer                                            | 1
+---                                                | ---
+Ace Trainer Saul :material-alpha-s-circle-outline: | ![][128]<br>[Tauros]<br>Lv. 80
 
 --8<-- "includes/abilities.md"
 

@@ -28,20 +28,26 @@ Ninja Boy Nathan                            | ![][317]<br>[Swalot]<br>Lv. 39    
 
 ## PKMN Trainer Dawn
 
+!!! note
+    This Team changes depending on your Starter
+
 ![][dawn]                         | Item                              | Nature | Ability      | Moves
 ---                               | ---                               | ---    | ---          | ---
 ![][065]<br>[Alakazam]<br>Lv. 44  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | Psychic, Shadow Ball, Energy Ball, Dazzling Gleam
 ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][passho-berry]<br>Passho Berry | ?      | Thick Fat    | Earthquake, Avalanche, Stone Edge, Ice Shard
 ![][036]<br>[Clefable]<br>Lv. 44  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | Moonblast, Moonlight, Psychic, Thunder Wave
 ![][428]<br>[Lopunny]<br>Lv. 44   | ![][choice-band]<br>Choice Band   | ?      | Scrappy (!)  | Strength, Jump Kick, Fire Punch, Ice Punch
-![][134]<br>[Vaporeon]<br>Lv. 44  | ![][wise-glasses]<br>Wise Glasses | ?      | Water Absorb | Hydro Pump, Ice Beam, Extrasensory, Aqua Ring           (!)
-![][135]<br>[Jolteon]<br>Lv. 44   | ![][wise-glasses]<br>Wise Glasses | ?      | Volt Absorb  | Thunder, Shadow Ball, Extrasensory, Thunder Wave        (!)
-![][136]<br>[Flareon]<br>Lv. 44   | ![][muscle-band]<br>Muscle Band   | ?      | Flash Fire   | Flare Blitz, Play Rough, Close Combat, Will-O-Wisp      (!)
-![][389]<br>[Torterra]<br>Lv. 45  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | Wood Hammer, Earthquake, Iron Head, Rock Slide          (!)
-![][392]<br>[Infernape]<br>Lv. 45 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist    | Fire Blast, Close Combat, Thunder Punch, Rock Slide     (!)
-![][395]<br>[Empoleon]<br>Lv. 45  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent      | Surf, Flash Cannon, Grass Knot, Featherdance            (!)
+![][134]<br>[Vaporeon]<br>Lv. 44  | ![][wise-glasses]<br>Wise Glasses | ?      | Water Absorb | Hydro Pump, Ice Beam, Extrasensory, Aqua Ring
+![][135]<br>[Jolteon]<br>Lv. 44   | ![][wise-glasses]<br>Wise Glasses | ?      | Volt Absorb  | Thunder, Shadow Ball, Extrasensory, Thunder Wave
+![][136]<br>[Flareon]<br>Lv. 44   | ![][muscle-band]<br>Muscle Band   | ?      | Flash Fire   | Flare Blitz, Play Rough, Close Combat, Will-O-Wisp
+![][389]<br>[Torterra]<br>Lv. 45  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | Wood Hammer, Earthquake, Iron Head, Rock Slide
+![][392]<br>[Infernape]<br>Lv. 45 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist    | Fire Blast, Close Combat, Thunder Punch, Rock Slide
+![][395]<br>[Empoleon]<br>Lv. 45  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent      | Surf, Flash Cannon, Grass Knot, Featherdance
 
 ## PKMN Trainer Lucas
+
+!!! note
+    This Team changes depending on your Starter
 
 ![][lucas]                         | Item                              | Nature | Ability      | Moves
 ---                                | ---                               | ---    | ---          | ---
@@ -49,23 +55,23 @@ Ninja Boy Nathan                            | ![][317]<br>[Swalot]<br>Lv. 39    
 ![][473]<br>[Mamoswine]<br>Lv. 44  | ![][passho-berry]<br>Passho Berry | ?      | Thick Fat    | Earthquake, Avalanche, Stone Edge, Ice Shard
 ![][210]<br>[Granbull]<br>Lv. 44   | ![][choice-band]<br>Choice Band   | ?      | Intimidate   | Play Rough, Close Combat, Crunch, Earthquake
 ![][463]<br>[Lickilicky]<br>Lv. 44 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo    | Body Slam, Zen Headbutt, Earthquake, Amnesia
-![][134]<br>[Vaporeon]<br>Lv. 44   | ![][wise-glasses]<br>Wise Glasses | ?      | Water Absorb | Hydro Pump, Ice Beam, Extrasensory, Aqua Ring           (!)
-![][135]<br>[Jolteon]<br>Lv. 44    | ![][wise-glasses]<br>Wise Glasses | ?      | Volt Absorb  | Thunder, Shadow Ball, Extrasensory, Thunder Wave        (!)
-![][136]<br>[Flareon]<br>Lv. 44    | ![][muscle-band]<br>Muscle Band   | ?      | Flash Fire   | Flare Blitz, Play Rough, Close Combat, Will-O-Wisp      (!)
-![][389]<br>[Torterra]<br>Lv. 45   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | Wood Hammer, Earthquake, Iron Head, Rock Slide          (!)
-![][392]<br>[Infernape]<br>Lv. 45  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist    | Fire Blast, Close Combat, Thunder Punch, Rock Slide     (!)
-![][395]<br>[Empoleon]<br>Lv. 45   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent      | Surf, Flash Cannon, Grass Knot, Featherdance            (!)
+![][134]<br>[Vaporeon]<br>Lv. 44   | ![][wise-glasses]<br>Wise Glasses | ?      | Water Absorb | Hydro Pump, Ice Beam, Extrasensory, Aqua Ring
+![][135]<br>[Jolteon]<br>Lv. 44    | ![][wise-glasses]<br>Wise Glasses | ?      | Volt Absorb  | Thunder, Shadow Ball, Extrasensory, Thunder Wave
+![][136]<br>[Flareon]<br>Lv. 44    | ![][muscle-band]<br>Muscle Band   | ?      | Flash Fire   | Flare Blitz, Play Rough, Close Combat, Will-O-Wisp
+![][389]<br>[Torterra]<br>Lv. 45   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | Wood Hammer, Earthquake, Iron Head, Rock Slide
+![][392]<br>[Infernape]<br>Lv. 45  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist    | Fire Blast, Close Combat, Thunder Punch, Rock Slide
+![][395]<br>[Empoleon]<br>Lv. 45   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent      | Surf, Flash Cannon, Grass Knot, Featherdance
 
 ## Rematches
 
-Trainer                  | 1                                 | 2                                 | 3                                  | 4
----                      | ---                               | ---                               | ---                                | ---
-Bird Keeper Brianna (8)  | ![][085]<br>[Dodrio]<br>Lv. 60    | ![][018]<br>[Pidgeot]<br>Lv. 60   | ![][227]<br>[Skarmory]<br>Lv. 60   | &nbsp;
-Bird Keeper Brianna (C)  | ![][085]<br>[Dodrio]<br>Lv. 71    | ![][018]<br>[Pidgeot]<br>Lv. 71   | ![][227]<br>[Skarmory]<br>Lv. 71   | &nbsp;
-Veteran Brian (8)        | ![][465]<br>[Tangrowth]<br>Lv. 61 | ![][078]<br>[Rapidash]<br>Lv. 61  | ![][160]<br>[Feraligatr]<br>Lv. 61 | &nbsp;
-Veteran Brian (C)        | ![][465]<br>[Tangrowth]<br>Lv. 75 | ![][078]<br>[Rapidash]<br>Lv. 75  | ![][160]<br>[Feraligatr]<br>Lv. 75 | &nbsp;
-Dragon Tamer Patrick (8) | ![][444]<br>[Gabite]<br>Lv. 58    | ![][372]<br>[Shelgon]<br>Lv. 58   | ![][329]<br>[Vibrava]<br>Lv. 58    | ![][148]<br>[Dragonair]<br>Lv. 58
-Dragon Tamer Patrick (C) | ![][445]<br>[Garchomp]<br>Lv. 70  | ![][373]<br>[Salamence]<br>Lv. 70 | ![][330]<br>[Flygon]<br>Lv. 70     | ![][149]<br>[Dragonite]<br>Lv. 70
+Trainer                                                  | 1                                 | 2                                 | 3                                  | 4
+---                                                      | ---                               | ---                               | ---                                | ---
+Bird Keeper Brianna :material-numeric-8-circle-outline:  | ![][085]<br>[Dodrio]<br>Lv. 60    | ![][018]<br>[Pidgeot]<br>Lv. 60   | ![][227]<br>[Skarmory]<br>Lv. 60   | &nbsp;
+Bird Keeper Brianna :material-alpha-c-circle-outline:    | ![][085]<br>[Dodrio]<br>Lv. 71    | ![][018]<br>[Pidgeot]<br>Lv. 71   | ![][227]<br>[Skarmory]<br>Lv. 71   | &nbsp;
+Veteran Brian :material-numeric-8-circle-outline:        | ![][465]<br>[Tangrowth]<br>Lv. 61 | ![][078]<br>[Rapidash]<br>Lv. 61  | ![][160]<br>[Feraligatr]<br>Lv. 61 | &nbsp;
+Veteran Brian :material-alpha-c-circle-outline:          | ![][465]<br>[Tangrowth]<br>Lv. 75 | ![][078]<br>[Rapidash]<br>Lv. 75  | ![][160]<br>[Feraligatr]<br>Lv. 75 | &nbsp;
+Dragon Tamer Patrick :material-numeric-8-circle-outline: | ![][444]<br>[Gabite]<br>Lv. 58    | ![][372]<br>[Shelgon]<br>Lv. 58   | ![][329]<br>[Vibrava]<br>Lv. 58    | ![][148]<br>[Dragonair]<br>Lv. 58
+Dragon Tamer Patrick :material-alpha-c-circle-outline:   | ![][445]<br>[Garchomp]<br>Lv. 70  | ![][373]<br>[Salamence]<br>Lv. 70 | ![][330]<br>[Flygon]<br>Lv. 70     | ![][149]<br>[Dragonite]<br>Lv. 70
 
 --8<-- "includes/abilities.md"
 

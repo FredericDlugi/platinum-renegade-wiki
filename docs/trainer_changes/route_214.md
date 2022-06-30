@@ -18,14 +18,14 @@ Beauty Devon                            | ![][413]<br>[Wormadam]<br>Lv. 33   | !
 
 ## Rematches
 
-Trainer              | 1                                 | 2                                | 3
----                  | ---                               | ---                              | ---
-PI Carlos (8)        | ![][051]<br>[Dugtrio]<br>Lv. 62   | &nbsp;                           | &nbsp;
-PI Carlos (C)        | ![][051]<br>[Dugtrio]<br>Lv. 70   | ![][131]<br>[Lapras]<br>Lv. 70   | ![][099]<br>[Kingler]<br>Lv. 70
-Psychic Mitchell (8) | ![][065]<br>[Alakazam]<br>Lv. 60  | ![][326]<br>[Grumpig]<br>Lv. 60  | ![][097]<br>[Hypno]<br>Lv. 60
-Psychic Mitchell (C) | ![][065]<br>[Alakazam]<br>Lv. 72  | ![][326]<br>[Grumpig]<br>Lv. 72  | ![][097]<br>[Hypno]<br>Lv. 72
-Psychic Abigail (8)  | ![][282]<br>[Gardevoir]<br>Lv. 60 | ![][358]<br>[Chimecho]<br>Lv. 60 | ![][203]<br>[Girafarig]<br>Lv. 60
-Psychic Abigail (C)  | ![][282]<br>[Gardevoir]<br>Lv. 72 | ![][358]<br>[Chimecho]<br>Lv. 72 | ![][203]<br>[Girafarig]<br>Lv. 72
+Trainer                                              | 1                                 | 2                                | 3
+---                                                  | ---                               | ---                              | ---
+PI Carlos :material-numeric-8-circle-outline:        | ![][051]<br>[Dugtrio]<br>Lv. 62   | &nbsp;                           | &nbsp;
+PI Carlos :material-alpha-c-circle-outline:          | ![][051]<br>[Dugtrio]<br>Lv. 70   | ![][131]<br>[Lapras]<br>Lv. 70   | ![][099]<br>[Kingler]<br>Lv. 70
+Psychic Mitchell :material-numeric-8-circle-outline: | ![][065]<br>[Alakazam]<br>Lv. 60  | ![][326]<br>[Grumpig]<br>Lv. 60  | ![][097]<br>[Hypno]<br>Lv. 60
+Psychic Mitchell :material-alpha-c-circle-outline:   | ![][065]<br>[Alakazam]<br>Lv. 72  | ![][326]<br>[Grumpig]<br>Lv. 72  | ![][097]<br>[Hypno]<br>Lv. 72
+Psychic Abigail :material-numeric-8-circle-outline:  | ![][282]<br>[Gardevoir]<br>Lv. 60 | ![][358]<br>[Chimecho]<br>Lv. 60 | ![][203]<br>[Girafarig]<br>Lv. 60
+Psychic Abigail :material-alpha-c-circle-outline:    | ![][282]<br>[Gardevoir]<br>Lv. 72 | ![][358]<br>[Chimecho]<br>Lv. 72 | ![][203]<br>[Girafarig]<br>Lv. 72
 
 [Dugtrio]: ../../pokemon_changes/051/
 [Kadabra]: ../../pokemon_changes/064/

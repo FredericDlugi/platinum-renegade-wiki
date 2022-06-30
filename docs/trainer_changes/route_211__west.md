@@ -12,11 +12,11 @@ Bird Keeper Alexandra                 | ![][177]<br>[Natu]<br>Lv. 20    | ![][33
 
 ## Rematches
 
-Trainer            | 1                              | 2                               | 3
----                | ---                            | ---                             | ---
-Ninja Boy Zach (5) | ![][042]<br>[Golbat]<br>Lv. 38 | ![][451]<br>[Skorupi]<br>Lv. 38 | ![][042]<br>[Golbat]<br>Lv. 38
-Ninja Boy Zach (8) | ![][169]<br>[Crobat]<br>Lv. 59 | ![][452]<br>[Drapion]<br>Lv. 59 | ![][169]<br>[Crobat]<br>Lv. 59
-Ninja Boy Zach (C) | ![][169]<br>[Crobat]<br>Lv. 70 | ![][452]<br>[Drapion]<br>Lv. 70 | ![][169]<br>[Crobat]<br>Lv. 70
+Trainer                                            | 1                              | 2                               | 3
+---                                                | ---                            | ---                             | ---
+Ninja Boy Zach :material-numeric-5-circle-outline: | ![][042]<br>[Golbat]<br>Lv. 38 | ![][451]<br>[Skorupi]<br>Lv. 38 | ![][042]<br>[Golbat]<br>Lv. 38
+Ninja Boy Zach :material-numeric-8-circle-outline: | ![][169]<br>[Crobat]<br>Lv. 59 | ![][452]<br>[Drapion]<br>Lv. 59 | ![][169]<br>[Crobat]<br>Lv. 59
+Ninja Boy Zach :material-alpha-c-circle-outline:   | ![][169]<br>[Crobat]<br>Lv. 70 | ![][452]<br>[Drapion]<br>Lv. 70 | ![][169]<br>[Crobat]<br>Lv. 70
 
 [Zubat]: ../../pokemon_changes/041/
 [Golbat]: ../../pokemon_changes/042/

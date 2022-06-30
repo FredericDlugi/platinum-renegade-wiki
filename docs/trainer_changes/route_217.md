@@ -18,14 +18,14 @@ Black Belt Luke                           | ![][068]<br>[Machamp]<br>Lv. 51   | 
 
 ## Rematches
 
-Trainer                | 1                                 | 2                                 | 3
----                    | ---                               | ---                               | ---
-Ace Trainer Dalton (C) | ![][467]<br>[Magmortar]<br>Lv. 72 | ![][003]<br>[Venusaur]<br>Lv. 72  | ![][230]<br>[Kingdra]<br>Lv. 72
-Skier Madison (8)      | ![][124]<br>[Jynx]<br>Lv. 59      | ![][478]<br>[Froslass]<br>Lv. 59  | ![][124]<br>[Jynx]<br>Lv. 59
-Skier Madison (C)      | ![][124]<br>[Jynx]<br>Lv. 70      | ![][478]<br>[Froslass]<br>Lv. 70  | ![][124]<br>[Jynx]<br>Lv. 70
-Skier Bjorn (8)        | ![][221]<br>[Piloswine]<br>Lv. 59 | ![][221]<br>[Piloswine]<br>Lv. 59 | ![][473]<br>[Mamoswine]<br>Lv. 59
-Skier Bjorn (C)        | ![][473]<br>[Mamoswine]<br>Lv. 72 | ![][473]<br>[Mamoswine]<br>Lv. 72 | ![][473]<br>[Mamoswine]<br>Lv. 72
-Ace Trainer Olivia (C) | ![][275]<br>[Shiftry]<br>Lv. 72   | ![][334]<br>[Altaria]<br>Lv. 72   | ![][242]<br>[Blissey]<br>Lv. 72
+Trainer                                              | 1                                 | 2                                 | 3
+---                                                  | ---                               | ---                               | ---
+Ace Trainer Dalton :material-alpha-c-circle-outline: | ![][467]<br>[Magmortar]<br>Lv. 72 | ![][003]<br>[Venusaur]<br>Lv. 72  | ![][230]<br>[Kingdra]<br>Lv. 72
+Skier Madison :material-numeric-8-circle-outline:    | ![][124]<br>[Jynx]<br>Lv. 59      | ![][478]<br>[Froslass]<br>Lv. 59  | ![][124]<br>[Jynx]<br>Lv. 59
+Skier Madison :material-alpha-c-circle-outline:      | ![][124]<br>[Jynx]<br>Lv. 70      | ![][478]<br>[Froslass]<br>Lv. 70  | ![][124]<br>[Jynx]<br>Lv. 70
+Skier Bjorn :material-numeric-8-circle-outline:      | ![][221]<br>[Piloswine]<br>Lv. 59 | ![][221]<br>[Piloswine]<br>Lv. 59 | ![][473]<br>[Mamoswine]<br>Lv. 59
+Skier Bjorn :material-alpha-c-circle-outline:        | ![][473]<br>[Mamoswine]<br>Lv. 72 | ![][473]<br>[Mamoswine]<br>Lv. 72 | ![][473]<br>[Mamoswine]<br>Lv. 72
+Ace Trainer Olivia :material-alpha-c-circle-outline: | ![][275]<br>[Shiftry]<br>Lv. 72   | ![][334]<br>[Altaria]<br>Lv. 72   | ![][242]<br>[Blissey]<br>Lv. 72
 
 [Venusaur]: ../../pokemon_changes/003/
 [Machamp]: ../../pokemon_changes/068/

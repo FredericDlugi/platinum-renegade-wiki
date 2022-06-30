@@ -17,17 +17,17 @@ Battle Girl Kelsey                          | ![][066]<br>[Machop]<br>Lv. 16    
 
 ## Rematches
 
-Trainer                  | 1                                | 2                                 | 3
----                      | ---                              | ---                               | ---
-Aroma Lady Elizabeth (3) | ![][153]<br>[Bayleef]<br>Lv. 27  | ![][002]<br>[Ivysaur]<br>Lv. 27   | &nbsp;
-Aroma Lady Elizabeth (5) | ![][154]<br>[Meganium]<br>Lv. 39 | ![][003]<br>[Venusaur]<br>Lv. 39  | &nbsp;
-Aroma Lady Elizabeth (C) | ![][154]<br>[Meganium]<br>Lv. 71 | ![][003]<br>[Venusaur]<br>Lv. 71  | &nbsp;
-Camper Zackary (3)       | ![][190]<br>[Aipom]<br>Lv. 26    | ![][288]<br>[Vigoroth]<br>Lv. 26  | ![][277]<br>[Swellow]<br>Lv. 26
-Camper Zackary (5)       | ![][424]<br>[Ambipom]<br>Lv. 38  | ![][288]<br>[Vigoroth]<br>Lv. 38  | ![][277]<br>[Swellow]<br>Lv. 38
-Camper Zackary (C)       | ![][424]<br>[Ambipom]<br>Lv. 70  | ![][289]<br>[Slaking]<br>Lv. 70   | ![][277]<br>[Swellow]<br>Lv. 70
-Picnicker Karina (3)     | ![][394]<br>[Prinplup]<br>Lv. 27 | ![][391]<br>[Monferno]<br>Lv. 27  | &nbsp;
-Picnicker Karina (5)     | ![][395]<br>[Empoleon]<br>Lv. 39 | ![][392]<br>[Infernape]<br>Lv. 39 | &nbsp;
-Picnicker Karina (C)     | ![][395]<br>[Empoleon]<br>Lv. 71 | ![][392]<br>[Infernape]<br>Lv. 71 | &nbsp;
+Trainer                                                  | 1                                | 2                                 | 3
+---                                                      | ---                              | ---                               | ---
+Aroma Lady Elizabeth :material-numeric-3-circle-outline: | ![][153]<br>[Bayleef]<br>Lv. 27  | ![][002]<br>[Ivysaur]<br>Lv. 27   | &nbsp;
+Aroma Lady Elizabeth :material-numeric-5-circle-outline: | ![][154]<br>[Meganium]<br>Lv. 39 | ![][003]<br>[Venusaur]<br>Lv. 39  | &nbsp;
+Aroma Lady Elizabeth :material-alpha-c-circle-outline:   | ![][154]<br>[Meganium]<br>Lv. 71 | ![][003]<br>[Venusaur]<br>Lv. 71  | &nbsp;
+Camper Zackary :material-numeric-3-circle-outline:       | ![][190]<br>[Aipom]<br>Lv. 26    | ![][288]<br>[Vigoroth]<br>Lv. 26  | ![][277]<br>[Swellow]<br>Lv. 26
+Camper Zackary :material-numeric-5-circle-outline:       | ![][424]<br>[Ambipom]<br>Lv. 38  | ![][288]<br>[Vigoroth]<br>Lv. 38  | ![][277]<br>[Swellow]<br>Lv. 38
+Camper Zackary :material-alpha-c-circle-outline:         | ![][424]<br>[Ambipom]<br>Lv. 70  | ![][289]<br>[Slaking]<br>Lv. 70   | ![][277]<br>[Swellow]<br>Lv. 70
+Picnicker Karina :material-numeric-3-circle-outline:     | ![][394]<br>[Prinplup]<br>Lv. 27 | ![][391]<br>[Monferno]<br>Lv. 27  | &nbsp;
+Picnicker Karina :material-numeric-5-circle-outline:     | ![][395]<br>[Empoleon]<br>Lv. 39 | ![][392]<br>[Infernape]<br>Lv. 39 | &nbsp;
+Picnicker Karina :material-alpha-c-circle-outline:       | ![][395]<br>[Empoleon]<br>Lv. 71 | ![][392]<br>[Infernape]<br>Lv. 71 | &nbsp;
 
 [Bulbasaur]: ../../pokemon_changes/001/
 [Ivysaur]: ../../pokemon_changes/002/

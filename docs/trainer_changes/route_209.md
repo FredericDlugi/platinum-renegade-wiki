@@ -17,17 +17,17 @@ Young Couple Ty & Sue                        | ![][314]<br>[Illumise]<br>Lv. 31 
 
 ## Rematches
 
-Trainer                   | 1                                 | 2                                | 3                                 | 4                                  | 5                                  | 6
----                       | ---                               | ---                              | ---                               | ---                                | ---                                | ---
-PKMN Breeder Albert (5)   | ![][237]<br>[Hitmontop]<br>Lv. 37 | ![][358]<br>[Chimecho]<br>Lv. 37 | ![][185]<br>[Sudowoodo]<br>Lv. 37 | ![][126]<br>[Magmar]<br>Lv. 37     | ![][125]<br>[Electabuzz]<br>Lv. 37 | ![][122]<br>[Mr. Mime]<br>Lv. 37
-PKMN Breeder Albert (8)   | ![][237]<br>[Hitmontop]<br>Lv. 57 | ![][358]<br>[Chimecho]<br>Lv. 57 | ![][185]<br>[Sudowoodo]<br>Lv. 57 | ![][126]<br>[Magmar]<br>Lv. 57     | ![][125]<br>[Electabuzz]<br>Lv. 57 | ![][122]<br>[Mr. Mime]<br>Lv. 57
-PKMN Breeder Albert (C)   | ![][237]<br>[Hitmontop]<br>Lv. 68 | ![][358]<br>[Chimecho]<br>Lv. 68 | ![][185]<br>[Sudowoodo]<br>Lv. 68 | ![][126]<br>[Magmar]<br>Lv. 68     | ![][125]<br>[Electabuzz]<br>Lv. 68 | ![][122]<br>[Mr. Mime]<br>Lv. 68
-Poké Kid Danielle (5)     | ![][025]<br>[Pikachu]<br>Lv. 37   | ![][025]<br>[Pikachu]<br>Lv. 37  | ![][026]<br>[Raichu]<br>Lv. 38    | &nbsp;                             | &nbsp;                             | &nbsp;
-Poké Kid Danielle (8)     | ![][025]<br>[Pikachu]<br>Lv. 57   | ![][026]<br>[Raichu]<br>Lv. 58   | ![][026]<br>[Raichu]<br>Lv. 58    | &nbsp;                             | &nbsp;                             | &nbsp;
-Poké Kid Danielle (C)     | ![][026]<br>[Raichu]<br>Lv. 69    | ![][026]<br>[Raichu]<br>Lv. 69   | ![][026]<br>[Raichu]<br>Lv. 69    | &nbsp;                             | &nbsp;                             | &nbsp;
-PKMN Breeder Jennifer (5) | ![][183]<br>[Marill]<br>Lv. 37    | ![][176]<br>[Togetic]<br>Lv. 37  | ![][035]<br>[Clefairy]<br>Lv. 37  | ![][039]<br>[Jigglypuff]<br>Lv. 37 | ![][124]<br>[Jynx]<br>Lv. 37       | ![][315]<br>[Roselia]<br>Lv. 37
-PKMN Breeder Jennifer (8) | ![][184]<br>[Azumarill]<br>Lv. 57 | ![][468]<br>[Togekiss]<br>Lv. 57 | ![][036]<br>[Clefable]<br>Lv. 57  | ![][040]<br>[Wigglytuff]<br>Lv. 57 | ![][124]<br>[Jynx]<br>Lv. 57       | ![][407]<br>[Roserade]<br>Lv. 57
-PKMN Breeder Jennifer (C) | ![][184]<br>[Azumarill]<br>Lv. 68 | ![][468]<br>[Togekiss]<br>Lv. 68 | ![][036]<br>[Clefable]<br>Lv. 68  | ![][040]<br>[Wigglytuff]<br>Lv. 68 | ![][124]<br>[Jynx]<br>Lv. 68       | ![][407]<br>[Roserade]<br>Lv. 68
+Trainer                                                   | 1                                 | 2                                | 3                                 | 4                                  | 5                                  | 6
+---                                                       | ---                               | ---                              | ---                               | ---                                | ---                                | ---
+PKMN Breeder Albert :material-numeric-5-circle-outline:   | ![][237]<br>[Hitmontop]<br>Lv. 37 | ![][358]<br>[Chimecho]<br>Lv. 37 | ![][185]<br>[Sudowoodo]<br>Lv. 37 | ![][126]<br>[Magmar]<br>Lv. 37     | ![][125]<br>[Electabuzz]<br>Lv. 37 | ![][122]<br>[Mr. Mime]<br>Lv. 37
+PKMN Breeder Albert :material-numeric-8-circle-outline:   | ![][237]<br>[Hitmontop]<br>Lv. 57 | ![][358]<br>[Chimecho]<br>Lv. 57 | ![][185]<br>[Sudowoodo]<br>Lv. 57 | ![][126]<br>[Magmar]<br>Lv. 57     | ![][125]<br>[Electabuzz]<br>Lv. 57 | ![][122]<br>[Mr. Mime]<br>Lv. 57
+PKMN Breeder Albert :material-alpha-c-circle-outline:     | ![][237]<br>[Hitmontop]<br>Lv. 68 | ![][358]<br>[Chimecho]<br>Lv. 68 | ![][185]<br>[Sudowoodo]<br>Lv. 68 | ![][126]<br>[Magmar]<br>Lv. 68     | ![][125]<br>[Electabuzz]<br>Lv. 68 | ![][122]<br>[Mr. Mime]<br>Lv. 68
+Poké Kid Danielle :material-numeric-5-circle-outline:     | ![][025]<br>[Pikachu]<br>Lv. 37   | ![][025]<br>[Pikachu]<br>Lv. 37  | ![][026]<br>[Raichu]<br>Lv. 38    | &nbsp;                             | &nbsp;                             | &nbsp;
+Poké Kid Danielle :material-numeric-8-circle-outline:     | ![][025]<br>[Pikachu]<br>Lv. 57   | ![][026]<br>[Raichu]<br>Lv. 58   | ![][026]<br>[Raichu]<br>Lv. 58    | &nbsp;                             | &nbsp;                             | &nbsp;
+Poké Kid Danielle :material-alpha-c-circle-outline:       | ![][026]<br>[Raichu]<br>Lv. 69    | ![][026]<br>[Raichu]<br>Lv. 69   | ![][026]<br>[Raichu]<br>Lv. 69    | &nbsp;                             | &nbsp;                             | &nbsp;
+PKMN Breeder Jennifer :material-numeric-5-circle-outline: | ![][183]<br>[Marill]<br>Lv. 37    | ![][176]<br>[Togetic]<br>Lv. 37  | ![][035]<br>[Clefairy]<br>Lv. 37  | ![][039]<br>[Jigglypuff]<br>Lv. 37 | ![][124]<br>[Jynx]<br>Lv. 37       | ![][315]<br>[Roselia]<br>Lv. 37
+PKMN Breeder Jennifer :material-numeric-8-circle-outline: | ![][184]<br>[Azumarill]<br>Lv. 57 | ![][468]<br>[Togekiss]<br>Lv. 57 | ![][036]<br>[Clefable]<br>Lv. 57  | ![][040]<br>[Wigglytuff]<br>Lv. 57 | ![][124]<br>[Jynx]<br>Lv. 57       | ![][407]<br>[Roserade]<br>Lv. 57
+PKMN Breeder Jennifer :material-alpha-c-circle-outline:   | ![][184]<br>[Azumarill]<br>Lv. 68 | ![][468]<br>[Togekiss]<br>Lv. 68 | ![][036]<br>[Clefable]<br>Lv. 68  | ![][040]<br>[Wigglytuff]<br>Lv. 68 | ![][124]<br>[Jynx]<br>Lv. 68       | ![][407]<br>[Roserade]<br>Lv. 68
 
 [Fearow]: ../../pokemon_changes/022/
 [Pikachu]: ../../pokemon_changes/025/

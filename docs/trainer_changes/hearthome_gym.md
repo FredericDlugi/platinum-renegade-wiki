@@ -26,14 +26,17 @@ Ace Trainer Catherine              | ![][093]<br>[Haunter]<br>Lv. 29    | ![][47
 
 ## PKMN Trainer Barry
 
+!!! note
+    This Team changes depending on your Starter
+
 ![][barry]                        | Item                              | Nature | Ability   | Moves
 ---                               | ---                               | ---    | ---       | ---
 ![][397]<br>[Staravia]<br>Lv. 32  | ![][muscle-band]<br>Muscle Band   | ?      | Reckless  | Facade, Aerial Ace, Double Team, Endeavor
 ![][214]<br>[Heracross]<br>Lv. 32 | ![][coba-berry]<br>Coba Berry     | ?      | Guts      | Bug Bite, Brick Break, Aerial Ace, Knock Off
 ![][143]<br>[Snorlax]<br>Lv. 32   | ![][leftovers]<br>Leftovers       | ?      | Thick Fat | Body Slam, Yawn, Amnesia, Rock Slide
-![][388]<br>[Grotle]<br>Lv. 33    | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow  | Seed Bomb, Crunch, Leech Seed, Protect          (!)
-![][391]<br>[Monferno]<br>Lv. 33  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist | Flamethrower, Low Kick, Grass Knot, Fake Out    (!)
-![][394]<br>[Prinplup]<br>Lv. 33  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent   | Scald, Icy Wind, Grass Knot, Aerial Ace         (!)
+![][388]<br>[Grotle]<br>Lv. 33    | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow  | Seed Bomb, Crunch, Leech Seed, Protect
+![][391]<br>[Monferno]<br>Lv. 33  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist | Flamethrower, Low Kick, Grass Knot, Fake Out
+![][394]<br>[Prinplup]<br>Lv. 33  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent   | Scald, Icy Wind, Grass Knot, Aerial Ace
 
 --8<-- "includes/abilities.md"
 

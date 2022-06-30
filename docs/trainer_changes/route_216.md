@@ -23,13 +23,13 @@ Skier Kaitlyn                            | ![][131]<br>[Lapras]<br>Lv. 55    | &
 
 ## Rematches
 
-Trainer               | 1                                 | 2                               | 3
----                   | ---                               | ---                             | ---
-Skier Edward (8)      | ![][460]<br>[Abomasnow]<br>Lv. 59 | ![][362]<br>[Glalie]<br>Lv. 59  | ![][221]<br>[Piloswine]<br>Lv. 59
-Skier Edward (C)      | ![][460]<br>[Abomasnow]<br>Lv. 70 | ![][362]<br>[Glalie]<br>Lv. 70  | ![][473]<br>[Mamoswine]<br>Lv. 70
-Black Belt Philip (C) | ![][297]<br>[Hariyama]<br>Lv. 70  | ![][068]<br>[Machamp]<br>Lv. 70 | ![][062]<br>[Poliwrath]<br>Lv. 70
-Skier Andrea (8)      | ![][460]<br>[Abomasnow]<br>Lv. 61 | &nbsp;                          | &nbsp;
-Skier Andrea (C)      | ![][460]<br>[Abomasnow]<br>Lv. 72 | &nbsp;                          | &nbsp;
+Trainer                                             | 1                                 | 2                               | 3
+---                                                 | ---                               | ---                             | ---
+Skier Edward :material-numeric-8-circle-outline:    | ![][460]<br>[Abomasnow]<br>Lv. 59 | ![][362]<br>[Glalie]<br>Lv. 59  | ![][221]<br>[Piloswine]<br>Lv. 59
+Skier Edward :material-alpha-c-circle-outline:      | ![][460]<br>[Abomasnow]<br>Lv. 70 | ![][362]<br>[Glalie]<br>Lv. 70  | ![][473]<br>[Mamoswine]<br>Lv. 70
+Black Belt Philip :material-alpha-c-circle-outline: | ![][297]<br>[Hariyama]<br>Lv. 70  | ![][068]<br>[Machamp]<br>Lv. 70 | ![][062]<br>[Poliwrath]<br>Lv. 70
+Skier Andrea :material-numeric-8-circle-outline:    | ![][460]<br>[Abomasnow]<br>Lv. 61 | &nbsp;                          | &nbsp;
+Skier Andrea :material-alpha-c-circle-outline:      | ![][460]<br>[Abomasnow]<br>Lv. 72 | &nbsp;                          | &nbsp;
 
 [Poliwrath]: ../../pokemon_changes/062/
 [Machamp]: ../../pokemon_changes/068/

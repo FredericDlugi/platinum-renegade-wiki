@@ -32,12 +32,12 @@ Ace Trainer Meagan                       | ![][301]<br>[Delcatty]<br>Lv. 77  | !
 
 ## Rematches
 
-Trainer               | 1                                 | 2                                 | 3
----                   | ---                               | ---                               | ---
-Ace Trainer Moira (S) | ![][332]<br>[Cacturne]<br>Lv. 79  | ![][423]<br>[Gastrodon]<br>Lv. 79 | ![][344]<br>[Claydol]<br>Lv. 79
-PKMN Ranger Kyler (S) | ![][103]<br>[Exeggutor]<br>Lv. 78 | ![][335]<br>[Zangoose]<br>Lv. 78  | ![][395]<br>[Empoleon]<br>Lv. 78
-Psychic Corbin (S)    | ![][097]<br>[Hypno]<br>Lv. 78     | ![][475]<br>[Gallade]<br>Lv. 78   | ![][178]<br>[Xatu]<br>Lv. 78
-Black Belt Davon (S)  | ![][297]<br>[Hariyama]<br>Lv. 78  | ![][068]<br>[Machamp]<br>Lv. 78   | ![][057]<br>[Primeape]<br>Lv. 78
+Trainer                                             | 1                                 | 2                                 | 3
+---                                                 | ---                               | ---                               | ---
+Ace Trainer Moira :material-alpha-s-circle-outline: | ![][332]<br>[Cacturne]<br>Lv. 79  | ![][423]<br>[Gastrodon]<br>Lv. 79 | ![][344]<br>[Claydol]<br>Lv. 79
+PKMN Ranger Kyler :material-alpha-s-circle-outline: | ![][103]<br>[Exeggutor]<br>Lv. 78 | ![][335]<br>[Zangoose]<br>Lv. 78  | ![][395]<br>[Empoleon]<br>Lv. 78
+Psychic Corbin :material-alpha-s-circle-outline:    | ![][097]<br>[Hypno]<br>Lv. 78     | ![][475]<br>[Gallade]<br>Lv. 78   | ![][178]<br>[Xatu]<br>Lv. 78
+Black Belt Davon :material-alpha-s-circle-outline:  | ![][297]<br>[Hariyama]<br>Lv. 78  | ![][068]<br>[Machamp]<br>Lv. 78   | ![][057]<br>[Primeape]<br>Lv. 78
 
 --8<-- "includes/abilities.md"
 

@@ -11,17 +11,21 @@ Trainer              | 1                                 | 2                    
 [PKMN Trainer Barry] | ![][398]<br>[Staraptor]<br>Lv. 41 | ![][214]<br>[Heracross]<br>Lv. 41 | ![][143]<br>[Snorlax]<br>Lv. 41 | ![][286]<br>[Breloom]<br>Lv. 41   | ![][059]<br>[Arcanine]<br>Lv. 41 | ![][395]<br>[Empoleon]<br>Lv. 42
 
 ## PKMN Trainer Barry
+
+!!! note
+    This Team changes depending on your Starter
+
 ![][barry]                        | Item                              | Nature | Ability    | Moves
 ---                               | ---                               | ---    | ---        | ---
 ![][398]<br>[Staraptor]<br>Lv. 41 | ![][muscle-band]<br>Muscle Band   | ?      | Reckless   | Double-Edge, Close Combat, Aerial Ace, Roost
 ![][214]<br>[Heracross]<br>Lv. 41 | ![][coba-berry]<br>Coba Berry     | ?      | Guts       | Megahorn, Brick Break, Bullet Seed, Night Slash
 ![][143]<br>[Snorlax]<br>Lv. 41   | ![][leftovers]<br>Leftovers       | ?      | Thick Fat  | Body Slam, Crunch, Rest, Sleep Talk
-![][184]<br>[Azumarill]<br>Lv. 41 | ![][life-orb]<br>Life Orb         | ?      | Huge Power | Aqua Tail, Play Rough, Body Slam, Aqua Jet          (!)
-![][059]<br>[Arcanine]<br>Lv. 41  | ![][expert-belt]<br>Expert Belt   | ?      | Intimidate | Heat Wave, Thunder Fang, Outrage, Crunch            (!)
-![][286]<br>[Breloom]<br>Lv. 41   | ![][focus-sash]<br>Focus Sash     | ?      | Technician | Bullet Seed, Force Palm, Spore, Rock Tomb           (!)
-![][389]<br>[Torterra]<br>Lv. 42  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow   | Seed Bomb, Earthquake, Crunch, Iron Head            (!)
-![][392]<br>[Infernape]<br>Lv. 42 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist  | Flamethrower, Close Combat, Fake Out, Thunder Punch (!)
-![][395]<br>[Empoleon]<br>Lv. 42  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent    | Scald, Flash Cannon, Agility, Swagger               (!)
+![][184]<br>[Azumarill]<br>Lv. 41 | ![][life-orb]<br>Life Orb         | ?      | Huge Power | Aqua Tail, Play Rough, Body Slam, Aqua Jet
+![][059]<br>[Arcanine]<br>Lv. 41  | ![][expert-belt]<br>Expert Belt   | ?      | Intimidate | Heat Wave, Thunder Fang, Outrage, Crunch
+![][286]<br>[Breloom]<br>Lv. 41   | ![][focus-sash]<br>Focus Sash     | ?      | Technician | Bullet Seed, Force Palm, Spore, Rock Tomb
+![][389]<br>[Torterra]<br>Lv. 42  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow   | Seed Bomb, Earthquake, Crunch, Iron Head
+![][392]<br>[Infernape]<br>Lv. 42 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist  | Flamethrower, Close Combat, Fake Out, Thunder Punch
+![][395]<br>[Empoleon]<br>Lv. 42  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent    | Scald, Flash Cannon, Agility, Swagger
 
 ## Master Trainer
 

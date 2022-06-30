@@ -22,13 +22,13 @@ Swimmer Gabrielle                        | ![][055]<br>[Golduck]<br>Lv. 59    | 
 
 ## Rematches
 
-Trainer               | 1                                | 2                                 | 3                                 | 4
----                   | ---                              | ---                               | ---                               | ---
-Swimmer Wesley (S)    | ![][419]<br>[Floatzel]<br>Lv. 75 | ![][319]<br>[Sharpedo]<br>Lv. 75  | ![][211]<br>[Qwilfish]<br>Lv. 75  | &nbsp;
-Swimmer Francisco (S) | ![][272]<br>[Ludicolo]<br>Lv. 75 | ![][369]<br>[Relicanth]<br>Lv. 75 | ![][062]<br>[Poliwrath]<br>Lv. 75 | &nbsp;
-Swimmer Miranda (S)   | ![][091]<br>[Cloyster]<br>Lv. 75 | ![][457]<br>[Lumineon]<br>Lv. 75  | ![][121]<br>[Starmie]<br>Lv. 75   | &nbsp;
-Swimmer Crystal (S)   | ![][321]<br>[Wailord]<br>Lv. 75  | ![][119]<br>[Seaking]<br>Lv. 75   | ![][222]<br>[Corsola]<br>Lv. 75   | &nbsp;
-Sailor Zachariah (S)  | ![][099]<br>[Kingler]<br>Lv. 74  | ![][068]<br>[Machamp]<br>Lv. 74   | ![][423]<br>[Gastrodon]<br>Lv. 74 | ![][199]<br>[Slowking]<br>Lv. 74
+Trainer                                             | 1                                | 2                                 | 3                                 | 4
+---                                                 | ---                              | ---                               | ---                               | ---
+Swimmer Wesley :material-alpha-s-circle-outline:    | ![][419]<br>[Floatzel]<br>Lv. 75 | ![][319]<br>[Sharpedo]<br>Lv. 75  | ![][211]<br>[Qwilfish]<br>Lv. 75  | &nbsp;
+Swimmer Francisco :material-alpha-s-circle-outline: | ![][272]<br>[Ludicolo]<br>Lv. 75 | ![][369]<br>[Relicanth]<br>Lv. 75 | ![][062]<br>[Poliwrath]<br>Lv. 75 | &nbsp;
+Swimmer Miranda :material-alpha-s-circle-outline:   | ![][091]<br>[Cloyster]<br>Lv. 75 | ![][457]<br>[Lumineon]<br>Lv. 75  | ![][121]<br>[Starmie]<br>Lv. 75   | &nbsp;
+Swimmer Crystal :material-alpha-s-circle-outline:   | ![][321]<br>[Wailord]<br>Lv. 75  | ![][119]<br>[Seaking]<br>Lv. 75   | ![][222]<br>[Corsola]<br>Lv. 75   | &nbsp;
+Sailor Zachariah :material-alpha-s-circle-outline:  | ![][099]<br>[Kingler]<br>Lv. 74  | ![][068]<br>[Machamp]<br>Lv. 74   | ![][423]<br>[Gastrodon]<br>Lv. 74 | ![][199]<br>[Slowking]<br>Lv. 74
 
 [Blastoise]: ../../pokemon_changes/009/
 [Golduck]: ../../pokemon_changes/055/

@@ -30,10 +30,10 @@ Swimmer Mallory                       | ![][284]<br>[Masquerain]<br>Lv. 73 | ![]
 
 ## Rematches
 
-Trainer            | 1                                 | 2                                | 3
----                | ---                               | ---                              | ---
-Swimmer Glenn (S)  | ![][224]<br>[Octillery]<br>Lv. 76 | ![][186]<br>[Politoed]<br>Lv. 76 | &nbsp;
-Swimmer Joanna (S) | ![][370]<br>[Luvdisc]<br>Lv. 75   | ![][222]<br>[Corsola]<br>Lv. 75  | ![][134]<br>[Vaporeon]<br>Lv. 75
+Trainer                                          | 1                                 | 2                                | 3
+---                                              | ---                               | ---                              | ---
+Swimmer Glenn :material-alpha-s-circle-outline:  | ![][224]<br>[Octillery]<br>Lv. 76 | ![][186]<br>[Politoed]<br>Lv. 76 | &nbsp;
+Swimmer Joanna :material-alpha-s-circle-outline: | ![][370]<br>[Luvdisc]<br>Lv. 75   | ![][222]<br>[Corsola]<br>Lv. 75  | ![][134]<br>[Vaporeon]<br>Lv. 75
 
 --8<-- "includes/abilities.md"
 

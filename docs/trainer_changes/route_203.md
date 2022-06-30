@@ -17,14 +17,14 @@ Lass Kaitlin                            | ![][021]<br>[Spearow]<br>Lv. 9   | ![]
 
 ## Rematches
 
-Trainer              | 1                               | 2                                 | 3                               | 4
----                  | ---                             | ---                               | ---                             | ---
-Youngster Dallas (3) | ![][404]<br>[Luxio]<br>Lv. 27   | ![][028]<br>[Sandslash]<br>Lv. 27 | &nbsp;                          | &nbsp;
-Youngster Dallas (5) | ![][404]<br>[Luxio]<br>Lv. 38   | ![][028]<br>[Sandslash]<br>Lv. 38 | ![][400]<br>[Bibarel]<br>Lv. 38 | &nbsp;
-Youngster Dallas (C) | ![][405]<br>[Luxray]<br>Lv. 69  | ![][028]<br>[Sandslash]<br>Lv. 69 | ![][400]<br>[Bibarel]<br>Lv. 69 | ![][076]<br>[Golem]<br>Lv. 69
-Lass Madeline (3)    | ![][054]<br>[Psyduck]<br>Lv. 26 | ![][191]<br>[Sunkern]<br>Lv. 26   | ![][427]<br>[Buneary]<br>Lv. 26 | &nbsp;
-Lass Madeline (5)    | ![][055]<br>[Golduck]<br>Lv. 38 | ![][192]<br>[Sunflora]<br>Lv. 38  | ![][428]<br>[Lopunny]<br>Lv. 38 | &nbsp;
-Lass Madeline (8)    | ![][055]<br>[Golduck]<br>Lv. 59 | ![][192]<br>[Sunflora]<br>Lv. 59  | ![][428]<br>[Lopunny]<br>Lv. 59 | &nbsp;
+Trainer                                              | 1                               | 2                                 | 3                               | 4
+---                                                  | ---                             | ---                               | ---                             | ---
+Youngster Dallas :material-numeric-3-circle-outline: | ![][404]<br>[Luxio]<br>Lv. 27   | ![][028]<br>[Sandslash]<br>Lv. 27 | &nbsp;                          | &nbsp;
+Youngster Dallas :material-numeric-5-circle-outline: | ![][404]<br>[Luxio]<br>Lv. 38   | ![][028]<br>[Sandslash]<br>Lv. 38 | ![][400]<br>[Bibarel]<br>Lv. 38 | &nbsp;
+Youngster Dallas :material-alpha-c-circle-outline:   | ![][405]<br>[Luxray]<br>Lv. 69  | ![][028]<br>[Sandslash]<br>Lv. 69 | ![][400]<br>[Bibarel]<br>Lv. 69 | ![][076]<br>[Golem]<br>Lv. 69
+Lass Madeline :material-numeric-3-circle-outline:    | ![][054]<br>[Psyduck]<br>Lv. 26 | ![][191]<br>[Sunkern]<br>Lv. 26   | ![][427]<br>[Buneary]<br>Lv. 26 | &nbsp;
+Lass Madeline :material-numeric-5-circle-outline:    | ![][055]<br>[Golduck]<br>Lv. 38 | ![][192]<br>[Sunflora]<br>Lv. 38  | ![][428]<br>[Lopunny]<br>Lv. 38 | &nbsp;
+Lass Madeline :material-numeric-8-circle-outline:    | ![][055]<br>[Golduck]<br>Lv. 59 | ![][192]<br>[Sunflora]<br>Lv. 59  | ![][428]<br>[Lopunny]<br>Lv. 59 | &nbsp;
 
 [Rattata]: ../../pokemon_changes/019/
 [Spearow]: ../../pokemon_changes/021/

@@ -27,11 +27,11 @@ Hiker Alexander                       | ![][075]<br>[Graveler]<br>Lv. 28   | &nb
 
 ## Rematches
 
-Trainer            | 1                                | 2                                | 3
----                | ---                              | ---                              | ---
-Artist William (5) | ![][235]<br>[Smeargle]<br>Lv. 38 | ![][235]<br>[Smeargle]<br>Lv. 38 | ![][235]<br>[Smeargle]<br>Lv. 38
-Artist William (8) | ![][235]<br>[Smeargle]<br>Lv. 53 | ![][235]<br>[Smeargle]<br>Lv. 53 | ![][235]<br>[Smeargle]<br>Lv. 53
-Artist William (C) | ![][235]<br>[Smeargle]<br>Lv. 70 | ![][235]<br>[Smeargle]<br>Lv. 70 | ![][235]<br>[Smeargle]<br>Lv. 70
+Trainer                                            | 1                                | 2                                | 3
+---                                                | ---                              | ---                              | ---
+Artist William :material-numeric-5-circle-outline: | ![][235]<br>[Smeargle]<br>Lv. 38 | ![][235]<br>[Smeargle]<br>Lv. 38 | ![][235]<br>[Smeargle]<br>Lv. 38
+Artist William :material-numeric-8-circle-outline: | ![][235]<br>[Smeargle]<br>Lv. 53 | ![][235]<br>[Smeargle]<br>Lv. 53 | ![][235]<br>[Smeargle]<br>Lv. 53
+Artist William :material-alpha-c-circle-outline:   | ![][235]<br>[Smeargle]<br>Lv. 70 | ![][235]<br>[Smeargle]<br>Lv. 70 | ![][235]<br>[Smeargle]<br>Lv. 70
 
 
 --8<-- "includes/abilities.md"

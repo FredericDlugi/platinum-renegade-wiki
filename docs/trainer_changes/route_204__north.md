@@ -12,11 +12,11 @@ Twins Liv & Liz                            | ![][311]<br>[Plusle]<br>Lv. 15  | !
 
 ## Rematches
 
-Trainer                 | 1                              | 2                                  | 3
----                     | ---                            | ---                                | ---
-Bug Catcher Brandon (3) | ![][269]<br>[Dustox]<br>Lv. 27 | ![][402]<br>[Kricketune]<br>Lv. 27 | &nbsp;
-Bug Catcher Brandon (5) | ![][269]<br>[Dustox]<br>Lv. 38 | ![][402]<br>[Kricketune]<br>Lv. 38 | ![][123]<br>[Scyther]<br>Lv. 38
-Bug Catcher Brandon (C) | ![][269]<br>[Dustox]<br>Lv. 70 | ![][402]<br>[Kricketune]<br>Lv. 70 | ![][212]<br>[Scizor]<br>Lv. 70
+Trainer                                                 | 1                              | 2                                  | 3
+---                                                     | ---                            | ---                                | ---
+Bug Catcher Brandon :material-numeric-3-circle-outline: | ![][269]<br>[Dustox]<br>Lv. 27 | ![][402]<br>[Kricketune]<br>Lv. 27 | &nbsp;
+Bug Catcher Brandon :material-numeric-5-circle-outline: | ![][269]<br>[Dustox]<br>Lv. 38 | ![][402]<br>[Kricketune]<br>Lv. 38 | ![][123]<br>[Scyther]<br>Lv. 38
+Bug Catcher Brandon :material-alpha-c-circle-outline:   | ![][269]<br>[Dustox]<br>Lv. 70 | ![][402]<br>[Kricketune]<br>Lv. 70 | ![][212]<br>[Scizor]<br>Lv. 70
 
 [Scyther]: ../../pokemon_changes/123/
 [Hoppip]: ../../pokemon_changes/187/

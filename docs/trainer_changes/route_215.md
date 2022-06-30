@@ -17,14 +17,14 @@ Ruin Maniac Calvin                        | ![][105]<br>[Marowak]<br>Lv. 33   | 
 
 ## Rematches
 
-Trainer                | 1                                  | 2                                 | 3
----                    | ---                                | ---                               | ---
-Jogger Craig (8)       | ![][405]<br>[Luxray]<br>Lv. 60     | ![][405]<br>[Luxray]<br>Lv. 60    | &nbsp;
-Jogger Craig (C)       | ![][405]<br>[Luxray]<br>Lv. 72     | ![][405]<br>[Luxray]<br>Lv. 72    | &nbsp;
-Ace Trainer Dennis (7) | ![][472]<br>[Gliscor]<br>Lv. 62    | ![][130]<br>[Gyarados]<br>Lv. 62  | ![][426]<br>[Drifblim]<br>Lv. 62
-Ace Trainer Dennis (S) | ![][472]<br>[Gliscor]<br>Lv. 77    | ![][130]<br>[Gyarados]<br>Lv. 77  | ![][426]<br>[Drifblim]<br>Lv. 77
-Ace Trainer Maya (7)   | ![][463]<br>[Lickilicky]<br>Lv. 62 | ![][282]<br>[Gardevoir]<br>Lv. 62 | ![][407]<br>[Roserade]<br>Lv. 62
-Ace Trainer Maya (S)   | ![][463]<br>[Lickilicky]<br>Lv. 77 | ![][282]<br>[Gardevoir]<br>Lv. 77 | ![][407]<br>[Roserade]<br>Lv. 77
+Trainer                                                | 1                                  | 2                                 | 3
+---                                                    | ---                                | ---                               | ---
+Jogger Craig :material-numeric-8-circle-outline:       | ![][405]<br>[Luxray]<br>Lv. 60     | ![][405]<br>[Luxray]<br>Lv. 60    | &nbsp;
+Jogger Craig :material-alpha-c-circle-outline:         | ![][405]<br>[Luxray]<br>Lv. 72     | ![][405]<br>[Luxray]<br>Lv. 72    | &nbsp;
+Ace Trainer Dennis :material-numeric-7-circle-outline: | ![][472]<br>[Gliscor]<br>Lv. 62    | ![][130]<br>[Gyarados]<br>Lv. 62  | ![][426]<br>[Drifblim]<br>Lv. 62
+Ace Trainer Dennis :material-alpha-s-circle-outline:   | ![][472]<br>[Gliscor]<br>Lv. 77    | ![][130]<br>[Gyarados]<br>Lv. 77  | ![][426]<br>[Drifblim]<br>Lv. 77
+Ace Trainer Maya :material-numeric-7-circle-outline:   | ![][463]<br>[Lickilicky]<br>Lv. 62 | ![][282]<br>[Gardevoir]<br>Lv. 62 | ![][407]<br>[Roserade]<br>Lv. 62
+Ace Trainer Maya :material-alpha-s-circle-outline:     | ![][463]<br>[Lickilicky]<br>Lv. 77 | ![][282]<br>[Gardevoir]<br>Lv. 77 | ![][407]<br>[Roserade]<br>Lv. 77
 
 [Primeape]: ../../pokemon_changes/057/
 [Machoke]: ../../pokemon_changes/067/

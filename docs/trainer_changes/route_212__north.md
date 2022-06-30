@@ -52,16 +52,16 @@ Policeman Caleb                         | ![][210]<br>[Granbull]<br>Lv. 31 | &nb
 
 ## Rematches
 
-Trainer              | 1                                 | 2                               | 3
----                  | ---                               | ---                             | ---
-Lady Melissa (5)     | ![][044]<br>[Gloom]<br>Lv. 38     | ![][421]<br>[Cherrim]<br>Lv. 38 | ![][189]<br>[Jumpluff]<br>Lv. 38
-Lady Melissa (8)     | ![][182]<br>[Bellossom]<br>Lv. 59 | ![][421]<br>[Cherrim]<br>Lv. 59 | ![][189]<br>[Jumpluff]<br>Lv. 59
-Lady Melissa (C)     | ![][182]<br>[Bellossom]<br>Lv. 70 | ![][421]<br>[Cherrim]<br>Lv. 70 | ![][189]<br>[Jumpluff]<br>Lv. 70
-Gentleman Jeremy (5) | ![][441]<br>[Chatot]<br>Lv. 41    | &nbsp;                          | &nbsp;
-Gentleman Jeremy (8) | ![][441]<br>[Chatot]<br>Lv. 62    | &nbsp;                          | &nbsp;
-Gentleman Jeremy (C) | ![][441]<br>[Chatot]<br>Lv. 73    | &nbsp;                          | &nbsp;
-Socialite Reina (8)  | ![][301]<br>[Delcatty]<br>Lv. 62  | &nbsp;                          | &nbsp;
-Socialite Reina (C)  | ![][301]<br>[Delcatty]<br>Lv. 73  | &nbsp;                          | &nbsp;
+Trainer                                              | 1                                 | 2                               | 3
+---                                                  | ---                               | ---                             | ---
+Lady Melissa :material-numeric-5-circle-outline:     | ![][044]<br>[Gloom]<br>Lv. 38     | ![][421]<br>[Cherrim]<br>Lv. 38 | ![][189]<br>[Jumpluff]<br>Lv. 38
+Lady Melissa :material-numeric-8-circle-outline:     | ![][182]<br>[Bellossom]<br>Lv. 59 | ![][421]<br>[Cherrim]<br>Lv. 59 | ![][189]<br>[Jumpluff]<br>Lv. 59
+Lady Melissa :material-alpha-c-circle-outline:       | ![][182]<br>[Bellossom]<br>Lv. 70 | ![][421]<br>[Cherrim]<br>Lv. 70 | ![][189]<br>[Jumpluff]<br>Lv. 70
+Gentleman Jeremy :material-numeric-5-circle-outline: | ![][441]<br>[Chatot]<br>Lv. 41    | &nbsp;                          | &nbsp;
+Gentleman Jeremy :material-numeric-8-circle-outline: | ![][441]<br>[Chatot]<br>Lv. 62    | &nbsp;                          | &nbsp;
+Gentleman Jeremy :material-alpha-c-circle-outline:   | ![][441]<br>[Chatot]<br>Lv. 73    | &nbsp;                          | &nbsp;
+Socialite Reina :material-numeric-8-circle-outline:  | ![][301]<br>[Delcatty]<br>Lv. 62  | &nbsp;                          | &nbsp;
+Socialite Reina :material-alpha-c-circle-outline:    | ![][301]<br>[Delcatty]<br>Lv. 73  | &nbsp;                          | &nbsp;
 
 
 --8<-- "includes/abilities.md"
