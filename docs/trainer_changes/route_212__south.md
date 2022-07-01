@@ -14,7 +14,7 @@ Fisherman Juan                                | ![][090]<br>[Shellder]<br>Lv. 36
 Fisherman Josh                                | ![][223]<br>[Remoraid]<br>Lv. 36  | ![][118]<br>[Goldeen]<br>Lv. 36   | ![][224]<br>[Octillery]<br>Lv. 39
 Fisherman Travis                              | ![][339]<br>[Barboach]<br>Lv. 38  | ![][211]<br>[Qwilfish]<br>Lv. 38  | &nbsp;
 Collector Dean                                | ![][196]<br>[Espeon]<br>Lv. 37    | ![][197]<br>[Umbreon]<br>Lv. 37   | ![][471]<br>[Glaceon]<br>Lv. 37
-Policeman Danny                               | ![][058]<br>[Growlithe]<br>Lv. 37 | ![][067]<br>[Machoke]<br>Lv. 37   | ![][164]<br>[Noctowl]<br>Lv. 37
+:crescent_moon: Policeman Danny               | ![][058]<br>[Growlithe]<br>Lv. 37 | ![][067]<br>[Machoke]<br>Lv. 37   | ![][164]<br>[Noctowl]<br>Lv. 37
 Scientist Stefano                             | ![][110]<br>[Weezing]<br>Lv. 38   | ![][089]<br>[Muk]<br>Lv. 38       | &nbsp;
 :repeat: [Pokémon Ranger Allison](#rematches) | ![][350]<br>[Milotic]<br>Lv. 39   | ![][470]<br>[Leafeon]<br>Lv. 39   | ![][124]<br>[Jynx]<br>Lv. 39
 Pokémon Ranger Jeffrey                        | ![][126]<br>[Magmar]<br>Lv. 39    | ![][310]<br>[Manectric]<br>Lv. 39 | ![][034]<br>[Nidoking]<br>Lv. 39

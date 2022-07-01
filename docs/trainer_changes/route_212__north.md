@@ -29,10 +29,10 @@ Rich Boy Jason                          | ![][394]<br>[Prinplup]<br>Lv. 30 | ![]
 :repeat: [Lady Melissa](#rematches)     | ![][421]<br>[Cherrim]<br>Lv. 30  | ![][189]<br>[Jumpluff]<br>Lv. 30
 :repeat: [Gentleman Jeremy](#rematches) | ![][441]<br>[Chatot]<br>Lv. 31   | &nbsp;
 :repeat: [Socialite Reina](#rematches)  | ![][301]<br>[Delcatty]<br>Lv. 31 | &nbsp;
-Policeman Bobby                         | ![][164]<br>[Noctowl]<br>Lv. 31  | &nbsp;
-Policeman Alex                          | ![][068]<br>[Machamp]<br>Lv. 31  | &nbsp;
-Policeman Dylan                         | ![][059]<br>[Arcanine]<br>Lv. 31 | &nbsp;
-Policeman Caleb                         | ![][210]<br>[Granbull]<br>Lv. 31 | &nbsp;
+:crescent_moon: Policeman Bobby         | ![][164]<br>[Noctowl]<br>Lv. 31  | &nbsp;
+:crescent_moon: Policeman Alex          | ![][068]<br>[Machamp]<br>Lv. 31  | &nbsp;
+:crescent_moon: Policeman Dylan         | ![][059]<br>[Arcanine]<br>Lv. 31 | &nbsp;
+:crescent_moon: Policeman Caleb         | ![][210]<br>[Granbull]<br>Lv. 31 | &nbsp;
 
 ## Commander Saturn
 

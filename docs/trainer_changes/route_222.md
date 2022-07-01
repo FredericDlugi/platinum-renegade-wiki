@@ -8,7 +8,7 @@ Trainer                               | 1                                 | 2   
 ---                                   | ---                               | ---                               | ---                               | ---
 :repeat: [Rich Boy Trey](#rematches)  | ![][405]<br>[Luxray]<br>Lv. 57    | ![][254]<br>[Sceptile]<br>Lv. 57  | ![][264]<br>[Linoone]<br>Lv. 57   | &nbsp;
 Beauty Nicola                         | ![][428]<br>[Lopunny]<br>Lv. 57   | ![][136]<br>[Flareon]<br>Lv. 57   | ![][154]<br>[Meganium]<br>Lv. 57  | &nbsp;
-Policeman Thomas                      | ![][164]<br>[Noctowl]<br>Lv. 59   | &nbsp;                            | &nbsp;                            | &nbsp;
+:crescent_moon: Policeman Thomas      | ![][164]<br>[Noctowl]<br>Lv. 59   | &nbsp;                            | &nbsp;                            | &nbsp;
 :repeat: [Sailor Marc](#rematches)    | ![][171]<br>[Lanturn]<br>Lv. 57   | ![][068]<br>[Machamp]<br>Lv. 57   | ![][226]<br>[Mantine]<br>Lv. 57   | &nbsp;
 Tuber Conner                          | ![][223]<br>[Remoraid]<br>Lv. 57  | ![][223]<br>[Remoraid]<br>Lv. 57  | &nbsp;                            | &nbsp;
 Sailor Luther                         | ![][279]<br>[Pelipper]<br>Lv. 56  | ![][423]<br>[Gastrodon]<br>Lv. 56 | ![][062]<br>[Poliwrath]<br>Lv. 56 | ![][099]<br>[Kingler]<br>Lv. 56
