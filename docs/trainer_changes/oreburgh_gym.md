@@ -1,19 +1,21 @@
 # Oreburgh Gym
 
-Trainer                    | 1                                | 2                               | 3                               | 4                            | 5                                | 6
----                        | ---                              | ---                             | ---                             | ---                          | ---                              | ---
-Youngster Jonathon         | ![][111]<br>[Rhyhorn]<br>Lv. 13  | ![][138]<br>[Omanyte]<br>Lv. 13 | ![][140]<br>[Kabuto]<br>Lv. 13  | &nbsp;                       | &nbsp;                           | &nbsp;
-Youngster Darius           | ![][304]<br>[Aron]<br>Lv. 13     | ![][347]<br>[Anorith]<br>Lv. 13 | ![][345]<br>[Lileep]<br>Lv. 13  | &nbsp;                       | &nbsp;                           | &nbsp;
-Leader Roark<br>![][roark] | ![][299]<br>[Nosepass]<br>Lv. 15 | ![][438]<br>[Bonsly]<br>Lv. 15  | ![][074]<br>[Geodude]<br>Lv. 15 | ![][095]<br>[Onix]<br>Lv. 15 | ![][246]<br>[Larvitar]<br>Lv. 15 | ![][408]<br>[Cranidos]<br>Lv. 16
+Trainer                      | 1                                | 2                               | 3                               | 4                            | 5                                | 6
+---                          | ---                              | ---                             | ---                             | ---                          | ---                              | ---
+Youngster Jonathon           | ![][111]<br>[Rhyhorn]<br>Lv. 13  | ![][138]<br>[Omanyte]<br>Lv. 13 | ![][140]<br>[Kabuto]<br>Lv. 13  | &nbsp;                       | &nbsp;                           | &nbsp;
+Youngster Darius             | ![][304]<br>[Aron]<br>Lv. 13     | ![][347]<br>[Anorith]<br>Lv. 13 | ![][345]<br>[Lileep]<br>Lv. 13  | &nbsp;                       | &nbsp;                           | &nbsp;
+[Leader Roark]<br>![][roark] | ![][299]<br>[Nosepass]<br>Lv. 15 | ![][438]<br>[Bonsly]<br>Lv. 15  | ![][074]<br>[Geodude]<br>Lv. 15 | ![][095]<br>[Onix]<br>Lv. 15 | ![][246]<br>[Larvitar]<br>Lv. 15 | ![][408]<br>[Cranidos]<br>Lv. 16
 
-Leader Roark<br>![][roark]       | Item                              | Nature  | Ability       | Moves
----                              | ---                               | ---     | ---           | ---
-![][299]<br>[Nosepass]<br>Lv. 15 | ![][smooth-rock]<br>Smooth Rock   | Modest  | Sturdy        | Stealth Rock, Sandstorm, Thunder Wave, Shock Wave
-![][438]<br>[Bonsly]<br>Lv. 15   | ![][rindo-berry]<br>Rindo Berry   | Impish  | Rock Head     | Stealth Rock, Brick Break, Rollout, Defense Curl
-![][074]<br>[Geodude]<br>Lv. 15  | ![][expert-belt]<br>Expert Belt   | Adamant | Rock Head     | Bulldoze, Rock Tomb, Fire Punch, Thunder Punch
-![][095]<br>[Onix]<br>Lv. 15     | ![][muscle-band]<br>Muscle Band   | Jolly   | Rock Head     | Stealth Rock, Rock Tomb, Bulldoze, Sandstorm
-![][246]<br>[Larvitar]<br>Lv. 15 | ![][flame-orb]<br>Flame Orb       | Jolly   | Guts          | Rock Tomb, Bulldoze, Bite, Protect
-![][408]<br>[Cranidos]<br>Lv. 16 | ![][sitrus-berry]<br>Sitrus Berry | Hasty   | Rock Head (!) | Zen Headbutt, Rock Tomb, Thunder Punch, Scary Face
+## Leader Roark
+
+![][roark]                       | Item                              | Nature  | Ability        | Moves
+---                              | ---                               | ---     | ---            | ---
+![][299]<br>[Nosepass]<br>Lv. 15 | ![][smooth-rock]<br>Smooth Rock   | Modest  | Sturdy         | Stealth Rock, Sandstorm, Thunder Wave, Shock Wave
+![][438]<br>[Bonsly]<br>Lv. 15   | ![][rindo-berry]<br>Rindo Berry   | Impish  | Rock Head      | Stealth Rock, Brick Break, Rollout, Defense Curl
+![][074]<br>[Geodude]<br>Lv. 15  | ![][expert-belt]<br>Expert Belt   | Adamant | Rock Head      | Bulldoze, Rock Tomb, Fire Punch, Thunder Punch
+![][095]<br>[Onix]<br>Lv. 15     | ![][muscle-band]<br>Muscle Band   | Jolly   | Rock Head      | Stealth Rock, Rock Tomb, Bulldoze, Sandstorm
+![][246]<br>[Larvitar]<br>Lv. 15 | ![][flame-orb]<br>Flame Orb       | Jolly   | Guts           | Rock Tomb, Bulldoze, Bite, Protect
+![][408]<br>[Cranidos]<br>Lv. 16 | ![][sitrus-berry]<br>Sitrus Berry | Hasty   | Rock Head [^1] | Zen Headbutt, Rock Tomb, Thunder Punch, Scary Face
 
 --8<-- "includes/abilities.md"
 
@@ -21,6 +23,8 @@ Leader Roark<br>![][roark]       | Item                              | Nature  |
 
 --8<-- "includes/natures.md"
 
+[^1]: Only in Complete version
+[Leader Roark]: #leader-roark
 [Geodude]: ../../pokemon_changes/074/
 [Onix]: ../../pokemon_changes/095/
 [Rhyhorn]: ../../pokemon_changes/111/

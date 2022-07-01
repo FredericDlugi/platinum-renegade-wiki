@@ -4,32 +4,32 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_216/).
 
 
-Trainer             | 1                                | 2                                | 3
----                 | ---                              | ---                              | ---
-Ace Trainer Blake   | ![][137]<br>[Porygon]<br>Lv. 23  | ![][288]<br>[Vigoroth]<br>Lv. 23 | &nbsp;
-Ace Trainer Maria   | ![][195]<br>[Quagsire]<br>Lv. 22 | ![][156]<br>[Quilava]<br>Lv. 22  | ![][185]<br>[Sudowoodo]<br>Lv. 22
-Ace Trainer Laura   | ![][176]<br>[Togetic]<br>Lv. 23  | ![][277]<br>[Swellow]<br>Lv. 23  | &nbsp;
-Skier Edward (!)    | ![][459]<br>[Snover]<br>Lv. 20   | ![][361]<br>[Snorunt]<br>Lv. 20  | ![][220]<br>[Swinub]<br>Lv. 20
-Ace Trainer Garrett | ![][122]<br>[Mr. Mime]<br>Lv. 22 | ![][274]<br>[Nuzleaf]<br>Lv. 22  | ![][123]<br>[Scyther]<br>Lv. 22
+Trainer                             | 1                                | 2                                | 3
+---                                 | ---                              | ---                              | ---
+Ace Trainer Blake                   | ![][137]<br>[Porygon]<br>Lv. 23  | ![][288]<br>[Vigoroth]<br>Lv. 23 | &nbsp;
+Ace Trainer Maria                   | ![][195]<br>[Quagsire]<br>Lv. 22 | ![][156]<br>[Quilava]<br>Lv. 22  | ![][185]<br>[Sudowoodo]<br>Lv. 22
+Ace Trainer Laura                   | ![][176]<br>[Togetic]<br>Lv. 23  | ![][277]<br>[Swellow]<br>Lv. 23  | &nbsp;
+:repeat: [Skier Edward](#rematches) | ![][459]<br>[Snover]<br>Lv. 20   | ![][361]<br>[Snorunt]<br>Lv. 20  | ![][220]<br>[Swinub]<br>Lv. 20
+Ace Trainer Garrett                 | ![][122]<br>[Mr. Mime]<br>Lv. 22 | ![][274]<br>[Nuzleaf]<br>Lv. 22  | ![][123]<br>[Scyther]<br>Lv. 22
 
-#### With Rock Climb
+## With Rock Climb
 
-Trainer               | 1                                 | 2
----                   | ---                               | ---
-Black Belt Philip (!) | ![][297]<br>[Hariyama]<br>Lv. 56  | ![][068]<br>[Machamp]<br>Lv. 56
-Skier Bradley         | ![][221]<br>[Piloswine]<br>Lv. 54 | ![][362]<br>[Glalie]<br>Lv. 54
-Skier Kaitlyn         | ![][131]<br>[Lapras]<br>Lv. 55    | &nbsp;
-Skier Andrea (!)      | ![][460]<br>[Abomasnow]<br>Lv. 55 | &nbsp;
+Trainer                                  | 1                                 | 2
+---                                      | ---                               | ---
+:repeat: [Black Belt Philip](#rematches) | ![][297]<br>[Hariyama]<br>Lv. 56  | ![][068]<br>[Machamp]<br>Lv. 56
+Skier Bradley                            | ![][221]<br>[Piloswine]<br>Lv. 54 | ![][362]<br>[Glalie]<br>Lv. 54
+Skier Kaitlyn                            | ![][131]<br>[Lapras]<br>Lv. 55    | &nbsp;
+:repeat: [Skier Andrea](#rematches)      | ![][460]<br>[Abomasnow]<br>Lv. 55 | &nbsp;
 
-#### Rematches
+## Rematches
 
-Trainer               | 1                                 | 2                               | 3
----                   | ---                               | ---                             | ---
-Skier Edward (8)      | ![][460]<br>[Abomasnow]<br>Lv. 59 | ![][362]<br>[Glalie]<br>Lv. 59  | ![][221]<br>[Piloswine]<br>Lv. 59
-Skier Edward (C)      | ![][460]<br>[Abomasnow]<br>Lv. 70 | ![][362]<br>[Glalie]<br>Lv. 70  | ![][473]<br>[Mamoswine]<br>Lv. 70
-Black Belt Philip (C) | ![][297]<br>[Hariyama]<br>Lv. 70  | ![][068]<br>[Machamp]<br>Lv. 70 | ![][062]<br>[Poliwrath]<br>Lv. 70
-Skier Andrea (8)      | ![][460]<br>[Abomasnow]<br>Lv. 61 | &nbsp;                          | &nbsp;
-Skier Andrea (C)      | ![][460]<br>[Abomasnow]<br>Lv. 72 | &nbsp;                          | &nbsp;
+Trainer                                             | 1                                 | 2                               | 3
+---                                                 | ---                               | ---                             | ---
+Skier Edward :material-numeric-8-circle-outline:    | ![][460]<br>[Abomasnow]<br>Lv. 59 | ![][362]<br>[Glalie]<br>Lv. 59  | ![][221]<br>[Piloswine]<br>Lv. 59
+Skier Edward :material-alpha-c-circle-outline:      | ![][460]<br>[Abomasnow]<br>Lv. 70 | ![][362]<br>[Glalie]<br>Lv. 70  | ![][473]<br>[Mamoswine]<br>Lv. 70
+Black Belt Philip :material-alpha-c-circle-outline: | ![][297]<br>[Hariyama]<br>Lv. 70  | ![][068]<br>[Machamp]<br>Lv. 70 | ![][062]<br>[Poliwrath]<br>Lv. 70
+Skier Andrea :material-numeric-8-circle-outline:    | ![][460]<br>[Abomasnow]<br>Lv. 61 | &nbsp;                          | &nbsp;
+Skier Andrea :material-alpha-c-circle-outline:      | ![][460]<br>[Abomasnow]<br>Lv. 72 | &nbsp;                          | &nbsp;
 
 [Poliwrath]: ../../pokemon_changes/062/
 [Machamp]: ../../pokemon_changes/068/

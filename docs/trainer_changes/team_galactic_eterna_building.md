@@ -1,22 +1,24 @@
 # Team Galactic Eterna Building
 
-Trainer                           | 1                                | 2                               | 3                                 | 4
----                               | ---                              | ---                             | ---                               | ---
-Galactic Grunt                    | ![][166]<br>[Ledian]<br>Lv. 24   | ![][168]<br>[Ariados]<br>Lv. 24 | &nbsp;                            | &nbsp;
-Galactic Grunt                    | ![][023]<br>[Ekans]<br>Lv. 23    | ![][431]<br>[Glameow]<br>Lv. 23 | ![][029]<br>[Nidoran♀]<br>Lv. 23  | &nbsp;
-Galactic Grunt                    | ![][109]<br>[Koffing]<br>Lv. 23  | ![][434]<br>[Stunky]<br>Lv. 23  | ![][032]<br>[Nidoran♂]<br>Lv. 23  | &nbsp;
-Galactic Grunt                    | ![][453]<br>[Croagunk]<br>Lv. 24 | ![][042]<br>[Golbat]<br>Lv. 24  | &nbsp;                            | &nbsp;
-Galactic Grunt                    | ![][173]<br>[Cleffa]<br>Lv. 23   | &nbsp;                          | &nbsp;                            | &nbsp;
-Galactic Grunt                    | ![][228]<br>[Houndour]<br>Lv. 23 | ![][451]<br>[Skorupi]<br>Lv. 23 | ![][267]<br>[Beautifly]<br>Lv. 23 | &nbsp;
-Scientist Travon                  | ![][096]<br>[Drowzee]<br>Lv. 24  | ![][375]<br>[Metang]<br>Lv. 24  | ![][064]<br>[Kadabra]<br>Lv. 24   | &nbsp;
-Commander Jupiter<br>![][jupiter] | ![][042]<br>[Golbat]<br>Lv. 26   | ![][302]<br>[Sableye]<br>Lv. 26 | ![][114]<br>[Tangela]<br>Lv. 26   | ![][435]<br>[Skuntank]<br>Lv. 27
+Trainer                             | 1                                | 2                               | 3                                 | 4
+---                                 | ---                              | ---                             | ---                               | ---
+Galactic Grunt                      | ![][166]<br>[Ledian]<br>Lv. 24   | ![][168]<br>[Ariados]<br>Lv. 24 | &nbsp;                            | &nbsp;
+Galactic Grunt                      | ![][023]<br>[Ekans]<br>Lv. 23    | ![][431]<br>[Glameow]<br>Lv. 23 | ![][029]<br>[Nidoran♀]<br>Lv. 23  | &nbsp;
+Galactic Grunt                      | ![][109]<br>[Koffing]<br>Lv. 23  | ![][434]<br>[Stunky]<br>Lv. 23  | ![][032]<br>[Nidoran♂]<br>Lv. 23  | &nbsp;
+Galactic Grunt                      | ![][453]<br>[Croagunk]<br>Lv. 24 | ![][042]<br>[Golbat]<br>Lv. 24  | &nbsp;                            | &nbsp;
+Galactic Grunt                      | ![][173]<br>[Cleffa]<br>Lv. 23   | &nbsp;                          | &nbsp;                            | &nbsp;
+Galactic Grunt                      | ![][228]<br>[Houndour]<br>Lv. 23 | ![][451]<br>[Skorupi]<br>Lv. 23 | ![][267]<br>[Beautifly]<br>Lv. 23 | &nbsp;
+Scientist Travon                    | ![][096]<br>[Drowzee]<br>Lv. 24  | ![][375]<br>[Metang]<br>Lv. 24  | ![][064]<br>[Kadabra]<br>Lv. 24   | &nbsp;
+[Commander Jupiter]<br>![][jupiter] | ![][042]<br>[Golbat]<br>Lv. 26   | ![][302]<br>[Sableye]<br>Lv. 26 | ![][114]<br>[Tangela]<br>Lv. 26   | ![][435]<br>[Skuntank]<br>Lv. 27
 
-Commander Jupiter<br>![][jupiter] | Item                              | Nature  | Ability         | Moves
----                               | ---                               | ---     | ---             | ---
-![][042]<br>[Golbat]<br>Lv. 26    | None                              | Jolly   | Inner Focus     | Wing Attack, Giga Drain, Leech Life, Confuse Ray
-![][302]<br>[Sableye]<br>Lv. 26   | ![][sitrus-berry]<br>Sitrus Berry | Adamant | Magic Guard (!) | Fake Out, Shadow Claw, Knock Off, Shadow Sneak
-![][114]<br>[Tangela]<br>Lv. 26   | None                              | Modest  | Chlorophyll     | Giga Drain, Shock Wave, Leech Seed, Sleep Powder
-![][435]<br>[Skuntank]<br>Lv. 27  | ![][sitrus-berry]<br>Sitrus Berry | Adamant | Aftermath       | Poison Jab, Night Slash, Focus Energy, Torment
+## Commander Jupiter
+
+![][jupiter]                     | Item                              | Nature  | Ability          | Moves
+---                              | ---                               | ---     | ---              | ---
+![][042]<br>[Golbat]<br>Lv. 26   | None                              | Jolly   | Inner Focus      | Wing Attack, Giga Drain, Leech Life, Confuse Ray
+![][302]<br>[Sableye]<br>Lv. 26  | ![][sitrus-berry]<br>Sitrus Berry | Adamant | Magic Guard [^1] | Fake Out, Shadow Claw, Knock Off, Shadow Sneak
+![][114]<br>[Tangela]<br>Lv. 26  | None                              | Modest  | Chlorophyll      | Giga Drain, Shock Wave, Leech Seed, Sleep Powder
+![][435]<br>[Skuntank]<br>Lv. 27 | ![][sitrus-berry]<br>Sitrus Berry | Adamant | Aftermath        | Poison Jab, Night Slash, Focus Energy, Torment
 
 --8<-- "includes/abilities.md"
 
@@ -24,6 +26,8 @@ Commander Jupiter<br>![][jupiter] | Item                              | Nature  
 
 --8<-- "includes/natures.md"
 
+[^1]: Only in Complete version
+[Commander Jupiter]: #commander-jupiter
 [Ekans]: ../../pokemon_changes/023/
 [Nidoran♀]: ../../pokemon_changes/029/
 [Nidoran♂]: ../../pokemon_changes/032/

@@ -4,28 +4,28 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_206/).
 
 
-Trainer           | 1                                  | 2                                 | 3
----               | ---                                | ---                               | ---
-Cyclist Axel      | ![][172]<br>[Pichu]<br>Lv. 19      | ![][172]<br>[Pichu]<br>Lv. 19     | ![][025]<br>[Pikachu]<br>Lv. 19
-Cyclist Megan     | ![][017]<br>[Pidgeotto]<br>Lv. 21  | &nbsp;                            | &nbsp;
-Cyclist James     | ![][077]<br>[Ponyta]<br>Lv. 20     | ![][180]<br>[Flaaffy]<br>Lv. 20   | &nbsp;
-Cyclist Nicole    | ![][276]<br>[Taillow]<br>Lv. 19    | ![][084]<br>[Doduo]<br>Lv. 19     | ![][278]<br>[Wingull]<br>Lv. 19
-Cyclist John (!)  | ![][083]<br>[Farfetch'd]<br>Lv. 21 | &nbsp;                            | &nbsp;
-Cyclist Kayla (!) | ![][100]<br>[Voltorb]<br>Lv. 19    | ![][081]<br>[Magnemite]<br>Lv. 19 | ![][309]<br>[Electrike]<br>Lv. 19
-Cyclist Ryan      | ![][404]<br>[Luxio]<br>Lv. 21      | &nbsp;                            | &nbsp;
-Cyclist Rachel    | ![][135]<br>[Jolteon]<br>Lv. 21    | &nbsp;                            | &nbsp;
-Hiker Theodore    | ![][324]<br>[Torkoal]<br>Lv. 26    | &nbsp;                            | &nbsp;
+Trainer                              | 1                                  | 2                                 | 3
+---                                  | ---                                | ---                               | ---
+Cyclist Axel                         | ![][172]<br>[Pichu]<br>Lv. 19      | ![][172]<br>[Pichu]<br>Lv. 19     | ![][025]<br>[Pikachu]<br>Lv. 19
+Cyclist Megan                        | ![][017]<br>[Pidgeotto]<br>Lv. 21  | &nbsp;                            | &nbsp;
+Cyclist James                        | ![][077]<br>[Ponyta]<br>Lv. 20     | ![][180]<br>[Flaaffy]<br>Lv. 20   | &nbsp;
+Cyclist Nicole                       | ![][276]<br>[Taillow]<br>Lv. 19    | ![][084]<br>[Doduo]<br>Lv. 19     | ![][278]<br>[Wingull]<br>Lv. 19
+:repeat: [Cyclist John](#rematches)  | ![][083]<br>[Farfetch'd]<br>Lv. 21 | &nbsp;                            | &nbsp;
+:repeat: [Cyclist Kayla](#rematches) | ![][100]<br>[Voltorb]<br>Lv. 19    | ![][081]<br>[Magnemite]<br>Lv. 19 | ![][309]<br>[Electrike]<br>Lv. 19
+Cyclist Ryan                         | ![][404]<br>[Luxio]<br>Lv. 21      | &nbsp;                            | &nbsp;
+Cyclist Rachel                       | ![][135]<br>[Jolteon]<br>Lv. 21    | &nbsp;                            | &nbsp;
+Hiker Theodore                       | ![][324]<br>[Torkoal]<br>Lv. 26    | &nbsp;                            | &nbsp;
 
-#### Rematches
+## Rematches
 
-Trainer           | 1                                  | 2                                 | 3
----               | ---                                | ---                               | ---
-Cyclist John (5)  | ![][083]<br>[Farfetch'd]<br>Lv. 40 | &nbsp;                            | &nbsp;
-Cyclist John (8)  | ![][083]<br>[Farfetch'd]<br>Lv. 61 | &nbsp;                            | &nbsp;
-Cyclist John (C)  | ![][083]<br>[Farfetch'd]<br>Lv. 72 | &nbsp;                            | &nbsp;
-Cyclist Kayla (5) | ![][101]<br>[Electrode]<br>Lv. 38  | ![][082]<br>[Magneton]<br>Lv. 38  | ![][310]<br>[Manectric]<br>Lv. 38
-Cyclist Kayla (8) | ![][101]<br>[Electrode]<br>Lv. 59  | ![][082]<br>[Magneton]<br>Lv. 59  | ![][310]<br>[Manectric]<br>Lv. 59
-Cyclist Kayla (C) | ![][101]<br>[Electrode]<br>Lv. 70  | ![][462]<br>[Magnezone]<br>Lv. 70 | ![][310]<br>[Manectric]<br>Lv. 70
+Trainer                                           | 1                                  | 2                                 | 3
+---                                               | ---                                | ---                               | ---
+Cyclist John :material-numeric-5-circle-outline:  | ![][083]<br>[Farfetch'd]<br>Lv. 40 | &nbsp;                            | &nbsp;
+Cyclist John :material-numeric-8-circle-outline:  | ![][083]<br>[Farfetch'd]<br>Lv. 61 | &nbsp;                            | &nbsp;
+Cyclist John :material-alpha-c-circle-outline:    | ![][083]<br>[Farfetch'd]<br>Lv. 72 | &nbsp;                            | &nbsp;
+Cyclist Kayla :material-numeric-5-circle-outline: | ![][101]<br>[Electrode]<br>Lv. 38  | ![][082]<br>[Magneton]<br>Lv. 38  | ![][310]<br>[Manectric]<br>Lv. 38
+Cyclist Kayla :material-numeric-8-circle-outline: | ![][101]<br>[Electrode]<br>Lv. 59  | ![][082]<br>[Magneton]<br>Lv. 59  | ![][310]<br>[Manectric]<br>Lv. 59
+Cyclist Kayla :material-alpha-c-circle-outline:   | ![][101]<br>[Electrode]<br>Lv. 70  | ![][462]<br>[Magnezone]<br>Lv. 70 | ![][310]<br>[Manectric]<br>Lv. 70
 
 [Pidgeotto]: ../../pokemon_changes/017/
 [Pikachu]: ../../pokemon_changes/025/

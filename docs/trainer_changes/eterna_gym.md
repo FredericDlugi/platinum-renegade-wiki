@@ -1,13 +1,15 @@
 # Eterna Gym
 
-Trainer                          | 1                                  | 2                               | 3                                 | 4                                 | 5                               | 6
----                              | ---                                | ---                             | ---                               | ---                               | ---                             | ---
-Lass Caroline                    | ![][270]<br>[Lotad]<br>Lv. 22      | ![][331]<br>[Cacnea]<br>Lv. 22  | ![][102]<br>[Exeggcute]<br>Lv. 22 | ![][285]<br>[Shroomish]<br>Lv. 22 | &nbsp;                          | &nbsp;
-Aroma Lady Jenna                 | ![][070]<br>[Weepinbell]<br>Lv. 23 | ![][002]<br>[Ivysaur]<br>Lv. 23 | ![][044]<br>[Gloom]<br>Lv. 23     | &nbsp;                            | &nbsp;                          | &nbsp;
-Aroma Lady Angela                | ![][315]<br>[Roselia]<br>Lv. 23    | ![][153]<br>[Bayleef]<br>Lv. 23 | ![][188]<br>[Skiploom]<br>Lv. 23  | &nbsp;                            | &nbsp;                          | &nbsp;
-Leader Gardenia<br>![][gardenia] | ![][182]<br>[Bellossom]<br>Lv. 25  | ![][114]<br>[Tangela]<br>Lv. 25 | ![][421]<br>[Cherrim]<br>Lv. 25   | ![][388]<br>[Grotle]<br>Lv. 25    | ![][286]<br>[Breloom]<br>Lv. 25 | ![][407]<br>[Roserade]<br>Lv. 26
+Trainer                            | 1                                  | 2                               | 3                                 | 4                                 | 5                               | 6
+---                                | ---                                | ---                             | ---                               | ---                               | ---                             | ---
+Lass Caroline                      | ![][270]<br>[Lotad]<br>Lv. 22      | ![][331]<br>[Cacnea]<br>Lv. 22  | ![][102]<br>[Exeggcute]<br>Lv. 22 | ![][285]<br>[Shroomish]<br>Lv. 22 | &nbsp;                          | &nbsp;
+Aroma Lady Jenna                   | ![][070]<br>[Weepinbell]<br>Lv. 23 | ![][002]<br>[Ivysaur]<br>Lv. 23 | ![][044]<br>[Gloom]<br>Lv. 23     | &nbsp;                            | &nbsp;                          | &nbsp;
+Aroma Lady Angela                  | ![][315]<br>[Roselia]<br>Lv. 23    | ![][153]<br>[Bayleef]<br>Lv. 23 | ![][188]<br>[Skiploom]<br>Lv. 23  | &nbsp;                            | &nbsp;                          | &nbsp;
+[Leader Gardenia]<br>![][gardenia] | ![][182]<br>[Bellossom]<br>Lv. 25  | ![][114]<br>[Tangela]<br>Lv. 25 | ![][421]<br>[Cherrim]<br>Lv. 25   | ![][388]<br>[Grotle]<br>Lv. 25    | ![][286]<br>[Breloom]<br>Lv. 25 | ![][407]<br>[Roserade]<br>Lv. 26
 
-Leader Gardenia<br>![][gardenia]  | Item                              | Nature  | Ability     | Moves
+## Leader Gardenia
+
+![][gardenia]                     | Item                              | Nature  | Ability     | Moves
 ---                               | ---                               | ---     | ---         | ---
 ![][182]<br>[Bellossom]<br>Lv. 25 | ![][wide-lens]<br>Wide Lens       | Relaxed | Chlorophyll | Grass Knot, Teeter Dance, Dazzling Gleam, Stun Spore
 ![][114]<br>[Tangela]<br>Lv. 25   | ![][coba-berry]<br>Coba Berry     | Rash    | Chlorophyll | Grass Knot, Shock Wave, Ancient Power, Stun Spore
@@ -22,6 +24,7 @@ Leader Gardenia<br>![][gardenia]  | Item                              | Nature  
 
 --8<-- "includes/natures.md"
 
+[Leader Gardenia]: #leader-gardenia
 [Ivysaur]: ../../pokemon_changes/002/
 [Gloom]: ../../pokemon_changes/044/
 [Weepinbell]: ../../pokemon_changes/070/

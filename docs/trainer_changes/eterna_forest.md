@@ -4,24 +4,26 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/eterna_forest/).
 
 
-Trainer                            | 1                                 | 2                                 | 3                               | 4
----                                | ---                               | ---                               | ---                             | ---
-PKMN Trainer Cheryl<br>![][cheryl] | ![][425]<br>[Drifloon]<br>Lv. 19  | ![][296]<br>[Makuhita]<br>Lv. 19  | ![][320]<br>[Wailmer]<br>Lv. 19 | ![][113]<br>[Chansey]<br>Lv. 20
-Bug Catcher Jack                   | ![][283]<br>[Surskit]<br>Lv. 16   | ![][046]<br>[Paras]<br>Lv. 16     | ![][048]<br>[Venonat]<br>Lv. 16 | &nbsp;
-Lass Briana                        | ![][427]<br>[Buneary]<br>Lv. 17   | ![][183]<br>[Marill]<br>Lv. 17    | &nbsp;                          | &nbsp;
-Psychic Lindsey                    | ![][079]<br>[Slowpoke]<br>Lv. 17  | ![][102]<br>[Exeggcute]<br>Lv. 17 | ![][177]<br>[Natu]<br>Lv. 17    | &nbsp;
-Psychic Elijah                     | ![][325]<br>[Spoink]<br>Lv. 17    | ![][096]<br>[Drowzee]<br>Lv. 17   | ![][343]<br>[Baltoy]<br>Lv. 17  | &nbsp;
-Bug Catcher Philip                 | ![][415]<br>[Combee]<br>Lv. 17    | ![][015]<br>[Beedrill]<br>Lv. 19  | &nbsp;                          | &nbsp;
-Bug Catcher Donald                 | ![][290]<br>[Nincada]<br>Lv. 17   | ![][269]<br>[Dustox]<br>Lv. 19    | &nbsp;                          | &nbsp;
-Psychic Kody                       | ![][439]<br>[Mime Jr.]<br>Lv. 18  | ![][122]<br>[Mr. Mime]<br>Lv. 20  | &nbsp;                          | &nbsp;
-Psychic Rachael                    | ![][433]<br>[Chingling]<br>Lv. 18 | ![][358]<br>[Chimecho]<br>Lv. 20  | &nbsp;                          | &nbsp;
+Trainer                              | 1                                 | 2                                 | 3                               | 4
+---                                  | ---                               | ---                               | ---                             | ---
+[PKMN Trainer Cheryl]<br>![][cheryl] | ![][425]<br>[Drifloon]<br>Lv. 19  | ![][296]<br>[Makuhita]<br>Lv. 19  | ![][320]<br>[Wailmer]<br>Lv. 19 | ![][113]<br>[Chansey]<br>Lv. 20
+Bug Catcher Jack                     | ![][283]<br>[Surskit]<br>Lv. 16   | ![][046]<br>[Paras]<br>Lv. 16     | ![][048]<br>[Venonat]<br>Lv. 16 | &nbsp;
+Lass Briana                          | ![][427]<br>[Buneary]<br>Lv. 17   | ![][183]<br>[Marill]<br>Lv. 17    | &nbsp;                          | &nbsp;
+Psychic Lindsey                      | ![][079]<br>[Slowpoke]<br>Lv. 17  | ![][102]<br>[Exeggcute]<br>Lv. 17 | ![][177]<br>[Natu]<br>Lv. 17    | &nbsp;
+Psychic Elijah                       | ![][325]<br>[Spoink]<br>Lv. 17    | ![][096]<br>[Drowzee]<br>Lv. 17   | ![][343]<br>[Baltoy]<br>Lv. 17  | &nbsp;
+Bug Catcher Philip                   | ![][415]<br>[Combee]<br>Lv. 17    | ![][015]<br>[Beedrill]<br>Lv. 19  | &nbsp;                          | &nbsp;
+Bug Catcher Donald                   | ![][290]<br>[Nincada]<br>Lv. 17   | ![][269]<br>[Dustox]<br>Lv. 19    | &nbsp;                          | &nbsp;
+Psychic Kody                         | ![][439]<br>[Mime Jr.]<br>Lv. 18  | ![][122]<br>[Mr. Mime]<br>Lv. 20  | &nbsp;                          | &nbsp;
+Psychic Rachael                      | ![][433]<br>[Chingling]<br>Lv. 18 | ![][358]<br>[Chimecho]<br>Lv. 20  | &nbsp;                          | &nbsp;
 
-PKMN Trainer Cheryl<br>![][cheryl] | Item                              | Nature  | Ability      | Moves
----                                | ---                               | ---     | ---          | ---
-![][425]<br>[Drifloon]<br>Lv. 19   | ![][sitrus-berry]<br>Sitrus Berry | Modest  | Unburden     | Ominous Wind, Air Cutter, Shock Wave, Swift
-![][296]<br>[Makuhita]<br>Lv. 19   | None                              | Relaxed | Thick Fat    | Knock Off, Fake Out, Brick Break, Bullet Punch
-![][320]<br>[Wailmer]<br>Lv. 19    | None                              | Relaxed | Water Veil   | Water Pulse, Rock Tomb, Mist, Rollout
-![][113]<br>[Chansey]<br>Lv. 20    | ![][sitrus-berry]<br>Sitrus Berry | Quiet   | Serene Grace | Hyper Voice, Soft-Boiled, Ice Beam, Thunderbolt
+## PKMN Trainer Cheryl
+
+![][cheryl]                      | Item                              | Nature  | Ability      | Moves
+---                              | ---                               | ---     | ---          | ---
+![][425]<br>[Drifloon]<br>Lv. 19 | ![][sitrus-berry]<br>Sitrus Berry | Modest  | Unburden     | Ominous Wind, Air Cutter, Shock Wave, Swift
+![][296]<br>[Makuhita]<br>Lv. 19 | None                              | Relaxed | Thick Fat    | Knock Off, Fake Out, Brick Break, Bullet Punch
+![][320]<br>[Wailmer]<br>Lv. 19  | None                              | Relaxed | Water Veil   | Water Pulse, Rock Tomb, Mist, Rollout
+![][113]<br>[Chansey]<br>Lv. 20  | ![][sitrus-berry]<br>Sitrus Berry | Quiet   | Serene Grace | Hyper Voice, Soft-Boiled, Ice Beam, Thunderbolt
 
 --8<-- "includes/abilities.md"
 
@@ -29,6 +31,7 @@ PKMN Trainer Cheryl<br>![][cheryl] | Item                              | Nature 
 
 --8<-- "includes/natures.md"
 
+[PKMN Trainer Cheryl]: #pkmn-trainer-cheryl
 [Beedrill]: ../../pokemon_changes/015/
 [Paras]: ../../pokemon_changes/046/
 [Venonat]: ../../pokemon_changes/048/

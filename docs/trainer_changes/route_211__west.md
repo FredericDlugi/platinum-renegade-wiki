@@ -4,19 +4,19 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_211__west/).
 
 
-Trainer               | 1                               | 2                               | 3
----                   | ---                             | ---                             | ---
-Ninja Boy Zach (!)    | ![][041]<br>[Zubat]<br>Lv. 19   | ![][451]<br>[Skorupi]<br>Lv. 19 | ![][041]<br>[Zubat]<br>Lv. 19
-Hiker Louis           | ![][074]<br>[Geodude]<br>Lv. 19 | ![][218]<br>[Slugma]<br>Lv. 19  | ![][374]<br>[Beldum]<br>Lv. 19
-Bird Keeper Alexandra | ![][177]<br>[Natu]<br>Lv. 20    | ![][333]<br>[Swablu]<br>Lv. 20  | ![][397]<br>[Staravia]<br>Lv. 20
+Trainer                               | 1                               | 2                               | 3
+---                                   | ---                             | ---                             | ---
+:repeat: [Ninja Boy Zach](#rematches) | ![][041]<br>[Zubat]<br>Lv. 19   | ![][451]<br>[Skorupi]<br>Lv. 19 | ![][041]<br>[Zubat]<br>Lv. 19
+Hiker Louis                           | ![][074]<br>[Geodude]<br>Lv. 19 | ![][218]<br>[Slugma]<br>Lv. 19  | ![][374]<br>[Beldum]<br>Lv. 19
+Bird Keeper Alexandra                 | ![][177]<br>[Natu]<br>Lv. 20    | ![][333]<br>[Swablu]<br>Lv. 20  | ![][397]<br>[Staravia]<br>Lv. 20
 
-#### Rematches
+## Rematches
 
-Trainer            | 1                              | 2                               | 3
----                | ---                            | ---                             | ---
-Ninja Boy Zach (5) | ![][042]<br>[Golbat]<br>Lv. 38 | ![][451]<br>[Skorupi]<br>Lv. 38 | ![][042]<br>[Golbat]<br>Lv. 38
-Ninja Boy Zach (8) | ![][169]<br>[Crobat]<br>Lv. 59 | ![][452]<br>[Drapion]<br>Lv. 59 | ![][169]<br>[Crobat]<br>Lv. 59
-Ninja Boy Zach (C) | ![][169]<br>[Crobat]<br>Lv. 70 | ![][452]<br>[Drapion]<br>Lv. 70 | ![][169]<br>[Crobat]<br>Lv. 70
+Trainer                                            | 1                              | 2                               | 3
+---                                                | ---                            | ---                             | ---
+Ninja Boy Zach :material-numeric-5-circle-outline: | ![][042]<br>[Golbat]<br>Lv. 38 | ![][451]<br>[Skorupi]<br>Lv. 38 | ![][042]<br>[Golbat]<br>Lv. 38
+Ninja Boy Zach :material-numeric-8-circle-outline: | ![][169]<br>[Crobat]<br>Lv. 59 | ![][452]<br>[Drapion]<br>Lv. 59 | ![][169]<br>[Crobat]<br>Lv. 59
+Ninja Boy Zach :material-alpha-c-circle-outline:   | ![][169]<br>[Crobat]<br>Lv. 70 | ![][452]<br>[Drapion]<br>Lv. 70 | ![][169]<br>[Crobat]<br>Lv. 70
 
 [Zubat]: ../../pokemon_changes/041/
 [Golbat]: ../../pokemon_changes/042/

@@ -4,31 +4,31 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_223/).
 
 
-Trainer               | 1                                  | 2                                 | 3                                  | 4
----                   | ---                                | ---                               | ---                                | ---
-Swimmer Wesley (!)    | ![][419]<br>[Floatzel]<br>Lv. 59   | ![][319]<br>[Sharpedo]<br>Lv. 59  | ![][211]<br>[Qwilfish]<br>Lv. 59   | &nbsp;
-Swimmer Ricardo       | ![][073]<br>[Tentacruel]<br>Lv. 61 | &nbsp;                            | &nbsp;                             | &nbsp;
-Swimmer Francisco (!) | ![][272]<br>[Ludicolo]<br>Lv. 59   | ![][369]<br>[Relicanth]<br>Lv. 59 | ![][062]<br>[Poliwrath]<br>Lv. 59  | &nbsp;
-Swimmer Colton        | ![][279]<br>[Pelipper]<br>Lv. 59   | ![][224]<br>[Octillery]<br>Lv. 59 | ![][160]<br>[Feraligatr]<br>Lv. 59 | &nbsp;
-Swimmer Troy          | ![][130]<br>[Gyarados]<br>Lv. 61   | &nbsp;                            | &nbsp;                             | &nbsp;
-Swimmer Oscar         | ![][226]<br>[Mantine]<br>Lv. 59    | ![][009]<br>[Blastoise]<br>Lv. 59 | ![][340]<br>[Whiscash]<br>Lv. 59   | &nbsp;
-Swimmer Miranda (!)   | ![][091]<br>[Cloyster]<br>Lv. 60   | ![][457]<br>[Lumineon]<br>Lv. 60  | &nbsp;                             | &nbsp;
-Swimmer Aubree        | ![][400]<br>[Bibarel]<br>Lv. 60    | ![][195]<br>[Quagsire]<br>Lv. 60  | &nbsp;                             | &nbsp;
-Swimmer Paige         | ![][184]<br>[Azumarill]<br>Lv. 59  | ![][080]<br>[Slowbro]<br>Lv. 59   | ![][368]<br>[Gorebyss]<br>Lv. 59   | &nbsp;
-Swimmer Crystal (!)   | ![][321]<br>[Wailord]<br>Lv. 59    | ![][119]<br>[Seaking]<br>Lv. 59   | ![][222]<br>[Corsola]<br>Lv. 59    | &nbsp;
-Swimmer Cassandra     | ![][134]<br>[Vaporeon]<br>Lv. 61   | &nbsp;                            | &nbsp;                             | &nbsp;
-Swimmer Gabrielle     | ![][055]<br>[Golduck]<br>Lv. 59    | ![][131]<br>[Lapras]<br>Lv. 59    | ![][121]<br>[Starmie]<br>Lv. 59    | &nbsp;
-Sailor Zachariah (!)  | ![][099]<br>[Kingler]<br>Lv. 58    | ![][068]<br>[Machamp]<br>Lv. 58   | ![][423]<br>[Gastrodon]<br>Lv. 58  | ![][199]<br>[Slowking]<br>Lv. 58
+Trainer                                  | 1                                  | 2                                 | 3                                  | 4
+---                                      | ---                                | ---                               | ---                                | ---
+:repeat: [Swimmer Wesley](#rematches)    | ![][419]<br>[Floatzel]<br>Lv. 59   | ![][319]<br>[Sharpedo]<br>Lv. 59  | ![][211]<br>[Qwilfish]<br>Lv. 59   | &nbsp;
+Swimmer Ricardo                          | ![][073]<br>[Tentacruel]<br>Lv. 61 | &nbsp;                            | &nbsp;                             | &nbsp;
+:repeat: [Swimmer Francisco](#rematches) | ![][272]<br>[Ludicolo]<br>Lv. 59   | ![][369]<br>[Relicanth]<br>Lv. 59 | ![][062]<br>[Poliwrath]<br>Lv. 59  | &nbsp;
+Swimmer Colton                           | ![][279]<br>[Pelipper]<br>Lv. 59   | ![][224]<br>[Octillery]<br>Lv. 59 | ![][160]<br>[Feraligatr]<br>Lv. 59 | &nbsp;
+Swimmer Troy                             | ![][130]<br>[Gyarados]<br>Lv. 61   | &nbsp;                            | &nbsp;                             | &nbsp;
+Swimmer Oscar                            | ![][226]<br>[Mantine]<br>Lv. 59    | ![][009]<br>[Blastoise]<br>Lv. 59 | ![][340]<br>[Whiscash]<br>Lv. 59   | &nbsp;
+:repeat: [Swimmer Miranda](#rematches)   | ![][091]<br>[Cloyster]<br>Lv. 60   | ![][457]<br>[Lumineon]<br>Lv. 60  | &nbsp;                             | &nbsp;
+Swimmer Aubree                           | ![][400]<br>[Bibarel]<br>Lv. 60    | ![][195]<br>[Quagsire]<br>Lv. 60  | &nbsp;                             | &nbsp;
+Swimmer Paige                            | ![][184]<br>[Azumarill]<br>Lv. 59  | ![][080]<br>[Slowbro]<br>Lv. 59   | ![][368]<br>[Gorebyss]<br>Lv. 59   | &nbsp;
+:repeat: [Swimmer Crystal](#rematches)   | ![][321]<br>[Wailord]<br>Lv. 59    | ![][119]<br>[Seaking]<br>Lv. 59   | ![][222]<br>[Corsola]<br>Lv. 59    | &nbsp;
+Swimmer Cassandra                        | ![][134]<br>[Vaporeon]<br>Lv. 61   | &nbsp;                            | &nbsp;                             | &nbsp;
+Swimmer Gabrielle                        | ![][055]<br>[Golduck]<br>Lv. 59    | ![][131]<br>[Lapras]<br>Lv. 59    | ![][121]<br>[Starmie]<br>Lv. 59    | &nbsp;
+:repeat: [Sailor Zachariah](#rematches)  | ![][099]<br>[Kingler]<br>Lv. 58    | ![][068]<br>[Machamp]<br>Lv. 58   | ![][423]<br>[Gastrodon]<br>Lv. 58  | ![][199]<br>[Slowking]<br>Lv. 58
 
-#### Rematches
+## Rematches
 
-Trainer               | 1                                | 2                                 | 3                                 | 4
----                   | ---                              | ---                               | ---                               | ---
-Swimmer Wesley (S)    | ![][419]<br>[Floatzel]<br>Lv. 75 | ![][319]<br>[Sharpedo]<br>Lv. 75  | ![][211]<br>[Qwilfish]<br>Lv. 75  | &nbsp;
-Swimmer Francisco (S) | ![][272]<br>[Ludicolo]<br>Lv. 75 | ![][369]<br>[Relicanth]<br>Lv. 75 | ![][062]<br>[Poliwrath]<br>Lv. 75 | &nbsp;
-Swimmer Miranda (S)   | ![][091]<br>[Cloyster]<br>Lv. 75 | ![][457]<br>[Lumineon]<br>Lv. 75  | ![][121]<br>[Starmie]<br>Lv. 75   | &nbsp;
-Swimmer Crystal (S)   | ![][321]<br>[Wailord]<br>Lv. 75  | ![][119]<br>[Seaking]<br>Lv. 75   | ![][222]<br>[Corsola]<br>Lv. 75   | &nbsp;
-Sailor Zachariah (S)  | ![][099]<br>[Kingler]<br>Lv. 74  | ![][068]<br>[Machamp]<br>Lv. 74   | ![][423]<br>[Gastrodon]<br>Lv. 74 | ![][199]<br>[Slowking]<br>Lv. 74
+Trainer                                             | 1                                | 2                                 | 3                                 | 4
+---                                                 | ---                              | ---                               | ---                               | ---
+Swimmer Wesley :material-alpha-s-circle-outline:    | ![][419]<br>[Floatzel]<br>Lv. 75 | ![][319]<br>[Sharpedo]<br>Lv. 75  | ![][211]<br>[Qwilfish]<br>Lv. 75  | &nbsp;
+Swimmer Francisco :material-alpha-s-circle-outline: | ![][272]<br>[Ludicolo]<br>Lv. 75 | ![][369]<br>[Relicanth]<br>Lv. 75 | ![][062]<br>[Poliwrath]<br>Lv. 75 | &nbsp;
+Swimmer Miranda :material-alpha-s-circle-outline:   | ![][091]<br>[Cloyster]<br>Lv. 75 | ![][457]<br>[Lumineon]<br>Lv. 75  | ![][121]<br>[Starmie]<br>Lv. 75   | &nbsp;
+Swimmer Crystal :material-alpha-s-circle-outline:   | ![][321]<br>[Wailord]<br>Lv. 75  | ![][119]<br>[Seaking]<br>Lv. 75   | ![][222]<br>[Corsola]<br>Lv. 75   | &nbsp;
+Sailor Zachariah :material-alpha-s-circle-outline:  | ![][099]<br>[Kingler]<br>Lv. 74  | ![][068]<br>[Machamp]<br>Lv. 74   | ![][423]<br>[Gastrodon]<br>Lv. 74 | ![][199]<br>[Slowking]<br>Lv. 74
 
 [Blastoise]: ../../pokemon_changes/009/
 [Golduck]: ../../pokemon_changes/055/

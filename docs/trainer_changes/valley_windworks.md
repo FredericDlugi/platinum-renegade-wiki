@@ -4,14 +4,16 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/valley_windworks/).
 
 
-Trainer                     | 1                                 | 2                               | 3                                | 4
----                         | ---                               | ---                             | ---                              | ---
-Galactic Grunt              | ![][261]<br>[Poochyena]<br>Lv. 14 | ![][316]<br>[Gulpin]<br>Lv. 14  | ![][228]<br>[Houndour]<br>Lv. 14 | &nbsp;
-Galactic Grunt              | ![][088]<br>[Grimer]<br>Lv. 15    | ![][109]<br>[Koffing]<br>Lv. 15 | &nbsp;                           | &nbsp;
-Galactic Grunt              | ![][014]<br>[Kakuna]<br>Lv. 14    | ![][204]<br>[Pineco]<br>Lv. 14  | ![][011]<br>[Metapod]<br>Lv. 14  | &nbsp;
-Commander Mars<br>![][mars] | ![][041]<br>[Zubat]<br>Lv. 18     | ![][436]<br>[Bronzor]<br>Lv. 18 | ![][193]<br>[Yanma]<br>Lv. 18    | ![][432]<br>[Purugly]<br>Lv. 19
+Trainer                       | 1                                 | 2                               | 3                                | 4
+---                           | ---                               | ---                             | ---                              | ---
+Galactic Grunt                | ![][261]<br>[Poochyena]<br>Lv. 14 | ![][316]<br>[Gulpin]<br>Lv. 14  | ![][228]<br>[Houndour]<br>Lv. 14 | &nbsp;
+Galactic Grunt                | ![][088]<br>[Grimer]<br>Lv. 15    | ![][109]<br>[Koffing]<br>Lv. 15 | &nbsp;                           | &nbsp;
+Galactic Grunt                | ![][014]<br>[Kakuna]<br>Lv. 14    | ![][204]<br>[Pineco]<br>Lv. 14  | ![][011]<br>[Metapod]<br>Lv. 14  | &nbsp;
+[Commander Mars]<br>![][mars] | ![][041]<br>[Zubat]<br>Lv. 18     | ![][436]<br>[Bronzor]<br>Lv. 18 | ![][193]<br>[Yanma]<br>Lv. 18    | ![][432]<br>[Purugly]<br>Lv. 19
 
-Commander Mars<br>![][mars]     | Item                              | Nature | Ability     | Moves
+## Commander Mars
+
+![][mars]                       | Item                              | Nature | Ability     | Moves
 ---                             | ---                               | ---    | ---         | ---
 ![][041]<br>[Zubat]<br>Lv. 18   | None                              | Naive  | Inner Focus | Poison Fang, Wing Attack, Toxic, Confuse Ray
 ![][436]<br>[Bronzor]<br>Lv. 18 | ![][sitrus-berry]<br>Sitrus Berry | Brave  | Levitate    | Hypnosis, Extrasensory, Gyro Ball, Confuse Ray
@@ -24,6 +26,7 @@ Commander Mars<br>![][mars]     | Item                              | Nature | A
 
 --8<-- "includes/natures.md"
 
+[Commander Mars]: #commander-mars
 [Metapod]: ../../pokemon_changes/011/
 [Kakuna]: ../../pokemon_changes/014/
 [Zubat]: ../../pokemon_changes/041/

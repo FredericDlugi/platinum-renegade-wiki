@@ -10,9 +10,14 @@ PKMN Ranger Deshawn                | ![][327]<br>[Spinda]<br>Lv. 74    | ![][352
 Ace Trainer Felix                  | ![][477]<br>[Dusknoir]<br>Lv. 76  | ![][373]<br>[Salamence]<br>Lv. 76 | &nbsp;                             | &nbsp;                            | &nbsp;                            | &nbsp;
 Ace Trainer Dana                   | ![][262]<br>[Mightyena]<br>Lv. 75 | ![][282]<br>[Gardevoir]<br>Lv. 75 | ![][012]<br>[Butterfree]<br>Lv. 75 | &nbsp;                            | &nbsp;                            | &nbsp;
 Ace Trainer Sandra                 | ![][051]<br>[Dugtrio]<br>Lv. 74   | ![][026]<br>[Raichu]<br>Lv. 74    | ![][059]<br>[Arcanine]<br>Lv. 74   | ![][045]<br>[Vileplume]<br>Lv. 74 | &nbsp;                            | &nbsp;
-Ace Trainer Gene *<br>![][ace_m_2] | ![][234]<br>[Stantler]<br>Lv. 76  | ![][085]<br>[Dodrio]<br>Lv. 76    | ![][203]<br>[Girafarig]<br>Lv. 76  | ![][400]<br>[Bibarel]<br>Lv. 76   | ![][474]<br>[Porygon-Z]<br>Lv. 76 | ![][143]<br>[Snorlax]<br>Lv. 77
+[Ace Trainer Gene]<br>![][ace_m_2] | ![][234]<br>[Stantler]<br>Lv. 76  | ![][085]<br>[Dodrio]<br>Lv. 76    | ![][203]<br>[Girafarig]<br>Lv. 76  | ![][400]<br>[Bibarel]<br>Lv. 76   | ![][474]<br>[Porygon-Z]<br>Lv. 76 | ![][143]<br>[Snorlax]<br>Lv. 77
 
-Ace Trainer Gene<br>![][ace_m_2]  | Item                              | Nature | Ability      | Moves
+## Ace Trainer Gene
+
+!!! note
+    This trainer needs to be beaten to advance into Stark Mountain
+
+![][ace_m_2]                      | Item                              | Nature | Ability      | Moves
 ---                               | ---                               | ---    | ---          | ---
 ![][234]<br>[Stantler]<br>Lv. 76  | ![][choice-scarf]<br>Choice Scarf | ?      | Intimidate   | Double-Edge, Jump Kick, Megahorn, Zen Headbutt
 ![][085]<br>[Dodrio]<br>Lv. 76    | ![][muscle-band]<br>Muscle Band   | ?      | Tangled Feet | Double-Edge, Brave Bird, High Jump Kick, Drill Run
@@ -27,6 +32,7 @@ Ace Trainer Gene<br>![][ace_m_2]  | Item                              | Nature |
 
 --8<-- "includes/natures.md"
 
+[Ace Trainer Gene]: #ace-trainer-gene
 [Butterfree]: ../../pokemon_changes/012/
 [Raichu]: ../../pokemon_changes/026/
 [Vileplume]: ../../pokemon_changes/045/

@@ -1,24 +1,26 @@
 # Iron Island
 
-Trainer                          | 1                                  | 2                                 | 3                                 | 4                                 | 5                               | 6
----                              | ---                                | ---                               | ---                               | ---                               | ---                             | ---
-PKMN Trainer Riley<br>![][riley] | ![][359]<br>[Absol]<br>Lv. 49      | ![][217]<br>[Ursaring]<br>Lv. 49  | ![][376]<br>[Metagross]<br>Lv. 49 | ![][373]<br>[Salamence]<br>Lv. 49 | ![][289]<br>[Slaking]<br>Lv. 49 | ![][448]<br>[Lucario]<br>Lv. 50
-Camper Lawrence                  | ![][005]<br>[Charmeleon]<br>Lv. 46 | ![][424]<br>[Ambipom]<br>Lv. 46   | ![][419]<br>[Floatzel]<br>Lv. 46  | &nbsp;                            | &nbsp;                          | &nbsp;
-Picnicker Summer                 | ![][253]<br>[Grovyle]<br>Lv. 46    | ![][022]<br>[Fearow]<br>Lv. 46    | ![][026]<br>[Raichu]<br>Lv. 46    | &nbsp;                            | &nbsp;                          | &nbsp;
-Worker Noel                      | ![][232]<br>[Donphan]<br>Lv. 48    | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                          | &nbsp;
-Worker Braden                    | ![][323]<br>[Camerupt]<br>Lv. 48   | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                          | &nbsp;
-Hiker Damon                      | ![][247]<br>[Pupitar]<br>Lv. 46    | ![][476]<br>[Probopass]<br>Lv. 46 | ![][208]<br>[Steelix]<br>Lv. 46   | &nbsp;                            | &nbsp;                          | &nbsp;
-Hiker Maurice                    | ![][112]<br>[Rhydon]<br>Lv. 47     | ![][076]<br>[Golem]<br>Lv. 47     | &nbsp;                            | &nbsp;                            | &nbsp;                          | &nbsp;
-Black Belt Kendal                | ![][062]<br>[Poliwrath]<br>Lv. 48  | ![][297]<br>[Hariyama]<br>Lv. 48  | &nbsp;                            | &nbsp;                            | &nbsp;                          | &nbsp;
-Battle Girl Tyler                | ![][237]<br>[Hitmontop]<br>Lv. 48  | ![][057]<br>[Primeape]<br>Lv. 48  | &nbsp;                            | &nbsp;                            | &nbsp;                          | &nbsp;
-Worker Brendon                   | ![][082]<br>[Magneton]<br>Lv. 47   | ![][067]<br>[Machoke]<br>Lv. 47   | &nbsp;                            | &nbsp;                            | &nbsp;                          | &nbsp;
-Worker Quentin                   | ![][305]<br>[Lairon]<br>Lv. 47     | ![][075]<br>[Graveler]<br>Lv. 47  | &nbsp;                            | &nbsp;                            | &nbsp;                          | &nbsp;
-Ace Trainer Jonah                | ![][284]<br>[Masquerain]<br>Lv. 48 | ![][346]<br>[Cradily]<br>Lv. 48   | ![][450]<br>[Hippowdon]<br>Lv. 48 | &nbsp;                            | &nbsp;                          | &nbsp;
-Ace Trainer Brenda               | ![][282]<br>[Gardevoir]<br>Lv. 48  | ![][428]<br>[Lopunny]<br>Lv. 48   | ![][308]<br>[Medicham]<br>Lv. 48  | &nbsp;                            | &nbsp;                          | &nbsp;
-Galactic Grunt                   | ![][042]<br>[Golbat]<br>Lv. 46     | ![][229]<br>[Houndoom]<br>Lv. 46  | ![][089]<br>[Muk]<br>Lv. 46       | &nbsp;                            | &nbsp;                          | &nbsp;
-Galactic Grunt                   | ![][432]<br>[Purugly]<br>Lv. 46    | ![][454]<br>[Toxicroak]<br>Lv. 46 | ![][435]<br>[Skuntank]<br>Lv. 46  | &nbsp;                            | &nbsp;                          | &nbsp;
+Trainer                            | 1                                  | 2                                 | 3                                 | 4                                 | 5                               | 6
+---                                | ---                                | ---                               | ---                               | ---                               | ---                             | ---
+[PKMN Trainer Riley]<br>![][riley] | ![][359]<br>[Absol]<br>Lv. 49      | ![][217]<br>[Ursaring]<br>Lv. 49  | ![][376]<br>[Metagross]<br>Lv. 49 | ![][373]<br>[Salamence]<br>Lv. 49 | ![][289]<br>[Slaking]<br>Lv. 49 | ![][448]<br>[Lucario]<br>Lv. 50
+Camper Lawrence                    | ![][005]<br>[Charmeleon]<br>Lv. 46 | ![][424]<br>[Ambipom]<br>Lv. 46   | ![][419]<br>[Floatzel]<br>Lv. 46  | &nbsp;                            | &nbsp;                          | &nbsp;
+Picnicker Summer                   | ![][253]<br>[Grovyle]<br>Lv. 46    | ![][022]<br>[Fearow]<br>Lv. 46    | ![][026]<br>[Raichu]<br>Lv. 46    | &nbsp;                            | &nbsp;                          | &nbsp;
+Worker Noel                        | ![][232]<br>[Donphan]<br>Lv. 48    | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                          | &nbsp;
+Worker Braden                      | ![][323]<br>[Camerupt]<br>Lv. 48   | &nbsp;                            | &nbsp;                            | &nbsp;                            | &nbsp;                          | &nbsp;
+Hiker Damon                        | ![][247]<br>[Pupitar]<br>Lv. 46    | ![][476]<br>[Probopass]<br>Lv. 46 | ![][208]<br>[Steelix]<br>Lv. 46   | &nbsp;                            | &nbsp;                          | &nbsp;
+Hiker Maurice                      | ![][112]<br>[Rhydon]<br>Lv. 47     | ![][076]<br>[Golem]<br>Lv. 47     | &nbsp;                            | &nbsp;                            | &nbsp;                          | &nbsp;
+Black Belt Kendal                  | ![][062]<br>[Poliwrath]<br>Lv. 48  | ![][297]<br>[Hariyama]<br>Lv. 48  | &nbsp;                            | &nbsp;                            | &nbsp;                          | &nbsp;
+Battle Girl Tyler                  | ![][237]<br>[Hitmontop]<br>Lv. 48  | ![][057]<br>[Primeape]<br>Lv. 48  | &nbsp;                            | &nbsp;                            | &nbsp;                          | &nbsp;
+Worker Brendon                     | ![][082]<br>[Magneton]<br>Lv. 47   | ![][067]<br>[Machoke]<br>Lv. 47   | &nbsp;                            | &nbsp;                            | &nbsp;                          | &nbsp;
+Worker Quentin                     | ![][305]<br>[Lairon]<br>Lv. 47     | ![][075]<br>[Graveler]<br>Lv. 47  | &nbsp;                            | &nbsp;                            | &nbsp;                          | &nbsp;
+Ace Trainer Jonah                  | ![][284]<br>[Masquerain]<br>Lv. 48 | ![][346]<br>[Cradily]<br>Lv. 48   | ![][450]<br>[Hippowdon]<br>Lv. 48 | &nbsp;                            | &nbsp;                          | &nbsp;
+Ace Trainer Brenda                 | ![][282]<br>[Gardevoir]<br>Lv. 48  | ![][428]<br>[Lopunny]<br>Lv. 48   | ![][308]<br>[Medicham]<br>Lv. 48  | &nbsp;                            | &nbsp;                          | &nbsp;
+Galactic Grunt                     | ![][042]<br>[Golbat]<br>Lv. 46     | ![][229]<br>[Houndoom]<br>Lv. 46  | ![][089]<br>[Muk]<br>Lv. 46       | &nbsp;                            | &nbsp;                          | &nbsp;
+Galactic Grunt                     | ![][432]<br>[Purugly]<br>Lv. 46    | ![][454]<br>[Toxicroak]<br>Lv. 46 | ![][435]<br>[Skuntank]<br>Lv. 46  | &nbsp;                            | &nbsp;                          | &nbsp;
 
-PKMN Trainer Riley<br>![][riley]  | Item                              | Nature | Ability      | Moves
+## PKMN Trainer Riley
+
+![][riley]                        | Item                              | Nature | Ability      | Moves
 ---                               | ---                               | ---    | ---          | ---
 ![][359]<br>[Absol]<br>Lv. 49     | ![][scope-lens]<br>Scope Lens     | ?      | Super Luck   | Night Slash, Psycho Cut, Megahorn, Play Rough
 ![][217]<br>[Ursaring]<br>Lv. 49  | ![][flame-orb]<br>Flame Orb       | ?      | Guts         | Strength, Close Combat, Play Rough, Protect
@@ -39,6 +41,7 @@ Scientist Julian<br>![][scientist] | Item | Nature | Ability | Moves
 
 --8<-- "includes/natures.md"
 
+[PKMN Trainer Riley]: #pkmn-trainer-riley
 [Charmeleon]: ../../pokemon_changes/005/
 [Fearow]: ../../pokemon_changes/022/
 [Raichu]: ../../pokemon_changes/026/

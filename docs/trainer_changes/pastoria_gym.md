@@ -1,16 +1,18 @@
 # Pastoria Gym
 
-Trainer                  | 1                                 | 2                                  | 3                                 | 4                                | 5                                | 6
----                      | ---                               | ---                                | ---                               | ---                              | ---                              | ---
-Tuber Jacky              | ![][400]<br>[Bibarel]<br>Lv. 39   | ![][008]<br>[Wartortle]<br>Lv. 39  | ![][364]<br>[Sealeo]<br>Lv. 39    | &nbsp;                           | &nbsp;                           | &nbsp;
-Fisherman Walter         | ![][340]<br>[Whiscash]<br>Lv. 39  | ![][171]<br>[Lanturn]<br>Lv. 39    | ![][119]<br>[Seaking]<br>Lv. 39   | &nbsp;                           | &nbsp;                           | &nbsp;
-Sailor Damian            | ![][279]<br>[Pelipper]<br>Lv. 39  | ![][159]<br>[Croconaw]<br>Lv. 39   | ![][055]<br>[Golduck]<br>Lv. 39   | &nbsp;                           | &nbsp;                           | &nbsp;
-Tuber Caitlyn            | ![][184]<br>[Azumarill]<br>Lv. 39 | ![][259]<br>[Marshtomp]<br>Lv. 39  | ![][087]<br>[Dewgong]<br>Lv. 39   | &nbsp;                           | &nbsp;                           | &nbsp;
-Fisherman Erick          | ![][457]<br>[Lumineon]<br>Lv. 39  | ![][073]<br>[Tentacruel]<br>Lv. 39 | ![][099]<br>[Kingler]<br>Lv. 39   | &nbsp;                           | &nbsp;                           | &nbsp;
-Sailor Samson            | ![][080]<br>[Slowbro]<br>Lv. 39   | ![][423]<br>[Gastrodon]<br>Lv. 39  | ![][226]<br>[Mantine]<br>Lv. 39   | &nbsp;                           | &nbsp;                           | &nbsp;
-Leader Wake<br>![][wake] | ![][195]<br>[Quagsire]<br>Lv. 43  | ![][130]<br>[Gyarados]<br>Lv. 43   | ![][062]<br>[Poliwrath]<br>Lv. 43 | ![][272]<br>[Ludicolo]<br>Lv. 43 | ![][319]<br>[Sharpedo]<br>Lv. 43 | ![][419]<br>[Floatzel]<br>Lv. 44
+Trainer                    | 1                                 | 2                                  | 3                                 | 4                                | 5                                | 6
+---                        | ---                               | ---                                | ---                               | ---                              | ---                              | ---
+Tuber Jacky                | ![][400]<br>[Bibarel]<br>Lv. 39   | ![][008]<br>[Wartortle]<br>Lv. 39  | ![][364]<br>[Sealeo]<br>Lv. 39    | &nbsp;                           | &nbsp;                           | &nbsp;
+Fisherman Walter           | ![][340]<br>[Whiscash]<br>Lv. 39  | ![][171]<br>[Lanturn]<br>Lv. 39    | ![][119]<br>[Seaking]<br>Lv. 39   | &nbsp;                           | &nbsp;                           | &nbsp;
+Sailor Damian              | ![][279]<br>[Pelipper]<br>Lv. 39  | ![][159]<br>[Croconaw]<br>Lv. 39   | ![][055]<br>[Golduck]<br>Lv. 39   | &nbsp;                           | &nbsp;                           | &nbsp;
+Tuber Caitlyn              | ![][184]<br>[Azumarill]<br>Lv. 39 | ![][259]<br>[Marshtomp]<br>Lv. 39  | ![][087]<br>[Dewgong]<br>Lv. 39   | &nbsp;                           | &nbsp;                           | &nbsp;
+Fisherman Erick            | ![][457]<br>[Lumineon]<br>Lv. 39  | ![][073]<br>[Tentacruel]<br>Lv. 39 | ![][099]<br>[Kingler]<br>Lv. 39   | &nbsp;                           | &nbsp;                           | &nbsp;
+Sailor Samson              | ![][080]<br>[Slowbro]<br>Lv. 39   | ![][423]<br>[Gastrodon]<br>Lv. 39  | ![][226]<br>[Mantine]<br>Lv. 39   | &nbsp;                           | &nbsp;                           | &nbsp;
+[Leader Wake]<br>![][wake] | ![][195]<br>[Quagsire]<br>Lv. 43  | ![][130]<br>[Gyarados]<br>Lv. 43   | ![][062]<br>[Poliwrath]<br>Lv. 43 | ![][272]<br>[Ludicolo]<br>Lv. 43 | ![][319]<br>[Sharpedo]<br>Lv. 43 | ![][419]<br>[Floatzel]<br>Lv. 44
 
-Leader Wake<br>![][wake]          | Item                              | Nature  | Ability      | Moves
+## Leader Wake
+
+![][wake]                         | Item                              | Nature  | Ability      | Moves
 ---                               | ---                               | ---     | ---          | ---
 ![][195]<br>[Quagsire]<br>Lv. 43  | ![][rindo-berry]<br>Rindo Berry   | Adamant | Water Absorb | Aqua Tail, Earthquake, Recover, Ice Punch
 ![][130]<br>[Gyarados]<br>Lv. 43  | ![][wacan-berry]<br>Wacan Berry   | Jolly   | Intimidate   | Aqua Tail, Ice Fang, Crunch, Dragon Dance
@@ -25,6 +27,7 @@ Leader Wake<br>![][wake]          | Item                              | Nature  
 
 --8<-- "includes/natures.md"
 
+[Leader Wake]: #leader-wake
 [Wartortle]: ../../pokemon_changes/008/
 [Golduck]: ../../pokemon_changes/055/
 [Poliwrath]: ../../pokemon_changes/062/

@@ -1,3 +1,4 @@
+from copy import copy
 import glob
 import requests
 import json
@@ -116,6 +117,7 @@ if __name__ == "__main__":
         tqdm_files = tqdm(files)
         for f in tqdm_files:
             file_lines = open(f, "r", encoding="utf-8").readlines()
+            old_lines = copy(file_lines)
 
             tables = extract_tables(file_lines)
 
@@ -123,7 +125,14 @@ if __name__ == "__main__":
                 t.format()
                 replace_table(file_lines, t)
 
-            open(f, "w", encoding="utf-8").writelines(file_lines)
+            equal = True
+            for (a, b) in zip(old_lines, file_lines):
+                if a != b:
+                    equal = False
+                    break
+
+            if not equal:
+                open(f, "w", encoding="utf-8").writelines(file_lines)
 
             tqdm_files.set_postfix(file=f)
             tqdm_files.update(0)
