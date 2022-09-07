@@ -40,16 +40,16 @@ Scientist Donnie<br>![][scientist] | Item | Nature | Ability | Moves
 --8<-- "includes/natures.md"
 
 [PKMN Trainer Barry]: #pkmn-trainer-barry
-[Nidoking]: ../../pokemon_changes/034/
-[Arcanine]: ../../pokemon_changes/059/
-[Snorlax]: ../../pokemon_changes/143/
-[Azumarill]: ../../pokemon_changes/184/
-[Heracross]: ../../pokemon_changes/214/
-[Breloom]: ../../pokemon_changes/286/
-[Torterra]: ../../pokemon_changes/389/
-[Infernape]: ../../pokemon_changes/392/
-[Empoleon]: ../../pokemon_changes/395/
-[Staraptor]: ../../pokemon_changes/398/
+[Nidoking]: ../../pokemons/034/
+[Arcanine]: ../../pokemons/059/
+[Snorlax]: ../../pokemons/143/
+[Azumarill]: ../../pokemons/184/
+[Heracross]: ../../pokemons/214/
+[Breloom]: ../../pokemons/286/
+[Torterra]: ../../pokemons/389/
+[Infernape]: ../../pokemons/392/
+[Empoleon]: ../../pokemons/395/
+[Staraptor]: ../../pokemons/398/
 [coba-berry]: ../img/items/coba-berry.png
 [expert-belt]: ../img/items/expert-belt.png
 [focus-sash]: ../img/items/focus-sash.png

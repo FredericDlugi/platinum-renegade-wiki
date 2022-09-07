@@ -30,21 +30,21 @@ Bug Catcher Louie<br>![][bug_catcher] | Item | Nature | Ability | Moves
 ---                                   | ---  | ---    | ---     | ---
 ![][469]<br>[Yanmega]<br>Lv. 85       | None | ?      | ?       | Air Slash, Protect, Bug Buzz, Substitute
 
-[Pidgeot]: ../../pokemon_changes/018/
-[Growlithe]: ../../pokemon_changes/058/
-[Sentret]: ../../pokemon_changes/161/
-[Hoothoot]: ../../pokemon_changes/163/
-[Noctowl]: ../../pokemon_changes/164/
-[Zigzagoon]: ../../pokemon_changes/263/
-[Turtwig]: ../../pokemon_changes/387/
-[Chimchar]: ../../pokemon_changes/390/
-[Piplup]: ../../pokemon_changes/393/
-[Starly]: ../../pokemon_changes/396/
-[Staravia]: ../../pokemon_changes/397/
-[Staraptor]: ../../pokemon_changes/398/
-[Bidoof]: ../../pokemon_changes/399/
-[Burmy]: ../../pokemon_changes/412/
-[Yanmega]: ../../pokemon_changes/469/
+[Pidgeot]: ../../pokemons/018/
+[Growlithe]: ../../pokemons/058/
+[Sentret]: ../../pokemons/161/
+[Hoothoot]: ../../pokemons/163/
+[Noctowl]: ../../pokemons/164/
+[Zigzagoon]: ../../pokemons/263/
+[Turtwig]: ../../pokemons/387/
+[Chimchar]: ../../pokemons/390/
+[Piplup]: ../../pokemons/393/
+[Starly]: ../../pokemons/396/
+[Staravia]: ../../pokemons/397/
+[Staraptor]: ../../pokemons/398/
+[Bidoof]: ../../pokemons/399/
+[Burmy]: ../../pokemons/412/
+[Yanmega]: ../../pokemons/469/
 [018]: ../img/pokemon/018.png
 [058]: ../img/pokemon/058.png
 [161]: ../img/pokemon/161.png

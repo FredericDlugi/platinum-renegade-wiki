@@ -14,16 +14,16 @@ Area                                       | Pokémon                        | &
 ![][good-rod]<br>Good Rod<br>Lv. 25        | ![][129]<br>[Magikarp]<br>100% | &nbsp;                          | &nbsp;                       | &nbsp;                       | &nbsp;                       | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50      | ![][130]<br>[Gyarados]<br>100% | &nbsp;                          | &nbsp;                       | &nbsp;                       | &nbsp;                       | &nbsp;
 
-[Psyduck]: ../../pokemon_changes/054/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Wingull]: ../../pokemon_changes/278/
-[Surskit]: ../../pokemon_changes/283/
-[Masquerain]: ../../pokemon_changes/284/
-[Azurill]: ../../pokemon_changes/298/
-[Wynaut]: ../../pokemon_changes/360/
-[Starly]: ../../pokemon_changes/396/
-[Bidoof]: ../../pokemon_changes/399/
+[Psyduck]: ../../pokemons/054/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Wingull]: ../../pokemons/278/
+[Surskit]: ../../pokemons/283/
+[Masquerain]: ../../pokemons/284/
+[Azurill]: ../../pokemons/298/
+[Wynaut]: ../../pokemons/360/
+[Starly]: ../../pokemons/396/
+[Bidoof]: ../../pokemons/399/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [poke-radar]: ../img/items/poke-radar.png

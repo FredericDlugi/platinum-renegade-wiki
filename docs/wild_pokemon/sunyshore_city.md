@@ -11,15 +11,15 @@ Area                                  | Pokémon                         | &nbsp
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>60%   | ![][098]<br>[Krabby]<br>30%   | ![][120]<br>[Staryu]<br>10%
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>60%   | ![][099]<br>[Kingler]<br>30%  | ![][121]<br>[Starmie]<br>10%
 
-[Tentacruel]: ../../pokemon_changes/073/
-[Krabby]: ../../pokemon_changes/098/
-[Kingler]: ../../pokemon_changes/099/
-[Staryu]: ../../pokemon_changes/120/
-[Starmie]: ../../pokemon_changes/121/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Mantine]: ../../pokemon_changes/226/
-[Pelipper]: ../../pokemon_changes/279/
+[Tentacruel]: ../../pokemons/073/
+[Krabby]: ../../pokemons/098/
+[Kingler]: ../../pokemons/099/
+[Staryu]: ../../pokemons/120/
+[Starmie]: ../../pokemons/121/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Mantine]: ../../pokemons/226/
+[Pelipper]: ../../pokemons/279/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png

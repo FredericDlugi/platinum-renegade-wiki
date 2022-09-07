@@ -17,21 +17,21 @@ Area                                  | Pokémon                         | &nbsp
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>60%   | ![][370]<br>[Luvdisc]<br>30%  | ![][222]<br>[Corsola]<br>10%    | &nbsp;                      | &nbsp;                       | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>60%   | ![][370]<br>[Luvdisc]<br>30%  | ![][222]<br>[Corsola]<br>10%    | &nbsp;                      | &nbsp;                       | &nbsp;
 
-[Gloom]: ../../pokemon_changes/044/
-[Weepinbell]: ../../pokemon_changes/070/
-[Tentacruel]: ../../pokemon_changes/073/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Xatu]: ../../pokemon_changes/178/
-[Shuckle]: ../../pokemon_changes/213/
-[Corsola]: ../../pokemon_changes/222/
-[Beautifly]: ../../pokemon_changes/267/
-[Dustox]: ../../pokemon_changes/269/
-[Pelipper]: ../../pokemon_changes/279/
-[Roselia]: ../../pokemon_changes/315/
-[Luvdisc]: ../../pokemon_changes/370/
-[Gastrodon]: ../../pokemon_changes/423/
-[Chatot]: ../../pokemon_changes/441/
+[Gloom]: ../../pokemons/044/
+[Weepinbell]: ../../pokemons/070/
+[Tentacruel]: ../../pokemons/073/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Xatu]: ../../pokemons/178/
+[Shuckle]: ../../pokemons/213/
+[Corsola]: ../../pokemons/222/
+[Beautifly]: ../../pokemons/267/
+[Dustox]: ../../pokemons/269/
+[Pelipper]: ../../pokemons/279/
+[Roselia]: ../../pokemons/315/
+[Luvdisc]: ../../pokemons/370/
+[Gastrodon]: ../../pokemons/423/
+[Chatot]: ../../pokemons/441/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [poke-radar]: ../img/items/poke-radar.png

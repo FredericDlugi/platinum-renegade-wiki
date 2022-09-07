@@ -9,6 +9,6 @@ Ace Trainer???<br>![][ace_f]      | Item | Nature | Ability | Moves
 ---                               | ---  | ---    | ---     | ---
 ![][248]<br>[Tyranitar]<br>Lv. 85 | None | ?      | ?       | Low Kick, Stone Edge, Crunch, Earthquake
 
-[Tyranitar]: ../../pokemon_changes/248/
+[Tyranitar]: ../../pokemons/248/
 [248]: ../img/pokemon/248.png
 [ace_f]: ../img/trainer/ace_f.png

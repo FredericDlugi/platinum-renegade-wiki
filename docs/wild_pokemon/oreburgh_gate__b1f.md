@@ -10,15 +10,15 @@ Area                                  | Pokémon                       | &nbsp; 
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>65% | ![][339]<br>[Barboach]<br>35% | &nbsp;                       | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>65% | ![][340]<br>[Whiscash]<br>35% | &nbsp;                       | &nbsp;
 
-[Zubat]: ../../pokemon_changes/041/
-[Golbat]: ../../pokemon_changes/042/
-[Diglett]: ../../pokemon_changes/050/
-[Geodude]: ../../pokemon_changes/074/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Barboach]: ../../pokemon_changes/339/
-[Whiscash]: ../../pokemon_changes/340/
-[Riolu]: ../../pokemon_changes/447/
+[Zubat]: ../../pokemons/041/
+[Golbat]: ../../pokemons/042/
+[Diglett]: ../../pokemons/050/
+[Geodude]: ../../pokemons/074/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Barboach]: ../../pokemons/339/
+[Whiscash]: ../../pokemons/340/
+[Riolu]: ../../pokemons/447/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png

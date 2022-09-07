@@ -17,18 +17,18 @@ Area                                  | Pokémon                         | &nbsp
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>65%   | ![][339]<br>[Barboach]<br>35% | &nbsp;                        | &nbsp;                      | &nbsp;                       | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>65%   | ![][340]<br>[Whiscash]<br>35% | &nbsp;                        | &nbsp;                      | &nbsp;                       | &nbsp;
 
-[Poliwhirl]: ../../pokemon_changes/061/
-[Weezing]: ../../pokemon_changes/110/
-[Rhydon]: ../../pokemon_changes/112/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Gligar]: ../../pokemon_changes/207/
-[Skarmory]: ../../pokemon_changes/227/
-[Camerupt]: ../../pokemon_changes/323/
-[Torkoal]: ../../pokemon_changes/324/
-[Spinda]: ../../pokemon_changes/327/
-[Barboach]: ../../pokemon_changes/339/
-[Whiscash]: ../../pokemon_changes/340/
+[Poliwhirl]: ../../pokemons/061/
+[Weezing]: ../../pokemons/110/
+[Rhydon]: ../../pokemons/112/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Gligar]: ../../pokemons/207/
+[Skarmory]: ../../pokemons/227/
+[Camerupt]: ../../pokemons/323/
+[Torkoal]: ../../pokemons/324/
+[Spinda]: ../../pokemons/327/
+[Barboach]: ../../pokemons/339/
+[Whiscash]: ../../pokemons/340/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png

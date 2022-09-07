@@ -24,15 +24,15 @@ Reporter Helen                       | ![][252]<br>[Treecko]<br>Lv. 10  | ![][25
 --8<-- "includes/natures.md"
 
 [PKMN Trainer Steven]: #pkmn-trainer-steven
-[Aerodactyl]: ../../pokemon_changes/142/
-[Skarmory]: ../../pokemon_changes/227/
-[Treecko]: ../../pokemon_changes/252/
-[Torchic]: ../../pokemon_changes/255/
-[Mudkip]: ../../pokemon_changes/258/
-[Aggron]: ../../pokemon_changes/306/
-[Cradily]: ../../pokemon_changes/346/
-[Armaldo]: ../../pokemon_changes/348/
-[Metagross]: ../../pokemon_changes/376/
+[Aerodactyl]: ../../pokemons/142/
+[Skarmory]: ../../pokemons/227/
+[Treecko]: ../../pokemons/252/
+[Torchic]: ../../pokemons/255/
+[Mudkip]: ../../pokemons/258/
+[Aggron]: ../../pokemons/306/
+[Cradily]: ../../pokemons/346/
+[Armaldo]: ../../pokemons/348/
+[Metagross]: ../../pokemons/376/
 [focus-sash]: ../img/items/focus-sash.png
 [leftovers]: ../img/items/leftovers.png
 [life-orb]: ../img/items/life-orb.png

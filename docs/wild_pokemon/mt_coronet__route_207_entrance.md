@@ -13,20 +13,20 @@ Area                                  | Pokémon                       | &nbsp; 
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>65% | ![][339]<br>[Barboach]<br>35% | &nbsp;                        | &nbsp;                        | &nbsp;                        | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>65% | ![][340]<br>[Whiscash]<br>35% | &nbsp;                        | &nbsp;                        | &nbsp;                        | &nbsp;
 
-[Clefairy]: ../../pokemon_changes/035/
-[Zubat]: ../../pokemon_changes/041/
-[Golbat]: ../../pokemon_changes/042/
-[Geodude]: ../../pokemon_changes/074/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Nosepass]: ../../pokemon_changes/299/
-[Lunatone]: ../../pokemon_changes/337/
-[Solrock]: ../../pokemon_changes/338/
-[Barboach]: ../../pokemon_changes/339/
-[Whiscash]: ../../pokemon_changes/340/
-[Chimecho]: ../../pokemon_changes/358/
-[Metang]: ../../pokemon_changes/375/
-[Bronzor]: ../../pokemon_changes/436/
+[Clefairy]: ../../pokemons/035/
+[Zubat]: ../../pokemons/041/
+[Golbat]: ../../pokemons/042/
+[Geodude]: ../../pokemons/074/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Nosepass]: ../../pokemons/299/
+[Lunatone]: ../../pokemons/337/
+[Solrock]: ../../pokemons/338/
+[Barboach]: ../../pokemons/339/
+[Whiscash]: ../../pokemons/340/
+[Chimecho]: ../../pokemons/358/
+[Metang]: ../../pokemons/375/
+[Bronzor]: ../../pokemons/436/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png

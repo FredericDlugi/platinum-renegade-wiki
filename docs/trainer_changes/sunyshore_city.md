@@ -34,13 +34,13 @@ Guitarist ???<br>![][guitarist]    | Item | Nature | Ability | Moves
 
 [^1]: Only in Complete version
 [Arcade Star Dahlia]: #arcade-star-dahlia
-[Zapdos]: ../../pokemon_changes/145/
-[Blaziken]: ../../pokemon_changes/257/
-[Ludicolo]: ../../pokemon_changes/272/
-[Medicham]: ../../pokemon_changes/308/
-[Electivire]: ../../pokemon_changes/466/
-[Togekiss]: ../../pokemon_changes/468/
-[Dusknoir]: ../../pokemon_changes/477/
+[Zapdos]: ../../pokemons/145/
+[Blaziken]: ../../pokemons/257/
+[Ludicolo]: ../../pokemons/272/
+[Medicham]: ../../pokemons/308/
+[Electivire]: ../../pokemons/466/
+[Togekiss]: ../../pokemons/468/
+[Dusknoir]: ../../pokemons/477/
 [choice-scarf]: ../img/items/choice-scarf.png
 [focus-sash]: ../img/items/focus-sash.png
 [life-orb]: ../img/items/life-orb.png

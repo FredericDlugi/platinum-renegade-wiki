@@ -25,18 +25,18 @@ Youngster Darius             | ![][304]<br>[Aron]<br>Lv. 13     | ![][347]<br>[A
 
 [^1]: Only in Complete version
 [Leader Roark]: #leader-roark
-[Geodude]: ../../pokemon_changes/074/
-[Onix]: ../../pokemon_changes/095/
-[Rhyhorn]: ../../pokemon_changes/111/
-[Omanyte]: ../../pokemon_changes/138/
-[Kabuto]: ../../pokemon_changes/140/
-[Larvitar]: ../../pokemon_changes/246/
-[Nosepass]: ../../pokemon_changes/299/
-[Aron]: ../../pokemon_changes/304/
-[Lileep]: ../../pokemon_changes/345/
-[Anorith]: ../../pokemon_changes/347/
-[Cranidos]: ../../pokemon_changes/408/
-[Bonsly]: ../../pokemon_changes/438/
+[Geodude]: ../../pokemons/074/
+[Onix]: ../../pokemons/095/
+[Rhyhorn]: ../../pokemons/111/
+[Omanyte]: ../../pokemons/138/
+[Kabuto]: ../../pokemons/140/
+[Larvitar]: ../../pokemons/246/
+[Nosepass]: ../../pokemons/299/
+[Aron]: ../../pokemons/304/
+[Lileep]: ../../pokemons/345/
+[Anorith]: ../../pokemons/347/
+[Cranidos]: ../../pokemons/408/
+[Bonsly]: ../../pokemons/438/
 [expert-belt]: ../img/items/expert-belt.png
 [flame-orb]: ../img/items/flame-orb.png
 [muscle-band]: ../img/items/muscle-band.png

@@ -11,16 +11,16 @@ Area                                         | Pokémon                        |
 &nbsp;                                       | ![][276]<br>[Taillow]<br>10%   | &nbsp;                         | &nbsp;                       | &nbsp;                          | &nbsp;                       | &nbsp;
 ![][poke-radar]<br>Poké Radar<br>Lv. 14 - 16 | ![][267]<br>[Beautifly]<br>11% | ![][269]<br>[Dustox]<br>11%    | &nbsp;                       | &nbsp;                          | &nbsp;                       | &nbsp;
 
-[Paras]: ../../pokemon_changes/046/
-[Murkrow]: ../../pokemon_changes/198/
-[Misdreavus]: ../../pokemon_changes/200/
-[Beautifly]: ../../pokemon_changes/267/
-[Dustox]: ../../pokemon_changes/269/
-[Taillow]: ../../pokemon_changes/276/
-[Shroomish]: ../../pokemon_changes/285/
-[Slakoth]: ../../pokemon_changes/287/
-[Nincada]: ../../pokemon_changes/290/
-[Buneary]: ../../pokemon_changes/427/
+[Paras]: ../../pokemons/046/
+[Murkrow]: ../../pokemons/198/
+[Misdreavus]: ../../pokemons/200/
+[Beautifly]: ../../pokemons/267/
+[Dustox]: ../../pokemons/269/
+[Taillow]: ../../pokemons/276/
+[Shroomish]: ../../pokemons/285/
+[Slakoth]: ../../pokemons/287/
+[Nincada]: ../../pokemons/290/
+[Buneary]: ../../pokemons/427/
 [poke-radar]: ../img/items/poke-radar.png
 [046]: ../img/pokemon/046.png
 [198]: ../img/pokemon/198.png

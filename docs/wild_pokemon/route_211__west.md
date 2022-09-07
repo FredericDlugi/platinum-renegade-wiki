@@ -10,13 +10,13 @@ Area                                         | Pokémon                       | 
 🌙<br>Night<br>Lv. 16 - 18                    | ![][307]<br>[Meditite]<br>30% | ![][066]<br>[Machop]<br>20% | ![][333]<br>[Swablu]<br>20% | ![][216]<br>[Teddiursa]<br>10% | ![][177]<br>[Natu]<br>10% | ![][433]<br>[Chingling]<br>10%
 ![][poke-radar]<br>Poké Radar<br>Lv. 16 - 18 | ![][236]<br>[Tyrogue]<br>22%  | &nbsp;                      | &nbsp;                      | &nbsp;                         | &nbsp;                    | &nbsp;
 
-[Machop]: ../../pokemon_changes/066/
-[Natu]: ../../pokemon_changes/177/
-[Teddiursa]: ../../pokemon_changes/216/
-[Tyrogue]: ../../pokemon_changes/236/
-[Meditite]: ../../pokemon_changes/307/
-[Swablu]: ../../pokemon_changes/333/
-[Chingling]: ../../pokemon_changes/433/
+[Machop]: ../../pokemons/066/
+[Natu]: ../../pokemons/177/
+[Teddiursa]: ../../pokemons/216/
+[Tyrogue]: ../../pokemons/236/
+[Meditite]: ../../pokemons/307/
+[Swablu]: ../../pokemons/333/
+[Chingling]: ../../pokemons/433/
 [poke-radar]: ../img/items/poke-radar.png
 [066]: ../img/pokemon/066.png
 [177]: ../img/pokemon/177.png

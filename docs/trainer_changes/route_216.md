@@ -31,27 +31,27 @@ Black Belt Philip :material-alpha-c-circle-outline: | ![][297]<br>[Hariyama]<br>
 Skier Andrea :material-numeric-8-circle-outline:    | ![][460]<br>[Abomasnow]<br>Lv. 61 | &nbsp;                          | &nbsp;
 Skier Andrea :material-alpha-c-circle-outline:      | ![][460]<br>[Abomasnow]<br>Lv. 72 | &nbsp;                          | &nbsp;
 
-[Poliwrath]: ../../pokemon_changes/062/
-[Machamp]: ../../pokemon_changes/068/
-[Mr. Mime]: ../../pokemon_changes/122/
-[Scyther]: ../../pokemon_changes/123/
-[Lapras]: ../../pokemon_changes/131/
-[Porygon]: ../../pokemon_changes/137/
-[Quilava]: ../../pokemon_changes/156/
-[Togetic]: ../../pokemon_changes/176/
-[Sudowoodo]: ../../pokemon_changes/185/
-[Quagsire]: ../../pokemon_changes/195/
-[Swinub]: ../../pokemon_changes/220/
-[Piloswine]: ../../pokemon_changes/221/
-[Nuzleaf]: ../../pokemon_changes/274/
-[Swellow]: ../../pokemon_changes/277/
-[Vigoroth]: ../../pokemon_changes/288/
-[Hariyama]: ../../pokemon_changes/297/
-[Snorunt]: ../../pokemon_changes/361/
-[Glalie]: ../../pokemon_changes/362/
-[Snover]: ../../pokemon_changes/459/
-[Abomasnow]: ../../pokemon_changes/460/
-[Mamoswine]: ../../pokemon_changes/473/
+[Poliwrath]: ../../pokemons/062/
+[Machamp]: ../../pokemons/068/
+[Mr. Mime]: ../../pokemons/122/
+[Scyther]: ../../pokemons/123/
+[Lapras]: ../../pokemons/131/
+[Porygon]: ../../pokemons/137/
+[Quilava]: ../../pokemons/156/
+[Togetic]: ../../pokemons/176/
+[Sudowoodo]: ../../pokemons/185/
+[Quagsire]: ../../pokemons/195/
+[Swinub]: ../../pokemons/220/
+[Piloswine]: ../../pokemons/221/
+[Nuzleaf]: ../../pokemons/274/
+[Swellow]: ../../pokemons/277/
+[Vigoroth]: ../../pokemons/288/
+[Hariyama]: ../../pokemons/297/
+[Snorunt]: ../../pokemons/361/
+[Glalie]: ../../pokemons/362/
+[Snover]: ../../pokemons/459/
+[Abomasnow]: ../../pokemons/460/
+[Mamoswine]: ../../pokemons/473/
 [062]: ../img/pokemon/062.png
 [068]: ../img/pokemon/068.png
 [122]: ../img/pokemon/122.png

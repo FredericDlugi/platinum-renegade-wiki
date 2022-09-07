@@ -10,18 +10,18 @@ Area                                  | Pokémon                       | &nbsp; 
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>60% | ![][339]<br>[Barboach]<br>30% | ![][318]<br>[Carvanha]<br>10% | &nbsp;                       | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>60% | ![][340]<br>[Whiscash]<br>30% | ![][319]<br>[Sharpedo]<br>10% | &nbsp;                       | &nbsp;
 
-[Tangela]: ../../pokemon_changes/114/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Wooper]: ../../pokemon_changes/194/
-[Quagsire]: ../../pokemon_changes/195/
-[Carvanha]: ../../pokemon_changes/318/
-[Sharpedo]: ../../pokemon_changes/319/
-[Barboach]: ../../pokemon_changes/339/
-[Whiscash]: ../../pokemon_changes/340/
-[Tropius]: ../../pokemon_changes/357/
-[Bibarel]: ../../pokemon_changes/400/
-[Carnivine]: ../../pokemon_changes/455/
+[Tangela]: ../../pokemons/114/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Wooper]: ../../pokemons/194/
+[Quagsire]: ../../pokemons/195/
+[Carvanha]: ../../pokemons/318/
+[Sharpedo]: ../../pokemons/319/
+[Barboach]: ../../pokemons/339/
+[Whiscash]: ../../pokemons/340/
+[Tropius]: ../../pokemons/357/
+[Bibarel]: ../../pokemons/400/
+[Carnivine]: ../../pokemons/455/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png

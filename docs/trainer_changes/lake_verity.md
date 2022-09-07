@@ -29,20 +29,20 @@ Galactic Grunt                | ![][030]<br>[Nidorina]<br>Lv. 49  | ![][042]<br>
 --8<-- "includes/natures.md"
 
 [Commander Mars]: #commander-mars
-[Butterfree]: ../../pokemon_changes/012/
-[Beedrill]: ../../pokemon_changes/015/
-[Nidorina]: ../../pokemon_changes/030/
-[Nidorino]: ../../pokemon_changes/033/
-[Golbat]: ../../pokemon_changes/042/
-[Kangaskhan]: ../../pokemon_changes/115/
-[Crobat]: ../../pokemon_changes/169/
-[Beautifly]: ../../pokemon_changes/267/
-[Dustox]: ../../pokemon_changes/269/
-[Wormadam]: ../../pokemon_changes/413/
-[Mothim]: ../../pokemon_changes/414/
-[Purugly]: ../../pokemon_changes/432/
-[Bronzong]: ../../pokemon_changes/437/
-[Yanmega]: ../../pokemon_changes/469/
+[Butterfree]: ../../pokemons/012/
+[Beedrill]: ../../pokemons/015/
+[Nidorina]: ../../pokemons/030/
+[Nidorino]: ../../pokemons/033/
+[Golbat]: ../../pokemons/042/
+[Kangaskhan]: ../../pokemons/115/
+[Crobat]: ../../pokemons/169/
+[Beautifly]: ../../pokemons/267/
+[Dustox]: ../../pokemons/269/
+[Wormadam]: ../../pokemons/413/
+[Mothim]: ../../pokemons/414/
+[Purugly]: ../../pokemons/432/
+[Bronzong]: ../../pokemons/437/
+[Yanmega]: ../../pokemons/469/
 [bright-powder]: ../img/items/bright-powder.png
 [leftovers]: ../img/items/leftovers.png
 [muscle-band]: ../img/items/muscle-band.png

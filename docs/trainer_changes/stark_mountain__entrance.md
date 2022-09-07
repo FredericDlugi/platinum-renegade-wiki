@@ -36,16 +36,16 @@ Trainer                             | 1                                | 2      
 [^1]: Only in Complete version
 [Commander Mars]: #commander-mars
 [Commander Jupiter]: #commander-jupiter
-[Kangaskhan]: ../../pokemon_changes/115/
-[Crobat]: ../../pokemon_changes/169/
-[Sableye]: ../../pokemon_changes/302/
-[Gastrodon]: ../../pokemon_changes/423/
-[Purugly]: ../../pokemon_changes/432/
-[Skuntank]: ../../pokemon_changes/435/
-[Bronzong]: ../../pokemon_changes/437/
-[Tangrowth]: ../../pokemon_changes/465/
-[Electivire]: ../../pokemon_changes/466/
-[Yanmega]: ../../pokemon_changes/469/
+[Kangaskhan]: ../../pokemons/115/
+[Crobat]: ../../pokemons/169/
+[Sableye]: ../../pokemons/302/
+[Gastrodon]: ../../pokemons/423/
+[Purugly]: ../../pokemons/432/
+[Skuntank]: ../../pokemons/435/
+[Bronzong]: ../../pokemons/437/
+[Tangrowth]: ../../pokemons/465/
+[Electivire]: ../../pokemons/466/
+[Yanmega]: ../../pokemons/469/
 [bright-powder]: ../img/items/bright-powder.png
 [expert-belt]: ../img/items/expert-belt.png
 [leftovers]: ../img/items/leftovers.png

@@ -19,10 +19,10 @@ Ruin Maniac Harry :material-numeric-8-circle-outline: | ![][142]<br>[Aerodactyl]
 Ruin Maniac Harry :material-alpha-c-circle-outline:   | ![][142]<br>[Aerodactyl]<br>Lv. 72
 
 [^1]: Only in Complete version
-[Aerodactyl]: ../../pokemon_changes/142/
-[Noctowl]: ../../pokemon_changes/164/
-[Heracross]: ../../pokemon_changes/214/
-[Ninjask]: ../../pokemon_changes/291/
+[Aerodactyl]: ../../pokemons/142/
+[Noctowl]: ../../pokemons/164/
+[Heracross]: ../../pokemons/214/
+[Ninjask]: ../../pokemons/291/
 [142]: ../img/pokemon/142.png
 [164]: ../img/pokemon/164.png
 [214]: ../img/pokemon/214.png

@@ -18,24 +18,24 @@ Area                                         | Pokémon                       | 
 ![][super-rod]<br>Super Rod<br>Lv. 50        | ![][130]<br>[Gyarados]<br>65% | ![][342]<br>[Crawdaunt]<br>35% | &nbsp;                        | &nbsp;                        | &nbsp;                          | &nbsp;
 ![][honey]<br>Honey Tree<br>Lv. 16           | ![][396]<br>[Starly]<br>30%   | ![][016]<br>[Pidgey]<br>20%    | ![][163]<br>[Hoothoot]<br>20% | ![][276]<br>[Taillow]<br>20%  | ![][083]<br>[Farfetch'd]<br>10% | &nbsp;
 
-[Pidgey]: ../../pokemon_changes/016/
-[Slowpoke]: ../../pokemon_changes/079/
-[Farfetch'd]: ../../pokemon_changes/083/
-[Exeggcute]: ../../pokemon_changes/102/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Hoothoot]: ../../pokemon_changes/163/
-[Marill]: ../../pokemon_changes/183/
-[Azumarill]: ../../pokemon_changes/184/
-[Yanma]: ../../pokemon_changes/193/
-[Taillow]: ../../pokemon_changes/276/
-[Volbeat]: ../../pokemon_changes/313/
-[Illumise]: ../../pokemon_changes/314/
-[Corphish]: ../../pokemon_changes/341/
-[Crawdaunt]: ../../pokemon_changes/342/
-[Starly]: ../../pokemon_changes/396/
-[Bidoof]: ../../pokemon_changes/399/
-[Croagunk]: ../../pokemon_changes/453/
+[Pidgey]: ../../pokemons/016/
+[Slowpoke]: ../../pokemons/079/
+[Farfetch'd]: ../../pokemons/083/
+[Exeggcute]: ../../pokemons/102/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Hoothoot]: ../../pokemons/163/
+[Marill]: ../../pokemons/183/
+[Azumarill]: ../../pokemons/184/
+[Yanma]: ../../pokemons/193/
+[Taillow]: ../../pokemons/276/
+[Volbeat]: ../../pokemons/313/
+[Illumise]: ../../pokemons/314/
+[Corphish]: ../../pokemons/341/
+[Crawdaunt]: ../../pokemons/342/
+[Starly]: ../../pokemons/396/
+[Bidoof]: ../../pokemons/399/
+[Croagunk]: ../../pokemons/453/
 [good-rod]: ../img/items/good-rod.png
 [honey]: ../img/items/honey.png
 [old-rod]: ../img/items/old-rod.png

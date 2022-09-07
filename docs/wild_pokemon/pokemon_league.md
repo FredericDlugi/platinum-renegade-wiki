@@ -10,13 +10,13 @@ Area                                  | Pokémon                         | &nbsp
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>60%   | ![][370]<br>[Luvdisc]<br>30%  | ![][222]<br>[Corsola]<br>10%
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>60%   | ![][370]<br>[Luvdisc]<br>30%  | ![][222]<br>[Corsola]<br>10%
 
-[Tentacruel]: ../../pokemon_changes/073/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Corsola]: ../../pokemon_changes/222/
-[Mantine]: ../../pokemon_changes/226/
-[Pelipper]: ../../pokemon_changes/279/
-[Luvdisc]: ../../pokemon_changes/370/
+[Tentacruel]: ../../pokemons/073/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Corsola]: ../../pokemons/222/
+[Mantine]: ../../pokemons/226/
+[Pelipper]: ../../pokemons/279/
+[Luvdisc]: ../../pokemons/370/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png

@@ -16,23 +16,23 @@ Area                                         | Pokémon                         
 ![][honey]<br>Honey Tree<br>Lv. 29           | ![][415]<br>[Combee]<br>30%     | ![][204]<br>[Pineco]<br>20%  | ![][266]<br>[Silcoon]<br>10% | ![][268]<br>[Cascoon]<br>10% | ![][413]<br>[Wormadam]<br>10% | ![][414]<br>[Mothim]<br>10%
 &nbsp;                                       | ![][214]<br>[Heracross]<br>10%  | &nbsp;                       | &nbsp;                       | &nbsp;                       | &nbsp;                        | &nbsp;
 
-[Pidgeotto]: ../../pokemon_changes/017/
-[Rapidash]: ../../pokemon_changes/078/
-[Scyther]: ../../pokemon_changes/123/
-[Pinsir]: ../../pokemon_changes/127/
-[Tauros]: ../../pokemon_changes/128/
-[Noctowl]: ../../pokemon_changes/164/
-[Pineco]: ../../pokemon_changes/204/
-[Heracross]: ../../pokemon_changes/214/
-[Miltank]: ../../pokemon_changes/241/
-[Silcoon]: ../../pokemon_changes/266/
-[Cascoon]: ../../pokemon_changes/268/
-[Nuzleaf]: ../../pokemon_changes/274/
-[Kecleon]: ../../pokemon_changes/352/
-[Kricketune]: ../../pokemon_changes/402/
-[Wormadam]: ../../pokemon_changes/413/
-[Mothim]: ../../pokemon_changes/414/
-[Combee]: ../../pokemon_changes/415/
+[Pidgeotto]: ../../pokemons/017/
+[Rapidash]: ../../pokemons/078/
+[Scyther]: ../../pokemons/123/
+[Pinsir]: ../../pokemons/127/
+[Tauros]: ../../pokemons/128/
+[Noctowl]: ../../pokemons/164/
+[Pineco]: ../../pokemons/204/
+[Heracross]: ../../pokemons/214/
+[Miltank]: ../../pokemons/241/
+[Silcoon]: ../../pokemons/266/
+[Cascoon]: ../../pokemons/268/
+[Nuzleaf]: ../../pokemons/274/
+[Kecleon]: ../../pokemons/352/
+[Kricketune]: ../../pokemons/402/
+[Wormadam]: ../../pokemons/413/
+[Mothim]: ../../pokemons/414/
+[Combee]: ../../pokemons/415/
 [honey]: ../img/items/honey.png
 [poke-radar]: ../img/items/poke-radar.png
 [017]: ../img/pokemon/017.png

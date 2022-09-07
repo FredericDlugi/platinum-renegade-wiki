@@ -10,12 +10,12 @@ Area                                         | Pokémon                       | 
 🌙<br>Night<br>Lv. 18 - 20                    | ![][459]<br>[Snover]<br>30%   | ![][220]<br>[Swinub]<br>25% | ![][238]<br>[Smoochum]<br>20% | ![][361]<br>[Snorunt]<br>15% | ![][215]<br>[Sneasel]<br>10%
 ![][poke-radar]<br>Poké Radar<br>Lv. 18 - 20 | ![][225]<br>[Delibird]<br>22% | &nbsp;                      | &nbsp;                        | &nbsp;                       | &nbsp;
 
-[Sneasel]: ../../pokemon_changes/215/
-[Swinub]: ../../pokemon_changes/220/
-[Delibird]: ../../pokemon_changes/225/
-[Smoochum]: ../../pokemon_changes/238/
-[Snorunt]: ../../pokemon_changes/361/
-[Snover]: ../../pokemon_changes/459/
+[Sneasel]: ../../pokemons/215/
+[Swinub]: ../../pokemons/220/
+[Delibird]: ../../pokemons/225/
+[Smoochum]: ../../pokemons/238/
+[Snorunt]: ../../pokemons/361/
+[Snover]: ../../pokemons/459/
 [poke-radar]: ../img/items/poke-radar.png
 [215]: ../img/pokemon/215.png
 [220]: ../img/pokemon/220.png

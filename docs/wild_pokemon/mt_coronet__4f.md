@@ -17,22 +17,22 @@ Area                                  | Pokémon                       | &nbsp; 
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>60% | ![][116]<br>[Horsea]<br>30%   | ![][147]<br>[Dratini]<br>10%   | &nbsp;                        | &nbsp;                        | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>60% | ![][117]<br>[Seadra]<br>30%   | ![][148]<br>[Dragonair]<br>10% | &nbsp;                        | &nbsp;                        | &nbsp;
 
-[Clefairy]: ../../pokemon_changes/035/
-[Zubat]: ../../pokemon_changes/041/
-[Golbat]: ../../pokemon_changes/042/
-[Graveler]: ../../pokemon_changes/075/
-[Horsea]: ../../pokemon_changes/116/
-[Seadra]: ../../pokemon_changes/117/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Dratini]: ../../pokemon_changes/147/
-[Dragonair]: ../../pokemon_changes/148/
-[Nosepass]: ../../pokemon_changes/299/
-[Lunatone]: ../../pokemon_changes/337/
-[Solrock]: ../../pokemon_changes/338/
-[Chimecho]: ../../pokemon_changes/358/
-[Metang]: ../../pokemon_changes/375/
-[Bronzong]: ../../pokemon_changes/437/
+[Clefairy]: ../../pokemons/035/
+[Zubat]: ../../pokemons/041/
+[Golbat]: ../../pokemons/042/
+[Graveler]: ../../pokemons/075/
+[Horsea]: ../../pokemons/116/
+[Seadra]: ../../pokemons/117/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Dratini]: ../../pokemons/147/
+[Dragonair]: ../../pokemons/148/
+[Nosepass]: ../../pokemons/299/
+[Lunatone]: ../../pokemons/337/
+[Solrock]: ../../pokemons/338/
+[Chimecho]: ../../pokemons/358/
+[Metang]: ../../pokemons/375/
+[Bronzong]: ../../pokemons/437/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png

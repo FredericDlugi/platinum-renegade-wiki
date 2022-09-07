@@ -15,12 +15,12 @@ Beauty Tessa<br>![][beauty]      | Item | Nature | Ability | Moves
 ---                              | ---  | ---    | ---     | ---
 ![][272]<br>[Ludicolo]<br>Lv. 85 | None | ?      | ?       | Giga Drain, Leech Seed, Protect, Thunder Punch
 
-[Poliwhirl]: ../../pokemon_changes/061/
-[Vaporeon]: ../../pokemon_changes/134/
-[Azumarill]: ../../pokemon_changes/184/
-[Ludicolo]: ../../pokemon_changes/272/
-[Bibarel]: ../../pokemon_changes/400/
-[Gastrodon]: ../../pokemon_changes/423/
+[Poliwhirl]: ../../pokemons/061/
+[Vaporeon]: ../../pokemons/134/
+[Azumarill]: ../../pokemons/184/
+[Ludicolo]: ../../pokemons/272/
+[Bibarel]: ../../pokemons/400/
+[Gastrodon]: ../../pokemons/423/
 [061]: ../img/pokemon/061.png
 [134]: ../img/pokemon/134.png
 [184]: ../img/pokemon/184.png

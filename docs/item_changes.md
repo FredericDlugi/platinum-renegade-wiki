@@ -256,7 +256,7 @@ TM76 | Stealth Rock   | Oreburgh Gym               | Gift from Roark
 TM77 | Psych Up       | Route 211                  | Gift from NPC
 TM78 | Captivate      | Eterna Forest Outside      | Gift from NPC
 TM79 | Dark Pulse     | Veilstone City             | Item on ground        [^1]
-TM80 | Rock Slide     | Eterna City                | Gift from NPC         [^1]
+TM80 | Rock Slide     | Eterna City                | [Gift from NPC](## "Show an Aerodactyl to the female scientist in the Underground Man's House") [^1]
 TM81 | X-Scissor      | Route 208                  | Gift from Aaron       [^1]
 TM82 | Sleep Talk     | Eterna Forest Outside      | Item on ground
 TM83 | Hyper Voice    | Route 215                  | Item on ground        [^1]

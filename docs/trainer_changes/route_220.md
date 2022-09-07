@@ -14,21 +14,21 @@ Swimmer Claire  | ![][121]<br>[Starmie]<br>Lv. 44   | ![][009]<br>[Blastoise]<br
 Swimmer Erik    | ![][186]<br>[Politoed]<br>Lv. 44  | ![][171]<br>[Lanturn]<br>Lv. 44    | &nbsp;
 Swimmer Katelyn | ![][419]<br>[Floatzel]<br>Lv. 43  | ![][308]<br>[Medicham]<br>Lv. 43   | ![][119]<br>[Seaking]<br>Lv. 43
 
-[Blastoise]: ../../pokemon_changes/009/
-[Tentacruel]: ../../pokemon_changes/073/
-[Seadra]: ../../pokemon_changes/117/
-[Seaking]: ../../pokemon_changes/119/
-[Starmie]: ../../pokemon_changes/121/
-[Lanturn]: ../../pokemon_changes/171/
-[Politoed]: ../../pokemon_changes/186/
-[Slowking]: ../../pokemon_changes/199/
-[Corsola]: ../../pokemon_changes/222/
-[Octillery]: ../../pokemon_changes/224/
-[Medicham]: ../../pokemon_changes/308/
-[Wailord]: ../../pokemon_changes/321/
-[Luvdisc]: ../../pokemon_changes/370/
-[Floatzel]: ../../pokemon_changes/419/
-[Lumineon]: ../../pokemon_changes/457/
+[Blastoise]: ../../pokemons/009/
+[Tentacruel]: ../../pokemons/073/
+[Seadra]: ../../pokemons/117/
+[Seaking]: ../../pokemons/119/
+[Starmie]: ../../pokemons/121/
+[Lanturn]: ../../pokemons/171/
+[Politoed]: ../../pokemons/186/
+[Slowking]: ../../pokemons/199/
+[Corsola]: ../../pokemons/222/
+[Octillery]: ../../pokemons/224/
+[Medicham]: ../../pokemons/308/
+[Wailord]: ../../pokemons/321/
+[Luvdisc]: ../../pokemons/370/
+[Floatzel]: ../../pokemons/419/
+[Lumineon]: ../../pokemons/457/
 [009]: ../img/pokemon/009.png
 [073]: ../img/pokemon/073.png
 [117]: ../img/pokemon/117.png

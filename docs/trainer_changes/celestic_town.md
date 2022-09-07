@@ -34,14 +34,14 @@ Ace Trainer Grayson<br>![][ace_m] | Item | Nature | Ability | Moves
 
 [^1]: Only in Complete version
 [Galactic Boss Cyrus]: #galactic-boss-cyrus
-[Beedrill]: ../../pokemon_changes/015/
-[Golbat]: ../../pokemon_changes/042/
-[Crobat]: ../../pokemon_changes/169/
-[Houndoom]: ../../pokemon_changes/229/
-[Honchkrow]: ../../pokemon_changes/430/
-[Garchomp]: ../../pokemon_changes/445/
-[Weavile]: ../../pokemon_changes/461/
-[Magnezone]: ../../pokemon_changes/462/
+[Beedrill]: ../../pokemons/015/
+[Golbat]: ../../pokemons/042/
+[Crobat]: ../../pokemons/169/
+[Houndoom]: ../../pokemons/229/
+[Honchkrow]: ../../pokemons/430/
+[Garchomp]: ../../pokemons/445/
+[Weavile]: ../../pokemons/461/
+[Magnezone]: ../../pokemons/462/
 [expert-belt]: ../img/items/expert-belt.png
 [life-orb]: ../img/items/life-orb.png
 [scope-lens]: ../img/items/scope-lens.png

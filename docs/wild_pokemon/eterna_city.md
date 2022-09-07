@@ -7,14 +7,14 @@ Area                                  | Pokémon                       | &nbsp; 
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>60% | ![][060]<br>[Poliwag]<br>30%   | ![][147]<br>[Dratini]<br>10%
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>60% | ![][061]<br>[Poliwhirl]<br>30% | ![][148]<br>[Dragonair]<br>10%
 
-[Psyduck]: ../../pokemon_changes/054/
-[Golduck]: ../../pokemon_changes/055/
-[Poliwag]: ../../pokemon_changes/060/
-[Poliwhirl]: ../../pokemon_changes/061/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Dratini]: ../../pokemon_changes/147/
-[Dragonair]: ../../pokemon_changes/148/
+[Psyduck]: ../../pokemons/054/
+[Golduck]: ../../pokemons/055/
+[Poliwag]: ../../pokemons/060/
+[Poliwhirl]: ../../pokemons/061/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Dratini]: ../../pokemons/147/
+[Dragonair]: ../../pokemons/148/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png

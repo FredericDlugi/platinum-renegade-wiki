@@ -16,24 +16,24 @@ Area                                         | Pokémon                       | 
 ![][super-rod]<br>Super Rod<br>Lv. 50        | ![][130]<br>[Gyarados]<br>65% | ![][119]<br>[Seaking]<br>35%  | &nbsp;                          | &nbsp;                        | &nbsp;                        | &nbsp;
 ![][honey]<br>Honey Tree<br>Lv. 30           | ![][190]<br>[Aipom]<br>30%    | ![][288]<br>[Vigoroth]<br>20% | ![][012]<br>[Butterfree]<br>20% | ![][015]<br>[Beedrill]<br>20% | ![][446]<br>[Munchlax]<br>10% | &nbsp;
 
-[Butterfree]: ../../pokemon_changes/012/
-[Beedrill]: ../../pokemon_changes/015/
-[Psyduck]: ../../pokemon_changes/054/
-[Golduck]: ../../pokemon_changes/055/
-[Graveler]: ../../pokemon_changes/075/
-[Rhyhorn]: ../../pokemon_changes/111/
-[Goldeen]: ../../pokemon_changes/118/
-[Seaking]: ../../pokemon_changes/119/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Aipom]: ../../pokemon_changes/190/
-[Houndour]: ../../pokemon_changes/228/
-[Vigoroth]: ../../pokemon_changes/288/
-[Numel]: ../../pokemon_changes/322/
-[Spoink]: ../../pokemon_changes/325/
-[Spinda]: ../../pokemon_changes/327/
-[Cacnea]: ../../pokemon_changes/331/
-[Munchlax]: ../../pokemon_changes/446/
+[Butterfree]: ../../pokemons/012/
+[Beedrill]: ../../pokemons/015/
+[Psyduck]: ../../pokemons/054/
+[Golduck]: ../../pokemons/055/
+[Graveler]: ../../pokemons/075/
+[Rhyhorn]: ../../pokemons/111/
+[Goldeen]: ../../pokemons/118/
+[Seaking]: ../../pokemons/119/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Aipom]: ../../pokemons/190/
+[Houndour]: ../../pokemons/228/
+[Vigoroth]: ../../pokemons/288/
+[Numel]: ../../pokemons/322/
+[Spoink]: ../../pokemons/325/
+[Spinda]: ../../pokemons/327/
+[Cacnea]: ../../pokemons/331/
+[Munchlax]: ../../pokemons/446/
 [good-rod]: ../img/items/good-rod.png
 [honey]: ../img/items/honey.png
 [old-rod]: ../img/items/old-rod.png

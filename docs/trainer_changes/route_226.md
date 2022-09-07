@@ -41,25 +41,25 @@ Ace Trainer Edmund<br>![][ace_m] | Item | Nature | Ability | Moves
 
 [^1]: Only in Complete version
 [Ace Trainer Wyver]: #ace-trainer-wyver
-[Fearow]: ../../pokemon_changes/022/
-[Dewgong]: ../../pokemon_changes/087/
-[Hitmonlee]: ../../pokemon_changes/106/
-[Hitmonchan]: ../../pokemon_changes/107/
-[Dragonite]: ../../pokemon_changes/149/
-[Xatu]: ../../pokemon_changes/178/
-[Azumarill]: ../../pokemon_changes/184/
-[Magcargo]: ../../pokemon_changes/219/
-[Kingdra]: ../../pokemon_changes/230/
-[Tyrogue]: ../../pokemon_changes/236/
-[Hitmontop]: ../../pokemon_changes/237/
-[Swellow]: ../../pokemon_changes/277/
-[Sharpedo]: ../../pokemon_changes/319/
-[Wailord]: ../../pokemon_changes/321/
-[Flygon]: ../../pokemon_changes/330/
-[Altaria]: ../../pokemon_changes/334/
-[Whiscash]: ../../pokemon_changes/340/
-[Salamence]: ../../pokemon_changes/373/
-[Garchomp]: ../../pokemon_changes/445/
+[Fearow]: ../../pokemons/022/
+[Dewgong]: ../../pokemons/087/
+[Hitmonlee]: ../../pokemons/106/
+[Hitmonchan]: ../../pokemons/107/
+[Dragonite]: ../../pokemons/149/
+[Xatu]: ../../pokemons/178/
+[Azumarill]: ../../pokemons/184/
+[Magcargo]: ../../pokemons/219/
+[Kingdra]: ../../pokemons/230/
+[Tyrogue]: ../../pokemons/236/
+[Hitmontop]: ../../pokemons/237/
+[Swellow]: ../../pokemons/277/
+[Sharpedo]: ../../pokemons/319/
+[Wailord]: ../../pokemons/321/
+[Flygon]: ../../pokemons/330/
+[Altaria]: ../../pokemons/334/
+[Whiscash]: ../../pokemons/340/
+[Salamence]: ../../pokemons/373/
+[Garchomp]: ../../pokemons/445/
 [choice-scarf]: ../img/items/choice-scarf.png
 [focus-sash]: ../img/items/focus-sash.png
 [haban-berry]: ../img/items/haban-berry.png

@@ -15,20 +15,20 @@ Area                                         | Pokémon                      | &
 ![][poke-radar]<br>Poké Radar<br>Lv. 20 - 22 | ![][324]<br>[Torkoal]<br>22% | &nbsp;                      | &nbsp;                      | &nbsp;                       | &nbsp;                       | &nbsp;
 ![][honey]<br>Honey Tree<br>Lv. 21           | ![][415]<br>[Combee]<br>30%  | ![][412]<br>[Burmy]<br>20%  | ![][204]<br>[Pineco]<br>20% | ![][266]<br>[Silcoon]<br>10% | ![][268]<br>[Cascoon]<br>10% | ![][214]<br>[Heracross]<br>10%
 
-[Mankey]: ../../pokemon_changes/056/
-[Pineco]: ../../pokemon_changes/204/
-[Gligar]: ../../pokemon_changes/207/
-[Heracross]: ../../pokemon_changes/214/
-[Slugma]: ../../pokemon_changes/218/
-[Magby]: ../../pokemon_changes/240/
-[Silcoon]: ../../pokemon_changes/266/
-[Cascoon]: ../../pokemon_changes/268/
-[Numel]: ../../pokemon_changes/322/
-[Torkoal]: ../../pokemon_changes/324/
-[Spoink]: ../../pokemon_changes/325/
-[Burmy]: ../../pokemon_changes/412/
-[Combee]: ../../pokemon_changes/415/
-[Stunky]: ../../pokemon_changes/434/
+[Mankey]: ../../pokemons/056/
+[Pineco]: ../../pokemons/204/
+[Gligar]: ../../pokemons/207/
+[Heracross]: ../../pokemons/214/
+[Slugma]: ../../pokemons/218/
+[Magby]: ../../pokemons/240/
+[Silcoon]: ../../pokemons/266/
+[Cascoon]: ../../pokemons/268/
+[Numel]: ../../pokemons/322/
+[Torkoal]: ../../pokemons/324/
+[Spoink]: ../../pokemons/325/
+[Burmy]: ../../pokemons/412/
+[Combee]: ../../pokemons/415/
+[Stunky]: ../../pokemons/434/
 [honey]: ../img/items/honey.png
 [poke-radar]: ../img/items/poke-radar.png
 [056]: ../img/pokemon/056.png

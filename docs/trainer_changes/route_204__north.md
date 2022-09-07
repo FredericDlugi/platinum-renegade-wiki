@@ -18,16 +18,16 @@ Bug Catcher Brandon :material-numeric-3-circle-outline: | ![][269]<br>[Dustox]<b
 Bug Catcher Brandon :material-numeric-5-circle-outline: | ![][269]<br>[Dustox]<br>Lv. 38 | ![][402]<br>[Kricketune]<br>Lv. 38 | ![][123]<br>[Scyther]<br>Lv. 38
 Bug Catcher Brandon :material-alpha-c-circle-outline:   | ![][269]<br>[Dustox]<br>Lv. 70 | ![][402]<br>[Kricketune]<br>Lv. 70 | ![][212]<br>[Scizor]<br>Lv. 70
 
-[Scyther]: ../../pokemon_changes/123/
-[Hoppip]: ../../pokemon_changes/187/
-[Scizor]: ../../pokemon_changes/212/
-[Wurmple]: ../../pokemon_changes/265/
-[Dustox]: ../../pokemon_changes/269/
-[Shroomish]: ../../pokemon_changes/285/
-[Plusle]: ../../pokemon_changes/311/
-[Minun]: ../../pokemon_changes/312/
-[Kricketune]: ../../pokemon_changes/402/
-[Cherubi]: ../../pokemon_changes/420/
+[Scyther]: ../../pokemons/123/
+[Hoppip]: ../../pokemons/187/
+[Scizor]: ../../pokemons/212/
+[Wurmple]: ../../pokemons/265/
+[Dustox]: ../../pokemons/269/
+[Shroomish]: ../../pokemons/285/
+[Plusle]: ../../pokemons/311/
+[Minun]: ../../pokemons/312/
+[Kricketune]: ../../pokemons/402/
+[Cherubi]: ../../pokemons/420/
 [123]: ../img/pokemon/123.png
 [187]: ../img/pokemon/187.png
 [212]: ../img/pokemon/212.png

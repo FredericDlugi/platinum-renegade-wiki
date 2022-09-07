@@ -7,12 +7,12 @@ Area                                  | Pokémon                       | &nbsp;
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>65% | ![][060]<br>[Poliwag]<br>35%
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>65% | ![][061]<br>[Poliwhirl]<br>35%
 
-[Psyduck]: ../../pokemon_changes/054/
-[Golduck]: ../../pokemon_changes/055/
-[Poliwag]: ../../pokemon_changes/060/
-[Poliwhirl]: ../../pokemon_changes/061/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
+[Psyduck]: ../../pokemons/054/
+[Golduck]: ../../pokemons/055/
+[Poliwag]: ../../pokemons/060/
+[Poliwhirl]: ../../pokemons/061/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png

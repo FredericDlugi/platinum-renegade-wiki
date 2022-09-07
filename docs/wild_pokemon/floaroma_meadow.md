@@ -8,11 +8,11 @@ Area                               | Pokémon                      | &nbsp;     
 ---                                | ---                          | ---                            | ---                            | ---                         | ---
 ![][honey]<br>Honey Tree<br>Lv. 12 | ![][420]<br>[Cherubi]<br>30% | ![][285]<br>[Shroomish]<br>20% | ![][102]<br>[Exeggcute]<br>20% | ![][273]<br>[Seedot]<br>20% | ![][114]<br>[Tangela]<br>10%
 
-[Exeggcute]: ../../pokemon_changes/102/
-[Tangela]: ../../pokemon_changes/114/
-[Seedot]: ../../pokemon_changes/273/
-[Shroomish]: ../../pokemon_changes/285/
-[Cherubi]: ../../pokemon_changes/420/
+[Exeggcute]: ../../pokemons/102/
+[Tangela]: ../../pokemons/114/
+[Seedot]: ../../pokemons/273/
+[Shroomish]: ../../pokemons/285/
+[Cherubi]: ../../pokemons/420/
 [honey]: ../img/items/honey.png
 [102]: ../img/pokemon/102.png
 [114]: ../img/pokemon/114.png

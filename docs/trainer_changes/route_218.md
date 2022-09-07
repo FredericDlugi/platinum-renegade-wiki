@@ -18,15 +18,15 @@ Trainer                                            | 1                          
 Fisherman Miguel :material-alpha-c-circle-outline: | ![][366]<br>[Clamperl]<br>Lv. 70   | ![][367]<br>[Huntail]<br>Lv. 70 | ![][368]<br>[Gorebyss]<br>Lv. 70
 Guitarist Tony :material-alpha-c-circle-outline:   | ![][402]<br>[Kricketune]<br>Lv. 71 | ![][295]<br>[Exploud]<br>Lv. 71 | &nbsp;
 
-[Omastar]: ../../pokemon_changes/139/
-[Kabutops]: ../../pokemon_changes/141/
-[Exploud]: ../../pokemon_changes/295/
-[Crawdaunt]: ../../pokemon_changes/342/
-[Clamperl]: ../../pokemon_changes/366/
-[Huntail]: ../../pokemon_changes/367/
-[Gorebyss]: ../../pokemon_changes/368/
-[Relicanth]: ../../pokemon_changes/369/
-[Kricketune]: ../../pokemon_changes/402/
+[Omastar]: ../../pokemons/139/
+[Kabutops]: ../../pokemons/141/
+[Exploud]: ../../pokemons/295/
+[Crawdaunt]: ../../pokemons/342/
+[Clamperl]: ../../pokemons/366/
+[Huntail]: ../../pokemons/367/
+[Gorebyss]: ../../pokemons/368/
+[Relicanth]: ../../pokemons/369/
+[Kricketune]: ../../pokemons/402/
 [139]: ../img/pokemon/139.png
 [141]: ../img/pokemon/141.png
 [295]: ../img/pokemon/295.png

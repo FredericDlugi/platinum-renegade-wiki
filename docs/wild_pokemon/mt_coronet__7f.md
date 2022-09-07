@@ -13,15 +13,15 @@ Area                        | Pokémon                       | &nbsp;           
 🌙<br>Night<br>Lv. 51 - 53   | ![][075]<br>[Graveler]<br>20% | ![][437]<br>[Bronzong]<br>20% | ![][035]<br>[Clefairy]<br>10% | ![][299]<br>[Nosepass]<br>10% | ![][358]<br>[Chimecho]<br>10% | ![][042]<br>[Golbat]<br>10%
 &nbsp;                      | ![][375]<br>[Metang]<br>10%   | ![][338]<br>[Solrock]<br>5%   | ![][337]<br>[Lunatone]<br>5%  | &nbsp;                        | &nbsp;                        | &nbsp;
 
-[Clefairy]: ../../pokemon_changes/035/
-[Golbat]: ../../pokemon_changes/042/
-[Graveler]: ../../pokemon_changes/075/
-[Nosepass]: ../../pokemon_changes/299/
-[Lunatone]: ../../pokemon_changes/337/
-[Solrock]: ../../pokemon_changes/338/
-[Chimecho]: ../../pokemon_changes/358/
-[Metang]: ../../pokemon_changes/375/
-[Bronzong]: ../../pokemon_changes/437/
+[Clefairy]: ../../pokemons/035/
+[Golbat]: ../../pokemons/042/
+[Graveler]: ../../pokemons/075/
+[Nosepass]: ../../pokemons/299/
+[Lunatone]: ../../pokemons/337/
+[Solrock]: ../../pokemons/338/
+[Chimecho]: ../../pokemons/358/
+[Metang]: ../../pokemons/375/
+[Bronzong]: ../../pokemons/437/
 [035]: ../img/pokemon/035.png
 [042]: ../img/pokemon/042.png
 [075]: ../img/pokemon/075.png

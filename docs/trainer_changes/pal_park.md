@@ -23,12 +23,12 @@ Trainer                              | 1                               | 2      
 
 [^1]: Only in Complete version
 [Castle Valet Darach]: #castle-valet-darach
-[Alakazam]: ../../pokemon_changes/065/
-[Entei]: ../../pokemon_changes/244/
-[Metagross]: ../../pokemon_changes/376/
-[Empoleon]: ../../pokemon_changes/395/
-[Staraptor]: ../../pokemon_changes/398/
-[Gallade]: ../../pokemon_changes/475/
+[Alakazam]: ../../pokemons/065/
+[Entei]: ../../pokemons/244/
+[Metagross]: ../../pokemons/376/
+[Empoleon]: ../../pokemons/395/
+[Staraptor]: ../../pokemons/398/
+[Gallade]: ../../pokemons/475/
 [expert-belt]: ../img/items/expert-belt.png
 [kings-rock]: ../img/items/kings-rock.png
 [life-orb]: ../img/items/life-orb.png

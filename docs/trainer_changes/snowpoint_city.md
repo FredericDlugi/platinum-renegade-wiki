@@ -11,13 +11,13 @@ Ace Trainer ???<br>![][ace_f]   | Item | Nature | Ability | Moves
 ---                             | ---  | ---    | ---     | ---
 ![][461]<br>[Weavile]<br>Lv. 85 | None | ?      | ?       | Low Kick, Night Slash, Quick Attack, X-Scissor
 
-[Meganium]: ../../pokemon_changes/154/
-[Typhlosion]: ../../pokemon_changes/157/
-[Feraligatr]: ../../pokemon_changes/160/
-[Heracross]: ../../pokemon_changes/214/
-[Blissey]: ../../pokemon_changes/242/
-[Tyranitar]: ../../pokemon_changes/248/
-[Weavile]: ../../pokemon_changes/461/
+[Meganium]: ../../pokemons/154/
+[Typhlosion]: ../../pokemons/157/
+[Feraligatr]: ../../pokemons/160/
+[Heracross]: ../../pokemons/214/
+[Blissey]: ../../pokemons/242/
+[Tyranitar]: ../../pokemons/248/
+[Weavile]: ../../pokemons/461/
 [154]: ../img/pokemon/154.png
 [157]: ../img/pokemon/157.png
 [160]: ../img/pokemon/160.png

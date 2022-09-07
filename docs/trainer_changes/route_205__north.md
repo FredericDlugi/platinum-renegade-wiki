@@ -17,17 +17,17 @@ Trainer                                              | 1                        
 Fisherman Joseph :material-numeric-5-circle-outline: | ![][119]<br>[Seaking]<br>Lv. 38 | ![][061]<br>[Poliwhirl]<br>Lv. 38 | ![][342]<br>[Crawdaunt]<br>Lv. 38
 Fisherman Joseph :material-alpha-c-circle-outline:   | ![][119]<br>[Seaking]<br>Lv. 70 | ![][186]<br>[Politoed]<br>Lv. 70  | ![][342]<br>[Crawdaunt]<br>Lv. 70
 
-[Poliwag]: ../../pokemon_changes/060/
-[Poliwhirl]: ../../pokemon_changes/061/
-[Krabby]: ../../pokemon_changes/098/
-[Goldeen]: ../../pokemon_changes/118/
-[Seaking]: ../../pokemon_changes/119/
-[Magikarp]: ../../pokemon_changes/129/
-[Politoed]: ../../pokemon_changes/186/
-[Corphish]: ../../pokemon_changes/341/
-[Crawdaunt]: ../../pokemon_changes/342/
-[Feebas]: ../../pokemon_changes/349/
-[Finneon]: ../../pokemon_changes/456/
+[Poliwag]: ../../pokemons/060/
+[Poliwhirl]: ../../pokemons/061/
+[Krabby]: ../../pokemons/098/
+[Goldeen]: ../../pokemons/118/
+[Seaking]: ../../pokemons/119/
+[Magikarp]: ../../pokemons/129/
+[Politoed]: ../../pokemons/186/
+[Corphish]: ../../pokemons/341/
+[Crawdaunt]: ../../pokemons/342/
+[Feebas]: ../../pokemons/349/
+[Finneon]: ../../pokemons/456/
 [060]: ../img/pokemon/060.png
 [061]: ../img/pokemon/061.png
 [098]: ../img/pokemon/098.png

@@ -23,23 +23,23 @@ Trainer                                           | 1                           
 Rancher Marco :material-numeric-8-circle-outline: | ![][078]<br>[Rapidash]<br>Lv. 59 | ![][128]<br>[Tauros]<br>Lv. 59 | ![][241]<br>[Miltank]<br>Lv. 59
 Rancher Marco :material-alpha-c-circle-outline:   | ![][078]<br>[Rapidash]<br>Lv. 70 | ![][128]<br>[Tauros]<br>Lv. 70 | ![][241]<br>[Miltank]<br>Lv. 70
 
-[Clefable]: ../../pokemon_changes/036/
-[Rapidash]: ../../pokemon_changes/078/
-[Electrode]: ../../pokemon_changes/101/
-[Tauros]: ../../pokemon_changes/128/
-[Dratini]: ../../pokemon_changes/147/
-[Dragonair]: ../../pokemon_changes/148/
-[Furret]: ../../pokemon_changes/162/
-[Miltank]: ../../pokemon_changes/241/
-[Linoone]: ../../pokemon_changes/264/
-[Wynaut]: ../../pokemon_changes/360/
-[Bagon]: ../../pokemon_changes/371/
-[Shelgon]: ../../pokemon_changes/372/
-[Chingling]: ../../pokemon_changes/433/
-[Happiny]: ../../pokemon_changes/440/
-[Munchlax]: ../../pokemon_changes/446/
-[Riolu]: ../../pokemon_changes/447/
-[Mantyke]: ../../pokemon_changes/458/
+[Clefable]: ../../pokemons/036/
+[Rapidash]: ../../pokemons/078/
+[Electrode]: ../../pokemons/101/
+[Tauros]: ../../pokemons/128/
+[Dratini]: ../../pokemons/147/
+[Dragonair]: ../../pokemons/148/
+[Furret]: ../../pokemons/162/
+[Miltank]: ../../pokemons/241/
+[Linoone]: ../../pokemons/264/
+[Wynaut]: ../../pokemons/360/
+[Bagon]: ../../pokemons/371/
+[Shelgon]: ../../pokemons/372/
+[Chingling]: ../../pokemons/433/
+[Happiny]: ../../pokemons/440/
+[Munchlax]: ../../pokemons/446/
+[Riolu]: ../../pokemons/447/
+[Mantyke]: ../../pokemons/458/
 [036]: ../img/pokemon/036.png
 [078]: ../img/pokemon/078.png
 [101]: ../img/pokemon/101.png

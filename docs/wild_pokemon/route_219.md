@@ -11,16 +11,16 @@ Area                                  | Pokémon                      | &nbsp;  
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][098]<br>[Krabby]<br>60%  | ![][116]<br>[Horsea]<br>30%    | ![][366]<br>[Clamperl]<br>10% | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][099]<br>[Kingler]<br>60% | ![][116]<br>[Horsea]<br>30%    | ![][367]<br>[Huntail]<br>5%   | ![][368]<br>[Gorebyss]<br>5%
 
-[Tentacool]: ../../pokemon_changes/072/
-[Tentacruel]: ../../pokemon_changes/073/
-[Krabby]: ../../pokemon_changes/098/
-[Kingler]: ../../pokemon_changes/099/
-[Horsea]: ../../pokemon_changes/116/
-[Wingull]: ../../pokemon_changes/278/
-[Pelipper]: ../../pokemon_changes/279/
-[Clamperl]: ../../pokemon_changes/366/
-[Huntail]: ../../pokemon_changes/367/
-[Gorebyss]: ../../pokemon_changes/368/
+[Tentacool]: ../../pokemons/072/
+[Tentacruel]: ../../pokemons/073/
+[Krabby]: ../../pokemons/098/
+[Kingler]: ../../pokemons/099/
+[Horsea]: ../../pokemons/116/
+[Wingull]: ../../pokemons/278/
+[Pelipper]: ../../pokemons/279/
+[Clamperl]: ../../pokemons/366/
+[Huntail]: ../../pokemons/367/
+[Gorebyss]: ../../pokemons/368/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png

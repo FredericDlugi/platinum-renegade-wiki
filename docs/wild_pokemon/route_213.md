@@ -16,26 +16,26 @@ Area                                         | Pokémon                        |
 ![][super-rod]<br>Super Rod<br>Lv. 50        | ![][130]<br>[Gyarados]<br>60%  | ![][224]<br>[Octillery]<br>30% | ![][321]<br>[Wailord]<br>10%   | &nbsp;                       | &nbsp;                          | &nbsp;
 ![][honey]<br>Honey Tree<br>Lv. 33           | ![][397]<br>[Staravia]<br>30%  | ![][017]<br>[Pidgeotto]<br>20% | ![][164]<br>[Noctowl]<br>20%   | ![][277]<br>[Swellow]<br>20% | ![][083]<br>[Farfetch'd]<br>10% | &nbsp;
 
-[Pidgeotto]: ../../pokemon_changes/017/
-[Tentacool]: ../../pokemon_changes/072/
-[Tentacruel]: ../../pokemon_changes/073/
-[Farfetch'd]: ../../pokemon_changes/083/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Noctowl]: ../../pokemon_changes/164/
-[Shuckle]: ../../pokemon_changes/213/
-[Remoraid]: ../../pokemon_changes/223/
-[Octillery]: ../../pokemon_changes/224/
-[Swellow]: ../../pokemon_changes/277/
-[Wingull]: ../../pokemon_changes/278/
-[Pelipper]: ../../pokemon_changes/279/
-[Wailmer]: ../../pokemon_changes/320/
-[Wailord]: ../../pokemon_changes/321/
-[Absol]: ../../pokemon_changes/359/
-[Staravia]: ../../pokemon_changes/397/
-[Floatzel]: ../../pokemon_changes/419/
-[Gastrodon]: ../../pokemon_changes/423/
-[Chatot]: ../../pokemon_changes/441/
+[Pidgeotto]: ../../pokemons/017/
+[Tentacool]: ../../pokemons/072/
+[Tentacruel]: ../../pokemons/073/
+[Farfetch'd]: ../../pokemons/083/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Noctowl]: ../../pokemons/164/
+[Shuckle]: ../../pokemons/213/
+[Remoraid]: ../../pokemons/223/
+[Octillery]: ../../pokemons/224/
+[Swellow]: ../../pokemons/277/
+[Wingull]: ../../pokemons/278/
+[Pelipper]: ../../pokemons/279/
+[Wailmer]: ../../pokemons/320/
+[Wailord]: ../../pokemons/321/
+[Absol]: ../../pokemons/359/
+[Staravia]: ../../pokemons/397/
+[Floatzel]: ../../pokemons/419/
+[Gastrodon]: ../../pokemons/423/
+[Chatot]: ../../pokemons/441/
 [good-rod]: ../img/items/good-rod.png
 [honey]: ../img/items/honey.png
 [old-rod]: ../img/items/old-rod.png

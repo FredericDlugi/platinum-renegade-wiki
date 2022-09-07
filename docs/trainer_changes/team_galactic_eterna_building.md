@@ -28,26 +28,26 @@ Scientist Travon                    | ![][096]<br>[Drowzee]<br>Lv. 24  | ![][375
 
 [^1]: Only in Complete version
 [Commander Jupiter]: #commander-jupiter
-[Ekans]: ../../pokemon_changes/023/
-[Nidoran♀]: ../../pokemon_changes/029/
-[Nidoran♂]: ../../pokemon_changes/032/
-[Golbat]: ../../pokemon_changes/042/
-[Kadabra]: ../../pokemon_changes/064/
-[Drowzee]: ../../pokemon_changes/096/
-[Koffing]: ../../pokemon_changes/109/
-[Tangela]: ../../pokemon_changes/114/
-[Ledian]: ../../pokemon_changes/166/
-[Ariados]: ../../pokemon_changes/168/
-[Cleffa]: ../../pokemon_changes/173/
-[Houndour]: ../../pokemon_changes/228/
-[Beautifly]: ../../pokemon_changes/267/
-[Sableye]: ../../pokemon_changes/302/
-[Metang]: ../../pokemon_changes/375/
-[Glameow]: ../../pokemon_changes/431/
-[Stunky]: ../../pokemon_changes/434/
-[Skuntank]: ../../pokemon_changes/435/
-[Skorupi]: ../../pokemon_changes/451/
-[Croagunk]: ../../pokemon_changes/453/
+[Ekans]: ../../pokemons/023/
+[Nidoran♀]: ../../pokemons/029/
+[Nidoran♂]: ../../pokemons/032/
+[Golbat]: ../../pokemons/042/
+[Kadabra]: ../../pokemons/064/
+[Drowzee]: ../../pokemons/096/
+[Koffing]: ../../pokemons/109/
+[Tangela]: ../../pokemons/114/
+[Ledian]: ../../pokemons/166/
+[Ariados]: ../../pokemons/168/
+[Cleffa]: ../../pokemons/173/
+[Houndour]: ../../pokemons/228/
+[Beautifly]: ../../pokemons/267/
+[Sableye]: ../../pokemons/302/
+[Metang]: ../../pokemons/375/
+[Glameow]: ../../pokemons/431/
+[Stunky]: ../../pokemons/434/
+[Skuntank]: ../../pokemons/435/
+[Skorupi]: ../../pokemons/451/
+[Croagunk]: ../../pokemons/453/
 [sitrus-berry]: ../img/items/sitrus-berry.png
 [023]: ../img/pokemon/023.png
 [029]: ../img/pokemon/029.png

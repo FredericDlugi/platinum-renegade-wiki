@@ -45,40 +45,40 @@ Clown Lee :material-numeric-8-circle-outline:               | ![][424]<br>[Ambip
 Clown Lee :material-alpha-c-circle-outline:                 | ![][424]<br>[Ambipom]<br>Lv. 70    | ![][065]<br>[Alakazam]<br>Lv. 70  | &nbsp;
 Clown Lee :material-alpha-s-circle-outline:                 | ![][424]<br>[Ambipom]<br>Lv. 80    | ![][065]<br>[Alakazam]<br>Lv. 80  | &nbsp;
 
-[Pikachu]: ../../pokemon_changes/025/
-[Raichu]: ../../pokemon_changes/026/
-[Clefairy]: ../../pokemon_changes/035/
-[Clefable]: ../../pokemon_changes/036/
-[Jigglypuff]: ../../pokemon_changes/039/
-[Wigglytuff]: ../../pokemon_changes/040/
-[Abra]: ../../pokemon_changes/063/
-[Kadabra]: ../../pokemon_changes/064/
-[Alakazam]: ../../pokemon_changes/065/
-[Machop]: ../../pokemon_changes/066/
-[Machoke]: ../../pokemon_changes/067/
-[Machamp]: ../../pokemon_changes/068/
-[Magnemite]: ../../pokemon_changes/081/
-[Magneton]: ../../pokemon_changes/082/
-[Voltorb]: ../../pokemon_changes/100/
-[Electrode]: ../../pokemon_changes/101/
-[Mr. Mime]: ../../pokemon_changes/122/
-[Pichu]: ../../pokemon_changes/172/
-[Cleffa]: ../../pokemon_changes/173/
-[Igglybuff]: ../../pokemon_changes/174/
-[Aipom]: ../../pokemon_changes/190/
-[Ralts]: ../../pokemon_changes/280/
-[Kirlia]: ../../pokemon_changes/281/
-[Gardevoir]: ../../pokemon_changes/282/
-[Kricketot]: ../../pokemon_changes/401/
-[Kricketune]: ../../pokemon_changes/402/
-[Shinx]: ../../pokemon_changes/403/
-[Luxio]: ../../pokemon_changes/404/
-[Luxray]: ../../pokemon_changes/405/
-[Ambipom]: ../../pokemon_changes/424/
-[Drifloon]: ../../pokemon_changes/425/
-[Drifblim]: ../../pokemon_changes/426/
-[Mime Jr.]: ../../pokemon_changes/439/
-[Magnezone]: ../../pokemon_changes/462/
+[Pikachu]: ../../pokemons/025/
+[Raichu]: ../../pokemons/026/
+[Clefairy]: ../../pokemons/035/
+[Clefable]: ../../pokemons/036/
+[Jigglypuff]: ../../pokemons/039/
+[Wigglytuff]: ../../pokemons/040/
+[Abra]: ../../pokemons/063/
+[Kadabra]: ../../pokemons/064/
+[Alakazam]: ../../pokemons/065/
+[Machop]: ../../pokemons/066/
+[Machoke]: ../../pokemons/067/
+[Machamp]: ../../pokemons/068/
+[Magnemite]: ../../pokemons/081/
+[Magneton]: ../../pokemons/082/
+[Voltorb]: ../../pokemons/100/
+[Electrode]: ../../pokemons/101/
+[Mr. Mime]: ../../pokemons/122/
+[Pichu]: ../../pokemons/172/
+[Cleffa]: ../../pokemons/173/
+[Igglybuff]: ../../pokemons/174/
+[Aipom]: ../../pokemons/190/
+[Ralts]: ../../pokemons/280/
+[Kirlia]: ../../pokemons/281/
+[Gardevoir]: ../../pokemons/282/
+[Kricketot]: ../../pokemons/401/
+[Kricketune]: ../../pokemons/402/
+[Shinx]: ../../pokemons/403/
+[Luxio]: ../../pokemons/404/
+[Luxray]: ../../pokemons/405/
+[Ambipom]: ../../pokemons/424/
+[Drifloon]: ../../pokemons/425/
+[Drifblim]: ../../pokemons/426/
+[Mime Jr.]: ../../pokemons/439/
+[Magnezone]: ../../pokemons/462/
 [025]: ../img/pokemon/025.png
 [026]: ../img/pokemon/026.png
 [035]: ../img/pokemon/035.png

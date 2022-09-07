@@ -28,14 +28,14 @@ Galactic Grunt                    | ![][435]<br>[Skuntank]<br>Lv. 50 | &nbsp;   
 --8<-- "includes/natures.md"
 
 [Commander Saturn]: #commander-saturn
-[Alakazam]: ../../pokemon_changes/065/
-[Rhydon]: ../../pokemon_changes/112/
-[Octillery]: ../../pokemon_changes/224/
-[Houndoom]: ../../pokemon_changes/229/
-[Purugly]: ../../pokemon_changes/432/
-[Skuntank]: ../../pokemon_changes/435/
-[Bronzong]: ../../pokemon_changes/437/
-[Toxicroak]: ../../pokemon_changes/454/
+[Alakazam]: ../../pokemons/065/
+[Rhydon]: ../../pokemons/112/
+[Octillery]: ../../pokemons/224/
+[Houndoom]: ../../pokemons/229/
+[Purugly]: ../../pokemons/432/
+[Skuntank]: ../../pokemons/435/
+[Bronzong]: ../../pokemons/437/
+[Toxicroak]: ../../pokemons/454/
 [bright-powder]: ../img/items/bright-powder.png
 [expert-belt]: ../img/items/expert-belt.png
 [life-orb]: ../img/items/life-orb.png

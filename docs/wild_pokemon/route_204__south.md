@@ -18,26 +18,26 @@ Area                                       | Pokémon                       | &n
 ![][good-rod]<br>Good Rod<br>Lv. 25        | ![][129]<br>[Magikarp]<br>60% | ![][118]<br>[Goldeen]<br>30%   | ![][341]<br>[Corphish]<br>10%   | &nbsp;                     | &nbsp;                        | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50      | ![][130]<br>[Gyarados]<br>60% | ![][119]<br>[Seaking]<br>30%   | ![][342]<br>[Crawdaunt]<br>10%  | &nbsp;                     | &nbsp;                        | &nbsp;
 
-[Caterpie]: ../../pokemon_changes/010/
-[Weedle]: ../../pokemon_changes/013/
-[Oddish]: ../../pokemon_changes/043/
-[Bellsprout]: ../../pokemon_changes/069/
-[Goldeen]: ../../pokemon_changes/118/
-[Seaking]: ../../pokemon_changes/119/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Ledyba]: ../../pokemon_changes/165/
-[Spinarak]: ../../pokemon_changes/167/
-[Marill]: ../../pokemon_changes/183/
-[Azumarill]: ../../pokemon_changes/184/
-[Sunkern]: ../../pokemon_changes/191/
-[Wurmple]: ../../pokemon_changes/265/
-[Ralts]: ../../pokemon_changes/280/
-[Roselia]: ../../pokemon_changes/315/
-[Corphish]: ../../pokemon_changes/341/
-[Crawdaunt]: ../../pokemon_changes/342/
-[Starly]: ../../pokemon_changes/396/
-[Budew]: ../../pokemon_changes/406/
+[Caterpie]: ../../pokemons/010/
+[Weedle]: ../../pokemons/013/
+[Oddish]: ../../pokemons/043/
+[Bellsprout]: ../../pokemons/069/
+[Goldeen]: ../../pokemons/118/
+[Seaking]: ../../pokemons/119/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Ledyba]: ../../pokemons/165/
+[Spinarak]: ../../pokemons/167/
+[Marill]: ../../pokemons/183/
+[Azumarill]: ../../pokemons/184/
+[Sunkern]: ../../pokemons/191/
+[Wurmple]: ../../pokemons/265/
+[Ralts]: ../../pokemons/280/
+[Roselia]: ../../pokemons/315/
+[Corphish]: ../../pokemons/341/
+[Crawdaunt]: ../../pokemons/342/
+[Starly]: ../../pokemons/396/
+[Budew]: ../../pokemons/406/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [poke-radar]: ../img/items/poke-radar.png

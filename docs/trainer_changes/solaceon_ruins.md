@@ -20,10 +20,10 @@ Psychic Frasier<br>![][psychic_m] | Item | Nature | Ability    | Moves
 
 --8<-- "includes/natures.md"
 
-[Sandslash]: ../../pokemon_changes/028/
-[Graveler]: ../../pokemon_changes/075/
-[Metagross]: ../../pokemon_changes/376/
-[Bronzor]: ../../pokemon_changes/436/
+[Sandslash]: ../../pokemons/028/
+[Graveler]: ../../pokemons/075/
+[Metagross]: ../../pokemons/376/
+[Bronzor]: ../../pokemons/436/
 [028]: ../img/pokemon/028.png
 [075]: ../img/pokemon/075.png
 [376]: ../img/pokemon/376.png

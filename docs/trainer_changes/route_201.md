@@ -9,9 +9,9 @@ PKMN Trainer Barry | ![][390]<br>[Chimchar]<br>Lv. 5
 PKMN Trainer Barry | ![][393]<br>[Piplup]<br>Lv. 5
 PKMN Trainer Barry | ![][387]<br>[Turtwig]<br>Lv. 5
 
-[Turtwig]: ../../pokemon_changes/387/
-[Chimchar]: ../../pokemon_changes/390/
-[Piplup]: ../../pokemon_changes/393/
+[Turtwig]: ../../pokemons/387/
+[Chimchar]: ../../pokemons/390/
+[Piplup]: ../../pokemons/393/
 [387]: ../img/pokemon/387.png
 [390]: ../img/pokemon/390.png
 [393]: ../img/pokemon/393.png

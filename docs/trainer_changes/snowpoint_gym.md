@@ -29,24 +29,24 @@ Ace Trainer Sergio               | ![][220]<br>[Swinub]<br>Lv. 51    | ![][221]<
 
 [^1]: Only in Complete version
 [Leader Candice]: #leader-candice
-[Seel]: ../../pokemon_changes/086/
-[Dewgong]: ../../pokemon_changes/087/
-[Cloyster]: ../../pokemon_changes/091/
-[Jynx]: ../../pokemon_changes/124/
-[Lapras]: ../../pokemon_changes/131/
-[Swinub]: ../../pokemon_changes/220/
-[Piloswine]: ../../pokemon_changes/221/
-[Delibird]: ../../pokemon_changes/225/
-[Snorunt]: ../../pokemon_changes/361/
-[Glalie]: ../../pokemon_changes/362/
-[Spheal]: ../../pokemon_changes/363/
-[Sealeo]: ../../pokemon_changes/364/
-[Walrein]: ../../pokemon_changes/365/
-[Abomasnow]: ../../pokemon_changes/460/
-[Weavile]: ../../pokemon_changes/461/
-[Glaceon]: ../../pokemon_changes/471/
-[Mamoswine]: ../../pokemon_changes/473/
-[Froslass]: ../../pokemon_changes/478/
+[Seel]: ../../pokemons/086/
+[Dewgong]: ../../pokemons/087/
+[Cloyster]: ../../pokemons/091/
+[Jynx]: ../../pokemons/124/
+[Lapras]: ../../pokemons/131/
+[Swinub]: ../../pokemons/220/
+[Piloswine]: ../../pokemons/221/
+[Delibird]: ../../pokemons/225/
+[Snorunt]: ../../pokemons/361/
+[Glalie]: ../../pokemons/362/
+[Spheal]: ../../pokemons/363/
+[Sealeo]: ../../pokemons/364/
+[Walrein]: ../../pokemons/365/
+[Abomasnow]: ../../pokemons/460/
+[Weavile]: ../../pokemons/461/
+[Glaceon]: ../../pokemons/471/
+[Mamoswine]: ../../pokemons/473/
+[Froslass]: ../../pokemons/478/
 [bright-powder]: ../img/items/bright-powder.png
 [chople-berry]: ../img/items/chople-berry.png
 [expert-belt]: ../img/items/expert-belt.png

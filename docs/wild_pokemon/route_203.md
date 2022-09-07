@@ -18,20 +18,20 @@ Area                                       | Pokémon                       | &n
 ![][good-rod]<br>Good Rod<br>Lv. 25        | ![][129]<br>[Magikarp]<br>60% | ![][341]<br>[Corphish]<br>35%  | &nbsp;                       | &nbsp;                      | &nbsp;                     | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50      | ![][130]<br>[Gyarados]<br>60% | ![][342]<br>[Crawdaunt]<br>35% | &nbsp;                       | &nbsp;                      | &nbsp;                     | &nbsp;
 
-[Spearow]: ../../pokemon_changes/021/
-[Psyduck]: ../../pokemon_changes/054/
-[Golduck]: ../../pokemon_changes/055/
-[Abra]: ../../pokemon_changes/063/
-[Cubone]: ../../pokemon_changes/104/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Pineco]: ../../pokemon_changes/204/
-[Lotad]: ../../pokemon_changes/270/
-[Seedot]: ../../pokemon_changes/273/
-[Corphish]: ../../pokemon_changes/341/
-[Crawdaunt]: ../../pokemon_changes/342/
-[Starly]: ../../pokemon_changes/396/
-[Bidoof]: ../../pokemon_changes/399/
+[Spearow]: ../../pokemons/021/
+[Psyduck]: ../../pokemons/054/
+[Golduck]: ../../pokemons/055/
+[Abra]: ../../pokemons/063/
+[Cubone]: ../../pokemons/104/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Pineco]: ../../pokemons/204/
+[Lotad]: ../../pokemons/270/
+[Seedot]: ../../pokemons/273/
+[Corphish]: ../../pokemons/341/
+[Crawdaunt]: ../../pokemons/342/
+[Starly]: ../../pokemons/396/
+[Bidoof]: ../../pokemons/399/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [poke-radar]: ../img/items/poke-radar.png

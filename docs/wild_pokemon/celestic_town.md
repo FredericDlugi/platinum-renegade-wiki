@@ -10,11 +10,11 @@ Area                                  | Pokémon                       | &nbsp;
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>90% | ![][369]<br>[Relicanth]<br>10%
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>90% | ![][369]<br>[Relicanth]<br>10%
 
-[Psyduck]: ../../pokemon_changes/054/
-[Golduck]: ../../pokemon_changes/055/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Relicanth]: ../../pokemon_changes/369/
+[Psyduck]: ../../pokemons/054/
+[Golduck]: ../../pokemons/055/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Relicanth]: ../../pokemons/369/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png

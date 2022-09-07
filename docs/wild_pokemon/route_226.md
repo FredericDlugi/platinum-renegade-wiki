@@ -17,20 +17,20 @@ Area                                  | Pokémon                       | &nbsp; 
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>60% | ![][116]<br>[Horsea]<br>30%     | ![][369]<br>[Relicanth]<br>10% | &nbsp;                         | &nbsp;                        | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>60% | ![][117]<br>[Seadra]<br>30%     | ![][369]<br>[Relicanth]<br>10% | &nbsp;                         | &nbsp;                        | &nbsp;
 
-[Raticate]: ../../pokemon_changes/020/
-[Fearow]: ../../pokemon_changes/022/
-[Arbok]: ../../pokemon_changes/024/
-[Sandslash]: ../../pokemon_changes/028/
-[Tentacruel]: ../../pokemon_changes/073/
-[Rapidash]: ../../pokemon_changes/078/
-[Dodrio]: ../../pokemon_changes/085/
-[Kingler]: ../../pokemon_changes/099/
-[Horsea]: ../../pokemon_changes/116/
-[Seadra]: ../../pokemon_changes/117/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Pelipper]: ../../pokemon_changes/279/
-[Relicanth]: ../../pokemon_changes/369/
+[Raticate]: ../../pokemons/020/
+[Fearow]: ../../pokemons/022/
+[Arbok]: ../../pokemons/024/
+[Sandslash]: ../../pokemons/028/
+[Tentacruel]: ../../pokemons/073/
+[Rapidash]: ../../pokemons/078/
+[Dodrio]: ../../pokemons/085/
+[Kingler]: ../../pokemons/099/
+[Horsea]: ../../pokemons/116/
+[Seadra]: ../../pokemons/117/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Pelipper]: ../../pokemons/279/
+[Relicanth]: ../../pokemons/369/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png

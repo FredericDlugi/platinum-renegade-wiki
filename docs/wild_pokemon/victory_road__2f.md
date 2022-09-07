@@ -9,14 +9,14 @@ Area                   | Pokémon                      | &nbsp;                 
 🌙<br>Night<br>Lv. 59   | ![][208]<br>[Steelix]<br>20% | ![][082]<br>[Magneton]<br>20% | ![][075]<br>[Graveler]<br>10% | ![][064]<br>[Kadabra]<br>10% | ![][108]<br>[Lickitung]<br>10% | ![][042]<br>[Golbat]<br>10%
 &nbsp;                 | ![][105]<br>[Marowak]<br>10% | ![][444]<br>[Gabite]<br>10%   | &nbsp;                        | &nbsp;                       | &nbsp;                         | &nbsp;
 
-[Golbat]: ../../pokemon_changes/042/
-[Kadabra]: ../../pokemon_changes/064/
-[Graveler]: ../../pokemon_changes/075/
-[Magneton]: ../../pokemon_changes/082/
-[Marowak]: ../../pokemon_changes/105/
-[Lickitung]: ../../pokemon_changes/108/
-[Steelix]: ../../pokemon_changes/208/
-[Gabite]: ../../pokemon_changes/444/
+[Golbat]: ../../pokemons/042/
+[Kadabra]: ../../pokemons/064/
+[Graveler]: ../../pokemons/075/
+[Magneton]: ../../pokemons/082/
+[Marowak]: ../../pokemons/105/
+[Lickitung]: ../../pokemons/108/
+[Steelix]: ../../pokemons/208/
+[Gabite]: ../../pokemons/444/
 [042]: ../img/pokemon/042.png
 [064]: ../img/pokemon/064.png
 [075]: ../img/pokemon/075.png

@@ -19,17 +19,17 @@ Black Belt Randy<br>![][blackbelt] | Item | Nature | Ability | Moves
 
 --8<-- "includes/natures.md"
 
-[Golbat]: ../../pokemon_changes/042/
-[Venomoth]: ../../pokemon_changes/049/
-[Weezing]: ../../pokemon_changes/110/
-[Dragonair]: ../../pokemon_changes/148/
-[Kingdra]: ../../pokemon_changes/230/
-[Dustox]: ../../pokemon_changes/269/
-[Vibrava]: ../../pokemon_changes/329/
-[Shelgon]: ../../pokemon_changes/372/
-[Wormadam]: ../../pokemon_changes/413/
-[Skuntank]: ../../pokemon_changes/435/
-[Gallade]: ../../pokemon_changes/475/
+[Golbat]: ../../pokemons/042/
+[Venomoth]: ../../pokemons/049/
+[Weezing]: ../../pokemons/110/
+[Dragonair]: ../../pokemons/148/
+[Kingdra]: ../../pokemons/230/
+[Dustox]: ../../pokemons/269/
+[Vibrava]: ../../pokemons/329/
+[Shelgon]: ../../pokemons/372/
+[Wormadam]: ../../pokemons/413/
+[Skuntank]: ../../pokemons/435/
+[Gallade]: ../../pokemons/475/
 [042]: ../img/pokemon/042.png
 [049]: ../img/pokemon/049.png
 [110]: ../img/pokemon/110.png

@@ -14,15 +14,15 @@ Area                                         | Pokémon                        |
 ![][good-rod]<br>Good Rod<br>Lv. 25          | ![][129]<br>[Magikarp]<br>100% | &nbsp;                          | &nbsp;                          | &nbsp;                         | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50        | ![][130]<br>[Gyarados]<br>100% | &nbsp;                          | &nbsp;                          | &nbsp;                         | &nbsp;
 
-[Golduck]: ../../pokemon_changes/055/
-[Lickitung]: ../../pokemon_changes/108/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Wobbuffet]: ../../pokemon_changes/202/
-[Surskit]: ../../pokemon_changes/283/
-[Masquerain]: ../../pokemon_changes/284/
-[Staravia]: ../../pokemon_changes/397/
-[Bibarel]: ../../pokemon_changes/400/
+[Golduck]: ../../pokemons/055/
+[Lickitung]: ../../pokemons/108/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Wobbuffet]: ../../pokemons/202/
+[Surskit]: ../../pokemons/283/
+[Masquerain]: ../../pokemons/284/
+[Staravia]: ../../pokemons/397/
+[Bibarel]: ../../pokemons/400/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [poke-radar]: ../img/items/poke-radar.png

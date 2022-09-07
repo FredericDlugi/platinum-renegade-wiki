@@ -31,14 +31,14 @@ Both Battles are back to back
 
 [^1]: Only in Complete version
 [Galactic Boss Cyrus]: #galactic-boss-cyrus
-[Gyarados]: ../../pokemon_changes/130/
-[Crobat]: ../../pokemon_changes/169/
-[Houndoom]: ../../pokemon_changes/229/
-[Honchkrow]: ../../pokemon_changes/430/
-[Weavile]: ../../pokemon_changes/461/
-[Magnezone]: ../../pokemon_changes/462/
-[Dialga]: ../../pokemon_changes/483/
-[Palkia]: ../../pokemon_changes/484/
+[Gyarados]: ../../pokemons/130/
+[Crobat]: ../../pokemons/169/
+[Houndoom]: ../../pokemons/229/
+[Honchkrow]: ../../pokemons/430/
+[Weavile]: ../../pokemons/461/
+[Magnezone]: ../../pokemons/462/
+[Dialga]: ../../pokemons/483/
+[Palkia]: ../../pokemons/484/
 [choice-band]: ../img/items/choice-band.png
 [focus-sash]: ../img/items/focus-sash.png
 [life-orb]: ../img/items/life-orb.png
