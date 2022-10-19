@@ -15,30 +15,30 @@ Hiker Kevin                              | ![][206]<br>[Dunsparce]<br>Lv. 25 | !
 
 === "Lucas"
     === "Grass"
-        Trainer                                  | 1                                 | 2                                 | 3                                  | 4
-        ---                                      | ---                               | ---                               | ---                                | ---
-        [PKMN Trainer Lucas]<br>![][lucas]       | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][210]<br>[Granbull]<br>Lv. 29  | ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][394]<br>[Prinplup]<br>Lv. 30
+        Trainer                            | 1                                 | 2                                | 3                                  | 4
+        ---                                | ---                               | ---                              | ---                                | ---
+        [PKMN Trainer Lucas]<br>![][lucas] | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][210]<br>[Granbull]<br>Lv. 29 | ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][394]<br>[Prinplup]<br>Lv. 30
     === "Fire"
-        Trainer                                  | 1                                 | 2                                 | 3                                  | 4
-        ---                                      | ---                               | ---                               | ---                                | ---
-        [PKMN Trainer Lucas]<br>![][lucas]       | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][210]<br>[Granbull]<br>Lv. 29  | ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][388]<br>[Grotle]<br>Lv. 30
+        Trainer                            | 1                                 | 2                                | 3                                  | 4
+        ---                                | ---                               | ---                              | ---                                | ---
+        [PKMN Trainer Lucas]<br>![][lucas] | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][210]<br>[Granbull]<br>Lv. 29 | ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][388]<br>[Grotle]<br>Lv. 30
     === "Water"
-        Trainer                                  | 1                                 | 2                                 | 3                                  | 4
-        ---                                      | ---                               | ---                               | ---                                | ---
-        [PKMN Trainer Lucas]<br>![][lucas]       | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][210]<br>[Granbull]<br>Lv. 29  | ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][391]<br>[Monferno]<br>Lv. 30
+        Trainer                            | 1                                 | 2                                | 3                                  | 4
+        ---                                | ---                               | ---                              | ---                                | ---
+        [PKMN Trainer Lucas]<br>![][lucas] | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][210]<br>[Granbull]<br>Lv. 29 | ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][391]<br>[Monferno]<br>Lv. 30
 === "Dawn"
     === "Grass"
-        Trainer                                  | 1                                 | 2                                 | 3                                  | 4
-        ---                                      | ---                               | ---                               | ---                                | ---
-        [PKMN Trainer Dawn]<br>![][dawn]         | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][036]<br>[Clefable]<br>Lv. 29  | ![][428]<br>[Lopunny]<br>Lv. 29    | ![][394]<br>[Prinplup]<br>Lv. 30
+        Trainer                          | 1                                 | 2                                | 3                               | 4
+        ---                              | ---                               | ---                              | ---                             | ---
+        [PKMN Trainer Dawn]<br>![][dawn] | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][036]<br>[Clefable]<br>Lv. 29 | ![][428]<br>[Lopunny]<br>Lv. 29 | ![][394]<br>[Prinplup]<br>Lv. 30
     === "Fire"
-        Trainer                                  | 1                                 | 2                                 | 3                                  | 4
-        ---                                      | ---                               | ---                               | ---                                | ---
-        [PKMN Trainer Dawn]<br>![][dawn]         | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][036]<br>[Clefable]<br>Lv. 29  | ![][428]<br>[Lopunny]<br>Lv. 29    | ![][388]<br>[Grotle]<br>Lv. 30
+        Trainer                          | 1                                 | 2                                | 3                               | 4
+        ---                              | ---                               | ---                              | ---                             | ---
+        [PKMN Trainer Dawn]<br>![][dawn] | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][036]<br>[Clefable]<br>Lv. 29 | ![][428]<br>[Lopunny]<br>Lv. 29 | ![][388]<br>[Grotle]<br>Lv. 30
     === "Water"
-        Trainer                                  | 1                                 | 2                                 | 3                                  | 4
-        ---                                      | ---                               | ---                               | ---                                | ---
-        [PKMN Trainer Dawn]<br>![][dawn]         | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][036]<br>[Clefable]<br>Lv. 29  | ![][428]<br>[Lopunny]<br>Lv. 29    | ![][391]<br>[Monferno]<br>Lv. 30
+        Trainer                          | 1                                 | 2                                | 3                               | 4
+        ---                              | ---                               | ---                              | ---                             | ---
+        [PKMN Trainer Dawn]<br>![][dawn] | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][036]<br>[Clefable]<br>Lv. 29 | ![][428]<br>[Lopunny]<br>Lv. 29 | ![][391]<br>[Monferno]<br>Lv. 30
 
 
 ## PKMN Trainer Dawn

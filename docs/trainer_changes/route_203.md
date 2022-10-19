@@ -4,17 +4,17 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_203/).
 
 === "Grass"
-    Trainer                                 | 1                                | 2                                 | 3
-    ---                                     | ---                              | ---                               | ---
-    PKMN Trainer Barry<br>![][barry]        | ![][396]<br>[Starly]<br>Lv. 10   | ![][446]<br>[Munchlax]<br>Lv. 10  | ![][390]<br>[Chimchar]<br>Lv. 11
+    Trainer                          | 1                              | 2                                | 3
+    ---                              | ---                            | ---                              | ---
+    PKMN Trainer Barry<br>![][barry] | ![][396]<br>[Starly]<br>Lv. 10 | ![][446]<br>[Munchlax]<br>Lv. 10 | ![][390]<br>[Chimchar]<br>Lv. 11
 === "Fire"
-    Trainer                                 | 1                                | 2                                 | 3
-    ---                                     | ---                              | ---                               | ---
-    PKMN Trainer Barry<br>![][barry]        | ![][396]<br>[Starly]<br>Lv. 10   | ![][446]<br>[Munchlax]<br>Lv. 10  | ![][393]<br>[Piplup]<br>Lv. 11
+    Trainer                          | 1                              | 2                                | 3
+    ---                              | ---                            | ---                              | ---
+    PKMN Trainer Barry<br>![][barry] | ![][396]<br>[Starly]<br>Lv. 10 | ![][446]<br>[Munchlax]<br>Lv. 10 | ![][393]<br>[Piplup]<br>Lv. 11
 === "Water"
-    Trainer                                 | 1                                | 2                                 | 3
-    ---                                     | ---                              | ---                               | ---
-    PKMN Trainer Barry<br>![][barry]        | ![][396]<br>[Starly]<br>Lv. 10   | ![][446]<br>[Munchlax]<br>Lv. 10  | ![][387]<br>[Turtwig]<br>Lv. 11
+    Trainer                          | 1                              | 2                                | 3
+    ---                              | ---                            | ---                              | ---
+    PKMN Trainer Barry<br>![][barry] | ![][396]<br>[Starly]<br>Lv. 10 | ![][446]<br>[Munchlax]<br>Lv. 10 | ![][387]<br>[Turtwig]<br>Lv. 11
 
 Trainer                                 | 1                                | 2                                 | 3
 ---                                     | ---                              | ---                               | ---

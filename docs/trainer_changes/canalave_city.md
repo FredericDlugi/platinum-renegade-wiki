@@ -5,14 +5,14 @@
 
 
 === "Grass"
-    Trainer                            | 1                                 | 2                                 | 3                               | 4                                 | 5                                | 6
-    ---                                | ---                               | ---                               | ---                             | ---                               | ---                              | ---
-    [PKMN Trainer Barry]<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 48 | ![][214]<br>[Heracross]<br>Lv. 48 | ![][143]<br>[Snorlax]<br>Lv. 48 | ![][184]<br>[Azumarill]<br>Lv. 48 | ![][286]<br>[Breloom]<br>Lv. 48  | ![][392]<br>[Infernape]<br>Lv. 49
+    Trainer                            | 1                                 | 2                                 | 3                               | 4                                 | 5                               | 6
+    ---                                | ---                               | ---                               | ---                             | ---                               | ---                             | ---
+    [PKMN Trainer Barry]<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 48 | ![][214]<br>[Heracross]<br>Lv. 48 | ![][143]<br>[Snorlax]<br>Lv. 48 | ![][184]<br>[Azumarill]<br>Lv. 48 | ![][286]<br>[Breloom]<br>Lv. 48 | ![][392]<br>[Infernape]<br>Lv. 49
 
 === "Fire"
-    Trainer                            | 1                                 | 2                                 | 3                               | 4                                 | 5                                | 6
-    ---                                | ---                               | ---                               | ---                             | ---                               | ---                              | ---
-    [PKMN Trainer Barry]<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 48 | ![][214]<br>[Heracross]<br>Lv. 48 | ![][143]<br>[Snorlax]<br>Lv. 48 | ![][286]<br>[Breloom]<br>Lv. 48   | ![][059]<br>[Arcanine]<br>Lv. 48 | ![][395]<br>[Empoleon]<br>Lv. 49
+    Trainer                            | 1                                 | 2                                 | 3                               | 4                               | 5                                | 6
+    ---                                | ---                               | ---                               | ---                             | ---                             | ---                              | ---
+    [PKMN Trainer Barry]<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 48 | ![][214]<br>[Heracross]<br>Lv. 48 | ![][143]<br>[Snorlax]<br>Lv. 48 | ![][286]<br>[Breloom]<br>Lv. 48 | ![][059]<br>[Arcanine]<br>Lv. 48 | ![][395]<br>[Empoleon]<br>Lv. 49
 
 === "Water"
     Trainer                            | 1                                 | 2                                 | 3                               | 4                                 | 5                                | 6

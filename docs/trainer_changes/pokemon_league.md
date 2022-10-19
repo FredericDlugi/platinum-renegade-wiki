@@ -8,14 +8,14 @@
     In the first round, each Elite Four member will use a random team out of the four listed when challenged.
 
 === "Grass"
-    Trainer                            | 1                                 | 2                                 | 3                               | 4                                 | 5                                | 6
-    ---                                | ---                               | ---                               | ---                             | ---                               | ---                              | ---
-    [PKMN Trainer Barry]<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 70 | ![][214]<br>[Heracross]<br>Lv. 70 | ![][143]<br>[Snorlax]<br>Lv. 70 | ![][184]<br>[Azumarill]<br>Lv. 70 | ![][286]<br>[Breloom]<br>Lv. 70  | ![][392]<br>[Infernape]<br>Lv. 71
+    Trainer                            | 1                                 | 2                                 | 3                               | 4                                 | 5                               | 6
+    ---                                | ---                               | ---                               | ---                             | ---                               | ---                             | ---
+    [PKMN Trainer Barry]<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 70 | ![][214]<br>[Heracross]<br>Lv. 70 | ![][143]<br>[Snorlax]<br>Lv. 70 | ![][184]<br>[Azumarill]<br>Lv. 70 | ![][286]<br>[Breloom]<br>Lv. 70 | ![][392]<br>[Infernape]<br>Lv. 71
 
 === "Fire"
-    Trainer                            | 1                                 | 2                                 | 3                               | 4                                 | 5                                | 6
-    ---                                | ---                               | ---                               | ---                             | ---                               | ---                              | ---
-    [PKMN Trainer Barry]<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 70 | ![][214]<br>[Heracross]<br>Lv. 70 | ![][143]<br>[Snorlax]<br>Lv. 70 | ![][286]<br>[Breloom]<br>Lv. 70   | ![][059]<br>[Arcanine]<br>Lv. 70 | ![][395]<br>[Empoleon]<br>Lv. 71
+    Trainer                            | 1                                 | 2                                 | 3                               | 4                               | 5                                | 6
+    ---                                | ---                               | ---                               | ---                             | ---                             | ---                              | ---
+    [PKMN Trainer Barry]<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 70 | ![][214]<br>[Heracross]<br>Lv. 70 | ![][143]<br>[Snorlax]<br>Lv. 70 | ![][286]<br>[Breloom]<br>Lv. 70 | ![][059]<br>[Arcanine]<br>Lv. 70 | ![][395]<br>[Empoleon]<br>Lv. 71
 
 === "Water"
     Trainer                            | 1                                 | 2                                 | 3                               | 4                                 | 5                                | 6
@@ -25,103 +25,103 @@
 ## Round 1
 
 === "A1"
-    Trainer                                                      | 1                                  | 2                                 | 3                                 | 4                                  | 5                                  | 6
-    ---                                                          | ---                                | ---                               | ---                               | ---                                | ---                                | ---
-    [Elite Four Aaron](#elite-four-aaron-r1)<br>![][aaron]    | ![][469]<br>[Yanmega]<br>Lv. 71    | ![][212]<br>[Scizor]<br>Lv. 71    | ![][214]<br>[Heracross]<br>Lv. 71 | ![][416]<br>[Vespiquen]<br>Lv. 71  | ![][348]<br>[Armaldo]<br>Lv. 71    | ![][452]<br>[Drapion]<br>Lv. 72
+    Trainer                                                | 1                               | 2                              | 3                                 | 4                                 | 5                               | 6
+    ---                                                    | ---                             | ---                            | ---                               | ---                               | ---                             | ---
+    [Elite Four Aaron](#elite-four-aaron-r1)<br>![][aaron] | ![][469]<br>[Yanmega]<br>Lv. 71 | ![][212]<br>[Scizor]<br>Lv. 71 | ![][214]<br>[Heracross]<br>Lv. 71 | ![][416]<br>[Vespiquen]<br>Lv. 71 | ![][348]<br>[Armaldo]<br>Lv. 71 | ![][452]<br>[Drapion]<br>Lv. 72
 
 === "A2"
-    Trainer                                                      | 1                                  | 2                                 | 3                                 | 4                                  | 5                                  | 6
-    ---                                                          | ---                                | ---                               | ---                               | ---                                | ---                                | ---
-    [Elite Four Aaron](#elite-four-aaron-r1)<br>![][aaron]    | ![][049]<br>[Venomoth]<br>Lv. 71   | ![][123]<br>[Scyther]<br>Lv. 71   | ![][127]<br>[Pinsir]<br>Lv. 71    | ![][205]<br>[Forretress]<br>Lv. 71 | ![][348]<br>[Armaldo]<br>Lv. 71    | ![][452]<br>[Drapion]<br>Lv. 72
+    Trainer                                                | 1                                | 2                               | 3                              | 4                                  | 5                               | 6
+    ---                                                    | ---                              | ---                             | ---                            | ---                                | ---                             | ---
+    [Elite Four Aaron](#elite-four-aaron-r1)<br>![][aaron] | ![][049]<br>[Venomoth]<br>Lv. 71 | ![][123]<br>[Scyther]<br>Lv. 71 | ![][127]<br>[Pinsir]<br>Lv. 71 | ![][205]<br>[Forretress]<br>Lv. 71 | ![][348]<br>[Armaldo]<br>Lv. 71 | ![][452]<br>[Drapion]<br>Lv. 72
 
 === "A3"
-    Trainer                                                      | 1                                  | 2                                 | 3                                 | 4                                  | 5                                  | 6
-    ---                                                          | ---                                | ---                               | ---                               | ---                                | ---                                | ---
-    [Elite Four Aaron](#elite-four-aaron-r1)<br>![][aaron]    | ![][284]<br>[Masquerain]<br>Lv. 71 | ![][267]<br>[Beautifly]<br>Lv. 71 | ![][214]<br>[Heracross]<br>Lv. 71 | ![][212]<br>[Scizor]<br>Lv. 71     | ![][269]<br>[Dustox]<br>Lv. 71     | ![][452]<br>[Drapion]<br>Lv. 72
+    Trainer                                                | 1                                  | 2                                 | 3                                 | 4                              | 5                              | 6
+    ---                                                    | ---                                | ---                               | ---                               | ---                            | ---                            | ---
+    [Elite Four Aaron](#elite-four-aaron-r1)<br>![][aaron] | ![][284]<br>[Masquerain]<br>Lv. 71 | ![][267]<br>[Beautifly]<br>Lv. 71 | ![][214]<br>[Heracross]<br>Lv. 71 | ![][212]<br>[Scizor]<br>Lv. 71 | ![][269]<br>[Dustox]<br>Lv. 71 | ![][452]<br>[Drapion]<br>Lv. 72
 
 === "A4"
-    Trainer                                                      | 1                                  | 2                                 | 3                                 | 4                                  | 5                                  | 6
-    ---                                                          | ---                                | ---                               | ---                               | ---                                | ---                                | ---
-    [Elite Four Aaron](#elite-four-aaron-r1)<br>![][aaron]    | ![][123]<br>[Scyther]<br>Lv. 71    | ![][469]<br>[Yanmega]<br>Lv. 71   | ![][127]<br>[Pinsir]<br>Lv. 71    | ![][212]<br>[Scizor]<br>Lv. 71     | ![][330]<br>[Flygon]<br>Lv. 71     | ![][452]<br>[Drapion]<br>Lv. 72
+    Trainer                                                | 1                               | 2                               | 3                              | 4                              | 5                              | 6
+    ---                                                    | ---                             | ---                             | ---                            | ---                            | ---                            | ---
+    [Elite Four Aaron](#elite-four-aaron-r1)<br>![][aaron] | ![][123]<br>[Scyther]<br>Lv. 71 | ![][469]<br>[Yanmega]<br>Lv. 71 | ![][127]<br>[Pinsir]<br>Lv. 71 | ![][212]<br>[Scizor]<br>Lv. 71 | ![][330]<br>[Flygon]<br>Lv. 71 | ![][452]<br>[Drapion]<br>Lv. 72
 
 ===! "B1"
-    Trainer                                                      | 1                                  | 2                                 | 3                                 | 4                                  | 5                                  | 6
-    ---                                                          | ---                                | ---                               | ---                               | ---                                | ---                                | ---
-    [Elite Four Bertha](#elite-four-bertha-r1)<br>![][bertha] | ![][450]<br>[Hippowdon]<br>Lv. 72  | ![][340]<br>[Whiscash]<br>Lv. 72  | ![][472]<br>[Gliscor]<br>Lv. 72   | ![][076]<br>[Golem]<br>Lv. 72      | ![][232]<br>[Donphan]<br>Lv. 72    | ![][464]<br>[Rhyperior]<br>Lv. 73
+    Trainer                                                   | 1                                 | 2                                | 3                               | 4                             | 5                               | 6
+    ---                                                       | ---                               | ---                              | ---                             | ---                           | ---                             | ---
+    [Elite Four Bertha](#elite-four-bertha-r1)<br>![][bertha] | ![][450]<br>[Hippowdon]<br>Lv. 72 | ![][340]<br>[Whiscash]<br>Lv. 72 | ![][472]<br>[Gliscor]<br>Lv. 72 | ![][076]<br>[Golem]<br>Lv. 72 | ![][232]<br>[Donphan]<br>Lv. 72 | ![][464]<br>[Rhyperior]<br>Lv. 73
 
 === "B2"
-    Trainer                                                      | 1                                  | 2                                 | 3                                 | 4                                  | 5                                  | 6
-    ---                                                          | ---                                | ---                               | ---                               | ---                                | ---                                | ---
-    [Elite Four Bertha](#elite-four-bertha-r1)<br>![][bertha] | ![][450]<br>[Hippowdon]<br>Lv. 72  | ![][185]<br>[Sudowoodo]<br>Lv. 72 | ![][472]<br>[Gliscor]<br>Lv. 72   | ![][389]<br>[Torterra]<br>Lv. 72   | ![][323]<br>[Camerupt]<br>Lv. 72   | ![][464]<br>[Rhyperior]<br>Lv. 73
+    Trainer                                                   | 1                                 | 2                                 | 3                               | 4                                | 5                                | 6
+    ---                                                       | ---                               | ---                               | ---                             | ---                              | ---                              | ---
+    [Elite Four Bertha](#elite-four-bertha-r1)<br>![][bertha] | ![][450]<br>[Hippowdon]<br>Lv. 72 | ![][185]<br>[Sudowoodo]<br>Lv. 72 | ![][472]<br>[Gliscor]<br>Lv. 72 | ![][389]<br>[Torterra]<br>Lv. 72 | ![][323]<br>[Camerupt]<br>Lv. 72 | ![][464]<br>[Rhyperior]<br>Lv. 73
 
 === "B3"
-    Trainer                                                      | 1                                  | 2                                 | 3                                 | 4                                  | 5                                  | 6
-    ---                                                          | ---                                | ---                               | ---                               | ---                                | ---                                | ---
-    [Elite Four Bertha](#elite-four-bertha-r1)<br>![][bertha] | ![][248]<br>[Tyranitar]<br>Lv. 72  | ![][260]<br>[Swampert]<br>Lv. 72  | ![][051]<br>[Dugtrio]<br>Lv. 72   | ![][473]<br>[Mamoswine]<br>Lv. 72  | ![][344]<br>[Claydol]<br>Lv. 72    | ![][464]<br>[Rhyperior]<br>Lv. 73
+    Trainer                                                   | 1                                 | 2                                | 3                               | 4                                 | 5                               | 6
+    ---                                                       | ---                               | ---                              | ---                             | ---                               | ---                             | ---
+    [Elite Four Bertha](#elite-four-bertha-r1)<br>![][bertha] | ![][248]<br>[Tyranitar]<br>Lv. 72 | ![][260]<br>[Swampert]<br>Lv. 72 | ![][051]<br>[Dugtrio]<br>Lv. 72 | ![][473]<br>[Mamoswine]<br>Lv. 72 | ![][344]<br>[Claydol]<br>Lv. 72 | ![][464]<br>[Rhyperior]<br>Lv. 73
 
 === "B4"
-    Trainer                                                      | 1                                  | 2                                 | 3                                 | 4                                  | 5                                  | 6
-    ---                                                          | ---                                | ---                               | ---                               | ---                                | ---                                | ---
-    [Elite Four Bertha](#elite-four-bertha-r1)<br>![][bertha] | ![][248]<br>[Tyranitar]<br>Lv. 72  | ![][195]<br>[Quagsire]<br>Lv. 72  | ![][473]<br>[Mamoswine]<br>Lv. 72 | ![][051]<br>[Dugtrio]<br>Lv. 72    | ![][389]<br>[Torterra]<br>Lv. 72   | ![][464]<br>[Rhyperior]<br>Lv. 73
+    Trainer                                                   | 1                                 | 2                                | 3                                 | 4                               | 5                                | 6
+    ---                                                       | ---                               | ---                              | ---                               | ---                             | ---                              | ---
+    [Elite Four Bertha](#elite-four-bertha-r1)<br>![][bertha] | ![][248]<br>[Tyranitar]<br>Lv. 72 | ![][195]<br>[Quagsire]<br>Lv. 72 | ![][473]<br>[Mamoswine]<br>Lv. 72 | ![][051]<br>[Dugtrio]<br>Lv. 72 | ![][389]<br>[Torterra]<br>Lv. 72 | ![][464]<br>[Rhyperior]<br>Lv. 73
 
 ===! "F1"
-    Trainer                                                      | 1                                  | 2                                 | 3                                 | 4                                  | 5                                  | 6
-    ---                                                          | ---                                | ---                               | ---                               | ---                                | ---                                | ---
-    [Elite Four Flint](#elite-four-flint-r1)<br>![][flint]    | ![][038]<br>[Ninetales]<br>Lv. 73  | ![][229]<br>[Houndoom]<br>Lv. 73  | ![][136]<br>[Flareon]<br>Lv. 73   | ![][078]<br>[Rapidash]<br>Lv. 73   | ![][392]<br>[Infernape]<br>Lv. 73  | ![][467]<br>[Magmortar]<br>Lv. 74
+    Trainer                                                | 1                                 | 2                                | 3                               | 4                                | 5                                 | 6
+    ---                                                    | ---                               | ---                              | ---                             | ---                              | ---                               | ---
+    [Elite Four Flint](#elite-four-flint-r1)<br>![][flint] | ![][038]<br>[Ninetales]<br>Lv. 73 | ![][229]<br>[Houndoom]<br>Lv. 73 | ![][136]<br>[Flareon]<br>Lv. 73 | ![][078]<br>[Rapidash]<br>Lv. 73 | ![][392]<br>[Infernape]<br>Lv. 73 | ![][467]<br>[Magmortar]<br>Lv. 74
 === "F2"
-    Trainer                                                      | 1                                  | 2                                 | 3                                 | 4                                  | 5                                  | 6
-    ---                                                          | ---                                | ---                               | ---                               | ---                                | ---                                | ---
-    [Elite Four Flint](#elite-four-flint-r1)<br>![][flint]    | ![][078]<br>[Rapidash]<br>Lv. 73   | ![][428]<br>[Lopunny]<br>Lv. 73   | ![][426]<br>[Drifblim]<br>Lv. 73  | ![][208]<br>[Steelix]<br>Lv. 73    | ![][392]<br>[Infernape]<br>Lv. 73  | ![][467]<br>[Magmortar]<br>Lv. 74
+    Trainer                                                | 1                                | 2                               | 3                                | 4                               | 5                                 | 6
+    ---                                                    | ---                              | ---                             | ---                              | ---                             | ---                               | ---
+    [Elite Four Flint](#elite-four-flint-r1)<br>![][flint] | ![][078]<br>[Rapidash]<br>Lv. 73 | ![][428]<br>[Lopunny]<br>Lv. 73 | ![][426]<br>[Drifblim]<br>Lv. 73 | ![][208]<br>[Steelix]<br>Lv. 73 | ![][392]<br>[Infernape]<br>Lv. 73 | ![][467]<br>[Magmortar]<br>Lv. 74
 
 === "F3"
-    Trainer                                                      | 1                                  | 2                                 | 3                                 | 4                                  | 5                                  | 6
-    ---                                                          | ---                                | ---                               | ---                               | ---                                | ---                                | ---
-    [Elite Four Flint](#elite-four-flint-r1)<br>![][flint]    | ![][038]<br>[Ninetales]<br>Lv. 73  | ![][059]<br>[Arcanine]<br>Lv. 73  | ![][219]<br>[Magcargo]<br>Lv. 73  | ![][428]<br>[Lopunny]<br>Lv. 73    | ![][006]<br>[Charizard]<br>Lv. 73  | ![][467]<br>[Magmortar]<br>Lv. 74
+    Trainer                                                | 1                                 | 2                                | 3                                | 4                               | 5                                 | 6
+    ---                                                    | ---                               | ---                              | ---                              | ---                             | ---                               | ---
+    [Elite Four Flint](#elite-four-flint-r1)<br>![][flint] | ![][038]<br>[Ninetales]<br>Lv. 73 | ![][059]<br>[Arcanine]<br>Lv. 73 | ![][219]<br>[Magcargo]<br>Lv. 73 | ![][428]<br>[Lopunny]<br>Lv. 73 | ![][006]<br>[Charizard]<br>Lv. 73 | ![][467]<br>[Magmortar]<br>Lv. 74
 
 === "F4"
-    Trainer                                                      | 1                                  | 2                                 | 3                                 | 4                                  | 5                                  | 6
-    ---                                                          | ---                                | ---                               | ---                               | ---                                | ---                                | ---
-    [Elite Four Flint](#elite-four-flint-r1)<br>![][flint]    | ![][324]<br>[Torkoal]<br>Lv. 73    | ![][229]<br>[Houndoom]<br>Lv. 73  | ![][059]<br>[Arcanine]<br>Lv. 73  | ![][426]<br>[Drifblim]<br>Lv. 73   | ![][157]<br>[Typhlosion]<br>Lv. 73 | ![][467]<br>[Magmortar]<br>Lv. 74
+    Trainer                                                | 1                               | 2                                | 3                                | 4                                | 5                                  | 6
+    ---                                                    | ---                             | ---                              | ---                              | ---                              | ---                                | ---
+    [Elite Four Flint](#elite-four-flint-r1)<br>![][flint] | ![][324]<br>[Torkoal]<br>Lv. 73 | ![][229]<br>[Houndoom]<br>Lv. 73 | ![][059]<br>[Arcanine]<br>Lv. 73 | ![][426]<br>[Drifblim]<br>Lv. 73 | ![][157]<br>[Typhlosion]<br>Lv. 73 | ![][467]<br>[Magmortar]<br>Lv. 74
 
 ===! "L1"
-    Trainer                                                      | 1                                  | 2                                 | 3                                 | 4                                  | 5                                  | 6
-    ---                                                          | ---                                | ---                               | ---                               | ---                                | ---                                | ---
-    [Elite Four Lucian](#elite-four-lucian-r1)<br>![][lucian] | ![][122]<br>[Mr. Mime]<br>Lv. 74   | ![][196]<br>[Espeon]<br>Lv. 74    | ![][437]<br>[Bronzong]<br>Lv. 74  | ![][065]<br>[Alakazam]<br>Lv. 74   | ![][376]<br>[Metagross]<br>Lv. 74  | ![][475]<br>[Gallade]<br>Lv. 75
+    Trainer                                                   | 1                                | 2                              | 3                                | 4                                | 5                                 | 6
+    ---                                                       | ---                              | ---                            | ---                              | ---                              | ---                               | ---
+    [Elite Four Lucian](#elite-four-lucian-r1)<br>![][lucian] | ![][122]<br>[Mr. Mime]<br>Lv. 74 | ![][196]<br>[Espeon]<br>Lv. 74 | ![][437]<br>[Bronzong]<br>Lv. 74 | ![][065]<br>[Alakazam]<br>Lv. 74 | ![][376]<br>[Metagross]<br>Lv. 74 | ![][475]<br>[Gallade]<br>Lv. 75
 
 === "L2"
-    Trainer                                                      | 1                                  | 2                                 | 3                                 | 4                                  | 5                                  | 6
-    ---                                                          | ---                                | ---                               | ---                               | ---                                | ---                                | ---
-    [Elite Four Lucian](#elite-four-lucian-r1)<br>![][lucian] | ![][196]<br>[Espeon]<br>Lv. 74     | ![][203]<br>[Girafarig]<br>Lv. 74 | ![][308]<br>[Medicham]<br>Lv. 74  | ![][121]<br>[Starmie]<br>Lv. 74    | ![][103]<br>[Exeggutor]<br>Lv. 74  | ![][475]<br>[Gallade]<br>Lv. 75
+    Trainer                                                   | 1                              | 2                                 | 3                                | 4                               | 5                                 | 6
+    ---                                                       | ---                            | ---                               | ---                              | ---                             | ---                               | ---
+    [Elite Four Lucian](#elite-four-lucian-r1)<br>![][lucian] | ![][196]<br>[Espeon]<br>Lv. 74 | ![][203]<br>[Girafarig]<br>Lv. 74 | ![][308]<br>[Medicham]<br>Lv. 74 | ![][121]<br>[Starmie]<br>Lv. 74 | ![][103]<br>[Exeggutor]<br>Lv. 74 | ![][475]<br>[Gallade]<br>Lv. 75
 
 === "L3"
-    Trainer                                                      | 1                                  | 2                                 | 3                                 | 4                                  | 5                                  | 6
-    ---                                                          | ---                                | ---                               | ---                               | ---                                | ---                                | ---
-    [Elite Four Lucian](#elite-four-lucian-r1)<br>![][lucian] | ![][097]<br>[Hypno]<br>Lv. 74      | ![][080]<br>[Slowbro]<br>Lv. 74   | ![][282]<br>[Gardevoir]<br>Lv. 74 | ![][124]<br>[Jynx]<br>Lv. 74       | ![][437]<br>[Bronzong]<br>Lv. 74   | ![][475]<br>[Gallade]<br>Lv. 75
+    Trainer                                                   | 1                             | 2                               | 3                                 | 4                            | 5                                | 6
+    ---                                                       | ---                           | ---                             | ---                               | ---                          | ---                              | ---
+    [Elite Four Lucian](#elite-four-lucian-r1)<br>![][lucian] | ![][097]<br>[Hypno]<br>Lv. 74 | ![][080]<br>[Slowbro]<br>Lv. 74 | ![][282]<br>[Gardevoir]<br>Lv. 74 | ![][124]<br>[Jynx]<br>Lv. 74 | ![][437]<br>[Bronzong]<br>Lv. 74 | ![][475]<br>[Gallade]<br>Lv. 75
 
 === "L4"
-    Trainer                                                      | 1                                  | 2                                 | 3                                 | 4                                  | 5                                  | 6
-    ---                                                          | ---                                | ---                               | ---                               | ---                                | ---                                | ---
-    [Elite Four Lucian](#elite-four-lucian-r1)<br>![][lucian] | ![][065]<br>[Alakazam]<br>Lv. 74   | ![][282]<br>[Gardevoir]<br>Lv. 74 | ![][103]<br>[Exeggutor]<br>Lv. 74 | ![][121]<br>[Starmie]<br>Lv. 74    | ![][376]<br>[Metagross]<br>Lv. 74  | ![][475]<br>[Gallade]<br>Lv. 75
+    Trainer                                                   | 1                                | 2                                 | 3                                 | 4                               | 5                                 | 6
+    ---                                                       | ---                              | ---                               | ---                               | ---                             | ---                               | ---
+    [Elite Four Lucian](#elite-four-lucian-r1)<br>![][lucian] | ![][065]<br>[Alakazam]<br>Lv. 74 | ![][282]<br>[Gardevoir]<br>Lv. 74 | ![][103]<br>[Exeggutor]<br>Lv. 74 | ![][121]<br>[Starmie]<br>Lv. 74 | ![][376]<br>[Metagross]<br>Lv. 74 | ![][475]<br>[Gallade]<br>Lv. 75
 
 ===! "C1"
-    Trainer                                                      | 1                                  | 2                                 | 3                                 | 4                                  | 5                                  | 6
-    ---                                                          | ---                                | ---                               | ---                               | ---                                | ---                                | ---
-    [Champion Cynthia](#champion-cynthia-r1)<br>![][cynthia]  | ![][442]<br>[Spiritomb]<br>Lv. 77  | ![][407]<br>[Roserade]<br>Lv. 77  | ![][468]<br>[Togekiss]<br>Lv. 77  | ![][448]<br>[Lucario]<br>Lv. 77    | ![][350]<br>[Milotic]<br>Lv. 77    | ![][445]<br>[Garchomp]<br>Lv. 78
+    Trainer                                                  | 1                                 | 2                                | 3                                | 4                               | 5                               | 6
+    ---                                                      | ---                               | ---                              | ---                              | ---                             | ---                             | ---
+    [Champion Cynthia](#champion-cynthia-r1)<br>![][cynthia] | ![][442]<br>[Spiritomb]<br>Lv. 77 | ![][407]<br>[Roserade]<br>Lv. 77 | ![][468]<br>[Togekiss]<br>Lv. 77 | ![][448]<br>[Lucario]<br>Lv. 77 | ![][350]<br>[Milotic]<br>Lv. 77 | ![][445]<br>[Garchomp]<br>Lv. 78
 
 === "C2"
-    Trainer                                                      | 1                                  | 2                                 | 3                                 | 4                                  | 5                                  | 6
-    ---                                                          | ---                                | ---                               | ---                               | ---                                | ---                                | ---
-    [Champion Cynthia](#champion-cynthia-r1)<br>![][cynthia]  | ![][350]<br>[Milotic]<br>Lv. 77    | ![][442]<br>[Spiritomb]<br>Lv. 77 | ![][181]<br>[Ampharos]<br>Lv. 77  | ![][398]<br>[Staraptor]<br>Lv. 77  | ![][448]<br>[Lucario]<br>Lv. 77    | ![][445]<br>[Garchomp]<br>Lv. 78
+    Trainer                                                  | 1                               | 2                                 | 3                                | 4                                 | 5                               | 6
+    ---                                                      | ---                             | ---                               | ---                              | ---                               | ---                             | ---
+    [Champion Cynthia](#champion-cynthia-r1)<br>![][cynthia] | ![][350]<br>[Milotic]<br>Lv. 77 | ![][442]<br>[Spiritomb]<br>Lv. 77 | ![][181]<br>[Ampharos]<br>Lv. 77 | ![][398]<br>[Staraptor]<br>Lv. 77 | ![][448]<br>[Lucario]<br>Lv. 77 | ![][445]<br>[Garchomp]<br>Lv. 78
 
 === "C3"
-    Trainer                                                      | 1                                  | 2                                 | 3                                 | 4                                  | 5                                  | 6
-    ---                                                          | ---                                | ---                               | ---                               | ---                                | ---                                | ---
-    [Champion Cynthia](#champion-cynthia-r1)<br>![][cynthia]  | ![][468]<br>[Togekiss]<br>Lv. 77   | ![][350]<br>[Milotic]<br>Lv. 77   | ![][442]<br>[Spiritomb]<br>Lv. 77 | ![][448]<br>[Lucario]<br>Lv. 77    | ![][471]<br>[Glaceon]<br>Lv. 77    | ![][445]<br>[Garchomp]<br>Lv. 78
+    Trainer                                                  | 1                                | 2                               | 3                                 | 4                               | 5                               | 6
+    ---                                                      | ---                              | ---                             | ---                               | ---                             | ---                             | ---
+    [Champion Cynthia](#champion-cynthia-r1)<br>![][cynthia] | ![][468]<br>[Togekiss]<br>Lv. 77 | ![][350]<br>[Milotic]<br>Lv. 77 | ![][442]<br>[Spiritomb]<br>Lv. 77 | ![][448]<br>[Lucario]<br>Lv. 77 | ![][471]<br>[Glaceon]<br>Lv. 77 | ![][445]<br>[Garchomp]<br>Lv. 78
 
 === "C4"
-    Trainer                                                      | 1                                  | 2                                 | 3                                 | 4                                  | 5                                  | 6
-    ---                                                          | ---                                | ---                               | ---                               | ---                                | ---                                | ---
-    [Champion Cynthia](#champion-cynthia-r1)<br>![][cynthia]  | ![][036]<br>[Clefable]<br>Lv. 77   | ![][407]<br>[Roserade]<br>Lv. 77  | ![][429]<br>[Mismagius]<br>Lv. 77 | ![][428]<br>[Lopunny]<br>Lv. 77    | ![][350]<br>[Milotic]<br>Lv. 77    | ![][445]<br>[Garchomp]<br>Lv. 78
+    Trainer                                                  | 1                                | 2                                | 3                                 | 4                               | 5                               | 6
+    ---                                                      | ---                              | ---                              | ---                               | ---                             | ---                             | ---
+    [Champion Cynthia](#champion-cynthia-r1)<br>![][cynthia] | ![][036]<br>[Clefable]<br>Lv. 77 | ![][407]<br>[Roserade]<br>Lv. 77 | ![][429]<br>[Mismagius]<br>Lv. 77 | ![][428]<br>[Lopunny]<br>Lv. 77 | ![][350]<br>[Milotic]<br>Lv. 77 | ![][445]<br>[Garchomp]<br>Lv. 78
 
 ## Round 2
 

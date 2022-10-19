@@ -17,44 +17,44 @@ Ace Trainer Jamie                          | ![][134]<br>[Vaporeon]<br>Lv. 67   
 
 === "Lucas"
     === "Grass"
-        Trainer                                    | 1                                  | 2                                 | 3                                  | 4                                  | 5                                | 6
-        ---                                        | ---                                | ---                               | ---                                | ---                                | ---                              | ---
-        [PKMN Trainer Lucas]<br>![][lucas]         | ![][065]<br>[Alakazam]<br>Lv. 69   | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][210]<br>[Granbull]<br>Lv. 69   | ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][136]<br>[Flareon]<br>Lv. 69  | ![][395]<br>[Empoleon]<br>Lv. 70
+        Trainer                            | 1                                | 2                                 | 3                                | 4                                  | 5                               | 6
+        ---                                | ---                              | ---                               | ---                              | ---                                | ---                             | ---
+        [PKMN Trainer Lucas]<br>![][lucas] | ![][065]<br>[Alakazam]<br>Lv. 69 | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][210]<br>[Granbull]<br>Lv. 69 | ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][136]<br>[Flareon]<br>Lv. 69 | ![][395]<br>[Empoleon]<br>Lv. 70
     === "Fire"
-        Trainer                                    | 1                                  | 2                                 | 3                                  | 4                                  | 5                                | 6
-        ---                                        | ---                                | ---                               | ---                                | ---                                | ---                              | ---
-        [PKMN Trainer Lucas]<br>![][lucas]         | ![][065]<br>[Alakazam]<br>Lv. 69   | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][210]<br>[Granbull]<br>Lv. 69   | ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][134]<br>[Vaporeon]<br>Lv. 69 | ![][389]<br>[Torterra]<br>Lv. 70
+        Trainer                            | 1                                | 2                                 | 3                                | 4                                  | 5                                | 6
+        ---                                | ---                              | ---                               | ---                              | ---                                | ---                              | ---
+        [PKMN Trainer Lucas]<br>![][lucas] | ![][065]<br>[Alakazam]<br>Lv. 69 | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][210]<br>[Granbull]<br>Lv. 69 | ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][134]<br>[Vaporeon]<br>Lv. 69 | ![][389]<br>[Torterra]<br>Lv. 70
     === "Water"
-        Trainer                                    | 1                                  | 2                                 | 3                                  | 4                                  | 5                                | 6
-        ---                                        | ---                                | ---                               | ---                                | ---                                | ---                              | ---
-        [PKMN Trainer Lucas]<br>![][lucas]         | ![][065]<br>[Alakazam]<br>Lv. 69   | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][210]<br>[Granbull]<br>Lv. 69   | ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][135]<br>[Jolteon]<br>Lv. 69  | ![][392]<br>[Infernape]<br>Lv. 70
+        Trainer                            | 1                                | 2                                 | 3                                | 4                                  | 5                               | 6
+        ---                                | ---                              | ---                               | ---                              | ---                                | ---                             | ---
+        [PKMN Trainer Lucas]<br>![][lucas] | ![][065]<br>[Alakazam]<br>Lv. 69 | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][210]<br>[Granbull]<br>Lv. 69 | ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][135]<br>[Jolteon]<br>Lv. 69 | ![][392]<br>[Infernape]<br>Lv. 70
 
 === "Dawn"
     === "Grass"
-        Trainer                                    | 1                                  | 2                                 | 3                                  | 4                                  | 5                                | 6
-        ---                                        | ---                                | ---                               | ---                                | ---                                | ---                              | ---
-        [PKMN Trainer Dawn]<br>![][dawn]           | ![][065]<br>[Alakazam]<br>Lv. 69   | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][036]<br>[Clefable]<br>Lv. 69   | ![][428]<br>[Lopunny]<br>Lv. 69    | ![][136]<br>[Flareon]<br>Lv. 69  | ![][395]<br>[Empoleon]<br>Lv. 70
+        Trainer                          | 1                                | 2                                 | 3                                | 4                               | 5                               | 6
+        ---                              | ---                              | ---                               | ---                              | ---                             | ---                             | ---
+        [PKMN Trainer Dawn]<br>![][dawn] | ![][065]<br>[Alakazam]<br>Lv. 69 | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][036]<br>[Clefable]<br>Lv. 69 | ![][428]<br>[Lopunny]<br>Lv. 69 | ![][136]<br>[Flareon]<br>Lv. 69 | ![][395]<br>[Empoleon]<br>Lv. 70
     === "Fire"
-        Trainer                                    | 1                                  | 2                                 | 3                                  | 4                                  | 5                                | 6
-        ---                                        | ---                                | ---                               | ---                                | ---                                | ---                              | ---
-        [PKMN Trainer Dawn]<br>![][dawn]           | ![][065]<br>[Alakazam]<br>Lv. 69   | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][036]<br>[Clefable]<br>Lv. 69   | ![][428]<br>[Lopunny]<br>Lv. 69    | ![][134]<br>[Vaporeon]<br>Lv. 69 | ![][389]<br>[Torterra]<br>Lv. 70
+        Trainer                          | 1                                | 2                                 | 3                                | 4                               | 5                                | 6
+        ---                              | ---                              | ---                               | ---                              | ---                             | ---                              | ---
+        [PKMN Trainer Dawn]<br>![][dawn] | ![][065]<br>[Alakazam]<br>Lv. 69 | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][036]<br>[Clefable]<br>Lv. 69 | ![][428]<br>[Lopunny]<br>Lv. 69 | ![][134]<br>[Vaporeon]<br>Lv. 69 | ![][389]<br>[Torterra]<br>Lv. 70
     === "Water"
-        Trainer                                    | 1                                  | 2                                 | 3                                  | 4                                  | 5                                | 6
-        ---                                        | ---                                | ---                               | ---                                | ---                                | ---                              | ---
-        [PKMN Trainer Dawn]<br>![][dawn]           | ![][065]<br>[Alakazam]<br>Lv. 69   | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][036]<br>[Clefable]<br>Lv. 69   | ![][428]<br>[Lopunny]<br>Lv. 69    | ![][135]<br>[Jolteon]<br>Lv. 69  | ![][392]<br>[Infernape]<br>Lv. 70
+        Trainer                          | 1                                | 2                                 | 3                                | 4                               | 5                               | 6
+        ---                              | ---                              | ---                               | ---                              | ---                             | ---                             | ---
+        [PKMN Trainer Dawn]<br>![][dawn] | ![][065]<br>[Alakazam]<br>Lv. 69 | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][036]<br>[Clefable]<br>Lv. 69 | ![][428]<br>[Lopunny]<br>Lv. 69 | ![][135]<br>[Jolteon]<br>Lv. 69 | ![][392]<br>[Infernape]<br>Lv. 70
 
 ## PKMN Trainer Dawn
 
 
 === "Grass"
-    ![][dawn]                         | Item                              | Nature | Ability      | Moves
-    ---                               | ---                               | ---    | ---          | ---
-    ![][065]<br>[Alakazam]<br>Lv. 69  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | Psychic, Shadow Ball, Aura Sphere, Dazzling Gleam
-    ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][choice-band]<br>Choice Band   | ?      | Thick Fat    | Earthquake, Icicle Crash, Stone Edge, Superpower
-    ![][036]<br>[Clefable]<br>Lv. 69  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | Moonblast, Soft-Boiled, Calm Mind, Flamethrower
-    ![][428]<br>[Lopunny]<br>Lv. 69   | ![][focus-sash]<br>Focus Sash     | ?      | Scrappy      | Mega Kick, High Jump Kick, Fake Out, Agility
-    ![][136]<br>[Flareon]<br>Lv. 69   | ![][passho-berry]<br>Passho Berry | ?      | Flash Fire   | Flare Blitz, Play Rough, Close Combat, Wild Charge
-    ![][395]<br>[Empoleon]<br>Lv. 70  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent      | Hydro Cannon, Flash Cannon, Grass Knot, Ice Beam
+    ![][dawn]                         | Item                              | Nature | Ability     | Moves
+    ---                               | ---                               | ---    | ---         | ---
+    ![][065]<br>[Alakazam]<br>Lv. 69  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard | Psychic, Shadow Ball, Aura Sphere, Dazzling Gleam
+    ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][choice-band]<br>Choice Band   | ?      | Thick Fat   | Earthquake, Icicle Crash, Stone Edge, Superpower
+    ![][036]<br>[Clefable]<br>Lv. 69  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm  | Moonblast, Soft-Boiled, Calm Mind, Flamethrower
+    ![][428]<br>[Lopunny]<br>Lv. 69   | ![][focus-sash]<br>Focus Sash     | ?      | Scrappy     | Mega Kick, High Jump Kick, Fake Out, Agility
+    ![][136]<br>[Flareon]<br>Lv. 69   | ![][passho-berry]<br>Passho Berry | ?      | Flash Fire  | Flare Blitz, Play Rough, Close Combat, Wild Charge
+    ![][395]<br>[Empoleon]<br>Lv. 70  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent     | Hydro Cannon, Flash Cannon, Grass Knot, Ice Beam
 
 === "Fire"
     ![][dawn]                         | Item                              | Nature | Ability      | Moves
@@ -67,27 +67,27 @@ Ace Trainer Jamie                          | ![][134]<br>[Vaporeon]<br>Lv. 67   
     ![][389]<br>[Torterra]<br>Lv. 70  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | Frenzy Plant, Earthquake, Stone Edge, Iron Head
 
 === "Water"
-    ![][dawn]                         | Item                              | Nature | Ability      | Moves
-    ---                               | ---                               | ---    | ---          | ---
-    ![][065]<br>[Alakazam]<br>Lv. 69  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | Psychic, Shadow Ball, Aura Sphere, Dazzling Gleam
-    ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][choice-band]<br>Choice Band   | ?      | Thick Fat    | Earthquake, Icicle Crash, Stone Edge, Superpower
-    ![][036]<br>[Clefable]<br>Lv. 69  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | Moonblast, Soft-Boiled, Calm Mind, Flamethrower
-    ![][428]<br>[Lopunny]<br>Lv. 69   | ![][focus-sash]<br>Focus Sash     | ?      | Scrappy      | Mega Kick, High Jump Kick, Fake Out, Agility
-    ![][135]<br>[Jolteon]<br>Lv. 69   | ![][shuca-berry]<br>Shuca Berry   | ?      | Volt Absorb  | Thunderbolt, Grass Knot, Shadow Ball, Thunder Wave
-    ![][392]<br>[Infernape]<br>Lv. 70 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist    | Blast Burn, Close Combat, Stone Edge, Thunder Punch
+    ![][dawn]                         | Item                              | Nature | Ability     | Moves
+    ---                               | ---                               | ---    | ---         | ---
+    ![][065]<br>[Alakazam]<br>Lv. 69  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard | Psychic, Shadow Ball, Aura Sphere, Dazzling Gleam
+    ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][choice-band]<br>Choice Band   | ?      | Thick Fat   | Earthquake, Icicle Crash, Stone Edge, Superpower
+    ![][036]<br>[Clefable]<br>Lv. 69  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm  | Moonblast, Soft-Boiled, Calm Mind, Flamethrower
+    ![][428]<br>[Lopunny]<br>Lv. 69   | ![][focus-sash]<br>Focus Sash     | ?      | Scrappy     | Mega Kick, High Jump Kick, Fake Out, Agility
+    ![][135]<br>[Jolteon]<br>Lv. 69   | ![][shuca-berry]<br>Shuca Berry   | ?      | Volt Absorb | Thunderbolt, Grass Knot, Shadow Ball, Thunder Wave
+    ![][392]<br>[Infernape]<br>Lv. 70 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist   | Blast Burn, Close Combat, Stone Edge, Thunder Punch
 
 ## PKMN Trainer Lucas
 
 
 === "Grass"
-    ![][lucas]                         | Item                              | Nature | Ability      | Moves
-    ---                                | ---                               | ---    | ---          | ---
-    ![][065]<br>[Alakazam]<br>Lv. 69   | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | Psychic, Shadow Ball, Aura Sphere, Dazzling Gleam
-    ![][473]<br>[Mamoswine]<br>Lv. 69  | ![][choice-band]<br>Choice Band   | ?      | Thick Fat    | Earthquake, Icicle Crash, Stone Edge, Superpower
-    ![][210]<br>[Granbull]<br>Lv. 69   | ![][muscle-band]<br>Muscle Band   | ?      | Intimidate   | Play Rough, Close Combat, Crunch, Earthquake
-    ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo    | Double-Edge, Earthquake, Hammer Arm, Swords Dance
-    ![][136]<br>[Flareon]<br>Lv. 69    | ![][passho-berry]<br>Passho Berry | ?      | Flash Fire   | Flare Blitz, Play Rough, Close Combat, Wild Charge
-    ![][395]<br>[Empoleon]<br>Lv. 70   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent      | Hydro Cannon, Flash Cannon, Grass Knot, Ice Beam
+    ![][lucas]                         | Item                              | Nature | Ability     | Moves
+    ---                                | ---                               | ---    | ---         | ---
+    ![][065]<br>[Alakazam]<br>Lv. 69   | ![][life-orb]<br>Life Orb         | ?      | Magic Guard | Psychic, Shadow Ball, Aura Sphere, Dazzling Gleam
+    ![][473]<br>[Mamoswine]<br>Lv. 69  | ![][choice-band]<br>Choice Band   | ?      | Thick Fat   | Earthquake, Icicle Crash, Stone Edge, Superpower
+    ![][210]<br>[Granbull]<br>Lv. 69   | ![][muscle-band]<br>Muscle Band   | ?      | Intimidate  | Play Rough, Close Combat, Crunch, Earthquake
+    ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo   | Double-Edge, Earthquake, Hammer Arm, Swords Dance
+    ![][136]<br>[Flareon]<br>Lv. 69    | ![][passho-berry]<br>Passho Berry | ?      | Flash Fire  | Flare Blitz, Play Rough, Close Combat, Wild Charge
+    ![][395]<br>[Empoleon]<br>Lv. 70   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent     | Hydro Cannon, Flash Cannon, Grass Knot, Ice Beam
 
 === "Fire"
     ![][lucas]                         | Item                              | Nature | Ability      | Moves
@@ -100,14 +100,14 @@ Ace Trainer Jamie                          | ![][134]<br>[Vaporeon]<br>Lv. 67   
     ![][389]<br>[Torterra]<br>Lv. 70   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | Frenzy Plant, Earthquake, Stone Edge, Iron Head
 
 === "Water"
-    ![][lucas]                         | Item                              | Nature | Ability      | Moves
-    ---                                | ---                               | ---    | ---          | ---
-    ![][065]<br>[Alakazam]<br>Lv. 69   | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | Psychic, Shadow Ball, Aura Sphere, Dazzling Gleam
-    ![][473]<br>[Mamoswine]<br>Lv. 69  | ![][choice-band]<br>Choice Band   | ?      | Thick Fat    | Earthquake, Icicle Crash, Stone Edge, Superpower
-    ![][210]<br>[Granbull]<br>Lv. 69   | ![][muscle-band]<br>Muscle Band   | ?      | Intimidate   | Play Rough, Close Combat, Crunch, Earthquake
-    ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo    | Double-Edge, Earthquake, Hammer Arm, Swords Dance
-    ![][135]<br>[Jolteon]<br>Lv. 69    | ![][shuca-berry]<br>Shuca Berry   | ?      | Volt Absorb  | Thunderbolt, Grass Knot, Shadow Ball, Thunder Wave
-    ![][392]<br>[Infernape]<br>Lv. 70  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist    | Blast Burn, Close Combat, Stone Edge, Thunder Punch
+    ![][lucas]                         | Item                              | Nature | Ability     | Moves
+    ---                                | ---                               | ---    | ---         | ---
+    ![][065]<br>[Alakazam]<br>Lv. 69   | ![][life-orb]<br>Life Orb         | ?      | Magic Guard | Psychic, Shadow Ball, Aura Sphere, Dazzling Gleam
+    ![][473]<br>[Mamoswine]<br>Lv. 69  | ![][choice-band]<br>Choice Band   | ?      | Thick Fat   | Earthquake, Icicle Crash, Stone Edge, Superpower
+    ![][210]<br>[Granbull]<br>Lv. 69   | ![][muscle-band]<br>Muscle Band   | ?      | Intimidate  | Play Rough, Close Combat, Crunch, Earthquake
+    ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo   | Double-Edge, Earthquake, Hammer Arm, Swords Dance
+    ![][135]<br>[Jolteon]<br>Lv. 69    | ![][shuca-berry]<br>Shuca Berry   | ?      | Volt Absorb | Thunderbolt, Grass Knot, Shadow Ball, Thunder Wave
+    ![][392]<br>[Infernape]<br>Lv. 70  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist   | Blast Burn, Close Combat, Stone Edge, Thunder Punch
 
 ## Rematches
 
