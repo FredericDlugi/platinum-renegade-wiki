@@ -19,12 +19,12 @@ Ace Trainer Sandra                 | ![][051]<br>[Dugtrio]<br>Lv. 74   | ![][026
 
 ![][ace_m_2]                      | Item                              | Nature | Ability      | Moves
 ---                               | ---                               | ---    | ---          | ---
-![][234]<br>[Stantler]<br>Lv. 76  | ![][choice-scarf]<br>Choice Scarf | ?      | Intimidate   | Double-Edge, Jump Kick, Megahorn, Zen Headbutt
-![][085]<br>[Dodrio]<br>Lv. 76    | ![][muscle-band]<br>Muscle Band   | ?      | Tangled Feet | Double-Edge, Brave Bird, High Jump Kick, Drill Run
-![][203]<br>[Girafarig]<br>Lv. 76 | ![][wise-glasses]<br>Wise Glasses | ?      | Inner Focus  | Hyper Voice, Psychic, Thunderbolt, Dazzling Gleam
-![][400]<br>[Bibarel]<br>Lv. 76   | ![][chople-berry]<br>Chople Berry | ?      | Simple       | Double-Edge, Aqua Tail, Crunch, Curse
-![][474]<br>[Porygon-Z]<br>Lv. 76 | ![][life-orb]<br>Life Orb         | ?      | Adaptability | Hyper Beam, Thunderbolt, Ice Beam, Psychic
-![][143]<br>[Snorlax]<br>Lv. 77   | ![][leftovers]<br>Leftovers       | ?      | Thick Fat    | Body Slam, Earthquake, Curse, Slack Off
+![][234]<br>[Stantler]<br>Lv. 76  | ![][choice-scarf]<br>Choice Scarf | ?      | Intimidate   | <ul><li>Double-Edge</li><li>Jump Kick</li><li>Megahorn</li><li>Zen Headbutt</li></ul>
+![][085]<br>[Dodrio]<br>Lv. 76    | ![][muscle-band]<br>Muscle Band   | ?      | Tangled Feet | <ul><li>Double-Edge</li><li>Brave Bird</li><li>High Jump Kick</li><li>Drill Run</li></ul>
+![][203]<br>[Girafarig]<br>Lv. 76 | ![][wise-glasses]<br>Wise Glasses | ?      | Inner Focus  | <ul><li>Hyper Voice</li><li>Psychic</li><li>Thunderbolt</li><li>Dazzling Gleam</li></ul>
+![][400]<br>[Bibarel]<br>Lv. 76   | ![][chople-berry]<br>Chople Berry | ?      | Simple       | <ul><li>Double-Edge</li><li>Aqua Tail</li><li>Crunch</li><li>Curse</li></ul>
+![][474]<br>[Porygon-Z]<br>Lv. 76 | ![][life-orb]<br>Life Orb         | ?      | Adaptability | <ul><li>Hyper Beam</li><li>Thunderbolt</li><li>Ice Beam</li><li>Psychic</li></ul>
+![][143]<br>[Snorlax]<br>Lv. 77   | ![][leftovers]<br>Leftovers       | ?      | Thick Fat    | <ul><li>Body Slam</li><li>Earthquake</li><li>Curse</li><li>Slack Off</li></ul>
 
 --8<-- "includes/abilities.md"
 

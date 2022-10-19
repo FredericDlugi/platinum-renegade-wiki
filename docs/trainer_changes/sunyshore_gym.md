@@ -16,12 +16,12 @@ Ace Trainer Zachery              | ![][181]<br>[Ampharos]<br>Lv. 60   | ![][462]
 
 ![][volkner]                            | Item                              | Nature  | Ability     | Moves
 ---                                     | ---                               | ---     | ---         | ---
-![][135]<br>[Jolteon]<br>Lv. 61         | ![][focus-sash]<br>Focus Sash     | Naive   | Static      | Thunderbolt, Shadow Ball, Grass Knot, Thunder Wave
-![][026]<br>[Raichu]<br>Lv. 61          | ![][expert-belt]<br>Expert Belt   | Timid   | Static      | Thunderbolt, Grass Knot, Focus Blast, Surf
-![][479-wash]<br>[Wash Rotom]<br>Lv. 61 | ![][sitrus-berry]<br>Sitrus Berry | Modest  | Levitate    | Thunderbolt, Hydro Pump, Shadow Ball, Thunder Wave
-![][479-heat]<br>[Heat Rotom]<br>Lv. 61 | ![][white-herb]<br>White Herb     | Modest  | Levitate    | Thunderbolt, Overheat, Shadow Ball, Will-O-Wisp
-![][405]<br>[Luxray]<br>Lv. 61          | ![][choice-band]<br>Choice Band   | Naughty | Intimidate  | Wild Charge, Crunch, Ice Fang, Fire Fang
-![][466]<br>[Electivire]<br>Lv. 62      | ![][life-orb]<br>Life Orb         | Jolly   | Motor Drive | Wild Charge, Close Combat, Ice Punch, Earthquake
+![][135]<br>[Jolteon]<br>Lv. 61         | ![][focus-sash]<br>Focus Sash     | Naive   | Static      | <ul><li>Thunderbolt</li><li>Shadow Ball</li><li>Grass Knot</li><li>Thunder Wave</li></ul>
+![][026]<br>[Raichu]<br>Lv. 61          | ![][expert-belt]<br>Expert Belt   | Timid   | Static      | <ul><li>Thunderbolt</li><li>Grass Knot</li><li>Focus Blast</li><li>Surf</li></ul>
+![][479-wash]<br>[Wash Rotom]<br>Lv. 61 | ![][sitrus-berry]<br>Sitrus Berry | Modest  | Levitate    | <ul><li>Thunderbolt</li><li>Hydro Pump</li><li>Shadow Ball</li><li>Thunder Wave</li></ul>
+![][479-heat]<br>[Heat Rotom]<br>Lv. 61 | ![][white-herb]<br>White Herb     | Modest  | Levitate    | <ul><li>Thunderbolt</li><li>Overheat</li><li>Shadow Ball</li><li>Will-O-Wisp</li></ul>
+![][405]<br>[Luxray]<br>Lv. 61          | ![][choice-band]<br>Choice Band   | Naughty | Intimidate  | <ul><li>Wild Charge</li><li>Crunch</li><li>Ice Fang</li><li>Fire Fang</li></ul>
+![][466]<br>[Electivire]<br>Lv. 62      | ![][life-orb]<br>Life Orb         | Jolly   | Motor Drive | <ul><li>Wild Charge</li><li>Close Combat</li><li>Ice Punch</li><li>Earthquake</li></ul>
 
 --8<-- "includes/abilities.md"
 

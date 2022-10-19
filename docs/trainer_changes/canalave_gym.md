@@ -14,12 +14,12 @@ Ace Trainer Breanna          | ![][227]<br>[Skarmory]<br>Lv. 50  | ![][303]<br>[
 ## Leader Byron
 ![][byron]                         | Item                              | Nature  | Ability     | Moves
 ---                                | ---                               | ---     | ---         | ---
-![][437]<br>[Bronzong]<br>Lv. 52   | ![][light-clay]<br>Light Clay     | Impish  | Levitate    | Gyro Ball, Stealth Rock, Reflect, Light Screen
-![][462]<br>[Magnezone]<br>Lv. 52  | ![][wise-glasses]<br>Wise Glasses | Quiet   | Magnet Pull | Thunderbolt, Flash Cannon, Signal Beam, Thunder Wave
-![][208]<br>[Steelix]<br>Lv. 52    | ![][muscle-band]<br>Muscle Band   | Adamant | Rock Head   | Gyro Ball, Earthquake, Stone Edge, Explosion
-![][205]<br>[Forretress]<br>Lv. 52 | ![][sitrus-berry]<br>Sitrus Berry | Impish  | Sturdy      | Gyro Ball, Spikes, Toxic Spikes, Explosion
-![][306]<br>[Aggron]<br>Lv. 52     | ![][focus-sash]<br>Focus Sash     | Naughty | Rock Head   | Head Smash, Iron Head, Aqua Tail, Low Kick
-![][411]<br>[Bastiodon]<br>Lv. 53  | ![][leftovers]<br>Leftovers       | Sassy   | Soundproof  | Iron Head, Toxic, Protect, Metal Burst
+![][437]<br>[Bronzong]<br>Lv. 52   | ![][light-clay]<br>Light Clay     | Impish  | Levitate    | <ul><li>Gyro Ball</li><li>Stealth Rock</li><li>Reflect</li><li>Light Screen</li></ul>
+![][462]<br>[Magnezone]<br>Lv. 52  | ![][wise-glasses]<br>Wise Glasses | Quiet   | Magnet Pull | <ul><li>Thunderbolt</li><li>Flash Cannon</li><li>Signal Beam</li><li>Thunder Wave</li></ul>
+![][208]<br>[Steelix]<br>Lv. 52    | ![][muscle-band]<br>Muscle Band   | Adamant | Rock Head   | <ul><li>Gyro Ball</li><li>Earthquake</li><li>Stone Edge</li><li>Explosion</li></ul>
+![][205]<br>[Forretress]<br>Lv. 52 | ![][sitrus-berry]<br>Sitrus Berry | Impish  | Sturdy      | <ul><li>Gyro Ball</li><li>Spikes</li><li>Toxic Spikes</li><li>Explosion</li></ul>
+![][306]<br>[Aggron]<br>Lv. 52     | ![][focus-sash]<br>Focus Sash     | Naughty | Rock Head   | <ul><li>Head Smash</li><li>Iron Head</li><li>Aqua Tail</li><li>Low Kick</li></ul>
+![][411]<br>[Bastiodon]<br>Lv. 53  | ![][leftovers]<br>Leftovers       | Sassy   | Soundproof  | <ul><li>Iron Head</li><li>Toxic</li><li>Protect</li><li>Metal Burst</li></ul>
 
 --8<-- "includes/abilities.md"
 

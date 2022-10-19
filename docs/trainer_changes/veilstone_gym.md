@@ -12,12 +12,12 @@ Black Belt Rafael                | ![][107]<br>[Hitmonchan]<br>Lv. 35 | ![][106]
 
 ![][maylene]                      | Item                              | Nature  | Ability           | Moves
 ---                               | ---                               | ---     | ---               | ---
-![][308]<br>[Medicham]<br>Lv. 38  | ![][sitrus-berry]<br>Sitrus Berry | Naive   | Pure Power        | High Jump Kick, Zen Headbutt, Ice Punch, Fake Out
-![][068]<br>[Machamp]<br>Lv. 38   | ![][toxic-orb]<br>Toxic Orb       | Relaxed | Guts              | Close Combat, Payback, Thunder Punch, Protect
-![][392]<br>[Infernape]<br>Lv. 38 | ![][life-orb]<br>Life Orb         | Hasty   | Iron Fist         | Close Combat, Rock Slide, Fire Punch, Mach Punch
-![][454]<br>[Toxicroak]<br>Lv. 38 | ![][big-root]<br>Big Root         | Lonely  | Dry Skin          | Drain Punch, Poison Jab, Ice Punch, Sucker Punch
-![][475]<br>[Gallade]<br>Lv. 38   | ![][light-clay]<br>Light Clay     | Brave   | Steadfast         | Drain Punch, Zen Headbutt, Light Screen, Reflect
-![][448]<br>[Lucario]<br>Lv. 39   | ![][focus-sash]<br>Focus Sash     | Timid   | Adaptability [^1] | Aura Sphere, Flash Cannon, Dark Pulse, Agility
+![][308]<br>[Medicham]<br>Lv. 38  | ![][sitrus-berry]<br>Sitrus Berry | Naive   | Pure Power        | <ul><li>High Jump Kick</li><li>Zen Headbutt</li><li>Ice Punch</li><li>Fake Out</li></ul>
+![][068]<br>[Machamp]<br>Lv. 38   | ![][toxic-orb]<br>Toxic Orb       | Relaxed | Guts              | <ul><li>Close Combat</li><li>Payback</li><li>Thunder Punch</li><li>Protect</li></ul>
+![][392]<br>[Infernape]<br>Lv. 38 | ![][life-orb]<br>Life Orb         | Hasty   | Iron Fist         | <ul><li>Close Combat</li><li>Rock Slide</li><li>Fire Punch</li><li>Mach Punch</li></ul>
+![][454]<br>[Toxicroak]<br>Lv. 38 | ![][big-root]<br>Big Root         | Lonely  | Dry Skin          | <ul><li>Drain Punch</li><li>Poison Jab</li><li>Ice Punch</li><li>Sucker Punch</li></ul>
+![][475]<br>[Gallade]<br>Lv. 38   | ![][light-clay]<br>Light Clay     | Brave   | Steadfast         | <ul><li>Drain Punch</li><li>Zen Headbutt</li><li>Light Screen</li><li>Reflect</li></ul>
+![][448]<br>[Lucario]<br>Lv. 39   | ![][focus-sash]<br>Focus Sash     | Timid   | Adaptability [^1] | <ul><li>Aura Sphere</li><li>Flash Cannon</li><li>Dark Pulse</li><li>Agility</li></ul>
 
 --8<-- "includes/abilities.md"
 

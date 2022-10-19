@@ -8,7 +8,7 @@ Reporter Jenny | ![][152]<br>[Chikorita]<br>Lv. 15 | ![][155]<br>[Cyndaquil]<br>
 
 Lass Sal<br>![][lass]           | Item | Nature | Ability | Moves
 ---                             | ---  | ---    | ---     | ---
-![][357]<br>[Tropius]<br>Lv. 85 | None | ?      | ?       | Hurricane, Substitute, Roost, Air Slash
+![][357]<br>[Tropius]<br>Lv. 85 | None | ?      | ?       | <ul><li>Hurricane</li><li>Substitute</li><li>Roost</li><li>Air Slash</li></ul>
 
 [Chikorita]: ../../pokemons/152/
 [Cyndaquil]: ../../pokemons/155/

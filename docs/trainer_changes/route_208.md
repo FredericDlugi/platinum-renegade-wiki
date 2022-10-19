@@ -19,11 +19,11 @@ Hiker Alexander                       | ![][075]<br>[Graveler]<br>Lv. 28   | &nb
 
 ![][aaron]                        | Item                              | Nature  | Ability     | Moves
 ---                               | ---                               | ---     | ---         | ---
-![][269]<br>[Dustox]<br>Lv. 31    | ![][leftovers]<br>Leftovers       | Calm    | Shield Dust | Bug Buzz, Toxic, Protect, Moonlight
-![][267]<br>[Beautifly]<br>Lv. 31 | ![][focus-sash]<br>Focus Sash     | Mild    | Swarm       | Bug Buzz, Air Slash, Energy Ball, Psychic
-![][049]<br>[Venomoth]<br>Lv. 31  | ![][wise-glasses]<br>Wise Glasses | Naive   | Tinted Lens | Bug Buzz, Psychic, Sludge Bomb, Sleep Powder
-![][212]<br>[Scizor]<br>Lv. 31    | ![][muscle-band]<br>Muscle Band   | Adamant | Technician  | X-Scissor, Bullet Punch, Iron Head, Swords Dance
-![][452]<br>[Drapion]<br>Lv. 32   | ![][scope-lens]<br>Scope Lens     | Jolly   | Sniper      | Cross Poison, X-Scissor, Night Slash, Swords Dance
+![][269]<br>[Dustox]<br>Lv. 31    | ![][leftovers]<br>Leftovers       | Calm    | Shield Dust | <ul><li>Bug Buzz</li><li>Toxic</li><li>Protect</li><li>Moonlight</li></ul>
+![][267]<br>[Beautifly]<br>Lv. 31 | ![][focus-sash]<br>Focus Sash     | Mild    | Swarm       | <ul><li>Bug Buzz</li><li>Air Slash</li><li>Energy Ball</li><li>Psychic</li></ul>
+![][049]<br>[Venomoth]<br>Lv. 31  | ![][wise-glasses]<br>Wise Glasses | Naive   | Tinted Lens | <ul><li>Bug Buzz</li><li>Psychic</li><li>Sludge Bomb</li><li>Sleep Powder</li></ul>
+![][212]<br>[Scizor]<br>Lv. 31    | ![][muscle-band]<br>Muscle Band   | Adamant | Technician  | <ul><li>X-Scissor</li><li>Bullet Punch</li><li>Iron Head</li><li>Swords Dance</li></ul>
+![][452]<br>[Drapion]<br>Lv. 32   | ![][scope-lens]<br>Scope Lens     | Jolly   | Sniper      | <ul><li>Cross Poison</li><li>X-Scissor</li><li>Night Slash</li><li>Swords Dance</li></ul>
 
 ## Rematches
 

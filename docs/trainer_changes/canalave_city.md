@@ -26,32 +26,32 @@
 === "Grass"
     ![][barry]                        | Item                              | Nature | Ability    | Moves
     ---                               | ---                               | ---    | ---        | ---
-    ![][398]<br>[Staraptor]<br>Lv. 48 | ![][choice-band]<br>Choice Band   | ?      | Reckless   | Double-Edge, Brave Bird, Close Combat, U-turn
-    ![][214]<br>[Heracross]<br>Lv. 48 | ![][muscle-band]<br>Muscle Band   | ?      | Guts       | Megahorn, Close Combat, Rock Slide, Night Slash
-    ![][143]<br>[Snorlax]<br>Lv. 48   | ![][leftovers]<br>Leftovers       | ?      | Thick Fat  | Curse, Body Slam, Crunch, Slack Off
-    ![][184]<br>[Azumarill]<br>Lv. 48 | ![][life-orb]<br>Life Orb         | ?      | Huge Power | Aqua Tail, Play Rough, Ice Punch, Aqua Jet
-    ![][286]<br>[Breloom]<br>Lv. 48   | ![][focus-sash]<br>Focus Sash     | ?      | Technician | Bullet Seed, Force Palm, Spore, Stone Edge
-    ![][392]<br>[Infernape]<br>Lv. 49 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist  | Fire Blast, Close Combat, Fake Out, Thunder Punch
+    ![][398]<br>[Staraptor]<br>Lv. 48 | ![][choice-band]<br>Choice Band   | ?      | Reckless   | <ul><li>Double-Edge</li><li>Brave Bird</li><li>Close Combat</li><li>U-turn</li></ul>
+    ![][214]<br>[Heracross]<br>Lv. 48 | ![][muscle-band]<br>Muscle Band   | ?      | Guts       | <ul><li>Megahorn</li><li>Close Combat</li><li>Rock Slide</li><li>Night Slash</li></ul>
+    ![][143]<br>[Snorlax]<br>Lv. 48   | ![][leftovers]<br>Leftovers       | ?      | Thick Fat  | <ul><li>Curse</li><li>Body Slam</li><li>Crunch</li><li>Slack Off</li></ul>
+    ![][184]<br>[Azumarill]<br>Lv. 48 | ![][life-orb]<br>Life Orb         | ?      | Huge Power | <ul><li>Aqua Tail</li><li>Play Rough</li><li>Ice Punch</li><li>Aqua Jet</li></ul>
+    ![][286]<br>[Breloom]<br>Lv. 48   | ![][focus-sash]<br>Focus Sash     | ?      | Technician | <ul><li>Bullet Seed</li><li>Force Palm</li><li>Spore</li><li>Stone Edge</li></ul>
+    ![][392]<br>[Infernape]<br>Lv. 49 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist  | <ul><li>Fire Blast</li><li>Close Combat</li><li>Fake Out</li><li>Thunder Punch</li></ul>
 
 === "Fire"
     ![][barry]                        | Item                              | Nature | Ability    | Moves
     ---                               | ---                               | ---    | ---        | ---
-    ![][398]<br>[Staraptor]<br>Lv. 48 | ![][choice-band]<br>Choice Band   | ?      | Reckless   | Double-Edge, Brave Bird, Close Combat, U-turn
-    ![][214]<br>[Heracross]<br>Lv. 48 | ![][muscle-band]<br>Muscle Band   | ?      | Guts       | Megahorn, Close Combat, Rock Slide, Night Slash
-    ![][143]<br>[Snorlax]<br>Lv. 48   | ![][leftovers]<br>Leftovers       | ?      | Thick Fat  | Curse, Body Slam, Crunch, Slack Off
-    ![][286]<br>[Breloom]<br>Lv. 48   | ![][focus-sash]<br>Focus Sash     | ?      | Technician | Bullet Seed, Force Palm, Spore, Stone Edge
-    ![][059]<br>[Arcanine]<br>Lv. 48  | ![][expert-belt]<br>Expert Belt   | ?      | Intimidate | Flare Blitz, Extreme Speed, Crunch, Close Combat
-    ![][395]<br>[Empoleon]<br>Lv. 49  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent    | Surf, Flash Cannon, Grass Knot, Agility
+    ![][398]<br>[Staraptor]<br>Lv. 48 | ![][choice-band]<br>Choice Band   | ?      | Reckless   | <ul><li>Double-Edge</li><li>Brave Bird</li><li>Close Combat</li><li>U-turn</li></ul>
+    ![][214]<br>[Heracross]<br>Lv. 48 | ![][muscle-band]<br>Muscle Band   | ?      | Guts       | <ul><li>Megahorn</li><li>Close Combat</li><li>Rock Slide</li><li>Night Slash</li></ul>
+    ![][143]<br>[Snorlax]<br>Lv. 48   | ![][leftovers]<br>Leftovers       | ?      | Thick Fat  | <ul><li>Curse</li><li>Body Slam</li><li>Crunch</li><li>Slack Off</li></ul>
+    ![][286]<br>[Breloom]<br>Lv. 48   | ![][focus-sash]<br>Focus Sash     | ?      | Technician | <ul><li>Bullet Seed</li><li>Force Palm</li><li>Spore</li><li>Stone Edge</li></ul>
+    ![][059]<br>[Arcanine]<br>Lv. 48  | ![][expert-belt]<br>Expert Belt   | ?      | Intimidate | <ul><li>Flare Blitz</li><li>Extreme Speed</li><li>Crunch</li><li>Close Combat</li></ul>
+    ![][395]<br>[Empoleon]<br>Lv. 49  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent    | <ul><li>Surf</li><li>Flash Cannon</li><li>Grass Knot</li><li>Agility</li></ul>
 
 === "Water"
     ![][barry]                        | Item                              | Nature | Ability    | Moves
     ---                               | ---                               | ---    | ---        | ---
-    ![][398]<br>[Staraptor]<br>Lv. 48 | ![][choice-band]<br>Choice Band   | ?      | Reckless   | Double-Edge, Brave Bird, Close Combat, U-turn
-    ![][214]<br>[Heracross]<br>Lv. 48 | ![][muscle-band]<br>Muscle Band   | ?      | Guts       | Megahorn, Close Combat, Rock Slide, Night Slash
-    ![][143]<br>[Snorlax]<br>Lv. 48   | ![][leftovers]<br>Leftovers       | ?      | Thick Fat  | Curse, Body Slam, Crunch, Slack Off
-    ![][184]<br>[Azumarill]<br>Lv. 48 | ![][life-orb]<br>Life Orb         | ?      | Huge Power | Aqua Tail, Play Rough, Ice Punch, Aqua Jet
-    ![][059]<br>[Arcanine]<br>Lv. 48  | ![][expert-belt]<br>Expert Belt   | ?      | Intimidate | Flare Blitz, Extreme Speed, Crunch, Close Combat
-    ![][389]<br>[Torterra]<br>Lv. 49  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow   | Wood Hammer, Earthquake, Crunch, Iron Head
+    ![][398]<br>[Staraptor]<br>Lv. 48 | ![][choice-band]<br>Choice Band   | ?      | Reckless   | <ul><li>Double-Edge</li><li>Brave Bird</li><li>Close Combat</li><li>U-turn</li></ul>
+    ![][214]<br>[Heracross]<br>Lv. 48 | ![][muscle-band]<br>Muscle Band   | ?      | Guts       | <ul><li>Megahorn</li><li>Close Combat</li><li>Rock Slide</li><li>Night Slash</li></ul>
+    ![][143]<br>[Snorlax]<br>Lv. 48   | ![][leftovers]<br>Leftovers       | ?      | Thick Fat  | <ul><li>Curse</li><li>Body Slam</li><li>Crunch</li><li>Slack Off</li></ul>
+    ![][184]<br>[Azumarill]<br>Lv. 48 | ![][life-orb]<br>Life Orb         | ?      | Huge Power | <ul><li>Aqua Tail</li><li>Play Rough</li><li>Ice Punch</li><li>Aqua Jet</li></ul>
+    ![][059]<br>[Arcanine]<br>Lv. 48  | ![][expert-belt]<br>Expert Belt   | ?      | Intimidate | <ul><li>Flare Blitz</li><li>Extreme Speed</li><li>Crunch</li><li>Close Combat</li></ul>
+    ![][389]<br>[Torterra]<br>Lv. 49  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow   | <ul><li>Wood Hammer</li><li>Earthquake</li><li>Crunch</li><li>Iron Head</li></ul>
 
 
 --8<-- "includes/abilities.md"

@@ -11,7 +11,7 @@ Team Galactic Grunt | ![][435]<br>[Skuntank]<br>Lv. 35  | ![][269]<br>[Dustox]<b
 
 Black Belt Randy<br>![][blackbelt] | Item | Nature | Ability | Moves
 ---                                | ---  | ---    | ---     | ---
-![][475]<br>[Gallade]<br>Lv. 85    | None | ?      | ?       | Zen Headbut, Close Combat, Thunder Wave, Confuse Ray
+![][475]<br>[Gallade]<br>Lv. 85    | None | ?      | ?       | <ul><li>Zen Headbut</li><li>Close Combat</li><li>Thunder Wave</li><li>Confuse Ray</li></ul>
 
 --8<-- "includes/abilities.md"
 

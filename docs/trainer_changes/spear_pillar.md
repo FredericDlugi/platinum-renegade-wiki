@@ -35,23 +35,23 @@ Trainer                             | 1                              | 2        
 
 ![][mars]                          | Item                              | Nature | Ability     | Moves
 ---                                | ---                               | ---    | ---         | ---
-![][169]<br>[Crobat]<br>Lv. 57     | ![][life-orb]<br>Life Orb         | ?      | Inner Focus | Brave Bird, Sludge Bomb, Confuse Ray, Torment
-![][469]<br>[Yanmega]<br>Lv. 57    | ![][wise-glasses]<br>Wise Glasses | ?      | Speed Boost | Bug Buzz, Hurricane, Shadow Ball, Detect
-![][437]<br>[Bronzong]<br>Lv. 57   | ![][leftovers]<br>Leftovers       | ?      | Levitate    | Stealth Rock, Zen Headbutt, Gyro Ball, Earthquake
-![][466]<br>[Electivire]<br>Lv. 57 | ![][expert-belt]<br>Expert Belt   | ?      | Motor Drive | Thunder Punch, Ice Punch, Cross Chop, Fire Punch
-![][115]<br>[Kangaskhan]<br>Lv. 57 | ![][muscle-band]<br>Muscle Band   | ?      | Scrappy     | Body Slam, Crunch, Hammer Arm, Fake Out
-![][432]<br>[Purugly]<br>Lv. 58    | ![][sitrus-berry]<br>Sitrus Berry | ?      | Thick Fat   | Body Slam, Play Rough, Fake Out, Hypnosis
+![][169]<br>[Crobat]<br>Lv. 57     | ![][life-orb]<br>Life Orb         | ?      | Inner Focus | <ul><li>Brave Bird</li><li>Sludge Bomb</li><li>Confuse Ray</li><li>Torment</li></ul>
+![][469]<br>[Yanmega]<br>Lv. 57    | ![][wise-glasses]<br>Wise Glasses | ?      | Speed Boost | <ul><li>Bug Buzz</li><li>Hurricane</li><li>Shadow Ball</li><li>Detect</li></ul>
+![][437]<br>[Bronzong]<br>Lv. 57   | ![][leftovers]<br>Leftovers       | ?      | Levitate    | <ul><li>Stealth Rock</li><li>Zen Headbutt</li><li>Gyro Ball</li><li>Earthquake</li></ul>
+![][466]<br>[Electivire]<br>Lv. 57 | ![][expert-belt]<br>Expert Belt   | ?      | Motor Drive | <ul><li>Thunder Punch</li><li>Ice Punch</li><li>Cross Chop</li><li>Fire Punch</li></ul>
+![][115]<br>[Kangaskhan]<br>Lv. 57 | ![][muscle-band]<br>Muscle Band   | ?      | Scrappy     | <ul><li>Body Slam</li><li>Crunch</li><li>Hammer Arm</li><li>Fake Out</li></ul>
+![][432]<br>[Purugly]<br>Lv. 58    | ![][sitrus-berry]<br>Sitrus Berry | ?      | Thick Fat   | <ul><li>Body Slam</li><li>Play Rough</li><li>Fake Out</li><li>Hypnosis</li></ul>
 
 ## Commander Jupiter
 
 ![][jupiter]                      | Item                                | Nature | Ability          | Moves
 ---                               | ---                                 | ---    | ---              | ---
-![][169]<br>[Crobat]<br>Lv. 57    | ![][bright-powder]<br>Bright Powder | ?      | Inner Focus      | Brave Bird, Sludge Bomb, Double Team, Hypnosis
-![][302]<br>[Sableye]<br>Lv. 57   | ![][muscle-band]<br>Muscle Band     | ?      | Magic Guard [^1] | Shadow Claw, Sucker Punch, Zen Headbutt, Fake Out
-![][437]<br>[Bronzong]<br>Lv. 57  | ![][leftovers]<br>Leftovers         | ?      | Levitate         | Swagger, Psychic, Flash Cannon, Grass Knot
-![][465]<br>[Tangrowth]<br>Lv. 57 | ![][big-root]<br>Big Root           | ?      | Chlorophyll      | Giga Drain, Leech Seed, Focus Blast, Sludge Bomb
-![][423]<br>[Gastrodon]<br>Lv. 57 | ![][wise-glasses]<br>Wise Glasses   | ?      | Sticky Hold      | Muddy Water, Earth Power, Ice Beam, Recover
-![][435]<br>[Skuntank]<br>Lv. 58  | ![][sitrus-berry]<br>Sitrus Berry   | ?      | Aftermath        | Gunk Shot, Crunch, Play Rough, Toxic
+![][169]<br>[Crobat]<br>Lv. 57    | ![][bright-powder]<br>Bright Powder | ?      | Inner Focus      | <ul><li>Brave Bird</li><li>Sludge Bomb</li><li>Double Team</li><li>Hypnosis</li></ul>
+![][302]<br>[Sableye]<br>Lv. 57   | ![][muscle-band]<br>Muscle Band     | ?      | Magic Guard [^1] | <ul><li>Shadow Claw</li><li>Sucker Punch</li><li>Zen Headbutt</li><li>Fake Out</li></ul>
+![][437]<br>[Bronzong]<br>Lv. 57  | ![][leftovers]<br>Leftovers         | ?      | Levitate         | <ul><li>Swagger</li><li>Psychic</li><li>Flash Cannon</li><li>Grass Knot</li></ul>
+![][465]<br>[Tangrowth]<br>Lv. 57 | ![][big-root]<br>Big Root           | ?      | Chlorophyll      | <ul><li>Giga Drain</li><li>Leech Seed</li><li>Focus Blast</li><li>Sludge Bomb</li></ul>
+![][423]<br>[Gastrodon]<br>Lv. 57 | ![][wise-glasses]<br>Wise Glasses   | ?      | Sticky Hold      | <ul><li>Muddy Water</li><li>Earth Power</li><li>Ice Beam</li><li>Recover</li></ul>
+![][435]<br>[Skuntank]<br>Lv. 58  | ![][sitrus-berry]<br>Sitrus Berry   | ?      | Aftermath        | <ul><li>Gunk Shot</li><li>Crunch</li><li>Play Rough</li><li>Toxic</li></ul>
 
 --8<-- "includes/abilities.md"
 

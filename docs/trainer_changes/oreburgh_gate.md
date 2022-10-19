@@ -10,7 +10,7 @@ Veteran Grant   | ![][448]<br>[Lucario]<br>Lv. 45 | ![][076]<br>[Golem]<br>Lv. 4
 
 Hiker Dexter<br>![][hiker]       | Item | Nature | Ability      | Moves
 ---                              | ---  | ---    | ---          | ---
-![][195]<br>[Quagsire]<br>Lv. 85 | None | ?      | Water Absorb | Earthquake, Aqua Tail, Ice Punch, Recover
+![][195]<br>[Quagsire]<br>Lv. 85 | None | ?      | Water Absorb | <ul><li>Earthquake</li><li>Aqua Tail</li><li>Ice Punch</li><li>Recover</li></ul>
 
 --8<-- "includes/abilities.md"
 

@@ -22,18 +22,18 @@ Galactic Grunt                     | ![][432]<br>[Purugly]<br>Lv. 46    | ![][45
 
 ![][riley]                        | Item                              | Nature | Ability      | Moves
 ---                               | ---                               | ---    | ---          | ---
-![][359]<br>[Absol]<br>Lv. 49     | ![][scope-lens]<br>Scope Lens     | ?      | Super Luck   | Night Slash, Psycho Cut, Megahorn, Play Rough
-![][217]<br>[Ursaring]<br>Lv. 49  | ![][flame-orb]<br>Flame Orb       | ?      | Guts         | Strength, Close Combat, Play Rough, Protect
-![][376]<br>[Metagross]<br>Lv. 49 | ![][liechi-berry]<br>Liechi Berry | ?      | Clear Body   | Meteor Mash, Earthquake, Zen Headbutt, Agility
-![][373]<br>[Salamence]<br>Lv. 49 | ![][power-herb]<br>Power Herb     | ?      | Intimidate   | Dragon Rush, Fly, Crunch, Dragon Dance
-![][289]<br>[Slaking]<br>Lv. 49   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Truant       | Body Slam, Hammer Arm, Play Rough, Slack Off
-![][448]<br>[Lucario]<br>Lv. 50   | ![][life-orb]<br>Life Orb         | ?      | Adaptability | High Jump Kick, Meteor Mash, Blaze Kick, Bullet Punch
+![][359]<br>[Absol]<br>Lv. 49     | ![][scope-lens]<br>Scope Lens     | ?      | Super Luck   | <ul><li>Night Slash</li><li>Psycho Cut</li><li>Megahorn</li><li>Play Rough</li></ul>
+![][217]<br>[Ursaring]<br>Lv. 49  | ![][flame-orb]<br>Flame Orb       | ?      | Guts         | <ul><li>Strength</li><li>Close Combat</li><li>Play Rough</li><li>Protect</li></ul>
+![][376]<br>[Metagross]<br>Lv. 49 | ![][liechi-berry]<br>Liechi Berry | ?      | Clear Body   | <ul><li>Meteor Mash</li><li>Earthquake</li><li>Zen Headbutt</li><li>Agility</li></ul>
+![][373]<br>[Salamence]<br>Lv. 49 | ![][power-herb]<br>Power Herb     | ?      | Intimidate   | <ul><li>Dragon Rush</li><li>Fly</li><li>Crunch</li><li>Dragon Dance</li></ul>
+![][289]<br>[Slaking]<br>Lv. 49   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Truant       | <ul><li>Body Slam</li><li>Hammer Arm</li><li>Play Rough</li><li>Slack Off</li></ul>
+![][448]<br>[Lucario]<br>Lv. 50   | ![][life-orb]<br>Life Orb         | ?      | Adaptability | <ul><li>High Jump Kick</li><li>Meteor Mash</li><li>Blaze Kick</li><li>Bullet Punch</li></ul>
 
 ## Master Trainer
 
 Scientist Julian<br>![][scientist] | Item | Nature | Ability | Moves
 ---                                | ---  | ---    | ---     | ---
-![][448]<br>[Lucario]<br>Lv. 85    | None | ?      | ?       | Close Combat, Blaze Kick, Earthquake, -
+![][448]<br>[Lucario]<br>Lv. 85    | None | ?      | ?       | <ul><li>Close Combat</li><li>Blaze Kick</li><li>Earthquake</li><li>-</li></ul>
 
 --8<-- "includes/abilities.md"
 

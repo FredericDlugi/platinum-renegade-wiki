@@ -49,7 +49,7 @@ Youngster Tristan :material-numeric-8-circle-outline: | ![][164]<br>[Noctowl]<br
 
 Bug Catcher Louie<br>![][bug_catcher] | Item | Nature | Ability | Moves
 ---                                   | ---  | ---    | ---     | ---
-![][469]<br>[Yanmega]<br>Lv. 85       | None | ?      | ?       | Air Slash, Protect, Bug Buzz, Substitute
+![][469]<br>[Yanmega]<br>Lv. 85       | None | ?      | ?       | <ul><li>Air Slash</li><li>Protect</li><li>Bug Buzz</li><li>Substitute</li></ul>
 
 [Pidgeot]: ../../pokemons/018/
 [Growlithe]: ../../pokemons/058/

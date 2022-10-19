@@ -8,12 +8,12 @@ Trainer                              | 1                               | 2      
 
 ![][darach]                       | Item                              | Nature | Ability        | Moves
 ---                               | ---                               | ---    | ---            | ---
-![][475]<br>[Gallade]<br>Lv. 48   | ![][scope-lens]<br>Scope Lens     | ?      | Steadfast      | Psycho Cut, Night Slash, Close Combat, Leaf Blade
-![][395]<br>[Empoleon]<br>Lv. 48  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent        | Hydro Pump, Flash Cannon, Ice Beam, Aqua Jet
-![][065]<br>[Alakazam]<br>Lv. 48  | ![][expert-belt]<br>Expert Belt   | ?      | Magic Guard    | Psychic, Dazzling Gleam, Focus Blast, Energy Ball
-![][376]<br>[Metagross]<br>Lv. 48 | ![][life-orb]<br>Life Orb         | ?      | Iron Fist [^1] | Meteor Mash, Zen Headbutt, Earthquake, Hammer Arm
-![][398]<br>[Staraptor]<br>Lv. 48 | ![][kings-rock]<br>King's Rock    | ?      | Reckless       | Return, Brave Bird, Close Combat, Roost
-![][244]<br>[Entei]<br>Lv. 48     | ![][shuca-berry]<br>Shuca Berry   | ?      | Pressure       | Sacred Fire, Stone Edge, Extreme Speed, Iron Head
+![][475]<br>[Gallade]<br>Lv. 48   | ![][scope-lens]<br>Scope Lens     | ?      | Steadfast      | <ul><li>Psycho Cut</li><li>Night Slash</li><li>Close Combat</li><li>Leaf Blade</li></ul>
+![][395]<br>[Empoleon]<br>Lv. 48  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent        | <ul><li>Hydro Pump</li><li>Flash Cannon</li><li>Ice Beam</li><li>Aqua Jet</li></ul>
+![][065]<br>[Alakazam]<br>Lv. 48  | ![][expert-belt]<br>Expert Belt   | ?      | Magic Guard    | <ul><li>Psychic</li><li>Dazzling Gleam</li><li>Focus Blast</li><li>Energy Ball</li></ul>
+![][376]<br>[Metagross]<br>Lv. 48 | ![][life-orb]<br>Life Orb         | ?      | Iron Fist [^1] | <ul><li>Meteor Mash</li><li>Zen Headbutt</li><li>Earthquake</li><li>Hammer Arm</li></ul>
+![][398]<br>[Staraptor]<br>Lv. 48 | ![][kings-rock]<br>King's Rock    | ?      | Reckless       | <ul><li>Return</li><li>Brave Bird</li><li>Close Combat</li><li>Roost</li></ul>
+![][244]<br>[Entei]<br>Lv. 48     | ![][shuca-berry]<br>Shuca Berry   | ?      | Pressure       | <ul><li>Sacred Fire</li><li>Stone Edge</li><li>Extreme Speed</li><li>Iron Head</li></ul>
 
 --8<-- "includes/abilities.md"
 

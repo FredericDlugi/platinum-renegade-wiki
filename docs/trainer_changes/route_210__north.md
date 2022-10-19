@@ -53,64 +53,64 @@ Ninja Boy Nathan                            | ![][317]<br>[Swalot]<br>Lv. 39    
 === "Grass"
     ![][dawn]                         | Item                              | Nature | Ability      | Moves
     ---                               | ---                               | ---    | ---          | ---
-    ![][065]<br>[Alakazam]<br>Lv. 44  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | Psychic, Shadow Ball, Energy Ball, Dazzling Gleam
-    ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][passho-berry]<br>Passho Berry | ?      | Thick Fat    | Earthquake, Avalanche, Stone Edge, Ice Shard
-    ![][036]<br>[Clefable]<br>Lv. 44  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | Moonblast, Moonlight, Psychic, Thunder Wave
-    ![][428]<br>[Lopunny]<br>Lv. 44   | ![][choice-band]<br>Choice Band   | ?      | Scrappy [^1] | Strength, Jump Kick, Fire Punch, Ice Punch
-    ![][136]<br>[Flareon]<br>Lv. 44   | ![][muscle-band]<br>Muscle Band   | ?      | Flash Fire   | Flare Blitz, Play Rough, Close Combat, Will-O-Wisp
-    ![][395]<br>[Empoleon]<br>Lv. 45  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent      | Surf, Flash Cannon, Grass Knot, Featherdance
+    ![][065]<br>[Alakazam]<br>Lv. 44  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | <ul><li>Psychic</li><li>Shadow Ball</li><li>Energy Ball</li><li>Dazzling Gleam</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][passho-berry]<br>Passho Berry | ?      | Thick Fat    | <ul><li>Earthquake</li><li>Avalanche</li><li>Stone Edge</li><li>Ice Shard</li></ul>
+    ![][036]<br>[Clefable]<br>Lv. 44  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | <ul><li>Moonblast</li><li>Moonlight</li><li>Psychic</li><li>Thunder Wave</li></ul>
+    ![][428]<br>[Lopunny]<br>Lv. 44   | ![][choice-band]<br>Choice Band   | ?      | Scrappy [^1] | <ul><li>Strength</li><li>Jump Kick</li><li>Fire Punch</li><li>Ice Punch</li></ul>
+    ![][136]<br>[Flareon]<br>Lv. 44   | ![][muscle-band]<br>Muscle Band   | ?      | Flash Fire   | <ul><li>Flare Blitz</li><li>Play Rough</li><li>Close Combat</li><li>Will-O-Wisp</li></ul>
+    ![][395]<br>[Empoleon]<br>Lv. 45  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent      | <ul><li>Surf</li><li>Flash Cannon</li><li>Grass Knot</li><li>Featherdance</li></ul>
 
 === "Fire"
     ![][dawn]                         | Item                              | Nature | Ability      | Moves
     ---                               | ---                               | ---    | ---          | ---
-    ![][065]<br>[Alakazam]<br>Lv. 44  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | Psychic, Shadow Ball, Energy Ball, Dazzling Gleam
-    ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][passho-berry]<br>Passho Berry | ?      | Thick Fat    | Earthquake, Avalanche, Stone Edge, Ice Shard
-    ![][036]<br>[Clefable]<br>Lv. 44  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | Moonblast, Moonlight, Psychic, Thunder Wave
-    ![][428]<br>[Lopunny]<br>Lv. 44   | ![][choice-band]<br>Choice Band   | ?      | Scrappy [^1] | Strength, Jump Kick, Fire Punch, Ice Punch
-    ![][134]<br>[Vaporeon]<br>Lv. 44  | ![][wise-glasses]<br>Wise Glasses | ?      | Water Absorb | Hydro Pump, Ice Beam, Extrasensory, Aqua Ring
-    ![][389]<br>[Torterra]<br>Lv. 45  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | Wood Hammer, Earthquake, Iron Head, Rock Slide
+    ![][065]<br>[Alakazam]<br>Lv. 44  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | <ul><li>Psychic</li><li>Shadow Ball</li><li>Energy Ball</li><li>Dazzling Gleam</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][passho-berry]<br>Passho Berry | ?      | Thick Fat    | <ul><li>Earthquake</li><li>Avalanche</li><li>Stone Edge</li><li>Ice Shard</li></ul>
+    ![][036]<br>[Clefable]<br>Lv. 44  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | <ul><li>Moonblast</li><li>Moonlight</li><li>Psychic</li><li>Thunder Wave</li></ul>
+    ![][428]<br>[Lopunny]<br>Lv. 44   | ![][choice-band]<br>Choice Band   | ?      | Scrappy [^1] | <ul><li>Strength</li><li>Jump Kick</li><li>Fire Punch</li><li>Ice Punch</li></ul>
+    ![][134]<br>[Vaporeon]<br>Lv. 44  | ![][wise-glasses]<br>Wise Glasses | ?      | Water Absorb | <ul><li>Hydro Pump</li><li>Ice Beam</li><li>Extrasensory</li><li>Aqua Ring</li></ul>
+    ![][389]<br>[Torterra]<br>Lv. 45  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | <ul><li>Wood Hammer</li><li>Earthquake</li><li>Iron Head</li><li>Rock Slide</li></ul>
 
 === "Water"
     ![][dawn]                         | Item                              | Nature | Ability      | Moves
     ---                               | ---                               | ---    | ---          | ---
-    ![][065]<br>[Alakazam]<br>Lv. 44  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | Psychic, Shadow Ball, Energy Ball, Dazzling Gleam
-    ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][passho-berry]<br>Passho Berry | ?      | Thick Fat    | Earthquake, Avalanche, Stone Edge, Ice Shard
-    ![][036]<br>[Clefable]<br>Lv. 44  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | Moonblast, Moonlight, Psychic, Thunder Wave
-    ![][428]<br>[Lopunny]<br>Lv. 44   | ![][choice-band]<br>Choice Band   | ?      | Scrappy [^1] | Strength, Jump Kick, Fire Punch, Ice Punch
-    ![][135]<br>[Jolteon]<br>Lv. 44   | ![][wise-glasses]<br>Wise Glasses | ?      | Volt Absorb  | Thunder, Shadow Ball, Extrasensory, Thunder Wave
-    ![][392]<br>[Infernape]<br>Lv. 45 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist    | Fire Blast, Close Combat, Thunder Punch, Rock Slide
+    ![][065]<br>[Alakazam]<br>Lv. 44  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | <ul><li>Psychic</li><li>Shadow Ball</li><li>Energy Ball</li><li>Dazzling Gleam</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][passho-berry]<br>Passho Berry | ?      | Thick Fat    | <ul><li>Earthquake</li><li>Avalanche</li><li>Stone Edge</li><li>Ice Shard</li></ul>
+    ![][036]<br>[Clefable]<br>Lv. 44  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | <ul><li>Moonblast</li><li>Moonlight</li><li>Psychic</li><li>Thunder Wave</li></ul>
+    ![][428]<br>[Lopunny]<br>Lv. 44   | ![][choice-band]<br>Choice Band   | ?      | Scrappy [^1] | <ul><li>Strength</li><li>Jump Kick</li><li>Fire Punch</li><li>Ice Punch</li></ul>
+    ![][135]<br>[Jolteon]<br>Lv. 44   | ![][wise-glasses]<br>Wise Glasses | ?      | Volt Absorb  | <ul><li>Thunder</li><li>Shadow Ball</li><li>Extrasensory</li><li>Thunder Wave</li></ul>
+    ![][392]<br>[Infernape]<br>Lv. 45 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist    | <ul><li>Fire Blast</li><li>Close Combat</li><li>Thunder Punch</li><li>Rock Slide</li></ul>
 
 ## PKMN Trainer Lucas
 
 === "Grass"
     ![][lucas]                         | Item                              | Nature | Ability     | Moves
     ---                                | ---                               | ---    | ---         | ---
-    ![][065]<br>[Alakazam]<br>Lv. 44   | ![][life-orb]<br>Life Orb         | ?      | Magic Guard | Psychic, Shadow Ball, Energy Ball, Dazzling Gleam
-    ![][473]<br>[Mamoswine]<br>Lv. 44  | ![][passho-berry]<br>Passho Berry | ?      | Thick Fat   | Earthquake, Avalanche, Stone Edge, Ice Shard
-    ![][210]<br>[Granbull]<br>Lv. 44   | ![][choice-band]<br>Choice Band   | ?      | Intimidate  | Play Rough, Close Combat, Crunch, Earthquake
-    ![][463]<br>[Lickilicky]<br>Lv. 44 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo   | Body Slam, Zen Headbutt, Earthquake, Amnesia
-    ![][136]<br>[Flareon]<br>Lv. 44    | ![][muscle-band]<br>Muscle Band   | ?      | Flash Fire  | Flare Blitz, Play Rough, Close Combat, Will-O-Wisp
-    ![][395]<br>[Empoleon]<br>Lv. 45   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent     | Surf, Flash Cannon, Grass Knot, Featherdance
+    ![][065]<br>[Alakazam]<br>Lv. 44   | ![][life-orb]<br>Life Orb         | ?      | Magic Guard | <ul><li>Psychic</li><li>Shadow Ball</li><li>Energy Ball</li><li>Dazzling Gleam</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 44  | ![][passho-berry]<br>Passho Berry | ?      | Thick Fat   | <ul><li>Earthquake</li><li>Avalanche</li><li>Stone Edge</li><li>Ice Shard</li></ul>
+    ![][210]<br>[Granbull]<br>Lv. 44   | ![][choice-band]<br>Choice Band   | ?      | Intimidate  | <ul><li>Play Rough</li><li>Close Combat</li><li>Crunch</li><li>Earthquake</li></ul>
+    ![][463]<br>[Lickilicky]<br>Lv. 44 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo   | <ul><li>Body Slam</li><li>Zen Headbutt</li><li>Earthquake</li><li>Amnesia</li></ul>
+    ![][136]<br>[Flareon]<br>Lv. 44    | ![][muscle-band]<br>Muscle Band   | ?      | Flash Fire  | <ul><li>Flare Blitz</li><li>Play Rough</li><li>Close Combat</li><li>Will-O-Wisp</li></ul>
+    ![][395]<br>[Empoleon]<br>Lv. 45   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent     | <ul><li>Surf</li><li>Flash Cannon</li><li>Grass Knot</li><li>Featherdance</li></ul>
 
 === "Fire"
     ![][lucas]                         | Item                              | Nature | Ability      | Moves
     ---                                | ---                               | ---    | ---          | ---
-    ![][065]<br>[Alakazam]<br>Lv. 44   | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | Psychic, Shadow Ball, Energy Ball, Dazzling Gleam
-    ![][473]<br>[Mamoswine]<br>Lv. 44  | ![][passho-berry]<br>Passho Berry | ?      | Thick Fat    | Earthquake, Avalanche, Stone Edge, Ice Shard
-    ![][210]<br>[Granbull]<br>Lv. 44   | ![][choice-band]<br>Choice Band   | ?      | Intimidate   | Play Rough, Close Combat, Crunch, Earthquake
-    ![][463]<br>[Lickilicky]<br>Lv. 44 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo    | Body Slam, Zen Headbutt, Earthquake, Amnesia
-    ![][134]<br>[Vaporeon]<br>Lv. 44   | ![][wise-glasses]<br>Wise Glasses | ?      | Water Absorb | Hydro Pump, Ice Beam, Extrasensory, Aqua Ring
-    ![][389]<br>[Torterra]<br>Lv. 45   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | Wood Hammer, Earthquake, Iron Head, Rock Slide
+    ![][065]<br>[Alakazam]<br>Lv. 44   | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | <ul><li>Psychic</li><li>Shadow Ball</li><li>Energy Ball</li><li>Dazzling Gleam</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 44  | ![][passho-berry]<br>Passho Berry | ?      | Thick Fat    | <ul><li>Earthquake</li><li>Avalanche</li><li>Stone Edge</li><li>Ice Shard</li></ul>
+    ![][210]<br>[Granbull]<br>Lv. 44   | ![][choice-band]<br>Choice Band   | ?      | Intimidate   | <ul><li>Play Rough</li><li>Close Combat</li><li>Crunch</li><li>Earthquake</li></ul>
+    ![][463]<br>[Lickilicky]<br>Lv. 44 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo    | <ul><li>Body Slam</li><li>Zen Headbutt</li><li>Earthquake</li><li>Amnesia</li></ul>
+    ![][134]<br>[Vaporeon]<br>Lv. 44   | ![][wise-glasses]<br>Wise Glasses | ?      | Water Absorb | <ul><li>Hydro Pump</li><li>Ice Beam</li><li>Extrasensory</li><li>Aqua Ring</li></ul>
+    ![][389]<br>[Torterra]<br>Lv. 45   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | <ul><li>Wood Hammer</li><li>Earthquake</li><li>Iron Head</li><li>Rock Slide</li></ul>
 
 === "Water"
     ![][lucas]                         | Item                              | Nature | Ability     | Moves
     ---                                | ---                               | ---    | ---         | ---
-    ![][065]<br>[Alakazam]<br>Lv. 44   | ![][life-orb]<br>Life Orb         | ?      | Magic Guard | Psychic, Shadow Ball, Energy Ball, Dazzling Gleam
-    ![][473]<br>[Mamoswine]<br>Lv. 44  | ![][passho-berry]<br>Passho Berry | ?      | Thick Fat   | Earthquake, Avalanche, Stone Edge, Ice Shard
-    ![][210]<br>[Granbull]<br>Lv. 44   | ![][choice-band]<br>Choice Band   | ?      | Intimidate  | Play Rough, Close Combat, Crunch, Earthquake
-    ![][463]<br>[Lickilicky]<br>Lv. 44 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo   | Body Slam, Zen Headbutt, Earthquake, Amnesia
-    ![][135]<br>[Jolteon]<br>Lv. 44    | ![][wise-glasses]<br>Wise Glasses | ?      | Volt Absorb | Thunder, Shadow Ball, Extrasensory, Thunder Wave
-    ![][392]<br>[Infernape]<br>Lv. 45  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist   | Fire Blast, Close Combat, Thunder Punch, Rock Slide
+    ![][065]<br>[Alakazam]<br>Lv. 44   | ![][life-orb]<br>Life Orb         | ?      | Magic Guard | <ul><li>Psychic</li><li>Shadow Ball</li><li>Energy Ball</li><li>Dazzling Gleam</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 44  | ![][passho-berry]<br>Passho Berry | ?      | Thick Fat   | <ul><li>Earthquake</li><li>Avalanche</li><li>Stone Edge</li><li>Ice Shard</li></ul>
+    ![][210]<br>[Granbull]<br>Lv. 44   | ![][choice-band]<br>Choice Band   | ?      | Intimidate  | <ul><li>Play Rough</li><li>Close Combat</li><li>Crunch</li><li>Earthquake</li></ul>
+    ![][463]<br>[Lickilicky]<br>Lv. 44 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo   | <ul><li>Body Slam</li><li>Zen Headbutt</li><li>Earthquake</li><li>Amnesia</li></ul>
+    ![][135]<br>[Jolteon]<br>Lv. 44    | ![][wise-glasses]<br>Wise Glasses | ?      | Volt Absorb | <ul><li>Thunder</li><li>Shadow Ball</li><li>Extrasensory</li><li>Thunder Wave</li></ul>
+    ![][392]<br>[Infernape]<br>Lv. 45  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist   | <ul><li>Fire Blast</li><li>Close Combat</li><li>Thunder Punch</li><li>Rock Slide</li></ul>
 
 ## Rematches
 

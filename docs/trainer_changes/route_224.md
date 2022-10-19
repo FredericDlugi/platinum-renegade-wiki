@@ -49,32 +49,32 @@ Ace Trainer Jamie                          | ![][134]<br>[Vaporeon]<br>Lv. 67   
 === "Grass"
     ![][dawn]                         | Item                              | Nature | Ability     | Moves
     ---                               | ---                               | ---    | ---         | ---
-    ![][065]<br>[Alakazam]<br>Lv. 69  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard | Psychic, Shadow Ball, Aura Sphere, Dazzling Gleam
-    ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][choice-band]<br>Choice Band   | ?      | Thick Fat   | Earthquake, Icicle Crash, Stone Edge, Superpower
-    ![][036]<br>[Clefable]<br>Lv. 69  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm  | Moonblast, Soft-Boiled, Calm Mind, Flamethrower
-    ![][428]<br>[Lopunny]<br>Lv. 69   | ![][focus-sash]<br>Focus Sash     | ?      | Scrappy     | Mega Kick, High Jump Kick, Fake Out, Agility
-    ![][136]<br>[Flareon]<br>Lv. 69   | ![][passho-berry]<br>Passho Berry | ?      | Flash Fire  | Flare Blitz, Play Rough, Close Combat, Wild Charge
-    ![][395]<br>[Empoleon]<br>Lv. 70  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent     | Hydro Cannon, Flash Cannon, Grass Knot, Ice Beam
+    ![][065]<br>[Alakazam]<br>Lv. 69  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard | <ul><li>Psychic</li><li>Shadow Ball</li><li>Aura Sphere</li><li>Dazzling Gleam</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][choice-band]<br>Choice Band   | ?      | Thick Fat   | <ul><li>Earthquake</li><li>Icicle Crash</li><li>Stone Edge</li><li>Superpower</li></ul>
+    ![][036]<br>[Clefable]<br>Lv. 69  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm  | <ul><li>Moonblast</li><li>Soft-Boiled</li><li>Calm Mind</li><li>Flamethrower</li></ul>
+    ![][428]<br>[Lopunny]<br>Lv. 69   | ![][focus-sash]<br>Focus Sash     | ?      | Scrappy     | <ul><li>Mega Kick</li><li>High Jump Kick</li><li>Fake Out</li><li>Agility</li></ul>
+    ![][136]<br>[Flareon]<br>Lv. 69   | ![][passho-berry]<br>Passho Berry | ?      | Flash Fire  | <ul><li>Flare Blitz</li><li>Play Rough</li><li>Close Combat</li><li>Wild Charge</li></ul>
+    ![][395]<br>[Empoleon]<br>Lv. 70  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent     | <ul><li>Hydro Cannon</li><li>Flash Cannon</li><li>Grass Knot</li><li>Ice Beam</li></ul>
 
 === "Fire"
     ![][dawn]                         | Item                              | Nature | Ability      | Moves
     ---                               | ---                               | ---    | ---          | ---
-    ![][065]<br>[Alakazam]<br>Lv. 69  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | Psychic, Shadow Ball, Aura Sphere, Dazzling Gleam
-    ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][choice-band]<br>Choice Band   | ?      | Thick Fat    | Earthquake, Icicle Crash, Stone Edge, Superpower
-    ![][036]<br>[Clefable]<br>Lv. 69  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | Moonblast, Soft-Boiled, Calm Mind, Flamethrower
-    ![][428]<br>[Lopunny]<br>Lv. 69   | ![][focus-sash]<br>Focus Sash     | ?      | Scrappy      | Mega Kick, High Jump Kick, Fake Out, Agility
-    ![][134]<br>[Vaporeon]<br>Lv. 69  | ![][wacan-berry]<br>Wacan Berry   | ?      | Water Absorb | Muddy Water, Ice Beam, Rest, Sleep Talk
-    ![][389]<br>[Torterra]<br>Lv. 70  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | Frenzy Plant, Earthquake, Stone Edge, Iron Head
+    ![][065]<br>[Alakazam]<br>Lv. 69  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | <ul><li>Psychic</li><li>Shadow Ball</li><li>Aura Sphere</li><li>Dazzling Gleam</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][choice-band]<br>Choice Band   | ?      | Thick Fat    | <ul><li>Earthquake</li><li>Icicle Crash</li><li>Stone Edge</li><li>Superpower</li></ul>
+    ![][036]<br>[Clefable]<br>Lv. 69  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | <ul><li>Moonblast</li><li>Soft-Boiled</li><li>Calm Mind</li><li>Flamethrower</li></ul>
+    ![][428]<br>[Lopunny]<br>Lv. 69   | ![][focus-sash]<br>Focus Sash     | ?      | Scrappy      | <ul><li>Mega Kick</li><li>High Jump Kick</li><li>Fake Out</li><li>Agility</li></ul>
+    ![][134]<br>[Vaporeon]<br>Lv. 69  | ![][wacan-berry]<br>Wacan Berry   | ?      | Water Absorb | <ul><li>Muddy Water</li><li>Ice Beam</li><li>Rest</li><li>Sleep Talk</li></ul>
+    ![][389]<br>[Torterra]<br>Lv. 70  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | <ul><li>Frenzy Plant</li><li>Earthquake</li><li>Stone Edge</li><li>Iron Head</li></ul>
 
 === "Water"
     ![][dawn]                         | Item                              | Nature | Ability     | Moves
     ---                               | ---                               | ---    | ---         | ---
-    ![][065]<br>[Alakazam]<br>Lv. 69  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard | Psychic, Shadow Ball, Aura Sphere, Dazzling Gleam
-    ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][choice-band]<br>Choice Band   | ?      | Thick Fat   | Earthquake, Icicle Crash, Stone Edge, Superpower
-    ![][036]<br>[Clefable]<br>Lv. 69  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm  | Moonblast, Soft-Boiled, Calm Mind, Flamethrower
-    ![][428]<br>[Lopunny]<br>Lv. 69   | ![][focus-sash]<br>Focus Sash     | ?      | Scrappy     | Mega Kick, High Jump Kick, Fake Out, Agility
-    ![][135]<br>[Jolteon]<br>Lv. 69   | ![][shuca-berry]<br>Shuca Berry   | ?      | Volt Absorb | Thunderbolt, Grass Knot, Shadow Ball, Thunder Wave
-    ![][392]<br>[Infernape]<br>Lv. 70 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist   | Blast Burn, Close Combat, Stone Edge, Thunder Punch
+    ![][065]<br>[Alakazam]<br>Lv. 69  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard | <ul><li>Psychic</li><li>Shadow Ball</li><li>Aura Sphere</li><li>Dazzling Gleam</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][choice-band]<br>Choice Band   | ?      | Thick Fat   | <ul><li>Earthquake</li><li>Icicle Crash</li><li>Stone Edge</li><li>Superpower</li></ul>
+    ![][036]<br>[Clefable]<br>Lv. 69  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm  | <ul><li>Moonblast</li><li>Soft-Boiled</li><li>Calm Mind</li><li>Flamethrower</li></ul>
+    ![][428]<br>[Lopunny]<br>Lv. 69   | ![][focus-sash]<br>Focus Sash     | ?      | Scrappy     | <ul><li>Mega Kick</li><li>High Jump Kick</li><li>Fake Out</li><li>Agility</li></ul>
+    ![][135]<br>[Jolteon]<br>Lv. 69   | ![][shuca-berry]<br>Shuca Berry   | ?      | Volt Absorb | <ul><li>Thunderbolt</li><li>Grass Knot</li><li>Shadow Ball</li><li>Thunder Wave</li></ul>
+    ![][392]<br>[Infernape]<br>Lv. 70 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist   | <ul><li>Blast Burn</li><li>Close Combat</li><li>Stone Edge</li><li>Thunder Punch</li></ul>
 
 ## PKMN Trainer Lucas
 
@@ -82,32 +82,32 @@ Ace Trainer Jamie                          | ![][134]<br>[Vaporeon]<br>Lv. 67   
 === "Grass"
     ![][lucas]                         | Item                              | Nature | Ability     | Moves
     ---                                | ---                               | ---    | ---         | ---
-    ![][065]<br>[Alakazam]<br>Lv. 69   | ![][life-orb]<br>Life Orb         | ?      | Magic Guard | Psychic, Shadow Ball, Aura Sphere, Dazzling Gleam
-    ![][473]<br>[Mamoswine]<br>Lv. 69  | ![][choice-band]<br>Choice Band   | ?      | Thick Fat   | Earthquake, Icicle Crash, Stone Edge, Superpower
-    ![][210]<br>[Granbull]<br>Lv. 69   | ![][muscle-band]<br>Muscle Band   | ?      | Intimidate  | Play Rough, Close Combat, Crunch, Earthquake
-    ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo   | Double-Edge, Earthquake, Hammer Arm, Swords Dance
-    ![][136]<br>[Flareon]<br>Lv. 69    | ![][passho-berry]<br>Passho Berry | ?      | Flash Fire  | Flare Blitz, Play Rough, Close Combat, Wild Charge
-    ![][395]<br>[Empoleon]<br>Lv. 70   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent     | Hydro Cannon, Flash Cannon, Grass Knot, Ice Beam
+    ![][065]<br>[Alakazam]<br>Lv. 69   | ![][life-orb]<br>Life Orb         | ?      | Magic Guard | <ul><li>Psychic</li><li>Shadow Ball</li><li>Aura Sphere</li><li>Dazzling Gleam</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 69  | ![][choice-band]<br>Choice Band   | ?      | Thick Fat   | <ul><li>Earthquake</li><li>Icicle Crash</li><li>Stone Edge</li><li>Superpower</li></ul>
+    ![][210]<br>[Granbull]<br>Lv. 69   | ![][muscle-band]<br>Muscle Band   | ?      | Intimidate  | <ul><li>Play Rough</li><li>Close Combat</li><li>Crunch</li><li>Earthquake</li></ul>
+    ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo   | <ul><li>Double-Edge</li><li>Earthquake</li><li>Hammer Arm</li><li>Swords Dance</li></ul>
+    ![][136]<br>[Flareon]<br>Lv. 69    | ![][passho-berry]<br>Passho Berry | ?      | Flash Fire  | <ul><li>Flare Blitz</li><li>Play Rough</li><li>Close Combat</li><li>Wild Charge</li></ul>
+    ![][395]<br>[Empoleon]<br>Lv. 70   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent     | <ul><li>Hydro Cannon</li><li>Flash Cannon</li><li>Grass Knot</li><li>Ice Beam</li></ul>
 
 === "Fire"
     ![][lucas]                         | Item                              | Nature | Ability      | Moves
     ---                                | ---                               | ---    | ---          | ---
-    ![][065]<br>[Alakazam]<br>Lv. 69   | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | Psychic, Shadow Ball, Aura Sphere, Dazzling Gleam
-    ![][473]<br>[Mamoswine]<br>Lv. 69  | ![][choice-band]<br>Choice Band   | ?      | Thick Fat    | Earthquake, Icicle Crash, Stone Edge, Superpower
-    ![][210]<br>[Granbull]<br>Lv. 69   | ![][muscle-band]<br>Muscle Band   | ?      | Intimidate   | Play Rough, Close Combat, Crunch, Earthquake
-    ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo    | Double-Edge, Earthquake, Hammer Arm, Swords Dance
-    ![][134]<br>[Vaporeon]<br>Lv. 69   | ![][wacan-berry]<br>Wacan Berry   | ?      | Water Absorb | Muddy Water, Ice Beam, Rest, Sleep Talk
-    ![][389]<br>[Torterra]<br>Lv. 70   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | Frenzy Plant, Earthquake, Stone Edge, Iron Head
+    ![][065]<br>[Alakazam]<br>Lv. 69   | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | <ul><li>Psychic</li><li>Shadow Ball</li><li>Aura Sphere</li><li>Dazzling Gleam</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 69  | ![][choice-band]<br>Choice Band   | ?      | Thick Fat    | <ul><li>Earthquake</li><li>Icicle Crash</li><li>Stone Edge</li><li>Superpower</li></ul>
+    ![][210]<br>[Granbull]<br>Lv. 69   | ![][muscle-band]<br>Muscle Band   | ?      | Intimidate   | <ul><li>Play Rough</li><li>Close Combat</li><li>Crunch</li><li>Earthquake</li></ul>
+    ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo    | <ul><li>Double-Edge</li><li>Earthquake</li><li>Hammer Arm</li><li>Swords Dance</li></ul>
+    ![][134]<br>[Vaporeon]<br>Lv. 69   | ![][wacan-berry]<br>Wacan Berry   | ?      | Water Absorb | <ul><li>Muddy Water</li><li>Ice Beam</li><li>Rest</li><li>Sleep Talk</li></ul>
+    ![][389]<br>[Torterra]<br>Lv. 70   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | <ul><li>Frenzy Plant</li><li>Earthquake</li><li>Stone Edge</li><li>Iron Head</li></ul>
 
 === "Water"
     ![][lucas]                         | Item                              | Nature | Ability     | Moves
     ---                                | ---                               | ---    | ---         | ---
-    ![][065]<br>[Alakazam]<br>Lv. 69   | ![][life-orb]<br>Life Orb         | ?      | Magic Guard | Psychic, Shadow Ball, Aura Sphere, Dazzling Gleam
-    ![][473]<br>[Mamoswine]<br>Lv. 69  | ![][choice-band]<br>Choice Band   | ?      | Thick Fat   | Earthquake, Icicle Crash, Stone Edge, Superpower
-    ![][210]<br>[Granbull]<br>Lv. 69   | ![][muscle-band]<br>Muscle Band   | ?      | Intimidate  | Play Rough, Close Combat, Crunch, Earthquake
-    ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo   | Double-Edge, Earthquake, Hammer Arm, Swords Dance
-    ![][135]<br>[Jolteon]<br>Lv. 69    | ![][shuca-berry]<br>Shuca Berry   | ?      | Volt Absorb | Thunderbolt, Grass Knot, Shadow Ball, Thunder Wave
-    ![][392]<br>[Infernape]<br>Lv. 70  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist   | Blast Burn, Close Combat, Stone Edge, Thunder Punch
+    ![][065]<br>[Alakazam]<br>Lv. 69   | ![][life-orb]<br>Life Orb         | ?      | Magic Guard | <ul><li>Psychic</li><li>Shadow Ball</li><li>Aura Sphere</li><li>Dazzling Gleam</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 69  | ![][choice-band]<br>Choice Band   | ?      | Thick Fat   | <ul><li>Earthquake</li><li>Icicle Crash</li><li>Stone Edge</li><li>Superpower</li></ul>
+    ![][210]<br>[Granbull]<br>Lv. 69   | ![][muscle-band]<br>Muscle Band   | ?      | Intimidate  | <ul><li>Play Rough</li><li>Close Combat</li><li>Crunch</li><li>Earthquake</li></ul>
+    ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo   | <ul><li>Double-Edge</li><li>Earthquake</li><li>Hammer Arm</li><li>Swords Dance</li></ul>
+    ![][135]<br>[Jolteon]<br>Lv. 69    | ![][shuca-berry]<br>Shuca Berry   | ?      | Volt Absorb | <ul><li>Thunderbolt</li><li>Grass Knot</li><li>Shadow Ball</li><li>Thunder Wave</li></ul>
+    ![][392]<br>[Infernape]<br>Lv. 70  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist   | <ul><li>Blast Burn</li><li>Close Combat</li><li>Stone Edge</li><li>Thunder Punch</li></ul>
 
 ## Rematches
 

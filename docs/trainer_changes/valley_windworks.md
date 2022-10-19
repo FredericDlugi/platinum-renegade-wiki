@@ -15,10 +15,10 @@ Galactic Grunt                | ![][014]<br>[Kakuna]<br>Lv. 14    | ![][204]<br>
 
 ![][mars]                       | Item                              | Nature | Ability     | Moves
 ---                             | ---                               | ---    | ---         | ---
-![][041]<br>[Zubat]<br>Lv. 18   | None                              | Naive  | Inner Focus | Poison Fang, Wing Attack, Toxic, Confuse Ray
-![][436]<br>[Bronzor]<br>Lv. 18 | ![][sitrus-berry]<br>Sitrus Berry | Brave  | Levitate    | Hypnosis, Extrasensory, Gyro Ball, Confuse Ray
-![][193]<br>[Yanma]<br>Lv. 18   | None                              | Timid  | Speed Boost | Silver Wind, Air Cutter, Detect, Sonic Boom
-![][432]<br>[Purugly]<br>Lv. 19 | ![][sitrus-berry]<br>Sitrus Berry | Jolly  | Thick Fat   | Fake Out, Hypnosis, Facade, Feint Attack
+![][041]<br>[Zubat]<br>Lv. 18   | None                              | Naive  | Inner Focus | <ul><li>Poison Fang</li><li>Wing Attack</li><li>Toxic</li><li>Confuse Ray</li></ul>
+![][436]<br>[Bronzor]<br>Lv. 18 | ![][sitrus-berry]<br>Sitrus Berry | Brave  | Levitate    | <ul><li>Hypnosis</li><li>Extrasensory</li><li>Gyro Ball</li><li>Confuse Ray</li></ul>
+![][193]<br>[Yanma]<br>Lv. 18   | None                              | Timid  | Speed Boost | <ul><li>Silver Wind</li><li>Air Cutter</li><li>Detect</li><li>Sonic Boom</li></ul>
+![][432]<br>[Purugly]<br>Lv. 19 | ![][sitrus-berry]<br>Sitrus Berry | Jolly  | Thick Fat   | <ul><li>Fake Out</li><li>Hypnosis</li><li>Facade</li><li>Feint Attack</li></ul>
 
 --8<-- "includes/abilities.md"
 

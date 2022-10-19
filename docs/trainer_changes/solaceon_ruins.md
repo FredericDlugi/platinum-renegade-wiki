@@ -12,7 +12,7 @@ Ruin Maniac Karl | ![][436]<br>[Bronzor]<br>Lv. 31 | ![][075]<br>[Graveler]<br>L
 
 Psychic Frasier<br>![][psychic_m] | Item | Nature | Ability    | Moves
 ---                               | ---  | ---    | ---        | ---
-![][376]<br>[Metagross]<br>Lv. 85 | None | ?      | Clear Body | Meteor Mash, Bullet Punch, Light Screen, Thunder Punch
+![][376]<br>[Metagross]<br>Lv. 85 | None | ?      | Clear Body | <ul><li>Meteor Mash</li><li>Bullet Punch</li><li>Light Screen</li><li>Thunder Punch</li></ul>
 
 --8<-- "includes/abilities.md"
 

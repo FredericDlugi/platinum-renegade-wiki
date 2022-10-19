@@ -21,22 +21,22 @@ Galactic Grunt                      | ![][205]<br>[Forretress]<br>Lv. 53 | ![][3
 
 ![][cyrus]                        | Item                              | Nature | Ability         | Moves
 ---                               | ---                               | ---    | ---             | ---
-![][169]<br>[Crobat]<br>Lv. 57    | ![][choice-band]<br>Choice Band   | ?      | Inner Focus     | Brave Bird, U-turn, Cross Poison, Zen Headbutt
-![][430]<br>[Honchkrow]<br>Lv. 57 | ![][scope-lens]<br>Scope Lens     | ?      | Super Luck      | Brave Bird, Night Slash, Thunder Wave, Heat Wave
-![][229]<br>[Houndoom]<br>Lv. 57  | ![][life-orb]<br>Life Orb         | ?      | Intimidate [^1] | Dark Pulse, Flamethrower, Sludge Bomb, Nasty Plot
-![][462]<br>[Magnezone]<br>Lv. 57 | ![][wise-glasses]<br>Wise Glasses | ?      | Magnet Pull     | Thunderbolt, Flash Cannon, Signal Beam, Mirror Coat
-![][461]<br>[Weavile]<br>Lv. 58   | ![][expert-belt]<br>Expert Belt   | ?      | Technican [^1]  | Crunch, Icicle Crash, Aerial Ace, X-Scissor
+![][169]<br>[Crobat]<br>Lv. 57    | ![][choice-band]<br>Choice Band   | ?      | Inner Focus     | <ul><li>Brave Bird</li><li>U-turn</li><li>Cross Poison</li><li>Zen Headbutt</li></ul>
+![][430]<br>[Honchkrow]<br>Lv. 57 | ![][scope-lens]<br>Scope Lens     | ?      | Super Luck      | <ul><li>Brave Bird</li><li>Night Slash</li><li>Thunder Wave</li><li>Heat Wave</li></ul>
+![][229]<br>[Houndoom]<br>Lv. 57  | ![][life-orb]<br>Life Orb         | ?      | Intimidate [^1] | <ul><li>Dark Pulse</li><li>Flamethrower</li><li>Sludge Bomb</li><li>Nasty Plot</li></ul>
+![][462]<br>[Magnezone]<br>Lv. 57 | ![][wise-glasses]<br>Wise Glasses | ?      | Magnet Pull     | <ul><li>Thunderbolt</li><li>Flash Cannon</li><li>Signal Beam</li><li>Mirror Coat</li></ul>
+![][461]<br>[Weavile]<br>Lv. 58   | ![][expert-belt]<br>Expert Belt   | ?      | Technican [^1]  | <ul><li>Crunch</li><li>Icicle Crash</li><li>Aerial Ace</li><li>X-Scissor</li></ul>
 
 ## Commander Saturn
 
 ![][saturn]                       | Item                              | Nature | Ability      | Moves
 ---                               | ---                               | ---    | ---          | ---
-![][437]<br>[Bronzong]<br>Lv. 56  | ![][light-clay]<br>Light Clay     | ?      | Levitate     | Zen Headbutt, Gyro Ball, Reflect, Light Screen
-![][224]<br>[Octillery]<br>Lv. 56 | ![][expert-belt]<br>Expert Belt   | ?      | Suction Cups | Hydro Pump, Blizzard, Fire Blast, Energy Ball
-![][065]<br>[Alakazam]<br>Lv. 56  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | Psychic, Shadow Ball, Dazzling Gleam, Focus Blast
-![][464]<br>[Rhyperior]<br>Lv. 56 | ![][choice-band]<br>Choice Band   | ?      | Solid Rock   | Stone Edge, Earthquake, Megahorn
-![][467]<br>[Magmortar]<br>Lv. 56 | ![][choice-specs]<br>Choice Specs | ?      | Flame Body   | Fire Blast, Thunderbolt, Aura Sphere, Psychic
-![][454]<br>[Toxicroak]<br>Lv. 57 | ![][focus-sash]<br>Focus Sash     | ?      | Dry Skin     | Cross Chop, Gunk Shot, Ice Punch, Fake Out
+![][437]<br>[Bronzong]<br>Lv. 56  | ![][light-clay]<br>Light Clay     | ?      | Levitate     | <ul><li>Zen Headbutt</li><li>Gyro Ball</li><li>Reflect</li><li>Light Screen</li></ul>
+![][224]<br>[Octillery]<br>Lv. 56 | ![][expert-belt]<br>Expert Belt   | ?      | Suction Cups | <ul><li>Hydro Pump</li><li>Blizzard</li><li>Fire Blast</li><li>Energy Ball</li></ul>
+![][065]<br>[Alakazam]<br>Lv. 56  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | <ul><li>Psychic</li><li>Shadow Ball</li><li>Dazzling Gleam</li><li>Focus Blast</li></ul>
+![][464]<br>[Rhyperior]<br>Lv. 56 | ![][choice-band]<br>Choice Band   | ?      | Solid Rock   | <ul><li>Stone Edge</li><li>Earthquake</li><li>Megahorn</li></ul>
+![][467]<br>[Magmortar]<br>Lv. 56 | ![][choice-specs]<br>Choice Specs | ?      | Flame Body   | <ul><li>Fire Blast</li><li>Thunderbolt</li><li>Aura Sphere</li><li>Psychic</li></ul>
+![][454]<br>[Toxicroak]<br>Lv. 57 | ![][focus-sash]<br>Focus Sash     | ?      | Dry Skin     | <ul><li>Cross Chop</li><li>Gunk Shot</li><li>Ice Punch</li><li>Fake Out</li></ul>
 
 --8<-- "includes/abilities.md"
 

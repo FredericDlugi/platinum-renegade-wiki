@@ -18,10 +18,10 @@ Ruin Maniac Gerald               | ![][104]<br>[Cubone]<br>Lv. 25   | ![][476]<b
 
 ![][mira]                        | Item                              | Nature | Ability      | Moves
 ---                              | ---                               | ---    | ---          | ---
-![][176]<br>[Togetic]<br>Lv. 27  | ![][sitrus-berry]<br>Sitrus Berry | Modest | Serene Grace | Dazzling Gleam, Air Cutter, Soft-Boiled, Sweet Kiss
-![][093]<br>[Haunter]<br>Lv. 27  | ![][spell-tag]<br>Spell Tag       | Hasty  | Levitate     | Shadow Ball, Double Team, Hypnosis, Curse
-![][233]<br>[Porygon2]<br>Lv. 27 | ![][expert-belt]<br>Expert Belt   | Calm   | Trace        | Tri Attack, Charge Beam, Signal Beam, Recover
-![][064]<br>[Kadabra]<br>Lv. 28  | ![][life-orb]<br>Life Orb         | Modest | Magic Guard  | Psybeam, Grass Knot, Dazzling Gleam, Recover
+![][176]<br>[Togetic]<br>Lv. 27  | ![][sitrus-berry]<br>Sitrus Berry | Modest | Serene Grace | <ul><li>Dazzling Gleam</li><li>Air Cutter</li><li>Soft-Boiled</li><li>Sweet Kiss</li></ul>
+![][093]<br>[Haunter]<br>Lv. 27  | ![][spell-tag]<br>Spell Tag       | Hasty  | Levitate     | <ul><li>Shadow Ball</li><li>Double Team</li><li>Hypnosis</li><li>Curse</li></ul>
+![][233]<br>[Porygon2]<br>Lv. 27 | ![][expert-belt]<br>Expert Belt   | Calm   | Trace        | <ul><li>Tri Attack</li><li>Charge Beam</li><li>Signal Beam</li><li>Recover</li></ul>
+![][064]<br>[Kadabra]<br>Lv. 28  | ![][life-orb]<br>Life Orb         | Modest | Magic Guard  | <ul><li>Psybeam</li><li>Grass Knot</li><li>Dazzling Gleam</li><li>Recover</li></ul>
 
 --8<-- "includes/abilities.md"
 

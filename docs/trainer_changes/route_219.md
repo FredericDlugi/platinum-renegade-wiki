@@ -13,7 +13,7 @@ Tuber Trenton | ![][061]<br>[Poliwhirl]<br>Lv. 42 | ![][423]<br>[Gastrodon]<br>L
 
 Beauty Tessa<br>![][beauty]      | Item | Nature | Ability | Moves
 ---                              | ---  | ---    | ---     | ---
-![][272]<br>[Ludicolo]<br>Lv. 85 | None | ?      | ?       | Giga Drain, Leech Seed, Protect, Thunder Punch
+![][272]<br>[Ludicolo]<br>Lv. 85 | None | ?      | ?       | <ul><li>Giga Drain</li><li>Leech Seed</li><li>Protect</li><li>Thunder Punch</li></ul>
 
 [Poliwhirl]: ../../pokemons/061/
 [Vaporeon]: ../../pokemons/134/

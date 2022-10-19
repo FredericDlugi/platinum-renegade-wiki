@@ -17,7 +17,7 @@ Belle & Pa Beth & Bob   | ![][077]<br>[Ponyta]<br>Lv. 33   | ![][180]<br>[Flaaff
 
 Psychic ???<br>![][psychic_m]  | Item | Nature | Ability | Moves
 ---                            | ---  | ---    | ---     | ---
-![][094]<br>[Gengar]<br>Lv. 85 | None | ?      | ?       | Shadow Ball, Hypnosis, Luster Purge, -
+![][094]<br>[Gengar]<br>Lv. 85 | None | ?      | ?       | <ul><li>Shadow Ball</li><li>Hypnosis</li><li>Luster Purge</li><li>-</li></ul>
 
 --8<-- "includes/abilities.md"
 

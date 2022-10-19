@@ -15,10 +15,10 @@ Scientist Travon                    | ![][096]<br>[Drowzee]<br>Lv. 24  | ![][375
 
 ![][jupiter]                     | Item                              | Nature  | Ability          | Moves
 ---                              | ---                               | ---     | ---              | ---
-![][042]<br>[Golbat]<br>Lv. 26   | None                              | Jolly   | Inner Focus      | Wing Attack, Giga Drain, Leech Life, Confuse Ray
-![][302]<br>[Sableye]<br>Lv. 26  | ![][sitrus-berry]<br>Sitrus Berry | Adamant | Magic Guard [^1] | Fake Out, Shadow Claw, Knock Off, Shadow Sneak
-![][114]<br>[Tangela]<br>Lv. 26  | None                              | Modest  | Chlorophyll      | Giga Drain, Shock Wave, Leech Seed, Sleep Powder
-![][435]<br>[Skuntank]<br>Lv. 27 | ![][sitrus-berry]<br>Sitrus Berry | Adamant | Aftermath        | Poison Jab, Night Slash, Focus Energy, Torment
+![][042]<br>[Golbat]<br>Lv. 26   | None                              | Jolly   | Inner Focus      | <ul><li>Wing Attack</li><li>Giga Drain</li><li>Leech Life</li><li>Confuse Ray</li></ul>
+![][302]<br>[Sableye]<br>Lv. 26  | ![][sitrus-berry]<br>Sitrus Berry | Adamant | Magic Guard [^1] | <ul><li>Fake Out</li><li>Shadow Claw</li><li>Knock Off</li><li>Shadow Sneak</li></ul>
+![][114]<br>[Tangela]<br>Lv. 26  | None                              | Modest  | Chlorophyll      | <ul><li>Giga Drain</li><li>Shock Wave</li><li>Leech Seed</li><li>Sleep Powder</li></ul>
+![][435]<br>[Skuntank]<br>Lv. 27 | ![][sitrus-berry]<br>Sitrus Berry | Adamant | Aftermath        | <ul><li>Poison Jab</li><li>Night Slash</li><li>Focus Energy</li><li>Torment</li></ul>
 
 --8<-- "includes/abilities.md"
 

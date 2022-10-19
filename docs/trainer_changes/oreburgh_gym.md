@@ -10,12 +10,12 @@ Youngster Darius             | ![][304]<br>[Aron]<br>Lv. 13     | ![][347]<br>[A
 
 ![][roark]                       | Item                              | Nature  | Ability        | Moves
 ---                              | ---                               | ---     | ---            | ---
-![][299]<br>[Nosepass]<br>Lv. 15 | ![][smooth-rock]<br>Smooth Rock   | Modest  | Sturdy         | Stealth Rock, Sandstorm, Thunder Wave, Shock Wave
-![][438]<br>[Bonsly]<br>Lv. 15   | ![][rindo-berry]<br>Rindo Berry   | Impish  | Rock Head      | Stealth Rock, Brick Break, Rollout, Defense Curl
-![][074]<br>[Geodude]<br>Lv. 15  | ![][expert-belt]<br>Expert Belt   | Adamant | Rock Head      | Bulldoze, Rock Tomb, Fire Punch, Thunder Punch
-![][095]<br>[Onix]<br>Lv. 15     | ![][muscle-band]<br>Muscle Band   | Jolly   | Rock Head      | Stealth Rock, Rock Tomb, Bulldoze, Sandstorm
-![][246]<br>[Larvitar]<br>Lv. 15 | ![][flame-orb]<br>Flame Orb       | Jolly   | Guts           | Rock Tomb, Bulldoze, Bite, Protect
-![][408]<br>[Cranidos]<br>Lv. 16 | ![][sitrus-berry]<br>Sitrus Berry | Hasty   | Rock Head [^1] | Zen Headbutt, Rock Tomb, Thunder Punch, Scary Face
+![][299]<br>[Nosepass]<br>Lv. 15 | ![][smooth-rock]<br>Smooth Rock   | Modest  | Sturdy         | <ul><li>Stealth Rock</li><li>Sandstorm</li><li>Thunder Wave</li><li>Shock Wave</li></ul>
+![][438]<br>[Bonsly]<br>Lv. 15   | ![][rindo-berry]<br>Rindo Berry   | Impish  | Rock Head      | <ul><li>Stealth Rock</li><li>Brick Break</li><li>Rollout</li><li>Defense Curl</li></ul>
+![][074]<br>[Geodude]<br>Lv. 15  | ![][expert-belt]<br>Expert Belt   | Adamant | Rock Head      | <ul><li>Bulldoze</li><li>Rock Tomb</li><li>Fire Punch</li><li>Thunder Punch</li></ul>
+![][095]<br>[Onix]<br>Lv. 15     | ![][muscle-band]<br>Muscle Band   | Jolly   | Rock Head      | <ul><li>Stealth Rock</li><li>Rock Tomb</li><li>Bulldoze</li><li>Sandstorm</li></ul>
+![][246]<br>[Larvitar]<br>Lv. 15 | ![][flame-orb]<br>Flame Orb       | Jolly   | Guts           | <ul><li>Rock Tomb</li><li>Bulldoze</li><li>Bite</li><li>Protect</li></ul>
+![][408]<br>[Cranidos]<br>Lv. 16 | ![][sitrus-berry]<br>Sitrus Berry | Hasty   | Rock Head [^1] | <ul><li>Zen Headbutt</li><li>Rock Tomb</li><li>Thunder Punch</li><li>Scary Face</li></ul>
 
 --8<-- "includes/abilities.md"
 

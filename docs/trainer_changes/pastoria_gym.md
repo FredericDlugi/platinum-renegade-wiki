@@ -14,12 +14,12 @@ Sailor Samson              | ![][080]<br>[Slowbro]<br>Lv. 39   | ![][423]<br>[Ga
 
 ![][wake]                         | Item                              | Nature  | Ability      | Moves
 ---                               | ---                               | ---     | ---          | ---
-![][195]<br>[Quagsire]<br>Lv. 43  | ![][rindo-berry]<br>Rindo Berry   | Adamant | Water Absorb | Aqua Tail, Earthquake, Recover, Ice Punch
-![][130]<br>[Gyarados]<br>Lv. 43  | ![][wacan-berry]<br>Wacan Berry   | Jolly   | Intimidate   | Aqua Tail, Ice Fang, Crunch, Dragon Dance
-![][062]<br>[Poliwrath]<br>Lv. 43 | ![][sitrus-berry]<br>Sitrus Berry | Careful | Water Absorb | Waterfall, Drain Punch, Ice Punch, Hypnosis
-![][272]<br>[Ludicolo]<br>Lv. 43  | ![][life-orb]<br>Life Orb         | Modest  | Swift Swim   | Hydro Pump, Ice Beam, Energy Ball, Fake Out
-![][319]<br>[Sharpedo]<br>Lv. 43  | ![][focus-sash]<br>Focus Sash     | Naive   | Speed Boost  | Waterfall, Crunch, Ice Fang, Zen Headbutt
-![][419]<br>[Floatzel]<br>Lv. 44  | ![][life-orb]<br>Life Orb         | Naive   | Swift Swim   | Aqua Tail, Crunch, Ice Punch, Aqua Jet
+![][195]<br>[Quagsire]<br>Lv. 43  | ![][rindo-berry]<br>Rindo Berry   | Adamant | Water Absorb | <ul><li>Aqua Tail</li><li>Earthquake</li><li>Recover</li><li>Ice Punch</li></ul>
+![][130]<br>[Gyarados]<br>Lv. 43  | ![][wacan-berry]<br>Wacan Berry   | Jolly   | Intimidate   | <ul><li>Aqua Tail</li><li>Ice Fang</li><li>Crunch</li><li>Dragon Dance</li></ul>
+![][062]<br>[Poliwrath]<br>Lv. 43 | ![][sitrus-berry]<br>Sitrus Berry | Careful | Water Absorb | <ul><li>Waterfall</li><li>Drain Punch</li><li>Ice Punch</li><li>Hypnosis</li></ul>
+![][272]<br>[Ludicolo]<br>Lv. 43  | ![][life-orb]<br>Life Orb         | Modest  | Swift Swim   | <ul><li>Hydro Pump</li><li>Ice Beam</li><li>Energy Ball</li><li>Fake Out</li></ul>
+![][319]<br>[Sharpedo]<br>Lv. 43  | ![][focus-sash]<br>Focus Sash     | Naive   | Speed Boost  | <ul><li>Waterfall</li><li>Crunch</li><li>Ice Fang</li><li>Zen Headbutt</li></ul>
+![][419]<br>[Floatzel]<br>Lv. 44  | ![][life-orb]<br>Life Orb         | Naive   | Swift Swim   | <ul><li>Aqua Tail</li><li>Crunch</li><li>Ice Punch</li><li>Aqua Jet</li></ul>
 
 --8<-- "includes/abilities.md"
 
