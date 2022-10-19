@@ -21,6 +21,8 @@ theme:
           name: Switch to light mode
     name: material
     favicon: img/items/poke-ball.png
+    features:
+      - content.tabs.link
 
 nav:
     - Home: index.md
@@ -735,6 +737,8 @@ markdown_extensions:
     - abbr
     - footnotes
     - pymdownx.snippets
+    - pymdownx.tabbed:
+        alternate_style: true
 
 extra_javascript:
     - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js

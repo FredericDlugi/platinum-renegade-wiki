@@ -3,11 +3,21 @@
 !!! note
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_201/).
 
-Trainer                          | 1
----                              | ---
-PKMN Trainer Barry<br>![][barry] | ![][390]<br>[Chimchar]<br>Lv. 5
-PKMN Trainer Barry<br>![][barry] | ![][393]<br>[Piplup]<br>Lv. 5
-PKMN Trainer Barry<br>![][barry] | ![][387]<br>[Turtwig]<br>Lv. 5
+=== "Grass"
+    Trainer                          | 1
+    ---                              | ---
+    PKMN Trainer Barry<br>![][barry] | ![][390]<br>[Chimchar]<br>Lv. 5
+
+=== "Fire"
+    Trainer                          | 1
+    ---                              | ---
+    PKMN Trainer Barry<br>![][barry] | ![][393]<br>[Piplup]<br>Lv. 5
+
+=== "Water"
+    Trainer                          | 1
+    ---                              | ---
+    PKMN Trainer Barry<br>![][barry] | ![][387]<br>[Turtwig]<br>Lv. 5
+
 
 [Turtwig]: ../../pokemons/387/
 [Chimchar]: ../../pokemons/390/

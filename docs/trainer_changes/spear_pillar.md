@@ -16,11 +16,20 @@ Trainer                             | 1                              | 2        
 
 ### Barrys Teams
 
-Trainer                          | 1                                 | 2                                 | 3                               | 4                                 | 5                                | 6
----                              | ---                               | ---                               | ---                             | ---                               | ---                              | ---
-PKMN Trainer Barry<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 58 | ![][214]<br>[Heracross]<br>Lv. 58 | ![][143]<br>[Snorlax]<br>Lv. 58 | ![][184]<br>[Azumarill]<br>Lv. 58 | ![][059]<br>[Arcanine]<br>Lv. 58 | ![][389]<br>[Torterra]<br>Lv. 59
-PKMN Trainer Barry<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 58 | ![][214]<br>[Heracross]<br>Lv. 58 | ![][143]<br>[Snorlax]<br>Lv. 58 | ![][184]<br>[Azumarill]<br>Lv. 58 | ![][286]<br>[Breloom]<br>Lv. 58  | ![][392]<br>[Infernape]<br>Lv. 59
-PKMN Trainer Barry<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 58 | ![][214]<br>[Heracross]<br>Lv. 58 | ![][143]<br>[Snorlax]<br>Lv. 58 | ![][286]<br>[Breloom]<br>Lv. 58   | ![][059]<br>[Arcanine]<br>Lv. 58 | ![][395]<br>[Empoleon]<br>Lv. 59
+=== "Grass"
+    Trainer                          | 1                                 | 2                                 | 3                               | 4                                 | 5                                | 6
+    ---                              | ---                               | ---                               | ---                             | ---                               | ---                              | ---
+    PKMN Trainer Barry<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 58 | ![][214]<br>[Heracross]<br>Lv. 58 | ![][143]<br>[Snorlax]<br>Lv. 58 | ![][184]<br>[Azumarill]<br>Lv. 58 | ![][286]<br>[Breloom]<br>Lv. 58  | ![][392]<br>[Infernape]<br>Lv. 59
+
+=== "Fire"
+    Trainer                          | 1                                 | 2                                 | 3                               | 4                                 | 5                                | 6
+    ---                              | ---                               | ---                               | ---                             | ---                               | ---                              | ---
+    PKMN Trainer Barry<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 58 | ![][214]<br>[Heracross]<br>Lv. 58 | ![][143]<br>[Snorlax]<br>Lv. 58 | ![][286]<br>[Breloom]<br>Lv. 58   | ![][059]<br>[Arcanine]<br>Lv. 58 | ![][395]<br>[Empoleon]<br>Lv. 59
+
+=== "Water"
+    Trainer                          | 1                                 | 2                                 | 3                               | 4                                 | 5                                | 6
+    ---                              | ---                               | ---                               | ---                             | ---                               | ---                              | ---
+    PKMN Trainer Barry<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 58 | ![][214]<br>[Heracross]<br>Lv. 58 | ![][143]<br>[Snorlax]<br>Lv. 58 | ![][184]<br>[Azumarill]<br>Lv. 58 | ![][059]<br>[Arcanine]<br>Lv. 58 | ![][389]<br>[Torterra]<br>Lv. 59
 
 ## Commander Mars
 

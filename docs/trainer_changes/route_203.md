@@ -3,12 +3,21 @@
 !!! note
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_203/).
 
+=== "Grass"
+    Trainer                                 | 1                                | 2                                 | 3
+    ---                                     | ---                              | ---                               | ---
+    PKMN Trainer Barry<br>![][barry]        | ![][396]<br>[Starly]<br>Lv. 10   | ![][446]<br>[Munchlax]<br>Lv. 10  | ![][390]<br>[Chimchar]<br>Lv. 11
+=== "Fire"
+    Trainer                                 | 1                                | 2                                 | 3
+    ---                                     | ---                              | ---                               | ---
+    PKMN Trainer Barry<br>![][barry]        | ![][396]<br>[Starly]<br>Lv. 10   | ![][446]<br>[Munchlax]<br>Lv. 10  | ![][393]<br>[Piplup]<br>Lv. 11
+=== "Water"
+    Trainer                                 | 1                                | 2                                 | 3
+    ---                                     | ---                              | ---                               | ---
+    PKMN Trainer Barry<br>![][barry]        | ![][396]<br>[Starly]<br>Lv. 10   | ![][446]<br>[Munchlax]<br>Lv. 10  | ![][387]<br>[Turtwig]<br>Lv. 11
 
 Trainer                                 | 1                                | 2                                 | 3
 ---                                     | ---                              | ---                               | ---
-PKMN Trainer Barry<br>![][barry]        | ![][396]<br>[Starly]<br>Lv. 10   | ![][446]<br>[Munchlax]<br>Lv. 10  | ![][387]<br>[Turtwig]<br>Lv. 11
-PKMN Trainer Barry<br>![][barry]        | ![][396]<br>[Starly]<br>Lv. 10   | ![][446]<br>[Munchlax]<br>Lv. 10  | ![][390]<br>[Chimchar]<br>Lv. 11
-PKMN Trainer Barry<br>![][barry]        | ![][396]<br>[Starly]<br>Lv. 10   | ![][446]<br>[Munchlax]<br>Lv. 10  | ![][393]<br>[Piplup]<br>Lv. 11
 Youngster Michael                       | ![][401]<br>[Kricketot]<br>Lv. 9 | ![][041]<br>[Zubat]<br>Lv. 9      | ![][019]<br>[Rattata]<br>Lv. 9
 :repeat: [Youngster Dallas](#rematches) | ![][403]<br>[Shinx]<br>Lv. 10    | ![][027]<br>[Sandshrew]<br>Lv. 10 | &nbsp;
 Youngster Sebastian                     | ![][296]<br>[Makuhita]<br>Lv. 10 | ![][066]<br>[Machop]<br>Lv. 10    | &nbsp;

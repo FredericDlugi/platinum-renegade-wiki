@@ -16,8 +16,20 @@ class Table:
         self.start_line = 0
         self.n_col = 0
         self.lines = []
+        self.nest_level = 0
 
     def format(self):
+
+        # calc nest level
+        for l in self.lines:
+            spaces = 0
+            for c in l:
+                if c == " ":
+                    spaces += 1
+                else:
+                    break
+            self.nest_level = max(self.nest_level, spaces//4)
+
         # calc max length of each column
         empty_cell = "&nbsp;"
 
@@ -51,13 +63,17 @@ class Table:
             self.lines[i] = format_string.format(c=cols)
 
         # reduce empty cols
-        #
 
         while self.__check_last_col_empty():
             for i in range(len(self.lines)):
                 self.lines[i] = "|".join(self.lines[i].split("|")[:-1])
 
         self.lines = [s.rstrip() + "\n" for s in self.lines]
+
+        # add nest level
+
+        for i in range(self.nest_level):
+            self.lines = ["    " + s for s in self.lines]
 
     def __check_last_col_empty(self):
         empty_cell = "&nbsp;"
