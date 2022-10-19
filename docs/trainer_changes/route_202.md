@@ -6,12 +6,12 @@
 
 Trainer                                  | 1                                | 2                             | 3
 ---                                      | ---                              | ---                           | ---
-PKMN Trainer Dawn                        | ![][393]<br>[Piplup]<br>Lv. 9    | &nbsp;                        | &nbsp;
-PKMN Trainer Dawn                        | ![][387]<br>[Turtwig]<br>Lv. 9   | &nbsp;                        | &nbsp;
-PKMN Trainer Dawn                        | ![][390]<br>[Chimchar]<br>Lv. 9  | &nbsp;                        | &nbsp;
-PKMN Trainer Lucas                       | ![][393]<br>[Piplup]<br>Lv. 9    | &nbsp;                        | &nbsp;
-PKMN Trainer Lucas                       | ![][387]<br>[Turtwig]<br>Lv. 9   | &nbsp;                        | &nbsp;
-PKMN Trainer Lucas                       | ![][390]<br>[Chimchar]<br>Lv. 9  | &nbsp;                        | &nbsp;
+PKMN Trainer Dawn<br>![][dawn]           | ![][393]<br>[Piplup]<br>Lv. 9    | &nbsp;                        | &nbsp;
+PKMN Trainer Dawn<br>![][dawn]           | ![][387]<br>[Turtwig]<br>Lv. 9   | &nbsp;                        | &nbsp;
+PKMN Trainer Dawn<br>![][dawn]           | ![][390]<br>[Chimchar]<br>Lv. 9  | &nbsp;                        | &nbsp;
+PKMN Trainer Lucas<br>![][lucas]         | ![][393]<br>[Piplup]<br>Lv. 9    | &nbsp;                        | &nbsp;
+PKMN Trainer Lucas<br>![][lucas]         | ![][387]<br>[Turtwig]<br>Lv. 9   | &nbsp;                        | &nbsp;
+PKMN Trainer Lucas<br>![][lucas]         | ![][390]<br>[Chimchar]<br>Lv. 9  | &nbsp;                        | &nbsp;
 Lass Natalie                             | ![][161]<br>[Sentret]<br>Lv. 7   | ![][399]<br>[Bidoof]<br>Lv. 7 | &nbsp;
 :repeat: [Youngster Tristan](#rematches) | ![][163]<br>[Hoothoot]<br>Lv. 7  | ![][396]<br>[Starly]<br>Lv. 7 | &nbsp;
 Youngster Logan                          | ![][058]<br>[Growlithe]<br>Lv. 7 | ![][412]<br>[Burmy]<br>Lv. 7  | ![][263]<br>[Zigzagoon]<br>Lv. 7
@@ -60,4 +60,6 @@ Bug Catcher Louie<br>![][bug_catcher] | Item | Nature | Ability | Moves
 [399]: ../img/pokemon/399.png
 [412]: ../img/pokemon/412.png
 [469]: ../img/pokemon/469.png
+[lucas]: ../img/trainer/lucas.png
+[dawn]: ../img/trainer/dawn.png
 [bug_catcher]: ../img/trainer/bug_catcher.png

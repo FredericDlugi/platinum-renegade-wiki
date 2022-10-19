@@ -30,6 +30,8 @@ Ace Trainer Zachery              | ![][181]<br>[Ampharos]<br>Lv. 60   | ![][462]
 --8<-- "includes/natures.md"
 
 [Leader Volkner]: #leader-volkner
+[Wash Rotom]: ../../pokemons/479/#wash-rotom
+[Heat Rotom]: ../../pokemons/479/#heat-rotom
 [Pikachu]: ../../pokemons/025/
 [Raichu]: ../../pokemons/026/
 [Electrode]: ../../pokemons/101/
@@ -46,8 +48,6 @@ Ace Trainer Zachery              | ![][181]<br>[Ampharos]<br>Lv. 60   | ![][462]
 [Pachirisu]: ../../pokemons/417/
 [Magnezone]: ../../pokemons/462/
 [Electivire]: ../../pokemons/466/
-[Wash Rotom]: ../../pokemons/479/#wash-rotom
-[Heat Rotom]: ../../pokemons/479/#heat-rotom
 [choice-band]: ../img/items/choice-band.png
 [expert-belt]: ../img/items/expert-belt.png
 [focus-sash]: ../img/items/focus-sash.png
@@ -70,6 +70,6 @@ Ace Trainer Zachery              | ![][181]<br>[Ampharos]<br>Lv. 60   | ![][462]
 [417]: ../img/pokemon/417.png
 [462]: ../img/pokemon/462.png
 [466]: ../img/pokemon/466.png
-[479-wash]: ../img/pokemon/479-wash.png
 [479-heat]: ../img/pokemon/479-heat.png
+[479-wash]: ../img/pokemon/479-wash.png
 [volkner]: ../img/trainer/volkner.png

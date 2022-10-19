@@ -107,4 +107,3 @@ Ace Trainer Saul :material-alpha-s-circle-outline: | ![][128]<br>[Tauros]<br>Lv.
 [477]: ../img/pokemon/477.png
 [ace_f_2]: ../img/trainer/ace_f_2.png
 [buck]: ../img/trainer/buck.png
-[vs-seeker]: ../img/items/vs-seeker.png
