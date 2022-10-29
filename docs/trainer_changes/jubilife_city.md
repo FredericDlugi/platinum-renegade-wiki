@@ -3,6 +3,12 @@
 Trainer            | 1                                | 2                                 | 3
 ---                | ---                              | ---                               | ---
 Reporter Kayla     | ![][001]<br>[Bulbasaur]<br>Lv. 5 | ![][004]<br>[Charmander]<br>Lv. 5 | ![][007]<br>[Squirtle]<br>Lv. 5
+
+!!! note
+    After the first gym
+
+Trainer            | 1                                | 2                                 | 3
+---                | ---                              | ---                               | ---
 Galactic Grunt     | ![][434]<br>[Stunky]<br>Lv. 13   | ![][266]<br>[Silcoon]<br>Lv. 13   | &nbsp;
 Galactic Grunt     | ![][431]<br>[Glameow]<br>Lv. 13  | ![][268]<br>[Cascoon]<br>Lv. 13   | &nbsp;
 PKMN Trainer Dawn  | ![][035]<br>[Clefairy]<br>Lv. 13 | ![][393]<br>[Piplup]<br>Lv. 14    | &nbsp;
