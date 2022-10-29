@@ -20,10 +20,10 @@ Psychic Rachael                      | ![][433]<br>[Chingling]<br>Lv. 18 | ![][3
 
 ![][cheryl]                      | Item                              | Nature  | Ability      | Moves
 ---                              | ---                               | ---     | ---          | ---
-![][425]<br>[Drifloon]<br>Lv. 19 | ![][sitrus-berry]<br>Sitrus Berry | Modest  | Unburden     | Ominous Wind, Air Cutter, Shock Wave, Swift
-![][296]<br>[Makuhita]<br>Lv. 19 | None                              | Relaxed | Thick Fat    | Knock Off, Fake Out, Brick Break, Bullet Punch
-![][320]<br>[Wailmer]<br>Lv. 19  | None                              | Relaxed | Water Veil   | Water Pulse, Rock Tomb, Mist, Rollout
-![][113]<br>[Chansey]<br>Lv. 20  | ![][sitrus-berry]<br>Sitrus Berry | Quiet   | Serene Grace | Hyper Voice, Soft-Boiled, Ice Beam, Thunderbolt
+![][425]<br>[Drifloon]<br>Lv. 19 | ![][sitrus-berry]<br>Sitrus Berry | Modest  | Unburden     | <ul><li>Ominous Wind</li><li>Air Cutter</li><li>Shock Wave</li><li>Swift</li></ul>
+![][296]<br>[Makuhita]<br>Lv. 19 | None                              | Relaxed | Thick Fat    | <ul><li>Knock Off</li><li>Fake Out</li><li>Brick Break</li><li>Bullet Punch</li></ul>
+![][320]<br>[Wailmer]<br>Lv. 19  | None                              | Relaxed | Water Veil   | <ul><li>Water Pulse</li><li>Rock Tomb</li><li>Mist</li><li>Rollout</li></ul>
+![][113]<br>[Chansey]<br>Lv. 20  | ![][sitrus-berry]<br>Sitrus Berry | Quiet   | Serene Grace | <ul><li>Hyper Voice</li><li>Soft-Boiled</li><li>Ice Beam</li><li>Thunderbolt</li></ul>
 
 --8<-- "includes/abilities.md"
 
@@ -32,29 +32,29 @@ Psychic Rachael                      | ![][433]<br>[Chingling]<br>Lv. 18 | ![][3
 --8<-- "includes/natures.md"
 
 [PKMN Trainer Cheryl]: #pkmn-trainer-cheryl
-[Beedrill]: ../../pokemon_changes/015/
-[Paras]: ../../pokemon_changes/046/
-[Venonat]: ../../pokemon_changes/048/
-[Slowpoke]: ../../pokemon_changes/079/
-[Drowzee]: ../../pokemon_changes/096/
-[Exeggcute]: ../../pokemon_changes/102/
-[Chansey]: ../../pokemon_changes/113/
-[Mr. Mime]: ../../pokemon_changes/122/
-[Natu]: ../../pokemon_changes/177/
-[Marill]: ../../pokemon_changes/183/
-[Dustox]: ../../pokemon_changes/269/
-[Surskit]: ../../pokemon_changes/283/
-[Nincada]: ../../pokemon_changes/290/
-[Makuhita]: ../../pokemon_changes/296/
-[Wailmer]: ../../pokemon_changes/320/
-[Spoink]: ../../pokemon_changes/325/
-[Baltoy]: ../../pokemon_changes/343/
-[Chimecho]: ../../pokemon_changes/358/
-[Combee]: ../../pokemon_changes/415/
-[Drifloon]: ../../pokemon_changes/425/
-[Buneary]: ../../pokemon_changes/427/
-[Chingling]: ../../pokemon_changes/433/
-[Mime Jr.]: ../../pokemon_changes/439/
+[Beedrill]: ../../pokemons/015/
+[Paras]: ../../pokemons/046/
+[Venonat]: ../../pokemons/048/
+[Slowpoke]: ../../pokemons/079/
+[Drowzee]: ../../pokemons/096/
+[Exeggcute]: ../../pokemons/102/
+[Chansey]: ../../pokemons/113/
+[Mr. Mime]: ../../pokemons/122/
+[Natu]: ../../pokemons/177/
+[Marill]: ../../pokemons/183/
+[Dustox]: ../../pokemons/269/
+[Surskit]: ../../pokemons/283/
+[Nincada]: ../../pokemons/290/
+[Makuhita]: ../../pokemons/296/
+[Wailmer]: ../../pokemons/320/
+[Spoink]: ../../pokemons/325/
+[Baltoy]: ../../pokemons/343/
+[Chimecho]: ../../pokemons/358/
+[Combee]: ../../pokemons/415/
+[Drifloon]: ../../pokemons/425/
+[Buneary]: ../../pokemons/427/
+[Chingling]: ../../pokemons/433/
+[Mime Jr.]: ../../pokemons/439/
 [sitrus-berry]: ../img/items/sitrus-berry.png
 [015]: ../img/pokemon/015.png
 [046]: ../img/pokemon/046.png

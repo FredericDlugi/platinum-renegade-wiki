@@ -10,14 +10,14 @@ Worker Dillan | ![][066]<br>[Machop]<br>Lv. 42    | ![][067]<br>[Machoke]<br>Lv.
 Worker Holden | ![][081]<br>[Magnemite]<br>Lv. 42 | ![][081]<br>[Magnemite]<br>Lv. 42 | ![][208]<br>[Steelix]<br>Lv. 45
 Worker Conrad | ![][126]<br>[Magmar]<br>Lv. 43    | ![][219]<br>[Magcargo]<br>Lv. 43  | ![][078]<br>[Rapidash]<br>Lv. 43
 
-[Machop]: ../../pokemon_changes/066/
-[Machoke]: ../../pokemon_changes/067/
-[Machamp]: ../../pokemon_changes/068/
-[Rapidash]: ../../pokemon_changes/078/
-[Magnemite]: ../../pokemon_changes/081/
-[Magmar]: ../../pokemon_changes/126/
-[Steelix]: ../../pokemon_changes/208/
-[Magcargo]: ../../pokemon_changes/219/
+[Machop]: ../../pokemons/066/
+[Machoke]: ../../pokemons/067/
+[Machamp]: ../../pokemons/068/
+[Rapidash]: ../../pokemons/078/
+[Magnemite]: ../../pokemons/081/
+[Magmar]: ../../pokemons/126/
+[Steelix]: ../../pokemons/208/
+[Magcargo]: ../../pokemons/219/
 [066]: ../img/pokemon/066.png
 [067]: ../img/pokemon/067.png
 [068]: ../img/pokemon/068.png

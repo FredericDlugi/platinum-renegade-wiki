@@ -29,46 +29,46 @@ PKMN Breeder Jennifer :material-numeric-5-circle-outline: | ![][183]<br>[Marill]
 PKMN Breeder Jennifer :material-numeric-8-circle-outline: | ![][184]<br>[Azumarill]<br>Lv. 57 | ![][468]<br>[Togekiss]<br>Lv. 57 | ![][036]<br>[Clefable]<br>Lv. 57  | ![][040]<br>[Wigglytuff]<br>Lv. 57 | ![][124]<br>[Jynx]<br>Lv. 57       | ![][407]<br>[Roserade]<br>Lv. 57
 PKMN Breeder Jennifer :material-alpha-c-circle-outline:   | ![][184]<br>[Azumarill]<br>Lv. 68 | ![][468]<br>[Togekiss]<br>Lv. 68 | ![][036]<br>[Clefable]<br>Lv. 68  | ![][040]<br>[Wigglytuff]<br>Lv. 68 | ![][124]<br>[Jynx]<br>Lv. 68       | ![][407]<br>[Roserade]<br>Lv. 68
 
-[Fearow]: ../../pokemon_changes/022/
-[Pikachu]: ../../pokemon_changes/025/
-[Raichu]: ../../pokemon_changes/026/
-[Clefairy]: ../../pokemon_changes/035/
-[Clefable]: ../../pokemon_changes/036/
-[Jigglypuff]: ../../pokemon_changes/039/
-[Wigglytuff]: ../../pokemon_changes/040/
-[Ponyta]: ../../pokemon_changes/077/
-[Dodrio]: ../../pokemon_changes/085/
-[Mr. Mime]: ../../pokemon_changes/122/
-[Jynx]: ../../pokemon_changes/124/
-[Electabuzz]: ../../pokemon_changes/125/
-[Magmar]: ../../pokemon_changes/126/
-[Vaporeon]: ../../pokemon_changes/134/
-[Flareon]: ../../pokemon_changes/136/
-[Pichu]: ../../pokemon_changes/172/
-[Cleffa]: ../../pokemon_changes/173/
-[Igglybuff]: ../../pokemon_changes/174/
-[Togepi]: ../../pokemon_changes/175/
-[Togetic]: ../../pokemon_changes/176/
-[Marill]: ../../pokemon_changes/183/
-[Azumarill]: ../../pokemon_changes/184/
-[Sudowoodo]: ../../pokemon_changes/185/
-[Tyrogue]: ../../pokemon_changes/236/
-[Hitmontop]: ../../pokemon_changes/237/
-[Smoochum]: ../../pokemon_changes/238/
-[Elekid]: ../../pokemon_changes/239/
-[Magby]: ../../pokemon_changes/240/
-[Azurill]: ../../pokemon_changes/298/
-[Volbeat]: ../../pokemon_changes/313/
-[Illumise]: ../../pokemon_changes/314/
-[Roselia]: ../../pokemon_changes/315/
-[Chimecho]: ../../pokemon_changes/358/
-[Bibarel]: ../../pokemon_changes/400/
-[Budew]: ../../pokemon_changes/406/
-[Roserade]: ../../pokemon_changes/407/
-[Chingling]: ../../pokemon_changes/433/
-[Bonsly]: ../../pokemon_changes/438/
-[Mime Jr.]: ../../pokemon_changes/439/
-[Togekiss]: ../../pokemon_changes/468/
+[Fearow]: ../../pokemons/022/
+[Pikachu]: ../../pokemons/025/
+[Raichu]: ../../pokemons/026/
+[Clefairy]: ../../pokemons/035/
+[Clefable]: ../../pokemons/036/
+[Jigglypuff]: ../../pokemons/039/
+[Wigglytuff]: ../../pokemons/040/
+[Ponyta]: ../../pokemons/077/
+[Dodrio]: ../../pokemons/085/
+[Mr. Mime]: ../../pokemons/122/
+[Jynx]: ../../pokemons/124/
+[Electabuzz]: ../../pokemons/125/
+[Magmar]: ../../pokemons/126/
+[Vaporeon]: ../../pokemons/134/
+[Flareon]: ../../pokemons/136/
+[Pichu]: ../../pokemons/172/
+[Cleffa]: ../../pokemons/173/
+[Igglybuff]: ../../pokemons/174/
+[Togepi]: ../../pokemons/175/
+[Togetic]: ../../pokemons/176/
+[Marill]: ../../pokemons/183/
+[Azumarill]: ../../pokemons/184/
+[Sudowoodo]: ../../pokemons/185/
+[Tyrogue]: ../../pokemons/236/
+[Hitmontop]: ../../pokemons/237/
+[Smoochum]: ../../pokemons/238/
+[Elekid]: ../../pokemons/239/
+[Magby]: ../../pokemons/240/
+[Azurill]: ../../pokemons/298/
+[Volbeat]: ../../pokemons/313/
+[Illumise]: ../../pokemons/314/
+[Roselia]: ../../pokemons/315/
+[Chimecho]: ../../pokemons/358/
+[Bibarel]: ../../pokemons/400/
+[Budew]: ../../pokemons/406/
+[Roserade]: ../../pokemons/407/
+[Chingling]: ../../pokemons/433/
+[Bonsly]: ../../pokemons/438/
+[Mime Jr.]: ../../pokemons/439/
+[Togekiss]: ../../pokemons/468/
 [022]: ../img/pokemon/022.png
 [025]: ../img/pokemon/025.png
 [026]: ../img/pokemon/026.png

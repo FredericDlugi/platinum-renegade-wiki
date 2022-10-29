@@ -10,20 +10,20 @@ Area                                  | Pokémon                       | &nbsp; 
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>60% | ![][339]<br>[Barboach]<br>30% | ![][318]<br>[Carvanha]<br>10%  | &nbsp;                      | &nbsp;                       | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>60% | ![][340]<br>[Whiscash]<br>30% | ![][319]<br>[Sharpedo]<br>10%  | &nbsp;                      | &nbsp;                       | &nbsp;
 
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Wooper]: ../../pokemon_changes/194/
-[Quagsire]: ../../pokemon_changes/195/
-[Shroomish]: ../../pokemon_changes/285/
-[Breloom]: ../../pokemon_changes/286/
-[Gulpin]: ../../pokemon_changes/316/
-[Swalot]: ../../pokemon_changes/317/
-[Carvanha]: ../../pokemon_changes/318/
-[Sharpedo]: ../../pokemon_changes/319/
-[Barboach]: ../../pokemon_changes/339/
-[Whiscash]: ../../pokemon_changes/340/
-[Skorupi]: ../../pokemon_changes/451/
-[Drapion]: ../../pokemon_changes/452/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Wooper]: ../../pokemons/194/
+[Quagsire]: ../../pokemons/195/
+[Shroomish]: ../../pokemons/285/
+[Breloom]: ../../pokemons/286/
+[Gulpin]: ../../pokemons/316/
+[Swalot]: ../../pokemons/317/
+[Carvanha]: ../../pokemons/318/
+[Sharpedo]: ../../pokemons/319/
+[Barboach]: ../../pokemons/339/
+[Whiscash]: ../../pokemons/340/
+[Skorupi]: ../../pokemons/451/
+[Drapion]: ../../pokemons/452/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png

@@ -4,63 +4,113 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_210__north/).
 
 
-Trainer                                     | 1                                 | 2                                 | 3                                  | 4                                  | 5                                | 6
----                                         | ---                               | ---                               | ---                                | ---                                | ---                              | ---
-Ninja Boy Fabian                            | ![][454]<br>[Toxicroak]<br>Lv. 41 | &nbsp;                            | &nbsp;                             | &nbsp;                             | &nbsp;                           | &nbsp;
-Ninja Boy Brennan                           | ![][291]<br>[Ninjask]<br>Lv. 41   | &nbsp;                            | &nbsp;                             | &nbsp;                             | &nbsp;                           | &nbsp;
-Ninja Boy Bruce                             | ![][435]<br>[Skuntank]<br>Lv. 41  | &nbsp;                            | &nbsp;                             | &nbsp;                             | &nbsp;                           | &nbsp;
-Ninja Boy Joel                              | ![][123]<br>[Scyther]<br>Lv. 39   | ![][327]<br>[Spinda]<br>Lv. 39    | ![][042]<br>[Golbat]<br>Lv. 39     | &nbsp;                             | &nbsp;                           | &nbsp;
-Ace Trainer Alyssa                          | ![][424]<br>[Ambipom]<br>Lv. 42   | ![][121]<br>[Starmie]<br>Lv. 42   | ![][389]<br>[Torterra]<br>Lv. 42   | &nbsp;                             | &nbsp;                           | &nbsp;
-Double Team Zac & Jen                       | ![][130]<br>[Gyarados]<br>Lv. 42  | ![][472]<br>[Gliscor]<br>Lv. 42   | ![][071]<br>[Victreebel]<br>Lv. 42 | ![][157]<br>[Typhlosion]<br>Lv. 42 | ![][217]<br>[Ursaring]<br>Lv. 42 | ![][181]<br>[Ampharos]<br>Lv. 42
-Ace Trainer Ernest                          | ![][186]<br>[Politoed]<br>Lv. 41  | ![][127]<br>[Pinsir]<br>Lv. 41    | ![][476]<br>[Probopass]<br>Lv. 41  | ![][178]<br>[Xatu]<br>Lv. 41       | &nbsp;                           | &nbsp;
-Ninja Boy Davido                            | ![][038]<br>[Ninetales]<br>Lv. 41 | &nbsp;                            | &nbsp;                             | &nbsp;                             | &nbsp;                           | &nbsp;
-Black Belt Adam                             | ![][068]<br>[Machamp]<br>Lv. 42   | ![][257]<br>[Blaziken]<br>Lv. 42  | ![][214]<br>[Heracross]<br>Lv. 42  | &nbsp;                             | &nbsp;                           | &nbsp;
-Ninja Boy Nathan                            | ![][317]<br>[Swalot]<br>Lv. 39    | ![][269]<br>[Dustox]<br>Lv. 39    | ![][414]<br>[Mothim]<br>Lv. 39     | &nbsp;                             | &nbsp;                           | &nbsp;
-:repeat: [Bird Keeper Brianna](#rematches)  | ![][085]<br>[Dodrio]<br>Lv. 42    | ![][018]<br>[Pidgeot]<br>Lv. 42   | ![][227]<br>[Skarmory]<br>Lv. 42   | &nbsp;                             | &nbsp;                           | &nbsp;
-:repeat: [Veteran Brian](#rematches)        | ![][465]<br>[Tangrowth]<br>Lv. 43 | ![][078]<br>[Rapidash]<br>Lv. 43  | ![][160]<br>[Feraligatr]<br>Lv. 43 | &nbsp;                             | &nbsp;                           | &nbsp;
-:repeat: [Dragon Tamer Patrick](#rematches) | ![][444]<br>[Gabite]<br>Lv. 41    | ![][372]<br>[Shelgon]<br>Lv. 41   | ![][329]<br>[Vibrava]<br>Lv. 41    | ![][148]<br>[Dragonair]<br>Lv. 41  | &nbsp;                           | &nbsp;
-[PKMN Trainer Dawn]<br>![][dawn]            | ![][065]<br>[Alakazam]<br>Lv. 44  | ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][036]<br>[Clefable]<br>Lv. 44   | ![][428]<br>[Lopunny]<br>Lv. 44    | ![][134]<br>[Vaporeon]<br>Lv. 44 | ![][389]<br>[Torterra]<br>Lv. 45
-[PKMN Trainer Dawn]<br>![][dawn]            | ![][065]<br>[Alakazam]<br>Lv. 44  | ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][036]<br>[Clefable]<br>Lv. 44   | ![][428]<br>[Lopunny]<br>Lv. 44    | ![][135]<br>[Jolteon]<br>Lv. 44  | ![][392]<br>[Infernape]<br>Lv. 45
-[PKMN Trainer Dawn]<br>![][dawn]            | ![][065]<br>[Alakazam]<br>Lv. 44  | ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][036]<br>[Clefable]<br>Lv. 44   | ![][428]<br>[Lopunny]<br>Lv. 44    | ![][136]<br>[Flareon]<br>Lv. 44  | ![][395]<br>[Empoleon]<br>Lv. 45
-[PKMN Trainer Lucas]<br>![][lucas]          | ![][065]<br>[Alakazam]<br>Lv. 44  | ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][210]<br>[Granbull]<br>Lv. 44   | ![][463]<br>[Lickilicky]<br>Lv. 44 | ![][134]<br>[Vaporeon]<br>Lv. 44 | ![][389]<br>[Torterra]<br>Lv. 45
-[PKMN Trainer Lucas]<br>![][lucas]          | ![][065]<br>[Alakazam]<br>Lv. 44  | ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][210]<br>[Granbull]<br>Lv. 44   | ![][463]<br>[Lickilicky]<br>Lv. 44 | ![][135]<br>[Jolteon]<br>Lv. 44  | ![][392]<br>[Infernape]<br>Lv. 45
-[PKMN Trainer Lucas]<br>![][lucas]          | ![][065]<br>[Alakazam]<br>Lv. 44  | ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][210]<br>[Granbull]<br>Lv. 44   | ![][463]<br>[Lickilicky]<br>Lv. 44 | ![][136]<br>[Flareon]<br>Lv. 44  | ![][395]<br>[Empoleon]<br>Lv. 45
+Trainer                                     | 1                                 | 2                                | 3                                  | 4                                  | 5                                | 6
+---                                         | ---                               | ---                              | ---                                | ---                                | ---                              | ---
+Ninja Boy Fabian                            | ![][454]<br>[Toxicroak]<br>Lv. 41 | &nbsp;                           | &nbsp;                             | &nbsp;                             | &nbsp;                           | &nbsp;
+Ninja Boy Brennan                           | ![][291]<br>[Ninjask]<br>Lv. 41   | &nbsp;                           | &nbsp;                             | &nbsp;                             | &nbsp;                           | &nbsp;
+Ninja Boy Bruce                             | ![][435]<br>[Skuntank]<br>Lv. 41  | &nbsp;                           | &nbsp;                             | &nbsp;                             | &nbsp;                           | &nbsp;
+Ninja Boy Joel                              | ![][123]<br>[Scyther]<br>Lv. 39   | ![][327]<br>[Spinda]<br>Lv. 39   | ![][042]<br>[Golbat]<br>Lv. 39     | &nbsp;                             | &nbsp;                           | &nbsp;
+Ace Trainer Alyssa                          | ![][424]<br>[Ambipom]<br>Lv. 42   | ![][121]<br>[Starmie]<br>Lv. 42  | ![][389]<br>[Torterra]<br>Lv. 42   | &nbsp;                             | &nbsp;                           | &nbsp;
+Double Team Zac & Jen                       | ![][130]<br>[Gyarados]<br>Lv. 42  | ![][472]<br>[Gliscor]<br>Lv. 42  | ![][071]<br>[Victreebel]<br>Lv. 42 | ![][157]<br>[Typhlosion]<br>Lv. 42 | ![][217]<br>[Ursaring]<br>Lv. 42 | ![][181]<br>[Ampharos]<br>Lv. 42
+Ace Trainer Ernest                          | ![][186]<br>[Politoed]<br>Lv. 41  | ![][127]<br>[Pinsir]<br>Lv. 41   | ![][476]<br>[Probopass]<br>Lv. 41  | ![][178]<br>[Xatu]<br>Lv. 41       | &nbsp;                           | &nbsp;
+Ninja Boy Davido                            | ![][038]<br>[Ninetales]<br>Lv. 41 | &nbsp;                           | &nbsp;                             | &nbsp;                             | &nbsp;                           | &nbsp;
+Black Belt Adam                             | ![][068]<br>[Machamp]<br>Lv. 42   | ![][257]<br>[Blaziken]<br>Lv. 42 | ![][214]<br>[Heracross]<br>Lv. 42  | &nbsp;                             | &nbsp;                           | &nbsp;
+Ninja Boy Nathan                            | ![][317]<br>[Swalot]<br>Lv. 39    | ![][269]<br>[Dustox]<br>Lv. 39   | ![][414]<br>[Mothim]<br>Lv. 39     | &nbsp;                             | &nbsp;                           | &nbsp;
+:repeat: [Bird Keeper Brianna](#rematches)  | ![][085]<br>[Dodrio]<br>Lv. 42    | ![][018]<br>[Pidgeot]<br>Lv. 42  | ![][227]<br>[Skarmory]<br>Lv. 42   | &nbsp;                             | &nbsp;                           | &nbsp;
+:repeat: [Veteran Brian](#rematches)        | ![][465]<br>[Tangrowth]<br>Lv. 43 | ![][078]<br>[Rapidash]<br>Lv. 43 | ![][160]<br>[Feraligatr]<br>Lv. 43 | &nbsp;                             | &nbsp;                           | &nbsp;
+:repeat: [Dragon Tamer Patrick](#rematches) | ![][444]<br>[Gabite]<br>Lv. 41    | ![][372]<br>[Shelgon]<br>Lv. 41  | ![][329]<br>[Vibrava]<br>Lv. 41    | ![][148]<br>[Dragonair]<br>Lv. 41  | &nbsp;                           | &nbsp;
+
+=== "Lucas"
+    === "Grass"
+        Trainer                            | 1                                | 2                                 | 3                                | 4                                  | 5                               | 6
+        ---                                | ---                              | ---                               | ---                              | ---                                | ---                             | ---
+        [PKMN Trainer Lucas]<br>![][lucas] | ![][065]<br>[Alakazam]<br>Lv. 44 | ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][210]<br>[Granbull]<br>Lv. 44 | ![][463]<br>[Lickilicky]<br>Lv. 44 | ![][136]<br>[Flareon]<br>Lv. 44 | ![][395]<br>[Empoleon]<br>Lv. 45
+    === "Fire"
+        Trainer                            | 1                                | 2                                 | 3                                | 4                                  | 5                                | 6
+        ---                                | ---                              | ---                               | ---                              | ---                                | ---                              | ---
+        [PKMN Trainer Lucas]<br>![][lucas] | ![][065]<br>[Alakazam]<br>Lv. 44 | ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][210]<br>[Granbull]<br>Lv. 44 | ![][463]<br>[Lickilicky]<br>Lv. 44 | ![][134]<br>[Vaporeon]<br>Lv. 44 | ![][389]<br>[Torterra]<br>Lv. 45
+    === "Water"
+        Trainer                            | 1                                | 2                                 | 3                                | 4                                  | 5                               | 6
+        ---                                | ---                              | ---                               | ---                              | ---                                | ---                             | ---
+        [PKMN Trainer Lucas]<br>![][lucas] | ![][065]<br>[Alakazam]<br>Lv. 44 | ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][210]<br>[Granbull]<br>Lv. 44 | ![][463]<br>[Lickilicky]<br>Lv. 44 | ![][135]<br>[Jolteon]<br>Lv. 44 | ![][392]<br>[Infernape]<br>Lv. 45
+
+=== "Dawn"
+    === "Grass"
+        Trainer                          | 1                                | 2                                 | 3                                | 4                               | 5                               | 6
+        ---                              | ---                              | ---                               | ---                              | ---                             | ---                             | ---
+        [PKMN Trainer Dawn]<br>![][dawn] | ![][065]<br>[Alakazam]<br>Lv. 44 | ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][036]<br>[Clefable]<br>Lv. 44 | ![][428]<br>[Lopunny]<br>Lv. 44 | ![][136]<br>[Flareon]<br>Lv. 44 | ![][395]<br>[Empoleon]<br>Lv. 45
+    === "Fire"
+        Trainer                          | 1                                | 2                                 | 3                                | 4                               | 5                                | 6
+        ---                              | ---                              | ---                               | ---                              | ---                             | ---                              | ---
+        [PKMN Trainer Dawn]<br>![][dawn] | ![][065]<br>[Alakazam]<br>Lv. 44 | ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][036]<br>[Clefable]<br>Lv. 44 | ![][428]<br>[Lopunny]<br>Lv. 44 | ![][134]<br>[Vaporeon]<br>Lv. 44 | ![][389]<br>[Torterra]<br>Lv. 45
+    === "Water"
+        Trainer                          | 1                                | 2                                 | 3                                | 4                               | 5                               | 6
+        ---                              | ---                              | ---                               | ---                              | ---                             | ---                             | ---
+        [PKMN Trainer Dawn]<br>![][dawn] | ![][065]<br>[Alakazam]<br>Lv. 44 | ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][036]<br>[Clefable]<br>Lv. 44 | ![][428]<br>[Lopunny]<br>Lv. 44 | ![][135]<br>[Jolteon]<br>Lv. 44 | ![][392]<br>[Infernape]<br>Lv. 45
 
 ## PKMN Trainer Dawn
 
-!!! note
-    This Team changes depending on your Starter
+=== "Grass"
+    ![][dawn]                         | Item                              | Nature | Ability      | Moves
+    ---                               | ---                               | ---    | ---          | ---
+    ![][065]<br>[Alakazam]<br>Lv. 44  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | <ul><li>Psychic</li><li>Shadow Ball</li><li>Energy Ball</li><li>Dazzling Gleam</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][passho-berry]<br>Passho Berry | ?      | Thick Fat    | <ul><li>Earthquake</li><li>Avalanche</li><li>Stone Edge</li><li>Ice Shard</li></ul>
+    ![][036]<br>[Clefable]<br>Lv. 44  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | <ul><li>Moonblast</li><li>Moonlight</li><li>Psychic</li><li>Thunder Wave</li></ul>
+    ![][428]<br>[Lopunny]<br>Lv. 44   | ![][choice-band]<br>Choice Band   | ?      | Scrappy [^1] | <ul><li>Strength</li><li>Jump Kick</li><li>Fire Punch</li><li>Ice Punch</li></ul>
+    ![][136]<br>[Flareon]<br>Lv. 44   | ![][muscle-band]<br>Muscle Band   | ?      | Flash Fire   | <ul><li>Flare Blitz</li><li>Play Rough</li><li>Close Combat</li><li>Will-O-Wisp</li></ul>
+    ![][395]<br>[Empoleon]<br>Lv. 45  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent      | <ul><li>Surf</li><li>Flash Cannon</li><li>Grass Knot</li><li>Featherdance</li></ul>
 
-![][dawn]                         | Item                              | Nature | Ability      | Moves
----                               | ---                               | ---    | ---          | ---
-![][065]<br>[Alakazam]<br>Lv. 44  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | Psychic, Shadow Ball, Energy Ball, Dazzling Gleam
-![][473]<br>[Mamoswine]<br>Lv. 44 | ![][passho-berry]<br>Passho Berry | ?      | Thick Fat    | Earthquake, Avalanche, Stone Edge, Ice Shard
-![][036]<br>[Clefable]<br>Lv. 44  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | Moonblast, Moonlight, Psychic, Thunder Wave
-![][428]<br>[Lopunny]<br>Lv. 44   | ![][choice-band]<br>Choice Band   | ?      | Scrappy [^1] | Strength, Jump Kick, Fire Punch, Ice Punch
-![][134]<br>[Vaporeon]<br>Lv. 44  | ![][wise-glasses]<br>Wise Glasses | ?      | Water Absorb | Hydro Pump, Ice Beam, Extrasensory, Aqua Ring
-![][135]<br>[Jolteon]<br>Lv. 44   | ![][wise-glasses]<br>Wise Glasses | ?      | Volt Absorb  | Thunder, Shadow Ball, Extrasensory, Thunder Wave
-![][136]<br>[Flareon]<br>Lv. 44   | ![][muscle-band]<br>Muscle Band   | ?      | Flash Fire   | Flare Blitz, Play Rough, Close Combat, Will-O-Wisp
-![][389]<br>[Torterra]<br>Lv. 45  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | Wood Hammer, Earthquake, Iron Head, Rock Slide
-![][392]<br>[Infernape]<br>Lv. 45 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist    | Fire Blast, Close Combat, Thunder Punch, Rock Slide
-![][395]<br>[Empoleon]<br>Lv. 45  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent      | Surf, Flash Cannon, Grass Knot, Featherdance
+=== "Fire"
+    ![][dawn]                         | Item                              | Nature | Ability      | Moves
+    ---                               | ---                               | ---    | ---          | ---
+    ![][065]<br>[Alakazam]<br>Lv. 44  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | <ul><li>Psychic</li><li>Shadow Ball</li><li>Energy Ball</li><li>Dazzling Gleam</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][passho-berry]<br>Passho Berry | ?      | Thick Fat    | <ul><li>Earthquake</li><li>Avalanche</li><li>Stone Edge</li><li>Ice Shard</li></ul>
+    ![][036]<br>[Clefable]<br>Lv. 44  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | <ul><li>Moonblast</li><li>Moonlight</li><li>Psychic</li><li>Thunder Wave</li></ul>
+    ![][428]<br>[Lopunny]<br>Lv. 44   | ![][choice-band]<br>Choice Band   | ?      | Scrappy [^1] | <ul><li>Strength</li><li>Jump Kick</li><li>Fire Punch</li><li>Ice Punch</li></ul>
+    ![][134]<br>[Vaporeon]<br>Lv. 44  | ![][wise-glasses]<br>Wise Glasses | ?      | Water Absorb | <ul><li>Hydro Pump</li><li>Ice Beam</li><li>Extrasensory</li><li>Aqua Ring</li></ul>
+    ![][389]<br>[Torterra]<br>Lv. 45  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | <ul><li>Wood Hammer</li><li>Earthquake</li><li>Iron Head</li><li>Rock Slide</li></ul>
+
+=== "Water"
+    ![][dawn]                         | Item                              | Nature | Ability      | Moves
+    ---                               | ---                               | ---    | ---          | ---
+    ![][065]<br>[Alakazam]<br>Lv. 44  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | <ul><li>Psychic</li><li>Shadow Ball</li><li>Energy Ball</li><li>Dazzling Gleam</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 44 | ![][passho-berry]<br>Passho Berry | ?      | Thick Fat    | <ul><li>Earthquake</li><li>Avalanche</li><li>Stone Edge</li><li>Ice Shard</li></ul>
+    ![][036]<br>[Clefable]<br>Lv. 44  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | <ul><li>Moonblast</li><li>Moonlight</li><li>Psychic</li><li>Thunder Wave</li></ul>
+    ![][428]<br>[Lopunny]<br>Lv. 44   | ![][choice-band]<br>Choice Band   | ?      | Scrappy [^1] | <ul><li>Strength</li><li>Jump Kick</li><li>Fire Punch</li><li>Ice Punch</li></ul>
+    ![][135]<br>[Jolteon]<br>Lv. 44   | ![][wise-glasses]<br>Wise Glasses | ?      | Volt Absorb  | <ul><li>Thunder</li><li>Shadow Ball</li><li>Extrasensory</li><li>Thunder Wave</li></ul>
+    ![][392]<br>[Infernape]<br>Lv. 45 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist    | <ul><li>Fire Blast</li><li>Close Combat</li><li>Thunder Punch</li><li>Rock Slide</li></ul>
 
 ## PKMN Trainer Lucas
 
-!!! note
-    This Team changes depending on your Starter
+=== "Grass"
+    ![][lucas]                         | Item                              | Nature | Ability     | Moves
+    ---                                | ---                               | ---    | ---         | ---
+    ![][065]<br>[Alakazam]<br>Lv. 44   | ![][life-orb]<br>Life Orb         | ?      | Magic Guard | <ul><li>Psychic</li><li>Shadow Ball</li><li>Energy Ball</li><li>Dazzling Gleam</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 44  | ![][passho-berry]<br>Passho Berry | ?      | Thick Fat   | <ul><li>Earthquake</li><li>Avalanche</li><li>Stone Edge</li><li>Ice Shard</li></ul>
+    ![][210]<br>[Granbull]<br>Lv. 44   | ![][choice-band]<br>Choice Band   | ?      | Intimidate  | <ul><li>Play Rough</li><li>Close Combat</li><li>Crunch</li><li>Earthquake</li></ul>
+    ![][463]<br>[Lickilicky]<br>Lv. 44 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo   | <ul><li>Body Slam</li><li>Zen Headbutt</li><li>Earthquake</li><li>Amnesia</li></ul>
+    ![][136]<br>[Flareon]<br>Lv. 44    | ![][muscle-band]<br>Muscle Band   | ?      | Flash Fire  | <ul><li>Flare Blitz</li><li>Play Rough</li><li>Close Combat</li><li>Will-O-Wisp</li></ul>
+    ![][395]<br>[Empoleon]<br>Lv. 45   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent     | <ul><li>Surf</li><li>Flash Cannon</li><li>Grass Knot</li><li>Featherdance</li></ul>
 
-![][lucas]                         | Item                              | Nature | Ability      | Moves
----                                | ---                               | ---    | ---          | ---
-![][065]<br>[Alakazam]<br>Lv. 44   | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | Psychic, Shadow Ball, Energy Ball, Dazzling Gleam
-![][473]<br>[Mamoswine]<br>Lv. 44  | ![][passho-berry]<br>Passho Berry | ?      | Thick Fat    | Earthquake, Avalanche, Stone Edge, Ice Shard
-![][210]<br>[Granbull]<br>Lv. 44   | ![][choice-band]<br>Choice Band   | ?      | Intimidate   | Play Rough, Close Combat, Crunch, Earthquake
-![][463]<br>[Lickilicky]<br>Lv. 44 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo    | Body Slam, Zen Headbutt, Earthquake, Amnesia
-![][134]<br>[Vaporeon]<br>Lv. 44   | ![][wise-glasses]<br>Wise Glasses | ?      | Water Absorb | Hydro Pump, Ice Beam, Extrasensory, Aqua Ring
-![][135]<br>[Jolteon]<br>Lv. 44    | ![][wise-glasses]<br>Wise Glasses | ?      | Volt Absorb  | Thunder, Shadow Ball, Extrasensory, Thunder Wave
-![][136]<br>[Flareon]<br>Lv. 44    | ![][muscle-band]<br>Muscle Band   | ?      | Flash Fire   | Flare Blitz, Play Rough, Close Combat, Will-O-Wisp
-![][389]<br>[Torterra]<br>Lv. 45   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | Wood Hammer, Earthquake, Iron Head, Rock Slide
-![][392]<br>[Infernape]<br>Lv. 45  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist    | Fire Blast, Close Combat, Thunder Punch, Rock Slide
-![][395]<br>[Empoleon]<br>Lv. 45   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent      | Surf, Flash Cannon, Grass Knot, Featherdance
+=== "Fire"
+    ![][lucas]                         | Item                              | Nature | Ability      | Moves
+    ---                                | ---                               | ---    | ---          | ---
+    ![][065]<br>[Alakazam]<br>Lv. 44   | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | <ul><li>Psychic</li><li>Shadow Ball</li><li>Energy Ball</li><li>Dazzling Gleam</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 44  | ![][passho-berry]<br>Passho Berry | ?      | Thick Fat    | <ul><li>Earthquake</li><li>Avalanche</li><li>Stone Edge</li><li>Ice Shard</li></ul>
+    ![][210]<br>[Granbull]<br>Lv. 44   | ![][choice-band]<br>Choice Band   | ?      | Intimidate   | <ul><li>Play Rough</li><li>Close Combat</li><li>Crunch</li><li>Earthquake</li></ul>
+    ![][463]<br>[Lickilicky]<br>Lv. 44 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo    | <ul><li>Body Slam</li><li>Zen Headbutt</li><li>Earthquake</li><li>Amnesia</li></ul>
+    ![][134]<br>[Vaporeon]<br>Lv. 44   | ![][wise-glasses]<br>Wise Glasses | ?      | Water Absorb | <ul><li>Hydro Pump</li><li>Ice Beam</li><li>Extrasensory</li><li>Aqua Ring</li></ul>
+    ![][389]<br>[Torterra]<br>Lv. 45   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | <ul><li>Wood Hammer</li><li>Earthquake</li><li>Iron Head</li><li>Rock Slide</li></ul>
+
+=== "Water"
+    ![][lucas]                         | Item                              | Nature | Ability     | Moves
+    ---                                | ---                               | ---    | ---         | ---
+    ![][065]<br>[Alakazam]<br>Lv. 44   | ![][life-orb]<br>Life Orb         | ?      | Magic Guard | <ul><li>Psychic</li><li>Shadow Ball</li><li>Energy Ball</li><li>Dazzling Gleam</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 44  | ![][passho-berry]<br>Passho Berry | ?      | Thick Fat   | <ul><li>Earthquake</li><li>Avalanche</li><li>Stone Edge</li><li>Ice Shard</li></ul>
+    ![][210]<br>[Granbull]<br>Lv. 44   | ![][choice-band]<br>Choice Band   | ?      | Intimidate  | <ul><li>Play Rough</li><li>Close Combat</li><li>Crunch</li><li>Earthquake</li></ul>
+    ![][463]<br>[Lickilicky]<br>Lv. 44 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo   | <ul><li>Body Slam</li><li>Zen Headbutt</li><li>Earthquake</li><li>Amnesia</li></ul>
+    ![][135]<br>[Jolteon]<br>Lv. 44    | ![][wise-glasses]<br>Wise Glasses | ?      | Volt Absorb | <ul><li>Thunder</li><li>Shadow Ball</li><li>Extrasensory</li><li>Thunder Wave</li></ul>
+    ![][392]<br>[Infernape]<br>Lv. 45  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist   | <ul><li>Fire Blast</li><li>Close Combat</li><li>Thunder Punch</li><li>Rock Slide</li></ul>
 
 ## Rematches
 
@@ -82,57 +132,57 @@ Dragon Tamer Patrick :material-alpha-c-circle-outline:   | ![][445]<br>[Garchomp
 [^1]: Only in Complete version
 [PKMN Trainer Dawn]: #pkmn-trainer-dawn
 [PKMN Trainer Lucas]: #pkmn-trainer-lucas
-[Pidgeot]: ../../pokemon_changes/018/
-[Clefable]: ../../pokemon_changes/036/
-[Ninetales]: ../../pokemon_changes/038/
-[Golbat]: ../../pokemon_changes/042/
-[Alakazam]: ../../pokemon_changes/065/
-[Machamp]: ../../pokemon_changes/068/
-[Victreebel]: ../../pokemon_changes/071/
-[Rapidash]: ../../pokemon_changes/078/
-[Dodrio]: ../../pokemon_changes/085/
-[Starmie]: ../../pokemon_changes/121/
-[Scyther]: ../../pokemon_changes/123/
-[Pinsir]: ../../pokemon_changes/127/
-[Gyarados]: ../../pokemon_changes/130/
-[Vaporeon]: ../../pokemon_changes/134/
-[Jolteon]: ../../pokemon_changes/135/
-[Flareon]: ../../pokemon_changes/136/
-[Dragonair]: ../../pokemon_changes/148/
-[Dragonite]: ../../pokemon_changes/149/
-[Typhlosion]: ../../pokemon_changes/157/
-[Feraligatr]: ../../pokemon_changes/160/
-[Xatu]: ../../pokemon_changes/178/
-[Ampharos]: ../../pokemon_changes/181/
-[Politoed]: ../../pokemon_changes/186/
-[Granbull]: ../../pokemon_changes/210/
-[Heracross]: ../../pokemon_changes/214/
-[Ursaring]: ../../pokemon_changes/217/
-[Skarmory]: ../../pokemon_changes/227/
-[Blaziken]: ../../pokemon_changes/257/
-[Dustox]: ../../pokemon_changes/269/
-[Ninjask]: ../../pokemon_changes/291/
-[Swalot]: ../../pokemon_changes/317/
-[Spinda]: ../../pokemon_changes/327/
-[Vibrava]: ../../pokemon_changes/329/
-[Flygon]: ../../pokemon_changes/330/
-[Shelgon]: ../../pokemon_changes/372/
-[Salamence]: ../../pokemon_changes/373/
-[Torterra]: ../../pokemon_changes/389/
-[Infernape]: ../../pokemon_changes/392/
-[Empoleon]: ../../pokemon_changes/395/
-[Mothim]: ../../pokemon_changes/414/
-[Ambipom]: ../../pokemon_changes/424/
-[Lopunny]: ../../pokemon_changes/428/
-[Skuntank]: ../../pokemon_changes/435/
-[Gabite]: ../../pokemon_changes/444/
-[Garchomp]: ../../pokemon_changes/445/
-[Toxicroak]: ../../pokemon_changes/454/
-[Lickilicky]: ../../pokemon_changes/463/
-[Tangrowth]: ../../pokemon_changes/465/
-[Gliscor]: ../../pokemon_changes/472/
-[Mamoswine]: ../../pokemon_changes/473/
-[Probopass]: ../../pokemon_changes/476/
+[Pidgeot]: ../../pokemons/018/
+[Clefable]: ../../pokemons/036/
+[Ninetales]: ../../pokemons/038/
+[Golbat]: ../../pokemons/042/
+[Alakazam]: ../../pokemons/065/
+[Machamp]: ../../pokemons/068/
+[Victreebel]: ../../pokemons/071/
+[Rapidash]: ../../pokemons/078/
+[Dodrio]: ../../pokemons/085/
+[Starmie]: ../../pokemons/121/
+[Scyther]: ../../pokemons/123/
+[Pinsir]: ../../pokemons/127/
+[Gyarados]: ../../pokemons/130/
+[Vaporeon]: ../../pokemons/134/
+[Jolteon]: ../../pokemons/135/
+[Flareon]: ../../pokemons/136/
+[Dragonair]: ../../pokemons/148/
+[Dragonite]: ../../pokemons/149/
+[Typhlosion]: ../../pokemons/157/
+[Feraligatr]: ../../pokemons/160/
+[Xatu]: ../../pokemons/178/
+[Ampharos]: ../../pokemons/181/
+[Politoed]: ../../pokemons/186/
+[Granbull]: ../../pokemons/210/
+[Heracross]: ../../pokemons/214/
+[Ursaring]: ../../pokemons/217/
+[Skarmory]: ../../pokemons/227/
+[Blaziken]: ../../pokemons/257/
+[Dustox]: ../../pokemons/269/
+[Ninjask]: ../../pokemons/291/
+[Swalot]: ../../pokemons/317/
+[Spinda]: ../../pokemons/327/
+[Vibrava]: ../../pokemons/329/
+[Flygon]: ../../pokemons/330/
+[Shelgon]: ../../pokemons/372/
+[Salamence]: ../../pokemons/373/
+[Torterra]: ../../pokemons/389/
+[Infernape]: ../../pokemons/392/
+[Empoleon]: ../../pokemons/395/
+[Mothim]: ../../pokemons/414/
+[Ambipom]: ../../pokemons/424/
+[Lopunny]: ../../pokemons/428/
+[Skuntank]: ../../pokemons/435/
+[Gabite]: ../../pokemons/444/
+[Garchomp]: ../../pokemons/445/
+[Toxicroak]: ../../pokemons/454/
+[Lickilicky]: ../../pokemons/463/
+[Tangrowth]: ../../pokemons/465/
+[Gliscor]: ../../pokemons/472/
+[Mamoswine]: ../../pokemons/473/
+[Probopass]: ../../pokemons/476/
 [choice-band]: ../img/items/choice-band.png
 [leftovers]: ../img/items/leftovers.png
 [life-orb]: ../img/items/life-orb.png

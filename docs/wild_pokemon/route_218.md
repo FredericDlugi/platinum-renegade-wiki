@@ -19,31 +19,31 @@ Area                                  | Pokémon                         | &nbsp
 ![][honey]<br>Honey Tree<br>Lv. 39    | ![][415]<br>[Combee]<br>30%     | ![][205]<br>[Forretress]<br>10% | ![][413]<br>[Wormadam]<br>10%  | ![][414]<br>[Mothim]<br>10%   | ![][267]<br>[Beautifly]<br>10% | ![][269]<br>[Dustox]<br>10%
 &nbsp;                                | ![][214]<br>[Heracross]<br>10%  | ![][416]<br>[Vespiquen]<br>10%  | &nbsp;                         | &nbsp;                        | &nbsp;                         | &nbsp;
 
-[Tentacool]: ../../pokemon_changes/072/
-[Tentacruel]: ../../pokemon_changes/073/
-[Electrode]: ../../pokemon_changes/101/
-[Staryu]: ../../pokemon_changes/120/
-[Starmie]: ../../pokemon_changes/121/
-[Mr. Mime]: ../../pokemon_changes/122/
-[Electabuzz]: ../../pokemon_changes/125/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Ditto]: ../../pokemon_changes/132/
-[Forretress]: ../../pokemon_changes/205/
-[Heracross]: ../../pokemon_changes/214/
-[Beautifly]: ../../pokemon_changes/267/
-[Dustox]: ../../pokemon_changes/269/
-[Wormadam]: ../../pokemon_changes/413/
-[Mothim]: ../../pokemon_changes/414/
-[Combee]: ../../pokemon_changes/415/
-[Vespiquen]: ../../pokemon_changes/416/
-[Floatzel]: ../../pokemon_changes/419/
-[Shellos]: ../../pokemon_changes/422/
-[Gastrodon]: ../../pokemon_changes/423/
-[Purugly]: ../../pokemon_changes/432/
-[Chatot]: ../../pokemon_changes/441/
-[Finneon]: ../../pokemon_changes/456/
-[Lumineon]: ../../pokemon_changes/457/
+[Tentacool]: ../../pokemons/072/
+[Tentacruel]: ../../pokemons/073/
+[Electrode]: ../../pokemons/101/
+[Staryu]: ../../pokemons/120/
+[Starmie]: ../../pokemons/121/
+[Mr. Mime]: ../../pokemons/122/
+[Electabuzz]: ../../pokemons/125/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Ditto]: ../../pokemons/132/
+[Forretress]: ../../pokemons/205/
+[Heracross]: ../../pokemons/214/
+[Beautifly]: ../../pokemons/267/
+[Dustox]: ../../pokemons/269/
+[Wormadam]: ../../pokemons/413/
+[Mothim]: ../../pokemons/414/
+[Combee]: ../../pokemons/415/
+[Vespiquen]: ../../pokemons/416/
+[Floatzel]: ../../pokemons/419/
+[Shellos]: ../../pokemons/422/
+[Gastrodon]: ../../pokemons/423/
+[Purugly]: ../../pokemons/432/
+[Chatot]: ../../pokemons/441/
+[Finneon]: ../../pokemons/456/
+[Lumineon]: ../../pokemons/457/
 [good-rod]: ../img/items/good-rod.png
 [honey]: ../img/items/honey.png
 [old-rod]: ../img/items/old-rod.png

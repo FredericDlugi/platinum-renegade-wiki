@@ -38,17 +38,17 @@ Rich Boy Jason                          | ![][394]<br>[Prinplup]<br>Lv. 30 | ![]
 
 ![][saturn]                       | Item                              | Nature | Ability      | Moves
 ---                               | ---                               | ---    | ---          | ---
-![][437]<br>[Bronzong]<br>Lv. 33  | ![][leftovers]<br>Leftovers       | ?      | Levitate     | Hypnosis, Gyro Ball, Zen Headbutt, Confuse Ray
-![][224]<br>[Octillery]<br>Lv. 33 | ![][wise-glasses]<br>Wise Glasses | ?      | Suction Cups | Octazooka, Signal Beam, Ice Beam, Flamethrower
-![][454]<br>[Toxicroak]<br>Lv. 34 | ![][muscle-band]<br>Muscle Band   | ?      | Dry Skin     | Drain Punch, Poison Jab, Fake Out, Vacuum Wave
+![][437]<br>[Bronzong]<br>Lv. 33  | ![][leftovers]<br>Leftovers       | ?      | Levitate     | <ul><li>Hypnosis</li><li>Gyro Ball</li><li>Zen Headbutt</li><li>Confuse Ray</li></ul>
+![][224]<br>[Octillery]<br>Lv. 33 | ![][wise-glasses]<br>Wise Glasses | ?      | Suction Cups | <ul><li>Octazooka</li><li>Signal Beam</li><li>Ice Beam</li><li>Flamethrower</li></ul>
+![][454]<br>[Toxicroak]<br>Lv. 34 | ![][muscle-band]<br>Muscle Band   | ?      | Dry Skin     | <ul><li>Drain Punch</li><li>Poison Jab</li><li>Fake Out</li><li>Vacuum Wave</li></ul>
 
 ## Gentleman Backlot
 
 ![][gentleman]                     | Item                              | Nature | Ability     | Moves
 ---                                | ---                               | ---    | ---         | ---
-![][040]<br>[Wigglytuff]<br>Lv. 33 | ![][zoom-lens]<br>Zoom Lens       | ?      | Cute Charm  | Moonblast, Hyper Voice, Sing, Thunderbolt
-![][026]<br>[Raichu]<br>Lv. 33     | ![][wise-glasses]<br>Wise Glasses | ?      | Static      | Fake Out, Thunderbolt, Grass Knot, Teeter Dance
-![][196]<br>[Espeon]<br>Lv. 33     | ![][sitrus-berry]<br>Sitrus Berry | ?      | Synchronize | Psychic, Power Gem, Dazzling Gleam, Protect
+![][040]<br>[Wigglytuff]<br>Lv. 33 | ![][zoom-lens]<br>Zoom Lens       | ?      | Cute Charm  | <ul><li>Moonblast</li><li>Hyper Voice</li><li>Sing</li><li>Thunderbolt</li></ul>
+![][026]<br>[Raichu]<br>Lv. 33     | ![][wise-glasses]<br>Wise Glasses | ?      | Static      | <ul><li>Fake Out</li><li>Thunderbolt</li><li>Grass Knot</li><li>Teeter Dance</li></ul>
+![][196]<br>[Espeon]<br>Lv. 33     | ![][sitrus-berry]<br>Sitrus Berry | ?      | Synchronize | <ul><li>Psychic</li><li>Power Gem</li><li>Dazzling Gleam</li><li>Protect</li></ul>
 
 ## Rematches
 
@@ -72,43 +72,43 @@ Socialite Reina :material-alpha-c-circle-outline:    | ![][301]<br>[Delcatty]<br
 
 [Commander Saturn]: #commander-saturn
 [Gentleman Backlot]: #gentleman-backlot
-[Butterfree]: ../../pokemon_changes/012/
-[Beedrill]: ../../pokemon_changes/015/
-[Arbok]: ../../pokemon_changes/024/
-[Raichu]: ../../pokemon_changes/026/
-[Wigglytuff]: ../../pokemon_changes/040/
-[Golbat]: ../../pokemon_changes/042/
-[Gloom]: ../../pokemon_changes/044/
-[Venonat]: ../../pokemon_changes/048/
-[Arcanine]: ../../pokemon_changes/059/
-[Machamp]: ../../pokemon_changes/068/
-[Koffing]: ../../pokemon_changes/109/
-[Noctowl]: ../../pokemon_changes/164/
-[Bellossom]: ../../pokemon_changes/182/
-[Azumarill]: ../../pokemon_changes/184/
-[Jumpluff]: ../../pokemon_changes/189/
-[Espeon]: ../../pokemon_changes/196/
-[Murkrow]: ../../pokemon_changes/198/
-[Granbull]: ../../pokemon_changes/210/
-[Octillery]: ../../pokemon_changes/224/
-[Mightyena]: ../../pokemon_changes/262/
-[Dustox]: ../../pokemon_changes/269/
-[Nincada]: ../../pokemon_changes/290/
-[Ninjask]: ../../pokemon_changes/291/
-[Shedinja]: ../../pokemon_changes/292/
-[Delcatty]: ../../pokemon_changes/301/
-[Seviper]: ../../pokemon_changes/336/
-[Lunatone]: ../../pokemon_changes/337/
-[Solrock]: ../../pokemon_changes/338/
-[Prinplup]: ../../pokemon_changes/394/
-[Kricketune]: ../../pokemon_changes/402/
-[Cherrim]: ../../pokemon_changes/421/
-[Glameow]: ../../pokemon_changes/431/
-[Stunky]: ../../pokemon_changes/434/
-[Bronzong]: ../../pokemon_changes/437/
-[Chatot]: ../../pokemon_changes/441/
-[Croagunk]: ../../pokemon_changes/453/
-[Toxicroak]: ../../pokemon_changes/454/
+[Butterfree]: ../../pokemons/012/
+[Beedrill]: ../../pokemons/015/
+[Arbok]: ../../pokemons/024/
+[Raichu]: ../../pokemons/026/
+[Wigglytuff]: ../../pokemons/040/
+[Golbat]: ../../pokemons/042/
+[Gloom]: ../../pokemons/044/
+[Venonat]: ../../pokemons/048/
+[Arcanine]: ../../pokemons/059/
+[Machamp]: ../../pokemons/068/
+[Koffing]: ../../pokemons/109/
+[Noctowl]: ../../pokemons/164/
+[Bellossom]: ../../pokemons/182/
+[Azumarill]: ../../pokemons/184/
+[Jumpluff]: ../../pokemons/189/
+[Espeon]: ../../pokemons/196/
+[Murkrow]: ../../pokemons/198/
+[Granbull]: ../../pokemons/210/
+[Octillery]: ../../pokemons/224/
+[Mightyena]: ../../pokemons/262/
+[Dustox]: ../../pokemons/269/
+[Nincada]: ../../pokemons/290/
+[Ninjask]: ../../pokemons/291/
+[Shedinja]: ../../pokemons/292/
+[Delcatty]: ../../pokemons/301/
+[Seviper]: ../../pokemons/336/
+[Lunatone]: ../../pokemons/337/
+[Solrock]: ../../pokemons/338/
+[Prinplup]: ../../pokemons/394/
+[Kricketune]: ../../pokemons/402/
+[Cherrim]: ../../pokemons/421/
+[Glameow]: ../../pokemons/431/
+[Stunky]: ../../pokemons/434/
+[Bronzong]: ../../pokemons/437/
+[Chatot]: ../../pokemons/441/
+[Croagunk]: ../../pokemons/453/
+[Toxicroak]: ../../pokemons/454/
 [leftovers]: ../img/items/leftovers.png
 [muscle-band]: ../img/items/muscle-band.png
 [sitrus-berry]: ../img/items/sitrus-berry.png

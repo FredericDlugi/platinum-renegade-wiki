@@ -12,17 +12,17 @@ Area                                        | Pokémon                       | &
 ![][poke-radar]<br>Poké Radar<br>Lv. 9 - 10 | ![][234]<br>[Stantler]<br>22% | &nbsp;                       | &nbsp;                       | &nbsp;                      | &nbsp;
 ![][honey]<br>Honey Tree<br>Lv. 21          | ![][190]<br>[Aipom]<br>30%    | ![][287]<br>[Slakoth]<br>20% | ![][011]<br>[Metapod]<br>20% | ![][014]<br>[Kakuna]<br>20% | ![][446]<br>[Munchlax]<br>10%
 
-[Metapod]: ../../pokemon_changes/011/
-[Kakuna]: ../../pokemon_changes/014/
-[Machop]: ../../pokemon_changes/066/
-[Ponyta]: ../../pokemon_changes/077/
-[Rhyhorn]: ../../pokemon_changes/111/
-[Aipom]: ../../pokemon_changes/190/
-[Phanpy]: ../../pokemon_changes/231/
-[Stantler]: ../../pokemon_changes/234/
-[Larvitar]: ../../pokemon_changes/246/
-[Slakoth]: ../../pokemon_changes/287/
-[Munchlax]: ../../pokemon_changes/446/
+[Metapod]: ../../pokemons/011/
+[Kakuna]: ../../pokemons/014/
+[Machop]: ../../pokemons/066/
+[Ponyta]: ../../pokemons/077/
+[Rhyhorn]: ../../pokemons/111/
+[Aipom]: ../../pokemons/190/
+[Phanpy]: ../../pokemons/231/
+[Stantler]: ../../pokemons/234/
+[Larvitar]: ../../pokemons/246/
+[Slakoth]: ../../pokemons/287/
+[Munchlax]: ../../pokemons/446/
 [honey]: ../img/items/honey.png
 [poke-radar]: ../img/items/poke-radar.png
 [011]: ../img/pokemon/011.png

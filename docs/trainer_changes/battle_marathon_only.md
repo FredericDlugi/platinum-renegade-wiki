@@ -1,32 +1,32 @@
 # Battle Marathon Only
 
-Trainer             | 1                                | 2                                 | 3                                | 4                                  | 5                                  | 6
----                 | ---                              | ---                               | ---                              | ---                                | ---                                | ---
-Commander Mars      | ![][169]<br>[Crobat]<br>Lv. 81   | ![][469]<br>[Yanmega]<br>Lv. 81   | ![][437]<br>[Bronzong]<br>Lv. 81 | ![][466]<br>[Electivire]<br>Lv. 81 | ![][115]<br>[Kangaskhan]<br>Lv. 81 | ![][432]<br>[Purugly]<br>Lv. 82
-Commander Jupiter   | ![][437]<br>[Bronzong]<br>Lv. 81 | ![][302]<br>[Sableye]<br>Lv. 81   | ![][169]<br>[Crobat]<br>Lv. 81   | ![][465]<br>[Tangrowth]<br>Lv. 81  | ![][423]<br>[Gastrodon]<br>Lv. 81  | ![][435]<br>[Skuntank]<br>Lv. 82
-Commander Saturn    | ![][437]<br>[Bronzong]<br>Lv. 81 | ![][224]<br>[Octillery]<br>Lv. 81 | ![][065]<br>[Alakazam]<br>Lv. 81 | ![][464]<br>[Rhyperior]<br>Lv. 81  | ![][467]<br>[Magmortar]<br>Lv. 81  | ![][454]<br>[Toxicroak]<br>Lv. 82
-Galactic Boss Cyrus | ![][169]<br>[Crobat]<br>Lv. 83   | ![][430]<br>[Honchkrow]<br>Lv. 83 | ![][229]<br>[Houndoom]<br>Lv. 83 | ![][130]<br>[Gyarados]<br>Lv. 83   | ![][462]<br>[Magnezone]<br>Lv. 83  | ![][461]<br>[Weavile]<br>Lv. 84
+Trainer                           | 1                                | 2                                 | 3                                | 4                                  | 5                                  | 6
+---                               | ---                              | ---                               | ---                              | ---                                | ---                                | ---
+Commander Mars<br>![][mars]       | ![][169]<br>[Crobat]<br>Lv. 81   | ![][469]<br>[Yanmega]<br>Lv. 81   | ![][437]<br>[Bronzong]<br>Lv. 81 | ![][466]<br>[Electivire]<br>Lv. 81 | ![][115]<br>[Kangaskhan]<br>Lv. 81 | ![][432]<br>[Purugly]<br>Lv. 82
+Commander Jupiter<br>![][jupiter] | ![][437]<br>[Bronzong]<br>Lv. 81 | ![][302]<br>[Sableye]<br>Lv. 81   | ![][169]<br>[Crobat]<br>Lv. 81   | ![][465]<br>[Tangrowth]<br>Lv. 81  | ![][423]<br>[Gastrodon]<br>Lv. 81  | ![][435]<br>[Skuntank]<br>Lv. 82
+Commander Saturn<br>![][saturn]   | ![][437]<br>[Bronzong]<br>Lv. 81 | ![][224]<br>[Octillery]<br>Lv. 81 | ![][065]<br>[Alakazam]<br>Lv. 81 | ![][464]<br>[Rhyperior]<br>Lv. 81  | ![][467]<br>[Magmortar]<br>Lv. 81  | ![][454]<br>[Toxicroak]<br>Lv. 82
+Galactic Boss Cyrus<br>![][cyrus] | ![][169]<br>[Crobat]<br>Lv. 83   | ![][430]<br>[Honchkrow]<br>Lv. 83 | ![][229]<br>[Houndoom]<br>Lv. 83 | ![][130]<br>[Gyarados]<br>Lv. 83   | ![][462]<br>[Magnezone]<br>Lv. 83  | ![][461]<br>[Weavile]<br>Lv. 84
 
-[Alakazam]: ../../pokemon_changes/065/
-[Kangaskhan]: ../../pokemon_changes/115/
-[Gyarados]: ../../pokemon_changes/130/
-[Crobat]: ../../pokemon_changes/169/
-[Octillery]: ../../pokemon_changes/224/
-[Houndoom]: ../../pokemon_changes/229/
-[Sableye]: ../../pokemon_changes/302/
-[Gastrodon]: ../../pokemon_changes/423/
-[Honchkrow]: ../../pokemon_changes/430/
-[Purugly]: ../../pokemon_changes/432/
-[Skuntank]: ../../pokemon_changes/435/
-[Bronzong]: ../../pokemon_changes/437/
-[Toxicroak]: ../../pokemon_changes/454/
-[Weavile]: ../../pokemon_changes/461/
-[Magnezone]: ../../pokemon_changes/462/
-[Rhyperior]: ../../pokemon_changes/464/
-[Tangrowth]: ../../pokemon_changes/465/
-[Electivire]: ../../pokemon_changes/466/
-[Magmortar]: ../../pokemon_changes/467/
-[Yanmega]: ../../pokemon_changes/469/
+[Alakazam]: ../../pokemons/065/
+[Kangaskhan]: ../../pokemons/115/
+[Gyarados]: ../../pokemons/130/
+[Crobat]: ../../pokemons/169/
+[Octillery]: ../../pokemons/224/
+[Houndoom]: ../../pokemons/229/
+[Sableye]: ../../pokemons/302/
+[Gastrodon]: ../../pokemons/423/
+[Honchkrow]: ../../pokemons/430/
+[Purugly]: ../../pokemons/432/
+[Skuntank]: ../../pokemons/435/
+[Bronzong]: ../../pokemons/437/
+[Toxicroak]: ../../pokemons/454/
+[Weavile]: ../../pokemons/461/
+[Magnezone]: ../../pokemons/462/
+[Rhyperior]: ../../pokemons/464/
+[Tangrowth]: ../../pokemons/465/
+[Electivire]: ../../pokemons/466/
+[Magmortar]: ../../pokemons/467/
+[Yanmega]: ../../pokemons/469/
 [065]: ../img/pokemon/065.png
 [115]: ../img/pokemon/115.png
 [130]: ../img/pokemon/130.png
@@ -47,3 +47,7 @@ Galactic Boss Cyrus | ![][169]<br>[Crobat]<br>Lv. 83   | ![][430]<br>[Honchkrow]
 [466]: ../img/pokemon/466.png
 [467]: ../img/pokemon/467.png
 [469]: ../img/pokemon/469.png
+[cyrus]: ../img/trainer/cyrus.png
+[saturn]: ../img/trainer/saturn.png
+[mars]: ../img/trainer/mars.png
+[jupiter]: ../img/trainer/jupiter.png

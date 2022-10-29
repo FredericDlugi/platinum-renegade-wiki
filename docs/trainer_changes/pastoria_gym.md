@@ -14,12 +14,12 @@ Sailor Samson              | ![][080]<br>[Slowbro]<br>Lv. 39   | ![][423]<br>[Ga
 
 ![][wake]                         | Item                              | Nature  | Ability      | Moves
 ---                               | ---                               | ---     | ---          | ---
-![][195]<br>[Quagsire]<br>Lv. 43  | ![][rindo-berry]<br>Rindo Berry   | Adamant | Water Absorb | Aqua Tail, Earthquake, Recover, Ice Punch
-![][130]<br>[Gyarados]<br>Lv. 43  | ![][wacan-berry]<br>Wacan Berry   | Jolly   | Intimidate   | Aqua Tail, Ice Fang, Crunch, Dragon Dance
-![][062]<br>[Poliwrath]<br>Lv. 43 | ![][sitrus-berry]<br>Sitrus Berry | Careful | Water Absorb | Waterfall, Drain Punch, Ice Punch, Hypnosis
-![][272]<br>[Ludicolo]<br>Lv. 43  | ![][life-orb]<br>Life Orb         | Modest  | Swift Swim   | Hydro Pump, Ice Beam, Energy Ball, Fake Out
-![][319]<br>[Sharpedo]<br>Lv. 43  | ![][focus-sash]<br>Focus Sash     | Naive   | Speed Boost  | Waterfall, Crunch, Ice Fang, Zen Headbutt
-![][419]<br>[Floatzel]<br>Lv. 44  | ![][life-orb]<br>Life Orb         | Naive   | Swift Swim   | Aqua Tail, Crunch, Ice Punch, Aqua Jet
+![][195]<br>[Quagsire]<br>Lv. 43  | ![][rindo-berry]<br>Rindo Berry   | Adamant | Water Absorb | <ul><li>Aqua Tail</li><li>Earthquake</li><li>Recover</li><li>Ice Punch</li></ul>
+![][130]<br>[Gyarados]<br>Lv. 43  | ![][wacan-berry]<br>Wacan Berry   | Jolly   | Intimidate   | <ul><li>Aqua Tail</li><li>Ice Fang</li><li>Crunch</li><li>Dragon Dance</li></ul>
+![][062]<br>[Poliwrath]<br>Lv. 43 | ![][sitrus-berry]<br>Sitrus Berry | Careful | Water Absorb | <ul><li>Waterfall</li><li>Drain Punch</li><li>Ice Punch</li><li>Hypnosis</li></ul>
+![][272]<br>[Ludicolo]<br>Lv. 43  | ![][life-orb]<br>Life Orb         | Modest  | Swift Swim   | <ul><li>Hydro Pump</li><li>Ice Beam</li><li>Energy Ball</li><li>Fake Out</li></ul>
+![][319]<br>[Sharpedo]<br>Lv. 43  | ![][focus-sash]<br>Focus Sash     | Naive   | Speed Boost  | <ul><li>Waterfall</li><li>Crunch</li><li>Ice Fang</li><li>Zen Headbutt</li></ul>
+![][419]<br>[Floatzel]<br>Lv. 44  | ![][life-orb]<br>Life Orb         | Naive   | Swift Swim   | <ul><li>Aqua Tail</li><li>Crunch</li><li>Ice Punch</li><li>Aqua Jet</li></ul>
 
 --8<-- "includes/abilities.md"
 
@@ -28,30 +28,30 @@ Sailor Samson              | ![][080]<br>[Slowbro]<br>Lv. 39   | ![][423]<br>[Ga
 --8<-- "includes/natures.md"
 
 [Leader Wake]: #leader-wake
-[Wartortle]: ../../pokemon_changes/008/
-[Golduck]: ../../pokemon_changes/055/
-[Poliwrath]: ../../pokemon_changes/062/
-[Tentacruel]: ../../pokemon_changes/073/
-[Slowbro]: ../../pokemon_changes/080/
-[Dewgong]: ../../pokemon_changes/087/
-[Kingler]: ../../pokemon_changes/099/
-[Seaking]: ../../pokemon_changes/119/
-[Gyarados]: ../../pokemon_changes/130/
-[Croconaw]: ../../pokemon_changes/159/
-[Lanturn]: ../../pokemon_changes/171/
-[Azumarill]: ../../pokemon_changes/184/
-[Quagsire]: ../../pokemon_changes/195/
-[Mantine]: ../../pokemon_changes/226/
-[Marshtomp]: ../../pokemon_changes/259/
-[Ludicolo]: ../../pokemon_changes/272/
-[Pelipper]: ../../pokemon_changes/279/
-[Sharpedo]: ../../pokemon_changes/319/
-[Whiscash]: ../../pokemon_changes/340/
-[Sealeo]: ../../pokemon_changes/364/
-[Bibarel]: ../../pokemon_changes/400/
-[Floatzel]: ../../pokemon_changes/419/
-[Gastrodon]: ../../pokemon_changes/423/
-[Lumineon]: ../../pokemon_changes/457/
+[Wartortle]: ../../pokemons/008/
+[Golduck]: ../../pokemons/055/
+[Poliwrath]: ../../pokemons/062/
+[Tentacruel]: ../../pokemons/073/
+[Slowbro]: ../../pokemons/080/
+[Dewgong]: ../../pokemons/087/
+[Kingler]: ../../pokemons/099/
+[Seaking]: ../../pokemons/119/
+[Gyarados]: ../../pokemons/130/
+[Croconaw]: ../../pokemons/159/
+[Lanturn]: ../../pokemons/171/
+[Azumarill]: ../../pokemons/184/
+[Quagsire]: ../../pokemons/195/
+[Mantine]: ../../pokemons/226/
+[Marshtomp]: ../../pokemons/259/
+[Ludicolo]: ../../pokemons/272/
+[Pelipper]: ../../pokemons/279/
+[Sharpedo]: ../../pokemons/319/
+[Whiscash]: ../../pokemons/340/
+[Sealeo]: ../../pokemons/364/
+[Bibarel]: ../../pokemons/400/
+[Floatzel]: ../../pokemons/419/
+[Gastrodon]: ../../pokemons/423/
+[Lumineon]: ../../pokemons/457/
 [focus-sash]: ../img/items/focus-sash.png
 [life-orb]: ../img/items/life-orb.png
 [rindo-berry]: ../img/items/rindo-berry.png

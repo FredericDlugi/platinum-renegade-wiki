@@ -18,19 +18,19 @@ Lass Samantha :material-numeric-3-circle-outline: | ![][404]<br>[Luxio]<br>Lv. 2
 Lass Samantha :material-numeric-5-circle-outline: | ![][404]<br>[Luxio]<br>Lv. 38  | ![][315]<br>[Roselia]<br>Lv. 38  | ![][070]<br>[Weepinbell]<br>Lv. 38
 Lass Samantha :material-alpha-c-circle-outline:   | ![][405]<br>[Luxray]<br>Lv. 70 | ![][407]<br>[Roserade]<br>Lv. 70 | ![][071]<br>[Victreebel]<br>Lv. 70
 
-[Pidgey]: ../../pokemon_changes/016/
-[Nidoran♀]: ../../pokemon_changes/029/
-[Oddish]: ../../pokemon_changes/043/
-[Bellsprout]: ../../pokemon_changes/069/
-[Weepinbell]: ../../pokemon_changes/070/
-[Victreebel]: ../../pokemon_changes/071/
-[Magikarp]: ../../pokemon_changes/129/
-[Roselia]: ../../pokemon_changes/315/
-[Shinx]: ../../pokemon_changes/403/
-[Luxio]: ../../pokemon_changes/404/
-[Luxray]: ../../pokemon_changes/405/
-[Budew]: ../../pokemon_changes/406/
-[Roserade]: ../../pokemon_changes/407/
+[Pidgey]: ../../pokemons/016/
+[Nidoran♀]: ../../pokemons/029/
+[Oddish]: ../../pokemons/043/
+[Bellsprout]: ../../pokemons/069/
+[Weepinbell]: ../../pokemons/070/
+[Victreebel]: ../../pokemons/071/
+[Magikarp]: ../../pokemons/129/
+[Roselia]: ../../pokemons/315/
+[Shinx]: ../../pokemons/403/
+[Luxio]: ../../pokemons/404/
+[Luxray]: ../../pokemons/405/
+[Budew]: ../../pokemons/406/
+[Roserade]: ../../pokemons/407/
 [016]: ../img/pokemon/016.png
 [029]: ../img/pokemon/029.png
 [043]: ../img/pokemon/043.png

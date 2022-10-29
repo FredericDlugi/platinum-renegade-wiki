@@ -19,12 +19,12 @@ Ace Trainer Sandra                 | ![][051]<br>[Dugtrio]<br>Lv. 74   | ![][026
 
 ![][ace_m_2]                      | Item                              | Nature | Ability      | Moves
 ---                               | ---                               | ---    | ---          | ---
-![][234]<br>[Stantler]<br>Lv. 76  | ![][choice-scarf]<br>Choice Scarf | ?      | Intimidate   | Double-Edge, Jump Kick, Megahorn, Zen Headbutt
-![][085]<br>[Dodrio]<br>Lv. 76    | ![][muscle-band]<br>Muscle Band   | ?      | Tangled Feet | Double-Edge, Brave Bird, High Jump Kick, Drill Run
-![][203]<br>[Girafarig]<br>Lv. 76 | ![][wise-glasses]<br>Wise Glasses | ?      | Inner Focus  | Hyper Voice, Psychic, Thunderbolt, Dazzling Gleam
-![][400]<br>[Bibarel]<br>Lv. 76   | ![][chople-berry]<br>Chople Berry | ?      | Simple       | Double-Edge, Aqua Tail, Crunch, Curse
-![][474]<br>[Porygon-Z]<br>Lv. 76 | ![][life-orb]<br>Life Orb         | ?      | Adaptability | Hyper Beam, Thunderbolt, Ice Beam, Psychic
-![][143]<br>[Snorlax]<br>Lv. 77   | ![][leftovers]<br>Leftovers       | ?      | Thick Fat    | Body Slam, Earthquake, Curse, Slack Off
+![][234]<br>[Stantler]<br>Lv. 76  | ![][choice-scarf]<br>Choice Scarf | ?      | Intimidate   | <ul><li>Double-Edge</li><li>Jump Kick</li><li>Megahorn</li><li>Zen Headbutt</li></ul>
+![][085]<br>[Dodrio]<br>Lv. 76    | ![][muscle-band]<br>Muscle Band   | ?      | Tangled Feet | <ul><li>Double-Edge</li><li>Brave Bird</li><li>High Jump Kick</li><li>Drill Run</li></ul>
+![][203]<br>[Girafarig]<br>Lv. 76 | ![][wise-glasses]<br>Wise Glasses | ?      | Inner Focus  | <ul><li>Hyper Voice</li><li>Psychic</li><li>Thunderbolt</li><li>Dazzling Gleam</li></ul>
+![][400]<br>[Bibarel]<br>Lv. 76   | ![][chople-berry]<br>Chople Berry | ?      | Simple       | <ul><li>Double-Edge</li><li>Aqua Tail</li><li>Crunch</li><li>Curse</li></ul>
+![][474]<br>[Porygon-Z]<br>Lv. 76 | ![][life-orb]<br>Life Orb         | ?      | Adaptability | <ul><li>Hyper Beam</li><li>Thunderbolt</li><li>Ice Beam</li><li>Psychic</li></ul>
+![][143]<br>[Snorlax]<br>Lv. 77   | ![][leftovers]<br>Leftovers       | ?      | Thick Fat    | <ul><li>Body Slam</li><li>Earthquake</li><li>Curse</li><li>Slack Off</li></ul>
 
 --8<-- "includes/abilities.md"
 
@@ -33,24 +33,24 @@ Ace Trainer Sandra                 | ![][051]<br>[Dugtrio]<br>Lv. 74   | ![][026
 --8<-- "includes/natures.md"
 
 [Ace Trainer Gene]: #ace-trainer-gene
-[Butterfree]: ../../pokemon_changes/012/
-[Raichu]: ../../pokemon_changes/026/
-[Vileplume]: ../../pokemon_changes/045/
-[Dugtrio]: ../../pokemon_changes/051/
-[Arcanine]: ../../pokemon_changes/059/
-[Dodrio]: ../../pokemon_changes/085/
-[Snorlax]: ../../pokemon_changes/143/
-[Girafarig]: ../../pokemon_changes/203/
-[Granbull]: ../../pokemon_changes/210/
-[Stantler]: ../../pokemon_changes/234/
-[Mightyena]: ../../pokemon_changes/262/
-[Gardevoir]: ../../pokemon_changes/282/
-[Spinda]: ../../pokemon_changes/327/
-[Kecleon]: ../../pokemon_changes/352/
-[Salamence]: ../../pokemon_changes/373/
-[Bibarel]: ../../pokemon_changes/400/
-[Porygon-Z]: ../../pokemon_changes/474/
-[Dusknoir]: ../../pokemon_changes/477/
+[Butterfree]: ../../pokemons/012/
+[Raichu]: ../../pokemons/026/
+[Vileplume]: ../../pokemons/045/
+[Dugtrio]: ../../pokemons/051/
+[Arcanine]: ../../pokemons/059/
+[Dodrio]: ../../pokemons/085/
+[Snorlax]: ../../pokemons/143/
+[Girafarig]: ../../pokemons/203/
+[Granbull]: ../../pokemons/210/
+[Stantler]: ../../pokemons/234/
+[Mightyena]: ../../pokemons/262/
+[Gardevoir]: ../../pokemons/282/
+[Spinda]: ../../pokemons/327/
+[Kecleon]: ../../pokemons/352/
+[Salamence]: ../../pokemons/373/
+[Bibarel]: ../../pokemons/400/
+[Porygon-Z]: ../../pokemons/474/
+[Dusknoir]: ../../pokemons/477/
 [choice-scarf]: ../img/items/choice-scarf.png
 [chople-berry]: ../img/items/chople-berry.png
 [leftovers]: ../img/items/leftovers.png

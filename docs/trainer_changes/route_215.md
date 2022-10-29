@@ -26,24 +26,24 @@ Ace Trainer Dennis :material-alpha-s-circle-outline:   | ![][472]<br>[Gliscor]<b
 Ace Trainer Maya :material-numeric-7-circle-outline:   | ![][463]<br>[Lickilicky]<br>Lv. 62 | ![][282]<br>[Gardevoir]<br>Lv. 62 | ![][407]<br>[Roserade]<br>Lv. 62
 Ace Trainer Maya :material-alpha-s-circle-outline:     | ![][463]<br>[Lickilicky]<br>Lv. 77 | ![][282]<br>[Gardevoir]<br>Lv. 77 | ![][407]<br>[Roserade]<br>Lv. 77
 
-[Primeape]: ../../pokemon_changes/057/
-[Machoke]: ../../pokemon_changes/067/
-[Marowak]: ../../pokemon_changes/105/
-[Hitmonlee]: ../../pokemon_changes/106/
-[Hitmonchan]: ../../pokemon_changes/107/
-[Lickitung]: ../../pokemon_changes/108/
-[Gyarados]: ../../pokemon_changes/130/
-[Gligar]: ../../pokemon_changes/207/
-[Hitmontop]: ../../pokemon_changes/237/
-[Combusken]: ../../pokemon_changes/256/
-[Gardevoir]: ../../pokemon_changes/282/
-[Staraptor]: ../../pokemon_changes/398/
-[Luxray]: ../../pokemon_changes/405/
-[Roserade]: ../../pokemon_changes/407/
-[Rampardos]: ../../pokemon_changes/409/
-[Drifblim]: ../../pokemon_changes/426/
-[Lickilicky]: ../../pokemon_changes/463/
-[Gliscor]: ../../pokemon_changes/472/
+[Primeape]: ../../pokemons/057/
+[Machoke]: ../../pokemons/067/
+[Marowak]: ../../pokemons/105/
+[Hitmonlee]: ../../pokemons/106/
+[Hitmonchan]: ../../pokemons/107/
+[Lickitung]: ../../pokemons/108/
+[Gyarados]: ../../pokemons/130/
+[Gligar]: ../../pokemons/207/
+[Hitmontop]: ../../pokemons/237/
+[Combusken]: ../../pokemons/256/
+[Gardevoir]: ../../pokemons/282/
+[Staraptor]: ../../pokemons/398/
+[Luxray]: ../../pokemons/405/
+[Roserade]: ../../pokemons/407/
+[Rampardos]: ../../pokemons/409/
+[Drifblim]: ../../pokemons/426/
+[Lickilicky]: ../../pokemons/463/
+[Gliscor]: ../../pokemons/472/
 [057]: ../img/pokemon/057.png
 [067]: ../img/pokemon/067.png
 [105]: ../img/pokemon/105.png

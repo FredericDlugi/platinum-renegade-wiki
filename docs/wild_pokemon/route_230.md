@@ -17,21 +17,21 @@ Area                                  | Pokémon                       | &nbsp; 
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>65% | ![][222]<br>[Corsola]<br>30%    | ![][320]<br>[Wailmer]<br>10%   | &nbsp;                       | &nbsp;                       | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>65% | ![][222]<br>[Corsola]<br>30%    | ![][321]<br>[Wailord]<br>10%   | &nbsp;                       | &nbsp;                       | &nbsp;
 
-[Golduck]: ../../pokemon_changes/055/
-[Tentacruel]: ../../pokemon_changes/073/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Togetic]: ../../pokemon_changes/176/
-[Corsola]: ../../pokemon_changes/222/
-[Pelipper]: ../../pokemon_changes/279/
-[Wailmer]: ../../pokemon_changes/320/
-[Wailord]: ../../pokemon_changes/321/
-[Zangoose]: ../../pokemon_changes/335/
-[Seviper]: ../../pokemon_changes/336/
-[Tropius]: ../../pokemon_changes/357/
-[Sealeo]: ../../pokemon_changes/364/
-[Floatzel]: ../../pokemon_changes/419/
-[Gastrodon]: ../../pokemon_changes/423/
+[Golduck]: ../../pokemons/055/
+[Tentacruel]: ../../pokemons/073/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Togetic]: ../../pokemons/176/
+[Corsola]: ../../pokemons/222/
+[Pelipper]: ../../pokemons/279/
+[Wailmer]: ../../pokemons/320/
+[Wailord]: ../../pokemons/321/
+[Zangoose]: ../../pokemons/335/
+[Seviper]: ../../pokemons/336/
+[Tropius]: ../../pokemons/357/
+[Sealeo]: ../../pokemons/364/
+[Floatzel]: ../../pokemons/419/
+[Gastrodon]: ../../pokemons/423/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png

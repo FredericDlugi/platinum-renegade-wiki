@@ -4,48 +4,94 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_207/).
 
 
-Trainer                                  | 1                                 | 2                                 | 3                                  | 4
----                                      | ---                               | ---                               | ---                                | ---
-Camper Anthony                           | ![][240]<br>[Magby]<br>Lv. 24     | ![][328]<br>[Trapinch]<br>Lv. 24  | ![][004]<br>[Charmander]<br>Lv. 24 | &nbsp;
-Picnicker Lauren                         | ![][238]<br>[Smoochum]<br>Lv. 24  | ![][209]<br>[Snubbull]<br>Lv. 24  | ![][252]<br>[Treecko]<br>Lv. 24    | &nbsp;
-Youngster Austin                         | ![][271]<br>[Lombre]<br>Lv. 25    | ![][207]<br>[Gligar]<br>Lv. 25    | &nbsp;                             | &nbsp;
-Hiker Justin                             | ![][075]<br>[Graveler]<br>Lv. 25  | ![][028]<br>[Sandslash]<br>Lv. 25 | &nbsp;                             | &nbsp;
-Hiker Kevin                              | ![][206]<br>[Dunsparce]<br>Lv. 25 | ![][206]<br>[Dunsparce]<br>Lv. 25 | &nbsp;                             | &nbsp;
-:repeat: [Battle Girl Helen](#rematches) | ![][236]<br>[Tyrogue]<br>Lv. 26   | ![][307]<br>[Meditite]<br>Lv. 26  | ![][297]<br>[Hariyama]<br>Lv. 26   | &nbsp;
-[PKMN Trainer Dawn]<br>![][dawn]         | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][036]<br>[Clefable]<br>Lv. 29  | ![][428]<br>[Lopunny]<br>Lv. 29    | ![][388]<br>[Grotle]<br>Lv. 30
-[PKMN Trainer Dawn]<br>![][dawn]         | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][036]<br>[Clefable]<br>Lv. 29  | ![][428]<br>[Lopunny]<br>Lv. 29    | ![][391]<br>[Monferno]<br>Lv. 30
-[PKMN Trainer Dawn]<br>![][dawn]         | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][036]<br>[Clefable]<br>Lv. 29  | ![][428]<br>[Lopunny]<br>Lv. 29    | ![][394]<br>[Prinplup]<br>Lv. 30
-[PKMN Trainer Lucas]<br>![][lucas]       | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][210]<br>[Granbull]<br>Lv. 29  | ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][388]<br>[Grotle]<br>Lv. 30
-[PKMN Trainer Lucas]<br>![][lucas]       | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][210]<br>[Granbull]<br>Lv. 29  | ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][391]<br>[Monferno]<br>Lv. 30
-[PKMN Trainer Lucas]<br>![][lucas]       | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][210]<br>[Granbull]<br>Lv. 29  | ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][394]<br>[Prinplup]<br>Lv. 30
+Trainer                                  | 1                                 | 2                                 | 3
+---                                      | ---                               | ---                               | ---
+Camper Anthony                           | ![][240]<br>[Magby]<br>Lv. 24     | ![][328]<br>[Trapinch]<br>Lv. 24  | ![][004]<br>[Charmander]<br>Lv. 24
+Picnicker Lauren                         | ![][238]<br>[Smoochum]<br>Lv. 24  | ![][209]<br>[Snubbull]<br>Lv. 24  | ![][252]<br>[Treecko]<br>Lv. 24
+Youngster Austin                         | ![][271]<br>[Lombre]<br>Lv. 25    | ![][207]<br>[Gligar]<br>Lv. 25    | &nbsp;
+Hiker Justin                             | ![][075]<br>[Graveler]<br>Lv. 25  | ![][028]<br>[Sandslash]<br>Lv. 25 | &nbsp;
+Hiker Kevin                              | ![][206]<br>[Dunsparce]<br>Lv. 25 | ![][206]<br>[Dunsparce]<br>Lv. 25 | &nbsp;
+:repeat: [Battle Girl Helen](#rematches) | ![][236]<br>[Tyrogue]<br>Lv. 26   | ![][307]<br>[Meditite]<br>Lv. 26  | ![][297]<br>[Hariyama]<br>Lv. 26
+
+=== "Lucas"
+    === "Grass"
+        Trainer                            | 1                                 | 2                                | 3                                  | 4
+        ---                                | ---                               | ---                              | ---                                | ---
+        [PKMN Trainer Lucas]<br>![][lucas] | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][210]<br>[Granbull]<br>Lv. 29 | ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][394]<br>[Prinplup]<br>Lv. 30
+    === "Fire"
+        Trainer                            | 1                                 | 2                                | 3                                  | 4
+        ---                                | ---                               | ---                              | ---                                | ---
+        [PKMN Trainer Lucas]<br>![][lucas] | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][210]<br>[Granbull]<br>Lv. 29 | ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][388]<br>[Grotle]<br>Lv. 30
+    === "Water"
+        Trainer                            | 1                                 | 2                                | 3                                  | 4
+        ---                                | ---                               | ---                              | ---                                | ---
+        [PKMN Trainer Lucas]<br>![][lucas] | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][210]<br>[Granbull]<br>Lv. 29 | ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][391]<br>[Monferno]<br>Lv. 30
+=== "Dawn"
+    === "Grass"
+        Trainer                          | 1                                 | 2                                | 3                               | 4
+        ---                              | ---                               | ---                              | ---                             | ---
+        [PKMN Trainer Dawn]<br>![][dawn] | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][036]<br>[Clefable]<br>Lv. 29 | ![][428]<br>[Lopunny]<br>Lv. 29 | ![][394]<br>[Prinplup]<br>Lv. 30
+    === "Fire"
+        Trainer                          | 1                                 | 2                                | 3                               | 4
+        ---                              | ---                               | ---                              | ---                             | ---
+        [PKMN Trainer Dawn]<br>![][dawn] | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][036]<br>[Clefable]<br>Lv. 29 | ![][428]<br>[Lopunny]<br>Lv. 29 | ![][388]<br>[Grotle]<br>Lv. 30
+    === "Water"
+        Trainer                          | 1                                 | 2                                | 3                               | 4
+        ---                              | ---                               | ---                              | ---                             | ---
+        [PKMN Trainer Dawn]<br>![][dawn] | ![][221]<br>[Piloswine]<br>Lv. 29 | ![][036]<br>[Clefable]<br>Lv. 29 | ![][428]<br>[Lopunny]<br>Lv. 29 | ![][391]<br>[Monferno]<br>Lv. 30
+
 
 ## PKMN Trainer Dawn
 
-!!! note
-    This Team changes depending on your Starter
+=== "Grass"
+    ![][dawn]                         | Item                              | Nature | Ability      | Moves
+    ---                               | ---                               | ---    | ---          | ---
+    ![][221]<br>[Piloswine]<br>Lv. 29 | ![][focus-sash]<br>Focus Sash     | ?      | Thick Fat    | <ul><li>Avalanche</li><li>Take Down</li><li>Rock Slide</li><li>Ice Shard</li></ul>
+    ![][036]<br>[Clefable]<br>Lv. 29  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | <ul><li>Moonblast</li><li>Moonlight</li><li>Encore</li><li>Thunder Wave</li></ul>
+    ![][428]<br>[Lopunny]<br>Lv. 29   | ![][muscle-band]<br>Muscle Band   | ?      | Scrappy [^1] | <ul><li>Dizzy Punch</li><li>Fake Out</li><li>Jump Kick</li><li>Quick Attack</li></ul>
+    ![][394]<br>[Prinplup]<br>Lv. 30  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent      | <ul><li>Bubble Beam</li><li>Icy Wind</li><li>Brick Break</li><li>Shadow Claw</li></ul>
 
-![][dawn]                         | Item                              | Nature | Ability      | Moves
----                               | ---                               | ---    | ---          | ---
-![][221]<br>[Piloswine]<br>Lv. 29 | ![][focus-sash]<br>Focus Sash     | ?      | Thick Fat    | Avalanche, Take Down, Rock Slide, Ice Shard
-![][036]<br>[Clefable]<br>Lv. 29  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | Moonblast, Moonlight, Encore, Thunder Wave
-![][428]<br>[Lopunny]<br>Lv. 29   | ![][muscle-band]<br>Muscle Band   | ?      | Scrappy [^1] | Dizzy Punch, Fake Out, Jump Kick, Quick Attack
-![][388]<br>[Grotle]<br>Lv. 30    | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | Seed Bomb, Body Slam, Leech Seed, Sand Tomb
-![][391]<br>[Monferno]<br>Lv. 30  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist    | Flamethrower, Fake Out, Mach Punch, Grass Knot
-![][394]<br>[Prinplup]<br>Lv. 30  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent      | Bubble Beam, Icy Wind, Brick Break, Shadow Claw
+=== "Fire"
+    ![][dawn]                         | Item                              | Nature | Ability      | Moves
+    ---                               | ---                               | ---    | ---          | ---
+    ![][221]<br>[Piloswine]<br>Lv. 29 | ![][focus-sash]<br>Focus Sash     | ?      | Thick Fat    | <ul><li>Avalanche</li><li>Take Down</li><li>Rock Slide</li><li>Ice Shard</li></ul>
+    ![][036]<br>[Clefable]<br>Lv. 29  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | <ul><li>Moonblast</li><li>Moonlight</li><li>Encore</li><li>Thunder Wave</li></ul>
+    ![][428]<br>[Lopunny]<br>Lv. 29   | ![][muscle-band]<br>Muscle Band   | ?      | Scrappy [^1] | <ul><li>Dizzy Punch</li><li>Fake Out</li><li>Jump Kick</li><li>Quick Attack</li></ul>
+    ![][388]<br>[Grotle]<br>Lv. 30    | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | <ul><li>Seed Bomb</li><li>Body Slam</li><li>Leech Seed</li><li>Sand Tomb</li></ul>
+
+=== "Water"
+    ![][dawn]                         | Item                              | Nature | Ability      | Moves
+    ---                               | ---                               | ---    | ---          | ---
+    ![][221]<br>[Piloswine]<br>Lv. 29 | ![][focus-sash]<br>Focus Sash     | ?      | Thick Fat    | <ul><li>Avalanche</li><li>Take Down</li><li>Rock Slide</li><li>Ice Shard</li></ul>
+    ![][036]<br>[Clefable]<br>Lv. 29  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | <ul><li>Moonblast</li><li>Moonlight</li><li>Encore</li><li>Thunder Wave</li></ul>
+    ![][428]<br>[Lopunny]<br>Lv. 29   | ![][muscle-band]<br>Muscle Band   | ?      | Scrappy [^1] | <ul><li>Dizzy Punch</li><li>Fake Out</li><li>Jump Kick</li><li>Quick Attack</li></ul>
+    ![][391]<br>[Monferno]<br>Lv. 30  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist    | <ul><li>Flamethrower</li><li>Fake Out</li><li>Mach Punch</li><li>Grass Knot</li></ul>
 
 ## PKMN Trainer Lucas
 
-!!! note
-    This Team changes depending on your Starter
+=== "Grass"
+    ![][lucas]                         | Item                              | Nature | Ability    | Moves
+    ---                                | ---                               | ---    | ---        | ---
+    ![][221]<br>[Piloswine]<br>Lv. 29  | ![][focus-sash]<br>Focus Sash     | ?      | Thick Fat  | <ul><li>Avalanche</li><li>Take Down</li><li>Rock Slide</li><li>Ice Shard</li></ul>
+    ![][210]<br>[Granbull]<br>Lv. 29   | ![][muscle-band]<br>Muscle Band   | ?      | Intimidate | <ul><li>Play Rough</li><li>Fire Fang</li><li>Thunder Fang</li><li>Ice Fang</li></ul>
+    ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo  | <ul><li>Slam</li><li>Magnitude</li><li>Knock Off</li><li>Protect</li></ul>
+    ![][394]<br>[Prinplup]<br>Lv. 30   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent    | <ul><li>Bubble Beam</li><li>Icy Wind</li><li>Brick Break</li><li>Shadow Claw</li></ul>
 
-![][lucas]                         | Item                              | Nature | Ability    | Moves
----                                | ---                               | ---    | ---        | ---
-![][221]<br>[Piloswine]<br>Lv. 29  | ![][focus-sash]<br>Focus Sash     | ?      | Thick Fat  | Avalanche, Take Down, Rock Slide, Ice Shard
-![][210]<br>[Granbull]<br>Lv. 29   | ![][muscle-band]<br>Muscle Band   | ?      | Intimidate | Play Rough, Fire Fang, Thunder Fang, Ice Fang
-![][463]<br>[Lickilicky]<br>Lv. 29 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo  | Slam, Magnitude, Knock Off, Protect
-![][388]<br>[Grotle]<br>Lv. 30     | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow   | Seed Bomb, Body Slam, Leech Seed, Sand Tomb
-![][391]<br>[Monferno]<br>Lv. 30   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist  | Flamethrower, Fake Out, Mach Punch, Grass Knot
-![][394]<br>[Prinplup]<br>Lv. 30   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent    | Bubble Beam, Icy Wind, Brick Break, Shadow Claw
+=== "Fire"
+    ![][lucas]                         | Item                              | Nature | Ability    | Moves
+    ---                                | ---                               | ---    | ---        | ---
+    ![][221]<br>[Piloswine]<br>Lv. 29  | ![][focus-sash]<br>Focus Sash     | ?      | Thick Fat  | <ul><li>Avalanche</li><li>Take Down</li><li>Rock Slide</li><li>Ice Shard</li></ul>
+    ![][210]<br>[Granbull]<br>Lv. 29   | ![][muscle-band]<br>Muscle Band   | ?      | Intimidate | <ul><li>Play Rough</li><li>Fire Fang</li><li>Thunder Fang</li><li>Ice Fang</li></ul>
+    ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo  | <ul><li>Slam</li><li>Magnitude</li><li>Knock Off</li><li>Protect</li></ul>
+    ![][388]<br>[Grotle]<br>Lv. 30     | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow   | <ul><li>Seed Bomb</li><li>Body Slam</li><li>Leech Seed</li><li>Sand Tomb</li></ul>
+
+=== "Water"
+    ![][lucas]                         | Item                              | Nature | Ability    | Moves
+    ---                                | ---                               | ---    | ---        | ---
+    ![][221]<br>[Piloswine]<br>Lv. 29  | ![][focus-sash]<br>Focus Sash     | ?      | Thick Fat  | <ul><li>Avalanche</li><li>Take Down</li><li>Rock Slide</li><li>Ice Shard</li></ul>
+    ![][210]<br>[Granbull]<br>Lv. 29   | ![][muscle-band]<br>Muscle Band   | ?      | Intimidate | <ul><li>Play Rough</li><li>Fire Fang</li><li>Thunder Fang</li><li>Ice Fang</li></ul>
+    ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo  | <ul><li>Slam</li><li>Magnitude</li><li>Knock Off</li><li>Protect</li></ul>
+    ![][391]<br>[Monferno]<br>Lv. 30   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist  | <ul><li>Flamethrower</li><li>Fake Out</li><li>Mach Punch</li><li>Grass Knot</li></ul>
 
 ## Rematches
 
@@ -59,7 +105,7 @@ Battle Girl Helen :material-alpha-c-circle-outline:   | ![][237]<br>[Hitmontop]<
 
 Hiker ???<br>![][hiker]           | Item | Nature | Ability | Moves
 ---                               | ---  | ---    | ---     | ---
-![][464]<br>[Rhyperior]<br>Lv. 85 | None | ?      | ?       | Earthquake, Stone Edge, Megahorn, Hammer Arm
+![][464]<br>[Rhyperior]<br>Lv. 85 | None | ?      | ?       | <ul><li>Earthquake</li><li>Stone Edge</li><li>Megahorn</li><li>Hammer Arm</li></ul>
 
 --8<-- "includes/abilities.md"
 
@@ -70,31 +116,31 @@ Hiker ???<br>![][hiker]           | Item | Nature | Ability | Moves
 [^1]: Only in Complete version
 [PKMN Trainer Dawn]: #pkmn-trainer-dawn
 [PKMN Trainer Lucas]: #pkmn-trainer-lucas
-[Charmander]: ../../pokemon_changes/004/
-[Sandslash]: ../../pokemon_changes/028/
-[Clefable]: ../../pokemon_changes/036/
-[Graveler]: ../../pokemon_changes/075/
-[Dunsparce]: ../../pokemon_changes/206/
-[Gligar]: ../../pokemon_changes/207/
-[Snubbull]: ../../pokemon_changes/209/
-[Granbull]: ../../pokemon_changes/210/
-[Piloswine]: ../../pokemon_changes/221/
-[Tyrogue]: ../../pokemon_changes/236/
-[Hitmontop]: ../../pokemon_changes/237/
-[Smoochum]: ../../pokemon_changes/238/
-[Magby]: ../../pokemon_changes/240/
-[Treecko]: ../../pokemon_changes/252/
-[Lombre]: ../../pokemon_changes/271/
-[Hariyama]: ../../pokemon_changes/297/
-[Meditite]: ../../pokemon_changes/307/
-[Medicham]: ../../pokemon_changes/308/
-[Trapinch]: ../../pokemon_changes/328/
-[Grotle]: ../../pokemon_changes/388/
-[Monferno]: ../../pokemon_changes/391/
-[Prinplup]: ../../pokemon_changes/394/
-[Lopunny]: ../../pokemon_changes/428/
-[Lickilicky]: ../../pokemon_changes/463/
-[Rhyperior]: ../../pokemon_changes/464/
+[Charmander]: ../../pokemons/004/
+[Sandslash]: ../../pokemons/028/
+[Clefable]: ../../pokemons/036/
+[Graveler]: ../../pokemons/075/
+[Dunsparce]: ../../pokemons/206/
+[Gligar]: ../../pokemons/207/
+[Snubbull]: ../../pokemons/209/
+[Granbull]: ../../pokemons/210/
+[Piloswine]: ../../pokemons/221/
+[Tyrogue]: ../../pokemons/236/
+[Hitmontop]: ../../pokemons/237/
+[Smoochum]: ../../pokemons/238/
+[Magby]: ../../pokemons/240/
+[Treecko]: ../../pokemons/252/
+[Lombre]: ../../pokemons/271/
+[Hariyama]: ../../pokemons/297/
+[Meditite]: ../../pokemons/307/
+[Medicham]: ../../pokemons/308/
+[Trapinch]: ../../pokemons/328/
+[Grotle]: ../../pokemons/388/
+[Monferno]: ../../pokemons/391/
+[Prinplup]: ../../pokemons/394/
+[Lopunny]: ../../pokemons/428/
+[Lickilicky]: ../../pokemons/463/
+[Rhyperior]: ../../pokemons/464/
 [focus-sash]: ../img/items/focus-sash.png
 [leftovers]: ../img/items/leftovers.png
 [muscle-band]: ../img/items/muscle-band.png

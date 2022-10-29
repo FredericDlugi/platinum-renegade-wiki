@@ -13,10 +13,10 @@ Galactic Grunt                      | ![][229]<br>[Houndoom]<br>Lv. 43 | ![][042
 
 ![][cyrus]                        | Item                              | Nature | Ability         | Moves
 ---                               | ---                               | ---    | ---             | ---
-![][169]<br>[Crobat]<br>Lv. 45    | ![][wise-glasses]<br>Wise Glasses | ?      | Inner Focus     | Sludge Bomb, Air Slash, Giga Drain, Hypnosis
-![][430]<br>[Honchkrow]<br>Lv. 45 | ![][scope-lens]<br>Scope Lens     | ?      | Super Luck      | Brave Bird, Night Slash, Swagger, Torment
-![][462]<br>[Magnezone]<br>Lv. 45 | ![][life-orb]<br>Life Orb         | ?      | Magnet Pull     | Thunderbolt, Flash Cannon, Thunder Wave, Mirror Coat
-![][461]<br>[Weavile]<br>Lv. 46   | ![][expert-belt]<br>Expert Belt   | ?      | Technician [^1] | Feint Attack, Icicle Crash, Ice Shard, Swords Dance
+![][169]<br>[Crobat]<br>Lv. 45    | ![][wise-glasses]<br>Wise Glasses | ?      | Inner Focus     | <ul><li>Sludge Bomb</li><li>Air Slash</li><li>Giga Drain</li><li>Hypnosis</li></ul>
+![][430]<br>[Honchkrow]<br>Lv. 45 | ![][scope-lens]<br>Scope Lens     | ?      | Super Luck      | <ul><li>Brave Bird</li><li>Night Slash</li><li>Swagger</li><li>Torment</li></ul>
+![][462]<br>[Magnezone]<br>Lv. 45 | ![][life-orb]<br>Life Orb         | ?      | Magnet Pull     | <ul><li>Thunderbolt</li><li>Flash Cannon</li><li>Thunder Wave</li><li>Mirror Coat</li></ul>
+![][461]<br>[Weavile]<br>Lv. 46   | ![][expert-belt]<br>Expert Belt   | ?      | Technician [^1] | <ul><li>Feint Attack</li><li>Icicle Crash</li><li>Ice Shard</li><li>Swords Dance</li></ul>
 
 
 
@@ -24,7 +24,7 @@ Galactic Grunt                      | ![][229]<br>[Houndoom]<br>Lv. 43 | ![][042
 
 Ace Trainer Grayson<br>![][ace_m] | Item | Nature | Ability | Moves
 ---                               | ---  | ---    | ---     | ---
-![][445]<br>[Garchomp]<br>Lv. 85  | None | ?      | ?       | Outrage, Earthquake, -, -
+![][445]<br>[Garchomp]<br>Lv. 85  | None | ?      | ?       | <ul><li>Outrage</li><li>Earthquake</li><li>-</li><li>-</li></ul>
 
 --8<-- "includes/abilities.md"
 
@@ -34,14 +34,14 @@ Ace Trainer Grayson<br>![][ace_m] | Item | Nature | Ability | Moves
 
 [^1]: Only in Complete version
 [Galactic Boss Cyrus]: #galactic-boss-cyrus
-[Beedrill]: ../../pokemon_changes/015/
-[Golbat]: ../../pokemon_changes/042/
-[Crobat]: ../../pokemon_changes/169/
-[Houndoom]: ../../pokemon_changes/229/
-[Honchkrow]: ../../pokemon_changes/430/
-[Garchomp]: ../../pokemon_changes/445/
-[Weavile]: ../../pokemon_changes/461/
-[Magnezone]: ../../pokemon_changes/462/
+[Beedrill]: ../../pokemons/015/
+[Golbat]: ../../pokemons/042/
+[Crobat]: ../../pokemons/169/
+[Houndoom]: ../../pokemons/229/
+[Honchkrow]: ../../pokemons/430/
+[Garchomp]: ../../pokemons/445/
+[Weavile]: ../../pokemons/461/
+[Magnezone]: ../../pokemons/462/
 [expert-belt]: ../img/items/expert-belt.png
 [life-orb]: ../img/items/life-orb.png
 [scope-lens]: ../img/items/scope-lens.png

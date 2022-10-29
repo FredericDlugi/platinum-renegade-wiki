@@ -19,25 +19,25 @@ Area                                         | Pokémon                       | 
 ![][super-rod]<br>Super Rod<br>Lv. 50        | ![][130]<br>[Gyarados]<br>65% | ![][119]<br>[Seaking]<br>35%   | &nbsp;                       | &nbsp;                       | &nbsp;                          | &nbsp;
 ![][honey]<br>Honey Tree<br>Lv. 27           | ![][397]<br>[Staravia]<br>30% | ![][017]<br>[Pidgeotto]<br>20% | ![][164]<br>[Noctowl]<br>20% | ![][277]<br>[Swellow]<br>20% | ![][083]<br>[Farfetch'd]<br>10% | &nbsp;
 
-[Pidgeotto]: ../../pokemon_changes/017/
-[Vulpix]: ../../pokemon_changes/037/
-[Meowth]: ../../pokemon_changes/052/
-[Psyduck]: ../../pokemon_changes/054/
-[Golduck]: ../../pokemon_changes/055/
-[Farfetch'd]: ../../pokemon_changes/083/
-[Chansey]: ../../pokemon_changes/113/
-[Goldeen]: ../../pokemon_changes/118/
-[Seaking]: ../../pokemon_changes/119/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Noctowl]: ../../pokemon_changes/164/
-[Snubbull]: ../../pokemon_changes/209/
-[Swellow]: ../../pokemon_changes/277/
-[Staravia]: ../../pokemon_changes/397/
-[Glameow]: ../../pokemon_changes/431/
-[Purugly]: ../../pokemon_changes/432/
-[Bonsly]: ../../pokemon_changes/438/
-[Mime Jr.]: ../../pokemon_changes/439/
+[Pidgeotto]: ../../pokemons/017/
+[Vulpix]: ../../pokemons/037/
+[Meowth]: ../../pokemons/052/
+[Psyduck]: ../../pokemons/054/
+[Golduck]: ../../pokemons/055/
+[Farfetch'd]: ../../pokemons/083/
+[Chansey]: ../../pokemons/113/
+[Goldeen]: ../../pokemons/118/
+[Seaking]: ../../pokemons/119/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Noctowl]: ../../pokemons/164/
+[Snubbull]: ../../pokemons/209/
+[Swellow]: ../../pokemons/277/
+[Staravia]: ../../pokemons/397/
+[Glameow]: ../../pokemons/431/
+[Purugly]: ../../pokemons/432/
+[Bonsly]: ../../pokemons/438/
+[Mime Jr.]: ../../pokemons/439/
 [good-rod]: ../img/items/good-rod.png
 [honey]: ../img/items/honey.png
 [old-rod]: ../img/items/old-rod.png

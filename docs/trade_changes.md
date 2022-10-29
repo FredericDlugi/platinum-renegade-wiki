@@ -50,13 +50,13 @@ Item               | ![][starf-berry] Starf Berry
 IVs                | 31 HP / 31 Atk / 31 Def / 31 SAtk / 31 SDef / 31 Spd
 Nature             | Adamant
 
-[Ponyta]: ../pokemon_changes/077/
-[Magikarp]: ../pokemon_changes/129/
-[Snorunt]: ../pokemon_changes/361/
-[Spheal]: ../pokemon_changes/363/
-[Cherubi]: ../pokemon_changes/420/
-[Chatot]: ../pokemon_changes/441/
-[Skorupi]: ../pokemon_changes/451/
+[Ponyta]: ../pokemons/077/
+[Magikarp]: ../pokemons/129/
+[Snorunt]: ../pokemons/361/
+[Spheal]: ../pokemons/363/
+[Cherubi]: ../pokemons/420/
+[Chatot]: ../pokemons/441/
+[Skorupi]: ../pokemons/451/
 [never-melt-ice]: ./img/items/never-melt-ice.png
 [poison-barb]: ./img/items/poison-barb.png
 [sharp-beak]: ./img/items/sharp-beak.png

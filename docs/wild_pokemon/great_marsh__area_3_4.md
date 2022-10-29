@@ -10,20 +10,20 @@ Area                                  | Pokémon                       | &nbsp; 
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>60% | ![][339]<br>[Barboach]<br>30%  | ![][318]<br>[Carvanha]<br>10% | &nbsp;                         | &nbsp;                          | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>60% | ![][340]<br>[Whiscash]<br>30%  | ![][319]<br>[Sharpedo]<br>10% | &nbsp;                         | &nbsp;                          | &nbsp;
 
-[Parasect]: ../../pokemon_changes/047/
-[Exeggcute]: ../../pokemon_changes/102/
-[Kangaskhan]: ../../pokemon_changes/115/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Yanma]: ../../pokemon_changes/193/
-[Wooper]: ../../pokemon_changes/194/
-[Quagsire]: ../../pokemon_changes/195/
-[Carvanha]: ../../pokemon_changes/318/
-[Sharpedo]: ../../pokemon_changes/319/
-[Barboach]: ../../pokemon_changes/339/
-[Whiscash]: ../../pokemon_changes/340/
-[Croagunk]: ../../pokemon_changes/453/
-[Toxicroak]: ../../pokemon_changes/454/
+[Parasect]: ../../pokemons/047/
+[Exeggcute]: ../../pokemons/102/
+[Kangaskhan]: ../../pokemons/115/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Yanma]: ../../pokemons/193/
+[Wooper]: ../../pokemons/194/
+[Quagsire]: ../../pokemons/195/
+[Carvanha]: ../../pokemons/318/
+[Sharpedo]: ../../pokemons/319/
+[Barboach]: ../../pokemons/339/
+[Whiscash]: ../../pokemons/340/
+[Croagunk]: ../../pokemons/453/
+[Toxicroak]: ../../pokemons/454/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png

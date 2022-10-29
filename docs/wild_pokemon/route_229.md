@@ -17,21 +17,21 @@ Area                                  | Pokémon                          | &nbs
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>65%    | ![][118]<br>[Goldeen]<br>35%   | &nbsp;                       | &nbsp;                       | &nbsp;                        | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>65%    | ![][119]<br>[Seaking]<br>35%   | &nbsp;                       | &nbsp;                       | &nbsp;                        | &nbsp;
 
-[Venomoth]: ../../pokemon_changes/049/
-[Weepinbell]: ../../pokemon_changes/070/
-[Goldeen]: ../../pokemon_changes/118/
-[Seaking]: ../../pokemon_changes/119/
-[Scyther]: ../../pokemon_changes/123/
-[Pinsir]: ../../pokemon_changes/127/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Ledian]: ../../pokemon_changes/166/
-[Ariados]: ../../pokemon_changes/168/
-[Sunkern]: ../../pokemon_changes/191/
-[Masquerain]: ../../pokemon_changes/284/
-[Volbeat]: ../../pokemon_changes/313/
-[Illumise]: ../../pokemon_changes/314/
-[Roselia]: ../../pokemon_changes/315/
+[Venomoth]: ../../pokemons/049/
+[Weepinbell]: ../../pokemons/070/
+[Goldeen]: ../../pokemons/118/
+[Seaking]: ../../pokemons/119/
+[Scyther]: ../../pokemons/123/
+[Pinsir]: ../../pokemons/127/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Ledian]: ../../pokemons/166/
+[Ariados]: ../../pokemons/168/
+[Sunkern]: ../../pokemons/191/
+[Masquerain]: ../../pokemons/284/
+[Volbeat]: ../../pokemons/313/
+[Illumise]: ../../pokemons/314/
+[Roselia]: ../../pokemons/315/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png

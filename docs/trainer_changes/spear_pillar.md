@@ -16,33 +16,42 @@ Trainer                             | 1                              | 2        
 
 ### Barrys Teams
 
-Trainer                          | 1                                 | 2                                 | 3                               | 4                                 | 5                                | 6
----                              | ---                               | ---                               | ---                             | ---                               | ---                              | ---
-PKMN Trainer Barry<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 58 | ![][214]<br>[Heracross]<br>Lv. 58 | ![][143]<br>[Snorlax]<br>Lv. 58 | ![][184]<br>[Azumarill]<br>Lv. 58 | ![][059]<br>[Arcanine]<br>Lv. 58 | ![][389]<br>[Torterra]<br>Lv. 59
-PKMN Trainer Barry<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 58 | ![][214]<br>[Heracross]<br>Lv. 58 | ![][143]<br>[Snorlax]<br>Lv. 58 | ![][184]<br>[Azumarill]<br>Lv. 58 | ![][286]<br>[Breloom]<br>Lv. 58  | ![][392]<br>[Infernape]<br>Lv. 59
-PKMN Trainer Barry<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 58 | ![][214]<br>[Heracross]<br>Lv. 58 | ![][143]<br>[Snorlax]<br>Lv. 58 | ![][286]<br>[Breloom]<br>Lv. 58   | ![][059]<br>[Arcanine]<br>Lv. 58 | ![][395]<br>[Empoleon]<br>Lv. 59
+=== "Grass"
+    Trainer                          | 1                                 | 2                                 | 3                               | 4                                 | 5                               | 6
+    ---                              | ---                               | ---                               | ---                             | ---                               | ---                             | ---
+    PKMN Trainer Barry<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 58 | ![][214]<br>[Heracross]<br>Lv. 58 | ![][143]<br>[Snorlax]<br>Lv. 58 | ![][184]<br>[Azumarill]<br>Lv. 58 | ![][286]<br>[Breloom]<br>Lv. 58 | ![][392]<br>[Infernape]<br>Lv. 59
+
+=== "Fire"
+    Trainer                          | 1                                 | 2                                 | 3                               | 4                               | 5                                | 6
+    ---                              | ---                               | ---                               | ---                             | ---                             | ---                              | ---
+    PKMN Trainer Barry<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 58 | ![][214]<br>[Heracross]<br>Lv. 58 | ![][143]<br>[Snorlax]<br>Lv. 58 | ![][286]<br>[Breloom]<br>Lv. 58 | ![][059]<br>[Arcanine]<br>Lv. 58 | ![][395]<br>[Empoleon]<br>Lv. 59
+
+=== "Water"
+    Trainer                          | 1                                 | 2                                 | 3                               | 4                                 | 5                                | 6
+    ---                              | ---                               | ---                               | ---                             | ---                               | ---                              | ---
+    PKMN Trainer Barry<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 58 | ![][214]<br>[Heracross]<br>Lv. 58 | ![][143]<br>[Snorlax]<br>Lv. 58 | ![][184]<br>[Azumarill]<br>Lv. 58 | ![][059]<br>[Arcanine]<br>Lv. 58 | ![][389]<br>[Torterra]<br>Lv. 59
 
 ## Commander Mars
 
 ![][mars]                          | Item                              | Nature | Ability     | Moves
 ---                                | ---                               | ---    | ---         | ---
-![][169]<br>[Crobat]<br>Lv. 57     | ![][life-orb]<br>Life Orb         | ?      | Inner Focus | Brave Bird, Sludge Bomb, Confuse Ray, Torment
-![][469]<br>[Yanmega]<br>Lv. 57    | ![][wise-glasses]<br>Wise Glasses | ?      | Speed Boost | Bug Buzz, Hurricane, Shadow Ball, Detect
-![][437]<br>[Bronzong]<br>Lv. 57   | ![][leftovers]<br>Leftovers       | ?      | Levitate    | Stealth Rock, Zen Headbutt, Gyro Ball, Earthquake
-![][466]<br>[Electivire]<br>Lv. 57 | ![][expert-belt]<br>Expert Belt   | ?      | Motor Drive | Thunder Punch, Ice Punch, Cross Chop, Fire Punch
-![][115]<br>[Kangaskhan]<br>Lv. 57 | ![][muscle-band]<br>Muscle Band   | ?      | Scrappy     | Body Slam, Crunch, Hammer Arm, Fake Out
-![][432]<br>[Purugly]<br>Lv. 58    | ![][sitrus-berry]<br>Sitrus Berry | ?      | Thick Fat   | Body Slam, Play Rough, Fake Out, Hypnosis
+![][169]<br>[Crobat]<br>Lv. 57     | ![][life-orb]<br>Life Orb         | ?      | Inner Focus | <ul><li>Brave Bird</li><li>Sludge Bomb</li><li>Confuse Ray</li><li>Torment</li></ul>
+![][469]<br>[Yanmega]<br>Lv. 57    | ![][wise-glasses]<br>Wise Glasses | ?      | Speed Boost | <ul><li>Bug Buzz</li><li>Hurricane</li><li>Shadow Ball</li><li>Detect</li></ul>
+![][437]<br>[Bronzong]<br>Lv. 57   | ![][leftovers]<br>Leftovers       | ?      | Levitate    | <ul><li>Stealth Rock</li><li>Zen Headbutt</li><li>Gyro Ball</li><li>Earthquake</li></ul>
+![][466]<br>[Electivire]<br>Lv. 57 | ![][expert-belt]<br>Expert Belt   | ?      | Motor Drive | <ul><li>Thunder Punch</li><li>Ice Punch</li><li>Cross Chop</li><li>Fire Punch</li></ul>
+![][115]<br>[Kangaskhan]<br>Lv. 57 | ![][muscle-band]<br>Muscle Band   | ?      | Scrappy     | <ul><li>Body Slam</li><li>Crunch</li><li>Hammer Arm</li><li>Fake Out</li></ul>
+![][432]<br>[Purugly]<br>Lv. 58    | ![][sitrus-berry]<br>Sitrus Berry | ?      | Thick Fat   | <ul><li>Body Slam</li><li>Play Rough</li><li>Fake Out</li><li>Hypnosis</li></ul>
 
 ## Commander Jupiter
 
 ![][jupiter]                      | Item                                | Nature | Ability          | Moves
 ---                               | ---                                 | ---    | ---              | ---
-![][169]<br>[Crobat]<br>Lv. 57    | ![][bright-powder]<br>Bright Powder | ?      | Inner Focus      | Brave Bird, Sludge Bomb, Double Team, Hypnosis
-![][302]<br>[Sableye]<br>Lv. 57   | ![][muscle-band]<br>Muscle Band     | ?      | Magic Guard [^1] | Shadow Claw, Sucker Punch, Zen Headbutt, Fake Out
-![][437]<br>[Bronzong]<br>Lv. 57  | ![][leftovers]<br>Leftovers         | ?      | Levitate         | Swagger, Psychic, Flash Cannon, Grass Knot
-![][465]<br>[Tangrowth]<br>Lv. 57 | ![][big-root]<br>Big Root           | ?      | Chlorophyll      | Giga Drain, Leech Seed, Focus Blast, Sludge Bomb
-![][423]<br>[Gastrodon]<br>Lv. 57 | ![][wise-glasses]<br>Wise Glasses   | ?      | Sticky Hold      | Muddy Water, Earth Power, Ice Beam, Recover
-![][435]<br>[Skuntank]<br>Lv. 58  | ![][sitrus-berry]<br>Sitrus Berry   | ?      | Aftermath        | Gunk Shot, Crunch, Play Rough, Toxic
+![][169]<br>[Crobat]<br>Lv. 57    | ![][bright-powder]<br>Bright Powder | ?      | Inner Focus      | <ul><li>Brave Bird</li><li>Sludge Bomb</li><li>Double Team</li><li>Hypnosis</li></ul>
+![][302]<br>[Sableye]<br>Lv. 57   | ![][muscle-band]<br>Muscle Band     | ?      | Magic Guard [^1] | <ul><li>Shadow Claw</li><li>Sucker Punch</li><li>Zen Headbutt</li><li>Fake Out</li></ul>
+![][437]<br>[Bronzong]<br>Lv. 57  | ![][leftovers]<br>Leftovers         | ?      | Levitate         | <ul><li>Swagger</li><li>Psychic</li><li>Flash Cannon</li><li>Grass Knot</li></ul>
+![][465]<br>[Tangrowth]<br>Lv. 57 | ![][big-root]<br>Big Root           | ?      | Chlorophyll      | <ul><li>Giga Drain</li><li>Leech Seed</li><li>Focus Blast</li><li>Sludge Bomb</li></ul>
+![][423]<br>[Gastrodon]<br>Lv. 57 | ![][wise-glasses]<br>Wise Glasses   | ?      | Sticky Hold      | <ul><li>Muddy Water</li><li>Earth Power</li><li>Ice Beam</li><li>Recover</li></ul>
+![][435]<br>[Skuntank]<br>Lv. 58  | ![][sitrus-berry]<br>Sitrus Berry   | ?      | Aftermath        | <ul><li>Gunk Shot</li><li>Crunch</li><li>Play Rough</li><li>Toxic</li></ul>
 
 --8<-- "includes/abilities.md"
 
@@ -53,31 +62,31 @@ PKMN Trainer Barry<br>![][barry] | ![][398]<br>[Staraptor]<br>Lv. 58 | ![][214]<
 [^1]: Only in Complete version
 [Commander Mars]: #commander-mars
 [Commander Jupiter]: #commander-jupiter
-[Golbat]: ../../pokemon_changes/042/
-[Venomoth]: ../../pokemon_changes/049/
-[Persian]: ../../pokemon_changes/053/
-[Arcanine]: ../../pokemon_changes/059/
-[Hypno]: ../../pokemon_changes/097/
-[Kangaskhan]: ../../pokemon_changes/115/
-[Snorlax]: ../../pokemon_changes/143/
-[Crobat]: ../../pokemon_changes/169/
-[Azumarill]: ../../pokemon_changes/184/
-[Heracross]: ../../pokemon_changes/214/
-[Beautifly]: ../../pokemon_changes/267/
-[Breloom]: ../../pokemon_changes/286/
-[Sableye]: ../../pokemon_changes/302/
-[Torterra]: ../../pokemon_changes/389/
-[Infernape]: ../../pokemon_changes/392/
-[Empoleon]: ../../pokemon_changes/395/
-[Staraptor]: ../../pokemon_changes/398/
-[Gastrodon]: ../../pokemon_changes/423/
-[Purugly]: ../../pokemon_changes/432/
-[Skuntank]: ../../pokemon_changes/435/
-[Bronzong]: ../../pokemon_changes/437/
-[Toxicroak]: ../../pokemon_changes/454/
-[Tangrowth]: ../../pokemon_changes/465/
-[Electivire]: ../../pokemon_changes/466/
-[Yanmega]: ../../pokemon_changes/469/
+[Golbat]: ../../pokemons/042/
+[Venomoth]: ../../pokemons/049/
+[Persian]: ../../pokemons/053/
+[Arcanine]: ../../pokemons/059/
+[Hypno]: ../../pokemons/097/
+[Kangaskhan]: ../../pokemons/115/
+[Snorlax]: ../../pokemons/143/
+[Crobat]: ../../pokemons/169/
+[Azumarill]: ../../pokemons/184/
+[Heracross]: ../../pokemons/214/
+[Beautifly]: ../../pokemons/267/
+[Breloom]: ../../pokemons/286/
+[Sableye]: ../../pokemons/302/
+[Torterra]: ../../pokemons/389/
+[Infernape]: ../../pokemons/392/
+[Empoleon]: ../../pokemons/395/
+[Staraptor]: ../../pokemons/398/
+[Gastrodon]: ../../pokemons/423/
+[Purugly]: ../../pokemons/432/
+[Skuntank]: ../../pokemons/435/
+[Bronzong]: ../../pokemons/437/
+[Toxicroak]: ../../pokemons/454/
+[Tangrowth]: ../../pokemons/465/
+[Electivire]: ../../pokemons/466/
+[Yanmega]: ../../pokemons/469/
 [big-root]: ../img/items/big-root.png
 [bright-powder]: ../img/items/bright-powder.png
 [expert-belt]: ../img/items/expert-belt.png

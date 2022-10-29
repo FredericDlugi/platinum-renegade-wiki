@@ -13,18 +13,18 @@ Area                                         | Pokémon                      | &
 &nbsp;                                       | ![][043]<br>[Oddish]<br>10%  | ![][167]<br>[Spinarak]<br>10% | &nbsp;                          | &nbsp;                     | &nbsp;                        | &nbsp;
 ![][poke-radar]<br>Poké Radar<br>Lv. 11 - 12 | ![][315]<br>[Roselia]<br>22% | &nbsp;                        | &nbsp;                          | &nbsp;                     | &nbsp;                        | &nbsp;
 
-[Caterpie]: ../../pokemon_changes/010/
-[Weedle]: ../../pokemon_changes/013/
-[Oddish]: ../../pokemon_changes/043/
-[Bellsprout]: ../../pokemon_changes/069/
-[Ledyba]: ../../pokemon_changes/165/
-[Spinarak]: ../../pokemon_changes/167/
-[Sunkern]: ../../pokemon_changes/191/
-[Wurmple]: ../../pokemon_changes/265/
-[Ralts]: ../../pokemon_changes/280/
-[Roselia]: ../../pokemon_changes/315/
-[Starly]: ../../pokemon_changes/396/
-[Budew]: ../../pokemon_changes/406/
+[Caterpie]: ../../pokemons/010/
+[Weedle]: ../../pokemons/013/
+[Oddish]: ../../pokemons/043/
+[Bellsprout]: ../../pokemons/069/
+[Ledyba]: ../../pokemons/165/
+[Spinarak]: ../../pokemons/167/
+[Sunkern]: ../../pokemons/191/
+[Wurmple]: ../../pokemons/265/
+[Ralts]: ../../pokemons/280/
+[Roselia]: ../../pokemons/315/
+[Starly]: ../../pokemons/396/
+[Budew]: ../../pokemons/406/
 [poke-radar]: ../img/items/poke-radar.png
 [010]: ../img/pokemon/010.png
 [013]: ../img/pokemon/013.png

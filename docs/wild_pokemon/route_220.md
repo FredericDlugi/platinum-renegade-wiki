@@ -11,14 +11,14 @@ Area                                  | Pokémon                      | &nbsp;  
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][370]<br>[Luvdisc]<br>60% | ![][116]<br>[Horsea]<br>30%  | ![][222]<br>[Corsola]<br>10% | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][370]<br>[Luvdisc]<br>60% | ![][117]<br>[Seadra]<br>30%  | ![][222]<br>[Corsola]<br>10% | &nbsp;
 
-[Horsea]: ../../pokemon_changes/116/
-[Seadra]: ../../pokemon_changes/117/
-[Corsola]: ../../pokemon_changes/222/
-[Mantine]: ../../pokemon_changes/226/
-[Wingull]: ../../pokemon_changes/278/
-[Pelipper]: ../../pokemon_changes/279/
-[Luvdisc]: ../../pokemon_changes/370/
-[Mantyke]: ../../pokemon_changes/458/
+[Horsea]: ../../pokemons/116/
+[Seadra]: ../../pokemons/117/
+[Corsola]: ../../pokemons/222/
+[Mantine]: ../../pokemons/226/
+[Wingull]: ../../pokemons/278/
+[Pelipper]: ../../pokemons/279/
+[Luvdisc]: ../../pokemons/370/
+[Mantyke]: ../../pokemons/458/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png

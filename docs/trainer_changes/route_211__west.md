@@ -18,17 +18,17 @@ Ninja Boy Zach :material-numeric-5-circle-outline: | ![][042]<br>[Golbat]<br>Lv.
 Ninja Boy Zach :material-numeric-8-circle-outline: | ![][169]<br>[Crobat]<br>Lv. 59 | ![][452]<br>[Drapion]<br>Lv. 59 | ![][169]<br>[Crobat]<br>Lv. 59
 Ninja Boy Zach :material-alpha-c-circle-outline:   | ![][169]<br>[Crobat]<br>Lv. 70 | ![][452]<br>[Drapion]<br>Lv. 70 | ![][169]<br>[Crobat]<br>Lv. 70
 
-[Zubat]: ../../pokemon_changes/041/
-[Golbat]: ../../pokemon_changes/042/
-[Geodude]: ../../pokemon_changes/074/
-[Crobat]: ../../pokemon_changes/169/
-[Natu]: ../../pokemon_changes/177/
-[Slugma]: ../../pokemon_changes/218/
-[Swablu]: ../../pokemon_changes/333/
-[Beldum]: ../../pokemon_changes/374/
-[Staravia]: ../../pokemon_changes/397/
-[Skorupi]: ../../pokemon_changes/451/
-[Drapion]: ../../pokemon_changes/452/
+[Zubat]: ../../pokemons/041/
+[Golbat]: ../../pokemons/042/
+[Geodude]: ../../pokemons/074/
+[Crobat]: ../../pokemons/169/
+[Natu]: ../../pokemons/177/
+[Slugma]: ../../pokemons/218/
+[Swablu]: ../../pokemons/333/
+[Beldum]: ../../pokemons/374/
+[Staravia]: ../../pokemons/397/
+[Skorupi]: ../../pokemons/451/
+[Drapion]: ../../pokemons/452/
 [041]: ../img/pokemon/041.png
 [042]: ../img/pokemon/042.png
 [074]: ../img/pokemon/074.png

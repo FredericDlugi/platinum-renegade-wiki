@@ -13,15 +13,15 @@ Area                                       | Pokémon                       | &n
 &nbsp;                                     | ![][412]<br>[Burmy]<br>10%    | &nbsp;                         | &nbsp;                        | &nbsp;                       | &nbsp;                         | &nbsp;
 ![][poke-radar]<br>Poké Radar<br>Lv. 5 - 6 | ![][228]<br>[Houndour]<br>22% | &nbsp;                         | &nbsp;                        | &nbsp;                       | &nbsp;                         | &nbsp;
 
-[Rattata]: ../../pokemon_changes/019/
-[Growlithe]: ../../pokemon_changes/058/
-[Sentret]: ../../pokemon_changes/161/
-[Hoothoot]: ../../pokemon_changes/163/
-[Houndour]: ../../pokemon_changes/228/
-[Poochyena]: ../../pokemon_changes/261/
-[Zigzagoon]: ../../pokemon_changes/263/
-[Shinx]: ../../pokemon_changes/403/
-[Burmy]: ../../pokemon_changes/412/
+[Rattata]: ../../pokemons/019/
+[Growlithe]: ../../pokemons/058/
+[Sentret]: ../../pokemons/161/
+[Hoothoot]: ../../pokemons/163/
+[Houndour]: ../../pokemons/228/
+[Poochyena]: ../../pokemons/261/
+[Zigzagoon]: ../../pokemons/263/
+[Shinx]: ../../pokemons/403/
+[Burmy]: ../../pokemons/412/
 [poke-radar]: ../img/items/poke-radar.png
 [019]: ../img/pokemon/019.png
 [058]: ../img/pokemon/058.png

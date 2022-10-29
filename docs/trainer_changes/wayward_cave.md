@@ -18,10 +18,10 @@ Ruin Maniac Gerald               | ![][104]<br>[Cubone]<br>Lv. 25   | ![][476]<b
 
 ![][mira]                        | Item                              | Nature | Ability      | Moves
 ---                              | ---                               | ---    | ---          | ---
-![][176]<br>[Togetic]<br>Lv. 27  | ![][sitrus-berry]<br>Sitrus Berry | Modest | Serene Grace | Dazzling Gleam, Air Cutter, Soft-Boiled, Sweet Kiss
-![][093]<br>[Haunter]<br>Lv. 27  | ![][spell-tag]<br>Spell Tag       | Hasty  | Levitate     | Shadow Ball, Double Team, Hypnosis, Curse
-![][233]<br>[Porygon2]<br>Lv. 27 | ![][expert-belt]<br>Expert Belt   | Calm   | Trace        | Tri Attack, Charge Beam, Signal Beam, Recover
-![][064]<br>[Kadabra]<br>Lv. 28  | ![][life-orb]<br>Life Orb         | Modest | Magic Guard  | Psybeam, Grass Knot, Dazzling Gleam, Recover
+![][176]<br>[Togetic]<br>Lv. 27  | ![][sitrus-berry]<br>Sitrus Berry | Modest | Serene Grace | <ul><li>Dazzling Gleam</li><li>Air Cutter</li><li>Soft-Boiled</li><li>Sweet Kiss</li></ul>
+![][093]<br>[Haunter]<br>Lv. 27  | ![][spell-tag]<br>Spell Tag       | Hasty  | Levitate     | <ul><li>Shadow Ball</li><li>Double Team</li><li>Hypnosis</li><li>Curse</li></ul>
+![][233]<br>[Porygon2]<br>Lv. 27 | ![][expert-belt]<br>Expert Belt   | Calm   | Trace        | <ul><li>Tri Attack</li><li>Charge Beam</li><li>Signal Beam</li><li>Recover</li></ul>
+![][064]<br>[Kadabra]<br>Lv. 28  | ![][life-orb]<br>Life Orb         | Modest | Magic Guard  | <ul><li>Psybeam</li><li>Grass Knot</li><li>Dazzling Gleam</li><li>Recover</li></ul>
 
 --8<-- "includes/abilities.md"
 
@@ -30,31 +30,31 @@ Ruin Maniac Gerald               | ![][104]<br>[Cubone]<br>Lv. 25   | ![][476]<b
 --8<-- "includes/natures.md"
 
 [PKMN Trainer Mira]: #pkmn-trainer-mira
-[Raticate]: ../../pokemon_changes/020/
-[Nidorina]: ../../pokemon_changes/030/
-[Nidorino]: ../../pokemon_changes/033/
-[Dugtrio]: ../../pokemon_changes/051/
-[Meowth]: ../../pokemon_changes/052/
-[Psyduck]: ../../pokemon_changes/054/
-[Kadabra]: ../../pokemon_changes/064/
-[Haunter]: ../../pokemon_changes/093/
-[Cubone]: ../../pokemon_changes/104/
-[Rhyhorn]: ../../pokemon_changes/111/
-[Eevee]: ../../pokemon_changes/133/
-[Furret]: ../../pokemon_changes/162/
-[Togetic]: ../../pokemon_changes/176/
-[Sudowoodo]: ../../pokemon_changes/185/
-[Aipom]: ../../pokemon_changes/190/
-[Porygon2]: ../../pokemon_changes/233/
-[Linoone]: ../../pokemon_changes/264/
-[Loudred]: ../../pokemon_changes/294/
-[Skitty]: ../../pokemon_changes/300/
-[Volbeat]: ../../pokemon_changes/313/
-[Illumise]: ../../pokemon_changes/314/
-[Bagon]: ../../pokemon_changes/371/
-[Gible]: ../../pokemon_changes/443/
-[Gabite]: ../../pokemon_changes/444/
-[Probopass]: ../../pokemon_changes/476/
+[Raticate]: ../../pokemons/020/
+[Nidorina]: ../../pokemons/030/
+[Nidorino]: ../../pokemons/033/
+[Dugtrio]: ../../pokemons/051/
+[Meowth]: ../../pokemons/052/
+[Psyduck]: ../../pokemons/054/
+[Kadabra]: ../../pokemons/064/
+[Haunter]: ../../pokemons/093/
+[Cubone]: ../../pokemons/104/
+[Rhyhorn]: ../../pokemons/111/
+[Eevee]: ../../pokemons/133/
+[Furret]: ../../pokemons/162/
+[Togetic]: ../../pokemons/176/
+[Sudowoodo]: ../../pokemons/185/
+[Aipom]: ../../pokemons/190/
+[Porygon2]: ../../pokemons/233/
+[Linoone]: ../../pokemons/264/
+[Loudred]: ../../pokemons/294/
+[Skitty]: ../../pokemons/300/
+[Volbeat]: ../../pokemons/313/
+[Illumise]: ../../pokemons/314/
+[Bagon]: ../../pokemons/371/
+[Gible]: ../../pokemons/443/
+[Gabite]: ../../pokemons/444/
+[Probopass]: ../../pokemons/476/
 [expert-belt]: ../img/items/expert-belt.png
 [life-orb]: ../img/items/life-orb.png
 [sitrus-berry]: ../img/items/sitrus-berry.png

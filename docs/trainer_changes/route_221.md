@@ -21,21 +21,21 @@ Ace Trainer Shannon :material-alpha-c-circle-outline: | ![][045]<br>[Vileplume]<
 Ace Trainer Jake :material-alpha-c-circle-outline:    | ![][344]<br>[Claydol]<br>Lv. 72   | ![][006]<br>[Charizard]<br>Lv. 72 | ![][103]<br>[Exeggutor]<br>Lv. 72 | ![][359]<br>[Absol]<br>Lv. 72
 Collector Ivan :material-alpha-c-circle-outline:      | ![][468]<br>[Togekiss]<br>Lv. 72  | ![][242]<br>[Blissey]<br>Lv. 72   | &nbsp;                            | &nbsp;
 
-[Charizard]: ../../pokemon_changes/006/
-[Nidoqueen]: ../../pokemon_changes/031/
-[Vileplume]: ../../pokemon_changes/045/
-[Kingler]: ../../pokemon_changes/099/
-[Exeggutor]: ../../pokemon_changes/103/
-[Gyarados]: ../../pokemon_changes/130/
-[Blissey]: ../../pokemon_changes/242/
-[Swampert]: ../../pokemon_changes/260/
-[Gardevoir]: ../../pokemon_changes/282/
-[Whiscash]: ../../pokemon_changes/340/
-[Claydol]: ../../pokemon_changes/344/
-[Milotic]: ../../pokemon_changes/350/
-[Absol]: ../../pokemon_changes/359/
-[Lopunny]: ../../pokemon_changes/428/
-[Togekiss]: ../../pokemon_changes/468/
+[Charizard]: ../../pokemons/006/
+[Nidoqueen]: ../../pokemons/031/
+[Vileplume]: ../../pokemons/045/
+[Kingler]: ../../pokemons/099/
+[Exeggutor]: ../../pokemons/103/
+[Gyarados]: ../../pokemons/130/
+[Blissey]: ../../pokemons/242/
+[Swampert]: ../../pokemons/260/
+[Gardevoir]: ../../pokemons/282/
+[Whiscash]: ../../pokemons/340/
+[Claydol]: ../../pokemons/344/
+[Milotic]: ../../pokemons/350/
+[Absol]: ../../pokemons/359/
+[Lopunny]: ../../pokemons/428/
+[Togekiss]: ../../pokemons/468/
 [006]: ../img/pokemon/006.png
 [031]: ../img/pokemon/031.png
 [045]: ../img/pokemon/045.png

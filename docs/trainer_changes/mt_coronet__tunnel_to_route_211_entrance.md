@@ -10,12 +10,12 @@ Galactic Grunt | ![][042]<br>[Golbat]<br>Lv. 56     | &nbsp;                    
 Galactic Grunt | ![][198]<br>[Murkrow]<br>Lv. 54    | ![][262]<br>[Mightyena]<br>Lv. 54 | ![][215]<br>[Sneasel]<br>Lv. 54
 Galactic Grunt | ![][284]<br>[Masquerain]<br>Lv. 55 | ![][089]<br>[Muk]<br>Lv. 55       | &nbsp;
 
-[Golbat]: ../../pokemon_changes/042/
-[Muk]: ../../pokemon_changes/089/
-[Murkrow]: ../../pokemon_changes/198/
-[Sneasel]: ../../pokemon_changes/215/
-[Mightyena]: ../../pokemon_changes/262/
-[Masquerain]: ../../pokemon_changes/284/
+[Golbat]: ../../pokemons/042/
+[Muk]: ../../pokemons/089/
+[Murkrow]: ../../pokemons/198/
+[Sneasel]: ../../pokemons/215/
+[Mightyena]: ../../pokemons/262/
+[Masquerain]: ../../pokemons/284/
 [042]: ../img/pokemon/042.png
 [089]: ../img/pokemon/089.png
 [198]: ../img/pokemon/198.png

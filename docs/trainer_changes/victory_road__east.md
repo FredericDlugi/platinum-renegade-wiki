@@ -22,12 +22,12 @@ Ace Trainer Clarice                  | ![][317]<br>[Swalot]<br>Lv. 64     | ![][
 
 ![][marley]                       | Item                                | Nature | Ability     | Moves
 ---                               | ---                                 | ---    | ---         | ---
-![][121]<br>[Starmie]<br>Lv. 65   | ![][expert-belt]<br>Expert Belt     | ?      | Illuminate  | Hydro Pump, Blizzard, Thunder, Psychic
-![][101]<br>[Electrode]<br>Lv. 65 | ![][light-clay]<br>Light Clay       | ?      | Soundproof  | Thunderbolt, Thunder Wave, Light Screen, Explosion
-![][254]<br>[Sceptile]<br>Lv. 65  | ![][petaya-berry]<br>Petaya Berry   | ?      | Unburden    | Energy Ball, Dragon Pulse, Focus Blast, Endure
-![][169]<br>[Crobat]<br>Lv. 65    | ![][bright-powder]<br>Bright Powder | ?      | Inner Focus | Brave Bird, Cross Poison, Hypnosis, Roost
-![][461]<br>[Weavile]<br>Lv. 65   | ![][life-orb]<br>Life Orb           | ?      | Technician  | Crunch, Icicle Crash, Aerial Ace, Low Kick
-![][059]<br>[Arcanine]<br>Lv. 66  | ![][sitrus-berry]<br>Sitrus Berry   | ?      | Intimidate  | Flare Blitz, Close Combat, Crunch, Extreme Speed
+![][121]<br>[Starmie]<br>Lv. 65   | ![][expert-belt]<br>Expert Belt     | ?      | Illuminate  | <ul><li>Hydro Pump</li><li>Blizzard</li><li>Thunder</li><li>Psychic</li></ul>
+![][101]<br>[Electrode]<br>Lv. 65 | ![][light-clay]<br>Light Clay       | ?      | Soundproof  | <ul><li>Thunderbolt</li><li>Thunder Wave</li><li>Light Screen</li><li>Explosion</li></ul>
+![][254]<br>[Sceptile]<br>Lv. 65  | ![][petaya-berry]<br>Petaya Berry   | ?      | Unburden    | <ul><li>Energy Ball</li><li>Dragon Pulse</li><li>Focus Blast</li><li>Endure</li></ul>
+![][169]<br>[Crobat]<br>Lv. 65    | ![][bright-powder]<br>Bright Powder | ?      | Inner Focus | <ul><li>Brave Bird</li><li>Cross Poison</li><li>Hypnosis</li><li>Roost</li></ul>
+![][461]<br>[Weavile]<br>Lv. 65   | ![][life-orb]<br>Life Orb           | ?      | Technician  | <ul><li>Crunch</li><li>Icicle Crash</li><li>Aerial Ace</li><li>Low Kick</li></ul>
+![][059]<br>[Arcanine]<br>Lv. 66  | ![][sitrus-berry]<br>Sitrus Berry   | ?      | Intimidate  | <ul><li>Flare Blitz</li><li>Close Combat</li><li>Crunch</li><li>Extreme Speed</li></ul>
 
 --8<-- "includes/abilities.md"
 
@@ -36,54 +36,54 @@ Ace Trainer Clarice                  | ![][317]<br>[Swalot]<br>Lv. 64     | ![][
 --8<-- "includes/natures.md"
 
 [PKMN Trainer Marley]: #pkmn-trainer-marley
-[Beedrill]: ../../pokemon_changes/015/
-[Nidoqueen]: ../../pokemon_changes/031/
-[Ninetales]: ../../pokemon_changes/038/
-[Parasect]: ../../pokemon_changes/047/
-[Primeape]: ../../pokemon_changes/057/
-[Arcanine]: ../../pokemon_changes/059/
-[Alakazam]: ../../pokemon_changes/065/
-[Machamp]: ../../pokemon_changes/068/
-[Hypno]: ../../pokemon_changes/097/
-[Electrode]: ../../pokemon_changes/101/
-[Kangaskhan]: ../../pokemon_changes/115/
-[Starmie]: ../../pokemon_changes/121/
-[Mr. Mime]: ../../pokemon_changes/122/
-[Jynx]: ../../pokemon_changes/124/
-[Kabutops]: ../../pokemon_changes/141/
-[Dragonair]: ../../pokemon_changes/148/
-[Crobat]: ../../pokemon_changes/169/
-[Xatu]: ../../pokemon_changes/178/
-[Ampharos]: ../../pokemon_changes/181/
-[Quagsire]: ../../pokemon_changes/195/
-[Wobbuffet]: ../../pokemon_changes/202/
-[Girafarig]: ../../pokemon_changes/203/
-[Forretress]: ../../pokemon_changes/205/
-[Scizor]: ../../pokemon_changes/212/
-[Heracross]: ../../pokemon_changes/214/
-[Delibird]: ../../pokemon_changes/225/
-[Houndoom]: ../../pokemon_changes/229/
-[Kingdra]: ../../pokemon_changes/230/
-[Donphan]: ../../pokemon_changes/232/
-[Sceptile]: ../../pokemon_changes/254/
-[Blaziken]: ../../pokemon_changes/257/
-[Ludicolo]: ../../pokemon_changes/272/
-[Pelipper]: ../../pokemon_changes/279/
-[Breloom]: ../../pokemon_changes/286/
-[Sableye]: ../../pokemon_changes/302/
-[Swalot]: ../../pokemon_changes/317/
-[Banette]: ../../pokemon_changes/354/
-[Dusclops]: ../../pokemon_changes/356/
-[Chimecho]: ../../pokemon_changes/358/
-[Salamence]: ../../pokemon_changes/373/
-[Metagross]: ../../pokemon_changes/376/
-[Infernape]: ../../pokemon_changes/392/
-[Gastrodon]: ../../pokemon_changes/423/
-[Drifblim]: ../../pokemon_changes/426/
-[Toxicroak]: ../../pokemon_changes/454/
-[Weavile]: ../../pokemon_changes/461/
-[Dusknoir]: ../../pokemon_changes/477/
-[Froslass]: ../../pokemon_changes/478/
+[Beedrill]: ../../pokemons/015/
+[Nidoqueen]: ../../pokemons/031/
+[Ninetales]: ../../pokemons/038/
+[Parasect]: ../../pokemons/047/
+[Primeape]: ../../pokemons/057/
+[Arcanine]: ../../pokemons/059/
+[Alakazam]: ../../pokemons/065/
+[Machamp]: ../../pokemons/068/
+[Hypno]: ../../pokemons/097/
+[Electrode]: ../../pokemons/101/
+[Kangaskhan]: ../../pokemons/115/
+[Starmie]: ../../pokemons/121/
+[Mr. Mime]: ../../pokemons/122/
+[Jynx]: ../../pokemons/124/
+[Kabutops]: ../../pokemons/141/
+[Dragonair]: ../../pokemons/148/
+[Crobat]: ../../pokemons/169/
+[Xatu]: ../../pokemons/178/
+[Ampharos]: ../../pokemons/181/
+[Quagsire]: ../../pokemons/195/
+[Wobbuffet]: ../../pokemons/202/
+[Girafarig]: ../../pokemons/203/
+[Forretress]: ../../pokemons/205/
+[Scizor]: ../../pokemons/212/
+[Heracross]: ../../pokemons/214/
+[Delibird]: ../../pokemons/225/
+[Houndoom]: ../../pokemons/229/
+[Kingdra]: ../../pokemons/230/
+[Donphan]: ../../pokemons/232/
+[Sceptile]: ../../pokemons/254/
+[Blaziken]: ../../pokemons/257/
+[Ludicolo]: ../../pokemons/272/
+[Pelipper]: ../../pokemons/279/
+[Breloom]: ../../pokemons/286/
+[Sableye]: ../../pokemons/302/
+[Swalot]: ../../pokemons/317/
+[Banette]: ../../pokemons/354/
+[Dusclops]: ../../pokemons/356/
+[Chimecho]: ../../pokemons/358/
+[Salamence]: ../../pokemons/373/
+[Metagross]: ../../pokemons/376/
+[Infernape]: ../../pokemons/392/
+[Gastrodon]: ../../pokemons/423/
+[Drifblim]: ../../pokemons/426/
+[Toxicroak]: ../../pokemons/454/
+[Weavile]: ../../pokemons/461/
+[Dusknoir]: ../../pokemons/477/
+[Froslass]: ../../pokemons/478/
 [bright-powder]: ../img/items/bright-powder.png
 [expert-belt]: ../img/items/expert-belt.png
 [life-orb]: ../img/items/life-orb.png

@@ -11,16 +11,16 @@ Area                                  | Pokémon                        | &nbsp;
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>60%  | ![][456]<br>[Finneon]<br>30%  | ![][120]<br>[Staryu]<br>10%    | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>60%  | ![][457]<br>[Lumineon]<br>30% | ![][121]<br>[Starmie]<br>10%   | &nbsp;
 
-[Tentacool]: ../../pokemon_changes/072/
-[Tentacruel]: ../../pokemon_changes/073/
-[Staryu]: ../../pokemon_changes/120/
-[Starmie]: ../../pokemon_changes/121/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Shellos]: ../../pokemon_changes/422/
-[Gastrodon]: ../../pokemon_changes/423/
-[Finneon]: ../../pokemon_changes/456/
-[Lumineon]: ../../pokemon_changes/457/
+[Tentacool]: ../../pokemons/072/
+[Tentacruel]: ../../pokemons/073/
+[Staryu]: ../../pokemons/120/
+[Starmie]: ../../pokemons/121/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Shellos]: ../../pokemons/422/
+[Gastrodon]: ../../pokemons/423/
+[Finneon]: ../../pokemons/456/
+[Lumineon]: ../../pokemons/457/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png

@@ -23,12 +23,12 @@ Ace Trainer Meagan                       | ![][301]<br>[Delcatty]<br>Lv. 77  | !
 
 ![][ace_m_2]                      | Item                              | Nature | Ability         | Moves
 ---                               | ---                               | ---    | ---             | ---
-![][229]<br>[Houndoom]<br>Lv. 76  | ![][white-herb]<br>White Herb     | ?      | Intimidate [^1] | Dark Pulse, Overheat, Sludge Bomb, Thunder Fang
-![][461]<br>[Weavile]<br>Lv. 76   | ![][muscle-band]<br>Muscle Band   | ?      | Technician [^1] | Icicle Crash, Feint Attack, Aerial Ace, Low Kick
-![][275]<br>[Shiftry]<br>Lv. 76   | ![][wise-glasses]<br>Wise Glasses | ?      | Chlorophyll     | Energy Ball, Dark Pulse, Hurricane, Focus Blast
-![][319]<br>[Sharpedo]<br>Lv. 76  | ![][expert-belt]<br>Expert Belt   | ?      | Speed Boost     | Waterfall, Crunch, Ice Fang, Zen Headbutt
-![][442]<br>[Spiritomb]<br>Lv. 76 | ![][leftovers]<br>Leftovers       | ?      | Pressure        | Dark Pulse, Psychic, Hypnosis, Double Team
-![][248]<br>[Tyranitar]<br>Lv. 77 | ![][chople-berry]<br>Chople Berry | ?      | Sand Stream     | Crunch, Stone Edge, Iron Tail, Fire Punch
+![][229]<br>[Houndoom]<br>Lv. 76  | ![][white-herb]<br>White Herb     | ?      | Intimidate [^1] | <ul><li>Dark Pulse</li><li>Overheat</li><li>Sludge Bomb</li><li>Thunder Fang</li></ul>
+![][461]<br>[Weavile]<br>Lv. 76   | ![][muscle-band]<br>Muscle Band   | ?      | Technician [^1] | <ul><li>Icicle Crash</li><li>Feint Attack</li><li>Aerial Ace</li><li>Low Kick</li></ul>
+![][275]<br>[Shiftry]<br>Lv. 76   | ![][wise-glasses]<br>Wise Glasses | ?      | Chlorophyll     | <ul><li>Energy Ball</li><li>Dark Pulse</li><li>Hurricane</li><li>Focus Blast</li></ul>
+![][319]<br>[Sharpedo]<br>Lv. 76  | ![][expert-belt]<br>Expert Belt   | ?      | Speed Boost     | <ul><li>Waterfall</li><li>Crunch</li><li>Ice Fang</li><li>Zen Headbutt</li></ul>
+![][442]<br>[Spiritomb]<br>Lv. 76 | ![][leftovers]<br>Leftovers       | ?      | Pressure        | <ul><li>Dark Pulse</li><li>Psychic</li><li>Hypnosis</li><li>Double Team</li></ul>
+![][248]<br>[Tyranitar]<br>Lv. 77 | ![][chople-berry]<br>Chople Berry | ?      | Sand Stream     | <ul><li>Crunch</li><li>Stone Edge</li><li>Iron Tail</li><li>Fire Punch</li></ul>
 
 ## Rematches
 
@@ -47,32 +47,32 @@ Black Belt Davon :material-alpha-s-circle-outline:  | ![][297]<br>[Hariyama]<br>
 
 [^1]: Only in Complete version
 [Ace Trainer Shade]: #ace-trainer-shade
-[Sandslash]: ../../pokemon_changes/028/
-[Primeape]: ../../pokemon_changes/057/
-[Machamp]: ../../pokemon_changes/068/
-[Hypno]: ../../pokemon_changes/097/
-[Exeggutor]: ../../pokemon_changes/103/
-[Marowak]: ../../pokemon_changes/105/
-[Xatu]: ../../pokemon_changes/178/
-[Houndoom]: ../../pokemon_changes/229/
-[Tyranitar]: ../../pokemon_changes/248/
-[Shiftry]: ../../pokemon_changes/275/
-[Hariyama]: ../../pokemon_changes/297/
-[Delcatty]: ../../pokemon_changes/301/
-[Aggron]: ../../pokemon_changes/306/
-[Manectric]: ../../pokemon_changes/310/
-[Sharpedo]: ../../pokemon_changes/319/
-[Flygon]: ../../pokemon_changes/330/
-[Cacturne]: ../../pokemon_changes/332/
-[Zangoose]: ../../pokemon_changes/335/
-[Claydol]: ../../pokemon_changes/344/
-[Empoleon]: ../../pokemon_changes/395/
-[Floatzel]: ../../pokemon_changes/419/
-[Gastrodon]: ../../pokemon_changes/423/
-[Spiritomb]: ../../pokemon_changes/442/
-[Abomasnow]: ../../pokemon_changes/460/
-[Weavile]: ../../pokemon_changes/461/
-[Gallade]: ../../pokemon_changes/475/
+[Sandslash]: ../../pokemons/028/
+[Primeape]: ../../pokemons/057/
+[Machamp]: ../../pokemons/068/
+[Hypno]: ../../pokemons/097/
+[Exeggutor]: ../../pokemons/103/
+[Marowak]: ../../pokemons/105/
+[Xatu]: ../../pokemons/178/
+[Houndoom]: ../../pokemons/229/
+[Tyranitar]: ../../pokemons/248/
+[Shiftry]: ../../pokemons/275/
+[Hariyama]: ../../pokemons/297/
+[Delcatty]: ../../pokemons/301/
+[Aggron]: ../../pokemons/306/
+[Manectric]: ../../pokemons/310/
+[Sharpedo]: ../../pokemons/319/
+[Flygon]: ../../pokemons/330/
+[Cacturne]: ../../pokemons/332/
+[Zangoose]: ../../pokemons/335/
+[Claydol]: ../../pokemons/344/
+[Empoleon]: ../../pokemons/395/
+[Floatzel]: ../../pokemons/419/
+[Gastrodon]: ../../pokemons/423/
+[Spiritomb]: ../../pokemons/442/
+[Abomasnow]: ../../pokemons/460/
+[Weavile]: ../../pokemons/461/
+[Gallade]: ../../pokemons/475/
 [chople-berry]: ../img/items/chople-berry.png
 [expert-belt]: ../img/items/expert-belt.png
 [leftovers]: ../img/items/leftovers.png

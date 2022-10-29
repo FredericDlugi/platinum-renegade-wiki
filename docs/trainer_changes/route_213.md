@@ -28,24 +28,24 @@ Tuber Jared :material-alpha-c-circle-outline:     | ![][423]<br>[Gastrodon]<br>L
 Tuber Chelsea :material-numeric-8-circle-outline: | ![][184]<br>[Azumarill]<br>Lv. 59 | &nbsp;                          | &nbsp;
 Tuber Chelsea :material-alpha-c-circle-outline:   | ![][184]<br>[Azumarill]<br>Lv. 69 | &nbsp;                          | &nbsp;
 
-[Persian]: ../../pokemon_changes/053/
-[Golduck]: ../../pokemon_changes/055/
-[Horsea]: ../../pokemon_changes/116/
-[Gyarados]: ../../pokemon_changes/130/
-[Azumarill]: ../../pokemon_changes/184/
-[Politoed]: ../../pokemon_changes/186/
-[Quagsire]: ../../pokemon_changes/195/
-[Corsola]: ../../pokemon_changes/222/
-[Remoraid]: ../../pokemon_changes/223/
-[Mantine]: ../../pokemon_changes/226/
-[Pelipper]: ../../pokemon_changes/279/
-[Delcatty]: ../../pokemon_changes/301/
-[Carvanha]: ../../pokemon_changes/318/
-[Sharpedo]: ../../pokemon_changes/319/
-[Gastrodon]: ../../pokemon_changes/423/
-[Purugly]: ../../pokemon_changes/432/
-[Toxicroak]: ../../pokemon_changes/454/
-[Lumineon]: ../../pokemon_changes/457/
+[Persian]: ../../pokemons/053/
+[Golduck]: ../../pokemons/055/
+[Horsea]: ../../pokemons/116/
+[Gyarados]: ../../pokemons/130/
+[Azumarill]: ../../pokemons/184/
+[Politoed]: ../../pokemons/186/
+[Quagsire]: ../../pokemons/195/
+[Corsola]: ../../pokemons/222/
+[Remoraid]: ../../pokemons/223/
+[Mantine]: ../../pokemons/226/
+[Pelipper]: ../../pokemons/279/
+[Delcatty]: ../../pokemons/301/
+[Carvanha]: ../../pokemons/318/
+[Sharpedo]: ../../pokemons/319/
+[Gastrodon]: ../../pokemons/423/
+[Purugly]: ../../pokemons/432/
+[Toxicroak]: ../../pokemons/454/
+[Lumineon]: ../../pokemons/457/
 [053]: ../img/pokemon/053.png
 [055]: ../img/pokemon/055.png
 [116]: ../img/pokemon/116.png

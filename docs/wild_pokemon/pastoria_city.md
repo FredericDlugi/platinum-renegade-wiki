@@ -11,16 +11,16 @@ Area                                  | Pokémon                        | &nbsp;
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>60%  | ![][060]<br>[Poliwag]<br>30%   | ![][318]<br>[Carvanha]<br>10%  | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>60%  | ![][061]<br>[Poliwhirl]<br>30% | ![][319]<br>[Sharpedo]<br>10%  | &nbsp;
 
-[Poliwag]: ../../pokemon_changes/060/
-[Poliwhirl]: ../../pokemon_changes/061/
-[Tentacool]: ../../pokemon_changes/072/
-[Tentacruel]: ../../pokemon_changes/073/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Carvanha]: ../../pokemon_changes/318/
-[Sharpedo]: ../../pokemon_changes/319/
-[Shellos]: ../../pokemon_changes/422/
-[Gastrodon]: ../../pokemon_changes/423/
+[Poliwag]: ../../pokemons/060/
+[Poliwhirl]: ../../pokemons/061/
+[Tentacool]: ../../pokemons/072/
+[Tentacruel]: ../../pokemons/073/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Carvanha]: ../../pokemons/318/
+[Sharpedo]: ../../pokemons/319/
+[Shellos]: ../../pokemons/422/
+[Gastrodon]: ../../pokemons/423/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png

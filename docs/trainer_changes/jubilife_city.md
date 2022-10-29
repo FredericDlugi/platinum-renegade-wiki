@@ -3,6 +3,12 @@
 Trainer            | 1                                | 2                                 | 3
 ---                | ---                              | ---                               | ---
 Reporter Kayla     | ![][001]<br>[Bulbasaur]<br>Lv. 5 | ![][004]<br>[Charmander]<br>Lv. 5 | ![][007]<br>[Squirtle]<br>Lv. 5
+
+!!! note
+    After the first gym
+
+Trainer            | 1                                | 2                                 | 3
+---                | ---                              | ---                               | ---
 Galactic Grunt     | ![][434]<br>[Stunky]<br>Lv. 13   | ![][266]<br>[Silcoon]<br>Lv. 13   | &nbsp;
 Galactic Grunt     | ![][431]<br>[Glameow]<br>Lv. 13  | ![][268]<br>[Cascoon]<br>Lv. 13   | &nbsp;
 PKMN Trainer Dawn  | ![][035]<br>[Clefairy]<br>Lv. 13 | ![][393]<br>[Piplup]<br>Lv. 14    | &nbsp;
@@ -12,18 +18,18 @@ PKMN Trainer Lucas | ![][209]<br>[Snubbull]<br>Lv. 13 | ![][393]<br>[Piplup]<br>
 PKMN Trainer Lucas | ![][209]<br>[Snubbull]<br>Lv. 13 | ![][387]<br>[Turtwig]<br>Lv. 14   | &nbsp;
 PKMN Trainer Lucas | ![][209]<br>[Snubbull]<br>Lv. 13 | ![][390]<br>[Chimchar]<br>Lv. 14  | &nbsp;
 
-[Bulbasaur]: ../../pokemon_changes/001/
-[Charmander]: ../../pokemon_changes/004/
-[Squirtle]: ../../pokemon_changes/007/
-[Clefairy]: ../../pokemon_changes/035/
-[Snubbull]: ../../pokemon_changes/209/
-[Silcoon]: ../../pokemon_changes/266/
-[Cascoon]: ../../pokemon_changes/268/
-[Turtwig]: ../../pokemon_changes/387/
-[Chimchar]: ../../pokemon_changes/390/
-[Piplup]: ../../pokemon_changes/393/
-[Glameow]: ../../pokemon_changes/431/
-[Stunky]: ../../pokemon_changes/434/
+[Bulbasaur]: ../../pokemons/001/
+[Charmander]: ../../pokemons/004/
+[Squirtle]: ../../pokemons/007/
+[Clefairy]: ../../pokemons/035/
+[Snubbull]: ../../pokemons/209/
+[Silcoon]: ../../pokemons/266/
+[Cascoon]: ../../pokemons/268/
+[Turtwig]: ../../pokemons/387/
+[Chimchar]: ../../pokemons/390/
+[Piplup]: ../../pokemons/393/
+[Glameow]: ../../pokemons/431/
+[Stunky]: ../../pokemons/434/
 [001]: ../img/pokemon/001.png
 [004]: ../img/pokemon/004.png
 [007]: ../img/pokemon/007.png

@@ -11,12 +11,12 @@ Aroma Lady Angela                  | ![][315]<br>[Roselia]<br>Lv. 23    | ![][15
 
 ![][gardenia]                     | Item                              | Nature  | Ability     | Moves
 ---                               | ---                               | ---     | ---         | ---
-![][182]<br>[Bellossom]<br>Lv. 25 | ![][wide-lens]<br>Wide Lens       | Relaxed | Chlorophyll | Grass Knot, Teeter Dance, Dazzling Gleam, Stun Spore
-![][114]<br>[Tangela]<br>Lv. 25   | ![][coba-berry]<br>Coba Berry     | Rash    | Chlorophyll | Grass Knot, Shock Wave, Ancient Power, Stun Spore
-![][421]<br>[Cherrim]<br>Lv. 25   | ![][focus-sash]<br>Focus Sash     | Hasty   | Flower Gift | Grass Knot, Sunny Day, Weather Ball, Morning Sun
-![][388]<br>[Grotle]<br>Lv. 25    | ![][leftovers]<br>Leftovers       | Adamant | Overgrow    | Seed Bomb, Protect, Leech Seed, Bulldoze
-![][286]<br>[Breloom]<br>Lv. 25   | ![][muscle-band]<br>Muscle Band   | Naughty | Technician  | Bullet Seed, Mach Punch, Thunder Punch, Spore
-![][407]<br>[Roserade]<br>Lv. 26  | ![][sitrus-berry]<br>Sitrus Berry | Timid   | Technician  | Magical Leaf, Sludge, Dazzling Gleam, Extrasensory
+![][182]<br>[Bellossom]<br>Lv. 25 | ![][wide-lens]<br>Wide Lens       | Relaxed | Chlorophyll | <ul><li>Grass Knot</li><li>Teeter Dance</li><li>Dazzling Gleam</li><li>Stun Spore</li></ul>
+![][114]<br>[Tangela]<br>Lv. 25   | ![][coba-berry]<br>Coba Berry     | Rash    | Chlorophyll | <ul><li>Grass Knot</li><li>Shock Wave</li><li>Ancient Power</li><li>Stun Spore</li></ul>
+![][421]<br>[Cherrim]<br>Lv. 25   | ![][focus-sash]<br>Focus Sash     | Hasty   | Flower Gift | <ul><li>Grass Knot</li><li>Sunny Day</li><li>Weather Ball</li><li>Morning Sun</li></ul>
+![][388]<br>[Grotle]<br>Lv. 25    | ![][leftovers]<br>Leftovers       | Adamant | Overgrow    | <ul><li>Seed Bomb</li><li>Protect</li><li>Leech Seed</li><li>Bulldoze</li></ul>
+![][286]<br>[Breloom]<br>Lv. 25   | ![][muscle-band]<br>Muscle Band   | Naughty | Technician  | <ul><li>Bullet Seed</li><li>Mach Punch</li><li>Thunder Punch</li><li>Spore</li></ul>
+![][407]<br>[Roserade]<br>Lv. 26  | ![][sitrus-berry]<br>Sitrus Berry | Timid   | Technician  | <ul><li>Magical Leaf</li><li>Sludge</li><li>Dazzling Gleam</li><li>Extrasensory</li></ul>
 
 --8<-- "includes/abilities.md"
 
@@ -25,22 +25,22 @@ Aroma Lady Angela                  | ![][315]<br>[Roselia]<br>Lv. 23    | ![][15
 --8<-- "includes/natures.md"
 
 [Leader Gardenia]: #leader-gardenia
-[Ivysaur]: ../../pokemon_changes/002/
-[Gloom]: ../../pokemon_changes/044/
-[Weepinbell]: ../../pokemon_changes/070/
-[Exeggcute]: ../../pokemon_changes/102/
-[Tangela]: ../../pokemon_changes/114/
-[Bayleef]: ../../pokemon_changes/153/
-[Bellossom]: ../../pokemon_changes/182/
-[Skiploom]: ../../pokemon_changes/188/
-[Lotad]: ../../pokemon_changes/270/
-[Shroomish]: ../../pokemon_changes/285/
-[Breloom]: ../../pokemon_changes/286/
-[Roselia]: ../../pokemon_changes/315/
-[Cacnea]: ../../pokemon_changes/331/
-[Grotle]: ../../pokemon_changes/388/
-[Roserade]: ../../pokemon_changes/407/
-[Cherrim]: ../../pokemon_changes/421/
+[Ivysaur]: ../../pokemons/002/
+[Gloom]: ../../pokemons/044/
+[Weepinbell]: ../../pokemons/070/
+[Exeggcute]: ../../pokemons/102/
+[Tangela]: ../../pokemons/114/
+[Bayleef]: ../../pokemons/153/
+[Bellossom]: ../../pokemons/182/
+[Skiploom]: ../../pokemons/188/
+[Lotad]: ../../pokemons/270/
+[Shroomish]: ../../pokemons/285/
+[Breloom]: ../../pokemons/286/
+[Roselia]: ../../pokemons/315/
+[Cacnea]: ../../pokemons/331/
+[Grotle]: ../../pokemons/388/
+[Roserade]: ../../pokemons/407/
+[Cherrim]: ../../pokemons/421/
 [coba-berry]: ../img/items/coba-berry.png
 [focus-sash]: ../img/items/focus-sash.png
 [leftovers]: ../img/items/leftovers.png

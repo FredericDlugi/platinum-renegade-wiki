@@ -19,28 +19,28 @@ Area                                         | Pokémon                         
 ![][super-rod]<br>Super Rod<br>Lv. 50        | ![][130]<br>[Gyarados]<br>60%   | ![][320]<br>[Wailmer]<br>30%   | ![][224]<br>[Octillery]<br>5%   | ![][321]<br>[Wailord]<br>5%  | &nbsp;                        | &nbsp;
 ![][honey]<br>Honey Tree<br>Lv. 54           | ![][114]<br>[Tangela]<br>30%    | ![][214]<br>[Heracross]<br>30% | ![][083]<br>[Farfetch'd]<br>30% | ![][143]<br>[Snorlax]<br>10% | &nbsp;                        | &nbsp;
 
-[Tentacool]: ../../pokemon_changes/072/
-[Tentacruel]: ../../pokemon_changes/073/
-[Farfetch'd]: ../../pokemon_changes/083/
-[Tangela]: ../../pokemon_changes/114/
-[Mr. Mime]: ../../pokemon_changes/122/
-[Electabuzz]: ../../pokemon_changes/125/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Snorlax]: ../../pokemon_changes/143/
-[Flaaffy]: ../../pokemon_changes/180/
-[Heracross]: ../../pokemon_changes/214/
-[Remoraid]: ../../pokemon_changes/223/
-[Octillery]: ../../pokemon_changes/224/
-[Wingull]: ../../pokemon_changes/278/
-[Pelipper]: ../../pokemon_changes/279/
-[Delcatty]: ../../pokemon_changes/301/
-[Wailmer]: ../../pokemon_changes/320/
-[Wailord]: ../../pokemon_changes/321/
-[Luxio]: ../../pokemon_changes/404/
-[Floatzel]: ../../pokemon_changes/419/
-[Purugly]: ../../pokemon_changes/432/
-[Chatot]: ../../pokemon_changes/441/
+[Tentacool]: ../../pokemons/072/
+[Tentacruel]: ../../pokemons/073/
+[Farfetch'd]: ../../pokemons/083/
+[Tangela]: ../../pokemons/114/
+[Mr. Mime]: ../../pokemons/122/
+[Electabuzz]: ../../pokemons/125/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Snorlax]: ../../pokemons/143/
+[Flaaffy]: ../../pokemons/180/
+[Heracross]: ../../pokemons/214/
+[Remoraid]: ../../pokemons/223/
+[Octillery]: ../../pokemons/224/
+[Wingull]: ../../pokemons/278/
+[Pelipper]: ../../pokemons/279/
+[Delcatty]: ../../pokemons/301/
+[Wailmer]: ../../pokemons/320/
+[Wailord]: ../../pokemons/321/
+[Luxio]: ../../pokemons/404/
+[Floatzel]: ../../pokemons/419/
+[Purugly]: ../../pokemons/432/
+[Chatot]: ../../pokemons/441/
 [good-rod]: ../img/items/good-rod.png
 [honey]: ../img/items/honey.png
 [old-rod]: ../img/items/old-rod.png

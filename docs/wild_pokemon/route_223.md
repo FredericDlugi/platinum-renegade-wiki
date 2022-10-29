@@ -11,15 +11,15 @@ Area                                  | Pokémon                         | &nbsp
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>60%   | ![][223]<br>[Remoraid]<br>30% | ![][320]<br>[Wailmer]<br>10%  | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>60%   | ![][320]<br>[Wailmer]<br>30%  | ![][224]<br>[Octillery]<br>5% | ![][321]<br>[Wailord]<br>5%
 
-[Tentacruel]: ../../pokemon_changes/073/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Remoraid]: ../../pokemon_changes/223/
-[Octillery]: ../../pokemon_changes/224/
-[Mantine]: ../../pokemon_changes/226/
-[Pelipper]: ../../pokemon_changes/279/
-[Wailmer]: ../../pokemon_changes/320/
-[Wailord]: ../../pokemon_changes/321/
+[Tentacruel]: ../../pokemons/073/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Remoraid]: ../../pokemons/223/
+[Octillery]: ../../pokemons/224/
+[Mantine]: ../../pokemons/226/
+[Pelipper]: ../../pokemons/279/
+[Wailmer]: ../../pokemons/320/
+[Wailord]: ../../pokemons/321/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png

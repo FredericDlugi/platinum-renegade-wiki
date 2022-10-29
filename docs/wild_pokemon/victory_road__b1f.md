@@ -13,16 +13,16 @@ Area                                  | Pokémon                        | &nbsp;
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>100% | &nbsp;                        | &nbsp;                        | &nbsp;                      | &nbsp;                       | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>100% | &nbsp;                        | &nbsp;                        | &nbsp;                      | &nbsp;                       | &nbsp;
 
-[Golbat]: ../../pokemon_changes/042/
-[Graveler]: ../../pokemon_changes/075/
-[Dewgong]: ../../pokemon_changes/087/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Azumarill]: ../../pokemon_changes/184/
-[Sableye]: ../../pokemon_changes/302/
-[Mawile]: ../../pokemon_changes/303/
-[Floatzel]: ../../pokemon_changes/419/
-[Gabite]: ../../pokemon_changes/444/
+[Golbat]: ../../pokemons/042/
+[Graveler]: ../../pokemons/075/
+[Dewgong]: ../../pokemons/087/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Azumarill]: ../../pokemons/184/
+[Sableye]: ../../pokemons/302/
+[Mawile]: ../../pokemons/303/
+[Floatzel]: ../../pokemons/419/
+[Gabite]: ../../pokemons/444/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png

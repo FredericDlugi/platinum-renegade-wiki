@@ -4,59 +4,110 @@
     There are wild Pokémon on this route. You can find out more [here](../../wild_pokemon/route_224/).
 
 
-Trainer                                    | 1                                  | 2                                 | 3                                  | 4                                  | 5                                | 6
----                                        | ---                                | ---                               | ---                                | ---                                | ---                              | ---
-Ace Trainer Ruben                          | ![][275]<br>[Shiftry]<br>Lv. 67    | ![][130]<br>[Gyarados]<br>Lv. 67  | ![][186]<br>[Politoed]<br>Lv. 67   | ![][470]<br>[Leafeon]<br>Lv. 67    | &nbsp;                           | &nbsp;
-Psychic Brittney                           | ![][097]<br>[Hypno]<br>Lv. 66      | ![][065]<br>[Alakazam]<br>Lv. 66  | ![][308]<br>[Medicham]<br>Lv. 66   | ![][337]<br>[Lunatone]<br>Lv. 66   | &nbsp;                           | &nbsp;
-Psychic Maxwell                            | ![][429]<br>[Mismagius]<br>Lv. 66  | ![][094]<br>[Gengar]<br>Lv. 66    | ![][080]<br>[Slowbro]<br>Lv. 66    | ![][338]<br>[Solrock]<br>Lv. 66    | &nbsp;                           | &nbsp;
-:repeat: [Veteran Armando](#rematches)     | ![][089]<br>[Muk]<br>Lv. 68        | ![][262]<br>[Mightyena]<br>Lv. 68 | ![][463]<br>[Lickilicky]<br>Lv. 68 | ![][279]<br>[Pelipper]<br>Lv. 68   | &nbsp;                           | &nbsp;
-Black Belt Carl                            | ![][297]<br>[Hariyama]<br>Lv. 66   | ![][106]<br>[Hitmonlee]<br>Lv. 66 | ![][107]<br>[Hitmonchan]<br>Lv. 66 | ![][237]<br>[Hitmontop]<br>Lv. 66  | &nbsp;                           | &nbsp;
-Ruin Maniac Larry                          | ![][142]<br>[Aerodactyl]<br>Lv. 66 | ![][348]<br>[Armaldo]<br>Lv. 66   | ![][346]<br>[Cradily]<br>Lv. 66    | ![][369]<br>[Relicanth]<br>Lv. 66  | &nbsp;                           | &nbsp;
-Ace Trainer Jamie                          | ![][134]<br>[Vaporeon]<br>Lv. 67   | ![][376]<br>[Metagross]<br>Lv. 67 | ![][407]<br>[Roserade]<br>Lv. 67   | ![][051]<br>[Dugtrio]<br>Lv. 67    | &nbsp;                           | &nbsp;
-:repeat: [Dragon Tamer Hayden](#rematches) | ![][334]<br>[Altaria]<br>Lv. 67    | ![][373]<br>[Salamence]<br>Lv. 67 | ![][230]<br>[Kingdra]<br>Lv. 67    | ![][149]<br>[Dragonite]<br>Lv. 67  | &nbsp;                           | &nbsp;
-[PKMN Trainer Dawn]<br>![][dawn]           | ![][065]<br>[Alakazam]<br>Lv. 69   | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][036]<br>[Clefable]<br>Lv. 69   | ![][428]<br>[Lopunny]<br>Lv. 69    | ![][134]<br>[Vaporeon]<br>Lv. 69 | ![][389]<br>[Torterra]<br>Lv. 70
-[PKMN Trainer Dawn]<br>![][dawn]           | ![][065]<br>[Alakazam]<br>Lv. 69   | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][036]<br>[Clefable]<br>Lv. 69   | ![][428]<br>[Lopunny]<br>Lv. 69    | ![][135]<br>[Jolteon]<br>Lv. 69  | ![][392]<br>[Infernape]<br>Lv. 70
-[PKMN Trainer Dawn]<br>![][dawn]           | ![][065]<br>[Alakazam]<br>Lv. 69   | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][036]<br>[Clefable]<br>Lv. 69   | ![][428]<br>[Lopunny]<br>Lv. 69    | ![][136]<br>[Flareon]<br>Lv. 69  | ![][395]<br>[Empoleon]<br>Lv. 70
-[PKMN Trainer Lucas]<br>![][lucas]         | ![][065]<br>[Alakazam]<br>Lv. 69   | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][210]<br>[Granbull]<br>Lv. 69   | ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][134]<br>[Vaporeon]<br>Lv. 69 | ![][389]<br>[Torterra]<br>Lv. 70
-[PKMN Trainer Lucas]<br>![][lucas]         | ![][065]<br>[Alakazam]<br>Lv. 69   | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][210]<br>[Granbull]<br>Lv. 69   | ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][135]<br>[Jolteon]<br>Lv. 69  | ![][392]<br>[Infernape]<br>Lv. 70
-[PKMN Trainer Lucas]<br>![][lucas]         | ![][065]<br>[Alakazam]<br>Lv. 69   | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][210]<br>[Granbull]<br>Lv. 69   | ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][136]<br>[Flareon]<br>Lv. 69  | ![][395]<br>[Empoleon]<br>Lv. 70
+Trainer                                    | 1                                  | 2                                 | 3                                  | 4
+---                                        | ---                                | ---                               | ---                                | ---
+Ace Trainer Ruben                          | ![][275]<br>[Shiftry]<br>Lv. 67    | ![][130]<br>[Gyarados]<br>Lv. 67  | ![][186]<br>[Politoed]<br>Lv. 67   | ![][470]<br>[Leafeon]<br>Lv. 67
+Psychic Brittney                           | ![][097]<br>[Hypno]<br>Lv. 66      | ![][065]<br>[Alakazam]<br>Lv. 66  | ![][308]<br>[Medicham]<br>Lv. 66   | ![][337]<br>[Lunatone]<br>Lv. 66
+Psychic Maxwell                            | ![][429]<br>[Mismagius]<br>Lv. 66  | ![][094]<br>[Gengar]<br>Lv. 66    | ![][080]<br>[Slowbro]<br>Lv. 66    | ![][338]<br>[Solrock]<br>Lv. 66
+:repeat: [Veteran Armando](#rematches)     | ![][089]<br>[Muk]<br>Lv. 68        | ![][262]<br>[Mightyena]<br>Lv. 68 | ![][463]<br>[Lickilicky]<br>Lv. 68 | ![][279]<br>[Pelipper]<br>Lv. 68
+Black Belt Carl                            | ![][297]<br>[Hariyama]<br>Lv. 66   | ![][106]<br>[Hitmonlee]<br>Lv. 66 | ![][107]<br>[Hitmonchan]<br>Lv. 66 | ![][237]<br>[Hitmontop]<br>Lv. 66
+Ruin Maniac Larry                          | ![][142]<br>[Aerodactyl]<br>Lv. 66 | ![][348]<br>[Armaldo]<br>Lv. 66   | ![][346]<br>[Cradily]<br>Lv. 66    | ![][369]<br>[Relicanth]<br>Lv. 66
+Ace Trainer Jamie                          | ![][134]<br>[Vaporeon]<br>Lv. 67   | ![][376]<br>[Metagross]<br>Lv. 67 | ![][407]<br>[Roserade]<br>Lv. 67   | ![][051]<br>[Dugtrio]<br>Lv. 67
+:repeat: [Dragon Tamer Hayden](#rematches) | ![][334]<br>[Altaria]<br>Lv. 67    | ![][373]<br>[Salamence]<br>Lv. 67 | ![][230]<br>[Kingdra]<br>Lv. 67    | ![][149]<br>[Dragonite]<br>Lv. 67
 
+=== "Lucas"
+    === "Grass"
+        Trainer                            | 1                                | 2                                 | 3                                | 4                                  | 5                               | 6
+        ---                                | ---                              | ---                               | ---                              | ---                                | ---                             | ---
+        [PKMN Trainer Lucas]<br>![][lucas] | ![][065]<br>[Alakazam]<br>Lv. 69 | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][210]<br>[Granbull]<br>Lv. 69 | ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][136]<br>[Flareon]<br>Lv. 69 | ![][395]<br>[Empoleon]<br>Lv. 70
+    === "Fire"
+        Trainer                            | 1                                | 2                                 | 3                                | 4                                  | 5                                | 6
+        ---                                | ---                              | ---                               | ---                              | ---                                | ---                              | ---
+        [PKMN Trainer Lucas]<br>![][lucas] | ![][065]<br>[Alakazam]<br>Lv. 69 | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][210]<br>[Granbull]<br>Lv. 69 | ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][134]<br>[Vaporeon]<br>Lv. 69 | ![][389]<br>[Torterra]<br>Lv. 70
+    === "Water"
+        Trainer                            | 1                                | 2                                 | 3                                | 4                                  | 5                               | 6
+        ---                                | ---                              | ---                               | ---                              | ---                                | ---                             | ---
+        [PKMN Trainer Lucas]<br>![][lucas] | ![][065]<br>[Alakazam]<br>Lv. 69 | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][210]<br>[Granbull]<br>Lv. 69 | ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][135]<br>[Jolteon]<br>Lv. 69 | ![][392]<br>[Infernape]<br>Lv. 70
+
+=== "Dawn"
+    === "Grass"
+        Trainer                          | 1                                | 2                                 | 3                                | 4                               | 5                               | 6
+        ---                              | ---                              | ---                               | ---                              | ---                             | ---                             | ---
+        [PKMN Trainer Dawn]<br>![][dawn] | ![][065]<br>[Alakazam]<br>Lv. 69 | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][036]<br>[Clefable]<br>Lv. 69 | ![][428]<br>[Lopunny]<br>Lv. 69 | ![][136]<br>[Flareon]<br>Lv. 69 | ![][395]<br>[Empoleon]<br>Lv. 70
+    === "Fire"
+        Trainer                          | 1                                | 2                                 | 3                                | 4                               | 5                                | 6
+        ---                              | ---                              | ---                               | ---                              | ---                             | ---                              | ---
+        [PKMN Trainer Dawn]<br>![][dawn] | ![][065]<br>[Alakazam]<br>Lv. 69 | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][036]<br>[Clefable]<br>Lv. 69 | ![][428]<br>[Lopunny]<br>Lv. 69 | ![][134]<br>[Vaporeon]<br>Lv. 69 | ![][389]<br>[Torterra]<br>Lv. 70
+    === "Water"
+        Trainer                          | 1                                | 2                                 | 3                                | 4                               | 5                               | 6
+        ---                              | ---                              | ---                               | ---                              | ---                             | ---                             | ---
+        [PKMN Trainer Dawn]<br>![][dawn] | ![][065]<br>[Alakazam]<br>Lv. 69 | ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][036]<br>[Clefable]<br>Lv. 69 | ![][428]<br>[Lopunny]<br>Lv. 69 | ![][135]<br>[Jolteon]<br>Lv. 69 | ![][392]<br>[Infernape]<br>Lv. 70
 
 ## PKMN Trainer Dawn
 
-!!! note
-    This Team changes depending on your Starter
 
-![][dawn]                         | Item                              | Nature | Ability      | Moves
----                               | ---                               | ---    | ---          | ---
-![][065]<br>[Alakazam]<br>Lv. 69  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | Psychic, Shadow Ball, Aura Sphere, Dazzling Gleam
-![][473]<br>[Mamoswine]<br>Lv. 69 | ![][choice-band]<br>Choice Band   | ?      | Thick Fat    | Earthquake, Icicle Crash, Stone Edge, Superpower
-![][036]<br>[Clefable]<br>Lv. 69  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | Moonblast, Soft-Boiled, Calm Mind, Flamethrower
-![][428]<br>[Lopunny]<br>Lv. 69   | ![][focus-sash]<br>Focus Sash     | ?      | Scrappy      | Mega Kick, High Jump Kick, Fake Out, Agility
-![][134]<br>[Vaporeon]<br>Lv. 69  | ![][wacan-berry]<br>Wacan Berry   | ?      | Water Absorb | Muddy Water, Ice Beam, Rest, Sleep Talk
-![][135]<br>[Jolteon]<br>Lv. 69   | ![][shuca-berry]<br>Shuca Berry   | ?      | Volt Absorb  | Thunderbolt, Grass Knot, Shadow Ball, Thunder Wave
-![][136]<br>[Flareon]<br>Lv. 69   | ![][passho-berry]<br>Passho Berry | ?      | Flash Fire   | Flare Blitz, Play Rough, Close Combat, Wild Charge
-![][389]<br>[Torterra]<br>Lv. 70  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | Frenzy Plant, Earthquake, Stone Edge, Iron Head
-![][392]<br>[Infernape]<br>Lv. 70 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist    | Blast Burn, Close Combat, Stone Edge, Thunder Punch
-![][395]<br>[Empoleon]<br>Lv. 70  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent      | Hydro Cannon, Flash Cannon, Grass Knot, Ice Beam
+=== "Grass"
+    ![][dawn]                         | Item                              | Nature | Ability     | Moves
+    ---                               | ---                               | ---    | ---         | ---
+    ![][065]<br>[Alakazam]<br>Lv. 69  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard | <ul><li>Psychic</li><li>Shadow Ball</li><li>Aura Sphere</li><li>Dazzling Gleam</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][choice-band]<br>Choice Band   | ?      | Thick Fat   | <ul><li>Earthquake</li><li>Icicle Crash</li><li>Stone Edge</li><li>Superpower</li></ul>
+    ![][036]<br>[Clefable]<br>Lv. 69  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm  | <ul><li>Moonblast</li><li>Soft-Boiled</li><li>Calm Mind</li><li>Flamethrower</li></ul>
+    ![][428]<br>[Lopunny]<br>Lv. 69   | ![][focus-sash]<br>Focus Sash     | ?      | Scrappy     | <ul><li>Mega Kick</li><li>High Jump Kick</li><li>Fake Out</li><li>Agility</li></ul>
+    ![][136]<br>[Flareon]<br>Lv. 69   | ![][passho-berry]<br>Passho Berry | ?      | Flash Fire  | <ul><li>Flare Blitz</li><li>Play Rough</li><li>Close Combat</li><li>Wild Charge</li></ul>
+    ![][395]<br>[Empoleon]<br>Lv. 70  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent     | <ul><li>Hydro Cannon</li><li>Flash Cannon</li><li>Grass Knot</li><li>Ice Beam</li></ul>
+
+=== "Fire"
+    ![][dawn]                         | Item                              | Nature | Ability      | Moves
+    ---                               | ---                               | ---    | ---          | ---
+    ![][065]<br>[Alakazam]<br>Lv. 69  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | <ul><li>Psychic</li><li>Shadow Ball</li><li>Aura Sphere</li><li>Dazzling Gleam</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][choice-band]<br>Choice Band   | ?      | Thick Fat    | <ul><li>Earthquake</li><li>Icicle Crash</li><li>Stone Edge</li><li>Superpower</li></ul>
+    ![][036]<br>[Clefable]<br>Lv. 69  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | <ul><li>Moonblast</li><li>Soft-Boiled</li><li>Calm Mind</li><li>Flamethrower</li></ul>
+    ![][428]<br>[Lopunny]<br>Lv. 69   | ![][focus-sash]<br>Focus Sash     | ?      | Scrappy      | <ul><li>Mega Kick</li><li>High Jump Kick</li><li>Fake Out</li><li>Agility</li></ul>
+    ![][134]<br>[Vaporeon]<br>Lv. 69  | ![][wacan-berry]<br>Wacan Berry   | ?      | Water Absorb | <ul><li>Muddy Water</li><li>Ice Beam</li><li>Rest</li><li>Sleep Talk</li></ul>
+    ![][389]<br>[Torterra]<br>Lv. 70  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | <ul><li>Frenzy Plant</li><li>Earthquake</li><li>Stone Edge</li><li>Iron Head</li></ul>
+
+=== "Water"
+    ![][dawn]                         | Item                              | Nature | Ability     | Moves
+    ---                               | ---                               | ---    | ---         | ---
+    ![][065]<br>[Alakazam]<br>Lv. 69  | ![][life-orb]<br>Life Orb         | ?      | Magic Guard | <ul><li>Psychic</li><li>Shadow Ball</li><li>Aura Sphere</li><li>Dazzling Gleam</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 69 | ![][choice-band]<br>Choice Band   | ?      | Thick Fat   | <ul><li>Earthquake</li><li>Icicle Crash</li><li>Stone Edge</li><li>Superpower</li></ul>
+    ![][036]<br>[Clefable]<br>Lv. 69  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm  | <ul><li>Moonblast</li><li>Soft-Boiled</li><li>Calm Mind</li><li>Flamethrower</li></ul>
+    ![][428]<br>[Lopunny]<br>Lv. 69   | ![][focus-sash]<br>Focus Sash     | ?      | Scrappy     | <ul><li>Mega Kick</li><li>High Jump Kick</li><li>Fake Out</li><li>Agility</li></ul>
+    ![][135]<br>[Jolteon]<br>Lv. 69   | ![][shuca-berry]<br>Shuca Berry   | ?      | Volt Absorb | <ul><li>Thunderbolt</li><li>Grass Knot</li><li>Shadow Ball</li><li>Thunder Wave</li></ul>
+    ![][392]<br>[Infernape]<br>Lv. 70 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist   | <ul><li>Blast Burn</li><li>Close Combat</li><li>Stone Edge</li><li>Thunder Punch</li></ul>
 
 ## PKMN Trainer Lucas
 
-!!! note
-    This Team changes depending on your Starter
 
-![][lucas]                         | Item                              | Nature | Ability      | Moves
----                                | ---                               | ---    | ---          | ---
-![][065]<br>[Alakazam]<br>Lv. 69   | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | Psychic, Shadow Ball, Aura Sphere, Dazzling Gleam
-![][473]<br>[Mamoswine]<br>Lv. 69  | ![][choice-band]<br>Choice Band   | ?      | Thick Fat    | Earthquake, Icicle Crash, Stone Edge, Superpower
-![][210]<br>[Granbull]<br>Lv. 69   | ![][muscle-band]<br>Muscle Band   | ?      | Intimidate   | Play Rough, Close Combat, Crunch, Earthquake
-![][463]<br>[Lickilicky]<br>Lv. 69 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo    | Double-Edge, Earthquake, Hammer Arm, Swords Dance
-![][134]<br>[Vaporeon]<br>Lv. 69   | ![][wacan-berry]<br>Wacan Berry   | ?      | Water Absorb | Muddy Water, Ice Beam, Rest, Sleep Talk
-![][135]<br>[Jolteon]<br>Lv. 69    | ![][shuca-berry]<br>Shuca Berry   | ?      | Volt Absorb  | Thunderbolt, Grass Knot, Shadow Ball, Thunder Wave
-![][136]<br>[Flareon]<br>Lv. 69    | ![][passho-berry]<br>Passho Berry | ?      | Flash Fire   | Flare Blitz, Play Rough, Close Combat, Wild Charge
-![][389]<br>[Torterra]<br>Lv. 70   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | Frenzy Plant, Earthquake, Stone Edge, Iron Head
-![][392]<br>[Infernape]<br>Lv. 70  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist    | Blast Burn, Close Combat, Stone Edge, Thunder Punch
-![][395]<br>[Empoleon]<br>Lv. 70   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent      | Hydro Cannon, Flash Cannon, Grass Knot, Ice Beam
+=== "Grass"
+    ![][lucas]                         | Item                              | Nature | Ability     | Moves
+    ---                                | ---                               | ---    | ---         | ---
+    ![][065]<br>[Alakazam]<br>Lv. 69   | ![][life-orb]<br>Life Orb         | ?      | Magic Guard | <ul><li>Psychic</li><li>Shadow Ball</li><li>Aura Sphere</li><li>Dazzling Gleam</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 69  | ![][choice-band]<br>Choice Band   | ?      | Thick Fat   | <ul><li>Earthquake</li><li>Icicle Crash</li><li>Stone Edge</li><li>Superpower</li></ul>
+    ![][210]<br>[Granbull]<br>Lv. 69   | ![][muscle-band]<br>Muscle Band   | ?      | Intimidate  | <ul><li>Play Rough</li><li>Close Combat</li><li>Crunch</li><li>Earthquake</li></ul>
+    ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo   | <ul><li>Double-Edge</li><li>Earthquake</li><li>Hammer Arm</li><li>Swords Dance</li></ul>
+    ![][136]<br>[Flareon]<br>Lv. 69    | ![][passho-berry]<br>Passho Berry | ?      | Flash Fire  | <ul><li>Flare Blitz</li><li>Play Rough</li><li>Close Combat</li><li>Wild Charge</li></ul>
+    ![][395]<br>[Empoleon]<br>Lv. 70   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent     | <ul><li>Hydro Cannon</li><li>Flash Cannon</li><li>Grass Knot</li><li>Ice Beam</li></ul>
+
+=== "Fire"
+    ![][lucas]                         | Item                              | Nature | Ability      | Moves
+    ---                                | ---                               | ---    | ---          | ---
+    ![][065]<br>[Alakazam]<br>Lv. 69   | ![][life-orb]<br>Life Orb         | ?      | Magic Guard  | <ul><li>Psychic</li><li>Shadow Ball</li><li>Aura Sphere</li><li>Dazzling Gleam</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 69  | ![][choice-band]<br>Choice Band   | ?      | Thick Fat    | <ul><li>Earthquake</li><li>Icicle Crash</li><li>Stone Edge</li><li>Superpower</li></ul>
+    ![][210]<br>[Granbull]<br>Lv. 69   | ![][muscle-band]<br>Muscle Band   | ?      | Intimidate   | <ul><li>Play Rough</li><li>Close Combat</li><li>Crunch</li><li>Earthquake</li></ul>
+    ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo    | <ul><li>Double-Edge</li><li>Earthquake</li><li>Hammer Arm</li><li>Swords Dance</li></ul>
+    ![][134]<br>[Vaporeon]<br>Lv. 69   | ![][wacan-berry]<br>Wacan Berry   | ?      | Water Absorb | <ul><li>Muddy Water</li><li>Ice Beam</li><li>Rest</li><li>Sleep Talk</li></ul>
+    ![][389]<br>[Torterra]<br>Lv. 70   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | <ul><li>Frenzy Plant</li><li>Earthquake</li><li>Stone Edge</li><li>Iron Head</li></ul>
+
+=== "Water"
+    ![][lucas]                         | Item                              | Nature | Ability     | Moves
+    ---                                | ---                               | ---    | ---         | ---
+    ![][065]<br>[Alakazam]<br>Lv. 69   | ![][life-orb]<br>Life Orb         | ?      | Magic Guard | <ul><li>Psychic</li><li>Shadow Ball</li><li>Aura Sphere</li><li>Dazzling Gleam</li></ul>
+    ![][473]<br>[Mamoswine]<br>Lv. 69  | ![][choice-band]<br>Choice Band   | ?      | Thick Fat   | <ul><li>Earthquake</li><li>Icicle Crash</li><li>Stone Edge</li><li>Superpower</li></ul>
+    ![][210]<br>[Granbull]<br>Lv. 69   | ![][muscle-band]<br>Muscle Band   | ?      | Intimidate  | <ul><li>Play Rough</li><li>Close Combat</li><li>Crunch</li><li>Earthquake</li></ul>
+    ![][463]<br>[Lickilicky]<br>Lv. 69 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo   | <ul><li>Double-Edge</li><li>Earthquake</li><li>Hammer Arm</li><li>Swords Dance</li></ul>
+    ![][135]<br>[Jolteon]<br>Lv. 69    | ![][shuca-berry]<br>Shuca Berry   | ?      | Volt Absorb | <ul><li>Thunderbolt</li><li>Grass Knot</li><li>Shadow Ball</li><li>Thunder Wave</li></ul>
+    ![][392]<br>[Infernape]<br>Lv. 70  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist   | <ul><li>Blast Burn</li><li>Close Combat</li><li>Stone Edge</li><li>Thunder Punch</li></ul>
 
 ## Rematches
 
@@ -73,47 +124,47 @@ Dragon Tamer Hayden :material-alpha-s-circle-outline: | ![][334]<br>[Altaria]<br
 
 [PKMN Trainer Dawn]: #pkmn-trainer-dawn
 [PKMN Trainer Lucas]: #pkmn-trainer-lucas
-[Clefable]: ../../pokemon_changes/036/
-[Dugtrio]: ../../pokemon_changes/051/
-[Alakazam]: ../../pokemon_changes/065/
-[Slowbro]: ../../pokemon_changes/080/
-[Muk]: ../../pokemon_changes/089/
-[Gengar]: ../../pokemon_changes/094/
-[Hypno]: ../../pokemon_changes/097/
-[Hitmonlee]: ../../pokemon_changes/106/
-[Hitmonchan]: ../../pokemon_changes/107/
-[Gyarados]: ../../pokemon_changes/130/
-[Vaporeon]: ../../pokemon_changes/134/
-[Jolteon]: ../../pokemon_changes/135/
-[Flareon]: ../../pokemon_changes/136/
-[Aerodactyl]: ../../pokemon_changes/142/
-[Dragonite]: ../../pokemon_changes/149/
-[Politoed]: ../../pokemon_changes/186/
-[Granbull]: ../../pokemon_changes/210/
-[Kingdra]: ../../pokemon_changes/230/
-[Hitmontop]: ../../pokemon_changes/237/
-[Mightyena]: ../../pokemon_changes/262/
-[Shiftry]: ../../pokemon_changes/275/
-[Pelipper]: ../../pokemon_changes/279/
-[Hariyama]: ../../pokemon_changes/297/
-[Medicham]: ../../pokemon_changes/308/
-[Altaria]: ../../pokemon_changes/334/
-[Lunatone]: ../../pokemon_changes/337/
-[Solrock]: ../../pokemon_changes/338/
-[Cradily]: ../../pokemon_changes/346/
-[Armaldo]: ../../pokemon_changes/348/
-[Relicanth]: ../../pokemon_changes/369/
-[Salamence]: ../../pokemon_changes/373/
-[Metagross]: ../../pokemon_changes/376/
-[Torterra]: ../../pokemon_changes/389/
-[Infernape]: ../../pokemon_changes/392/
-[Empoleon]: ../../pokemon_changes/395/
-[Roserade]: ../../pokemon_changes/407/
-[Lopunny]: ../../pokemon_changes/428/
-[Mismagius]: ../../pokemon_changes/429/
-[Lickilicky]: ../../pokemon_changes/463/
-[Leafeon]: ../../pokemon_changes/470/
-[Mamoswine]: ../../pokemon_changes/473/
+[Clefable]: ../../pokemons/036/
+[Dugtrio]: ../../pokemons/051/
+[Alakazam]: ../../pokemons/065/
+[Slowbro]: ../../pokemons/080/
+[Muk]: ../../pokemons/089/
+[Gengar]: ../../pokemons/094/
+[Hypno]: ../../pokemons/097/
+[Hitmonlee]: ../../pokemons/106/
+[Hitmonchan]: ../../pokemons/107/
+[Gyarados]: ../../pokemons/130/
+[Vaporeon]: ../../pokemons/134/
+[Jolteon]: ../../pokemons/135/
+[Flareon]: ../../pokemons/136/
+[Aerodactyl]: ../../pokemons/142/
+[Dragonite]: ../../pokemons/149/
+[Politoed]: ../../pokemons/186/
+[Granbull]: ../../pokemons/210/
+[Kingdra]: ../../pokemons/230/
+[Hitmontop]: ../../pokemons/237/
+[Mightyena]: ../../pokemons/262/
+[Shiftry]: ../../pokemons/275/
+[Pelipper]: ../../pokemons/279/
+[Hariyama]: ../../pokemons/297/
+[Medicham]: ../../pokemons/308/
+[Altaria]: ../../pokemons/334/
+[Lunatone]: ../../pokemons/337/
+[Solrock]: ../../pokemons/338/
+[Cradily]: ../../pokemons/346/
+[Armaldo]: ../../pokemons/348/
+[Relicanth]: ../../pokemons/369/
+[Salamence]: ../../pokemons/373/
+[Metagross]: ../../pokemons/376/
+[Torterra]: ../../pokemons/389/
+[Infernape]: ../../pokemons/392/
+[Empoleon]: ../../pokemons/395/
+[Roserade]: ../../pokemons/407/
+[Lopunny]: ../../pokemons/428/
+[Mismagius]: ../../pokemons/429/
+[Lickilicky]: ../../pokemons/463/
+[Leafeon]: ../../pokemons/470/
+[Mamoswine]: ../../pokemons/473/
 [choice-band]: ../img/items/choice-band.png
 [focus-sash]: ../img/items/focus-sash.png
 [leftovers]: ../img/items/leftovers.png

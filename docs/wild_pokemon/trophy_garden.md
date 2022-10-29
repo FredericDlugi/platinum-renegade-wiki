@@ -10,15 +10,15 @@ Area                                         | Pokémon                       | 
 &nbsp;                                       | ![][440]<br>[Happiny]<br>10%  | ![][133]<br>[Eevee]<br>10%   | &nbsp;                      | &nbsp;                         | &nbsp;                      | &nbsp;
 ![][poke-radar]<br>Poké Radar<br>Lv. 24 - 26 | ![][351]<br>[Castform]<br>22% | &nbsp;                       | &nbsp;                      | &nbsp;                         | &nbsp;                      | &nbsp;
 
-[Pikachu]: ../../pokemon_changes/025/
-[Eevee]: ../../pokemon_changes/133/
-[Porygon]: ../../pokemon_changes/137/
-[Pichu]: ../../pokemon_changes/172/
-[Cleffa]: ../../pokemon_changes/173/
-[Igglybuff]: ../../pokemon_changes/174/
-[Togepi]: ../../pokemon_changes/175/
-[Castform]: ../../pokemon_changes/351/
-[Happiny]: ../../pokemon_changes/440/
+[Pikachu]: ../../pokemons/025/
+[Eevee]: ../../pokemons/133/
+[Porygon]: ../../pokemons/137/
+[Pichu]: ../../pokemons/172/
+[Cleffa]: ../../pokemons/173/
+[Igglybuff]: ../../pokemons/174/
+[Togepi]: ../../pokemons/175/
+[Castform]: ../../pokemons/351/
+[Happiny]: ../../pokemons/440/
 [poke-radar]: ../img/items/poke-radar.png
 [025]: ../img/pokemon/025.png
 [133]: ../img/pokemon/133.png

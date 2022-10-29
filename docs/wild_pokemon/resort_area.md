@@ -7,7 +7,7 @@ Area                                       | Pokémon
 ![][good-rod]<br>Good Rod<br>Lv. 1 - 100   | ![][129]<br>[Magikarp]<br>100%
 ![][super-rod]<br>Super Rod<br>Lv. 1 - 100 | ![][129]<br>[Magikarp]<br>100%
 
-[Magikarp]: ../../pokemon_changes/129/
+[Magikarp]: ../../pokemons/129/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png

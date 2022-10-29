@@ -14,12 +14,12 @@ Ace Trainer Breanna          | ![][227]<br>[Skarmory]<br>Lv. 50  | ![][303]<br>[
 ## Leader Byron
 ![][byron]                         | Item                              | Nature  | Ability     | Moves
 ---                                | ---                               | ---     | ---         | ---
-![][437]<br>[Bronzong]<br>Lv. 52   | ![][light-clay]<br>Light Clay     | Impish  | Levitate    | Gyro Ball, Stealth Rock, Reflect, Light Screen
-![][462]<br>[Magnezone]<br>Lv. 52  | ![][wise-glasses]<br>Wise Glasses | Quiet   | Magnet Pull | Thunderbolt, Flash Cannon, Signal Beam, Thunder Wave
-![][208]<br>[Steelix]<br>Lv. 52    | ![][muscle-band]<br>Muscle Band   | Adamant | Rock Head   | Gyro Ball, Earthquake, Stone Edge, Explosion
-![][205]<br>[Forretress]<br>Lv. 52 | ![][sitrus-berry]<br>Sitrus Berry | Impish  | Sturdy      | Gyro Ball, Spikes, Toxic Spikes, Explosion
-![][306]<br>[Aggron]<br>Lv. 52     | ![][focus-sash]<br>Focus Sash     | Naughty | Rock Head   | Head Smash, Iron Head, Aqua Tail, Low Kick
-![][411]<br>[Bastiodon]<br>Lv. 53  | ![][leftovers]<br>Leftovers       | Sassy   | Soundproof  | Iron Head, Toxic, Protect, Metal Burst
+![][437]<br>[Bronzong]<br>Lv. 52   | ![][light-clay]<br>Light Clay     | Impish  | Levitate    | <ul><li>Gyro Ball</li><li>Stealth Rock</li><li>Reflect</li><li>Light Screen</li></ul>
+![][462]<br>[Magnezone]<br>Lv. 52  | ![][wise-glasses]<br>Wise Glasses | Quiet   | Magnet Pull | <ul><li>Thunderbolt</li><li>Flash Cannon</li><li>Signal Beam</li><li>Thunder Wave</li></ul>
+![][208]<br>[Steelix]<br>Lv. 52    | ![][muscle-band]<br>Muscle Band   | Adamant | Rock Head   | <ul><li>Gyro Ball</li><li>Earthquake</li><li>Stone Edge</li><li>Explosion</li></ul>
+![][205]<br>[Forretress]<br>Lv. 52 | ![][sitrus-berry]<br>Sitrus Berry | Impish  | Sturdy      | <ul><li>Gyro Ball</li><li>Spikes</li><li>Toxic Spikes</li><li>Explosion</li></ul>
+![][306]<br>[Aggron]<br>Lv. 52     | ![][focus-sash]<br>Focus Sash     | Naughty | Rock Head   | <ul><li>Head Smash</li><li>Iron Head</li><li>Aqua Tail</li><li>Low Kick</li></ul>
+![][411]<br>[Bastiodon]<br>Lv. 53  | ![][leftovers]<br>Leftovers       | Sassy   | Soundproof  | <ul><li>Iron Head</li><li>Toxic</li><li>Protect</li><li>Metal Burst</li></ul>
 
 --8<-- "includes/abilities.md"
 
@@ -28,28 +28,28 @@ Ace Trainer Breanna          | ![][227]<br>[Skarmory]<br>Lv. 50  | ![][303]<br>[
 --8<-- "includes/natures.md"
 
 [Leader Byron]: #leader-byron
-[Magnemite]: ../../pokemon_changes/081/
-[Magneton]: ../../pokemon_changes/082/
-[Forretress]: ../../pokemon_changes/205/
-[Steelix]: ../../pokemon_changes/208/
-[Scizor]: ../../pokemon_changes/212/
-[Skarmory]: ../../pokemon_changes/227/
-[Mawile]: ../../pokemon_changes/303/
-[Aron]: ../../pokemon_changes/304/
-[Lairon]: ../../pokemon_changes/305/
-[Aggron]: ../../pokemon_changes/306/
-[Beldum]: ../../pokemon_changes/374/
-[Metang]: ../../pokemon_changes/375/
-[Metagross]: ../../pokemon_changes/376/
-[Empoleon]: ../../pokemon_changes/395/
-[Shieldon]: ../../pokemon_changes/410/
-[Bastiodon]: ../../pokemon_changes/411/
-[Wormadam]: ../../pokemon_changes/413/
-[Bronzor]: ../../pokemon_changes/436/
-[Bronzong]: ../../pokemon_changes/437/
-[Lucario]: ../../pokemon_changes/448/
-[Magnezone]: ../../pokemon_changes/462/
-[Probopass]: ../../pokemon_changes/476/
+[Magnemite]: ../../pokemons/081/
+[Magneton]: ../../pokemons/082/
+[Forretress]: ../../pokemons/205/
+[Steelix]: ../../pokemons/208/
+[Scizor]: ../../pokemons/212/
+[Skarmory]: ../../pokemons/227/
+[Mawile]: ../../pokemons/303/
+[Aron]: ../../pokemons/304/
+[Lairon]: ../../pokemons/305/
+[Aggron]: ../../pokemons/306/
+[Beldum]: ../../pokemons/374/
+[Metang]: ../../pokemons/375/
+[Metagross]: ../../pokemons/376/
+[Empoleon]: ../../pokemons/395/
+[Shieldon]: ../../pokemons/410/
+[Bastiodon]: ../../pokemons/411/
+[Wormadam]: ../../pokemons/413/
+[Bronzor]: ../../pokemons/436/
+[Bronzong]: ../../pokemons/437/
+[Lucario]: ../../pokemons/448/
+[Magnezone]: ../../pokemons/462/
+[Probopass]: ../../pokemons/476/
 [focus-sash]: ../img/items/focus-sash.png
 [leftovers]: ../img/items/leftovers.png
 [light-clay]: ../img/items/light-clay.png

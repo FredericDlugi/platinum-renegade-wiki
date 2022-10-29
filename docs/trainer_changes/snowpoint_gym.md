@@ -14,12 +14,12 @@ Ace Trainer Sergio               | ![][220]<br>[Swinub]<br>Lv. 51    | ![][221]<
 
 ![][candice]                      | Item                                | Nature  | Ability         | Moves
 ---                               | ---                                 | ---     | ---             | ---
-![][460]<br>[Abomasnow]<br>Lv. 55 | ![][expert-belt]<br>Expert Belt     | Brave   | Snow Warning    | Wood Hammer, Earthquake, Blizzard, Ice Shard
-![][461]<br>[Weavile]<br>Lv. 55   | ![][focus-sash]<br>Focus Sash       | Naughty | Technician [^1] | Crunch, Icicle Crash, Aerial Ace, Swords Dance
-![][471]<br>[Glaceon]<br>Lv. 55   | ![][bright-powder]<br>Bright Powder | Bold    | Snow Cloak      | Blizzard, Shadow Ball, Earth Power, Double Team
-![][365]<br>[Walrein]<br>Lv. 55   | ![][chople-berry]<br>Chople Berry   | Quiet   | Thick Fat       | Blizzard, Surf, Yawn, Aqua Ring
-![][473]<br>[Mamoswine]<br>Lv. 55 | ![][passho-berry]<br>Passho Berry   | Naive   | Thick Fat       | Earthquake, Avalanche, Stone Edge, Ice Shard
-![][478]<br>[Froslass]<br>Lv. 56  | ![][life-orb]<br>Life Orb           | Modest  | Levitate [^1]   | Blizzard, Shadow Ball, Thunderbolt, Attract
+![][460]<br>[Abomasnow]<br>Lv. 55 | ![][expert-belt]<br>Expert Belt     | Brave   | Snow Warning    | <ul><li>Wood Hammer</li><li>Earthquake</li><li>Blizzard</li><li>Ice Shard</li></ul>
+![][461]<br>[Weavile]<br>Lv. 55   | ![][focus-sash]<br>Focus Sash       | Naughty | Technician [^1] | <ul><li>Crunch</li><li>Icicle Crash</li><li>Aerial Ace</li><li>Swords Dance</li></ul>
+![][471]<br>[Glaceon]<br>Lv. 55   | ![][bright-powder]<br>Bright Powder | Bold    | Snow Cloak      | <ul><li>Blizzard</li><li>Shadow Ball</li><li>Earth Power</li><li>Double Team</li></ul>
+![][365]<br>[Walrein]<br>Lv. 55   | ![][chople-berry]<br>Chople Berry   | Quiet   | Thick Fat       | <ul><li>Blizzard</li><li>Surf</li><li>Yawn</li><li>Aqua Ring</li></ul>
+![][473]<br>[Mamoswine]<br>Lv. 55 | ![][passho-berry]<br>Passho Berry   | Naive   | Thick Fat       | <ul><li>Earthquake</li><li>Avalanche</li><li>Stone Edge</li><li>Ice Shard</li></ul>
+![][478]<br>[Froslass]<br>Lv. 56  | ![][life-orb]<br>Life Orb           | Modest  | Levitate [^1]   | <ul><li>Blizzard</li><li>Shadow Ball</li><li>Thunderbolt</li><li>Attract</li></ul>
 
 --8<-- "includes/abilities.md"
 
@@ -29,24 +29,24 @@ Ace Trainer Sergio               | ![][220]<br>[Swinub]<br>Lv. 51    | ![][221]<
 
 [^1]: Only in Complete version
 [Leader Candice]: #leader-candice
-[Seel]: ../../pokemon_changes/086/
-[Dewgong]: ../../pokemon_changes/087/
-[Cloyster]: ../../pokemon_changes/091/
-[Jynx]: ../../pokemon_changes/124/
-[Lapras]: ../../pokemon_changes/131/
-[Swinub]: ../../pokemon_changes/220/
-[Piloswine]: ../../pokemon_changes/221/
-[Delibird]: ../../pokemon_changes/225/
-[Snorunt]: ../../pokemon_changes/361/
-[Glalie]: ../../pokemon_changes/362/
-[Spheal]: ../../pokemon_changes/363/
-[Sealeo]: ../../pokemon_changes/364/
-[Walrein]: ../../pokemon_changes/365/
-[Abomasnow]: ../../pokemon_changes/460/
-[Weavile]: ../../pokemon_changes/461/
-[Glaceon]: ../../pokemon_changes/471/
-[Mamoswine]: ../../pokemon_changes/473/
-[Froslass]: ../../pokemon_changes/478/
+[Seel]: ../../pokemons/086/
+[Dewgong]: ../../pokemons/087/
+[Cloyster]: ../../pokemons/091/
+[Jynx]: ../../pokemons/124/
+[Lapras]: ../../pokemons/131/
+[Swinub]: ../../pokemons/220/
+[Piloswine]: ../../pokemons/221/
+[Delibird]: ../../pokemons/225/
+[Snorunt]: ../../pokemons/361/
+[Glalie]: ../../pokemons/362/
+[Spheal]: ../../pokemons/363/
+[Sealeo]: ../../pokemons/364/
+[Walrein]: ../../pokemons/365/
+[Abomasnow]: ../../pokemons/460/
+[Weavile]: ../../pokemons/461/
+[Glaceon]: ../../pokemons/471/
+[Mamoswine]: ../../pokemons/473/
+[Froslass]: ../../pokemons/478/
 [bright-powder]: ../img/items/bright-powder.png
 [chople-berry]: ../img/items/chople-berry.png
 [expert-belt]: ../img/items/expert-belt.png

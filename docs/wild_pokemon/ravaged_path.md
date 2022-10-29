@@ -10,17 +10,17 @@ Area                                  | Pokémon                       | &nbsp; 
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>65% | ![][339]<br>[Barboach]<br>35% | &nbsp;                      | &nbsp;                       | &nbsp;                         | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>65% | ![][340]<br>[Whiscash]<br>35% | &nbsp;                      | &nbsp;                       | &nbsp;                         | &nbsp;
 
-[Sandshrew]: ../../pokemon_changes/027/
-[Zubat]: ../../pokemon_changes/041/
-[Psyduck]: ../../pokemon_changes/054/
-[Geodude]: ../../pokemon_changes/074/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Wooper]: ../../pokemon_changes/194/
-[Quagsire]: ../../pokemon_changes/195/
-[Makuhita]: ../../pokemon_changes/296/
-[Barboach]: ../../pokemon_changes/339/
-[Whiscash]: ../../pokemon_changes/340/
+[Sandshrew]: ../../pokemons/027/
+[Zubat]: ../../pokemons/041/
+[Psyduck]: ../../pokemons/054/
+[Geodude]: ../../pokemons/074/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Wooper]: ../../pokemons/194/
+[Quagsire]: ../../pokemons/195/
+[Makuhita]: ../../pokemons/296/
+[Barboach]: ../../pokemons/339/
+[Whiscash]: ../../pokemons/340/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png

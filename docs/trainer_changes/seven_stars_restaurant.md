@@ -21,24 +21,24 @@ Beauty Gabriella       | ![][457]<br>[Lumineon]<br>Lv. 37
 Scientist Emilio       | ![][065]<br>[Alakazam]<br>Lv. 37
 Pokémon Breeder Kaylee | ![][184]<br>[Azumarill]<br>Lv. 37
 
-[Vileplume]: ../../pokemon_changes/045/
-[Persian]: ../../pokemon_changes/053/
-[Golduck]: ../../pokemon_changes/055/
-[Arcanine]: ../../pokemon_changes/059/
-[Alakazam]: ../../pokemon_changes/065/
-[Magneton]: ../../pokemon_changes/082/
-[Rhydon]: ../../pokemon_changes/112/
-[Meganium]: ../../pokemon_changes/154/
-[Azumarill]: ../../pokemon_changes/184/
-[Quagsire]: ../../pokemon_changes/195/
-[Smeargle]: ../../pokemon_changes/235/
-[Blaziken]: ../../pokemon_changes/257/
-[Loudred]: ../../pokemon_changes/294/
-[Milotic]: ../../pokemon_changes/350/
-[Pachirisu]: ../../pokemon_changes/417/
-[Lopunny]: ../../pokemon_changes/428/
-[Chatot]: ../../pokemon_changes/441/
-[Lumineon]: ../../pokemon_changes/457/
+[Vileplume]: ../../pokemons/045/
+[Persian]: ../../pokemons/053/
+[Golduck]: ../../pokemons/055/
+[Arcanine]: ../../pokemons/059/
+[Alakazam]: ../../pokemons/065/
+[Magneton]: ../../pokemons/082/
+[Rhydon]: ../../pokemons/112/
+[Meganium]: ../../pokemons/154/
+[Azumarill]: ../../pokemons/184/
+[Quagsire]: ../../pokemons/195/
+[Smeargle]: ../../pokemons/235/
+[Blaziken]: ../../pokemons/257/
+[Loudred]: ../../pokemons/294/
+[Milotic]: ../../pokemons/350/
+[Pachirisu]: ../../pokemons/417/
+[Lopunny]: ../../pokemons/428/
+[Chatot]: ../../pokemons/441/
+[Lumineon]: ../../pokemons/457/
 [045]: ../img/pokemon/045.png
 [053]: ../img/pokemon/053.png
 [055]: ../img/pokemon/055.png

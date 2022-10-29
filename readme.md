@@ -28,7 +28,7 @@ This script fixes all the link locations in a range of files.
 Example to fix the links for all pokemon changes.
 If you have new links that need to be added add them to `links.txt`
 ```sh
-python fix_links.py /pokemon_changes/*.md
+python fix_links.py /pokemons/*.md
 ```
 
 ## PokeAPI related scripts

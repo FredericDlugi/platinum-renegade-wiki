@@ -6,12 +6,12 @@ Area                        | Pokémon                     | &nbsp;             
 🌞<br>Day<br>Lv. 15 - 18     | ![][092]<br>[Gastly]<br>40% | ![][019]<br>[Rattata]<br>30% | ![][355]<br>[Duskull]<br>10% | ![][353]<br>[Shuppet]<br>10% | ![][020]<br>[Raticate]<br>5% | ![][093]<br>[Haunter]<br>5%
 🌙<br>Night<br>Lv. 15 - 18   | ![][092]<br>[Gastly]<br>40% | ![][019]<br>[Rattata]<br>30% | ![][355]<br>[Duskull]<br>10% | ![][353]<br>[Shuppet]<br>10% | ![][020]<br>[Raticate]<br>5% | ![][093]<br>[Haunter]<br>5%
 
-[Rattata]: ../../pokemon_changes/019/
-[Raticate]: ../../pokemon_changes/020/
-[Gastly]: ../../pokemon_changes/092/
-[Haunter]: ../../pokemon_changes/093/
-[Shuppet]: ../../pokemon_changes/353/
-[Duskull]: ../../pokemon_changes/355/
+[Rattata]: ../../pokemons/019/
+[Raticate]: ../../pokemons/020/
+[Gastly]: ../../pokemons/092/
+[Haunter]: ../../pokemons/093/
+[Shuppet]: ../../pokemons/353/
+[Duskull]: ../../pokemons/355/
 [019]: ../img/pokemon/019.png
 [020]: ../img/pokemon/020.png
 [092]: ../img/pokemon/092.png

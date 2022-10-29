@@ -13,19 +13,19 @@ Area                                  | Pokémon                      | &nbsp;  
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][349]<br>[Feebas]<br>100% | &nbsp;                       | &nbsp;                        | &nbsp;                        | &nbsp;                        | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][349]<br>[Feebas]<br>100% | &nbsp;                       | &nbsp;                        | &nbsp;                        | &nbsp;                        | &nbsp;
 
-[Clefairy]: ../../pokemon_changes/035/
-[Zubat]: ../../pokemon_changes/041/
-[Geodude]: ../../pokemon_changes/074/
-[Seel]: ../../pokemon_changes/086/
-[Nosepass]: ../../pokemon_changes/299/
-[Lunatone]: ../../pokemon_changes/337/
-[Solrock]: ../../pokemon_changes/338/
-[Feebas]: ../../pokemon_changes/349/
-[Chimecho]: ../../pokemon_changes/358/
-[Spheal]: ../../pokemon_changes/363/
-[Sealeo]: ../../pokemon_changes/364/
-[Metang]: ../../pokemon_changes/375/
-[Bronzor]: ../../pokemon_changes/436/
+[Clefairy]: ../../pokemons/035/
+[Zubat]: ../../pokemons/041/
+[Geodude]: ../../pokemons/074/
+[Seel]: ../../pokemons/086/
+[Nosepass]: ../../pokemons/299/
+[Lunatone]: ../../pokemons/337/
+[Solrock]: ../../pokemons/338/
+[Feebas]: ../../pokemons/349/
+[Chimecho]: ../../pokemons/358/
+[Spheal]: ../../pokemons/363/
+[Sealeo]: ../../pokemons/364/
+[Metang]: ../../pokemons/375/
+[Bronzor]: ../../pokemons/436/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png

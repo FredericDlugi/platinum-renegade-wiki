@@ -27,25 +27,25 @@ Cyclist Kayla :material-numeric-5-circle-outline: | ![][101]<br>[Electrode]<br>L
 Cyclist Kayla :material-numeric-8-circle-outline: | ![][101]<br>[Electrode]<br>Lv. 59  | ![][082]<br>[Magneton]<br>Lv. 59  | ![][310]<br>[Manectric]<br>Lv. 59
 Cyclist Kayla :material-alpha-c-circle-outline:   | ![][101]<br>[Electrode]<br>Lv. 70  | ![][462]<br>[Magnezone]<br>Lv. 70 | ![][310]<br>[Manectric]<br>Lv. 70
 
-[Pidgeotto]: ../../pokemon_changes/017/
-[Pikachu]: ../../pokemon_changes/025/
-[Ponyta]: ../../pokemon_changes/077/
-[Magnemite]: ../../pokemon_changes/081/
-[Magneton]: ../../pokemon_changes/082/
-[Farfetch'd]: ../../pokemon_changes/083/
-[Doduo]: ../../pokemon_changes/084/
-[Voltorb]: ../../pokemon_changes/100/
-[Electrode]: ../../pokemon_changes/101/
-[Jolteon]: ../../pokemon_changes/135/
-[Pichu]: ../../pokemon_changes/172/
-[Flaaffy]: ../../pokemon_changes/180/
-[Taillow]: ../../pokemon_changes/276/
-[Wingull]: ../../pokemon_changes/278/
-[Electrike]: ../../pokemon_changes/309/
-[Manectric]: ../../pokemon_changes/310/
-[Torkoal]: ../../pokemon_changes/324/
-[Luxio]: ../../pokemon_changes/404/
-[Magnezone]: ../../pokemon_changes/462/
+[Pidgeotto]: ../../pokemons/017/
+[Pikachu]: ../../pokemons/025/
+[Ponyta]: ../../pokemons/077/
+[Magnemite]: ../../pokemons/081/
+[Magneton]: ../../pokemons/082/
+[Farfetch'd]: ../../pokemons/083/
+[Doduo]: ../../pokemons/084/
+[Voltorb]: ../../pokemons/100/
+[Electrode]: ../../pokemons/101/
+[Jolteon]: ../../pokemons/135/
+[Pichu]: ../../pokemons/172/
+[Flaaffy]: ../../pokemons/180/
+[Taillow]: ../../pokemons/276/
+[Wingull]: ../../pokemons/278/
+[Electrike]: ../../pokemons/309/
+[Manectric]: ../../pokemons/310/
+[Torkoal]: ../../pokemons/324/
+[Luxio]: ../../pokemons/404/
+[Magnezone]: ../../pokemons/462/
 [017]: ../img/pokemon/017.png
 [025]: ../img/pokemon/025.png
 [077]: ../img/pokemon/077.png

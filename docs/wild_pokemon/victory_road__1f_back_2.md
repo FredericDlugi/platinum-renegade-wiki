@@ -13,18 +13,18 @@ Area                                  | Pokémon                        | &nbsp;
 ![][good-rod]<br>Good Rod<br>Lv. 25   | ![][129]<br>[Magikarp]<br>100% | &nbsp;                        | &nbsp;                        | &nbsp;                       | &nbsp;                        | &nbsp;
 ![][super-rod]<br>Super Rod<br>Lv. 50 | ![][130]<br>[Gyarados]<br>100% | &nbsp;                        | &nbsp;                        | &nbsp;                       | &nbsp;                        | &nbsp;
 
-[Golbat]: ../../pokemon_changes/042/
-[Machoke]: ../../pokemon_changes/067/
-[Graveler]: ../../pokemon_changes/075/
-[Dewgong]: ../../pokemon_changes/087/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Lapras]: ../../pokemon_changes/131/
-[Azumarill]: ../../pokemon_changes/184/
-[Medicham]: ../../pokemon_changes/308/
-[Sealeo]: ../../pokemon_changes/364/
-[Floatzel]: ../../pokemon_changes/419/
-[Gabite]: ../../pokemon_changes/444/
+[Golbat]: ../../pokemons/042/
+[Machoke]: ../../pokemons/067/
+[Graveler]: ../../pokemons/075/
+[Dewgong]: ../../pokemons/087/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Lapras]: ../../pokemons/131/
+[Azumarill]: ../../pokemons/184/
+[Medicham]: ../../pokemons/308/
+[Sealeo]: ../../pokemons/364/
+[Floatzel]: ../../pokemons/419/
+[Gabite]: ../../pokemons/444/
 [good-rod]: ../img/items/good-rod.png
 [old-rod]: ../img/items/old-rod.png
 [super-rod]: ../img/items/super-rod.png

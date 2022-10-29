@@ -14,14 +14,14 @@ Area                                         | Pokémon                        |
 &nbsp;                                       | ![][225]<br>[Delibird]<br>10%  | &nbsp;                       | &nbsp;                       | &nbsp;                    | &nbsp;                         | &nbsp;
 ![][poke-radar]<br>Poké Radar<br>Lv. 44 - 48 | ![][478]<br>[Froslass]<br>22%  | &nbsp;                       | &nbsp;                       | &nbsp;                    | &nbsp;                         | &nbsp;
 
-[Jynx]: ../../pokemon_changes/124/
-[Sneasel]: ../../pokemon_changes/215/
-[Piloswine]: ../../pokemon_changes/221/
-[Delibird]: ../../pokemon_changes/225/
-[Snorunt]: ../../pokemon_changes/361/
-[Glalie]: ../../pokemon_changes/362/
-[Abomasnow]: ../../pokemon_changes/460/
-[Froslass]: ../../pokemon_changes/478/
+[Jynx]: ../../pokemons/124/
+[Sneasel]: ../../pokemons/215/
+[Piloswine]: ../../pokemons/221/
+[Delibird]: ../../pokemons/225/
+[Snorunt]: ../../pokemons/361/
+[Glalie]: ../../pokemons/362/
+[Abomasnow]: ../../pokemons/460/
+[Froslass]: ../../pokemons/478/
 [poke-radar]: ../img/items/poke-radar.png
 [124]: ../img/pokemon/124.png
 [215]: ../img/pokemon/215.png

@@ -10,5 +10,5 @@ Area                        | Pokémon
 🌞<br>Day<br>Lv. 20 - 30     | ![][201]<br>[Unown]<br>100%
 🌙<br>Night<br>Lv. 20 - 30   | ![][201]<br>[Unown]<br>100%
 
-[Unown]: ../../pokemon_changes/201/
+[Unown]: ../../pokemons/201/
 [201]: ../img/pokemon/201.png

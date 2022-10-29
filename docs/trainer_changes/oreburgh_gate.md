@@ -10,7 +10,7 @@ Veteran Grant   | ![][448]<br>[Lucario]<br>Lv. 45 | ![][076]<br>[Golem]<br>Lv. 4
 
 Hiker Dexter<br>![][hiker]       | Item | Nature | Ability      | Moves
 ---                              | ---  | ---    | ---          | ---
-![][195]<br>[Quagsire]<br>Lv. 85 | None | ?      | Water Absorb | Earthquake, Aqua Tail, Ice Punch, Recover
+![][195]<br>[Quagsire]<br>Lv. 85 | None | ?      | Water Absorb | <ul><li>Earthquake</li><li>Aqua Tail</li><li>Ice Punch</li><li>Recover</li></ul>
 
 --8<-- "includes/abilities.md"
 
@@ -18,14 +18,14 @@ Hiker Dexter<br>![][hiker]       | Item | Nature | Ability      | Moves
 
 --8<-- "includes/natures.md"
 
-[Diglett]: ../../pokemon_changes/050/
-[Golem]: ../../pokemon_changes/076/
-[Wooper]: ../../pokemon_changes/194/
-[Quagsire]: ../../pokemon_changes/195/
-[Seedot]: ../../pokemon_changes/273/
-[Whismur]: ../../pokemon_changes/293/
-[Staraptor]: ../../pokemon_changes/398/
-[Lucario]: ../../pokemon_changes/448/
+[Diglett]: ../../pokemons/050/
+[Golem]: ../../pokemons/076/
+[Wooper]: ../../pokemons/194/
+[Quagsire]: ../../pokemons/195/
+[Seedot]: ../../pokemons/273/
+[Whismur]: ../../pokemons/293/
+[Staraptor]: ../../pokemons/398/
+[Lucario]: ../../pokemons/448/
 [050]: ../img/pokemon/050.png
 [076]: ../img/pokemon/076.png
 [194]: ../img/pokemon/194.png

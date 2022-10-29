@@ -19,24 +19,24 @@ Area                                         | Pokémon                         
 ![][super-rod]<br>Super Rod<br>Lv. 50        | ![][130]<br>[Gyarados]<br>65%   | ![][119]<br>[Seaking]<br>35%   | &nbsp;                         | &nbsp;                          | &nbsp;                       | &nbsp;
 ![][honey]<br>Honey Tree<br>Lv. 25           | ![][420]<br>[Cherubi]<br>30%    | ![][285]<br>[Shroomish]<br>20% | ![][102]<br>[Exeggcute]<br>20% | ![][274]<br>[Nuzleaf]<br>20%    | ![][114]<br>[Tangela]<br>10% | &nbsp;
 
-[Gloom]: ../../pokemon_changes/044/
-[Weepinbell]: ../../pokemon_changes/070/
-[Farfetch'd]: ../../pokemon_changes/083/
-[Exeggcute]: ../../pokemon_changes/102/
-[Tangela]: ../../pokemon_changes/114/
-[Goldeen]: ../../pokemon_changes/118/
-[Seaking]: ../../pokemon_changes/119/
-[Magikarp]: ../../pokemon_changes/129/
-[Gyarados]: ../../pokemon_changes/130/
-[Marill]: ../../pokemon_changes/183/
-[Azumarill]: ../../pokemon_changes/184/
-[Smeargle]: ../../pokemon_changes/235/
-[Nuzleaf]: ../../pokemon_changes/274/
-[Kirlia]: ../../pokemon_changes/281/
-[Shroomish]: ../../pokemon_changes/285/
-[Roselia]: ../../pokemon_changes/315/
-[Staravia]: ../../pokemon_changes/397/
-[Cherubi]: ../../pokemon_changes/420/
+[Gloom]: ../../pokemons/044/
+[Weepinbell]: ../../pokemons/070/
+[Farfetch'd]: ../../pokemons/083/
+[Exeggcute]: ../../pokemons/102/
+[Tangela]: ../../pokemons/114/
+[Goldeen]: ../../pokemons/118/
+[Seaking]: ../../pokemons/119/
+[Magikarp]: ../../pokemons/129/
+[Gyarados]: ../../pokemons/130/
+[Marill]: ../../pokemons/183/
+[Azumarill]: ../../pokemons/184/
+[Smeargle]: ../../pokemons/235/
+[Nuzleaf]: ../../pokemons/274/
+[Kirlia]: ../../pokemons/281/
+[Shroomish]: ../../pokemons/285/
+[Roselia]: ../../pokemons/315/
+[Staravia]: ../../pokemons/397/
+[Cherubi]: ../../pokemons/420/
 [good-rod]: ../img/items/good-rod.png
 [honey]: ../img/items/honey.png
 [old-rod]: ../img/items/old-rod.png

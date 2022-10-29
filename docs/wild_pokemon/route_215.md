@@ -15,19 +15,19 @@ Area                                         | Pokémon                     | &n
 ![][poke-radar]<br>Poké Radar<br>Lv. 27 - 30 | ![][359]<br>[Absol]<br>22%  | &nbsp;                        | &nbsp;                         | &nbsp;                       | &nbsp;                         | &nbsp;
 ![][honey]<br>Honey Tree<br>Lv. 28           | ![][190]<br>[Aipom]<br>30%  | ![][288]<br>[Vigoroth]<br>20% | ![][011]<br>[Metapod]<br>20%   | ![][014]<br>[Kakuna]<br>20%  | ![][446]<br>[Munchlax]<br>10%  | &nbsp;
 
-[Metapod]: ../../pokemon_changes/011/
-[Kakuna]: ../../pokemon_changes/014/
-[Kadabra]: ../../pokemon_changes/064/
-[Drowzee]: ../../pokemon_changes/096/
-[Hypno]: ../../pokemon_changes/097/
-[Lickitung]: ../../pokemon_changes/108/
-[Marill]: ../../pokemon_changes/183/
-[Aipom]: ../../pokemon_changes/190/
-[Mightyena]: ../../pokemon_changes/262/
-[Linoone]: ../../pokemon_changes/264/
-[Vigoroth]: ../../pokemon_changes/288/
-[Absol]: ../../pokemon_changes/359/
-[Munchlax]: ../../pokemon_changes/446/
+[Metapod]: ../../pokemons/011/
+[Kakuna]: ../../pokemons/014/
+[Kadabra]: ../../pokemons/064/
+[Drowzee]: ../../pokemons/096/
+[Hypno]: ../../pokemons/097/
+[Lickitung]: ../../pokemons/108/
+[Marill]: ../../pokemons/183/
+[Aipom]: ../../pokemons/190/
+[Mightyena]: ../../pokemons/262/
+[Linoone]: ../../pokemons/264/
+[Vigoroth]: ../../pokemons/288/
+[Absol]: ../../pokemons/359/
+[Munchlax]: ../../pokemons/446/
 [honey]: ../img/items/honey.png
 [poke-radar]: ../img/items/poke-radar.png
 [011]: ../img/pokemon/011.png

@@ -12,12 +12,12 @@ Black Belt Rafael                | ![][107]<br>[Hitmonchan]<br>Lv. 35 | ![][106]
 
 ![][maylene]                      | Item                              | Nature  | Ability           | Moves
 ---                               | ---                               | ---     | ---               | ---
-![][308]<br>[Medicham]<br>Lv. 38  | ![][sitrus-berry]<br>Sitrus Berry | Naive   | Pure Power        | High Jump Kick, Zen Headbutt, Ice Punch, Fake Out
-![][068]<br>[Machamp]<br>Lv. 38   | ![][toxic-orb]<br>Toxic Orb       | Relaxed | Guts              | Close Combat, Payback, Thunder Punch, Protect
-![][392]<br>[Infernape]<br>Lv. 38 | ![][life-orb]<br>Life Orb         | Hasty   | Iron Fist         | Close Combat, Rock Slide, Fire Punch, Mach Punch
-![][454]<br>[Toxicroak]<br>Lv. 38 | ![][big-root]<br>Big Root         | Lonely  | Dry Skin          | Drain Punch, Poison Jab, Ice Punch, Sucker Punch
-![][475]<br>[Gallade]<br>Lv. 38   | ![][light-clay]<br>Light Clay     | Brave   | Steadfast         | Drain Punch, Zen Headbutt, Light Screen, Reflect
-![][448]<br>[Lucario]<br>Lv. 39   | ![][focus-sash]<br>Focus Sash     | Timid   | Adaptability [^1] | Aura Sphere, Flash Cannon, Dark Pulse, Agility
+![][308]<br>[Medicham]<br>Lv. 38  | ![][sitrus-berry]<br>Sitrus Berry | Naive   | Pure Power        | <ul><li>High Jump Kick</li><li>Zen Headbutt</li><li>Ice Punch</li><li>Fake Out</li></ul>
+![][068]<br>[Machamp]<br>Lv. 38   | ![][toxic-orb]<br>Toxic Orb       | Relaxed | Guts              | <ul><li>Close Combat</li><li>Payback</li><li>Thunder Punch</li><li>Protect</li></ul>
+![][392]<br>[Infernape]<br>Lv. 38 | ![][life-orb]<br>Life Orb         | Hasty   | Iron Fist         | <ul><li>Close Combat</li><li>Rock Slide</li><li>Fire Punch</li><li>Mach Punch</li></ul>
+![][454]<br>[Toxicroak]<br>Lv. 38 | ![][big-root]<br>Big Root         | Lonely  | Dry Skin          | <ul><li>Drain Punch</li><li>Poison Jab</li><li>Ice Punch</li><li>Sucker Punch</li></ul>
+![][475]<br>[Gallade]<br>Lv. 38   | ![][light-clay]<br>Light Clay     | Brave   | Steadfast         | <ul><li>Drain Punch</li><li>Zen Headbutt</li><li>Light Screen</li><li>Reflect</li></ul>
+![][448]<br>[Lucario]<br>Lv. 39   | ![][focus-sash]<br>Focus Sash     | Timid   | Adaptability [^1] | <ul><li>Aura Sphere</li><li>Flash Cannon</li><li>Dark Pulse</li><li>Agility</li></ul>
 
 --8<-- "includes/abilities.md"
 
@@ -27,25 +27,25 @@ Black Belt Rafael                | ![][107]<br>[Hitmonchan]<br>Lv. 35 | ![][106]
 
 [^1]: Only in Complete version
 [Leader Maylene]: #leader-maylene
-[Mankey]: ../../pokemon_changes/056/
-[Primeape]: ../../pokemon_changes/057/
-[Poliwrath]: ../../pokemon_changes/062/
-[Machop]: ../../pokemon_changes/066/
-[Machamp]: ../../pokemon_changes/068/
-[Hitmonlee]: ../../pokemon_changes/106/
-[Hitmonchan]: ../../pokemon_changes/107/
-[Heracross]: ../../pokemon_changes/214/
-[Hitmontop]: ../../pokemon_changes/237/
-[Breloom]: ../../pokemon_changes/286/
-[Makuhita]: ../../pokemon_changes/296/
-[Hariyama]: ../../pokemon_changes/297/
-[Meditite]: ../../pokemon_changes/307/
-[Medicham]: ../../pokemon_changes/308/
-[Infernape]: ../../pokemon_changes/392/
-[Lucario]: ../../pokemon_changes/448/
-[Croagunk]: ../../pokemon_changes/453/
-[Toxicroak]: ../../pokemon_changes/454/
-[Gallade]: ../../pokemon_changes/475/
+[Mankey]: ../../pokemons/056/
+[Primeape]: ../../pokemons/057/
+[Poliwrath]: ../../pokemons/062/
+[Machop]: ../../pokemons/066/
+[Machamp]: ../../pokemons/068/
+[Hitmonlee]: ../../pokemons/106/
+[Hitmonchan]: ../../pokemons/107/
+[Heracross]: ../../pokemons/214/
+[Hitmontop]: ../../pokemons/237/
+[Breloom]: ../../pokemons/286/
+[Makuhita]: ../../pokemons/296/
+[Hariyama]: ../../pokemons/297/
+[Meditite]: ../../pokemons/307/
+[Medicham]: ../../pokemons/308/
+[Infernape]: ../../pokemons/392/
+[Lucario]: ../../pokemons/448/
+[Croagunk]: ../../pokemons/453/
+[Toxicroak]: ../../pokemons/454/
+[Gallade]: ../../pokemons/475/
 [big-root]: ../img/items/big-root.png
 [focus-sash]: ../img/items/focus-sash.png
 [life-orb]: ../img/items/life-orb.png

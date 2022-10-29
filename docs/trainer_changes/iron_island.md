@@ -22,18 +22,18 @@ Galactic Grunt                     | ![][432]<br>[Purugly]<br>Lv. 46    | ![][45
 
 ![][riley]                        | Item                              | Nature | Ability      | Moves
 ---                               | ---                               | ---    | ---          | ---
-![][359]<br>[Absol]<br>Lv. 49     | ![][scope-lens]<br>Scope Lens     | ?      | Super Luck   | Night Slash, Psycho Cut, Megahorn, Play Rough
-![][217]<br>[Ursaring]<br>Lv. 49  | ![][flame-orb]<br>Flame Orb       | ?      | Guts         | Strength, Close Combat, Play Rough, Protect
-![][376]<br>[Metagross]<br>Lv. 49 | ![][liechi-berry]<br>Liechi Berry | ?      | Clear Body   | Meteor Mash, Earthquake, Zen Headbutt, Agility
-![][373]<br>[Salamence]<br>Lv. 49 | ![][power-herb]<br>Power Herb     | ?      | Intimidate   | Dragon Rush, Fly, Crunch, Dragon Dance
-![][289]<br>[Slaking]<br>Lv. 49   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Truant       | Body Slam, Hammer Arm, Play Rough, Slack Off
-![][448]<br>[Lucario]<br>Lv. 50   | ![][life-orb]<br>Life Orb         | ?      | Adaptability | High Jump Kick, Meteor Mash, Blaze Kick, Bullet Punch
+![][359]<br>[Absol]<br>Lv. 49     | ![][scope-lens]<br>Scope Lens     | ?      | Super Luck   | <ul><li>Night Slash</li><li>Psycho Cut</li><li>Megahorn</li><li>Play Rough</li></ul>
+![][217]<br>[Ursaring]<br>Lv. 49  | ![][flame-orb]<br>Flame Orb       | ?      | Guts         | <ul><li>Strength</li><li>Close Combat</li><li>Play Rough</li><li>Protect</li></ul>
+![][376]<br>[Metagross]<br>Lv. 49 | ![][liechi-berry]<br>Liechi Berry | ?      | Clear Body   | <ul><li>Meteor Mash</li><li>Earthquake</li><li>Zen Headbutt</li><li>Agility</li></ul>
+![][373]<br>[Salamence]<br>Lv. 49 | ![][power-herb]<br>Power Herb     | ?      | Intimidate   | <ul><li>Dragon Rush</li><li>Fly</li><li>Crunch</li><li>Dragon Dance</li></ul>
+![][289]<br>[Slaking]<br>Lv. 49   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Truant       | <ul><li>Body Slam</li><li>Hammer Arm</li><li>Play Rough</li><li>Slack Off</li></ul>
+![][448]<br>[Lucario]<br>Lv. 50   | ![][life-orb]<br>Life Orb         | ?      | Adaptability | <ul><li>High Jump Kick</li><li>Meteor Mash</li><li>Blaze Kick</li><li>Bullet Punch</li></ul>
 
 ## Master Trainer
 
 Scientist Julian<br>![][scientist] | Item | Nature | Ability | Moves
 ---                                | ---  | ---    | ---     | ---
-![][448]<br>[Lucario]<br>Lv. 85    | None | ?      | ?       | Close Combat, Blaze Kick, Earthquake, -
+![][448]<br>[Lucario]<br>Lv. 85    | None | ?      | ?       | <ul><li>Close Combat</li><li>Blaze Kick</li><li>Earthquake</li><li>-</li></ul>
 
 --8<-- "includes/abilities.md"
 
@@ -42,45 +42,45 @@ Scientist Julian<br>![][scientist] | Item | Nature | Ability | Moves
 --8<-- "includes/natures.md"
 
 [PKMN Trainer Riley]: #pkmn-trainer-riley
-[Charmeleon]: ../../pokemon_changes/005/
-[Fearow]: ../../pokemon_changes/022/
-[Raichu]: ../../pokemon_changes/026/
-[Golbat]: ../../pokemon_changes/042/
-[Primeape]: ../../pokemon_changes/057/
-[Poliwrath]: ../../pokemon_changes/062/
-[Machoke]: ../../pokemon_changes/067/
-[Graveler]: ../../pokemon_changes/075/
-[Golem]: ../../pokemon_changes/076/
-[Magneton]: ../../pokemon_changes/082/
-[Muk]: ../../pokemon_changes/089/
-[Rhydon]: ../../pokemon_changes/112/
-[Steelix]: ../../pokemon_changes/208/
-[Ursaring]: ../../pokemon_changes/217/
-[Houndoom]: ../../pokemon_changes/229/
-[Donphan]: ../../pokemon_changes/232/
-[Hitmontop]: ../../pokemon_changes/237/
-[Pupitar]: ../../pokemon_changes/247/
-[Grovyle]: ../../pokemon_changes/253/
-[Gardevoir]: ../../pokemon_changes/282/
-[Masquerain]: ../../pokemon_changes/284/
-[Slaking]: ../../pokemon_changes/289/
-[Hariyama]: ../../pokemon_changes/297/
-[Lairon]: ../../pokemon_changes/305/
-[Medicham]: ../../pokemon_changes/308/
-[Camerupt]: ../../pokemon_changes/323/
-[Cradily]: ../../pokemon_changes/346/
-[Absol]: ../../pokemon_changes/359/
-[Salamence]: ../../pokemon_changes/373/
-[Metagross]: ../../pokemon_changes/376/
-[Floatzel]: ../../pokemon_changes/419/
-[Ambipom]: ../../pokemon_changes/424/
-[Lopunny]: ../../pokemon_changes/428/
-[Purugly]: ../../pokemon_changes/432/
-[Skuntank]: ../../pokemon_changes/435/
-[Lucario]: ../../pokemon_changes/448/
-[Hippowdon]: ../../pokemon_changes/450/
-[Toxicroak]: ../../pokemon_changes/454/
-[Probopass]: ../../pokemon_changes/476/
+[Charmeleon]: ../../pokemons/005/
+[Fearow]: ../../pokemons/022/
+[Raichu]: ../../pokemons/026/
+[Golbat]: ../../pokemons/042/
+[Primeape]: ../../pokemons/057/
+[Poliwrath]: ../../pokemons/062/
+[Machoke]: ../../pokemons/067/
+[Graveler]: ../../pokemons/075/
+[Golem]: ../../pokemons/076/
+[Magneton]: ../../pokemons/082/
+[Muk]: ../../pokemons/089/
+[Rhydon]: ../../pokemons/112/
+[Steelix]: ../../pokemons/208/
+[Ursaring]: ../../pokemons/217/
+[Houndoom]: ../../pokemons/229/
+[Donphan]: ../../pokemons/232/
+[Hitmontop]: ../../pokemons/237/
+[Pupitar]: ../../pokemons/247/
+[Grovyle]: ../../pokemons/253/
+[Gardevoir]: ../../pokemons/282/
+[Masquerain]: ../../pokemons/284/
+[Slaking]: ../../pokemons/289/
+[Hariyama]: ../../pokemons/297/
+[Lairon]: ../../pokemons/305/
+[Medicham]: ../../pokemons/308/
+[Camerupt]: ../../pokemons/323/
+[Cradily]: ../../pokemons/346/
+[Absol]: ../../pokemons/359/
+[Salamence]: ../../pokemons/373/
+[Metagross]: ../../pokemons/376/
+[Floatzel]: ../../pokemons/419/
+[Ambipom]: ../../pokemons/424/
+[Lopunny]: ../../pokemons/428/
+[Purugly]: ../../pokemons/432/
+[Skuntank]: ../../pokemons/435/
+[Lucario]: ../../pokemons/448/
+[Hippowdon]: ../../pokemons/450/
+[Toxicroak]: ../../pokemons/454/
+[Probopass]: ../../pokemons/476/
 [flame-orb]: ../img/items/flame-orb.png
 [liechi-berry]: ../img/items/liechi-berry.png
 [life-orb]: ../img/items/life-orb.png

@@ -16,11 +16,11 @@ Galactic Grunt                | ![][030]<br>[Nidorina]<br>Lv. 49  | ![][042]<br>
 
 ![][mars]                          | Item                                | Nature | Ability     | Moves
 ---                                | ---                                 | ---    | ---         | ---
-![][169]<br>[Crobat]<br>Lv. 52     | ![][bright-powder]<br>Bright Powder | ?      | Inner Focus | Brave Bird, Hypnosis, Double Team, Giga Drain
-![][469]<br>[Yanmega]<br>Lv. 52    | ![][wise-glasses]<br>Wise Glasses   | ?      | Speed Boost | Bug Buzz, Air Slash, Psychic, Detect
-![][437]<br>[Bronzong]<br>Lv. 52   | ![][leftovers]<br>Leftovers         | ?      | Levitate    | Stealth Rock, Gyro Ball, Payback, Explosion
-![][115]<br>[Kangaskhan]<br>Lv. 52 | ![][muscle-band]<br>Muscle Band     | ?      | Scrappy     | Double-Edge, Hammer Arm, Crunch, Fake Out
-![][432]<br>[Purugly]<br>Lv. 53    | ![][sitrus-berry]<br>Sitrus Berry   | ?      | Thick Fat   | Body Slam, Play Rough, Hypnosis, Fake Out
+![][169]<br>[Crobat]<br>Lv. 52     | ![][bright-powder]<br>Bright Powder | ?      | Inner Focus | <ul><li>Brave Bird</li><li>Hypnosis</li><li>Double Team</li><li>Giga Drain</li></ul>
+![][469]<br>[Yanmega]<br>Lv. 52    | ![][wise-glasses]<br>Wise Glasses   | ?      | Speed Boost | <ul><li>Bug Buzz</li><li>Air Slash</li><li>Psychic</li><li>Detect</li></ul>
+![][437]<br>[Bronzong]<br>Lv. 52   | ![][leftovers]<br>Leftovers         | ?      | Levitate    | <ul><li>Stealth Rock</li><li>Gyro Ball</li><li>Payback</li><li>Explosion</li></ul>
+![][115]<br>[Kangaskhan]<br>Lv. 52 | ![][muscle-band]<br>Muscle Band     | ?      | Scrappy     | <ul><li>Double-Edge</li><li>Hammer Arm</li><li>Crunch</li><li>Fake Out</li></ul>
+![][432]<br>[Purugly]<br>Lv. 53    | ![][sitrus-berry]<br>Sitrus Berry   | ?      | Thick Fat   | <ul><li>Body Slam</li><li>Play Rough</li><li>Hypnosis</li><li>Fake Out</li></ul>
 
 --8<-- "includes/abilities.md"
 
@@ -29,20 +29,20 @@ Galactic Grunt                | ![][030]<br>[Nidorina]<br>Lv. 49  | ![][042]<br>
 --8<-- "includes/natures.md"
 
 [Commander Mars]: #commander-mars
-[Butterfree]: ../../pokemon_changes/012/
-[Beedrill]: ../../pokemon_changes/015/
-[Nidorina]: ../../pokemon_changes/030/
-[Nidorino]: ../../pokemon_changes/033/
-[Golbat]: ../../pokemon_changes/042/
-[Kangaskhan]: ../../pokemon_changes/115/
-[Crobat]: ../../pokemon_changes/169/
-[Beautifly]: ../../pokemon_changes/267/
-[Dustox]: ../../pokemon_changes/269/
-[Wormadam]: ../../pokemon_changes/413/
-[Mothim]: ../../pokemon_changes/414/
-[Purugly]: ../../pokemon_changes/432/
-[Bronzong]: ../../pokemon_changes/437/
-[Yanmega]: ../../pokemon_changes/469/
+[Butterfree]: ../../pokemons/012/
+[Beedrill]: ../../pokemons/015/
+[Nidorina]: ../../pokemons/030/
+[Nidorino]: ../../pokemons/033/
+[Golbat]: ../../pokemons/042/
+[Kangaskhan]: ../../pokemons/115/
+[Crobat]: ../../pokemons/169/
+[Beautifly]: ../../pokemons/267/
+[Dustox]: ../../pokemons/269/
+[Wormadam]: ../../pokemons/413/
+[Mothim]: ../../pokemons/414/
+[Purugly]: ../../pokemons/432/
+[Bronzong]: ../../pokemons/437/
+[Yanmega]: ../../pokemons/469/
 [bright-powder]: ../img/items/bright-powder.png
 [leftovers]: ../img/items/leftovers.png
 [muscle-band]: ../img/items/muscle-band.png

@@ -15,10 +15,10 @@ Galactic Grunt                | ![][014]<br>[Kakuna]<br>Lv. 14    | ![][204]<br>
 
 ![][mars]                       | Item                              | Nature | Ability     | Moves
 ---                             | ---                               | ---    | ---         | ---
-![][041]<br>[Zubat]<br>Lv. 18   | None                              | Naive  | Inner Focus | Poison Fang, Wing Attack, Toxic, Confuse Ray
-![][436]<br>[Bronzor]<br>Lv. 18 | ![][sitrus-berry]<br>Sitrus Berry | Brave  | Levitate    | Hypnosis, Extrasensory, Gyro Ball, Confuse Ray
-![][193]<br>[Yanma]<br>Lv. 18   | None                              | Timid  | Speed Boost | Silver Wind, Air Cutter, Detect, Sonic Boom
-![][432]<br>[Purugly]<br>Lv. 19 | ![][sitrus-berry]<br>Sitrus Berry | Jolly  | Thick Fat   | Fake Out, Hypnosis, Facade, Feint Attack
+![][041]<br>[Zubat]<br>Lv. 18   | None                              | Naive  | Inner Focus | <ul><li>Poison Fang</li><li>Wing Attack</li><li>Toxic</li><li>Confuse Ray</li></ul>
+![][436]<br>[Bronzor]<br>Lv. 18 | ![][sitrus-berry]<br>Sitrus Berry | Brave  | Levitate    | <ul><li>Hypnosis</li><li>Extrasensory</li><li>Gyro Ball</li><li>Confuse Ray</li></ul>
+![][193]<br>[Yanma]<br>Lv. 18   | None                              | Timid  | Speed Boost | <ul><li>Silver Wind</li><li>Air Cutter</li><li>Detect</li><li>Sonic Boom</li></ul>
+![][432]<br>[Purugly]<br>Lv. 19 | ![][sitrus-berry]<br>Sitrus Berry | Jolly  | Thick Fat   | <ul><li>Fake Out</li><li>Hypnosis</li><li>Facade</li><li>Feint Attack</li></ul>
 
 --8<-- "includes/abilities.md"
 
@@ -27,18 +27,18 @@ Galactic Grunt                | ![][014]<br>[Kakuna]<br>Lv. 14    | ![][204]<br>
 --8<-- "includes/natures.md"
 
 [Commander Mars]: #commander-mars
-[Metapod]: ../../pokemon_changes/011/
-[Kakuna]: ../../pokemon_changes/014/
-[Zubat]: ../../pokemon_changes/041/
-[Grimer]: ../../pokemon_changes/088/
-[Koffing]: ../../pokemon_changes/109/
-[Yanma]: ../../pokemon_changes/193/
-[Pineco]: ../../pokemon_changes/204/
-[Houndour]: ../../pokemon_changes/228/
-[Poochyena]: ../../pokemon_changes/261/
-[Gulpin]: ../../pokemon_changes/316/
-[Purugly]: ../../pokemon_changes/432/
-[Bronzor]: ../../pokemon_changes/436/
+[Metapod]: ../../pokemons/011/
+[Kakuna]: ../../pokemons/014/
+[Zubat]: ../../pokemons/041/
+[Grimer]: ../../pokemons/088/
+[Koffing]: ../../pokemons/109/
+[Yanma]: ../../pokemons/193/
+[Pineco]: ../../pokemons/204/
+[Houndour]: ../../pokemons/228/
+[Poochyena]: ../../pokemons/261/
+[Gulpin]: ../../pokemons/316/
+[Purugly]: ../../pokemons/432/
+[Bronzor]: ../../pokemons/436/
 [sitrus-berry]: ../img/items/sitrus-berry.png
 [011]: ../img/pokemon/011.png
 [014]: ../img/pokemon/014.png

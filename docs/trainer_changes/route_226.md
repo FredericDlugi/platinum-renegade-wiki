@@ -20,18 +20,18 @@ Swimmer Wade                        | ![][319]<br>[Sharpedo]<br>Lv. 74  | ![][34
 
 ![][ace_m_2]                      | Item                              | Nature | Ability            | Moves
 ---                               | ---                               | ---    | ---                | ---
-![][230]<br>[Kingdra]<br>Lv. 76   | ![][haban-berry]<br>Haban Berry   | ?      | Swift Swim         | Waterfall, Outrage, Yawn, Dragon Dance
-![][330]<br>[Flygon]<br>Lv. 76    | ![][white-herb]<br>White Herb     | ?      | Compound Eyes [^1] | Draco Meteor, Earth Power, Bug Buzz, Fire Blast
-![][334]<br>[Altaria]<br>Lv. 76   | ![][leftovers]<br>Leftovers       | ?      | Cloud Nine         | Dragon Claw, Toxic, Rest, Sleep Talk
-![][149]<br>[Dragonite]<br>Lv. 76 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Marvel Scale [^1]  | Outrage, Earthquake, Extreme Speed, Iron Tail
-![][445]<br>[Garchomp]<br>Lv. 76  | ![][choice-scarf]<br>Choice Scarf | ?      | Rough Skin         | Outrage, Earthquake, Poison Jab, Fire Fang
-![][373]<br>[Salamence]<br>Lv. 77 | ![][focus-sash]<br>Focus Sash     | ?      | Intimidate         | Outrage, Aerial Ace, Dragon Dance, Earthquake
+![][230]<br>[Kingdra]<br>Lv. 76   | ![][haban-berry]<br>Haban Berry   | ?      | Swift Swim         | <ul><li>Waterfall</li><li>Outrage</li><li>Yawn</li><li>Dragon Dance</li></ul>
+![][330]<br>[Flygon]<br>Lv. 76    | ![][white-herb]<br>White Herb     | ?      | Compound Eyes [^1] | <ul><li>Draco Meteor</li><li>Earth Power</li><li>Bug Buzz</li><li>Fire Blast</li></ul>
+![][334]<br>[Altaria]<br>Lv. 76   | ![][leftovers]<br>Leftovers       | ?      | Cloud Nine         | <ul><li>Dragon Claw</li><li>Toxic</li><li>Rest</li><li>Sleep Talk</li></ul>
+![][149]<br>[Dragonite]<br>Lv. 76 | ![][sitrus-berry]<br>Sitrus Berry | ?      | Marvel Scale [^1]  | <ul><li>Outrage</li><li>Earthquake</li><li>Extreme Speed</li><li>Iron Tail</li></ul>
+![][445]<br>[Garchomp]<br>Lv. 76  | ![][choice-scarf]<br>Choice Scarf | ?      | Rough Skin         | <ul><li>Outrage</li><li>Earthquake</li><li>Poison Jab</li><li>Fire Fang</li></ul>
+![][373]<br>[Salamence]<br>Lv. 77 | ![][focus-sash]<br>Focus Sash     | ?      | Intimidate         | <ul><li>Outrage</li><li>Aerial Ace</li><li>Dragon Dance</li><li>Earthquake</li></ul>
 
 ## Master Trainer
 
 Ace Trainer Edmund<br>![][ace_m] | Item | Nature | Ability | Moves
 ---                              | ---  | ---    | ---     | ---
-![][219]<br>[Magcargo]<br>Lv. 85 | None | ?      | ?       | Power Gem, Earth Power, Iron Defence, -
+![][219]<br>[Magcargo]<br>Lv. 85 | None | ?      | ?       | <ul><li>Power Gem</li><li>Earth Power</li><li>Iron Defence</li><li>-</li></ul>
 
 --8<-- "includes/abilities.md"
 
@@ -41,25 +41,25 @@ Ace Trainer Edmund<br>![][ace_m] | Item | Nature | Ability | Moves
 
 [^1]: Only in Complete version
 [Ace Trainer Wyver]: #ace-trainer-wyver
-[Fearow]: ../../pokemon_changes/022/
-[Dewgong]: ../../pokemon_changes/087/
-[Hitmonlee]: ../../pokemon_changes/106/
-[Hitmonchan]: ../../pokemon_changes/107/
-[Dragonite]: ../../pokemon_changes/149/
-[Xatu]: ../../pokemon_changes/178/
-[Azumarill]: ../../pokemon_changes/184/
-[Magcargo]: ../../pokemon_changes/219/
-[Kingdra]: ../../pokemon_changes/230/
-[Tyrogue]: ../../pokemon_changes/236/
-[Hitmontop]: ../../pokemon_changes/237/
-[Swellow]: ../../pokemon_changes/277/
-[Sharpedo]: ../../pokemon_changes/319/
-[Wailord]: ../../pokemon_changes/321/
-[Flygon]: ../../pokemon_changes/330/
-[Altaria]: ../../pokemon_changes/334/
-[Whiscash]: ../../pokemon_changes/340/
-[Salamence]: ../../pokemon_changes/373/
-[Garchomp]: ../../pokemon_changes/445/
+[Fearow]: ../../pokemons/022/
+[Dewgong]: ../../pokemons/087/
+[Hitmonlee]: ../../pokemons/106/
+[Hitmonchan]: ../../pokemons/107/
+[Dragonite]: ../../pokemons/149/
+[Xatu]: ../../pokemons/178/
+[Azumarill]: ../../pokemons/184/
+[Magcargo]: ../../pokemons/219/
+[Kingdra]: ../../pokemons/230/
+[Tyrogue]: ../../pokemons/236/
+[Hitmontop]: ../../pokemons/237/
+[Swellow]: ../../pokemons/277/
+[Sharpedo]: ../../pokemons/319/
+[Wailord]: ../../pokemons/321/
+[Flygon]: ../../pokemons/330/
+[Altaria]: ../../pokemons/334/
+[Whiscash]: ../../pokemons/340/
+[Salamence]: ../../pokemons/373/
+[Garchomp]: ../../pokemons/445/
 [choice-scarf]: ../img/items/choice-scarf.png
 [focus-sash]: ../img/items/focus-sash.png
 [haban-berry]: ../img/items/haban-berry.png

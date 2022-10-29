@@ -17,7 +17,7 @@ Belle & Pa Beth & Bob   | ![][077]<br>[Ponyta]<br>Lv. 33   | ![][180]<br>[Flaaff
 
 Psychic ???<br>![][psychic_m]  | Item | Nature | Ability | Moves
 ---                            | ---  | ---    | ---     | ---
-![][094]<br>[Gengar]<br>Lv. 85 | None | ?      | ?       | Shadow Ball, Hypnosis, Luster Purge, -
+![][094]<br>[Gengar]<br>Lv. 85 | None | ?      | ?       | <ul><li>Shadow Ball</li><li>Hypnosis</li><li>Luster Purge</li><li>-</li></ul>
 
 --8<-- "includes/abilities.md"
 
@@ -25,22 +25,22 @@ Psychic ???<br>![][psychic_m]  | Item | Nature | Ability | Moves
 
 --8<-- "includes/natures.md"
 
-[Clefairy]: ../../pokemon_changes/035/
-[Ponyta]: ../../pokemon_changes/077/
-[Gengar]: ../../pokemon_changes/094/
-[Cleffa]: ../../pokemon_changes/173/
-[Flaaffy]: ../../pokemon_changes/180/
-[Murkrow]: ../../pokemon_changes/198/
-[Misdreavus]: ../../pokemon_changes/200/
-[Skitty]: ../../pokemon_changes/300/
-[Plusle]: ../../pokemon_changes/311/
-[Minun]: ../../pokemon_changes/312/
-[Wailmer]: ../../pokemon_changes/320/
-[Barboach]: ../../pokemon_changes/339/
-[Mothim]: ../../pokemon_changes/414/
-[Pachirisu]: ../../pokemon_changes/417/
-[Shellos]: ../../pokemon_changes/422/
-[Bonsly]: ../../pokemon_changes/438/
+[Clefairy]: ../../pokemons/035/
+[Ponyta]: ../../pokemons/077/
+[Gengar]: ../../pokemons/094/
+[Cleffa]: ../../pokemons/173/
+[Flaaffy]: ../../pokemons/180/
+[Murkrow]: ../../pokemons/198/
+[Misdreavus]: ../../pokemons/200/
+[Skitty]: ../../pokemons/300/
+[Plusle]: ../../pokemons/311/
+[Minun]: ../../pokemons/312/
+[Wailmer]: ../../pokemons/320/
+[Barboach]: ../../pokemons/339/
+[Mothim]: ../../pokemons/414/
+[Pachirisu]: ../../pokemons/417/
+[Shellos]: ../../pokemons/422/
+[Bonsly]: ../../pokemons/438/
 [035]: ../img/pokemon/035.png
 [077]: ../img/pokemon/077.png
 [094]: ../img/pokemon/094.png

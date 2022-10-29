@@ -10,12 +10,12 @@ Reporter Helen                       | ![][252]<br>[Treecko]<br>Lv. 10  | ![][25
 
 ![][steven]                        | Item                              | Nature | Ability      | Moves
 ---                                | ---                               | ---    | ---          | ---
-![][227]<br>[Skarmory]<br>Lv. 88   | ![][occa-berry]<br>Occa Berry     | ?      | Keen Eye     | Brave Bird, Iron Head, Drill Run, Stealth Rock
-![][306]<br>[Aggron]<br>Lv. 88     | ![][focus-sash]<br>Focus Sash     | ?      | Rock Head    | Head Smash, Aqua Tail, Iron Tail, Thunder Wave
-![][142]<br>[Aerodactyl]<br>Lv. 88 | ![][muscle-band]<br>Muscle Band   | ?      | Rock Head    | Brave Bird, Stone Edge, Crunch, Fire Fang
-![][346]<br>[Cradily]<br>Lv. 88    | ![][leftovers]<br>Leftovers       | ?      | Suction Cups | Power Whip, Rock Slide, Toxic, Recover
-![][348]<br>[Armaldo]<br>Lv. 88    | ![][passho-berry]<br>Passho Berry | ?      | Battle Armor | Stone Edge, X-Scissor, Swords Dance, Aqua Jet
-![][376]<br>[Metagross]<br>Lv. 89  | ![][life-orb]<br>Life Orb         | ?      | Iron Fist    | Meteor Mash, Zen Headbutt, Earthquake, Ice Punch
+![][227]<br>[Skarmory]<br>Lv. 88   | ![][occa-berry]<br>Occa Berry     | ?      | Keen Eye     | <ul><li>Brave Bird</li><li>Iron Head</li><li>Drill Run</li><li>Stealth Rock</li></ul>
+![][306]<br>[Aggron]<br>Lv. 88     | ![][focus-sash]<br>Focus Sash     | ?      | Rock Head    | <ul><li>Head Smash</li><li>Aqua Tail</li><li>Iron Tail</li><li>Thunder Wave</li></ul>
+![][142]<br>[Aerodactyl]<br>Lv. 88 | ![][muscle-band]<br>Muscle Band   | ?      | Rock Head    | <ul><li>Brave Bird</li><li>Stone Edge</li><li>Crunch</li><li>Fire Fang</li></ul>
+![][346]<br>[Cradily]<br>Lv. 88    | ![][leftovers]<br>Leftovers       | ?      | Suction Cups | <ul><li>Power Whip</li><li>Rock Slide</li><li>Toxic</li><li>Recover</li></ul>
+![][348]<br>[Armaldo]<br>Lv. 88    | ![][passho-berry]<br>Passho Berry | ?      | Battle Armor | <ul><li>Stone Edge</li><li>X-Scissor</li><li>Swords Dance</li><li>Aqua Jet</li></ul>
+![][376]<br>[Metagross]<br>Lv. 89  | ![][life-orb]<br>Life Orb         | ?      | Iron Fist    | <ul><li>Meteor Mash</li><li>Zen Headbutt</li><li>Earthquake</li><li>Ice Punch</li></ul>
 
 --8<-- "includes/abilities.md"
 
@@ -24,15 +24,15 @@ Reporter Helen                       | ![][252]<br>[Treecko]<br>Lv. 10  | ![][25
 --8<-- "includes/natures.md"
 
 [PKMN Trainer Steven]: #pkmn-trainer-steven
-[Aerodactyl]: ../../pokemon_changes/142/
-[Skarmory]: ../../pokemon_changes/227/
-[Treecko]: ../../pokemon_changes/252/
-[Torchic]: ../../pokemon_changes/255/
-[Mudkip]: ../../pokemon_changes/258/
-[Aggron]: ../../pokemon_changes/306/
-[Cradily]: ../../pokemon_changes/346/
-[Armaldo]: ../../pokemon_changes/348/
-[Metagross]: ../../pokemon_changes/376/
+[Aerodactyl]: ../../pokemons/142/
+[Skarmory]: ../../pokemons/227/
+[Treecko]: ../../pokemons/252/
+[Torchic]: ../../pokemons/255/
+[Mudkip]: ../../pokemons/258/
+[Aggron]: ../../pokemons/306/
+[Cradily]: ../../pokemons/346/
+[Armaldo]: ../../pokemons/348/
+[Metagross]: ../../pokemons/376/
 [focus-sash]: ../img/items/focus-sash.png
 [leftovers]: ../img/items/leftovers.png
 [life-orb]: ../img/items/life-orb.png
